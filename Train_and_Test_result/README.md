@@ -42,3 +42,9 @@ To transfer 9-state from PDBTM to 2-state TM topology label, run the below comma
    ../util/pdbtm2binary.py 'input_pdbtm' > 'output_topology'
 ```
 
+Type the below command to evaluate the performance of the 4 methods:
+```
+   ./evaluate_total
+```
+
+
