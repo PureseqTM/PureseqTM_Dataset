@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region O15498 1 198
+O15498	UniProtKB	Chain	1	195	.	.	.	ID=PRO_0000280709;Note=Synaptobrevin homolog YKT6	
+O15498	UniProtKB	Propeptide	196	198	.	.	.	ID=PRO_0000396661;Note=Removed in mature form;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15498	UniProtKB	Domain	8	126	.	.	.	Note=Longin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00231	
+O15498	UniProtKB	Domain	138	198	.	.	.	Note=v-SNARE coiled-coil homology;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00290	
+O15498	UniProtKB	Modified residue	159	159	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O15498	UniProtKB	Modified residue	195	195	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15498	UniProtKB	Lipidation	194	194	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15479160;Dbxref=PMID:15479160	
+O15498	UniProtKB	Lipidation	195	195	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15044687;Dbxref=PMID:15044687	
+O15498	UniProtKB	Alternative sequence	154	187	.	.	.	ID=VSP_056071;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15498	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Increases palmitoylation. Targeted to Golgi membranes. Targeted to Golgi and cytosol%3B when associated with S-194. Targeted to cytosol%3B when associated with S-195. F->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15044687,ECO:0000269|PubMed:15479160;Dbxref=PMID:15044687,PMID:15479160	
+O15498	UniProtKB	Mutagenesis	194	194	.	.	.	Note=Decreases palmitoylation by 55%25. Prevents palmitoylation%3B when associated with S-195. Targeted to Golgi and cytosol%3B when associated with E-42. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15044687,ECO:0000269|PubMed:15479160;Dbxref=PMID:15044687,PMID:15479160	
+O15498	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Prevents farnesylation. Targeted to cytosol%3B when associated with E-42. Decreases palmitoylation by 13%25. Prevents palmitoylation%3B when associated with S-194. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15044687,ECO:0000269|PubMed:15479160;Dbxref=PMID:15044687,PMID:15479160	
+O15498	UniProtKB	Sequence conflict	63	63	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15498	UniProtKB	Sequence conflict	138	138	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15498	UniProtKB	Sequence conflict	198	198	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

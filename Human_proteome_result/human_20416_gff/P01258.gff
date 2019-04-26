@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P01258 1 141
+P01258	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01258	UniProtKB	Propeptide	26	82	.	.	.	ID=PRO_0000004050	
+P01258	UniProtKB	Peptide	85	116	.	.	.	ID=PRO_0000004051;Note=Calcitonin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:5760861;Dbxref=PMID:5760861	
+P01258	UniProtKB	Peptide	121	141	.	.	.	ID=PRO_0000004052;Note=Katacalcin	
+P01258	UniProtKB	Modified residue	43	43	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01257	
+P01258	UniProtKB	Modified residue	116	116	.	.	.	Note=Proline amide;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:5760861;Dbxref=PMID:5760861	
+P01258	UniProtKB	Disulfide bond	85	91	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:5760861;Dbxref=PMID:5760861	
+P01258	UniProtKB	Alternative sequence	134	141	.	.	.	ID=VSP_000709;Note=In isoform 2. VSMPQNAN->NHCPEESL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1761559;Dbxref=PMID:1761559	
+P01258	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_025271;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs34587547	
+P01258	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_014592;Note=D->N;Dbxref=dbSNP:rs5239	
+P01258	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_025272;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs34164367	
+P01258	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_014593;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs5241	
+P01258	UniProtKB	Natural variant	123	123	.	.	.	ID=VAR_025273;Note=S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs34414857	
+P01258	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_025274;Note=Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs13306224	
+P01258	UniProtKB	Sequence conflict	92	92	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01258	UniProtKB	Helix	88	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JXZ	
+P01258	UniProtKB	Helix	109	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JXZ	

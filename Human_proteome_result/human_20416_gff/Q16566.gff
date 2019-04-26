@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q16566 1 473
+Q16566	UniProtKB	Chain	1	473	.	.	.	ID=PRO_0000086106;Note=Calcium/calmodulin-dependent protein kinase type IV	
+Q16566	UniProtKB	Domain	46	300	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q16566	UniProtKB	Nucleotide binding	52	60	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q16566	UniProtKB	Region	305	321	.	.	.	Note=Autoinhibitory domain	
+Q16566	UniProtKB	Region	306	323	.	.	.	Note=PP2A-binding	
+Q16566	UniProtKB	Region	322	341	.	.	.	Note=Calmodulin-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16566	UniProtKB	Active site	164	164	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q16566	UniProtKB	Binding site	75	75	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q16566	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8702940;Dbxref=PMID:8702940	
+Q16566	UniProtKB	Modified residue	13	13	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8702940;Dbxref=PMID:8702940	
+Q16566	UniProtKB	Modified residue	200	200	.	.	.	Note=Phosphothreonine%3B by CaMKK1 and CaMKK2;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15143065,ECO:0000269|PubMed:19506079,ECO:0000269|PubMed:8702940;Dbxref=PMID:15143065,PMID:19506079,PMID:8702940	
+Q16566	UniProtKB	Modified residue	336	336	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P13234	
+Q16566	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P13234	
+Q16566	UniProtKB	Modified residue	360	360	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q16566	UniProtKB	Glycosylation	57	57	.	.	.	Note=O-linked (GlcNAc) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Glycosylation	58	58	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Glycosylation	137	137	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Glycosylation	189	189	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Glycosylation	344	344	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Glycosylation	345	345	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Glycosylation	356	356	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_040604;Note=In a lung adenocarcinoma sample%3B somatic mutation. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+Q16566	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_040605;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35548075,PMID:17344846	
+Q16566	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_040606;Note=Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56360861,PMID:17344846	
+Q16566	UniProtKB	Natural variant	469	469	.	.	.	ID=VAR_040607;Note=In a lung large cell carcinoma sample%3B somatic mutation. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs1239950009,PMID:17344846	
+Q16566	UniProtKB	Mutagenesis	12	12	.	.	.	Note=Loss of activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8702940;Dbxref=PMID:8702940	
+Q16566	UniProtKB	Mutagenesis	13	13	.	.	.	Note=Loss of activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8702940;Dbxref=PMID:8702940	
+Q16566	UniProtKB	Mutagenesis	57	58	.	.	.	Note=Loss of phosphorylation of CREB1. TS->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Mutagenesis	75	75	.	.	.	Note=Loss of activity%3B dominant negative form. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10617605;Dbxref=PMID:10617605	
+Q16566	UniProtKB	Mutagenesis	189	189	.	.	.	Note=Increases phosphorylation of CREB1 2-fold. Decreases total O-linked glycosylation 2-fold. Increases ATP-binding affinity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506079;Dbxref=PMID:19506079	
+Q16566	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Loss of activation by CaMKK1 or CaMKK2. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8855261;Dbxref=PMID:8855261	
+Q16566	UniProtKB	Mutagenesis	309	312	.	.	.	Note=Fully active Ca2+/CaM-independent kinase%3B when associated with 320-A-A-321. HMDT->DEDD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7961813;Dbxref=PMID:7961813	
+Q16566	UniProtKB	Mutagenesis	320	321	.	.	.	Note=Fully active Ca2+/CaM-independent kinase%3B when associated with 309-A--A-312. Loss of interaction with PPP2CA/PPP2CB. FN->DD;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15143065,ECO:0000269|PubMed:7961813;Dbxref=PMID:15143065,PMID:7961813	
+Q16566	UniProtKB	Beta strand	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	46	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	56	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Turn	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	71	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	91	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	104	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	111	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	126	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	138	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	170	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Beta strand	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	210	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	221	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	247	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Turn	263	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	271	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	285	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	291	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Turn	298	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	
+Q16566	UniProtKB	Helix	311	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W4O	

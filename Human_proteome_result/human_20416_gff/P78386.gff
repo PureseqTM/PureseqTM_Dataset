@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region P78386 1 507
+P78386	UniProtKB	Chain	1	507	.	.	.	ID=PRO_0000063702;Note=Keratin%2C type II cuticular Hb5	
+P78386	UniProtKB	Domain	123	434	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+P78386	UniProtKB	Region	1	123	.	.	.	Note=Head	
+P78386	UniProtKB	Region	124	158	.	.	.	Note=Coil 1A	
+P78386	UniProtKB	Region	159	168	.	.	.	Note=Linker 1	
+P78386	UniProtKB	Region	169	269	.	.	.	Note=Coil 1B	
+P78386	UniProtKB	Region	270	286	.	.	.	Note=Linker 12	
+P78386	UniProtKB	Region	287	430	.	.	.	Note=Coil 2	
+P78386	UniProtKB	Region	431	507	.	.	.	Note=Tail	
+P78386	UniProtKB	Cross-link	229	229	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+P78386	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_029657;Note=In ECTD4. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16525032;Dbxref=dbSNP:rs61630004,PMID:16525032	
+P78386	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_049804;Note=W->L;Dbxref=dbSNP:rs2852471	
+P78386	UniProtKB	Sequence conflict	155	155	.	.	.	Note=W->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

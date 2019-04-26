@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q9BY43 1 222
+Q9BY43	UniProtKB	Chain	1	222	.	.	.	ID=PRO_0000211488;Note=Charged multivesicular body protein 4a	
+Q9BY43	UniProtKB	Region	1	150	.	.	.	Note=Intramolecular interaction with C-terminus;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY43	UniProtKB	Region	1	116	.	.	.	Note=Interaction with phosphoinosides	
+Q9BY43	UniProtKB	Region	151	222	.	.	.	Note=Intramolecular interaction with N-terminus;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY43	UniProtKB	Coiled coil	20	105	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY43	UniProtKB	Coiled coil	155	180	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY43	UniProtKB	Modified residue	196	196	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9BY43	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_056264;Note=In isoform 2. M->MSRRRPEDGLGKAGPCVMRHHPPRSKAEVWRTLRGGGGRGELAM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9BY43	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_023384;Note=G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14583093,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2295322,PMID:14583093,PMID:15489334	
+Q9BY43	UniProtKB	Mutagenesis	182	222	.	.	.	Note=Membrane association%3B releases autoinhibition. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17547705;Dbxref=PMID:17547705	
+Q9BY43	UniProtKB	Mutagenesis	209	209	.	.	.	Note=Reduces interaction with PDCD6IP. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18511562;Dbxref=PMID:18511562	
+Q9BY43	UniProtKB	Mutagenesis	214	214	.	.	.	Note=Abolishes interaction with PDCD6IP. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18511562;Dbxref=PMID:18511562	
+Q9BY43	UniProtKB	Mutagenesis	217	217	.	.	.	Note=Abolishes interaction with PDCD6IP. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18511562;Dbxref=PMID:18511562	
+Q9BY43	UniProtKB	Mutagenesis	220	220	.	.	.	Note=Abolishes interaction with PDCD6IP. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18511562;Dbxref=PMID:18511562	
+Q9BY43	UniProtKB	Sequence conflict	16	16	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY43	UniProtKB	Sequence conflict	66	66	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY43	UniProtKB	Sequence conflict	152	153	.	.	.	Note=FG->LLE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY43	UniProtKB	Helix	212	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3C3O	

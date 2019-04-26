@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region Q9Y2G2 1 431
+Q9Y2G2	UniProtKB	Chain	1	431	.	.	.	ID=PRO_0000144080;Note=Caspase recruitment domain-containing protein 8	
+Q9Y2G2	UniProtKB	Domain	56	340	.	.	.	Note=FIIND;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01174	
+Q9Y2G2	UniProtKB	Domain	340	430	.	.	.	Note=CARD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00046	
+Q9Y2G2	UniProtKB	Site	190	191	.	.	.	Note=Cleavage%3B by autolysis;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01174,ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Alternative sequence	1	25	.	.	.	ID=VSP_012770;Note=In isoform 3 and isoform 5. MMRQRQSHYCSVLFLSVNYLGGTFP->MEKKECPEKSSSSEEELPRRDSGSSRNIDASKLIRLQGSRKLLVDNSIRELQYTKTGIFFQAEACVTNDTVYRELPCVSETLCDISHFFQEDDETEAEPLLFRAVPECQLSGGDIPSVSEEQESSEGQDS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:18212821;Dbxref=PMID:14702039,PMID:15489334,PMID:18212821	
+Q9Y2G2	UniProtKB	Alternative sequence	1	25	.	.	.	ID=VSP_045253;Note=In isoform 4. MMRQRQSHYCSVLFLSVNYLGGTFP->MEKKECPEKSSSSEEELPRRVYRELPCVSETLCDISHFFQEDDETEAEPLLFRAVPECQLSGGDIPSVSEEQESSEGQDS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y2G2	UniProtKB	Alternative sequence	152	152	.	.	.	ID=VSP_012771;Note=In isoform 3%2C isoform 4 and isoform 5. Q->QA;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:18212821;Dbxref=PMID:14702039,PMID:15489334,PMID:18212821	
+Q9Y2G2	UniProtKB	Alternative sequence	282	286	.	.	.	ID=VSP_000782;Note=In isoform 2 and isoform 3. ELKLS->WISSL;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.7;Dbxref=PMID:14702039,PMID:15489334	
+Q9Y2G2	UniProtKB	Alternative sequence	287	431	.	.	.	ID=VSP_000783;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.7;Dbxref=PMID:14702039,PMID:15489334	
+Q9Y2G2	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_048606;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs11881179,PMID:14702039	
+Q9Y2G2	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_061079;Note=E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs59878320,PMID:14702039	
+Q9Y2G2	UniProtKB	Mutagenesis	135	135	.	.	.	Note=No effect on autocatalytic cleavage. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	137	137	.	.	.	Note=No effect on autocatalytic cleavage. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	147	147	.	.	.	Note=Severe loss of autocatalytic cleavage. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	164	164	.	.	.	Note=Severe loss of autocatalytic cleavage. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	173	173	.	.	.	Note=Partial loss of autocatalytic cleavage. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	174	174	.	.	.	Note=No effect on autocatalytic cleavage. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	189	189	.	.	.	Note=Partial loss of autocatalytic cleavage. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	189	189	.	.	.	Note=No effect on autocatalytic cleavage. S->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	190	190	.	.	.	Note=Severe loss of autocatalytic cleavage. F->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	191	191	.	.	.	Note=Complete loss of autocatalytic cleavage. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	227	227	.	.	.	Note=No effect on autocatalytic cleavage. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22087307;Dbxref=PMID:22087307	
+Q9Y2G2	UniProtKB	Mutagenesis	366	366	.	.	.	Note=Inhibits homodimer formation. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12067710;Dbxref=PMID:12067710	
+Q9Y2G2	UniProtKB	Sequence conflict	60	60	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G2	UniProtKB	Sequence conflict	148	148	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G2	UniProtKB	Sequence conflict	219	219	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G2	UniProtKB	Sequence conflict	326	326	.	.	.	Note=V->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G2	UniProtKB	Sequence conflict	417	417	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G2	UniProtKB	Sequence conflict	422	422	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G2	UniProtKB	Helix	345	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	352	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	363	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	377	385	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Beta strand	386	388	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	389	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	405	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	420	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	
+Q9Y2G2	UniProtKB	Helix	427	431	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IKM	

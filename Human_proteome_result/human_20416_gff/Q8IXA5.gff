@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q8IXA5 1 215
+Q8IXA5	UniProtKB	Chain	1	215	.	.	.	ID=PRO_0000256219;Note=Sperm acrosome membrane-associated protein 3%2C membrane form	
+Q8IXA5	UniProtKB	Chain	88	215	.	.	.	ID=PRO_0000256220;Note=Sperm acrosome membrane-associated protein 3%2C processed form	
+Q8IXA5	UniProtKB	Topological domain	1	63	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXA5	UniProtKB	Transmembrane	64	84	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXA5	UniProtKB	Topological domain	85	215	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXA5	UniProtKB	Site	87	88	.	.	.	Note=Cleavage%3B to produce processed form;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXA5	UniProtKB	Disulfide bond	93	213	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00680	
+Q8IXA5	UniProtKB	Disulfide bond	117	201	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00680	
+Q8IXA5	UniProtKB	Disulfide bond	151	166	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00680	
+Q8IXA5	UniProtKB	Disulfide bond	162	180	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00680	
+Q8IXA5	UniProtKB	Alternative sequence	1	69	.	.	.	ID=VSP_021329;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12975309;Dbxref=PMID:12975309	
+Q8IXA5	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_028885;Note=C->Y;Dbxref=dbSNP:rs16967845	
+Q8IXA5	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_028886;Note=H->R;Dbxref=dbSNP:rs28963	
+Q8IXA5	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_050008;Note=A->T;Dbxref=dbSNP:rs35420663	

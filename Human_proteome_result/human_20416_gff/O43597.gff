@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region O43597 1 315
+O43597	UniProtKB	Chain	1	315	.	.	.	ID=PRO_0000076901;Note=Protein sprouty homolog 2	
+O43597	UniProtKB	Domain	177	291	.	.	.	Note=SPR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00572	
+O43597	UniProtKB	Compositional bias	125	131	.	.	.	Note=Poly-Ser	
+O43597	UniProtKB	Compositional bias	178	301	.	.	.	Note=Cys-rich	
+O43597	UniProtKB	Site	144	145	.	.	.	Note=Cleavage%3B by FAP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21288888;Dbxref=PMID:21288888	
+O43597	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_024647;Note=P->S;Dbxref=dbSNP:rs504122	
+O43597	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_076288;Note=In IGAN3%3B no effect on protein expression%3B negatively regulates ERK1 and ERK2 cascade. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25782674;Dbxref=dbSNP:rs869025336,PMID:25782674	
+O43597	UniProtKB	Mutagenesis	144	144	.	.	.	Note=Inhibits cleavage by the prolyl endopeptidase FAP. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21288888;Dbxref=PMID:21288888	
+O43597	UniProtKB	Sequence conflict	48	48	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43597	UniProtKB	Turn	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HKY	

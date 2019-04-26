@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q08289 1 660
+Q08289	UniProtKB	Chain	1	660	.	.	.	ID=PRO_0000144051;Note=Voltage-dependent L-type calcium channel subunit beta-2	
+Q08289	UniProtKB	Domain	114	183	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q08289	UniProtKB	Site	549	549	.	.	.	Note=Required for CaMK2D-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08289	UniProtKB	Modified residue	204	204	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VGC3	
+Q08289	UniProtKB	Modified residue	207	207	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CC27	
+Q08289	UniProtKB	Modified residue	218	218	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CC27	
+Q08289	UniProtKB	Modified residue	550	550	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CC27	
+Q08289	UniProtKB	Modified residue	554	554	.	.	.	Note=Phosphothreonine%3B by CaMK2D;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VGC3	
+Q08289	UniProtKB	Alternative sequence	1	71	.	.	.	ID=VSP_000627;Note=In isoform 2a and isoform 2f. MVQRDMSKSPPTAAAAVAQEIQMELLENVAPAGALGAAAQSYGKGARRKNRFKGSDGSTSSDTTSNSFVRQ->MQCCGLVHRRRVRVSY;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12042350,ECO:0000303|PubMed:8494331,ECO:0000303|PubMed:9254841,ECO:0000303|Ref.5,ECO:0000303|Ref.7;Dbxref=PMID:12042350,PMID:8494331,PMID:9254841	
+Q08289	UniProtKB	Alternative sequence	1	71	.	.	.	ID=VSP_000628;Note=In isoform 2b and isoform 2cN4. MVQRDMSKSPPTAAAAVAQEIQMELLENVAPAGALGAAAQSYGKGARRKNRFKGSDGSTSSDTTSNSFVRQ->MLDRRLIAPQTKYIIPG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12042350,ECO:0000303|PubMed:14762176;Dbxref=PMID:12042350,PMID:14762176	
+Q08289	UniProtKB	Alternative sequence	1	71	.	.	.	ID=VSP_000629;Note=In isoform 2e. MVQRDMSKSPPTAAAAVAQEIQMELLENVAPAGALGAAAQSYGKGARRKNRFKGSDGSTSSDTTSNSFVRQ->MKATWIRLLKRAKGGRLKNSDIC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12042350;Dbxref=PMID:12042350	
+Q08289	UniProtKB	Alternative sequence	1	40	.	.	.	ID=VSP_000626;Note=In isoform 2c and isoform 2cN2. MVQRDMSKSPPTAAAAVAQEIQMELLENVAPAGALGAAAQ->MNQGSGLDLLKI;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12042350,ECO:0000303|PubMed:14762176;Dbxref=PMID:12042350,PMID:14762176	
+Q08289	UniProtKB	Alternative sequence	224	268	.	.	.	ID=VSP_000630;Note=In isoform 2f and isoform 2g. AIDIDATGLDAEENDIPANHRSPKPSANSVTSPHSKEKRMPFFKK->AKQKQKS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8494331,ECO:0000303|Ref.7;Dbxref=PMID:8494331	
+Q08289	UniProtKB	Alternative sequence	224	268	.	.	.	ID=VSP_000631;Note=In isoform 2h%2C isoform 2cN2 and isoform 2cN4. AIDIDATGLDAEENDIPANHRSPKPSANSVTSPHSKEKRMPFFKK->GAKSADEQDQWKTAGLFWRFT;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14762176,ECO:0000303|PubMed:8494331;Dbxref=PMID:14762176,PMID:8494331	
+Q08289	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_036350;Note=In a colorectal cancer sample%3B somatic mutation. A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs745502425,PMID:16959974	
+Q08289	UniProtKB	Natural variant	535	535	.	.	.	ID=VAR_044041;Note=In BRGDA4%3B unknown pathological significance%3B affects channel activity. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224476;Dbxref=dbSNP:rs121917812,PMID:17224476	
+Q08289	UniProtKB	Sequence conflict	56	56	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	69	69	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	100	101	.	.	.	Note=ER->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	122	122	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	364	364	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	364	364	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	406	406	.	.	.	Note=R->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	406	406	.	.	.	Note=R->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	501	501	.	.	.	Note=D->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	501	501	.	.	.	Note=D->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	524	524	.	.	.	Note=P->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	524	524	.	.	.	Note=P->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	624	624	.	.	.	Note=Q->QQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	624	624	.	.	.	Note=Q->QQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08289	UniProtKB	Sequence conflict	659	659	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

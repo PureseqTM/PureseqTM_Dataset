@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region O14511 1 850
+O14511	UniProtKB	Propeptide	1	111	.	.	.	ID=PRO_0000019472;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O14511	UniProtKB	Chain	112	850	.	.	.	ID=PRO_0000019473;Note=Pro-neuregulin-2%2C membrane-bound isoform	
+O14511	UniProtKB	Chain	112	404	.	.	.	ID=PRO_0000019474;Note=Neuregulin-2	
+O14511	UniProtKB	Topological domain	112	405	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Transmembrane	406	426	.	.	.	Note=Helical%3B Note%3DInternal signal sequence;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Topological domain	427	850	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Domain	237	332	.	.	.	Note=Ig-like C2-type	
+O14511	UniProtKB	Domain	341	382	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+O14511	UniProtKB	Compositional bias	10	13	.	.	.	Note=Poly-Pro	
+O14511	UniProtKB	Compositional bias	20	30	.	.	.	Note=Poly-Ser	
+O14511	UniProtKB	Compositional bias	33	47	.	.	.	Note=Poly-Ser	
+O14511	UniProtKB	Compositional bias	87	90	.	.	.	Note=Poly-Ala	
+O14511	UniProtKB	Compositional bias	330	340	.	.	.	Note=Ser/Thr-rich	
+O14511	UniProtKB	Compositional bias	721	727	.	.	.	Note=Poly-Pro	
+O14511	UniProtKB	Glycosylation	52	52	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Glycosylation	53	53	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Glycosylation	147	147	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Glycosylation	278	278	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Glycosylation	346	346	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14511	UniProtKB	Disulfide bond	257	311	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O14511	UniProtKB	Disulfide bond	345	359	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O14511	UniProtKB	Disulfide bond	353	370	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O14511	UniProtKB	Disulfide bond	372	381	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O14511	UniProtKB	Alternative sequence	1	241	.	.	.	ID=VSP_003452;Note=In isoform DON-1B. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9199335;Dbxref=PMID:9199335	
+O14511	UniProtKB	Alternative sequence	1	233	.	.	.	ID=VSP_003451;Note=In isoform DON-1R. MRQVCCSALPPPPLEKGRCSSYSDSSSSSSERSSSSSSSSSESGSSSRSSSNNSSISRPAAPPEPRPQQQPQPRSPAARRAAARSRAAAAGGMRRDPAPGFSMLLFGVSLACYSPSLKSVQDQAYKAPVVVEGKVQGLVPAGGSSSNSTREPPASGRVALVKVLDKWPLRSGGLQREQVISVGSCVPLERNQRYIFFLEPTEQPLVFKTAFAPLDTNGKNLKKEVGKILCTDC->MSESRRRGRGRGKKHPEGRKREREPDPGEK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9199335;Dbxref=PMID:9199335	
+O14511	UniProtKB	Alternative sequence	374	397	.	.	.	ID=VSP_003454;Note=In isoform 4. NGFFGQRCLEKLPLRLYMPDPKQK->VGYTGDRCQQFAMVNFSKHLGFELKE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14511	UniProtKB	Alternative sequence	374	396	.	.	.	ID=VSP_003453;Note=In isoform 2. NGFFGQRCLEKLPLRLYMPDPKQ->VGYTGDRCQQFAMVNFS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14511	UniProtKB	Alternative sequence	397	426	.	.	.	ID=VSP_003458;Note=In isoform 5. KAEELYQKRVLTITGICVALLVVGIVCVVA->SVLWDTPGTGVSSSQWSTSPKPRSCTRRGS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14511	UniProtKB	Alternative sequence	397	422	.	.	.	ID=VSP_003456;Note=In isoform 6. KAEELYQKRVLTITGICVALLVVGIV->SVLWDTPGTGVSSSQWSTSPSTLDLN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14511	UniProtKB	Alternative sequence	397	397	.	.	.	ID=VSP_003455;Note=In isoform 3 and isoform DON-1B. K->KHLGFELKE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9199335;Dbxref=PMID:9199335	
+O14511	UniProtKB	Alternative sequence	423	850	.	.	.	ID=VSP_003457;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14511	UniProtKB	Alternative sequence	427	850	.	.	.	ID=VSP_003459;Note=In isoform 5. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	

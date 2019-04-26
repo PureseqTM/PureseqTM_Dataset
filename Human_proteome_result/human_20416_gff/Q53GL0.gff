@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q53GL0 1 409
+Q53GL0	UniProtKB	Chain	1	409	.	.	.	ID=PRO_0000310423;Note=Pleckstrin homology domain-containing family O member 1	
+Q53GL0	UniProtKB	Domain	21	132	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q53GL0	UniProtKB	Region	133	193	.	.	.	Note=Interaction with capping proteins (CPs)	
+Q53GL0	UniProtKB	Region	136	308	.	.	.	Note=Interaction with ATM%2C CKIP%2C IFP35 and NMI;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16325375,ECO:0000269|PubMed:17197158;Dbxref=PMID:16325375,PMID:17197158	
+Q53GL0	UniProtKB	Region	308	409	.	.	.	Note=Negative regulator of AP-1 activity	
+Q53GL0	UniProtKB	Binding site	155	155	.	.	.	Note=Capping protein	
+Q53GL0	UniProtKB	Binding site	157	157	.	.	.	Note=Capping protein	
+Q53GL0	UniProtKB	Site	310	311	.	.	.	Note=Cleavage%3B by caspase-3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q53GL0	UniProtKB	Site	345	346	.	.	.	Note=Cleavage%3B by caspase-3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q53GL0	UniProtKB	Modified residue	227	227	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JIY0	
+Q53GL0	UniProtKB	Modified residue	271	271	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JIY0	
+Q53GL0	UniProtKB	Modified residue	342	342	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5BJM5	
+Q53GL0	UniProtKB	Alternative sequence	142	175	.	.	.	ID=VSP_029282;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL0	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_037034;Note=P->A;Dbxref=dbSNP:rs2306235	
+Q53GL0	UniProtKB	Mutagenesis	42	42	.	.	.	Note=No effect on subcellular localization. No effect on subcellular localization%3B when associated with C-44. Disruption of membrane localization%2C loss of phospholipid binding and impaired interaction with CK2%3B when associated with W-123. Disruption of membrane localization%2C loss of phospholipid binding and impaired interaction with CK2%3B when associated with C-44 and W-123. K->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15254037;Dbxref=PMID:15254037	
+Q53GL0	UniProtKB	Mutagenesis	44	44	.	.	.	Note=No effect on subcellular localization. No effect on subcellular localization%3B when associated with C-42. Disruption of membrane localization%2C loss of phospholipid binding and impaired interaction with CK2%3B when associated with W-123. Disruption of membrane localization%2C loss of phospholipid binding and impaired interaction with CK2%3B when associated with C-42 and W-123. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15254037;Dbxref=PMID:15254037	
+Q53GL0	UniProtKB	Mutagenesis	123	123	.	.	.	Note=Disruption of membrane localization and impaired interaction with CK2. Loss of phospholipid binding%3B when associated with C-42. Loss of phospholipid binding%3B when associated with C-44. Disruption of membrane localization%2C loss of phospholipid binding and impaired interaction with CK2%3B when associated with C-42 and C-44. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15254037;Dbxref=PMID:15254037	
+Q53GL0	UniProtKB	Mutagenesis	133	133	.	.	.	Note=No effect on binding to capping proteins and loss of phospholipid binding%3B when associated with A-135 and A-137. R->A	
+Q53GL0	UniProtKB	Mutagenesis	133	133	.	.	.	Note=No effect on binding to capping proteins%3B when associated with E-135. R->E	
+Q53GL0	UniProtKB	Mutagenesis	135	135	.	.	.	Note=No effect on binding to capping proteins%3B when associated with A-133 and A-137. K->A	
+Q53GL0	UniProtKB	Mutagenesis	135	135	.	.	.	Note=No effect on binding to capping proteins%3B when associated with E-133. K->E	
+Q53GL0	UniProtKB	Mutagenesis	137	137	.	.	.	Note=No effect on binding to capping proteins%3B when associated with A-133 and A-135. R->A	
+Q53GL0	UniProtKB	Mutagenesis	155	155	.	.	.	Note=No change in cell morphology and actin cytoskeleton. Great loss of binding to capping proteins%3B when associated with A-157. Great loss of binding to capping proteins%3B when associated with A-157 and A-159. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16987810;Dbxref=PMID:16987810	
+Q53GL0	UniProtKB	Mutagenesis	155	155	.	.	.	Note=No change in cell morphology and actin cytoskeleton. Great loss of binding to capping proteins and no change in cell morphology and actin cytoskeleton%3B when associated with E-157. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16987810;Dbxref=PMID:16987810	
+Q53GL0	UniProtKB	Mutagenesis	157	157	.	.	.	Note=No change in cell morphology and actin cytoskeleton. Great loss of binding to capping proteins%3B when associated with A-155. Great loss of binding to capping proteins%3B when associated with A-155 and A-159. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16987810;Dbxref=PMID:16987810	
+Q53GL0	UniProtKB	Mutagenesis	157	157	.	.	.	Note=No change in cell morphology and actin cytoskeleton. Great loss of binding to capping proteins and no change in cell morphology and actin cytoskeleton%3B when associated with E-155. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16987810;Dbxref=PMID:16987810	
+Q53GL0	UniProtKB	Mutagenesis	159	159	.	.	.	Note=Great loss of binding to capping proteins%3B when associated with A-155 and A-157. K->A	
+Q53GL0	UniProtKB	Sequence conflict	1	10	.	.	.	Note=MMKKNNSAKR->VRRCCRGWRSPVFTNPHVSPLSTAPAHWAPGRPAAGSLGLRVSPEPPPERGSLPPGERSPAASKPPSSPS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL0	UniProtKB	Sequence conflict	285	285	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL0	UniProtKB	Helix	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AA1	

@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region P28749 1 1068
+P28749	UniProtKB	Chain	1	1068	.	.	.	ID=PRO_0000167839;Note=Retinoblastoma-like protein 1	
+P28749	UniProtKB	Region	385	949	.	.	.	Note=Pocket%3B binds T and E1A	
+P28749	UniProtKB	Region	385	584	.	.	.	Note=Domain A	
+P28749	UniProtKB	Region	585	780	.	.	.	Note=Spacer	
+P28749	UniProtKB	Region	781	949	.	.	.	Note=Domain B	
+P28749	UniProtKB	Modified residue	332	332	.	.	.	Note=Phosphothreonine%3B by CDK2;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11884610;Dbxref=PMID:23186163,PMID:11884610	
+P28749	UniProtKB	Modified residue	369	369	.	.	.	Note=Phosphothreonine%3B by CDK4;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11884610,ECO:0000269|PubMed:12006580;Dbxref=PMID:23186163,PMID:11884610,PMID:12006580	
+P28749	UniProtKB	Modified residue	385	385	.	.	.	Note=Phosphothreonine%3B by CDK2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11884610;Dbxref=PMID:19690332,PMID:23186163,PMID:11884610	
+P28749	UniProtKB	Modified residue	640	640	.	.	.	Note=Phosphoserine%3B by CDK2 and CDK4;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11884610;Dbxref=PMID:23186163,PMID:11884610	
+P28749	UniProtKB	Modified residue	650	650	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12006580;Dbxref=PMID:12006580	
+P28749	UniProtKB	Modified residue	749	749	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+P28749	UniProtKB	Modified residue	762	762	.	.	.	Note=Phosphoserine%3B by CDK2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11884610;Dbxref=PMID:19690332,PMID:23186163,PMID:11884610	
+P28749	UniProtKB	Modified residue	964	964	.	.	.	Note=Phosphoserine%3B by CDK2 and CDK4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Modified residue	975	975	.	.	.	Note=Phosphoserine%3B by CDK2 and CDK4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Modified residue	988	988	.	.	.	Note=Phosphoserine%3B by CDK2;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11884610;Dbxref=PMID:23186163,PMID:11884610	
+P28749	UniProtKB	Modified residue	997	997	.	.	.	Note=Phosphothreonine%3B by CDK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Modified residue	1009	1009	.	.	.	Note=Phosphoserine%3B by CDK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Modified residue	1041	1041	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P28749	UniProtKB	Alternative sequence	1013	1068	.	.	.	ID=VSP_017496;Note=In isoform 2. SLKDINNMIRQGEQRTKKRVIAIDSDAESPAKRVCQENDDVLLKRLQDVVSERANH->VR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P28749	UniProtKB	Natural variant	1035	1035	.	.	.	ID=VAR_034443;Note=I->M;Dbxref=dbSNP:rs8114297	
+P28749	UniProtKB	Mutagenesis	640	640	.	.	.	Note=Strongly reduces phosphorylation by CDK2 and CDK4. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Mutagenesis	643	643	.	.	.	Note=No effect on S-640 phosphorylation%2C but strongly increases S-640 phosphorylation%3B when associated with 657-A--A-660. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Mutagenesis	650	650	.	.	.	Note=No effect on phosphorylation by CDK2. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Mutagenesis	657	660	.	.	.	Note=Reduces S-640 phosphorylation by CDK2 and CDK4. KRRL->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11884610;Dbxref=PMID:11884610	
+P28749	UniProtKB	Sequence conflict	326	326	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28749	UniProtKB	Sequence conflict	928	928	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28749	UniProtKB	Sequence conflict	928	928	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28749	UniProtKB	Helix	392	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Turn	401	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	410	417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Beta strand	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	424	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Beta strand	447	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	454	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	480	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	489	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	495	512	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	521	525	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	530	533	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	535	543	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	549	564	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	566	568	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	573	580	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Turn	581	583	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	588	591	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	785	809	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	814	830	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	832	835	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	840	854	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Beta strand	855	857	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOS	
+P28749	UniProtKB	Helix	861	868	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	877	880	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Beta strand	881	883	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	930	936	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Helix	938	946	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YOZ	
+P28749	UniProtKB	Beta strand	1001	1005	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TUV	
+P28749	UniProtKB	Turn	1006	1008	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TUV	
+P28749	UniProtKB	Helix	1011	1023	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TUV	

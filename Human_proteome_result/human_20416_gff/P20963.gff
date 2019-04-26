@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region P20963 1 164
+P20963	UniProtKB	Signal peptide	1	21	.	.	.	.	
+P20963	UniProtKB	Chain	22	164	.	.	.	ID=PRO_0000016493;Note=T-cell surface glycoprotein CD3 zeta chain	
+P20963	UniProtKB	Topological domain	22	30	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20963	UniProtKB	Transmembrane	31	51	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20963	UniProtKB	Topological domain	52	164	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20963	UniProtKB	Domain	61	89	.	.	.	Note=ITAM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+P20963	UniProtKB	Domain	100	128	.	.	.	Note=ITAM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+P20963	UniProtKB	Domain	131	159	.	.	.	Note=ITAM 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+P20963	UniProtKB	Modified residue	58	58	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15144186;Dbxref=PMID:15144186	
+P20963	UniProtKB	Modified residue	64	64	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:15144186,ECO:0000244|PubMed:15592455,ECO:0000244|PubMed:19690332;Dbxref=PMID:15144186,PMID:15592455,PMID:19690332	
+P20963	UniProtKB	Modified residue	72	72	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:15144186,ECO:0000244|PubMed:15592455,ECO:0000244|PubMed:19690332;Dbxref=PMID:15144186,PMID:15592455,PMID:19690332	
+P20963	UniProtKB	Modified residue	83	83	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:12522270;Dbxref=PMID:12522270	
+P20963	UniProtKB	Modified residue	111	111	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:12522270,ECO:0000244|PubMed:15144186,ECO:0000244|PubMed:15592455,ECO:0000244|PubMed:19690332;Dbxref=PMID:12522270,PMID:15144186,PMID:15592455,PMID:19690332	
+P20963	UniProtKB	Modified residue	123	123	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P20963	UniProtKB	Modified residue	142	142	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:12522270,ECO:0000244|PubMed:15144186,ECO:0000244|PubMed:15592455,ECO:0000244|PubMed:19690332;Dbxref=PMID:12522270,PMID:15144186,PMID:15592455,PMID:19690332	
+P20963	UniProtKB	Modified residue	153	153	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P20963	UniProtKB	Alternative sequence	101	101	.	.	.	ID=VSP_036459;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:2974162;Dbxref=PMID:14702039,PMID:2974162	
+P20963	UniProtKB	Sequence conflict	60	61	.	.	.	Note=DA->EP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20963	UniProtKB	Helix	31	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HAC	
+P20963	UniProtKB	Helix	64	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IK5	
+P20963	UniProtKB	Turn	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IK5	
+P20963	UniProtKB	Helix	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OQ1	

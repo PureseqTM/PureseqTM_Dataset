@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q9BY79 1 579
+Q9BY79	UniProtKB	Chain	1	579	.	.	.	ID=PRO_0000228132;Note=Membrane frizzled-related protein	
+Q9BY79	UniProtKB	Topological domain	1	69	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY79	UniProtKB	Transmembrane	70	90	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY79	UniProtKB	Topological domain	91	579	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY79	UniProtKB	Domain	144	253	.	.	.	Note=CUB 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00059	
+Q9BY79	UniProtKB	Domain	259	295	.	.	.	Note=LDL-receptor class A 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+Q9BY79	UniProtKB	Domain	301	414	.	.	.	Note=CUB 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00059	
+Q9BY79	UniProtKB	Domain	420	455	.	.	.	Note=LDL-receptor class A 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+Q9BY79	UniProtKB	Domain	461	579	.	.	.	Note=FZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+Q9BY79	UniProtKB	Compositional bias	111	121	.	.	.	Note=Poly-Thr	
+Q9BY79	UniProtKB	Glycosylation	227	227	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY79	UniProtKB	Glycosylation	415	415	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BY79	UniProtKB	Disulfide bond	144	170	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	197	216	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	260	272	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	267	285	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	279	294	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	301	327	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	354	377	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	421	433	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	428	446	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	440	454	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	466	528	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	474	521	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	512	549	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	538	576	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Disulfide bond	542	564	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BY79	UniProtKB	Alternative sequence	301	387	.	.	.	ID=VSP_055928;Note=In isoform 2. CGGNLTGLQGTFSTPSYLQQYPHQLLCTWHISVPAGHSIELQFHNFSLEAQDECKFDYVEVYETSSSGAFSLLGRFCGAEPPPHLVS->SVEQSHPPTSSPRTMSWLCCLGQIMASAVEASQPPTWPSMPRRTPVGPVSSPARQEGVRVCSGCVTCGETAPMAAMTTAAAPCSHPQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BY79	UniProtKB	Alternative sequence	388	505	.	.	.	ID=VSP_055929;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BY79	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_025691;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16352475;Dbxref=dbSNP:rs139436396,PMID:16352475	
+Q9BY79	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_025692;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16352475;Dbxref=dbSNP:rs4639950,PMID:16352475	
+Q9BY79	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_025693;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16123440,ECO:0000269|PubMed:16352475;Dbxref=dbSNP:rs3814762,PMID:16123440,PMID:16352475	
+Q9BY79	UniProtKB	Natural variant	182	182	.	.	.	ID=VAR_025694;Note=In NNO2. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15976030;Dbxref=dbSNP:rs121908190,PMID:15976030	
+Q9BY79	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_075401;Note=Found in a patient with high hyperopia%3B unknown pathological significance. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26583794;Dbxref=dbSNP:rs767183449,PMID:26583794	
+Q9BY79	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_071160;Note=Requires 2 nucleotide substitutions. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4	
+Q9BY79	UniProtKB	Natural variant	449	449	.	.	.	ID=VAR_025695;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16352475;Dbxref=dbSNP:rs139725672,PMID:16352475	
+Q9BY79	UniProtKB	Natural variant	514	514	.	.	.	ID=VAR_025696;Note=Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16352475;Dbxref=dbSNP:rs368172459,PMID:16352475	
+Q9BY79	UniProtKB	Natural variant	517	517	.	.	.	ID=VAR_075402;Note=Found in a patient with high hyperopia%3B unknown pathological significance. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26583794;Dbxref=dbSNP:rs730882144,PMID:26583794	
+Q9BY79	UniProtKB	Natural variant	539	539	.	.	.	ID=VAR_075403;Note=Found in a patient with high hyperopia%3B unknown pathological significance. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26583794;Dbxref=dbSNP:rs374823079,PMID:26583794	
+Q9BY79	UniProtKB	Sequence conflict	40	40	.	.	.	Note=P->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY79	UniProtKB	Sequence conflict	83	83	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY79	UniProtKB	Sequence conflict	393	393	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region P23771 1 443
+P23771	UniProtKB	Chain	1	443	.	.	.	ID=PRO_0000083408;Note=Trans-acting T-cell-specific transcription factor GATA-3	
+P23771	UniProtKB	Zinc finger	263	287	.	.	.	Note=GATA-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00094	
+P23771	UniProtKB	Zinc finger	317	341	.	.	.	Note=GATA-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00094	
+P23771	UniProtKB	Region	1	258	.	.	.	Note=Interaction with TBX21;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23772	
+P23771	UniProtKB	Region	288	316	.	.	.	Note=Flexible linker	
+P23771	UniProtKB	Motif	344	353	.	.	.	Note=YxKxHxxxRP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23771	UniProtKB	Compositional bias	137	142	.	.	.	Note=Poly-Ser	
+P23771	UniProtKB	Compositional bias	322	326	.	.	.	Note=Poly-Thr	
+P23771	UniProtKB	Modified residue	115	115	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P23771	UniProtKB	Modified residue	162	162	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P23771	UniProtKB	Alternative sequence	259	259	.	.	.	ID=VSP_001598;Note=In isoform 2. T->TE;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1871134,ECO:0000303|PubMed:2017177;Dbxref=PMID:15489334,PMID:1871134,PMID:2017177	
+P23771	UniProtKB	Natural variant	242	242	.	.	.	ID=VAR_019202;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs11567901	
+P23771	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_017818;Note=In HDR. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11389161;Dbxref=dbSNP:rs104894163,PMID:11389161	
+P23771	UniProtKB	Natural variant	298	298	.	.	.	ID=VAR_075427;Note=In HDR%3B loss of enhancer activity on PTH gene promoter and on GATA responsive element. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26514990;Dbxref=PMID:26514990	
+P23771	UniProtKB	Natural variant	366	366	.	.	.	ID=VAR_033025;Note=In a breast cancer sample%3B somatic mutation. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224074;Dbxref=PMID:17224074	
+P23771	UniProtKB	Sequence conflict	11	11	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	102	102	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	173	173	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	219	219	.	.	.	Note=I->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	225	226	.	.	.	Note=YV->TC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	285	286	.	.	.	Note=NA->RR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	425	425	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Sequence conflict	441	441	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23771	UniProtKB	Turn	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HC9	
+P23771	UniProtKB	Helix	285	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HC9	
+P23771	UniProtKB	Beta strand	307	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HC7	
+P23771	UniProtKB	Turn	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HC9	
+P23771	UniProtKB	Helix	339	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HC9	
+P23771	UniProtKB	Helix	354	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HC9	

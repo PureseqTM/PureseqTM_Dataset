@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region P16104 1 143
+P16104	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Chain	2	143	.	.	.	ID=PRO_0000055242;Note=Histone H2AX	
+P16104	UniProtKB	Motif	140	141	.	.	.	Note=[ST]-Q motif	
+P16104	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Modified residue	6	6	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Modified residue	10	10	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Modified residue	37	37	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Modified residue	122	122	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Modified residue	140	140	.	.	.	Note=Phosphoserine%3B by ATM%2C ATR and PRKDC;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:10477747,ECO:0000269|PubMed:10734083,ECO:0000269|PubMed:10959836,ECO:0000269|PubMed:11673449,ECO:0000269|PubMed:12419185,ECO:0000269|PubMed:12607005,ECO:0000269|PubMed:12660252,ECO:0000269|PubMed:12697768,ECO:0000269|PubMed:14627815,ECO:0000269|PubMed:15059890,ECO:0000269|PubMed:15489221,ECO:0000269|PubMed:15613478,ECO:0000269|PubMed:22154951,ECO:0000269|PubMed:9488723;Dbxref=PMID:17525332,PMID:20068231,PMID:21406692,PMID:10477747,PMID:10734083,PMID:10959836,PMID:11673449,PMID:12419185,PMID:12607005,PMID:12660252,PMID:12697768,PMID:14627815,PMID:15059890,PMID:15489221,PMID:15613478,PMID:22154951,PMID:9488723	
+P16104	UniProtKB	Modified residue	143	143	.	.	.	Note=Phosphotyrosine%3B by WSTF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19092802,ECO:0000269|PubMed:19234442;Dbxref=PMID:19092802,PMID:19234442	
+P16104	UniProtKB	Cross-link	14	14	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22980979;Dbxref=PMID:22980979	
+P16104	UniProtKB	Cross-link	16	16	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22980979;Dbxref=PMID:22980979	
+P16104	UniProtKB	Cross-link	120	120	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27661	
+P16104	UniProtKB	Cross-link	128	128	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P16104	UniProtKB	Cross-link	135	135	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+P16104	UniProtKB	Mutagenesis	141	141	.	.	.	Note=Reduced phosphorylation of S-140 in response to DNA damage. Q->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9488723;Dbxref=PMID:9488723	
+P16104	UniProtKB	Mutagenesis	143	143	.	.	.	Note=Displays a reduced apoptotic response. S-140 phosphorylation is reduced. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19092802,ECO:0000269|PubMed:19234442;Dbxref=PMID:19092802,PMID:19234442	
+P16104	UniProtKB	Sequence conflict	78	78	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

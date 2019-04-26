@@ -1,0 +1,321 @@
+##gff-version 3
+##sequence-region P10275 1 920
+P10275	UniProtKB	Chain	1	920	.	.	.	ID=PRO_0000053704;Note=Androgen receptor	
+P10275	UniProtKB	Domain	669	900	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P10275	UniProtKB	DNA binding	560	632	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10275	UniProtKB	Zinc finger	560	580	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10275	UniProtKB	Zinc finger	596	620	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10275	UniProtKB	Region	1	587	.	.	.	Note=Interaction with ZNF318;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P19091	
+P10275	UniProtKB	Region	1	559	.	.	.	Note=Modulating	
+P10275	UniProtKB	Region	552	919	.	.	.	Note=Interaction with LPXN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18451096;Dbxref=PMID:18451096	
+P10275	UniProtKB	Region	572	662	.	.	.	Note=Interaction with HIPK3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P15207	
+P10275	UniProtKB	Region	592	919	.	.	.	Note=Interaction with CCAR1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23887938;Dbxref=PMID:23887938	
+P10275	UniProtKB	Region	625	919	.	.	.	Note=Interaction with KAT7;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10930412;Dbxref=PMID:10930412	
+P10275	UniProtKB	Compositional bias	58	120	.	.	.	Note=Gln-rich	
+P10275	UniProtKB	Compositional bias	58	80	.	.	.	Note=Poly-Gln	
+P10275	UniProtKB	Compositional bias	86	91	.	.	.	Note=Poly-Gln	
+P10275	UniProtKB	Compositional bias	195	199	.	.	.	Note=Poly-Gln	
+P10275	UniProtKB	Compositional bias	374	383	.	.	.	Note=Poly-Pro	
+P10275	UniProtKB	Compositional bias	398	404	.	.	.	Note=Poly-Ala	
+P10275	UniProtKB	Compositional bias	451	473	.	.	.	Note=Poly-Gly	
+P10275	UniProtKB	Binding site	706	706	.	.	.	Note=Androgen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1T5Z,ECO:0000244|PDB:1T63,ECO:0000244|PDB:1T65,ECO:0000244|PDB:1XJ7,ECO:0000244|PDB:2AM9,ECO:0000244|PDB:2AMA,ECO:0000244|PDB:2AMB,ECO:0000244|PDB:2PIO,ECO:0000244|PDB:2PIP,ECO:0000244|PDB:2PIR,ECO:0000244|PDB:2PIT,ECO:0000244|PDB:2PIU,ECO:0000244|PDB:2PIV,ECO:0000244|PDB:2PIW,ECO:0000244|PDB:2PIX,ECO:0000244|PDB:2PKL,ECO:0000244|PDB:2PNU,ECO:0000244|PDB:2Q7I,ECO:0000244|PDB:2Q7J,ECO:0000244|PDB:2Q7K,ECO:0000244|PDB:2Q7L,ECO:0000244|PDB:2YHD,ECO:0000244|PDB:2YLO,ECO:0000244|PDB:2YLP,ECO:0000244|PDB:2YLQ,ECO:0000244|PDB:3L3X,ECO:0000244|PDB:3L3Z,ECO:0000244|PDB:3ZQT,ECO:0000244|PDB:4HLW,ECO:0000244|PDB:4K7A,ECO:0000244|PDB:4OEA,ECO:0000244|PDB:4OED,ECO:0000244|PDB:4OEY,ECO:0000244|PDB:4OEZ,ECO:0000244|PDB:4OFR,ECO:0000244|PDB:4OFU,ECO:0000244|PDB:5JJM,ECO:0000269|PubMed:15563469,ECO:0000269|PubMed:16641486,ECO:0000269|PubMed:17591767,ECO:0000269|PubMed:25091737;Dbxref=PMID:15563469,PMID:16641486,PMID:17591767,PMID:25091737	
+P10275	UniProtKB	Binding site	753	753	.	.	.	Note=Androgen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1T5Z,ECO:0000244|PDB:1T63,ECO:0000244|PDB:1T65,ECO:0000244|PDB:1XJ7,ECO:0000244|PDB:2AM9,ECO:0000244|PDB:2AMA,ECO:0000244|PDB:2PIO,ECO:0000244|PDB:2PIP,ECO:0000244|PDB:2PIQ,ECO:0000244|PDB:2PIR,ECO:0000244|PDB:2PIT,ECO:0000244|PDB:2PIU,ECO:0000244|PDB:2PIV,ECO:0000244|PDB:2PIW,ECO:0000244|PDB:2PIX,ECO:0000244|PDB:2PKL,ECO:0000244|PDB:2Q7I,ECO:0000244|PDB:2Q7J,ECO:0000244|PDB:2Q7K,ECO:0000244|PDB:2Q7L,ECO:0000244|PDB:2YHD,ECO:0000244|PDB:2YLO,ECO:0000244|PDB:2YLP,ECO:0000244|PDB:2YLQ,ECO:0000244|PDB:2Z4J,ECO:0000244|PDB:3L3X,ECO:0000244|PDB:3L3Z,ECO:0000244|PDB:3ZQT,ECO:0000244|PDB:4HLW,ECO:0000244|PDB:4K7A,ECO:0000244|PDB:4OEA,ECO:0000244|PDB:4OED,ECO:0000244|PDB:4OEY,ECO:0000244|PDB:4OEZ,ECO:0000244|PDB:4OFR,ECO:0000244|PDB:4OFU,ECO:0000244|PDB:5JJM,ECO:0000269|PubMed:15563469,ECO:0000269|PubMed:16641486,ECO:0000269|PubMed:17591767,ECO:0000269|PubMed:25091737;Dbxref=PMID:15563469,PMID:16641486,PMID:17591767,PMID:25091737	
+P10275	UniProtKB	Binding site	878	878	.	.	.	Note=Androgen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1T5Z,ECO:0000244|PDB:1T63,ECO:0000244|PDB:1T65,ECO:0000244|PDB:1XJ7,ECO:0000244|PDB:2AM9,ECO:0000244|PDB:2AMA,ECO:0000244|PDB:2PIO,ECO:0000244|PDB:2PIP,ECO:0000244|PDB:2PIQ,ECO:0000244|PDB:2PIR,ECO:0000244|PDB:2PIT,ECO:0000244|PDB:2PIU,ECO:0000244|PDB:2PIV,ECO:0000244|PDB:2PIW,ECO:0000244|PDB:2PIX,ECO:0000244|PDB:2PKL,ECO:0000244|PDB:2Q7I,ECO:0000244|PDB:2Q7J,ECO:0000244|PDB:2Q7K,ECO:0000244|PDB:2Q7L,ECO:0000244|PDB:2YHD,ECO:0000244|PDB:2YLO,ECO:0000244|PDB:2YLP,ECO:0000244|PDB:2YLQ,ECO:0000244|PDB:2Z4J,ECO:0000244|PDB:3L3X,ECO:0000244|PDB:3L3Z,ECO:0000244|PDB:3ZQT,ECO:0000244|PDB:4HLW,ECO:0000244|PDB:4K7A,ECO:0000244|PDB:4OEA,ECO:0000244|PDB:4OED,ECO:0000244|PDB:4OEY,ECO:0000244|PDB:4OEZ,ECO:0000244|PDB:4OFR,ECO:0000244|PDB:4OFU,ECO:0000244|PDB:5JJM,ECO:0000269|PubMed:15563469,ECO:0000269|PubMed:16641486,ECO:0000269|PubMed:17591767,ECO:0000269|PubMed:25091737;Dbxref=PMID:15563469,PMID:16641486,PMID:17591767,PMID:25091737	
+P10275	UniProtKB	Site	721	721	.	.	.	Note=Interaction with coactivator LXXL and FXXFY motifs;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25091737;Dbxref=PMID:25091737	
+P10275	UniProtKB	Site	898	898	.	.	.	Note=Interaction with coactivator FXXLF and FXXFY motifs;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25091737;Dbxref=PMID:25091737	
+P10275	UniProtKB	Modified residue	83	83	.	.	.	Note=Phosphoserine%3B by CDK9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20980437;Dbxref=PMID:20980437	
+P10275	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:24275569;Dbxref=PMID:21406692,PMID:24275569	
+P10275	UniProtKB	Modified residue	225	225	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	258	258	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P10275	UniProtKB	Modified residue	269	269	.	.	.	Note=Phosphotyrosine%3B by CSK and TNK2;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17045208,ECO:0000269|PubMed:17494760,ECO:0000269|PubMed:20623637;Dbxref=PMID:17045208,PMID:17494760,PMID:20623637	
+P10275	UniProtKB	Modified residue	309	309	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	348	348	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	359	359	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	364	364	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	365	365	.	.	.	Note=Phosphotyrosine%3B by CSK and TNK2;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17045208,ECO:0000269|PubMed:17494760;Dbxref=PMID:17045208,PMID:17494760	
+P10275	UniProtKB	Modified residue	395	395	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	535	535	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	552	552	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Modified residue	651	651	.	.	.	Note=Phosphoserine%3B by STK4/MST1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21512132;Dbxref=PMID:21512132	
+P10275	UniProtKB	Modified residue	916	916	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Cross-link	388	388	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11121022;Dbxref=PMID:11121022	
+P10275	UniProtKB	Cross-link	521	521	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11121022;Dbxref=PMID:11121022	
+P10275	UniProtKB	Cross-link	846	846	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19345326;Dbxref=PMID:19345326	
+P10275	UniProtKB	Cross-link	848	848	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19345326;Dbxref=PMID:19345326	
+P10275	UniProtKB	Alternative sequence	1	532	.	.	.	ID=VSP_036889;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Alternative sequence	533	539	.	.	.	ID=VSP_036890;Note=In isoform 2. GPYGDMR->MILWLHS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Alternative sequence	629	644	.	.	.	ID=VSP_058166;Note=In isoform 3. ARKLKKLGNLKLQEEG->EKFRVGNCKHLKMTRP	
+P10275	UniProtKB	Alternative sequence	630	648	.	.	.	ID=VSP_058167;Note=In isoform 4. RKLKKLGNLKLQEEGEASS->AVVVSERILRVFGVSEWLP	
+P10275	UniProtKB	Alternative sequence	645	920	.	.	.	ID=VSP_058168;Note=In isoform 3. Missing	
+P10275	UniProtKB	Alternative sequence	649	920	.	.	.	ID=VSP_058169;Note=In isoform 4. Missing	
+P10275	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_004679;Note=In PAIS. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8823308;Dbxref=dbSNP:rs104894742,PMID:8823308	
+P10275	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_004680;Note=In prostate cancer. L->S	
+P10275	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_004681;Note=In prostate cancer. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19244107;Dbxref=dbSNP:rs78686797,PMID:19244107	
+P10275	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_009711;Note=In prostate cancer. Q->R	
+P10275	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_009712;Note=In prostate cancer. Q->H	
+P10275	UniProtKB	Natural variant	182	182	.	.	.	ID=VAR_009713;Note=In prostate cancer. K->R	
+P10275	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_009224;Note=In AIS. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9255042;Dbxref=PMID:9255042	
+P10275	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_009714;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8213813;Dbxref=dbSNP:rs374549047,PMID:8213813	
+P10275	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_009715;Note=Functional polymorphism%3B 20%25 lower transactivation capacity. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:27535533,ECO:0000269|PubMed:9788719;Dbxref=dbSNP:rs199554641,PMID:27535533,PMID:9788719	
+P10275	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_009225;Note=In AIS. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9610419;Dbxref=PMID:9610419	
+P10275	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_009716;Note=In prostate cancer. M->T	
+P10275	UniProtKB	Natural variant	271	271	.	.	.	ID=VAR_009717;Note=In prostate cancer. P->S	
+P10275	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_009718;Note=In prostate cancer. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7511268;Dbxref=dbSNP:rs138454018,PMID:7511268	
+P10275	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_009226;Note=In AIS. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10571951;Dbxref=dbSNP:rs773996740,PMID:10571951	
+P10275	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_009227;Note=In AIS. P->S;Dbxref=dbSNP:rs201934623	
+P10275	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_009228;Note=In AIS%3B unknown pathological significance. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10571951;Dbxref=dbSNP:rs1355285524,PMID:10571951	
+P10275	UniProtKB	Natural variant	492	492	.	.	.	ID=VAR_009719;Note=In AIS. G->S	
+P10275	UniProtKB	Natural variant	529	529	.	.	.	ID=VAR_009720;Note=In prostate cancer. D->G	
+P10275	UniProtKB	Natural variant	548	548	.	.	.	ID=VAR_009721;Note=In PAIS. L->F;Dbxref=dbSNP:rs139524801	
+P10275	UniProtKB	Natural variant	549	549	.	.	.	ID=VAR_009722;Note=In AIS. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8683794;Dbxref=dbSNP:rs137852588,PMID:8683794	
+P10275	UniProtKB	Natural variant	560	560	.	.	.	ID=VAR_009723;Note=In AIS. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1316540;Dbxref=PMID:1316540	
+P10275	UniProtKB	Natural variant	569	569	.	.	.	ID=VAR_009725;Note=In a patient with isolated hypospadias. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7673412;Dbxref=PMID:7673412	
+P10275	UniProtKB	Natural variant	569	569	.	.	.	ID=VAR_009726;Note=In PAIS. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7910529;Dbxref=PMID:7910529	
+P10275	UniProtKB	Natural variant	572	572	.	.	.	ID=VAR_009727;Note=In AIS. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9544375;Dbxref=PMID:9544375	
+P10275	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_009728;Note=In AIS. A->D	
+P10275	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_009729;Note=In prostate cancer. L->P	
+P10275	UniProtKB	Natural variant	576	576	.	.	.	ID=VAR_009730;Note=In prostate cancer. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10706109;Dbxref=PMID:10706109	
+P10275	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_009731;Note=In AIS. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14756668;Dbxref=PMID:14756668	
+P10275	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_009732;Note=In AIS. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1316540;Dbxref=PMID:1316540	
+P10275	UniProtKB	Natural variant	580	580	.	.	.	ID=VAR_009733;Note=In AIS%3B reduced transcription and DNA binding. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8809734;Dbxref=dbSNP:rs137852586,PMID:8809734	
+P10275	UniProtKB	Natural variant	580	580	.	.	.	ID=VAR_009734;Note=In AIS. C->Y	
+P10275	UniProtKB	Natural variant	581	581	.	.	.	ID=VAR_009735;Note=In prostate cancer. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10706109;Dbxref=PMID:10706109	
+P10275	UniProtKB	Natural variant	582	582	.	.	.	ID=VAR_009736;Note=In AIS. V->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8224266,ECO:0000269|Ref.113;Dbxref=PMID:8224266	
+P10275	UniProtKB	Natural variant	583	583	.	.	.	ID=VAR_009737;Note=In PAIS. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981687;Dbxref=PMID:7981687	
+P10275	UniProtKB	Natural variant	583	583	.	.	.	ID=VAR_009738;Note=In PAIS. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8809734;Dbxref=dbSNP:rs137852587,PMID:8809734	
+P10275	UniProtKB	Natural variant	583	583	.	.	.	ID=VAR_009739;Note=In AIS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8162033;Dbxref=PMID:8162033	
+P10275	UniProtKB	Natural variant	586	586	.	.	.	ID=VAR_009740;Note=In AIS. R->K	
+P10275	UniProtKB	Natural variant	587	587	.	.	.	ID=VAR_009741;Note=In prostate cancer%3B somatic mutation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10706109;Dbxref=PMID:10706109	
+P10275	UniProtKB	Natural variant	588	588	.	.	.	ID=VAR_009742;Note=In prostate cancer%3B somatic mutation. A->S	
+P10275	UniProtKB	Natural variant	597	597	.	.	.	ID=VAR_009743;Note=In AIS%3B abolishes dimerization. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10590024,ECO:0000269|PubMed:7649358;Dbxref=dbSNP:rs137852569,PMID:10590024,PMID:7649358	
+P10275	UniProtKB	Natural variant	598	598	.	.	.	ID=VAR_009744;Note=In PAIS%3B associated with P-618 in a PAIS patient%3B normal androgen binding%3B does not activate transcription%3B impairs DNA binding. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1316540;Dbxref=dbSNP:rs142280455,PMID:1316540	
+P10275	UniProtKB	Natural variant	598	598	.	.	.	ID=VAR_009745;Note=In a patient with severe hypospadias. S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10092153;Dbxref=PMID:10092153	
+P10275	UniProtKB	Natural variant	602	602	.	.	.	ID=VAR_009746;Note=In AIS. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981689;Dbxref=PMID:7981689	
+P10275	UniProtKB	Natural variant	605	605	.	.	.	ID=VAR_009747;Note=In PAIS. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981687;Dbxref=PMID:7981687	
+P10275	UniProtKB	Natural variant	608	608	.	.	.	ID=VAR_004684;Note=In PAIS and breast cancer. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10221692,ECO:0000269|PubMed:1303262,ECO:0000269|PubMed:9039340,ECO:0000269|PubMed:9543136;Dbxref=dbSNP:rs137852573,PMID:10221692,PMID:1303262,PMID:9039340,PMID:9543136	
+P10275	UniProtKB	Natural variant	609	609	.	.	.	ID=VAR_004685;Note=In PAIS and breast cancer%3B defective nuclear localization. R->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1424203,ECO:0000269|PubMed:8281139,ECO:0000269|PubMed:9196614;Dbxref=dbSNP:rs137852576,PMID:1424203,PMID:8281139,PMID:9196614	
+P10275	UniProtKB	Natural variant	611	611	.	.	.	ID=VAR_009748;Note=In PAIS. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9039340;Dbxref=PMID:9039340	
+P10275	UniProtKB	Natural variant	612	612	.	.	.	ID=VAR_009749;Note=In AIS. C->Y	
+P10275	UniProtKB	Natural variant	616	616	.	.	.	ID=VAR_009751;Note=In AIS and PAIS. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7970939,ECO:0000269|PubMed:8162033,ECO:0000269|PubMed:8413310,ECO:0000269|PubMed:9698822;Dbxref=dbSNP:rs754201976,PMID:7970939,PMID:8162033,PMID:8413310,PMID:9698822	
+P10275	UniProtKB	Natural variant	616	616	.	.	.	ID=VAR_009752;Note=In AIS. R->P	
+P10275	UniProtKB	Natural variant	616	616	.	.	.	ID=VAR_009750;Note=In AIS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8162033;Dbxref=PMID:8162033	
+P10275	UniProtKB	Natural variant	617	617	.	.	.	ID=VAR_009753;Note=In AIS. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8647313;Dbxref=PMID:8647313	
+P10275	UniProtKB	Natural variant	617	617	.	.	.	ID=VAR_009754;Note=In PAIS. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8126121;Dbxref=PMID:8126121	
+P10275	UniProtKB	Natural variant	618	618	.	.	.	ID=VAR_009755;Note=In AIS and PAIS%3B associated with G-598 in a PAIS patient%3B loss of DNA-binding activity. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1316540,ECO:0000269|PubMed:1999491;Dbxref=PMID:1316540,PMID:1999491	
+P10275	UniProtKB	Natural variant	620	620	.	.	.	ID=VAR_009756;Note=In prostate cancer%3B loss of DNA binding%3B somatic mutation. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10598582,ECO:0000269|PubMed:10706109;Dbxref=PMID:10598582,PMID:10706109	
+P10275	UniProtKB	Natural variant	630	630	.	.	.	ID=VAR_009757;Note=In prostate cancer. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9184448;Dbxref=dbSNP:rs868669253,PMID:9184448	
+P10275	UniProtKB	Natural variant	631	631	.	.	.	ID=VAR_009758;Note=In prostate cancer. K->T	
+P10275	UniProtKB	Natural variant	646	646	.	.	.	ID=VAR_004686;Note=A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9554755;Dbxref=dbSNP:rs1800053,PMID:9554755	
+P10275	UniProtKB	Natural variant	648	648	.	.	.	ID=VAR_009760;Note=In prostate cancer. S->N;Dbxref=dbSNP:rs137852584	
+P10275	UniProtKB	Natural variant	665	665	.	.	.	ID=VAR_004687;Note=In AIS and PAIS. I->N	
+P10275	UniProtKB	Natural variant	671	671	.	.	.	ID=VAR_009761;Note=In prostate cancer. Q->R	
+P10275	UniProtKB	Natural variant	672	672	.	.	.	ID=VAR_009762;Note=In PAIS. P->H	
+P10275	UniProtKB	Natural variant	673	673	.	.	.	ID=VAR_009763;Note=In prostate cancer. I->T	
+P10275	UniProtKB	Natural variant	678	678	.	.	.	ID=VAR_004688;Note=In AIS. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7537149;Dbxref=dbSNP:rs137852579,PMID:7537149	
+P10275	UniProtKB	Natural variant	682	682	.	.	.	ID=VAR_009764;Note=In AIS. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10221692,ECO:0000269|PubMed:8325950;Dbxref=PMID:10221692,PMID:8325950	
+P10275	UniProtKB	Natural variant	683	683	.	.	.	ID=VAR_013474;Note=In PAIS. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11587068;Dbxref=PMID:11587068	
+P10275	UniProtKB	Natural variant	684	684	.	.	.	ID=VAR_009765;Note=In prostate cancer. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10629558,ECO:0000269|PubMed:9000575;Dbxref=PMID:10629558,PMID:9000575	
+P10275	UniProtKB	Natural variant	685	685	.	.	.	ID=VAR_009766;Note=In AIS. V->I	
+P10275	UniProtKB	Natural variant	687	687	.	.	.	ID=VAR_009767;Note=In PAIS. C->R	
+P10275	UniProtKB	Natural variant	688	688	.	.	.	ID=VAR_009768;Note=In PAIS. A->V	
+P10275	UniProtKB	Natural variant	689	689	.	.	.	ID=VAR_009769;Note=In AIS. G->E	
+P10275	UniProtKB	Natural variant	691	691	.	.	.	ID=VAR_009770;Note=In PAIS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.121	
+P10275	UniProtKB	Natural variant	693	693	.	.	.	ID=VAR_004689;Note=In AIS. Missing	
+P10275	UniProtKB	Natural variant	696	696	.	.	.	ID=VAR_004690;Note=In AIS. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1775137;Dbxref=PMID:1775137	
+P10275	UniProtKB	Natural variant	696	696	.	.	.	ID=VAR_004691;Note=In AIS%3B almost complete loss of androgen binding and transcription activation. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16595706,ECO:0000269|PubMed:1775137;Dbxref=PMID:16595706,PMID:1775137	
+P10275	UniProtKB	Natural variant	696	696	.	.	.	ID=VAR_004692;Note=In AIS. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9554754;Dbxref=PMID:9554754	
+P10275	UniProtKB	Natural variant	701	701	.	.	.	ID=VAR_009771;Note=In AIS. L->M	
+P10275	UniProtKB	Natural variant	702	702	.	.	.	ID=VAR_009772;Note=In AIS. L->F	
+P10275	UniProtKB	Natural variant	702	702	.	.	.	ID=VAR_009773;Note=In AIS and prostate cancer. L->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10569618,ECO:0000269|PubMed:8274409,ECO:0000269|PubMed:9438000;Dbxref=dbSNP:rs864622007,PMID:10569618,PMID:8274409,PMID:9438000	
+P10275	UniProtKB	Natural variant	703	703	.	.	.	ID=VAR_009774;Note=In AIS. S->A	
+P10275	UniProtKB	Natural variant	704	704	.	.	.	ID=VAR_009775;Note=In AIS. S->C	
+P10275	UniProtKB	Natural variant	704	704	.	.	.	ID=VAR_004693;Note=In PAIS and AIS. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9302173;Dbxref=PMID:9302173	
+P10275	UniProtKB	Natural variant	706	706	.	.	.	ID=VAR_009776;Note=In AIS. N->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1480178,ECO:0000269|PubMed:7671849;Dbxref=PMID:1480178,PMID:7671849	
+P10275	UniProtKB	Natural variant	706	706	.	.	.	ID=VAR_013475;Note=In AIS. N->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11744994;Dbxref=PMID:11744994	
+P10275	UniProtKB	Natural variant	708	708	.	.	.	ID=VAR_004694;Note=In AIS. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626869;Dbxref=dbSNP:rs137852585,PMID:8626869	
+P10275	UniProtKB	Natural variant	709	709	.	.	.	ID=VAR_009777;Note=In PAIS. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7981687,ECO:0000269|PubMed:9329414;Dbxref=PMID:7981687,PMID:9329414	
+P10275	UniProtKB	Natural variant	709	709	.	.	.	ID=VAR_009778;Note=In AIS. G->V	
+P10275	UniProtKB	Natural variant	711	711	.	.	.	ID=VAR_009779;Note=In AIS. R->T	
+P10275	UniProtKB	Natural variant	712	712	.	.	.	ID=VAR_013476;Note=In PAIS. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11587068;Dbxref=PMID:11587068	
+P10275	UniProtKB	Natural variant	713	713	.	.	.	ID=VAR_009780;Note=In PAIS. L->F;Dbxref=dbSNP:rs137852595	
+P10275	UniProtKB	Natural variant	716	716	.	.	.	ID=VAR_009781;Note=In prostate cancer%3B gain in function. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8145761;Dbxref=dbSNP:rs1340026226,PMID:8145761	
+P10275	UniProtKB	Natural variant	718	718	.	.	.	ID=VAR_009782;Note=In prostate cancer. K->E	
+P10275	UniProtKB	Natural variant	721	721	.	.	.	ID=VAR_009783;Note=In prostate cancer%3B found in bone metastases. K->E	
+P10275	UniProtKB	Natural variant	722	722	.	.	.	ID=VAR_009784;Note=In prostate cancer%3B somatic mutation. A->T;Dbxref=dbSNP:rs137852583	
+P10275	UniProtKB	Natural variant	723	723	.	.	.	ID=VAR_009785;Note=In AIS. L->F	
+P10275	UniProtKB	Natural variant	724	724	.	.	.	ID=VAR_009786;Note=In AIS. P->S	
+P10275	UniProtKB	Natural variant	725	725	.	.	.	ID=VAR_009787;Note=In AIS and prostate cancer. G->D	
+P10275	UniProtKB	Natural variant	726	726	.	.	.	ID=VAR_009788;Note=In a patient with severe hypospadias. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10092153,ECO:0000269|PubMed:7671849;Dbxref=PMID:10092153,PMID:7671849	
+P10275	UniProtKB	Natural variant	727	727	.	.	.	ID=VAR_009789;Note=In prostate cancer. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8530589;Dbxref=dbSNP:rs137852593,PMID:8530589	
+P10275	UniProtKB	Natural variant	728	728	.	.	.	ID=VAR_009790;Note=In AIS. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7993455;Dbxref=dbSNP:rs768869912,PMID:7993455	
+P10275	UniProtKB	Natural variant	729	729	.	.	.	ID=VAR_009791;Note=In PAIS. L->S	
+P10275	UniProtKB	Natural variant	731	731	.	.	.	ID=VAR_004695;Note=In prostate cancer%3B increases transcription activation. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15525515,ECO:0000269|PubMed:1631125,ECO:0000269|PubMed:7591265;Dbxref=dbSNP:rs137852571,PMID:15525515,PMID:1631125,PMID:7591265	
+P10275	UniProtKB	Natural variant	733	733	.	.	.	ID=VAR_004696;Note=In AIS. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9252933;Dbxref=PMID:9252933	
+P10275	UniProtKB	Natural variant	733	733	.	.	.	ID=VAR_004697;Note=In AIS. D->Y	
+P10275	UniProtKB	Natural variant	734	734	.	.	.	ID=VAR_009792;Note=In PAIS. Q->H	
+P10275	UniProtKB	Natural variant	738	738	.	.	.	ID=VAR_009793;Note=In PAIS. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7671849;Dbxref=PMID:7671849	
+P10275	UniProtKB	Natural variant	742	742	.	.	.	ID=VAR_009794;Note=In AIS. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1464650;Dbxref=PMID:1464650	
+P10275	UniProtKB	Natural variant	743	743	.	.	.	ID=VAR_004698;Note=In PAIS. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8824883;Dbxref=PMID:8824883	
+P10275	UniProtKB	Natural variant	743	743	.	.	.	ID=VAR_009795;Note=In PAIS. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7970939;Dbxref=PMID:7970939	
+P10275	UniProtKB	Natural variant	744	744	.	.	.	ID=VAR_013477;Note=In AIS. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11587068;Dbxref=dbSNP:rs137852600,PMID:11587068	
+P10275	UniProtKB	Natural variant	744	744	.	.	.	ID=VAR_004699;Note=In PAIS and AIS. G->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8096390,ECO:0000269|PubMed:8325932,ECO:0000269|PubMed:9768671,ECO:0000269|Ref.113;Dbxref=dbSNP:rs137852600,PMID:8096390,PMID:8325932,PMID:9768671	
+P10275	UniProtKB	Natural variant	745	745	.	.	.	ID=VAR_009796;Note=In AIS and prostate cancer. L->F	
+P10275	UniProtKB	Natural variant	746	746	.	.	.	ID=VAR_009797;Note=In PAIS. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7970939;Dbxref=PMID:7970939	
+P10275	UniProtKB	Natural variant	747	747	.	.	.	ID=VAR_009798;Note=In PAIS. V->M	
+P10275	UniProtKB	Natural variant	749	749	.	.	.	ID=VAR_009799;Note=In PAIS. A->D	
+P10275	UniProtKB	Natural variant	749	749	.	.	.	ID=VAR_009800;Note=In prostate cancer. A->T	
+P10275	UniProtKB	Natural variant	749	749	.	.	.	ID=VAR_009801;Note=In prostate cancer. A->V	
+P10275	UniProtKB	Natural variant	750	750	.	.	.	ID=VAR_009802;Note=In prostate cancer. M->I	
+P10275	UniProtKB	Natural variant	750	750	.	.	.	ID=VAR_004700;Note=In PAIS and AIS. M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1480178,ECO:0000269|PubMed:1487249,ECO:0000269|PubMed:8990010;Dbxref=dbSNP:rs1085307685,PMID:1480178,PMID:1487249,PMID:8990010	
+P10275	UniProtKB	Natural variant	751	751	.	.	.	ID=VAR_004701;Note=In AIS%3B loss of androgen binding. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9328206;Dbxref=PMID:9328206	
+P10275	UniProtKB	Natural variant	751	751	.	.	.	ID=VAR_009803;Note=In prostate cancer. G->S	
+P10275	UniProtKB	Natural variant	752	752	.	.	.	ID=VAR_009804;Note=In AIS. W->R	
+P10275	UniProtKB	Natural variant	753	753	.	.	.	ID=VAR_004702;Note=In AIS. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9544375,ECO:0000269|PubMed:9698822;Dbxref=PMID:9544375,PMID:9698822	
+P10275	UniProtKB	Natural variant	755	755	.	.	.	ID=VAR_009805;Note=In PAIS and prostate cancer. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7981687,ECO:0000269|PubMed:9039340;Dbxref=PMID:7981687,PMID:9039340	
+P10275	UniProtKB	Natural variant	755	755	.	.	.	ID=VAR_004703;Note=In AIS. F->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8103398,ECO:0000269|Ref.113;Dbxref=PMID:8103398	
+P10275	UniProtKB	Natural variant	756	756	.	.	.	ID=VAR_009806;Note=In prostate cancer. T->A	
+P10275	UniProtKB	Natural variant	757	757	.	.	.	ID=VAR_009807;Note=In PAIS. N->S;Dbxref=dbSNP:rs141425171	
+P10275	UniProtKB	Natural variant	758	758	.	.	.	ID=VAR_009808;Note=In prostate cancer. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10706109;Dbxref=PMID:10706109	
+P10275	UniProtKB	Natural variant	759	759	.	.	.	ID=VAR_009809;Note=In PAIS%3B 50%25 reduction in transactivation. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9607727;Dbxref=PMID:9607727	
+P10275	UniProtKB	Natural variant	760	760	.	.	.	ID=VAR_009810;Note=In AIS. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1480178;Dbxref=PMID:1480178	
+P10275	UniProtKB	Natural variant	760	760	.	.	.	ID=VAR_009811;Note=In prostate cancer. S->P	
+P10275	UniProtKB	Natural variant	763	763	.	.	.	ID=VAR_004704;Note=In AIS%3B loss of androgen binding. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9328206;Dbxref=PMID:9328206	
+P10275	UniProtKB	Natural variant	764	764	.	.	.	ID=VAR_004705;Note=In PAIS and prostate cancer%3B partial loss of androgen binding. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16595706,ECO:0000269|PubMed:2010552,ECO:0000269|PubMed:7581399;Dbxref=dbSNP:rs137852567,PMID:16595706,PMID:2010552,PMID:7581399	
+P10275	UniProtKB	Natural variant	764	764	.	.	.	ID=VAR_009812;Note=In AIS. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7671849;Dbxref=PMID:7671849	
+P10275	UniProtKB	Natural variant	765	765	.	.	.	ID=VAR_009813;Note=In AIS. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7970939;Dbxref=PMID:7970939	
+P10275	UniProtKB	Natural variant	766	766	.	.	.	ID=VAR_004707;Note=In AIS%3B loss of androgen binding. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1426313,ECO:0000269|PubMed:9252933,ECO:0000269|PubMed:9328206,ECO:0000269|PubMed:9856504;Dbxref=PMID:1426313,PMID:9252933,PMID:9328206,PMID:9856504	
+P10275	UniProtKB	Natural variant	766	766	.	.	.	ID=VAR_009814;Note=In AIS. A->V	
+P10275	UniProtKB	Natural variant	767	767	.	.	.	ID=VAR_009815;Note=In AIS. P->S	
+P10275	UniProtKB	Natural variant	768	768	.	.	.	ID=VAR_009816;Note=In AIS. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.113	
+P10275	UniProtKB	Natural variant	769	769	.	.	.	ID=VAR_009817;Note=In AIS. L->P	
+P10275	UniProtKB	Natural variant	772	772	.	.	.	ID=VAR_009818;Note=In PAIS. N->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981687;Dbxref=dbSNP:rs886041352,PMID:7981687	
+P10275	UniProtKB	Natural variant	773	773	.	.	.	ID=VAR_009819;Note=In PAIS. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022458;Dbxref=PMID:10022458	
+P10275	UniProtKB	Natural variant	773	773	.	.	.	ID=VAR_009820;Note=In PAIS. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9196614;Dbxref=PMID:9196614	
+P10275	UniProtKB	Natural variant	775	775	.	.	.	ID=VAR_004709;Note=In AIS%3B frequent mutation%3B loss of androgen binding. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1609793,ECO:0000269|PubMed:1856263,ECO:0000269|PubMed:2082179,ECO:0000269|PubMed:8990010,ECO:0000269|PubMed:9544375;Dbxref=dbSNP:rs137852562,PMID:1609793,PMID:1856263,PMID:2082179,PMID:8990010,PMID:9544375	
+P10275	UniProtKB	Natural variant	775	775	.	.	.	ID=VAR_004708;Note=In AIS and PAIS%3B almost complete loss of androgen binding. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1480178,ECO:0000269|PubMed:1609793,ECO:0000269|PubMed:16595706,ECO:0000269|PubMed:7671849;Dbxref=dbSNP:rs137852572,PMID:1480178,PMID:1609793,PMID:16595706,PMID:7671849	
+P10275	UniProtKB	Natural variant	780	780	.	.	.	ID=VAR_004710;Note=In AIS. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7581399,ECO:0000269|PubMed:7981687,ECO:0000269|PubMed:9007482;Dbxref=PMID:7581399,PMID:7981687,PMID:9007482	
+P10275	UniProtKB	Natural variant	781	781	.	.	.	ID=VAR_004711;Note=In PAIS and AIS. M->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8768864,ECO:0000269|PubMed:8824883,ECO:0000269|PubMed:8990010;Dbxref=dbSNP:rs137852589,PMID:8768864,PMID:8824883,PMID:8990010	
+P10275	UniProtKB	Natural variant	783	783	.	.	.	ID=VAR_009821;Note=In prostate cancer%3B somatic mutation. S->N	
+P10275	UniProtKB	Natural variant	785	785	.	.	.	ID=VAR_004712;Note=In AIS%3B loss of androgen binding and of transactivation. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9856504;Dbxref=PMID:9856504	
+P10275	UniProtKB	Natural variant	788	788	.	.	.	ID=VAR_004713;Note=In AIS. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1569163;Dbxref=dbSNP:rs137852570,PMID:1569163	
+P10275	UniProtKB	Natural variant	789	789	.	.	.	ID=VAR_009822;Note=In AIS. R->S;Dbxref=dbSNP:rs1254203917	
+P10275	UniProtKB	Natural variant	791	791	.	.	.	ID=VAR_009823;Note=In AIS. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7962294;Dbxref=PMID:7962294	
+P10275	UniProtKB	Natural variant	792	792	.	.	.	ID=VAR_009824;Note=In prostate cancer. S->P	
+P10275	UniProtKB	Natural variant	794	794	.	.	.	ID=VAR_009825;Note=E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8213813;Dbxref=dbSNP:rs1414341563,PMID:8213813	
+P10275	UniProtKB	Natural variant	795	795	.	.	.	ID=VAR_004714;Note=In AIS. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8990010;Dbxref=PMID:8990010	
+P10275	UniProtKB	Natural variant	799	799	.	.	.	ID=VAR_004715;Note=In PAIS%2C AIS and prostate cancer%3B reduced transcription activation. Q->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16595706,ECO:0000269|PubMed:7511268,ECO:0000269|PubMed:7671849,ECO:0000269|PubMed:8628719,ECO:0000269|PubMed:8824883,ECO:0000269|PubMed:9851768;Dbxref=dbSNP:rs137852591,PMID:16595706,PMID:7511268,PMID:7671849,PMID:8628719,PMID:8824883,PMID:9851768	
+P10275	UniProtKB	Natural variant	807	807	.	.	.	ID=VAR_009826;Note=In PAIS. C->Y;Dbxref=dbSNP:rs1064793480	
+P10275	UniProtKB	Natural variant	808	808	.	.	.	ID=VAR_004716;Note=In AIS%3B loss of transactivation. M->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8281140;Dbxref=PMID:8281140	
+P10275	UniProtKB	Natural variant	808	808	.	.	.	ID=VAR_009827;Note=In PAIS. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10543676;Dbxref=dbSNP:rs137852592,PMID:10543676	
+P10275	UniProtKB	Natural variant	808	808	.	.	.	ID=VAR_004717;Note=In AIS%3B 25%25 androgen binding. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7581399;Dbxref=PMID:7581399	
+P10275	UniProtKB	Natural variant	813	813	.	.	.	ID=VAR_009828;Note=In AIS. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10458483;Dbxref=PMID:10458483	
+P10275	UniProtKB	Natural variant	815	815	.	.	.	ID=VAR_004718;Note=In AIS and PAIS. S->N	
+P10275	UniProtKB	Natural variant	821	821	.	.	.	ID=VAR_009829;Note=In AIS. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9610419;Dbxref=PMID:9610419	
+P10275	UniProtKB	Natural variant	822	822	.	.	.	ID=VAR_009830;Note=In PAIS. L->V	
+P10275	UniProtKB	Natural variant	828	828	.	.	.	ID=VAR_013478;Note=In PAIS. F->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11587068;Dbxref=PMID:11587068	
+P10275	UniProtKB	Natural variant	831	831	.	.	.	ID=VAR_009831;Note=In prostate cancer. L->P	
+P10275	UniProtKB	Natural variant	832	832	.	.	.	ID=VAR_004719;Note=In AIS. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7633398;Dbxref=PMID:7633398	
+P10275	UniProtKB	Natural variant	832	832	.	.	.	ID=VAR_004720;Note=In AIS%3B loss of androgen binding. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10458483,ECO:0000269|PubMed:2082179,ECO:0000269|PubMed:7633398;Dbxref=dbSNP:rs1386577803,PMID:10458483,PMID:2082179,PMID:7633398	
+P10275	UniProtKB	Natural variant	835	835	.	.	.	ID=VAR_009832;Note=In AIS%3B loss of androgen binding. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1464650;Dbxref=dbSNP:rs1057521122,PMID:1464650	
+P10275	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_004721;Note=In AIS. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8040309,ECO:0000269|PubMed:8824883,ECO:0000269|PubMed:9768671;Dbxref=dbSNP:rs137852577,PMID:8040309,PMID:8824883,PMID:9768671	
+P10275	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_004722;Note=In PAIS. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9856504;Dbxref=PMID:9856504	
+P10275	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_004723;Note=In AIS. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7909256,ECO:0000269|PubMed:8040309,ECO:0000269|PubMed:8126121,ECO:0000269|PubMed:8205256,ECO:0000269|PubMed:8325950,ECO:0000269|PubMed:8830623,ECO:0000269|PubMed:9039340;Dbxref=dbSNP:rs9332969,PMID:7909256,PMID:8040309,PMID:8126121,PMID:8205256,PMID:8325950,PMID:8830623,PMID:9039340	
+P10275	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_009229;Note=In PAIS. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10502786;Dbxref=PMID:10502786	
+P10275	UniProtKB	Natural variant	842	842	.	.	.	ID=VAR_009833;Note=In PAIS. I->S	
+P10275	UniProtKB	Natural variant	843	843	.	.	.	ID=VAR_004724;Note=In AIS. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8325950,ECO:0000269|PubMed:9039340;Dbxref=dbSNP:rs9332970,PMID:8325950,PMID:9039340	
+P10275	UniProtKB	Natural variant	847	847	.	.	.	ID=VAR_009834;Note=In prostate cancer. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10706109;Dbxref=PMID:10706109	
+P10275	UniProtKB	Natural variant	855	855	.	.	.	ID=VAR_009835;Note=In PAIS. R->K	
+P10275	UniProtKB	Natural variant	856	856	.	.	.	ID=VAR_004725;Note=In AIS. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1480178,ECO:0000269|PubMed:7581399,ECO:0000269|PubMed:9001799,ECO:0000269|PubMed:9255042,ECO:0000269|Ref.113;Dbxref=dbSNP:rs886041132,PMID:1480178,PMID:7581399,PMID:9001799,PMID:9255042	
+P10275	UniProtKB	Natural variant	856	856	.	.	.	ID=VAR_004726;Note=In AIS%3B strongly reduced transcription activation. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16595706,ECO:0000269|PubMed:8097257,ECO:0000269|PubMed:8824883,ECO:0000269|PubMed:9039340,ECO:0000269|PubMed:9106550;Dbxref=dbSNP:rs9332971,PMID:16595706,PMID:8097257,PMID:8824883,PMID:9039340,PMID:9106550	
+P10275	UniProtKB	Natural variant	857	857	.	.	.	ID=VAR_009836;Note=In AIS. F->L;Dbxref=dbSNP:rs137852598	
+P10275	UniProtKB	Natural variant	864	864	.	.	.	ID=VAR_009837;Note=In AIS. L->R	
+P10275	UniProtKB	Natural variant	865	865	.	.	.	ID=VAR_009838;Note=In AIS. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1480178;Dbxref=PMID:1480178	
+P10275	UniProtKB	Natural variant	865	865	.	.	.	ID=VAR_004727;Note=In AIS%3B loss of androgen binding. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9328206;Dbxref=PMID:9328206	
+P10275	UniProtKB	Natural variant	866	866	.	.	.	ID=VAR_009839;Note=In AIS. S->P;Dbxref=dbSNP:rs137852597	
+P10275	UniProtKB	Natural variant	867	867	.	.	.	ID=VAR_004728;Note=In AIS. V->E	
+P10275	UniProtKB	Natural variant	867	867	.	.	.	ID=VAR_004729;Note=In PAIS. V->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1424203,ECO:0000269|PubMed:8325950,ECO:0000269|PubMed:8446106;Dbxref=dbSNP:rs137852564,PMID:1424203,PMID:8325950,PMID:8446106	
+P10275	UniProtKB	Natural variant	867	867	.	.	.	ID=VAR_004730;Note=In AIS and prostate cancer. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2082179,ECO:0000269|PubMed:2594783,ECO:0000269|PubMed:8446106,ECO:0000269|PubMed:9039340;Dbxref=dbSNP:rs137852564,PMID:2082179,PMID:2594783,PMID:8446106,PMID:9039340	
+P10275	UniProtKB	Natural variant	870	870	.	.	.	ID=VAR_004731;Note=In PAIS. I->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8097257,ECO:0000269|PubMed:8824883;Dbxref=dbSNP:rs137852574,PMID:8097257,PMID:8824883	
+P10275	UniProtKB	Natural variant	871	871	.	.	.	ID=VAR_009840;Note=In PAIS. A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9329414;Dbxref=PMID:9329414	
+P10275	UniProtKB	Natural variant	871	871	.	.	.	ID=VAR_009841;Note=In PAIS. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8033918;Dbxref=dbSNP:rs143040492,PMID:8033918	
+P10275	UniProtKB	Natural variant	872	872	.	.	.	ID=VAR_009842;Note=In AIS. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022458;Dbxref=PMID:10022458	
+P10275	UniProtKB	Natural variant	875	875	.	.	.	ID=VAR_013479;Note=In AIS. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11587068;Dbxref=PMID:11587068	
+P10275	UniProtKB	Natural variant	875	875	.	.	.	ID=VAR_009843;Note=In prostate cancer%3B increases affinity for testosterone and androgen sensitivity%3B increased transcription activation. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17591767;Dbxref=dbSNP:rs137852581,PMID:17591767	
+P10275	UniProtKB	Natural variant	878	878	.	.	.	ID=VAR_004732;Note=In prostate cancer%3B found in bone metastases%3B alters receptor specificity so that transcription is activated by antiandrogens such as cyproterone acetate. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10363963,ECO:0000269|PubMed:10569618,ECO:0000269|PubMed:1562539,ECO:0000269|PubMed:16129672,ECO:0000269|PubMed:17311914,ECO:0000269|PubMed:2260966,ECO:0000269|PubMed:25091737,ECO:0000269|PubMed:8187068,ECO:0000269|PubMed:8274409,ECO:0000269|PubMed:8827083;Dbxref=dbSNP:rs137852578,PMID:10363963,PMID:10569618,PMID:1562539,PMID:16129672,PMID:17311914,PMID:2260966,PMID:25091737,PMID:8187068,PMID:8274409,PMID:8827083	
+P10275	UniProtKB	Natural variant	878	878	.	.	.	ID=VAR_009844;Note=In prostate cancer. T->S;Dbxref=dbSNP:rs137852580	
+P10275	UniProtKB	Natural variant	880	880	.	.	.	ID=VAR_013480;Note=In AIS. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11587068;Dbxref=PMID:11587068	
+P10275	UniProtKB	Natural variant	881	881	.	.	.	ID=VAR_009845;Note=In prostate cancer. L->Q	
+P10275	UniProtKB	Natural variant	882	882	.	.	.	ID=VAR_009846;Note=In AIS. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7641413;Dbxref=PMID:7641413	
+P10275	UniProtKB	Natural variant	887	887	.	.	.	ID=VAR_009847;Note=In AIS. M->V;Dbxref=dbSNP:rs755226547	
+P10275	UniProtKB	Natural variant	890	890	.	.	.	ID=VAR_009848;Note=In AIS and PAIS. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8126121,ECO:0000269|PubMed:9160185;Dbxref=dbSNP:rs886041133,PMID:8126121,PMID:9160185	
+P10275	UniProtKB	Natural variant	891	891	.	.	.	ID=VAR_009849;Note=In prostate cancer. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10363963;Dbxref=PMID:10363963	
+P10275	UniProtKB	Natural variant	892	892	.	.	.	ID=VAR_009850;Note=In prostate cancer. F->L	
+P10275	UniProtKB	Natural variant	893	893	.	.	.	ID=VAR_004733;Note=In AIS. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10221770,ECO:0000269|PubMed:10404311,ECO:0000269|Ref.179;Dbxref=PMID:10221770,PMID:10404311	
+P10275	UniProtKB	Natural variant	896	896	.	.	.	ID=VAR_004734;Note=In AIS%3B low androgen binding and transactivation. M->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16129672,ECO:0000269|PubMed:9856504;Dbxref=PMID:16129672,PMID:9856504	
+P10275	UniProtKB	Natural variant	897	897	.	.	.	ID=VAR_009851;Note=In prostate cancer. A->T	
+P10275	UniProtKB	Natural variant	899	899	.	.	.	ID=VAR_009852;Note=In AIS. I->T	
+P10275	UniProtKB	Natural variant	903	903	.	.	.	ID=VAR_009853;Note=In prostate cancer. Q->R;Dbxref=dbSNP:rs137852582	
+P10275	UniProtKB	Natural variant	904	904	.	.	.	ID=VAR_009854;Note=In PAIS. V->M	
+P10275	UniProtKB	Natural variant	905	905	.	.	.	ID=VAR_009855;Note=In AIS. P->H	
+P10275	UniProtKB	Natural variant	905	905	.	.	.	ID=VAR_009856;Note=In AIS. P->S	
+P10275	UniProtKB	Natural variant	908	908	.	.	.	ID=VAR_004735;Note=In AIS%3B almost complete loss of transcription activation. L->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16595706,ECO:0000269|PubMed:9328206;Dbxref=PMID:16595706,PMID:9328206	
+P10275	UniProtKB	Natural variant	910	910	.	.	.	ID=VAR_009857;Note=In prostate cancer. G->E	
+P10275	UniProtKB	Natural variant	910	910	.	.	.	ID=VAR_009858;Note=In PAIS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8550758;Dbxref=PMID:8550758	
+P10275	UniProtKB	Natural variant	911	911	.	.	.	ID=VAR_009859;Note=In prostate cancer. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9438000;Dbxref=PMID:9438000	
+P10275	UniProtKB	Natural variant	912	912	.	.	.	ID=VAR_009860;Note=In PAIS. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10470409;Dbxref=PMID:10470409	
+P10275	UniProtKB	Natural variant	914	914	.	.	.	ID=VAR_004736;Note=In PAIS. P->S	
+P10275	UniProtKB	Natural variant	917	917	.	.	.	ID=VAR_009861;Note=In AIS. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9302173;Dbxref=PMID:9302173	
+P10275	UniProtKB	Natural variant	918	918	.	.	.	ID=VAR_009862;Note=In AIS. H->R	
+P10275	UniProtKB	Natural variant	920	920	.	.	.	ID=VAR_009863;Note=In prostate cancer. Q->R	
+P10275	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Reduced cell growth. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20980437;Dbxref=PMID:20980437	
+P10275	UniProtKB	Mutagenesis	225	225	.	.	.	Note=Decrease of CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	269	269	.	.	.	Note=Decrease of CSK-induced phosphorylation and phosphorylation by TNK2. Complete loss of TNK2-dependent phosphorylation%3B when associated with F-365. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17045208,ECO:0000269|PubMed:17494760;Dbxref=PMID:17045208,PMID:17494760	
+P10275	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Decrease of CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	348	348	.	.	.	Note=Decrease of CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	359	359	.	.	.	Note=Decrease of CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	364	364	.	.	.	Note=Decrease of CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	365	365	.	.	.	Note=Decrease of CSK-induced phosphorylation and phosphorylation by TNK2. Complete loss of TNK2-dependent phosphorylation%3B when associated with F-269. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17045208,ECO:0000269|PubMed:17494760;Dbxref=PMID:17045208,PMID:17494760	
+P10275	UniProtKB	Mutagenesis	395	395	.	.	.	Note=Decrease of CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	535	535	.	.	.	Note=Greatest decrease of CSK-induced phosphorylation and inhibition of transcriptional activity induced by EGF. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	552	552	.	.	.	Note=Decrease in CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Mutagenesis	702	702	.	.	.	Note=Alters receptor specificity%2C so that transcription is activated by the antiandrogen cyproterone acetate. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17311914;Dbxref=PMID:17311914	
+P10275	UniProtKB	Mutagenesis	721	721	.	.	.	Note=Loss of transcription activation in the presence of androgen and of interaction with NCOA2. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15563469,ECO:0000269|PubMed:17591767;Dbxref=PMID:15563469,PMID:17591767	
+P10275	UniProtKB	Mutagenesis	742	742	.	.	.	Note=Strongly decreased transcription activation in the presence of androgen. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16129672;Dbxref=PMID:16129672	
+P10275	UniProtKB	Mutagenesis	846	846	.	.	.	Note=Prevents ubiquitination by RNF6. Prevents AR transcriptional activation by RNF14 in absence of hormone. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19345326;Dbxref=PMID:19345326	
+P10275	UniProtKB	Mutagenesis	848	848	.	.	.	Note=Partially prevents ubiquitination by RNF6. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19345326;Dbxref=PMID:19345326	
+P10275	UniProtKB	Mutagenesis	898	898	.	.	.	Note=Reduced transcription activation in the presence of androgen. E->A%2CQ;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15563469,ECO:0000269|PubMed:17591767;Dbxref=PMID:15563469,PMID:17591767	
+P10275	UniProtKB	Mutagenesis	898	898	.	.	.	Note=Loss of transcription activation in the presence of androgen. E->K%2CR;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15563469,ECO:0000269|PubMed:17591767;Dbxref=PMID:15563469,PMID:17591767	
+P10275	UniProtKB	Mutagenesis	916	916	.	.	.	Note=Decrease in CSK-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045208;Dbxref=PMID:17045208	
+P10275	UniProtKB	Sequence conflict	168	168	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	214	214	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	214	214	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	214	214	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	476	476	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	476	476	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	566	566	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	635	635	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	635	635	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	676	676	.	.	.	Note=N->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	676	676	.	.	.	Note=N->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Sequence conflict	811	811	.	.	.	Note=L->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10275	UniProtKB	Helix	22	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V49	
+P10275	UniProtKB	Beta strand	667	669	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XJ7	
+P10275	UniProtKB	Helix	673	681	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Beta strand	692	694	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VO4	
+P10275	UniProtKB	Helix	698	721	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	726	728	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	731	758	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Beta strand	761	766	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Beta strand	769	771	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	773	778	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	782	797	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	802	812	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Beta strand	815	818	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	825	843	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Turn	844	846	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKL	
+P10275	UniProtKB	Turn	850	852	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIV	
+P10275	UniProtKB	Helix	853	883	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	885	888	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	894	902	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Helix	904	908	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	
+P10275	UniProtKB	Beta strand	911	914	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHA	

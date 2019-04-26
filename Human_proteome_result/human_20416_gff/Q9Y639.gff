@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region Q9Y639 1 398
+Q9Y639	UniProtKB	Signal peptide	1	28	.	.	.	.	
+Q9Y639	UniProtKB	Chain	29	398	.	.	.	ID=PRO_0000394470;Note=Neuroplastin	
+Q9Y639	UniProtKB	Topological domain	29	339	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y639	UniProtKB	Transmembrane	340	360	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y639	UniProtKB	Topological domain	361	398	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y639	UniProtKB	Domain	29	134	.	.	.	Note=Ig-like 1	
+Q9Y639	UniProtKB	Domain	148	235	.	.	.	Note=Ig-like 2	
+Q9Y639	UniProtKB	Domain	238	329	.	.	.	Note=Ig-like 3	
+Q9Y639	UniProtKB	Region	149	161	.	.	.	Note=Narpin%3B mediates binding with FGFR1 and has antidepressant-like activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y639	UniProtKB	Glycosylation	171	171	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y639	UniProtKB	Glycosylation	197	197	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y639	UniProtKB	Glycosylation	229	229	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19349973;Dbxref=PMID:19349973	
+Q9Y639	UniProtKB	Glycosylation	284	284	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+Q9Y639	UniProtKB	Glycosylation	296	296	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+Q9Y639	UniProtKB	Glycosylation	317	317	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y639	UniProtKB	Disulfide bond	52	116	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y639	UniProtKB	Disulfide bond	170	218	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y639	UniProtKB	Disulfide bond	259	316	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y639	UniProtKB	Alternative sequence	31	147	.	.	.	ID=VSP_039251;Note=In isoform 1 and isoform 3. AGFVKSPMSETKLTGDAFELYCDVVGSPTPEIQWWYAEVNRAESFRQLWDGARKRRVTVNTAYGSNGVSVLRITRLTLEDSGTYECRASNDPKRNDLRQNPSITWIRAQATISVLQK->E;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:14702039,PMID:15489334	
+Q9Y639	UniProtKB	Alternative sequence	320	398	.	.	.	ID=VSP_039252;Note=In isoform 4. NAIGSASVVTVLRVRSHLAPLWPFLGILAEIIILVVIIVVYEKRKRPDEVPDDDEPAGPMKTNSTNNHKDKNLRQRNTN->WPHSGLSWEFWLKLSSLW;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9Y639	UniProtKB	Alternative sequence	372	375	.	.	.	ID=VSP_039253;Note=In isoform 3 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:14702039,PMID:15489334	
+Q9Y639	UniProtKB	Sequence conflict	299	299	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	

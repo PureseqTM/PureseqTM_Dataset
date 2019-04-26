@@ -1,0 +1,99 @@
+##gff-version 3
+##sequence-region P16109 1 830
+P16109	UniProtKB	Signal peptide	1	41	.	.	.	.	
+P16109	UniProtKB	Chain	42	830	.	.	.	ID=PRO_0000017498;Note=P-selectin	
+P16109	UniProtKB	Topological domain	42	771	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Transmembrane	772	795	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Topological domain	796	830	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Domain	58	158	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P16109	UniProtKB	Domain	159	195	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P16109	UniProtKB	Domain	198	259	.	.	.	Note=Sushi 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	260	321	.	.	.	Note=Sushi 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	322	383	.	.	.	Note=Sushi 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	384	445	.	.	.	Note=Sushi 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	446	507	.	.	.	Note=Sushi 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	508	569	.	.	.	Note=Sushi 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	570	631	.	.	.	Note=Sushi 7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	640	701	.	.	.	Note=Sushi 8;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Domain	702	763	.	.	.	Note=Sushi 9;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P16109	UniProtKB	Region	821	830	.	.	.	Note=Interaction with SNX17	
+P16109	UniProtKB	Motif	818	821	.	.	.	Note=Endocytosis signal;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16109	UniProtKB	Metal binding	121	121	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Metal binding	123	123	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Metal binding	124	124	.	.	.	Note=Calcium;Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1R	
+P16109	UniProtKB	Metal binding	146	146	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Metal binding	147	147	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Binding site	123	123	.	.	.	Note=Carbohydrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Binding site	133	133	.	.	.	Note=Carbohydrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Binding site	146	146	.	.	.	Note=Carbohydrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1R,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Lipidation	807	807	.	.	.	Note=S-palmitoyl cysteine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7684381;Dbxref=PMID:7684381	
+P16109	UniProtKB	Lipidation	807	807	.	.	.	Note=S-stearoyl cysteine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7684381;Dbxref=PMID:7684381	
+P16109	UniProtKB	Glycosylation	54	54	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16263699;Dbxref=PMID:16263699	
+P16109	UniProtKB	Glycosylation	98	98	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	180	180	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	212	212	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	219	219	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	411	411	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	460	460	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	518	518	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	665	665	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	716	716	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	723	723	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Glycosylation	741	741	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16109	UniProtKB	Disulfide bond	60	158	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000244|PDB:1G1S,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Disulfide bond	131	150	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000244|PDB:1G1S,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Disulfide bond	163	174	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000244|PDB:1G1S,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Disulfide bond	168	183	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000244|PDB:1G1S,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Disulfide bond	185	194	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1G1Q,ECO:0000244|PDB:1G1R,ECO:0000244|PDB:1G1S,ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+P16109	UniProtKB	Disulfide bond	200	244	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	230	257	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	262	306	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	292	319	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	324	368	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	354	381	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	386	430	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	416	443	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	448	492	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	478	505	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	510	554	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	540	567	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	572	616	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	602	629	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	642	686	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	672	699	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	704	748	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Disulfide bond	734	761	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16109	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_019381;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917718	
+P16109	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_013910;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|Ref.2;Dbxref=dbSNP:rs6125,PMID:10391209	
+P16109	UniProtKB	Natural variant	230	230	.	.	.	ID=VAR_019382;Note=C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917869	
+P16109	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_019383;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2466574,ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917724,PMID:2466574	
+P16109	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_013911;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6124,PMID:10391209	
+P16109	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_004192;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:9668170,ECO:0000269|Ref.2;Dbxref=dbSNP:rs6131,PMID:10391209,PMID:9668170	
+P16109	UniProtKB	Natural variant	365	365	.	.	.	ID=VAR_013912;Note=M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6134,PMID:10391209	
+P16109	UniProtKB	Natural variant	385	385	.	.	.	ID=VAR_019384;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917742	
+P16109	UniProtKB	Natural variant	500	500	.	.	.	ID=VAR_013913;Note=S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6130,PMID:10391209	
+P16109	UniProtKB	Natural variant	542	542	.	.	.	ID=VAR_019385;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917769	
+P16109	UniProtKB	Natural variant	603	603	.	.	.	ID=VAR_004193;Note=D->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:2466574,ECO:0000269|PubMed:9668170,ECO:0000269|Ref.2;Dbxref=dbSNP:rs6127,PMID:10391209,PMID:2466574,PMID:9668170	
+P16109	UniProtKB	Natural variant	619	619	.	.	.	ID=VAR_019386;Note=S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs2228672	
+P16109	UniProtKB	Natural variant	631	631	.	.	.	ID=VAR_019387;Note=G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917812	
+P16109	UniProtKB	Natural variant	640	640	.	.	.	ID=VAR_004194;Note=Associated with susceptibility to ischemic stroke. L->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:16710414,ECO:0000269|PubMed:9668170,ECO:0000269|Ref.2,ECO:0000269|Ref.4;Dbxref=dbSNP:rs6133,PMID:10391209,PMID:16710414,PMID:9668170	
+P16109	UniProtKB	Natural variant	661	661	.	.	.	ID=VAR_019388;Note=T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917814	
+P16109	UniProtKB	Natural variant	673	673	.	.	.	ID=VAR_019389;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3917815	
+P16109	UniProtKB	Natural variant	756	756	.	.	.	ID=VAR_004195;Note=Reduced frequency in patients with myocardial infarction. T->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:9668170,ECO:0000269|Ref.2;Dbxref=dbSNP:rs6136,PMID:10391209,PMID:9668170	
+P16109	UniProtKB	Mutagenesis	129	129	.	.	.	Note=Impairs interaction with SELPLG. Abolishes cell rolling on glycan ligands. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28011641;Dbxref=PMID:28011641	
+P16109	UniProtKB	Beta strand	43	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Helix	53	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	64	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Helix	73	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	90	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Turn	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Turn	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	131	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	139	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	145	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	154	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Helix	167	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	171	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	178	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	
+P16109	UniProtKB	Beta strand	189	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	

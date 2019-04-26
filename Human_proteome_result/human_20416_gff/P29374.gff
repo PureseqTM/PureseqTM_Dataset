@@ -1,0 +1,63 @@
+##gff-version 3
+##sequence-region P29374 1 1257
+P29374	UniProtKB	Chain	1	1257	.	.	.	ID=PRO_0000200580;Note=AT-rich interactive domain-containing protein 4A	
+P29374	UniProtKB	Domain	309	401	.	.	.	Note=ARID;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00355	
+P29374	UniProtKB	Region	4	121	.	.	.	Note=DNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24379399;Dbxref=PMID:24379399	
+P29374	UniProtKB	Region	568	635	.	.	.	Note=Chromodomain-like;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22247551,ECO:0000269|PubMed:29408527;Dbxref=PMID:22247551,PMID:29408527	
+P29374	UniProtKB	Region	951	964	.	.	.	Note=Retinoblastoma protein binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29374	UniProtKB	Modified residue	676	676	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P29374	UniProtKB	Modified residue	716	716	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P29374	UniProtKB	Modified residue	864	864	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P29374	UniProtKB	Modified residue	1109	1109	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P29374	UniProtKB	Modified residue	1145	1145	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P29374	UniProtKB	Cross-link	481	481	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364;Dbxref=PMID:25755297,PMID:25772364	
+P29374	UniProtKB	Cross-link	513	513	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P29374	UniProtKB	Cross-link	718	718	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+P29374	UniProtKB	Cross-link	738	738	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P29374	UniProtKB	Cross-link	759	759	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P29374	UniProtKB	Alternative sequence	1106	1174	.	.	.	ID=VSP_004371;Note=In isoform III. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8455946;Dbxref=PMID:8455946	
+P29374	UniProtKB	Alternative sequence	1121	1174	.	.	.	ID=VSP_004373;Note=In isoform II. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8455946;Dbxref=PMID:8455946	
+P29374	UniProtKB	Alternative sequence	1175	1175	.	.	.	ID=VSP_004372;Note=In isoform III. N->D;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8455946;Dbxref=PMID:8455946	
+P29374	UniProtKB	Natural variant	412	412	.	.	.	ID=VAR_031566;Note=H->P;Dbxref=dbSNP:rs34982206	
+P29374	UniProtKB	Natural variant	724	724	.	.	.	ID=VAR_031567;Note=N->S;Dbxref=dbSNP:rs2230098	
+P29374	UniProtKB	Natural variant	779	779	.	.	.	ID=VAR_031568;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8414517;Dbxref=dbSNP:rs1051858,PMID:8414517	
+P29374	UniProtKB	Mutagenesis	583	583	.	.	.	Note=No effect on binding to trimethylated lysines. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22247551;Dbxref=PMID:22247551	
+P29374	UniProtKB	Mutagenesis	592	592	.	.	.	Note=Significantly reduces affinity for trimethylated lysines. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22247551;Dbxref=PMID:22247551	
+P29374	UniProtKB	Mutagenesis	612	612	.	.	.	Note=Abolishes binding to trimethylated lysines. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22247551;Dbxref=PMID:22247551	
+P29374	UniProtKB	Mutagenesis	615	615	.	.	.	Note=Abolishes binding to trimethylated lysines. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22247551;Dbxref=PMID:22247551	
+P29374	UniProtKB	Mutagenesis	619	619	.	.	.	Note=Abolishes binding to trimethylated lysines. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22247551;Dbxref=PMID:22247551	
+P29374	UniProtKB	Sequence conflict	385	385	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Sequence conflict	618	618	.	.	.	Note=R->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Sequence conflict	653	653	.	.	.	Note=K->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Sequence conflict	653	653	.	.	.	Note=K->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Sequence conflict	653	653	.	.	.	Note=K->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Sequence conflict	1178	1178	.	.	.	Note=D->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Sequence conflict	1196	1201	.	.	.	Note=IRKYYM->SENIICL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29374	UniProtKB	Beta strand	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	15	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	23	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Turn	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	48	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Turn	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	65	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	75	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	98	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Helix	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAM	
+P29374	UniProtKB	Beta strand	177	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Beta strand	190	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Beta strand	211	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Beta strand	221	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Turn	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Helix	239	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Helix	246	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Turn	262	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Helix	269	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YRV	
+P29374	UniProtKB	Beta strand	578	584	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	
+P29374	UniProtKB	Helix	586	588	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	
+P29374	UniProtKB	Beta strand	590	602	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	
+P29374	UniProtKB	Beta strand	605	612	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	
+P29374	UniProtKB	Helix	617	619	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	
+P29374	UniProtKB	Beta strand	621	624	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	
+P29374	UniProtKB	Helix	625	627	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BPH	

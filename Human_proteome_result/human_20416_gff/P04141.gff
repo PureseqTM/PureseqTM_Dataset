@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P04141 1 144
+P04141	UniProtKB	Signal peptide	1	17	.	.	.	.	
+P04141	UniProtKB	Chain	18	144	.	.	.	ID=PRO_0000005865;Note=Granulocyte-macrophage colony-stimulating factor	
+P04141	UniProtKB	Glycosylation	22	22	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1737041;Dbxref=PMID:1737041	
+P04141	UniProtKB	Glycosylation	24	24	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1737041;Dbxref=PMID:1737041	
+P04141	UniProtKB	Glycosylation	26	26	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1737041;Dbxref=PMID:1737041	
+P04141	UniProtKB	Glycosylation	27	27	.	.	.	Note=O-linked (GalNAc...) threonine%3B partial;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1737041;Dbxref=PMID:1737041	
+P04141	UniProtKB	Glycosylation	44	44	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P04141	UniProtKB	Glycosylation	54	54	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P04141	UniProtKB	Disulfide bond	71	113	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1CSG,ECO:0000244|PDB:2GMF,ECO:0000244|PDB:4RS1,ECO:0000244|PDB:5C7X,ECO:0000244|PDB:5D70,ECO:0000269|PubMed:1569568,ECO:0000269|PubMed:18692472;Dbxref=PMID:1569568,PMID:18692472	
+P04141	UniProtKB	Disulfide bond	105	138	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1CSG,ECO:0000244|PDB:2GMF,ECO:0000244|PDB:4RS1,ECO:0000244|PDB:5C7X,ECO:0000244|PDB:5D70,ECO:0000269|PubMed:1569568,ECO:0000269|PubMed:18692472;Dbxref=PMID:1569568,PMID:18692472	
+P04141	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_013089;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs2069640	
+P04141	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_001975;Note=I->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.6,ECO:0000269|Ref.9;Dbxref=dbSNP:rs25882,PMID:15489334	
+P04141	UniProtKB	Sequence conflict	96	96	.	.	.	Note=M->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04141	UniProtKB	Sequence conflict	123	123	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04141	UniProtKB	Turn	25	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GMF	
+P04141	UniProtKB	Turn	29	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D70	
+P04141	UniProtKB	Helix	32	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Turn	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Beta strand	56	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Beta strand	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D70	
+P04141	UniProtKB	Helix	72	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Helix	85	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Helix	91	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Beta strand	115	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	
+P04141	UniProtKB	Helix	120	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BFS	

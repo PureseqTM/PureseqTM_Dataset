@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region P63104 1 245
+P63104	UniProtKB	Chain	1	245	.	.	.	ID=PRO_0000058627;Note=14-3-3 protein zeta/delta	
+P63104	UniProtKB	Site	56	56	.	.	.	Note=Interaction with phosphoserine on interacting protein;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P63104	UniProtKB	Site	127	127	.	.	.	Note=Interaction with phosphoserine on interacting protein;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P63104	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712,ECO:0000269|Ref.8;Dbxref=PMID:22223895,PMID:22814378,PMID:25944712	
+P63104	UniProtKB	Modified residue	3	3	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P63104	UniProtKB	Modified residue	58	58	.	.	.	Note=Phosphoserine%3B by PKA and PKB/AKT1;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11956222,ECO:0000269|PubMed:12865427,ECO:0000269|PubMed:15883165,ECO:0000269|PubMed:16376338;Dbxref=PMID:11956222,PMID:12865427,PMID:15883165,PMID:16376338	
+P63104	UniProtKB	Modified residue	68	68	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P63104	UniProtKB	Modified residue	184	184	.	.	.	Note=Phosphoserine%3B by MAPK8;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15071501,ECO:0000269|PubMed:15696159;Dbxref=PMID:15071501,PMID:15696159	
+P63104	UniProtKB	Modified residue	207	207	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231;Dbxref=PMID:19690332,PMID:20068231	
+P63104	UniProtKB	Modified residue	210	210	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63102	
+P63104	UniProtKB	Modified residue	232	232	.	.	.	Note=Phosphothreonine%3B by CK1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:9360956;Dbxref=PMID:20068231,PMID:9360956	
+P63104	UniProtKB	Alternative sequence	1	98	.	.	.	ID=VSP_047505;Note=In isoform 2. MDKNELVQKAKLAEQAERYDDMAACMKSVTEQGAELSNEERNLLSVAYKNVVGARRSSWRVVSSIEQKTEGAEKKQQMAREYREKIETELRDICNDVL->MSQPCRKLWRHNYETSSCIEFLK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P63104	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Loss of interaction with NOXA1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+P63104	UniProtKB	Mutagenesis	58	58	.	.	.	Note=Loss of sphingosine-activated PKA phosphorylation. Promotes homodimerization and heterodimerization with YWHAE. Enhanced transcriptional activity of P53. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15883165,ECO:0000269|PubMed:16376338;Dbxref=PMID:15883165,PMID:16376338	
+P63104	UniProtKB	Mutagenesis	58	58	.	.	.	Note=Loss of homodimerization. Reduced dimerization with YWHAE. Significantly reduced interaction with P53. No enhancement of P53 transcriptional activity. S->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15883165,ECO:0000269|PubMed:16376338;Dbxref=PMID:15883165,PMID:16376338	
+P63104	UniProtKB	Mutagenesis	184	184	.	.	.	Note=On DNA damage%2C loss of MAPK8-mediated phosphorylation. Loss of binding ABL1. Attenuates ABL1-mediated apoptosis. No loss of interaction with BAX under stress conditions. Inhibits translocation of BAX to mitochondria. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15071501,ECO:0000269|PubMed:15696159;Dbxref=PMID:15071501,PMID:15696159	
+P63104	UniProtKB	Sequence conflict	22	22	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63104	UniProtKB	Sequence conflict	136	136	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63104	UniProtKB	Helix	3	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	19	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	38	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Turn	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	76	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	105	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	112	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	135	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	165	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	185	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	201	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Turn	208	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	
+P63104	UniProtKB	Helix	211	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O02	

@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region Q8N1N4 1 520
+Q8N1N4	UniProtKB	Chain	1	520	.	.	.	ID=PRO_0000314891;Note=Keratin%2C type II cytoskeletal 78	
+Q8N1N4	UniProtKB	Domain	111	424	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+Q8N1N4	UniProtKB	Region	1	110	.	.	.	Note=Head	
+Q8N1N4	UniProtKB	Region	111	146	.	.	.	Note=Coil 1A	
+Q8N1N4	UniProtKB	Region	147	165	.	.	.	Note=Linker 1	
+Q8N1N4	UniProtKB	Region	166	258	.	.	.	Note=Coil 1B	
+Q8N1N4	UniProtKB	Region	259	281	.	.	.	Note=Linker 12	
+Q8N1N4	UniProtKB	Region	282	421	.	.	.	Note=Coil 2	
+Q8N1N4	UniProtKB	Region	422	520	.	.	.	Note=Tail	
+Q8N1N4	UniProtKB	Compositional bias	7	82	.	.	.	Note=Gly-rich	
+Q8N1N4	UniProtKB	Compositional bias	430	507	.	.	.	Note=Ser-rich	
+Q8N1N4	UniProtKB	Site	362	362	.	.	.	Note=Stutter	
+Q8N1N4	UniProtKB	Alternative sequence	1	110	.	.	.	ID=VSP_030419;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q8N1N4	UniProtKB	Alternative sequence	111	127	.	.	.	ID=VSP_030420;Note=In isoform 2. ETQEIRTLNNQFASFID->MEGHEASPAQVGQGDRG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q8N1N4	UniProtKB	Natural variant	25	25	.	.	.	ID=VAR_038109;Note=R->H;Dbxref=dbSNP:rs11170289	
+Q8N1N4	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_038110;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs2013335,PMID:14702039	
+Q8N1N4	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_038111;Note=G->A;Dbxref=dbSNP:rs2682343	
+Q8N1N4	UniProtKB	Natural variant	238	238	.	.	.	ID=VAR_038112;Note=A->T;Dbxref=dbSNP:rs10876360	
+Q8N1N4	UniProtKB	Sequence conflict	250	250	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N1N4	UniProtKB	Sequence conflict	259	259	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

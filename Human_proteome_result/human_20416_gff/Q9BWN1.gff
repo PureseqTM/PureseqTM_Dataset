@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q9BWN1 1 585
+Q9BWN1	UniProtKB	Chain	1	585	.	.	.	ID=PRO_0000307269;Note=Proline-rich protein 14	
+Q9BWN1	UniProtKB	Region	1	135	.	.	.	Note=Sufficient for heterochromatin association in interphase and chromatin association in anaphase;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24209742;Dbxref=PMID:24209742	
+Q9BWN1	UniProtKB	Region	85	378	.	.	.	Note=Required for the interaction with GRB2 and sufficient to promote the phosphorylation of AKT and cell proliferation;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25906157,ECO:0000269|PubMed:27041574;Dbxref=PMID:25906157,PMID:27041574	
+Q9BWN1	UniProtKB	Region	136	365	.	.	.	Note=Required for nuclear lamina association;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24209742;Dbxref=PMID:24209742	
+Q9BWN1	UniProtKB	Region	518	535	.	.	.	Note=Required for nuclear localization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24209742;Dbxref=PMID:24209742	
+Q9BWN1	UniProtKB	Compositional bias	85	378	.	.	.	Note=Pro-rich	
+Q9BWN1	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9BWN1	UniProtKB	Modified residue	277	277	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9BWN1	UniProtKB	Natural variant	359	359	.	.	.	ID=VAR_035389;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs3747481,PMID:15489334	
+Q9BWN1	UniProtKB	Mutagenesis	54	55	.	.	.	Note=Loss of heterochromatin association. Loss of interaction with CBX5. VV->AA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24209742,ECO:0000269|PubMed:25906157;Dbxref=PMID:24209742,PMID:25906157	
+Q9BWN1	UniProtKB	Mutagenesis	54	55	.	.	.	Note=Loss of heterochromatin association during interphase and loss of chromatin association during anaphase. VV->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24209742;Dbxref=PMID:24209742	
+Q9BWN1	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Increased binding to GRB2 and enhanced cell proliferation. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27041574;Dbxref=PMID:27041574	
+Q9BWN1	UniProtKB	Mutagenesis	566	566	.	.	.	Note=Increased binding to GRB2 and enhanced cell proliferation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27041574;Dbxref=PMID:27041574	

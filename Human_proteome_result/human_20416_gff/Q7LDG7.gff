@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q7LDG7 1 609
+Q7LDG7	UniProtKB	Chain	1	609	.	.	.	ID=PRO_0000315608;Note=RAS guanyl-releasing protein 2	
+Q7LDG7	UniProtKB	Domain	4	126	.	.	.	Note=N-terminal Ras-GEF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00135	
+Q7LDG7	UniProtKB	Domain	154	387	.	.	.	Note=Ras-GEF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00168	
+Q7LDG7	UniProtKB	Domain	426	461	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q7LDG7	UniProtKB	Domain	455	490	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q7LDG7	UniProtKB	Calcium binding	439	450	.	.	.	Note=1;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00448,ECO:0000305|PubMed:23908768;Dbxref=PMID:23908768	
+Q7LDG7	UniProtKB	Calcium binding	468	479	.	.	.	Note=2;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00448,ECO:0000305|PubMed:23908768;Dbxref=PMID:23908768	
+Q7LDG7	UniProtKB	Zinc finger	498	548	.	.	.	Note=Phorbol-ester/DAG-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00226	
+Q7LDG7	UniProtKB	Modified residue	116	116	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QUG9	
+Q7LDG7	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QUG9	
+Q7LDG7	UniProtKB	Modified residue	147	147	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QUG9	
+Q7LDG7	UniProtKB	Modified residue	554	554	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QUG9	
+Q7LDG7	UniProtKB	Modified residue	576	576	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0C643	
+Q7LDG7	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_030574;Note=In isoform 2. M->MGTQRLCGRGTQGWPGSSEQHVQEATSSAGLHSGVDELGVRSEPGGRLPERSLGPAHPAPAAM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10918068;Dbxref=PMID:10918068	
+Q7LDG7	UniProtKB	Alternative sequence	125	125	.	.	.	ID=VSP_030575;Note=In isoform 3. P->CVGAEHRGLGGHSVSYTICA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7LDG7	UniProtKB	Alternative sequence	126	609	.	.	.	ID=VSP_030576;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7LDG7	UniProtKB	Alternative sequence	590	590	.	.	.	ID=VSP_054132;Note=In isoform 4. P->PA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q7LDG7	UniProtKB	Natural variant	113	609	.	.	.	ID=VAR_079614;Note=In BDPLT18. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27235135;Dbxref=PMID:27235135	
+Q7LDG7	UniProtKB	Natural variant	236	609	.	.	.	ID=VAR_079615;Note=In BDPLT18%3B lack of mutant protein in platelets from a patient homozygous for the mutation. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28762304;Dbxref=PMID:28762304	
+Q7LDG7	UniProtKB	Natural variant	248	248	.	.	.	ID=VAR_071474;Note=In BDPLT18%3B prevents Rap1 activation upon calcium stimulation%3B reduces platelet adhesion and spreading. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24958846;Dbxref=dbSNP:rs587777529,PMID:24958846	
+Q7LDG7	UniProtKB	Natural variant	296	296	.	.	.	ID=VAR_079616;Note=In BDPLT18%3B lack of mutant protein in platelets from a patient homozygous for the mutation. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28762304;Dbxref=PMID:28762304	
+Q7LDG7	UniProtKB	Natural variant	305	305	.	.	.	ID=VAR_079617;Note=In BDPLT18. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28726538;Dbxref=PMID:28726538	
+Q7LDG7	UniProtKB	Natural variant	381	381	.	.	.	ID=VAR_079618;Note=In BDPLT18%3B loss of guanyl-nucleotide exchange factor activity. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27235135;Dbxref=dbSNP:rs767965347,PMID:27235135	
+Q7LDG7	UniProtKB	Natural variant	493	493	.	.	.	ID=VAR_038257;Note=G->A;Dbxref=dbSNP:rs2301562	
+Q7LDG7	UniProtKB	Helix	13	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	33	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	49	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	69	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	87	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	94	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	129	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Beta strand	137	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	145	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	155	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	175	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	191	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	217	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	240	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	253	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	259	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	267	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Turn	283	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	287	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	306	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Beta strand	320	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	331	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	347	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	358	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	374	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AXF	
+Q7LDG7	UniProtKB	Helix	420	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MA2	
+Q7LDG7	UniProtKB	Helix	448	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MA2	
+Q7LDG7	UniProtKB	Turn	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MA2	
+Q7LDG7	UniProtKB	Helix	464	467	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MA2	
+Q7LDG7	UniProtKB	Helix	477	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MA2	
+Q7LDG7	UniProtKB	Beta strand	490	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MA2	

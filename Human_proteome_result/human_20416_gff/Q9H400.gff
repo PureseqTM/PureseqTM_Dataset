@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region Q9H400 1 295
+Q9H400	UniProtKB	Chain	1	295	.	.	.	ID=PRO_0000083332;Note=Lck-interacting transmembrane adapter 1	
+Q9H400	UniProtKB	Topological domain	1	6	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H400	UniProtKB	Transmembrane	7	27	.	.	.	Note=Helical%3B Signal-anchor for type III membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H400	UniProtKB	Topological domain	28	295	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H400	UniProtKB	Region	145	148	.	.	.	Note=Interaction with GRB2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H400	UniProtKB	Region	167	170	.	.	.	Note=Interaction with CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Region	200	203	.	.	.	Note=Interaction with CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Region	235	238	.	.	.	Note=Interaction with LCK and PIK3R1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H400	UniProtKB	Region	254	257	.	.	.	Note=Interaction with LCK%2C PLCG2 and PIK3R1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H400	UniProtKB	Modified residue	145	145	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9EQR5	
+Q9H400	UniProtKB	Modified residue	167	167	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Modified residue	200	200	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Modified residue	235	235	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9EQR5	
+Q9H400	UniProtKB	Modified residue	254	254	.	.	.	Note=Phosphotyrosine%3B by LCK;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Modified residue	256	256	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9H400	UniProtKB	Lipidation	28	28	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Lipidation	31	31	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Alternative sequence	1	95	.	.	.	ID=VSP_016642;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15498874;Dbxref=PMID:15498874	
+Q9H400	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_053918;Note=P->L;Dbxref=dbSNP:rs1151625	
+Q9H400	UniProtKB	Mutagenesis	145	145	.	.	.	Note=No change in binding to LCK%2C CSK or FYN. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Abolishes binding to CSK. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Reduces binding to CSK. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Mutagenesis	235	235	.	.	.	Note=No change in binding to LCK%2C CSK or FYN. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Abolishes binding to LCK and reduces binding to FYN. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610046;Dbxref=PMID:14610046	
+Q9H400	UniProtKB	Sequence conflict	246	246	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

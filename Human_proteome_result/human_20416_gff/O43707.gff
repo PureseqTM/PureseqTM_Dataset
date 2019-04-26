@@ -1,0 +1,88 @@
+##gff-version 3
+##sequence-region O43707 1 911
+O43707	UniProtKB	Chain	1	911	.	.	.	ID=PRO_0000073440;Note=Alpha-actinin-4	
+O43707	UniProtKB	Domain	50	154	.	.	.	Note=Calponin-homology (CH) 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00044	
+O43707	UniProtKB	Domain	163	269	.	.	.	Note=Calponin-homology (CH) 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00044	
+O43707	UniProtKB	Repeat	293	403	.	.	.	Note=Spectrin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43707	UniProtKB	Repeat	413	518	.	.	.	Note=Spectrin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43707	UniProtKB	Repeat	528	639	.	.	.	Note=Spectrin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43707	UniProtKB	Repeat	649	752	.	.	.	Note=Spectrin 4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43707	UniProtKB	Domain	765	800	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+O43707	UniProtKB	Domain	806	841	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+O43707	UniProtKB	Calcium binding	778	789	.	.	.	Note=1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+O43707	UniProtKB	Calcium binding	819	830	.	.	.	Note=2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+O43707	UniProtKB	Region	1	269	.	.	.	Note=Actin-binding	
+O43707	UniProtKB	Region	12	26	.	.	.	Note=Interaction with VCL;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1YDI,ECO:0000269|PubMed:15988023;Dbxref=PMID:15988023	
+O43707	UniProtKB	Region	40	61	.	.	.	Note=Interaction with VCL;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1YDI,ECO:0000269|PubMed:15988023;Dbxref=PMID:15988023	
+O43707	UniProtKB	Region	108	126	.	.	.	Note=Interaction with VCL;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1YDI,ECO:0000269|PubMed:15988023;Dbxref=PMID:15988023	
+O43707	UniProtKB	Region	177	192	.	.	.	Note=Polyphosphoinositide (PIP2)-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43707	UniProtKB	Region	736	911	.	.	.	Note=Mediates interaction with MICALL2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P57780	
+O43707	UniProtKB	Motif	84	88	.	.	.	Note=LXXLL motif;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22351778;Dbxref=PMID:22351778	
+O43707	UniProtKB	Compositional bias	19	26	.	.	.	Note=Poly-Gly;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43707	UniProtKB	Modified residue	31	31	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12814	
+O43707	UniProtKB	Modified residue	114	114	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O43707	UniProtKB	Modified residue	214	214	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12814	
+O43707	UniProtKB	Modified residue	249	249	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O43707	UniProtKB	Modified residue	592	592	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O43707	UniProtKB	Modified residue	625	625	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O43707	UniProtKB	Modified residue	696	696	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P12814	
+O43707	UniProtKB	Modified residue	779	779	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P57780	
+O43707	UniProtKB	Modified residue	859	859	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P57780	
+O43707	UniProtKB	Modified residue	909	909	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z1P2	
+O43707	UniProtKB	Alternative sequence	54	272	.	.	.	ID=VSP_047733;Note=In isoform ACTN4ISO. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22567897;Dbxref=PMID:22567897	
+O43707	UniProtKB	Alternative sequence	89	478	.	.	.	ID=VSP_053401;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+O43707	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_079797;Note=In FSGS1. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23014460;Dbxref=PMID:23014460	
+O43707	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_079798;Note=In FSGS1. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23014460;Dbxref=PMID:23014460	
+O43707	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_079799;Note=In FSGS1%3B unknown pathological significance. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23014460;Dbxref=PMID:23014460	
+O43707	UniProtKB	Natural variant	255	255	.	.	.	ID=VAR_010378;Note=In FSGS1%3B no effect on protein abundance%3B no effect on homodimerization%3B loss of localization to the nucleus%3B prevents nuclear localization of the wild-type protein%3B decreased interaction with PPARG and RARA%3B loss of transcriptional coactivator activity%3B dominant negative effect on nuclear receptors-mediated transcription%3B increased actin-binding affinity. K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10700177,ECO:0000269|PubMed:18164029,ECO:0000269|PubMed:22351778,ECO:0000269|PubMed:23014460;Dbxref=dbSNP:rs121908415,PMID:10700177,PMID:18164029,PMID:22351778,PMID:23014460	
+O43707	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_010379;Note=In FSGS1%3B no effect on protein abundance%3B no effect on homodimerization%3B loss of localization to the nucleus%3B prevents nuclear localization of the wild-type protein%3B decreased interaction with PPARG and RARA%3B loss of transcriptional coactivator activity%3B dominant negative effect on nuclear receptors-mediated transcription%3B increased actin-binding affinity. T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10700177,ECO:0000269|PubMed:18164029,ECO:0000269|PubMed:22351778,ECO:0000269|PubMed:23014460;Dbxref=dbSNP:rs121908416,PMID:10700177,PMID:18164029,PMID:22351778,PMID:23014460	
+O43707	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_072115;Note=In FSGS1. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18436095;Dbxref=PMID:18436095	
+O43707	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_010380;Note=In FSGS1%3B no effect on protein abundance%3B no effect on homodimerization%3B loss of localization to the nucleus%3B prevents nuclear localization of the wild-type protein%3B decreased interaction with PPARG and RARA%3B loss of transcriptional coactivator activity%3B dominant negative effect on nuclear receptors-mediated transcription%3B increased actin-binding affinity. S->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10700177,ECO:0000269|PubMed:18164029,ECO:0000269|PubMed:22351778,ECO:0000269|PubMed:23014460;Dbxref=dbSNP:rs121908417,PMID:10700177,PMID:18164029,PMID:22351778,PMID:23014460	
+O43707	UniProtKB	Natural variant	310	310	.	.	.	ID=VAR_079800;Note=In FSGS1%3B unknown pathological significance. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22732337;Dbxref=dbSNP:rs112545413,PMID:22732337	
+O43707	UniProtKB	Natural variant	427	427	.	.	.	ID=VAR_072116;Note=In FSGS1. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=dbSNP:rs201128110,PMID:23890478	
+O43707	UniProtKB	Natural variant	748	748	.	.	.	ID=VAR_072117;Note=In FSGS1. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=PMID:23890478	
+O43707	UniProtKB	Natural variant	784	784	.	.	.	ID=VAR_072118;Note=Rare variant found in patients with IgA nephropathy%3B unknown pathological significance. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=dbSNP:rs771421233,PMID:23890478	
+O43707	UniProtKB	Natural variant	786	786	.	.	.	ID=VAR_072119;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=PMID:23890478	
+O43707	UniProtKB	Natural variant	787	787	.	.	.	ID=VAR_072120;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=PMID:23890478	
+O43707	UniProtKB	Natural variant	787	787	.	.	.	ID=VAR_072121;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=PMID:23890478	
+O43707	UniProtKB	Natural variant	793	793	.	.	.	ID=VAR_072122;Note=Rare variant found in patients with IgA nephropathy%3B unknown pathological significance. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=PMID:23890478	
+O43707	UniProtKB	Natural variant	798	798	.	.	.	ID=VAR_072123;Note=Rare variant found in patients with IgA nephropathy%3B unknown pathological significance. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=PMID:23890478	
+O43707	UniProtKB	Natural variant	801	801	.	.	.	ID=VAR_072124;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23890478;Dbxref=dbSNP:rs141727248,PMID:23890478	
+O43707	UniProtKB	Mutagenesis	87	88	.	.	.	Note=Reduced interaction with RARA. Loss of the transcriptional coac tivator activity toward RARA. LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22351778;Dbxref=PMID:22351778	
+O43707	UniProtKB	Sequence conflict	60	60	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	164	164	.	.	.	Note=S->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	221	221	.	.	.	Note=V->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	276	276	.	.	.	Note=T->TET;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	292	294	.	.	.	Note=EHL->CSTS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	359	360	.	.	.	Note=TL->SV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	476	476	.	.	.	Note=I->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	526	526	.	.	.	Note=I->II;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	536	536	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	645	645	.	.	.	Note=Q->QQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	673	674	.	.	.	Note=GR->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	850	850	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Sequence conflict	891	893	.	.	.	Note=AVP->GVR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43707	UniProtKB	Helix	47	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Turn	74	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	82	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	105	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Turn	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	131	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	139	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Turn	154	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	165	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Beta strand	187	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	196	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	207	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	220	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	243	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Beta strand	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	254	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2R0O	
+O43707	UniProtKB	Helix	519	552	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WLX	
+O43707	UniProtKB	Helix	560	600	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WLX	
+O43707	UniProtKB	Beta strand	606	608	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WLX	
+O43707	UniProtKB	Helix	616	641	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WLX	
+O43707	UniProtKB	Helix	736	756	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YDI	

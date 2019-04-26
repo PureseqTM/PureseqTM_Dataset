@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region P05019 1 195
+P05019	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P05019	UniProtKB	Propeptide	22	48	.	.	.	ID=PRO_0000015663	
+P05019	UniProtKB	Chain	49	118	.	.	.	ID=PRO_0000015664;Note=Insulin-like growth factor I	
+P05019	UniProtKB	Propeptide	119	195	.	.	.	ID=PRO_0000015665;Note=E peptide	
+P05019	UniProtKB	Region	49	77	.	.	.	Note=B	
+P05019	UniProtKB	Region	78	89	.	.	.	Note=C	
+P05019	UniProtKB	Region	90	110	.	.	.	Note=A	
+P05019	UniProtKB	Region	111	118	.	.	.	Note=D	
+P05019	UniProtKB	Disulfide bond	54	96	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3242681;Dbxref=PMID:3242681	
+P05019	UniProtKB	Disulfide bond	66	109	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3242681;Dbxref=PMID:3242681	
+P05019	UniProtKB	Disulfide bond	95	100	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3242681;Dbxref=PMID:3242681	
+P05019	UniProtKB	Alternative sequence	1	21	.	.	.	ID=VSP_043317;Note=In isoform 3. MGKISSLPTQLFKCCFCDFLK->MITPT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2082190;Dbxref=PMID:2082190	
+P05019	UniProtKB	Alternative sequence	135	195	.	.	.	ID=VSP_039637;Note=In isoform 2 and isoform 3. YQPPSTNKNTKSQRRKGWPKTHPGGEQKEGTEASLQIRGKKKEQRREIGSRNAECRGKKGK->EVHLKNASRGSAGNKNYRM;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1372070,ECO:0000303|PubMed:2018498,ECO:0000303|PubMed:2082190,ECO:0000303|PubMed:2935423,ECO:0000303|PubMed:6358902;Dbxref=PMID:1372070,PMID:2018498,PMID:2082190,PMID:2935423,PMID:6358902	
+P05019	UniProtKB	Alternative sequence	152	195	.	.	.	ID=VSP_047399;Note=In isoform 4. WPKTHPGGEQKEGTEASLQIRGKKKEQRREIGSRNAECRGKKGK->STFEERK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05019	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_075825;Note=Found in a patient with primordial dwarfism%3B unknown pathological significance. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24389050;Dbxref=dbSNP:rs587779350,PMID:24389050	
+P05019	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_056113;Note=A->T;Dbxref=dbSNP:rs17884626	
+P05019	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_013945;Note=A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6213,PMID:10391209	
+P05019	UniProtKB	Mutagenesis	84	84	.	.	.	Note=Dominant-negative mutant%2C no effect on IGFR1-binding%2C defective in integrin-binding and the formation of ternary complex with integrins and IGFR1%2C defective in inducing IGF1 signaling and cell proliferation%2C and suppresses activation of IGF1R by insulin and tumorigenesis in vivo%3B when associated with E-85. R->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19578119,ECO:0000269|PubMed:22351760,ECO:0000269|PubMed:23243309,ECO:0000269|PubMed:23696648;Dbxref=PMID:19578119,PMID:22351760,PMID:23243309,PMID:23696648	
+P05019	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Dominant-negative mutant%2C no effect on IGFR1-binding%2C defective in integrin-binding and the formation of ternary complex with integrins and IGFR1%2C defective in inducing IGF1 signaling and cell proliferation%2C and suppresses activation of IGF1R by insulin and tumorigenesis in vivo%3B when associated with E-84. R->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19578119,ECO:0000269|PubMed:22351760,ECO:0000269|PubMed:23243309,ECO:0000269|PubMed:23696648;Dbxref=PMID:19578119,PMID:22351760,PMID:23243309,PMID:23696648	
+P05019	UniProtKB	Beta strand	44	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LRI	
+P05019	UniProtKB	Helix	52	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TGR	
+P05019	UniProtKB	Helix	67	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TGR	
+P05019	UniProtKB	Beta strand	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TGR	
+P05019	UniProtKB	Beta strand	79	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H02	
+P05019	UniProtKB	Beta strand	82	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LRI	
+P05019	UniProtKB	Helix	90	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TGR	
+P05019	UniProtKB	Beta strand	96	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TGR	
+P05019	UniProtKB	Helix	102	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TGR	
+P05019	UniProtKB	Beta strand	109	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BQT	
+P05019	UniProtKB	Beta strand	112	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B9G	

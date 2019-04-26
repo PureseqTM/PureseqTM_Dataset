@@ -1,0 +1,79 @@
+##gff-version 3
+##sequence-region O94762 1 991
+O94762	UniProtKB	Chain	1	991	.	.	.	ID=PRO_0000205055;Note=ATP-dependent DNA helicase Q5	
+O94762	UniProtKB	Domain	39	213	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+O94762	UniProtKB	Domain	241	403	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+O94762	UniProtKB	Nucleotide binding	52	59	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+O94762	UniProtKB	Region	490	620	.	.	.	Note=Interaction with POLR2A	
+O94762	UniProtKB	Region	652	725	.	.	.	Note=Interaction with RAD51	
+O94762	UniProtKB	Motif	157	160	.	.	.	Note=DEAH box	
+O94762	UniProtKB	Modified residue	488	488	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:D4ACP5	
+O94762	UniProtKB	Modified residue	491	491	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O94762	UniProtKB	Modified residue	727	727	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94762	UniProtKB	Modified residue	815	815	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+O94762	UniProtKB	Modified residue	839	839	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94762	UniProtKB	Alternative sequence	43	69	.	.	.	ID=VSP_057431;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94762	UniProtKB	Alternative sequence	411	991	.	.	.	ID=VSP_005568;Note=In isoform Alpha. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10471747,ECO:0000303|PubMed:10710432,ECO:0000303|PubMed:9878247;Dbxref=PMID:10471747,PMID:10710432,PMID:9878247	
+O94762	UniProtKB	Alternative sequence	411	435	.	.	.	ID=VSP_005569;Note=In isoform Gamma. CRHAAIAKYFGDALPACAKGCDHCQ->RWGRGHGKSLRAAWCSQVVSRHAEL;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10471747,ECO:0000303|PubMed:10710432,ECO:0000303|PubMed:15489334;Dbxref=PMID:10471747,PMID:10710432,PMID:15489334	
+O94762	UniProtKB	Alternative sequence	436	991	.	.	.	ID=VSP_005570;Note=In isoform Gamma. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10471747,ECO:0000303|PubMed:10710432,ECO:0000303|PubMed:15489334;Dbxref=PMID:10471747,PMID:10710432,PMID:15489334	
+O94762	UniProtKB	Natural variant	480	480	.	.	.	ID=VAR_024272;Note=D->G;Dbxref=dbSNP:rs820196	
+O94762	UniProtKB	Natural variant	628	628	.	.	.	ID=VAR_051733;Note=S->N;Dbxref=dbSNP:rs35566780	
+O94762	UniProtKB	Mutagenesis	157	157	.	.	.	Note=Abolishes helicase activity. D->A	
+O94762	UniProtKB	Mutagenesis	504	504	.	.	.	Note=Abolishes interaction with POLR2A. W->A	
+O94762	UniProtKB	Mutagenesis	508	508	.	.	.	Note=Abolishes interaction with POLR2A. Y->A	
+O94762	UniProtKB	Mutagenesis	515	515	.	.	.	Note=Abolishes interaction with POLR2A. R->E	
+O94762	UniProtKB	Mutagenesis	516	516	.	.	.	Note=Abolishes interaction with POLR2A. K->E	
+O94762	UniProtKB	Mutagenesis	550	550	.	.	.	Note=Impairs protein folding and abolishes interaction with POLR2A. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20231364;Dbxref=PMID:20231364	
+O94762	UniProtKB	Mutagenesis	552	552	.	.	.	Note=Abolishes interaction with POLR2A. H->A	
+O94762	UniProtKB	Mutagenesis	556	556	.	.	.	Note=Abolishes interaction with POLR2A. L->E	
+O94762	UniProtKB	Mutagenesis	584	584	.	.	.	Note=Abolishes interaction with POLR2A. E->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20231364;Dbxref=PMID:20231364	
+O94762	UniProtKB	Mutagenesis	597	597	.	.	.	Note=Reduces interaction with POLR2A. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20231364;Dbxref=PMID:20231364	
+O94762	UniProtKB	Mutagenesis	598	598	.	.	.	Note=Abolishes interaction with POLR2A. K->E	
+O94762	UniProtKB	Mutagenesis	602	602	.	.	.	Note=Abolishes interaction with POLR2A. L->D%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20231364;Dbxref=PMID:20231364	
+O94762	UniProtKB	Mutagenesis	603	603	.	.	.	Note=Abolishes interaction with POLR2A. K->E	
+O94762	UniProtKB	Mutagenesis	666	666	.	.	.	Note=Abolishes interaction with RAD51. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20348101;Dbxref=PMID:20348101	
+O94762	UniProtKB	Helix	12	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	32	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	48	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	60	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	73	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	80	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	97	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	106	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	125	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	130	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Turn	136	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	139	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	153	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	159	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Turn	164	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LBA	
+O94762	UniProtKB	Helix	171	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	176	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	184	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	188	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	197	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	214	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	225	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	232	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	238	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	252	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	260	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	269	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	286	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LBA	
+O94762	UniProtKB	Helix	295	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	309	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	328	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	340	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	357	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	365	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	392	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	412	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Beta strand	428	431	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB8	
+O94762	UniProtKB	Helix	432	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Helix	437	450	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LB3	
+O94762	UniProtKB	Turn	535	538	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BK0	
+O94762	UniProtKB	Helix	547	589	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BK0	
+O94762	UniProtKB	Helix	594	613	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BK0	

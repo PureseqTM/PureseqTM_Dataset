@@ -1,0 +1,80 @@
+##gff-version 3
+##sequence-region P49366 1 369
+P49366	UniProtKB	Chain	1	369	.	.	.	ID=PRO_0000134469;Note=Deoxyhypusine synthase	
+P49366	UniProtKB	Nucleotide binding	105	109	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Nucleotide binding	131	133	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Nucleotide binding	308	309	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Nucleotide binding	342	343	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Region	136	137	.	.	.	Note=Spermidine binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Region	314	316	.	.	.	Note=Spermidine binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Region	323	329	.	.	.	Note=Spermidine binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Active site	329	329	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9405486;Dbxref=PMID:9405486	
+P49366	UniProtKB	Binding site	137	137	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Binding site	238	238	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Binding site	243	243	.	.	.	Note=Spermidine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Binding site	283	283	.	.	.	Note=NAD%3B via amide nitrogen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9493264;Dbxref=PMID:9493264	
+P49366	UniProtKB	Binding site	288	288	.	.	.	Note=Spermidine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Modified residue	78	78	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:20068231;Dbxref=PMID:17525332,PMID:20068231	
+P49366	UniProtKB	Alternative sequence	1	68	.	.	.	ID=VSP_047564;Note=In isoform 3. MEGSLEREAPAGALAAVLKHSSTLPPESTQVRGYDFNRGVNYRALLEAFGTTGFQATNFGRAVQQVNA->MPIIPAFWEAEAGGSREEEFETSLAN;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+P49366	UniProtKB	Alternative sequence	262	308	.	.	.	ID=VSP_001351;Note=In isoform Short. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8615810;Dbxref=PMID:8615810	
+P49366	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_043005;Note=E->D;Dbxref=dbSNP:rs10425108	
+P49366	UniProtKB	Mutagenesis	106	106	.	.	.	Note=Strongly reduced NAD and spermidine binding. Reduced activity. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Strongly reduced spermidine binding. Reduced activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	137	137	.	.	.	Note=Strongly reduced NAD binding. Strongly reduced formation of covalent intermediate. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	238	238	.	.	.	Note=Strongly reduced NAD binding. Strongly reduced formation of covalent intermediate. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Reduces spermidine binding by 98%25. Strongly reduced formation of covalent intermediate. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Reduces covalent intermediate formation and deoxyhypusine synthesis by 99.5%25. Retains low spermidine cleavage activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9405486;Dbxref=PMID:9405486	
+P49366	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Reduces spermidine binding by 98%25. Strongly reduced NAD binding. Strongly reduced formation of covalent intermediate. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	305	305	.	.	.	Note=Strongly reduced NAD binding. No effect on enzyme activity. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Strongly reduced NAD binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	316	316	.	.	.	Note=Reduces spermidine binding by 98%25. Loss of covalent intermediate formation and deoxyhypusine synthesis. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	317	317	.	.	.	Note=Strongly reduced NAD binding. No effect on enzyme activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	323	323	.	.	.	Note=Reduces spermidine binding by 98%25. Strongly reduced formation of covalent intermediate. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	327	327	.	.	.	Note=Reduces spermidine binding by 98%25. Loss of covalent intermediate formation and deoxyhypusine synthesis. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Mutagenesis	329	329	.	.	.	Note=Loss of covalent intermediate formation and deoxyhypusine synthesis. K->A%2CR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9405486;Dbxref=PMID:9405486	
+P49366	UniProtKB	Mutagenesis	342	342	.	.	.	Note=Strongly reduced NAD binding. Strongly reduced activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11311149;Dbxref=PMID:11311149	
+P49366	UniProtKB	Sequence conflict	11	11	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	11	11	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	13	14	.	.	.	Note=AL->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	13	14	.	.	.	Note=AL->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	85	85	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	85	85	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	196	196	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	196	196	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	199	199	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	199	199	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	220	220	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	220	220	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	228	228	.	.	.	Note=H->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	296	297	.	.	.	Note=MR->SG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Sequence conflict	311	311	.	.	.	Note=E->EE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49366	UniProtKB	Helix	11	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	42	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	48	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	54	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	79	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ROZ	
+P49366	UniProtKB	Beta strand	96	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	106	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	112	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Beta strand	126	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	132	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Turn	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	155	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Beta strand	163	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Beta strand	169	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	174	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	203	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	220	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Turn	234	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	240	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	260	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Beta strand	274	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	284	295	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Turn	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Beta strand	299	307	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	321	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Beta strand	337	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	343	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	355	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	
+P49366	UniProtKB	Helix	359	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLZ	

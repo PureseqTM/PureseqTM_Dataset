@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region P30279 1 289
+P30279	UniProtKB	Chain	1	289	.	.	.	ID=PRO_0000080437;Note=G1/S-specific cyclin-D2	
+P30279	UniProtKB	Domain	26	151	.	.	.	Note=Cyclin N-terminal	
+P30279	UniProtKB	Modified residue	271	271	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P30279	UniProtKB	Modified residue	280	280	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30280	
+P30279	UniProtKB	Alternative sequence	138	209	.	.	.	ID=VSP_057295;Note=In isoform 2. EWELVVLGKLKWNLAAVTPHDFIEHILRKLPQQREKLSLIRKHAQTFIALCATDFKFAMYPPSMIATGSVGA->VMTGPFLPSFLRFPLSPGQQYAFYHHCQSKFLGSRMTPPIEFTHLWAIAHLIGNHCLFFVCSYYVPRLRAQH;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.11	
+P30279	UniProtKB	Alternative sequence	210	289	.	.	.	ID=VSP_057296;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.11	
+P30279	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_018820;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3217921	
+P30279	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_072370;Note=In MPPH3. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24705253;Dbxref=dbSNP:rs587777618,PMID:24705253	
+P30279	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_072371;Note=In MPPH3. T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24705253;Dbxref=dbSNP:rs587777620,PMID:24705253	
+P30279	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_072372;Note=In MPPH3. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24705253;Dbxref=dbSNP:rs587777622,PMID:24705253	
+P30279	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_072373;Note=In MPPH3. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24705253;Dbxref=dbSNP:rs587777622,PMID:24705253	
+P30279	UniProtKB	Natural variant	284	284	.	.	.	ID=VAR_072374;Note=In MPPH3. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24705253;Dbxref=dbSNP:rs777786993,PMID:24705253	
+P30279	UniProtKB	Sequence conflict	166	167	.	.	.	Note=KL->NV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30279	UniProtKB	Sequence conflict	224	224	.	.	.	Note=T->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

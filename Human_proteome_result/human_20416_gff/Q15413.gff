@@ -1,0 +1,71 @@
+##gff-version 3
+##sequence-region Q15413 1 4870
+Q15413	UniProtKB	Chain	1	4870	.	.	.	ID=PRO_0000219363;Note=Ryanodine receptor 3	
+Q15413	UniProtKB	Topological domain	1	4186	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15413	UniProtKB	Transmembrane	4187	4207	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Transmembrane	4410	4430	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Transmembrane	4485	4505	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Transmembrane	4610	4630	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Transmembrane	4633	4653	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Transmembrane	4672	4692	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Intramembrane	4723	4732	.	.	.	Note=Pore-forming;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15413	UniProtKB	Transmembrane	4753	4773	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15413	UniProtKB	Topological domain	4774	4870	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15413	UniProtKB	Domain	100	155	.	.	.	Note=MIR 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00131	
+Q15413	UniProtKB	Domain	162	207	.	.	.	Note=MIR 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00131	
+Q15413	UniProtKB	Domain	215	269	.	.	.	Note=MIR 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00131	
+Q15413	UniProtKB	Domain	275	333	.	.	.	Note=MIR 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00131	
+Q15413	UniProtKB	Domain	343	400	.	.	.	Note=MIR 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00131	
+Q15413	UniProtKB	Domain	585	796	.	.	.	Note=B30.2/SPRY 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00548	
+Q15413	UniProtKB	Repeat	840	953	.	.	.	Note=1	
+Q15413	UniProtKB	Repeat	954	1068	.	.	.	Note=2	
+Q15413	UniProtKB	Domain	1012	1208	.	.	.	Note=B30.2/SPRY 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00548	
+Q15413	UniProtKB	Domain	1254	1466	.	.	.	Note=B30.2/SPRY 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00548	
+Q15413	UniProtKB	Repeat	2589	2707	.	.	.	Note=3	
+Q15413	UniProtKB	Repeat	2708	2820	.	.	.	Note=4	
+Q15413	UniProtKB	Region	840	2820	.	.	.	Note=4 X approximate repeats	
+Q15413	UniProtKB	Region	2322	2335	.	.	.	Note=Interaction with FKBP1A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22100703;Dbxref=PMID:22100703	
+Q15413	UniProtKB	Region	3469	3498	.	.	.	Note=Interaction with CALM;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15413	UniProtKB	Site	3883	3883	.	.	.	Note=Important for activation by Ca(2+);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15413	UniProtKB	Alternative sequence	3337	3341	.	.	.	ID=VSP_005954;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9395096;Dbxref=PMID:9395096	
+Q15413	UniProtKB	Alternative sequence	3857	3859	.	.	.	ID=VSP_005955;Note=In isoform 3. DSS->GMW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Alternative sequence	3860	4870	.	.	.	ID=VSP_005956;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_024077;Note=R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9515741;Dbxref=PMID:9515741	
+Q15413	UniProtKB	Natural variant	358	358	.	.	.	ID=VAR_057166;Note=I->T;Dbxref=dbSNP:rs2304380	
+Q15413	UniProtKB	Natural variant	494	494	.	.	.	ID=VAR_024078;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9515741;Dbxref=dbSNP:rs2077268,PMID:9515741	
+Q15413	UniProtKB	Natural variant	693	693	.	.	.	ID=VAR_011404;Note=Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9515741;Dbxref=PMID:9515741	
+Q15413	UniProtKB	Natural variant	731	731	.	.	.	ID=VAR_011405;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9515741;Dbxref=dbSNP:rs2229116,PMID:9515741	
+Q15413	UniProtKB	Natural variant	1380	1380	.	.	.	ID=VAR_011406;Note=E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9515741;Dbxref=PMID:9515741	
+Q15413	UniProtKB	Natural variant	2268	2268	.	.	.	ID=VAR_011407;Note=Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9515741;Dbxref=PMID:9515741	
+Q15413	UniProtKB	Sequence conflict	932	932	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	1081	1081	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	1336	1336	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	1480	1480	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	1641	1641	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	1641	1641	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2270	2270	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2270	2270	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2355	2355	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2433	2433	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2546	2546	.	.	.	Note=F->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2580	2580	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	2817	2817	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	3684	3684	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	3698	3698	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	4026	4026	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	4083	4083	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	4537	4537	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	4604	4604	.	.	.	Note=I->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Sequence conflict	4709	4709	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15413	UniProtKB	Helix	2612	2635	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Turn	2646	2649	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2657	2659	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2662	2681	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Beta strand	2685	2688	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2695	2704	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2723	2725	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2730	2757	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2769	2771	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Helix	2774	2792	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Turn	2793	2795	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	
+Q15413	UniProtKB	Beta strand	2796	2799	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERV	

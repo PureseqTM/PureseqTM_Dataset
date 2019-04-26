@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P26717 1 231
+P26717	UniProtKB	Chain	1	231	.	.	.	ID=PRO_0000046662;Note=NKG2-C type II integral membrane protein	
+P26717	UniProtKB	Topological domain	1	70	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26717	UniProtKB	Transmembrane	71	93	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26717	UniProtKB	Topological domain	94	231	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26717	UniProtKB	Domain	116	229	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P26717	UniProtKB	Glycosylation	100	100	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26717	UniProtKB	Glycosylation	149	149	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26717	UniProtKB	Glycosylation	178	178	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26717	UniProtKB	Disulfide bond	117	128	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P26717	UniProtKB	Disulfide bond	145	227	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P26717	UniProtKB	Disulfide bond	206	219	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P26717	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_013404;Note=In allele NKG2-C*02. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11751968;Dbxref=dbSNP:rs28403159,PMID:11751968	
+P26717	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_013405;Note=In allele NKG2-C*02. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11751968;Dbxref=PMID:11751968	
+P26717	UniProtKB	Mutagenesis	165	168	.	.	.	Note=Increases the affinity for HLA-E to a value similar to that observed for HLA-E-KLRD1-KLRC1 complex. ASIL->SIIS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26717	UniProtKB	Sequence conflict	161	161	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P26717	UniProtKB	Helix	76	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L35	

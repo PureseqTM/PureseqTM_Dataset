@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region P63279 1 158
+P63279	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+P63279	UniProtKB	Chain	2	158	.	.	.	ID=PRO_0000082454;Note=SUMO-conjugating enzyme UBC9	
+P63279	UniProtKB	Region	13	18	.	.	.	Note=Interaction with SUMO1	
+P63279	UniProtKB	Active site	93	93	.	.	.	Note=Glycyl thioester intermediate	
+P63279	UniProtKB	Site	4	4	.	.	.	Note=Interaction with RANBP2	
+P63279	UniProtKB	Site	25	25	.	.	.	Note=Interaction with RANBP2	
+P63279	UniProtKB	Site	57	57	.	.	.	Note=Interaction with RANBP2	
+P63279	UniProtKB	Site	100	101	.	.	.	Note=Substrate binding	
+P63279	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+P63279	UniProtKB	Modified residue	65	65	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P63279	UniProtKB	Modified residue	71	71	.	.	.	Note=Phosphoserine%3B by CDK1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:22509284;Dbxref=PMID:23186163,PMID:22509284	
+P63279	UniProtKB	Cross-link	18	18	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P63279	UniProtKB	Cross-link	18	18	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)%3B alternate	
+P63279	UniProtKB	Cross-link	48	48	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+P63279	UniProtKB	Cross-link	49	49	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+P63279	UniProtKB	Cross-link	49	49	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+P63279	UniProtKB	Cross-link	101	101	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P63279	UniProtKB	Mutagenesis	13	14	.	.	.	Note=Impairs binding to SUMO1 and catalytic activity. RK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12924945;Dbxref=PMID:12924945	
+P63279	UniProtKB	Mutagenesis	17	18	.	.	.	Note=Impairs binding to SUMO1 and catalytic activity. RK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12924945;Dbxref=PMID:12924945	
+P63279	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Impairs binding to RANBP2. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	25	25	.	.	.	Note=Impairs binding to RANBP2. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Impairs binding to RANBP2. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Slightly impairs binding to RANBP2. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Slightly impairs binding to RANBP2. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Slightly impairs binding to RANBP2. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Impairs binding to RANBP2. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Impairs binding to RANBP2. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Slightly impairs binding to RANBP2. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15608651;Dbxref=PMID:15608651	
+P63279	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Impairs catalytic activity. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16732283;Dbxref=PMID:16732283	
+P63279	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Impairs catalytic activity. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16732283;Dbxref=PMID:16732283	
+P63279	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Loss of enhancement of sumoylation by RWDD3. No effect on RWDD3 protein levels. C->S	
+P63279	UniProtKB	Mutagenesis	100	101	.	.	.	Note=Impairs catalytic activity. DK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12641448;Dbxref=PMID:12641448	
+P63279	UniProtKB	Mutagenesis	127	127	.	.	.	Note=Impairs catalytic activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16732283;Dbxref=PMID:16732283	
+P63279	UniProtKB	Mutagenesis	127	127	.	.	.	Note=No effect on catalytic activity. D->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16732283;Dbxref=PMID:16732283	
+P63279	UniProtKB	Sequence conflict	18	18	.	.	.	Note=K->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63279	UniProtKB	Sequence conflict	86	89	.	.	.	Note=VYPS->GVPF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63279	UniProtKB	Helix	3	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Beta strand	25	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Beta strand	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PE6	
+P63279	UniProtKB	Beta strand	36	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Turn	52	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Beta strand	57	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Turn	66	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Beta strand	74	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Beta strand	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Helix	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Turn	99	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Helix	109	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Helix	131	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	
+P63279	UniProtKB	Helix	141	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F6E	

@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q9P2P6 1 4700
+Q9P2P6	UniProtKB	Chain	1	4700	.	.	.	ID=PRO_0000220678;Note=StAR-related lipid transfer protein 9	
+Q9P2P6	UniProtKB	Domain	3	384	.	.	.	Note=Kinesin motor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00283	
+Q9P2P6	UniProtKB	Domain	498	569	.	.	.	Note=FHA	
+Q9P2P6	UniProtKB	Domain	4483	4700	.	.	.	Note=START;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00197	
+Q9P2P6	UniProtKB	Nucleotide binding	103	110	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00283	
+Q9P2P6	UniProtKB	Coiled coil	4334	4387	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P2P6	UniProtKB	Compositional bias	649	711	.	.	.	Note=Gln-rich	
+Q9P2P6	UniProtKB	Compositional bias	1917	1920	.	.	.	Note=Poly-Glu	
+Q9P2P6	UniProtKB	Compositional bias	2696	2699	.	.	.	Note=Poly-Ser	
+Q9P2P6	UniProtKB	Modified residue	1203	1203	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q80TF6	
+Q9P2P6	UniProtKB	Alternative sequence	1	84	.	.	.	ID=VSP_029573;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9P2P6	UniProtKB	Alternative sequence	290	292	.	.	.	ID=VSP_029574;Note=In isoform 2. AQN->GIF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q9P2P6	UniProtKB	Alternative sequence	293	4700	.	.	.	ID=VSP_029575;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q9P2P6	UniProtKB	Alternative sequence	360	435	.	.	.	ID=VSP_029576;Note=In isoform 3. TVSPAHTSYSETMSTLRYASSAKNIINKPRVNEDANLKLIRELREEIERLKALLLSFELRNFSSLSDENLKELVLQ->SEWDARAGPVLGLVLYLRERAMAPVSGMPELDLCWDWYSISEKGPWPQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9P2P6	UniProtKB	Alternative sequence	436	4700	.	.	.	ID=VSP_029577;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9P2P6	UniProtKB	Natural variant	835	835	.	.	.	ID=VAR_059811;Note=R->C;Dbxref=dbSNP:rs12594837	
+Q9P2P6	UniProtKB	Natural variant	1172	1172	.	.	.	ID=VAR_037257;Note=R->C;Dbxref=dbSNP:rs12594837	
+Q9P2P6	UniProtKB	Natural variant	1720	1720	.	.	.	ID=VAR_037258;Note=P->L;Dbxref=dbSNP:rs7161810	
+Q9P2P6	UniProtKB	Natural variant	2205	2205	.	.	.	ID=VAR_037259;Note=A->V;Dbxref=dbSNP:rs16957055	
+Q9P2P6	UniProtKB	Natural variant	2677	2677	.	.	.	ID=VAR_037260;Note=R->H;Dbxref=dbSNP:rs8030587	
+Q9P2P6	UniProtKB	Natural variant	2855	2855	.	.	.	ID=VAR_037261;Note=T->I;Dbxref=dbSNP:rs8031218	
+Q9P2P6	UniProtKB	Natural variant	2869	2869	.	.	.	ID=VAR_037262;Note=P->S;Dbxref=dbSNP:rs11857283	
+Q9P2P6	UniProtKB	Natural variant	3015	3015	.	.	.	ID=VAR_037263;Note=R->G;Dbxref=dbSNP:rs3742995	
+Q9P2P6	UniProtKB	Natural variant	3383	3383	.	.	.	ID=VAR_037264;Note=N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10718198;Dbxref=dbSNP:rs3742993,PMID:10718198	
+Q9P2P6	UniProtKB	Natural variant	3469	3469	.	.	.	ID=VAR_037266;Note=Y->C;Dbxref=dbSNP:rs16957061	
+Q9P2P6	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Reduced ATPase activity. T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22153075;Dbxref=PMID:22153075	
+Q9P2P6	UniProtKB	Mutagenesis	223	223	.	.	.	Note=Reduced ability to bind microtubules. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22153075;Dbxref=PMID:22153075	
+Q9P2P6	UniProtKB	Sequence conflict	2602	2602	.	.	.	Note=S->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2P6	UniProtKB	Sequence conflict	2818	2818	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2P6	UniProtKB	Sequence conflict	3633	3633	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2P6	UniProtKB	Sequence conflict	4433	4438	.	.	.	Note=LPDSRD->IPGIRQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2P6	UniProtKB	Sequence conflict	4639	4639	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

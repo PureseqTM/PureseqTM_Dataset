@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P01127 1 241
+P01127	UniProtKB	Signal peptide	1	20	.	.	.	.	
+P01127	UniProtKB	Propeptide	21	81	.	.	.	ID=PRO_0000023371;Note=Removed in mature form	
+P01127	UniProtKB	Chain	82	190	.	.	.	ID=PRO_0000023372;Note=Platelet-derived growth factor subunit B	
+P01127	UniProtKB	Propeptide	191	241	.	.	.	ID=PRO_0000023373;Note=Removed in mature form	
+P01127	UniProtKB	Site	108	108	.	.	.	Note=Involved in receptor binding	
+P01127	UniProtKB	Site	111	111	.	.	.	Note=Involved in receptor binding	
+P01127	UniProtKB	Glycosylation	63	63	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01127	UniProtKB	Disulfide bond	97	141	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534510;Dbxref=PMID:20534510	
+P01127	UniProtKB	Disulfide bond	124	124	.	.	.	Note=Interchain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534510;Dbxref=PMID:20534510	
+P01127	UniProtKB	Disulfide bond	130	178	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534510;Dbxref=PMID:20534510	
+P01127	UniProtKB	Disulfide bond	133	133	.	.	.	Note=Interchain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534510;Dbxref=PMID:20534510	
+P01127	UniProtKB	Disulfide bond	134	180	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534510;Dbxref=PMID:20534510	
+P01127	UniProtKB	Alternative sequence	1	21	.	.	.	ID=VSP_044913;Note=In isoform 2. MNRCWALFLSLCCYLRLVSAE->MFIMGL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7659502;Dbxref=PMID:7659502	
+P01127	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_070870;Note=In IBGC5%3B loss of protein expression. L->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23913003,ECO:0000269|PubMed:26599395;Dbxref=PMID:23913003,PMID:26599395	
+P01127	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_014578;Note=I->V;Dbxref=dbSNP:rs17565	
+P01127	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_070871;Note=In IBGC5%3B loss of protein expression. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23913003,ECO:0000269|PubMed:26599395;Dbxref=dbSNP:rs397515632,PMID:23913003,PMID:26599395	
+P01127	UniProtKB	Sequence conflict	101	101	.	.	.	Note=T->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01127	UniProtKB	Sequence conflict	105	105	.	.	.	Note=E->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01127	UniProtKB	Sequence conflict	107	107	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01127	UniProtKB	Beta strand	97	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HQU	
+P01127	UniProtKB	Helix	108	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HQU	
+P01127	UniProtKB	Beta strand	118	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HQU	
+P01127	UniProtKB	Beta strand	123	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HQU	
+P01127	UniProtKB	Beta strand	140	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HQU	
+P01127	UniProtKB	Beta strand	162	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HQU	

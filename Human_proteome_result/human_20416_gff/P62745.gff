@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P62745 1 196
+P62745	UniProtKB	Chain	1	193	.	.	.	ID=PRO_0000030417;Note=Rho-related GTP-binding protein RhoB	
+P62745	UniProtKB	Propeptide	194	196	.	.	.	ID=PRO_0000030418;Note=Removed in mature form	
+P62745	UniProtKB	Nucleotide binding	12	19	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P62745	UniProtKB	Nucleotide binding	59	63	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P62745	UniProtKB	Nucleotide binding	117	120	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P62745	UniProtKB	Motif	34	42	.	.	.	Note=Effector region;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P62745	UniProtKB	Modified residue	41	41	.	.	.	Note=ADP-ribosylasparagine%3B by botulinum toxin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P62745	UniProtKB	Modified residue	154	154	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P62746	
+P62745	UniProtKB	Modified residue	193	193	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1400319;Dbxref=PMID:1400319	
+P62745	UniProtKB	Lipidation	189	189	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1400319;Dbxref=PMID:1400319	
+P62745	UniProtKB	Lipidation	192	192	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1400319;Dbxref=PMID:1400319	
+P62745	UniProtKB	Lipidation	193	193	.	.	.	Note=S-farnesyl cysteine%3B in plasma membrane form;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1400319,ECO:0000269|PubMed:7713879;Dbxref=PMID:1400319,PMID:7713879	
+P62745	UniProtKB	Lipidation	193	193	.	.	.	Note=S-geranylgeranyl cysteine%3B in endosomal form;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1400319,ECO:0000269|PubMed:7713879;Dbxref=PMID:1400319,PMID:7713879	
+P62745	UniProtKB	Glycosylation	34	34	.	.	.	Note=O-linked (GlcNAc) tyrosine%3B by Photorhabdus PAU_02230;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24141704;Dbxref=PMID:24141704	
+P62745	UniProtKB	Mutagenesis	14	14	.	.	.	Note=No effect on internalization of EGF receptor but decreases trafficking of receptor to the lysosome with associated accumulation in late endosomes. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15226397;Dbxref=PMID:15226397	
+P62745	UniProtKB	Mutagenesis	39	39	.	.	.	Note=Abolishes binding to PKN1 and trafficking of EGF receptor. F->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10508588;Dbxref=PMID:10508588	
+P62745	UniProtKB	Mutagenesis	189	189	.	.	.	Note=No effect on prenylation. Reduced palmitoylation. Abolishes palmitoylation%3B when associated with S-192. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1400319;Dbxref=PMID:1400319	
+P62745	UniProtKB	Mutagenesis	192	192	.	.	.	Note=Reduced geranylgeranylation but no effect on farnesylation. Reduced palmitoylation. Abolishes palmitoylation%3B when associated with S-189. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1400319,ECO:0000269|PubMed:7713879;Dbxref=PMID:1400319,PMID:7713879	
+P62745	UniProtKB	Mutagenesis	193	193	.	.	.	Note=Abolishes methylation%2C palmitoylation and prenylation. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1400319,ECO:0000269|PubMed:7713879;Dbxref=PMID:1400319,PMID:7713879	
+P62745	UniProtKB	Mutagenesis	194	194	.	.	.	Note=No effect on palmitoylation or prenylation. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1400319;Dbxref=PMID:1400319	
+P62745	UniProtKB	Beta strand	4	12	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	18	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Beta strand	41	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Beta strand	51	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Turn	67	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Beta strand	79	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	89	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	99	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Beta strand	112	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	119	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	125	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	141	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Beta strand	154	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Turn	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	
+P62745	UniProtKB	Helix	167	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FV8	

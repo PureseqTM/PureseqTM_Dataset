@@ -1,0 +1,210 @@
+##gff-version 3
+##sequence-region P22304 1 550
+P22304	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Propeptide	26	33	.	.	.	ID=PRO_0000033428;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2122463;Dbxref=PMID:2122463	
+P22304	UniProtKB	Chain	34	455	.	.	.	ID=PRO_0000033429;Note=Iduronate 2-sulfatase 42 kDa chain	
+P22304	UniProtKB	Chain	456	550	.	.	.	ID=PRO_0000033430;Note=Iduronate 2-sulfatase 14 kDa chain	
+P22304	UniProtKB	Active site	84	84	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P15289	
+P22304	UniProtKB	Active site	138	138	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P15289	
+P22304	UniProtKB	Metal binding	45	45	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22304	UniProtKB	Metal binding	46	46	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22304	UniProtKB	Metal binding	84	84	.	.	.	Note=Calcium%3B via 3-oxoalanine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22304	UniProtKB	Metal binding	334	334	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22304	UniProtKB	Metal binding	335	335	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22304	UniProtKB	Modified residue	84	84	.	.	.	Note=3-oxoalanine (Cys);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P15289	
+P22304	UniProtKB	Glycosylation	115	115	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P22304	UniProtKB	Glycosylation	144	144	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Glycosylation	246	246	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Glycosylation	280	280	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Glycosylation	325	325	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Glycosylation	513	513	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Glycosylation	537	537	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22304	UniProtKB	Alternative sequence	294	312	.	.	.	ID=VSP_039116;Note=In isoform 3. RKIRQSYFASVSYLDTQVG->EDQSSTGFRLKTSSTRKYK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P22304	UniProtKB	Alternative sequence	313	550	.	.	.	ID=VSP_039117;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P22304	UniProtKB	Alternative sequence	337	343	.	.	.	ID=VSP_006301;Note=In isoform 2. WALGEHG->FLMRTNT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8530090;Dbxref=PMID:8530090	
+P22304	UniProtKB	Alternative sequence	344	550	.	.	.	ID=VSP_006302;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8530090;Dbxref=PMID:8530090	
+P22304	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_026915;Note=In MPS2%3B mild form%3B increase in enzyme activity observed in transfected cells. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11015461;Dbxref=PMID:11015461	
+P22304	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_026914;Note=In MPS2%3B intermediate form. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655569;Dbxref=PMID:12655569	
+P22304	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_007313;Note=In MPS2. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_007314;Note=In MPS2%3B mild form. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7581397,ECO:0000269|PubMed:9501270;Dbxref=PMID:7581397,PMID:9501270	
+P22304	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_007315;Note=In MPS2%3B severe form. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_007316;Note=In MPS2%3B mild/intermediate form. N->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8664909,ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9222763,ECO:0000269|PubMed:9921913;Dbxref=dbSNP:rs193302909,PMID:8664909,PMID:8940265,PMID:9222763,PMID:9921913	
+P22304	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_007317;Note=In MPS2%3B severe. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981716;Dbxref=PMID:7981716	
+P22304	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_026916;Note=In MPS2%3B mild form. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=dbSNP:rs113993954,PMID:9660053	
+P22304	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_008998;Note=In MPS2%3B severe form. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9950361;Dbxref=PMID:9950361	
+P22304	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_026917;Note=In MPS2%3B severe form. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9266380;Dbxref=PMID:9266380	
+P22304	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_007318;Note=In MPS2%3B mild form. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_008999;Note=In MPS2. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9950361;Dbxref=PMID:9950361	
+P22304	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_026918;Note=In MPS2%3B no significant enzyme activity. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16699754;Dbxref=PMID:16699754	
+P22304	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_026919;Note=In MPS2%3B severe form. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_007319;Note=In MPS2%3B mild to severe forms. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9452044,ECO:0000269|PubMed:9501270,ECO:0000269|PubMed:9660053,ECO:0000269|PubMed:9950361;Dbxref=dbSNP:rs113993949,PMID:8940265,PMID:9452044,PMID:9501270,PMID:9660053,PMID:9950361	
+P22304	UniProtKB	Natural variant	86	86	.	.	.	ID=VAR_007320;Note=In MPS2%3B intermediate to severe forms. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10215411,ECO:0000269|PubMed:7728156,ECO:0000269|PubMed:9501270,ECO:0000269|PubMed:9660053;Dbxref=PMID:10215411,PMID:7728156,PMID:9501270,PMID:9660053	
+P22304	UniProtKB	Natural variant	86	86	.	.	.	ID=VAR_007321;Note=In MPS2. P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=PMID:8940265	
+P22304	UniProtKB	Natural variant	86	86	.	.	.	ID=VAR_007322;Note=In MPS2%3B severe form. P->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8281149,ECO:0000269|PubMed:8664909;Dbxref=PMID:8281149,PMID:8664909	
+P22304	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_007323;Note=In MPS2%3B mild form. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7728156;Dbxref=PMID:7728156	
+P22304	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_007324;Note=In MPS2%3B severe form. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11683780,ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9921913,ECO:0000269|PubMed:9950361;Dbxref=dbSNP:rs398123249,PMID:11683780,PMID:8940265,PMID:9921913,PMID:9950361	
+P22304	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_026920;Note=In MPS2%3B severe form. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_007325;Note=In MPS2%3B intermediate/severe form%3B higher affinity for the artificial substrate%3B poor transport to lysosomes. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10215411,ECO:0000269|PubMed:10838181,ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9452044,ECO:0000269|PubMed:9660053,ECO:0000269|PubMed:9921913;Dbxref=PMID:10215411,PMID:10838181,PMID:8940265,PMID:9452044,PMID:9660053,PMID:9921913	
+P22304	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_007326;Note=In MPS2%3B severe form. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_007327;Note=In MPS2%3B severe form%3B total absence of residual activity%3B poor transport to lysosomes. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10215411,ECO:0000269|PubMed:10838181;Dbxref=PMID:10215411,PMID:10838181	
+P22304	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_026921;Note=In MPS2. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_007328;Note=In MPS2%3B severe form. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7728156;Dbxref=PMID:7728156	
+P22304	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_007329;Note=In MPS2%3B mild form. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8281149;Dbxref=PMID:8281149	
+P22304	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_026922;Note=In MPS2%3B intermediate form. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8664909;Dbxref=PMID:8664909	
+P22304	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_026923;Note=In MPS2%3B mild form. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11683780;Dbxref=PMID:11683780	
+P22304	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_009000;Note=In MPS2%3B severe form. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9950361;Dbxref=PMID:9950361	
+P22304	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_007330;Note=In MPS2%3B mild form. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_007331;Note=In MPS2%3B mild form. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=PMID:8940265	
+P22304	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_026924;Note=In MPS2%3B mild form. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_007332;Note=In MPS2. N->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_026926;Note=In MPS2%3B severe form. S->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655569;Dbxref=PMID:12655569	
+P22304	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_026925;Note=In MPS2%3B severe form%3B deleterious mutation%3B results in an inactive enzyme. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11731225,ECO:0000269|PubMed:7581397,ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9660053;Dbxref=PMID:11731225,PMID:7581397,PMID:8940265,PMID:9660053	
+P22304	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_007333;Note=In MPS2%3B mild to severe forms%3B greatly reduced activity%3B poor transport to lysosomes. T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10215411,ECO:0000269|PubMed:10838181,ECO:0000269|PubMed:9660053;Dbxref=PMID:10215411,PMID:10838181,PMID:9660053	
+P22304	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_026927;Note=In MPS2%3B severe form. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9266380;Dbxref=PMID:9266380	
+P22304	UniProtKB	Natural variant	120	120	.	.	.	ID=VAR_007334;Note=In MPS2%3B mild form. P->H;Dbxref=dbSNP:rs193302911	
+P22304	UniProtKB	Natural variant	120	120	.	.	.	ID=VAR_007335;Note=In MPS2%3B severe form. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8281149;Dbxref=PMID:8281149	
+P22304	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_026928;Note=In MPS2%3B severe form. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9266380;Dbxref=PMID:9266380	
+P22304	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_026929;Note=In MPS2%3B severe form. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_007336;Note=In MPS2%3B mild form. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=PMID:8940265	
+P22304	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_007337;Note=In MPS2%3B severe form. S->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7887413,ECO:0000269|PubMed:9266380;Dbxref=PMID:7887413,PMID:9266380	
+P22304	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_007338;Note=In MPS2%3B severe form. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=PMID:8940265	
+P22304	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_007339;Note=In MPS2%3B intermediate form. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7728156;Dbxref=PMID:7728156	
+P22304	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_007340;Note=In MPS2%3B intermediate form. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1303211;Dbxref=dbSNP:rs104894861,PMID:1303211	
+P22304	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_026930;Note=In MPS2%3B mild/intermediate form. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_026931;Note=In MPS2%3B no significant enzyme activity. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16699754;Dbxref=PMID:16699754	
+P22304	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_007341;Note=In MPS2. S->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10220152,ECO:0000269|PubMed:10671065;Dbxref=PMID:10220152,PMID:10671065	
+P22304	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_026932;Note=In MPS2%3B intermediate form. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_007342;Note=In MPS2%3B severe form. H->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_007343;Note=In MPS2%3B intermediate form. Missing	
+P22304	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_007344;Note=In MPS2. P->R;Dbxref=dbSNP:rs104894856	
+P22304	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_026933;Note=In MPS2%3B mild form. N->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11683780;Dbxref=PMID:11683780	
+P22304	UniProtKB	Natural variant	182	182	.	.	.	ID=VAR_026934;Note=In MPS2%3B intermediate form. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9501270;Dbxref=PMID:9501270	
+P22304	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_007345;Note=In MPS2%3B mild/intermediate form. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=PMID:8940265	
+P22304	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_007346;Note=In MPS2. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10671065;Dbxref=PMID:10671065	
+P22304	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_007347;Note=In MPS2%3B mild/intermediate form. L->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9501270,ECO:0000269|PubMed:9921913;Dbxref=dbSNP:rs398123250,PMID:9501270,PMID:9921913	
+P22304	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_007348;Note=In MPS2%3B mild form. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_026935;Note=In MPS2%3B intermediate form. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8664909;Dbxref=dbSNP:rs864622779,PMID:8664909	
+P22304	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_007349;Note=In MPS2%3B intermediate form. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8281149;Dbxref=PMID:8281149	
+P22304	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_007350;Note=In MPS2%3B severe form. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	225	225	.	.	.	ID=VAR_007351;Note=In MPS2%3B intermediate form. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9501270;Dbxref=PMID:9501270	
+P22304	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_026936;Note=In MPS2%3B intermediate form. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9501270;Dbxref=PMID:9501270	
+P22304	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_007352;Note=In MPS2%3B severe form. K->Q	
+P22304	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_007353;Note=In MPS2. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_026937;Note=In MPS2%3B severe form. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9762601;Dbxref=PMID:9762601	
+P22304	UniProtKB	Natural variant	229	229	.	.	.	ID=VAR_026938;Note=In MPS2%3B intermediate/severe form. H->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9660053,ECO:0000269|PubMed:9762601;Dbxref=dbSNP:rs193302905,PMID:9660053,PMID:9762601	
+P22304	UniProtKB	Natural variant	229	229	.	.	.	ID=VAR_007354;Note=In MPS2%3B severe form. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7887413;Dbxref=PMID:7887413	
+P22304	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_026939;Note=In MPS2%3B mild form. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9762601;Dbxref=PMID:9762601	
+P22304	UniProtKB	Natural variant	252	252	.	.	.	ID=VAR_007355;Note=In MPS2. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=dbSNP:rs146458524,PMID:8940265	
+P22304	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_026940;Note=In MPS2%3B severe form. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655569;Dbxref=PMID:12655569	
+P22304	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_009001;Note=In MPS2. Y->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10447264;Dbxref=PMID:10447264	
+P22304	UniProtKB	Natural variant	265	265	.	.	.	ID=VAR_026941;Note=In MPS2%3B intermediate form%3B deleterious mutation%3B residual activity of 7.5%25 of the wild-type. N->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11731225;Dbxref=PMID:11731225	
+P22304	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_007356;Note=In MPS2%3B mild form. P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10215411;Dbxref=PMID:10215411	
+P22304	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_007357;Note=In MPS2. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	269	269	.	.	.	ID=VAR_007358;Note=In MPS2. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10671065;Dbxref=dbSNP:rs1085308006,PMID:10671065	
+P22304	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_007359;Note=In MPS2%3B mild form. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981716;Dbxref=PMID:7981716	
+P22304	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_026942;Note=In MPS2%3B mild form. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655569;Dbxref=PMID:12655569	
+P22304	UniProtKB	Natural variant	308	308	.	.	.	ID=VAR_026943;Note=In MPS2%3B mild form. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9762601;Dbxref=PMID:9762601	
+P22304	UniProtKB	Natural variant	308	308	.	.	.	ID=VAR_026944;Note=In MPS2%3B intermediate form. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9501270;Dbxref=PMID:9501270	
+P22304	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_026945;Note=In MPS2%3B severe form. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9762601;Dbxref=dbSNP:rs145807417,PMID:9762601	
+P22304	UniProtKB	Natural variant	313	313	.	.	.	ID=VAR_026946;Note=In MPS2%3B unknown pathological significance. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9762601;Dbxref=dbSNP:rs201048643,PMID:9762601	
+P22304	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_026947;Note=In MPS2%3B severe form. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9501270;Dbxref=PMID:9501270	
+P22304	UniProtKB	Natural variant	333	333	.	.	.	ID=VAR_007360;Note=In MPS2%3B severe form. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7581397,ECO:0000269|PubMed:8566953,ECO:0000269|PubMed:8830188,ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9501270,ECO:0000269|PubMed:9660053,ECO:0000269|PubMed:9921913;Dbxref=dbSNP:rs104894853,PMID:7581397,PMID:8566953,PMID:8830188,PMID:8940265,PMID:9501270,PMID:9660053,PMID:9921913	
+P22304	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_009002;Note=In MPS2%3B severe form. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8830188;Dbxref=PMID:8830188	
+P22304	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_026948;Note=In MPS2%3B mild form. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	335	335	.	.	.	ID=VAR_026949;Note=In MPS2%3B intermediate form. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_026950;Note=In MPS2%3B severe from. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_026951;Note=In MPS2%3B severe form. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9266380;Dbxref=PMID:9266380	
+P22304	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_007361;Note=In MPS2%3B intermediate form. W->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7581397,ECO:0000269|PubMed:9501270;Dbxref=PMID:7581397,PMID:9501270	
+P22304	UniProtKB	Natural variant	339	339	.	.	.	ID=VAR_026952;Note=In MPS2%3B severe form. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_007362;Note=In MPS2%3B mild form. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	341	341	.	.	.	ID=VAR_008134;Note=In MPS2%3B severe form. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10220152,ECO:0000269|PubMed:9266380;Dbxref=PMID:10220152,PMID:9266380	
+P22304	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_008135;Note=In MPS2%3B mild form. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10220152;Dbxref=PMID:10220152	
+P22304	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_007363;Note=In MPS2%3B mild form. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7728156;Dbxref=PMID:7728156	
+P22304	UniProtKB	Natural variant	346	346	.	.	.	ID=VAR_007364;Note=In MPS2%3B mild/severe form. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8566953;Dbxref=PMID:8566953	
+P22304	UniProtKB	Natural variant	346	346	.	.	.	ID=VAR_007365;Note=In MPS2%3B mild/severe form. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7599640;Dbxref=PMID:7599640	
+P22304	UniProtKB	Natural variant	347	347	.	.	.	ID=VAR_007366;Note=In MPS2. K->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8940265;Dbxref=PMID:8940265	
+P22304	UniProtKB	Natural variant	347	347	.	.	.	ID=VAR_026953;Note=In MPS2%3B severe form. K->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9266380;Dbxref=PMID:9266380	
+P22304	UniProtKB	Natural variant	347	347	.	.	.	ID=VAR_007367;Note=In MPS2%3B severe form%3B deleterious mutation confirmed. K->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11731225,ECO:0000269|PubMed:9222763;Dbxref=PMID:11731225,PMID:9222763	
+P22304	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_007368;Note=In MPS2. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10671065;Dbxref=PMID:10671065	
+P22304	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_007369;Note=In MPS2%3B severe form. S->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9452044,ECO:0000269|PubMed:9501270;Dbxref=PMID:9452044,PMID:9501270	
+P22304	UniProtKB	Natural variant	358	358	.	.	.	ID=VAR_007370;Note=In MPS2%3B severe form. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7887413;Dbxref=PMID:7887413	
+P22304	UniProtKB	Natural variant	403	403	.	.	.	ID=VAR_007371;Note=In MPS2%3B intermediate form. L->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9660053;Dbxref=PMID:8940265,PMID:9660053	
+P22304	UniProtKB	Natural variant	410	410	.	.	.	ID=VAR_026954;Note=In MPS2. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7866405;Dbxref=PMID:7866405	
+P22304	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_007372;Note=In MPS2%3B mild form. C->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1303211,ECO:0000269|PubMed:8281149;Dbxref=dbSNP:rs199422229,PMID:1303211,PMID:8281149	
+P22304	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_026955;Note=In MPS2%3B severe form. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11683780;Dbxref=PMID:11683780	
+P22304	UniProtKB	Natural variant	432	432	.	.	.	ID=VAR_007373;Note=In MPS2%3B severe form. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_007374;Note=In MPS2. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_009003;Note=In MPS2%3B severe form. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10447264;Dbxref=PMID:10447264	
+P22304	UniProtKB	Natural variant	467	467	.	.	.	ID=VAR_026956;Note=In MPS2%3B severe form. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11683780,ECO:0000269|PubMed:9660053;Dbxref=PMID:11683780,PMID:9660053	
+P22304	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_007375;Note=In MPS2%3B mild to severe forms. R->G	
+P22304	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_007376;Note=In MPS2%3B mild to severe forms. R->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7581397,ECO:0000269|PubMed:9222763,ECO:0000269|PubMed:9501270;Dbxref=dbSNP:rs113993946,PMID:7581397,PMID:9222763,PMID:9501270	
+P22304	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_007377;Note=In MPS2%3B severe/intermediate form%3B greatly reduced activity%3B poor transport to lysosomes. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10838181,ECO:0000269|PubMed:11683780,ECO:0000269|PubMed:7581397,ECO:0000269|PubMed:8664909,ECO:0000269|PubMed:8940265,ECO:0000269|PubMed:9222763,ECO:0000269|PubMed:9266380,ECO:0000269|PubMed:9375851,ECO:0000269|PubMed:9501270,ECO:0000269|PubMed:9660053,ECO:0000269|PubMed:9921913,ECO:0000269|PubMed:9950361;Dbxref=dbSNP:rs113993946,PMID:10838181,PMID:11683780,PMID:7581397,PMID:8664909,PMID:8940265,PMID:9222763,PMID:9266380,PMID:9375851,PMID:9501270,PMID:9660053,PMID:9921913,PMID:9950361	
+P22304	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_007378;Note=In MPS2%3B mild to severe forms. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10447264,ECO:0000269|PubMed:11683780,ECO:0000269|PubMed:1284597,ECO:0000269|PubMed:7728156,ECO:0000269|PubMed:8664909,ECO:0000269|PubMed:9266380,ECO:0000269|PubMed:9501270,ECO:0000269|PubMed:9660053,ECO:0000269|PubMed:9950361;Dbxref=dbSNP:rs199422231,PMID:10447264,PMID:11683780,PMID:1284597,PMID:7728156,PMID:8664909,PMID:9266380,PMID:9501270,PMID:9660053,PMID:9950361	
+P22304	UniProtKB	Natural variant	469	469	.	.	.	ID=VAR_007379;Note=In MPS2%3B mild form. P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7887413;Dbxref=PMID:7887413	
+P22304	UniProtKB	Natural variant	478	478	.	.	.	ID=VAR_007380;Note=In MPS2%3B mild form. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7981716;Dbxref=dbSNP:rs864622773,PMID:7981716	
+P22304	UniProtKB	Natural variant	478	478	.	.	.	ID=VAR_007381;Note=In MPS2%3B severe form. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9921913;Dbxref=PMID:9921913	
+P22304	UniProtKB	Natural variant	480	480	.	.	.	ID=VAR_026957;Note=In MPS2%3B mild form. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	480	480	.	.	.	ID=VAR_026958;Note=In MPS2%3B mild form. P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	480	480	.	.	.	ID=VAR_026959;Note=In MPS2%3B severe form. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	485	485	.	.	.	ID=VAR_007382;Note=In MPS2. I->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	485	485	.	.	.	ID=VAR_007383;Note=In MPS2%3B severe form. I->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7981716,ECO:0000269|PubMed:9921913;Dbxref=PMID:7981716,PMID:9921913	
+P22304	UniProtKB	Natural variant	488	489	.	.	.	ID=VAR_026960;Note=In MPS2%3B intermediate form%3B mutation A-489 confirmed as causative of MPS2. MG->IA	
+P22304	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_026961;Note=In MPS2%3B intermediate form. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9660053;Dbxref=PMID:9660053	
+P22304	UniProtKB	Natural variant	491	491	.	.	.	ID=VAR_008136;Note=In MPS2%3B mild form. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10220152;Dbxref=PMID:10220152	
+P22304	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_007384;Note=In MPS2%3B severe form. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9875019;Dbxref=PMID:9875019	
+P22304	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_007385;Note=In MPS2. W->S;Dbxref=dbSNP:rs199422228	
+P22304	UniProtKB	Natural variant	521	521	.	.	.	ID=VAR_026962;Note=In MPS2%3B severe form. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9266380;Dbxref=PMID:9266380	
+P22304	UniProtKB	Natural variant	521	521	.	.	.	ID=VAR_007386;Note=In MPS2%3B severe form. E->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9266380,ECO:0000269|PubMed:9452044,ECO:0000269|PubMed:9950361;Dbxref=PMID:9266380,PMID:9452044,PMID:9950361	
+P22304	UniProtKB	Natural variant	523	523	.	.	.	ID=VAR_007387;Note=In MPS2%3B mild form. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7887413;Dbxref=PMID:7887413	
+P22304	UniProtKB	Beta strand	38	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	57	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	62	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	71	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	84	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	97	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	103	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	109	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	119	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	129	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	144	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	161	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	182	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	188	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	197	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	219	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	229	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	236	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	244	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	261	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	270	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	274	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	283	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	290	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	324	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	327	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	338	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	341	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	345	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	352	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	359	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	364	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	395	402	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	403	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	406	413	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	433	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	439	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	457	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	462	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	477	479	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	482	484	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	487	493	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	495	506	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	507	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Beta strand	511	524	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Turn	525	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	
+P22304	UniProtKB	Helix	542	548	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FQL	

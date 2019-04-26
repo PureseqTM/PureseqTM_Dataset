@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q14451 1 532
+Q14451	UniProtKB	Chain	1	532	.	.	.	ID=PRO_0000150344;Note=Growth factor receptor-bound protein 7	
+Q14451	UniProtKB	Domain	100	186	.	.	.	Note=Ras-associating;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00166	
+Q14451	UniProtKB	Domain	229	338	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q14451	UniProtKB	Domain	431	527	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q14451	UniProtKB	Site	239	239	.	.	.	Note=Important for lipid binding and for stimulation of cell migration	
+Q14451	UniProtKB	Site	511	511	.	.	.	Note=Important for dimerization and for HRAS activation	
+Q14451	UniProtKB	Modified residue	188	188	.	.	.	Note=Phosphotyrosine%3B by FAK1;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19473962,ECO:0000269|PubMed:20622016;Dbxref=PMID:19473962,PMID:20622016	
+Q14451	UniProtKB	Modified residue	338	338	.	.	.	Note=Phosphotyrosine%3B by FAK1;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19473962,ECO:0000269|PubMed:20622016;Dbxref=PMID:19473962,PMID:20622016	
+Q14451	UniProtKB	Modified residue	361	361	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q14451	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_041665;Note=In isoform 3. M->MGKWRPGQGHTTGSVKPLSCSDAM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14451	UniProtKB	Alternative sequence	48	81	.	.	.	ID=VSP_041666;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14451	UniProtKB	Alternative sequence	425	447	.	.	.	ID=VSP_035500;Note=In isoform 2. IHRTQLWFHGRISREESQRLIGQ->CSWSGRVSGTPRALSSLCATCRK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9710451;Dbxref=PMID:9710451	
+Q14451	UniProtKB	Alternative sequence	448	532	.	.	.	ID=VSP_035501;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9710451;Dbxref=PMID:9710451	
+Q14451	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Abolishes Ras activity increase and ERK1/2 phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20622016;Dbxref=PMID:20622016	
+Q14451	UniProtKB	Mutagenesis	239	239	.	.	.	Note=Abolishes phosphoinositide binding. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12021278;Dbxref=PMID:12021278	
+Q14451	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Global loss of tyrosine phosphorylation. Abolishes interaction with FHL2 and HAX1. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18853468,ECO:0000269|PubMed:20665473;Dbxref=PMID:18853468,PMID:20665473	
+Q14451	UniProtKB	Mutagenesis	260	260	.	.	.	Note=Global loss of tyrosine phosphorylation. Abolishes interaction with FHL2 and HAX1. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18853468,ECO:0000269|PubMed:20665473;Dbxref=PMID:18853468,PMID:20665473	
+Q14451	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Global loss of tyrosine phosphorylation. Abolishes interaction with FHL2 and HAX1. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18853468,ECO:0000269|PubMed:20665473;Dbxref=PMID:18853468,PMID:20665473	
+Q14451	UniProtKB	Mutagenesis	338	338	.	.	.	Note=Abolishes Ras activity increase and ERK1/2 phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20622016;Dbxref=PMID:20622016	
+Q14451	UniProtKB	Mutagenesis	458	458	.	.	.	Note=Impairs phosphotyrosine binding by SH2 domain. R->L	
+Q14451	UniProtKB	Mutagenesis	480	480	.	.	.	Note=Global loss of tyrosine phosphorylation. Abolishes interaction with FHL2 and HAX1. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18853468,ECO:0000269|PubMed:20665473;Dbxref=PMID:18853468,PMID:20665473	
+Q14451	UniProtKB	Mutagenesis	492	492	.	.	.	Note=Global loss of tyrosine phosphorylation. Abolishes interaction with FHL2 and HAX1. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18853468,ECO:0000269|PubMed:20665473;Dbxref=PMID:18853468,PMID:20665473	
+Q14451	UniProtKB	Mutagenesis	511	511	.	.	.	Note=Abolishes dimerization. Abolishes activation of HRAS. F->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15841400;Dbxref=PMID:15841400	
+Q14451	UniProtKB	Sequence conflict	18	18	.	.	.	Note=C->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	18	18	.	.	.	Note=C->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	18	18	.	.	.	Note=C->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	18	18	.	.	.	Note=C->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	118	118	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	120	120	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	147	147	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	164	164	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Sequence conflict	510	510	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14451	UniProtKB	Beta strand	102	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	113	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Helix	124	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	134	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	145	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Turn	150	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	155	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Helix	164	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	173	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Beta strand	178	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WGR	
+Q14451	UniProtKB	Helix	421	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QMS	
+Q14451	UniProtKB	Helix	425	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5U1Q	
+Q14451	UniProtKB	Helix	429	431	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L4K	
+Q14451	UniProtKB	Beta strand	432	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QMS	
+Q14451	UniProtKB	Helix	438	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Beta strand	454	459	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Beta strand	461	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5U06	
+Q14451	UniProtKB	Beta strand	466	473	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Beta strand	476	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Beta strand	490	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Beta strand	502	504	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Helix	505	512	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	
+Q14451	UniProtKB	Beta strand	513	515	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MW4	
+Q14451	UniProtKB	Beta strand	519	521	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EEQ	

@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P02708 1 482
+P02708	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2449458;Dbxref=PMID:2449458	
+P02708	UniProtKB	Chain	21	482	.	.	.	ID=PRO_0000000305;Note=Acetylcholine receptor subunit alpha	
+P02708	UniProtKB	Topological domain	21	255	.	.	.	Note=Extracellular	
+P02708	UniProtKB	Transmembrane	256	280	.	.	.	Note=Helical	
+P02708	UniProtKB	Transmembrane	288	306	.	.	.	Note=Helical	
+P02708	UniProtKB	Transmembrane	322	341	.	.	.	Note=Helical	
+P02708	UniProtKB	Topological domain	342	453	.	.	.	Note=Cytoplasmic	
+P02708	UniProtKB	Transmembrane	454	472	.	.	.	Note=Helical	
+P02708	UniProtKB	Glycosylation	186	186	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P02708	UniProtKB	Disulfide bond	173	187	.	.	.	.	
+P02708	UniProtKB	Disulfide bond	237	238	.	.	.	Note=Associated with receptor activation	
+P02708	UniProtKB	Alternative sequence	79	103	.	.	.	ID=VSP_000071;Note=In isoform 1. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:3338555,ECO:0000303|PubMed:7725386;Dbxref=PMID:3338555,PMID:7725386	
+P02708	UniProtKB	Natural variant	177	177	.	.	.	ID=VAR_038599;Note=In CMS1B%3B mutant channel shows an approximately 30-fold decrease of ACh binding affinity for the second of 2 closed-state binding sites but only a 2-fold decrease in gating efficiency. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12588888;Dbxref=dbSNP:rs137852807,PMID:12588888	
+P02708	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_000282;Note=In CMS1A. G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7619526,ECO:0000269|PubMed:9158151;Dbxref=dbSNP:rs137852801,PMID:7619526,PMID:9158151	
+P02708	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_000283;Note=In CMS1A. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9158151;Dbxref=dbSNP:rs137852799,PMID:9158151	
+P02708	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_043904;Note=In LMPS. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18252226;Dbxref=dbSNP:rs137852809,PMID:18252226	
+P02708	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_000284;Note=In CMS1A. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8872460;Dbxref=dbSNP:rs137852798,PMID:8872460	
+P02708	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_021206;Note=In CMS1B%3B markedly reduced protein expression. F->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10195214;Dbxref=dbSNP:rs137852805,PMID:10195214	
+P02708	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_021207;Note=In CMS1A%3B causes increased channel opening in absence of ACh%3B prolonged opening in presence of ACh%3B increased affinity for ACh and enhanced desensitization. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9221765;Dbxref=dbSNP:rs137852803,PMID:9221765	
+P02708	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_000285;Note=In CMS1A. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9158151;Dbxref=dbSNP:rs137852800,PMID:9158151	
+P02708	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_021208;Note=In CMS1B%3B fewer and shorter ion channel activations with decreased channel opening rate and increased channel closing rate. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15079006;Dbxref=dbSNP:rs137852806,PMID:15079006	
+P02708	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_000286;Note=In CMS1A. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9158151;Dbxref=dbSNP:rs137852802,PMID:9158151	
+P02708	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_021209;Note=In CMS1B%3B abnormally slow channel opening and closing resulting in abnormally brief current. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10195214;Dbxref=dbSNP:rs137852804,PMID:10195214	
+P02708	UniProtKB	Natural variant	383	383	.	.	.	ID=VAR_038600;Note=D->V;Dbxref=dbSNP:rs6739001	
+P02708	UniProtKB	Natural variant	463	463	.	.	.	ID=VAR_038601;Note=In CMS1A%3B increases the rate of channel opening and slows the rate of channel closing but has no effect on agonist binding. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16685696;Dbxref=dbSNP:rs137852808,PMID:16685696	
+P02708	UniProtKB	Mutagenesis	300	300	.	.	.	Note=Increased length of channel opening. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27375219;Dbxref=PMID:27375219	
+P02708	UniProtKB	Sequence conflict	415	415	.	.	.	Note=P->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P02708	UniProtKB	Helix	23	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZJS	
+P02708	UniProtKB	Beta strand	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	49	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZJS	
+P02708	UniProtKB	Turn	65	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	69	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	106	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZJS	
+P02708	UniProtKB	Helix	114	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZJS	
+P02708	UniProtKB	Beta strand	122	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZJS	
+P02708	UniProtKB	Helix	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	140	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	152	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	159	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	166	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	184	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Turn	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	201	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	219	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	
+P02708	UniProtKB	Beta strand	243	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBT	

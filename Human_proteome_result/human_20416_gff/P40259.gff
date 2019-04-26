@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region P40259 1 229
+P40259	UniProtKB	Signal peptide	1	28	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7514267;Dbxref=PMID:7514267	
+P40259	UniProtKB	Chain	29	229	.	.	.	ID=PRO_0000014560;Note=B-cell antigen receptor complex-associated protein beta chain	
+P40259	UniProtKB	Topological domain	29	159	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Transmembrane	160	180	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Topological domain	181	229	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Domain	38	138	.	.	.	Note=Ig-like V-type	
+P40259	UniProtKB	Domain	185	213	.	.	.	Note=ITAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+P40259	UniProtKB	Modified residue	196	196	.	.	.	Note=Phosphotyrosine%3B by SRC-type Tyr-kinases;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P15530,ECO:0000255|PROSITE-ProRule:PRU00379	
+P40259	UniProtKB	Modified residue	207	207	.	.	.	Note=Phosphotyrosine%3B by SRC-type Tyr-kinases;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P15530,ECO:0000255|PROSITE-ProRule:PRU00379	
+P40259	UniProtKB	Glycosylation	73	73	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Glycosylation	101	101	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Glycosylation	127	127	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Glycosylation	128	128	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40259	UniProtKB	Disulfide bond	43	126	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:20696394;Dbxref=PMID:20696394	
+P40259	UniProtKB	Disulfide bond	65	122	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:20696394;Dbxref=PMID:20696394	
+P40259	UniProtKB	Disulfide bond	136	136	.	.	.	Note=Interchain (with C-119 in alpha chain);Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:20696394;Dbxref=PMID:20696394	
+P40259	UniProtKB	Alternative sequence	23	23	.	.	.	ID=VSP_047222;Note=In isoform 3. A->AA;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+P40259	UniProtKB	Alternative sequence	41	144	.	.	.	ID=VSP_002477;Note=In isoform Short. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:7643857,ECO:0000303|Ref.6;Dbxref=PMID:7643857	
+P40259	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_057833;Note=In AGM6. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17675462;Dbxref=dbSNP:rs121912424,PMID:17675462	
+P40259	UniProtKB	Sequence conflict	58	58	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40259	UniProtKB	Sequence conflict	58	58	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40259	UniProtKB	Sequence conflict	84	84	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40259	UniProtKB	Beta strand	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	51	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	61	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	75	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Turn	93	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	96	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	102	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Turn	114	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	118	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Turn	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	
+P40259	UniProtKB	Beta strand	138	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KG5	

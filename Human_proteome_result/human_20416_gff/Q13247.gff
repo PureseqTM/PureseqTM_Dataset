@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region Q13247 1 344
+Q13247	UniProtKB	Chain	1	344	.	.	.	ID=PRO_0000081930;Note=Serine/arginine-rich splicing factor 6	
+Q13247	UniProtKB	Domain	1	72	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q13247	UniProtKB	Domain	110	183	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q13247	UniProtKB	Compositional bias	87	90	.	.	.	Note=Gly-rich (hinge region)	
+Q13247	UniProtKB	Compositional bias	184	343	.	.	.	Note=Arg/Ser-rich (RS domain)	
+Q13247	UniProtKB	Modified residue	45	45	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:24275569	
+Q13247	UniProtKB	Modified residue	81	81	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q13247	UniProtKB	Modified residue	84	84	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q13247	UniProtKB	Modified residue	165	165	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3TWW8	
+Q13247	UniProtKB	Modified residue	297	297	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13247	UniProtKB	Modified residue	299	299	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q13247	UniProtKB	Modified residue	303	303	.	.	.	Note=Phosphoserine%3B by DYRK1A;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:22767602;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:22767602	
+Q13247	UniProtKB	Modified residue	314	314	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:17081983,PMID:20068231,PMID:21406692	
+Q13247	UniProtKB	Modified residue	316	316	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:17081983,PMID:20068231,PMID:21406692	
+Q13247	UniProtKB	Cross-link	182	182	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13247	UniProtKB	Alternative sequence	86	135	.	.	.	ID=VSP_005869;Note=In isoform SRP55-2. SGGGGYSSRRTSGRDKYGPPVRTEYRLIVENLSSRCSWQDLKDFMRQAGE->MTNGAEAVSTEAKMTAFPDWPWLFHTLCDPCPMTLWLTLPEAMTTAAFCH;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:7556075;Dbxref=PMID:14702039,PMID:7556075	
+Q13247	UniProtKB	Alternative sequence	136	344	.	.	.	ID=VSP_005870;Note=In isoform SRP55-2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:7556075;Dbxref=PMID:14702039,PMID:7556075	
+Q13247	UniProtKB	Alternative sequence	313	344	.	.	.	ID=VSP_005871;Note=In isoform SRP55-3. RSVSPPPKRATSRSRSRSRSKSRSRSRSSSRD->LKLGARFMSQQGTESLYSLASSC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7556075;Dbxref=PMID:7556075	
+Q13247	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_035489;Note=In a colorectal cancer sample%3B somatic mutation. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q13247	UniProtKB	Mutagenesis	280	280	.	.	.	Note=No effect on regulation of alternative splicing of MAPT/Tau exon 10 by DYRK1A. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22767602;Dbxref=PMID:22767602	
+Q13247	UniProtKB	Mutagenesis	303	303	.	.	.	Note=Abolishes regulatory effect of DYRK1A on alternative splicing of MAPT/Tau exon 10. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22767602;Dbxref=PMID:22767602	
+Q13247	UniProtKB	Mutagenesis	316	316	.	.	.	Note=No effect on regulation of alternative splicing of MAPT/Tau exon 10 by DYRK1A. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22767602;Dbxref=PMID:22767602	
+Q13247	UniProtKB	Sequence conflict	64	64	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13247	UniProtKB	Sequence conflict	64	64	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13247	UniProtKB	Sequence conflict	64	64	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

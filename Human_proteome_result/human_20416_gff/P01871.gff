@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region P01871 1 453
+P01871	UniProtKB	Chain	1	453	.	.	.	ID=PRO_0000153619;Note=Immunoglobulin heavy constant mu	
+P01871	UniProtKB	Domain	6	102	.	.	.	Note=Ig-like 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Domain	111	211	.	.	.	Note=Ig-like 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Domain	229	319	.	.	.	Note=Ig-like 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Domain	329	430	.	.	.	Note=Ig-like 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Region	1	105	.	.	.	Note=CH1	
+P01871	UniProtKB	Region	106	217	.	.	.	Note=CH2	
+P01871	UniProtKB	Region	218	323	.	.	.	Note=CH3	
+P01871	UniProtKB	Region	324	452	.	.	.	Note=CH4	
+P01871	UniProtKB	Glycosylation	46	46	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14760718,ECO:0000269|PubMed:19139490,ECO:0000269|PubMed:19159218;Dbxref=PMID:14760718,PMID:19139490,PMID:19159218	
+P01871	UniProtKB	Glycosylation	209	209	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19139490;Dbxref=PMID:19139490	
+P01871	UniProtKB	Glycosylation	272	272	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4742735;Dbxref=PMID:4742735	
+P01871	UniProtKB	Glycosylation	279	279	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:4742735;Dbxref=PMID:19159218,PMID:4742735	
+P01871	UniProtKB	Glycosylation	440	440	.	.	.	ID=CAR_000219;Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4742735;Dbxref=PMID:4742735	
+P01871	UniProtKB	Disulfide bond	14	14	.	.	.	Note=Interchain (with light chain);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4742735;Dbxref=PMID:4742735	
+P01871	UniProtKB	Disulfide bond	28	88	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Disulfide bond	134	197	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Disulfide bond	214	214	.	.	.	Note=Interchain (with heavy chain);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4742735;Dbxref=PMID:4742735	
+P01871	UniProtKB	Disulfide bond	244	303	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Disulfide bond	291	291	.	.	.	Note=Interchain (with heavy chain of another subunit);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4742735;Dbxref=PMID:4742735	
+P01871	UniProtKB	Disulfide bond	351	413	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01871	UniProtKB	Disulfide bond	452	452	.	.	.	Note=Interchain (with heavy chain);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4742735;Dbxref=PMID:4742735	
+P01871	UniProtKB	Alternative sequence	434	453	.	.	.	ID=VSP_034488;Note=In isoform 2. GKPTLYNVSLVMSDTAGTCY->EGEVSADEEGFENLWATASTFIVLFLLSLFYSTTVTLFKVK;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:2115996,ECO:0000303|PubMed:6795593;Dbxref=PMID:2115996,PMID:6795593	
+P01871	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_077893;Note=In IMGT allele IGHM*01. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2505237;Dbxref=PMID:2505237	
+P01871	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_003903;Note=In IMGT allele IGHM*03. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2115996;Dbxref=PMID:2115996	
+P01871	UniProtKB	Natural variant	215	215	.	.	.	ID=VAR_003904;Note=V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6425189;Dbxref=dbSNP:rs12365,PMID:6425189	
+P01871	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_077894;Note=In IMGT allele IGHM*01 IMGT allele IGHM*02. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2505237,ECO:0000269|PubMed:6795593;Dbxref=PMID:2505237,PMID:6795593	
+P01871	UniProtKB	Natural variant	418	418	.	.	.	ID=VAR_077895;Note=In IMGT allele IGHM*02. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6795593;Dbxref=PMID:6795593	
+P01871	UniProtKB	Sequence conflict	128	128	.	.	.	Note=R->RS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01871	UniProtKB	Sequence conflict	145	145	.	.	.	Note=Q->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01871	UniProtKB	Sequence conflict	163	165	.	.	.	Note=QVQ->EVE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01871	UniProtKB	Sequence conflict	220	220	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01871	UniProtKB	Sequence conflict	263	263	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01871	UniProtKB	Sequence conflict	296	296	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01871	UniProtKB	Non-terminal residue	1	1	.	.	.	.	
+P01871	UniProtKB	Beta strand	10	12	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	22	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	31	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	45	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HEZ	
+P01871	UniProtKB	Beta strand	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HEZ	
+P01871	UniProtKB	Beta strand	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	69	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Helix	75	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	85	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	
+P01871	UniProtKB	Beta strand	100	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AGJ	

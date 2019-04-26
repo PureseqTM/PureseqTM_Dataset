@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region Q16832 1 855
+Q16832	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Chain	22	855	.	.	.	ID=PRO_0000016746;Note=Discoidin domain-containing receptor 2	
+Q16832	UniProtKB	Topological domain	22	399	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Transmembrane	400	421	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Topological domain	422	855	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Domain	30	185	.	.	.	Note=F5/8 type C;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00081	
+Q16832	UniProtKB	Domain	563	849	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q16832	UniProtKB	Nucleotide binding	569	577	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q16832	UniProtKB	Active site	710	710	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+Q16832	UniProtKB	Binding site	608	608	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16832	UniProtKB	Modified residue	471	471	.	.	.	Note=Phosphotyrosine%3B by SRC and autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62371	
+Q16832	UniProtKB	Modified residue	736	736	.	.	.	Note=Phosphotyrosine%3B by SRC and autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Modified residue	740	740	.	.	.	Note=Phosphotyrosine%3B by SRC and autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Modified residue	741	741	.	.	.	Note=Phosphotyrosine%3B by SRC and autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Glycosylation	121	121	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Glycosylation	213	213	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Glycosylation	261	261	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Glycosylation	280	280	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Glycosylation	372	372	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16832	UniProtKB	Disulfide bond	30	185	.	.	.	.	
+Q16832	UniProtKB	Disulfide bond	73	177	.	.	.	.	
+Q16832	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_041498;Note=In a lung large cell carcinoma sample%3B somatic mutation. R->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16140923,ECO:0000269|PubMed:17344846;Dbxref=PMID:16140923,PMID:17344846	
+Q16832	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_065719;Note=In SEMD-SL%3B abolishes collagen binding. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20223752;Dbxref=dbSNP:rs397514747,PMID:20223752	
+Q16832	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_075417;Note=In SEMD-SL. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26463668;Dbxref=PMID:26463668	
+Q16832	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_041499;Note=M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34722354,PMID:17344846	
+Q16832	UniProtKB	Natural variant	478	478	.	.	.	ID=VAR_041500;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34869543,PMID:17344846	
+Q16832	UniProtKB	Natural variant	543	543	.	.	.	ID=VAR_041501;Note=V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55973200,PMID:17344846	
+Q16832	UniProtKB	Natural variant	713	713	.	.	.	ID=VAR_063050;Note=In SEMD-SL%3B causes retention in an intracellular compartment and thereby abolishes signaling in response collagen binding. T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19110212,ECO:0000269|PubMed:20223752;Dbxref=dbSNP:rs121964865,PMID:19110212,PMID:20223752	
+Q16832	UniProtKB	Natural variant	726	726	.	.	.	ID=VAR_063051;Note=In SEMD-SL%3B causes retention in an intracellular compartment and thereby abolishes signaling in response collagen binding. I->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19110212,ECO:0000269|PubMed:20223752;Dbxref=dbSNP:rs121964864,PMID:19110212,PMID:20223752	
+Q16832	UniProtKB	Natural variant	752	752	.	.	.	ID=VAR_063052;Note=In SEMD-SL%3B causes retention in an intracellular compartment and thereby abolishes signaling in response collagen binding. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19110212,ECO:0000269|PubMed:20223752;Dbxref=dbSNP:rs121964863,PMID:19110212,PMID:20223752	
+Q16832	UniProtKB	Mutagenesis	52	52	.	.	.	Note=Abolishes collagen binding. W->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20004161,ECO:0000269|PubMed:20223752;Dbxref=PMID:20004161,PMID:20223752	
+Q16832	UniProtKB	Mutagenesis	608	608	.	.	.	Note=Abolishes kinase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Mutagenesis	736	736	.	.	.	Note=Reduces autophosphorylation. Abolishes phosphorylation by SRC%3B when associated with F-740 and F-741. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Mutagenesis	740	740	.	.	.	Note=Promotes autophosphorylation. Abolishes phosphorylation by SRC%3B when associated with F-736 and F-741. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Mutagenesis	741	741	.	.	.	Note=Reduces autophosphorylation. Abolishes phosphorylation by SRC%3B when associated with F-736 and F-740. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16186108;Dbxref=PMID:16186108	
+Q16832	UniProtKB	Sequence conflict	642	642	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16832	UniProtKB	Turn	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	33	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z4F	
+Q16832	UniProtKB	Turn	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Helix	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	46	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Helix	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Helix	58	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	70	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	87	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Helix	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	116	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	139	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z4F	
+Q16832	UniProtKB	Beta strand	145	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	151	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	
+Q16832	UniProtKB	Beta strand	171	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z4F	
+Q16832	UniProtKB	Beta strand	178	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WUH	

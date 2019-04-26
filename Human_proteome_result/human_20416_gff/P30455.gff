@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region P30455 1 365
+P30455	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30455	UniProtKB	Chain	25	365	.	.	.	ID=PRO_0000018827;Note=HLA class I histocompatibility antigen%2C A-36 alpha chain	
+P30455	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30455	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30455	UniProtKB	Topological domain	333	365	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30455	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P30455	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30455	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30455	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30455	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P30455	UniProtKB	Modified residue	343	343	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P30455	UniProtKB	Modified residue	344	344	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P30455	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P30455	UniProtKB	Modified residue	350	350	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01892	
+P30455	UniProtKB	Modified residue	352	352	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30455	UniProtKB	Modified residue	356	356	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30455	UniProtKB	Modified residue	359	359	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30455	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30455	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30455	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30455	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_056291;Note=R->G;Dbxref=dbSNP:rs199474430	
+P30455	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_056292;Note=G->W;Dbxref=dbSNP:rs1136702	
+P30455	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_056293;Note=F->L;Dbxref=dbSNP:rs1059488	
+P30455	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_056294;Note=N->K;Dbxref=dbSNP:rs1059509	
+P30455	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_056295;Note=I->T;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21269460;Dbxref=dbSNP:rs1059516,PMID:21269460	
+P30455	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_056296;Note=R->H;Dbxref=dbSNP:rs1059520	
+P30455	UniProtKB	Natural variant	182	182	.	.	.	ID=VAR_016610;Note=In allele A*36:02. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2	
+P30455	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_016611;Note=In allele A*36:02. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2	
+P30455	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_056297;Note=R->H;Dbxref=dbSNP:rs17185861	

@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q01064 1 536
+Q01064	UniProtKB	Chain	1	536	.	.	.	ID=PRO_0000198789;Note=Calcium/calmodulin-dependent 3'%2C5'-cyclic nucleotide phosphodiesterase 1B	
+Q01064	UniProtKB	Domain	146	503	.	.	.	Note=PDEase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01192	
+Q01064	UniProtKB	Region	27	47	.	.	.	Note=Calmodulin-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01064	UniProtKB	Active site	223	223	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O76083	
+Q01064	UniProtKB	Metal binding	227	227	.	.	.	Note=Divalent metal cation 1%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1TAZ,ECO:0000244|PDB:4NPV,ECO:0000244|PDB:4NPW,ECO:0000269|PubMed:15260978;Dbxref=PMID:15260978	
+Q01064	UniProtKB	Metal binding	263	263	.	.	.	Note=Divalent metal cation 1%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1TAZ,ECO:0000244|PDB:4NPV,ECO:0000244|PDB:4NPW,ECO:0000269|PubMed:15260978;Dbxref=PMID:15260978	
+Q01064	UniProtKB	Metal binding	264	264	.	.	.	Note=Divalent metal cation 1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1TAZ,ECO:0000244|PDB:4NPV,ECO:0000244|PDB:4NPW,ECO:0000269|PubMed:15260978;Dbxref=PMID:15260978	
+Q01064	UniProtKB	Metal binding	264	264	.	.	.	Note=Divalent metal cation 2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1TAZ,ECO:0000244|PDB:4NPV,ECO:0000244|PDB:4NPW,ECO:0000269|PubMed:15260978;Dbxref=PMID:15260978	
+Q01064	UniProtKB	Metal binding	370	370	.	.	.	Note=Divalent metal cation 1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1TAZ,ECO:0000244|PDB:4NPV,ECO:0000244|PDB:4NPW,ECO:0000269|PubMed:15260978;Dbxref=PMID:15260978	
+Q01064	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q01065	
+Q01064	UniProtKB	Modified residue	15	15	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q01065	
+Q01064	UniProtKB	Modified residue	466	466	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q01065	
+Q01064	UniProtKB	Modified residue	514	514	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q01065	
+Q01064	UniProtKB	Alternative sequence	1	18	.	.	.	ID=VSP_038643;Note=In isoform PDE1B2. MELSPRSPPEMLEESDCP->MANPVPVQRSHLQGPILR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11747989,ECO:0000303|PubMed:14702039;Dbxref=PMID:11747989,PMID:14702039	
+Q01064	UniProtKB	Alternative sequence	19	38	.	.	.	ID=VSP_038644;Note=In isoform PDE1B2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11747989,ECO:0000303|PubMed:14702039;Dbxref=PMID:11747989,PMID:14702039	
+Q01064	UniProtKB	Sequence conflict	225	226	.	.	.	Note=QI->SM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q01064	UniProtKB	Sequence conflict	337	337	.	.	.	Note=S->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q01064	UniProtKB	Helix	152	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Turn	159	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	168	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	179	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	193	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	201	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Turn	216	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Beta strand	221	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	225	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	244	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	250	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Turn	263	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	272	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	281	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	291	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	307	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Turn	311	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	317	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	336	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	339	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	358	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	373	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	378	402	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	414	427	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Helix	429	444	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	
+Q01064	UniProtKB	Turn	446	448	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B25	
+Q01064	UniProtKB	Helix	476	501	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TAZ	

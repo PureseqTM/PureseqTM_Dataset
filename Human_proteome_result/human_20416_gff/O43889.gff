@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region O43889 1 371
+O43889	UniProtKB	Chain	1	371	.	.	.	ID=PRO_0000076602;Note=Cyclic AMP-responsive element-binding protein 3	
+O43889	UniProtKB	Topological domain	1	230	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Transmembrane	231	247	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43889	UniProtKB	Topological domain	248	371	.	.	.	Note=Lumenal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Domain	150	213	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+O43889	UniProtKB	Region	1	92	.	.	.	Note=Transcription activation (acidic);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10984507;Dbxref=PMID:10984507	
+O43889	UniProtKB	Region	152	184	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+O43889	UniProtKB	Region	192	213	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+O43889	UniProtKB	Motif	13	17	.	.	.	Note=LXXLL motif 1	
+O43889	UniProtKB	Motif	54	58	.	.	.	Note=LXXLL motif 2	
+O43889	UniProtKB	Motif	78	81	.	.	.	Note=HCFC1-binding-motif (HBM)	
+O43889	UniProtKB	Compositional bias	316	361	.	.	.	Note=Pro-rich	
+O43889	UniProtKB	Site	263	264	.	.	.	Note=Cleavage%3B by PS1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Site	266	267	.	.	.	Note=Cleavage%3B by PS1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Glycosylation	307	307	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43889	UniProtKB	Glycosylation	348	348	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43889	UniProtKB	Alternative sequence	229	245	.	.	.	ID=VSP_059386;Note=In isoform 2. Missing	
+O43889	UniProtKB	Mutagenesis	12	13	.	.	.	Note=Does not inhibit interaction with HCFC1. Reduces transcriptional activation. Inhibits strongly transcriptional activation%3B when associated with 56-A-A-57 and 78-A--A-81 (isoform 1). LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10984507;Dbxref=PMID:10984507	
+O43889	UniProtKB	Mutagenesis	16	17	.	.	.	Note=Does not affect the transcriptional activation of the glucocorticoid receptor NR3C1%3B when associated with 57-A-A-58 (isoform 2). LL->AA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10984507,ECO:0000269|PubMed:19779205;Dbxref=PMID:10984507,PMID:19779205	
+O43889	UniProtKB	Mutagenesis	57	58	.	.	.	Note=Does not affect the transcriptional activation of the glucocorticoid receptor NR3C1%3B when associated with 16-A-A-17 (isoform 2). LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19779205;Dbxref=PMID:19779205	
+O43889	UniProtKB	Mutagenesis	57	58	.	.	.	Note=Does not inhibit interaction with HCFC1. Reduces transcriptional activation. Inhibits strongly transcriptional activation%3B when associated with 12-A-A-13 and 78-A--A-81 (isoform 1). LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19779205;Dbxref=PMID:19779205	
+O43889	UniProtKB	Mutagenesis	78	81	.	.	.	Note=Inhibits interaction with HCFC1. Reduces transcriptional activation. Inhibits strongly transcriptional activation%3B when associated with 12-A-A-13 and 56-A-A-57. Colocalizes with HCFC1 in the nucleus (isoform 1). DHTY->AAAA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10984507,ECO:0000269|PubMed:15705566;Dbxref=PMID:10984507,PMID:15705566	
+O43889	UniProtKB	Mutagenesis	81	81	.	.	.	Note=Does not retain HCFC1 in the cytoplasm%2C does not interact with HCFC1%2C does not activate promoter and fail to protect cells from a productive infection by HSV-1. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10623756;Dbxref=PMID:10623756	
+O43889	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Does not bind to DNA but retains its ability to interact with HCFC1. Reduces transcriptional activation of unfolded protein response elements (UPRE)-containing promoter. Colocalizes with HCFC1 in the ER membrane. N->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15705566;Dbxref=PMID:15705566	
+O43889	UniProtKB	Mutagenesis	252	252	.	.	.	Note=Does not inhibit proteolytic cleavage and transcriptional activation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Inhibits proteolytic cleavage and transcriptional activation. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Inhibits proteolytic cleavage and transcriptional activation. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138176;Dbxref=PMID:12138176	
+O43889	UniProtKB	Sequence conflict	21	21	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43889	UniProtKB	Sequence conflict	230	230	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43889	UniProtKB	Sequence conflict	246	246	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43889	UniProtKB	Sequence conflict	262	262	.	.	.	Note=L->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43889	UniProtKB	Sequence conflict	333	333	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43889	UniProtKB	Sequence conflict	338	338	.	.	.	Note=C->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

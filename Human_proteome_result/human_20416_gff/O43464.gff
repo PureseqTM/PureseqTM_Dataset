@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region O43464 1 458
+O43464	UniProtKB	Transit peptide	1	31	.	.	.	Note=Mitochondrion	
+O43464	UniProtKB	Propeptide	32	133	.	.	.	ID=PRO_0000026945;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583623;Dbxref=PMID:11583623	
+O43464	UniProtKB	Chain	134	458	.	.	.	ID=PRO_0000026946;Note=Serine protease HTRA2%2C mitochondrial	
+O43464	UniProtKB	Transmembrane	105	125	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43464	UniProtKB	Domain	364	445	.	.	.	Note=PDZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O43464	UniProtKB	Region	166	342	.	.	.	Note=Serine protease	
+O43464	UniProtKB	Motif	134	137	.	.	.	Note=IAP-binding motif	
+O43464	UniProtKB	Active site	198	198	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11967569;Dbxref=PMID:11967569	
+O43464	UniProtKB	Active site	228	228	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11967569;Dbxref=PMID:11967569	
+O43464	UniProtKB	Active site	306	306	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11967569;Dbxref=PMID:11967569	
+O43464	UniProtKB	Alternative sequence	238	302	.	.	.	ID=VSP_005359;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10995577;Dbxref=PMID:10995577	
+O43464	UniProtKB	Alternative sequence	313	313	.	.	.	ID=VSP_005360;Note=In isoform 3. L->LARELGAVSLQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10971580;Dbxref=PMID:10971580	
+O43464	UniProtKB	Alternative sequence	314	458	.	.	.	ID=VSP_005362;Note=In isoform 4. DGEVIGVNTMKVTAGISFAIPSDRLREFLHRGEKKNSSSGISGSQRRYIGVMMLTLSPSILAELQLREPSFPDVQHGVLIHKVILGSPAHRAGLRPGDVILAIGEQMVQNAEDVYEAVRTQSQLAVQIRRGRETLTLYVTPEVTE->VSETSFLPRIPAPGQCGKGRFPLIQGCLVKFLSSSLLAISQYPTRSPQHLLVLLFGCPHPLLFV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10971580;Dbxref=PMID:10971580	
+O43464	UniProtKB	Alternative sequence	372	403	.	.	.	ID=VSP_005361;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10971580,ECO:0000303|PubMed:10995577;Dbxref=PMID:10971580,PMID:10995577	
+O43464	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_076967;Note=W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18364387;Dbxref=dbSNP:rs775840965,PMID:18364387	
+O43464	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_046134;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18401856;Dbxref=dbSNP:rs150047108,PMID:18401856	
+O43464	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_076968;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18364387;Dbxref=dbSNP:rs757704467,PMID:18364387	
+O43464	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_027349;Note=Polymorphism%3B may be a risk factor for Parkinson disease%3B reduced protease activity. A->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15961413,ECO:0000269|PubMed:18364387,ECO:0000269|PubMed:18401856;Dbxref=dbSNP:rs72470544,PMID:15961413,PMID:18364387,PMID:18401856	
+O43464	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_076969;Note=A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18364387;Dbxref=dbSNP:rs375322953,PMID:18364387	
+O43464	UniProtKB	Natural variant	243	244	.	.	.	ID=VAR_077960;Note=In MGCA8%3B loss of protein expression. LP->PS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27696117;Dbxref=dbSNP:rs1057519082,PMID:27696117	
+O43464	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_027350;Note=Polymorphism%3B may be a risk factor for Parkinson disease%3B reduced protease activity. G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15961413,ECO:0000269|PubMed:18364387,ECO:0000269|PubMed:25422467,ECO:0000269|PubMed:27535533;Dbxref=dbSNP:rs72470545,PMID:15961413,PMID:18364387,PMID:25422467,PMID:27535533	
+O43464	UniProtKB	Natural variant	404	404	.	.	.	ID=VAR_077961;Note=In MGCA8%3B may lead to skipping of exon 7 and the resultant protein may be truncated%3B loss of protein expression in patient cells homozygous for the mutation. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27208207;Dbxref=dbSNP:rs767006508,PMID:27208207	
+O43464	UniProtKB	Natural variant	404	404	.	.	.	ID=VAR_046135;Note=In PARK13. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18401856;Dbxref=PMID:18401856	
+O43464	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Loss of interaction with XIAP. Loss of inhibition of XIAP activity. A->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583623;Dbxref=PMID:11583623	
+O43464	UniProtKB	Mutagenesis	306	306	.	.	.	Note=Loss of protease activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10644717;Dbxref=PMID:10644717	
+O43464	UniProtKB	Helix	143	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	149	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	158	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	161	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Turn	171	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	175	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Turn	189	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	192	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	204	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	211	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TO0	
+O43464	UniProtKB	Beta strand	215	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Turn	225	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	229	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	248	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	256	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	265	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FHT	
+O43464	UniProtKB	Beta strand	271	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	295	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Turn	303	307	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	308	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	317	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	329	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	335	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	359	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	364	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	371	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	382	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WYN	
+O43464	UniProtKB	Beta strand	391	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	401	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	412	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Helix	424	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	435	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	446	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	
+O43464	UniProtKB	Beta strand	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3N	

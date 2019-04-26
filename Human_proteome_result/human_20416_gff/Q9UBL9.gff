@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region Q9UBL9 1 471
+Q9UBL9	UniProtKB	Chain	1	471	.	.	.	ID=PRO_0000161549;Note=P2X purinoceptor 2	
+Q9UBL9	UniProtKB	Topological domain	1	42	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Transmembrane	43	63	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Topological domain	64	337	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Transmembrane	338	358	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Topological domain	359	471	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Region	320	333	.	.	.	Note=Pore-forming motif;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Glycosylation	133	133	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Glycosylation	194	194	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Glycosylation	310	310	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBL9	UniProtKB	Disulfide bond	21	439	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UBL9	UniProtKB	Disulfide bond	125	176	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UBL9	UniProtKB	Disulfide bond	136	159	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UBL9	UniProtKB	Disulfide bond	142	170	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UBL9	UniProtKB	Disulfide bond	226	236	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UBL9	UniProtKB	Disulfide bond	270	279	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UBL9	UniProtKB	Alternative sequence	36	127	.	.	.	ID=VSP_004495;Note=In isoform H. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9UBL9	UniProtKB	Alternative sequence	38	152	.	.	.	ID=VSP_004496;Note=In isoform I. NRRLGVLYRAVQLLILLYFVWYVFIVQKSYQESETGPESSIITKVKGITTSEHKVWDVEEYVKPPEGGSVFSIITRVEATHSQTQGTCPESIRVHNATCLSDADCVAGELDMLGN->IHRAEKLPGERDGPRELHHHQGQGDHHVRAQSVGRGGVREAPR;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9UBL9	UniProtKB	Alternative sequence	104	127	.	.	.	ID=VSP_004497;Note=In isoform C and isoform K. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10570044,ECO:0000303|Ref.3,ECO:0000303|Ref.4;Dbxref=PMID:10570044	
+Q9UBL9	UniProtKB	Alternative sequence	154	258	.	.	.	ID=VSP_014135;Note=In isoform K. LRTGRCVPYYQGPSKTCEVFGWCPVEDGASVSQFLGTMAPNFTILIKNSIHYPKFHFSKGNIADRTDGYLKRCTFHEASDLYCPIFKLGFIVEKAGESFTELAHK->ALQDLRGVRLVPGGRWGLCQPISGYDGPKFHHPHQEQHPLPQIPLLQGQHRRPHRRVPEALHVPRGLRPLLPHLQAGLYRGEGWGELHRARTQGR;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q9UBL9	UniProtKB	Alternative sequence	354	354	.	.	.	ID=VSP_004498;Note=In isoform D. V->VVRNPLWGPSGCGGSTRPLHTGLCWPQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10570044;Dbxref=PMID:10570044	
+Q9UBL9	UniProtKB	Alternative sequence	381	447	.	.	.	ID=VSP_004499;Note=In isoform B and isoform K. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10570044,ECO:0000303|Ref.2,ECO:0000303|Ref.4;Dbxref=PMID:10570044	
+Q9UBL9	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_070687;Note=In DFNA41%3B found in heterozygous status in patients%3B abolished ATP-stimulated permeability. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23345450;Dbxref=dbSNP:rs587777692,PMID:23345450	
+Q9UBL9	UniProtKB	Natural variant	353	353	.	.	.	ID=VAR_070688;Note=In DFNA41. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24211385;Dbxref=dbSNP:rs202138002,PMID:24211385	
+Q9UBL9	UniProtKB	Sequence conflict	1	14	.	.	.	Note=MAAAQPKYPAGATA->MV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBL9	UniProtKB	Sequence conflict	1	14	.	.	.	Note=MAAAQPKYPAGATA->MV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBL9	UniProtKB	Sequence conflict	48	48	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

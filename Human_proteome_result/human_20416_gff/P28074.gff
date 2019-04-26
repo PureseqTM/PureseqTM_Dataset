@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region P28074 1 263
+P28074	UniProtKB	Propeptide	1	59	.	.	.	ID=PRO_0000026589;Note=Removed in mature form;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2306472;Dbxref=PMID:2306472	
+P28074	UniProtKB	Chain	60	263	.	.	.	ID=PRO_0000026590;Note=Proteasome subunit beta type-5	
+P28074	UniProtKB	Active site	60	60	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25599644,ECO:0000269|PubMed:27493187;Dbxref=PMID:25599644,PMID:27493187	
+P28074	UniProtKB	Binding site	108	108	.	.	.	Note=Bortezomib%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P28074	UniProtKB	Alternative sequence	1	103	.	.	.	ID=VSP_045686;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P28074	UniProtKB	Alternative sequence	169	263	.	.	.	ID=VSP_041263;Note=In isoform 2. GLYYVDSEGNRISGATFSVGSGSVYAYGVMDRGYSYDLEVEQAYDLARRAIYQATYRDAYSGGAVNLYHVREDGWIRVSSDNVADLHEKYSGSTP->VSEVLCLKPKSFGMYLFCGCAERIGNMARPLLRGQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.7;Dbxref=PMID:14702039	
+P28074	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_051549;Note=R->C;Dbxref=dbSNP:rs11543947	
+P28074	UniProtKB	Mutagenesis	108	108	.	.	.	Note=Displays resistance to the bortezomib%2C a proteasome inhibitor of the chymotrypsin-like activity. Displays high resistance to the bortezomib%2C a proteasome inhibitor of the chymotrypsin-like activity%3B when associated with V-109. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18502982,ECO:0000269|PubMed:18565852,ECO:0000269|PubMed:19426847;Dbxref=PMID:18502982,PMID:18565852,PMID:19426847	
+P28074	UniProtKB	Mutagenesis	108	108	.	.	.	Note=Displays high resistance to the bortezomib%2C a proteasome inhibitor of the chymotrypsin-like activity. A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18502982,ECO:0000269|PubMed:18565852,ECO:0000269|PubMed:19426847;Dbxref=PMID:18502982,PMID:18565852,PMID:19426847	
+P28074	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Displays high resistance to the bortezomib%2C a proteasome inhibitor of the chymotrypsin-like activity%3B when associated with T-108. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19426847;Dbxref=PMID:19426847	
+P28074	UniProtKB	Sequence conflict	3	6	.	.	.	Note=LASV->IRGR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28074	UniProtKB	Sequence conflict	3	5	.	.	.	Note=LAS->HEG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28074	UniProtKB	Sequence conflict	85	85	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28074	UniProtKB	Sequence conflict	109	109	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28074	UniProtKB	Sequence conflict	158	158	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28074	UniProtKB	Beta strand	62	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	70	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	79	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	84	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	93	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Helix	108	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Helix	135	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Turn	148	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	156	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	167	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	179	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	183	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Helix	191	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Helix	208	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VFO	
+P28074	UniProtKB	Beta strand	231	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Beta strand	242	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	
+P28074	UniProtKB	Helix	251	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LE5	

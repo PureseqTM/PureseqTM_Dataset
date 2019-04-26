@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region P08493 1 103
+P08493	UniProtKB	Signal peptide	1	19	.	.	.	.	
+P08493	UniProtKB	Chain	20	96	.	.	.	ID=PRO_0000011109;Note=Matrix Gla protein	
+P08493	UniProtKB	Propeptide	97	103	.	.	.	ID=PRO_0000011110;Note=Removed in mature form%3B probably by carboxypeptidase N	
+P08493	UniProtKB	Domain	51	97	.	.	.	Note=Gla;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Modified residue	21	21	.	.	.	Note=4-carboxyglutamate;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P07507,ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8061611;Dbxref=PMID:8061611	
+P08493	UniProtKB	Modified residue	25	25	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8061611;Dbxref=PMID:8061611	
+P08493	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8061611;Dbxref=PMID:8061611	
+P08493	UniProtKB	Modified residue	56	56	.	.	.	Note=4-carboxyglutamate;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P07507,ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Modified residue	60	60	.	.	.	Note=4-carboxyglutamate;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P07507,ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Modified residue	67	67	.	.	.	Note=4-carboxyglutamate;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P07507,ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Modified residue	71	71	.	.	.	Note=4-carboxyglutamate;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P07507,ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Disulfide bond	73	79	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00463	
+P08493	UniProtKB	Alternative sequence	20	20	.	.	.	ID=VSP_046999;Note=In isoform 2. Y->YGEWQKEENFGFDIVSVLSLNWHRAQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08493	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_016177;Note=K->E;Dbxref=dbSNP:rs1801716	
+P08493	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_016178;Note=T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:2216462,ECO:0000269|PubMed:3387234,ECO:0000269|Ref.5,ECO:0000269|Ref.6,ECO:0000269|Ref.8;Dbxref=dbSNP:rs4236,PMID:14702039,PMID:15489334,PMID:2216462,PMID:3387234	
+P08493	UniProtKB	Sequence conflict	20	20	.	.	.	Note=Y->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08493	UniProtKB	Sequence conflict	51	51	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

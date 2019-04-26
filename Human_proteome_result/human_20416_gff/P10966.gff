@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P10966 1 210
+P10966	UniProtKB	Signal peptide	1	21	.	.	.	.	
+P10966	UniProtKB	Chain	22	210	.	.	.	ID=PRO_0000014643;Note=T-cell surface glycoprotein CD8 beta chain	
+P10966	UniProtKB	Topological domain	22	170	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10966	UniProtKB	Transmembrane	171	191	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10966	UniProtKB	Topological domain	192	210	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10966	UniProtKB	Domain	22	132	.	.	.	Note=Ig-like V-type	
+P10966	UniProtKB	Modified residue	209	209	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10966	UniProtKB	Glycosylation	102	102	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10966	UniProtKB	Disulfide bond	41	116	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P10966	UniProtKB	Alternative sequence	165	210	.	.	.	ID=VSP_039654;Note=In isoform 7. GPLCSPITLGLLVAGVLVLLVSLGVAIHLCCRRRRARLRFMKQFYK->DFTNKQRIGFWCPATKRHRSVMSTMWKNERRDTFNPGEFNGC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8436166;Dbxref=PMID:8436166	
+P10966	UniProtKB	Alternative sequence	166	210	.	.	.	ID=VSP_039655;Note=In isoform 8. PLCSPITLGLLVAGVLVLLVSLGVAIHLCCRRRRARLRFMKQFYK->LKGKVYQEPLSPNACMDTTAILQPHRSCLTHGS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8436166;Dbxref=PMID:15489334,PMID:8436166	
+P10966	UniProtKB	Alternative sequence	166	195	.	.	.	ID=VSP_002492;Note=In isoform 3 and isoform 6. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:3145195,ECO:0000303|PubMed:8436166;Dbxref=PMID:3145195,PMID:8436166	
+P10966	UniProtKB	Alternative sequence	208	210	.	.	.	ID=VSP_002490;Note=In isoform 2. FYK->LRLHPLEKCSRMDY;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:3145195,ECO:0000303|PubMed:8436166;Dbxref=PMID:3145195,PMID:8436166	
+P10966	UniProtKB	Alternative sequence	208	210	.	.	.	ID=VSP_002493;Note=In isoform 3 and isoform 5. FYK->PQGEGISGTFVPQCLHGYYSNTTTSQKLLNPWILKT;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:3145195,ECO:0000303|PubMed:8436166;Dbxref=PMID:15489334,PMID:3145195,PMID:8436166	
+P10966	UniProtKB	Alternative sequence	208	210	.	.	.	ID=VSP_002491;Note=In isoform 4. FYK->KFNIVCLKISGFTTCCCFQILQISREYGFGVLLQKDIGQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10966	UniProtKB	Sequence conflict	173	173	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10966	UniProtKB	Sequence conflict	180	180	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

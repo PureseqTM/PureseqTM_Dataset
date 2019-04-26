@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region Q99638 1 391
+Q99638	UniProtKB	Chain	1	391	.	.	.	ID=PRO_0000225000;Note=Cell cycle checkpoint control protein RAD9A	
+Q99638	UniProtKB	Region	51	91	.	.	.	Note=Possesses 3'-5' exonuclease activity	
+Q99638	UniProtKB	Region	266	391	.	.	.	Note=Sufficient for interaction with ABL1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11971963;Dbxref=PMID:11971963	
+Q99638	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11971963;Dbxref=PMID:11971963	
+Q99638	UniProtKB	Modified residue	272	272	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Modified residue	277	277	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:12709442;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:12709442	
+Q99638	UniProtKB	Modified residue	328	328	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12709442;Dbxref=PMID:23186163,PMID:12709442	
+Q99638	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Modified residue	375	375	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:12709442;Dbxref=PMID:17081983,PMID:19690332,PMID:20068231,PMID:12709442	
+Q99638	UniProtKB	Modified residue	380	380	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000269|PubMed:12709442;Dbxref=PMID:17081983,PMID:12709442	
+Q99638	UniProtKB	Modified residue	387	387	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12709442;Dbxref=PMID:17081983,PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:12709442	
+Q99638	UniProtKB	Natural variant	3	3	.	.	.	ID=VAR_025410;Note=C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11575913	
+Q99638	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_051724;Note=L->Q;Dbxref=dbSNP:rs2422490	
+Q99638	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_025411;Note=S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs2066492	
+Q99638	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_025412;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs17880039	
+Q99638	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_025413;Note=M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs17882466	
+Q99638	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Abolishes phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11971963;Dbxref=PMID:11971963	
+Q99638	UniProtKB	Mutagenesis	272	272	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-277%3B A-328%3B A-341%3B A-375%3B A-380 and A-387. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Mutagenesis	277	277	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-272%3B A-328%3B A-341%3B A-375%3B A-380 and A-387. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Mutagenesis	328	328	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-272%3B A-277%3B A-341%3B A-375%3B A-380 and A-387. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Mutagenesis	341	341	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-272%3B A-277%3B A-328%3B A-375%3B A-380 and A-387. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Mutagenesis	375	375	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-272%3B A-277%3B A-328%3B A-341%3B A-380 and A-387. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Mutagenesis	380	380	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-272%3B A-277%3B A-328%3B A-341%3B A-375 and A-387. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Mutagenesis	387	387	.	.	.	Note=Complete loss of phosphorylation and no loss of interaction with the 9-1-1 complex%3B when associated with A-272%3B A-277%3B A-328%3B A-341%3B A-375 and A-380. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12709442;Dbxref=PMID:12709442	
+Q99638	UniProtKB	Sequence conflict	12	12	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99638	UniProtKB	Sequence conflict	130	130	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99638	UniProtKB	Beta strand	2	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	8	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	25	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	35	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	47	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	58	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	73	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	77	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	87	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	94	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	106	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	115	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	119	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	142	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	149	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	165	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	172	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	176	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	187	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GGR	
+Q99638	UniProtKB	Beta strand	194	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	201	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	205	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	214	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Helix	219	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	235	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	241	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GGR	
+Q99638	UniProtKB	Beta strand	247	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	254	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3A1J	
+Q99638	UniProtKB	Beta strand	267	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G65	
+Q99638	UniProtKB	Beta strand	382	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6HM5	

@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q9Y2N7 1 669
+Q9Y2N7	UniProtKB	Chain	1	669	.	.	.	ID=PRO_0000284414;Note=Hypoxia-inducible factor 3-alpha	
+Q9Y2N7	UniProtKB	Domain	14	67	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+Q9Y2N7	UniProtKB	Domain	82	154	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q9Y2N7	UniProtKB	Domain	227	297	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q9Y2N7	UniProtKB	Region	77	100	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q0VBL6	
+Q9Y2N7	UniProtKB	Region	230	274	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q0VBL6	
+Q9Y2N7	UniProtKB	Region	452	581	.	.	.	Note=ODD	
+Q9Y2N7	UniProtKB	Region	454	506	.	.	.	Note=NTAD	
+Q9Y2N7	UniProtKB	Motif	414	418	.	.	.	Note=LRRLL	
+Q9Y2N7	UniProtKB	Motif	490	497	.	.	.	Note=LAPYISMD	
+Q9Y2N7	UniProtKB	Modified residue	492	492	.	.	.	Note=4-hydroxyproline;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12538644;Dbxref=PMID:12538644	
+Q9Y2N7	UniProtKB	Cross-link	467	467	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12538644;Dbxref=PMID:12538644	
+Q9Y2N7	UniProtKB	Cross-link	570	570	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12538644;Dbxref=PMID:12538644	
+Q9Y2N7	UniProtKB	Alternative sequence	1	120	.	.	.	ID=VSP_043429;Note=In isoform 7. MALGLQRARSTTELRKEKSRDAARSRRSQETEVLYQLAHTLPFARGVSAHLDKASIMRLTISYLRMHRLCAAGEWNQVGAGGEPLDACYLKALEGFVMVLTAEGDMAYLSENVSKHLGLS->MRPAAGAARRPRCCTSWLTRCPSPAASAPTWTRPLSCASPSATCACTASAP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y2N7	UniProtKB	Alternative sequence	1	86	.	.	.	ID=VSP_024518;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2N7	UniProtKB	Alternative sequence	1	56	.	.	.	ID=VSP_024519;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y2N7	UniProtKB	Alternative sequence	1	8	.	.	.	ID=VSP_024520;Note=In isoform 2. MALGLQRA->MDWQDH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11573933;Dbxref=PMID:11573933	
+Q9Y2N7	UniProtKB	Alternative sequence	87	137	.	.	.	ID=VSP_024521;Note=In isoform 6. ACYLKALEGFVMVLTAEGDMAYLSENVSKHLGLSQLELIGHSIFDFIHPCD->MRPAAGAARRPRCCTSWLTRCPSPAASAPTWTRPLSCASPSATCACTASAP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2N7	UniProtKB	Alternative sequence	293	363	.	.	.	ID=VSP_024523;Note=In isoform 4. LLSKGQAVTGQYRFLARSGGYLWTQTQATVVSGGRGPQSESIVCVHFLISQVEETGVVLSLEQTEQHSRRP->CMYPISPGAKPAATWPPADTRTPQLPIPQDALPPHLNTSSLLPKPQGTVSFLAPSYPVPRSFSPHLPPWWP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16126907;Dbxref=PMID:16126907	
+Q9Y2N7	UniProtKB	Alternative sequence	364	669	.	.	.	ID=VSP_024525;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16126907;Dbxref=PMID:16126907	
+Q9Y2N7	UniProtKB	Alternative sequence	611	669	.	.	.	ID=VSP_024526;Note=In isoform 3. SFLLTGGPAPGSLQDPSTPLLNLNEPLGLGPSLLSPYSDEDTTQPGGPFQPRAGSAQAD->VCWGINGILWPSLPSWLKPTVL;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2,ECO:0000303|Ref.4;Dbxref=PMID:14702039	
+Q9Y2N7	UniProtKB	Natural variant	343	343	.	.	.	ID=VAR_031731;Note=Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs3764609,PMID:15489334	
+Q9Y2N7	UniProtKB	Natural variant	463	463	.	.	.	ID=VAR_031732;Note=F->L;Dbxref=dbSNP:rs7253301	
+Q9Y2N7	UniProtKB	Mutagenesis	467	467	.	.	.	Note=No loss of ubiquitination. Reduced ubiquitination%3B when associated with R-570. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12538644;Dbxref=PMID:12538644	
+Q9Y2N7	UniProtKB	Mutagenesis	492	492	.	.	.	Note=Reduced hydroxylation activity. Reduced ubiquitination. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12538644;Dbxref=PMID:12538644	
+Q9Y2N7	UniProtKB	Mutagenesis	570	570	.	.	.	Note=No loss of ubiquitination. Reduced ubiquitination%3B when associated with R-467. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12538644;Dbxref=PMID:12538644	
+Q9Y2N7	UniProtKB	Sequence conflict	202	202	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2N7	UniProtKB	Sequence conflict	497	497	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2N7	UniProtKB	Beta strand	241	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Beta strand	250	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Helix	258	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Helix	266	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Helix	274	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Turn	280	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Helix	283	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Beta strand	297	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Beta strand	304	307	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Beta strand	313	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Helix	329	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	
+Q9Y2N7	UniProtKB	Beta strand	333	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WN5	

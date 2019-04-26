@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P07099 1 455
+P07099	UniProtKB	Chain	1	455	.	.	.	ID=PRO_0000080855;Note=Epoxide hydrolase 1	
+P07099	UniProtKB	Transmembrane	1	21	.	.	.	Note=Helical%3B Signal-anchor for type III membrane protein;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P07687	
+P07099	UniProtKB	Topological domain	22	455	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P07687	
+P07099	UniProtKB	Active site	226	226	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P07687	
+P07099	UniProtKB	Active site	374	374	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P34913	
+P07099	UniProtKB	Active site	431	431	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P07687	
+P07099	UniProtKB	Modified residue	295	295	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P07687	
+P07099	UniProtKB	Modified residue	295	295	.	.	.	Note=Omega-N-methylated arginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07099	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_023303;Note=R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs3738046	
+P07099	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_018347;Note=E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15618730;Dbxref=dbSNP:rs745306359,PMID:15618730	
+P07099	UniProtKB	Natural variant	49	49	.	.	.	ID=VAR_013298;Note=In allele EPHX1*2. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11058921;Dbxref=dbSNP:rs2234697,PMID:11058921	
+P07099	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_005295;Note=In allele EPHX1*3%3B 55%25 of wild type enzyme activity. Y->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11058921,ECO:0000269|PubMed:12173035,ECO:0000269|PubMed:15535985,ECO:0000269|PubMed:7516776,ECO:0000269|Ref.8;Dbxref=dbSNP:rs1051740,PMID:11058921,PMID:12173035,PMID:15535985,PMID:7516776	
+P07099	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_005296;Note=In allele EPHX1*4%3B 62%25 of wild type enzyme activity. H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11058921,ECO:0000269|PubMed:12173035,ECO:0000269|PubMed:15535985,ECO:0000269|PubMed:7516776,ECO:0000269|Ref.8;Dbxref=dbSNP:rs2234922,PMID:11058921,PMID:12173035,PMID:15535985,PMID:7516776	
+P07099	UniProtKB	Natural variant	260	260	.	.	.	ID=VAR_013299;Note=In allele EPHX1*1G. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11058921;Dbxref=PMID:11058921	
+P07099	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_051828;Note=T->A;Dbxref=dbSNP:rs35073925	
+P07099	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_023304;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs45449793	
+P07099	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_005297;Note=Either a rare polymorphism or a sequencing error. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7516776;Dbxref=PMID:7516776	
+P07099	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_023305;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs45495897	
+P07099	UniProtKB	Natural variant	452	452	.	.	.	ID=VAR_023306;Note=L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs45563137	
+P07099	UniProtKB	Natural variant	454	454	.	.	.	ID=VAR_013300;Note=In allele EPHX1*5. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11058921;Dbxref=dbSNP:rs2234701,PMID:11058921	
+P07099	UniProtKB	Sequence conflict	15	15	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	112	112	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	148	148	.	.	.	Note=H->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	148	148	.	.	.	Note=H->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	243	243	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	348	348	.	.	.	Note=K->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	406	406	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07099	UniProtKB	Sequence conflict	420	420	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

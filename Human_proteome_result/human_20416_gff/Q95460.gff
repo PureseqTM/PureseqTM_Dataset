@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region Q95460 1 341
+Q95460	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12794138;Dbxref=PMID:12794138	
+Q95460	UniProtKB	Chain	23	341	.	.	.	ID=PRO_0000344441;Note=Major histocompatibility complex class I-related gene protein	
+Q95460	UniProtKB	Topological domain	23	302	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95460	UniProtKB	Transmembrane	303	323	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95460	UniProtKB	Topological domain	324	341	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95460	UniProtKB	Domain	203	299	.	.	.	Note=Ig-like C1-type	
+Q95460	UniProtKB	Region	23	201	.	.	.	Note=Ligand-binding	
+Q95460	UniProtKB	Region	23	109	.	.	.	Note=Alpha-1	
+Q95460	UniProtKB	Region	110	201	.	.	.	Note=Alpha-2	
+Q95460	UniProtKB	Region	202	293	.	.	.	Note=Alpha-3	
+Q95460	UniProtKB	Region	294	302	.	.	.	Note=Connecting peptide	
+Q95460	UniProtKB	Binding site	65	65	.	.	.	Note=Pathogen-derived ligand	
+Q95460	UniProtKB	Glycosylation	107	107	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12794138;Dbxref=PMID:12794138	
+Q95460	UniProtKB	Disulfide bond	120	183	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:23051753;Dbxref=PMID:23051753	
+Q95460	UniProtKB	Disulfide bond	222	278	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:23051753;Dbxref=PMID:23051753	
+Q95460	UniProtKB	Alternative sequence	110	154	.	.	.	ID=VSP_034755;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q95460	UniProtKB	Alternative sequence	202	328	.	.	.	ID=VSP_043479;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q95460	UniProtKB	Alternative sequence	202	220	.	.	.	ID=VSP_034756;Note=In isoform 4. EPPLVRVNRKETFPGVTAL->GKEKEKASFPHCLNNCFYT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9780177;Dbxref=PMID:9780177	
+Q95460	UniProtKB	Alternative sequence	203	294	.	.	.	ID=VSP_034757;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9780177;Dbxref=PMID:14702039,PMID:9780177	
+Q95460	UniProtKB	Alternative sequence	221	341	.	.	.	ID=VSP_034758;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9780177;Dbxref=PMID:9780177	
+Q95460	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_045608;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.10;Dbxref=dbSNP:rs2236410	
+Q95460	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_045609;Note=R->Q;Dbxref=dbSNP:rs3897433	
+Q95460	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_045610;Note=A->V;Dbxref=dbSNP:rs3897434	
+Q95460	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Fails to refold in the presence of 6-FP. K->R	
+Q95460	UniProtKB	Mutagenesis	169	169	.	.	.	Note=Able to activate mouse MAIT cells. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19416870;Dbxref=PMID:19416870	
+Q95460	UniProtKB	Mutagenesis	283	283	.	.	.	Note=No effect on cell surface expression. C->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12794138;Dbxref=PMID:12794138	
+Q95460	UniProtKB	Sequence conflict	117	117	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q95460	UniProtKB	Sequence conflict	200	200	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q95460	UniProtKB	Sequence conflict	315	315	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q95460	UniProtKB	Beta strand	25	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D7J	
+Q95460	UniProtKB	Beta strand	43	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	53	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Turn	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	66	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Helix	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D7L	
+Q95460	UniProtKB	Helix	78	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	113	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	128	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	139	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Turn	146	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	150	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Helix	156	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Helix	169	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Helix	182	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Helix	195	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	205	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	214	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PJB	
+Q95460	UniProtKB	Beta strand	218	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	233	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Turn	239	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PJ9	
+Q95460	UniProtKB	Helix	244	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5U6Q	
+Q95460	UniProtKB	Beta strand	247	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5U6Q	
+Q95460	UniProtKB	Beta strand	256	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	260	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	270	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PJ5	
+Q95460	UniProtKB	Beta strand	276	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	
+Q95460	UniProtKB	Beta strand	285	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L4V	

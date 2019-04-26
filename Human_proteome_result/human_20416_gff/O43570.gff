@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region O43570 1 354
+O43570	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Chain	25	354	.	.	.	ID=PRO_0000004248;Note=Carbonic anhydrase 12	
+O43570	UniProtKB	Topological domain	25	301	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Transmembrane	302	322	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Topological domain	323	354	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Domain	30	289	.	.	.	Note=Alpha-carbonic anhydrase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01134	
+O43570	UniProtKB	Region	226	227	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00918	
+O43570	UniProtKB	Active site	94	94	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00918	
+O43570	UniProtKB	Active site	154	154	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00918	
+O43570	UniProtKB	Metal binding	119	119	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493685;Dbxref=PMID:11493685	
+O43570	UniProtKB	Metal binding	121	121	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493685;Dbxref=PMID:11493685	
+O43570	UniProtKB	Metal binding	145	145	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493685;Dbxref=PMID:11493685	
+O43570	UniProtKB	Glycosylation	28	28	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Glycosylation	80	80	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Glycosylation	162	162	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43570	UniProtKB	Disulfide bond	50	230	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493685;Dbxref=PMID:11493685	
+O43570	UniProtKB	Alternative sequence	292	302	.	.	.	ID=VSP_000772;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.3;Dbxref=PMID:15489334	
+O43570	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_081182;Note=In HYCHL%3B severe decrease of activity in the presence of physiological NaCl concentrations%3B no effect on localization to cell membrane. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26911677;Dbxref=dbSNP:rs775067652,PMID:26911677	
+O43570	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_065292;Note=In HYCHL%3B severe decrease of activity in the presence of physiological NaCl concentrations%3B mutant enzyme is highly inhibited by acetazolamide and shows higher sensitivity to inhibition by anions compared to wild-type%3B the mutation affects the chloride-mediated negative feedback regulation of the enzyme leading to excessive chloride secretion in sweat%3B no effect on localization to cell membrane. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21035102,ECO:0000269|PubMed:21184099,ECO:0000269|PubMed:26911677;Dbxref=dbSNP:rs267606694,PMID:21035102,PMID:21184099,PMID:26911677	
+O43570	UniProtKB	Sequence conflict	305	305	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43570	UniProtKB	Helix	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	40	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	48	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	75	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	85	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	93	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	105	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	113	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	132	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	141	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Turn	151	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	167	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	181	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	188	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	199	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	207	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Turn	213	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q0L	
+O43570	UniProtKB	Beta strand	218	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	234	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	243	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Helix	247	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	258	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	
+O43570	UniProtKB	Beta strand	285	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MSA	

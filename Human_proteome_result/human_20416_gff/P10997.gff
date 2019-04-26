@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region P10997 1 89
+P10997	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10997	UniProtKB	Propeptide	23	31	.	.	.	ID=PRO_0000004105	
+P10997	UniProtKB	Peptide	34	70	.	.	.	ID=PRO_0000004106;Note=Islet amyloid polypeptide	
+P10997	UniProtKB	Propeptide	74	89	.	.	.	ID=PRO_0000004107	
+P10997	UniProtKB	Modified residue	70	70	.	.	.	Note=Tyrosine amide;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2651160,ECO:0000269|PubMed:3053705;Dbxref=PMID:2651160,PMID:3053705	
+P10997	UniProtKB	Disulfide bond	35	40	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19244249,ECO:0000269|PubMed:19475663,ECO:0000269|PubMed:3317417;Dbxref=PMID:19244249,PMID:19475663,PMID:3317417	
+P10997	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_012080;Note=S->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8772735,ECO:0000269|PubMed:9794116;Dbxref=dbSNP:rs1800203,PMID:8772735,PMID:9794116	
+P10997	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Promotes formation of fibrillar aggregates. F->A%2CD%2CS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19475663;Dbxref=PMID:19475663	
+P10997	UniProtKB	Sequence conflict	53	53	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10997	UniProtKB	Helix	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G48	
+P10997	UniProtKB	Beta strand	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K5G	
+P10997	UniProtKB	Beta strand	49	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KO0	
+P10997	UniProtKB	Turn	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KUW	
+P10997	UniProtKB	Turn	63	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L86	

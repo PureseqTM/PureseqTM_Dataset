@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region Q16621 1 373
+Q16621	UniProtKB	Chain	1	373	.	.	.	ID=PRO_0000076446;Note=Transcription factor NF-E2 45 kDa subunit	
+Q16621	UniProtKB	Domain	266	329	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q16621	UniProtKB	Region	1	206	.	.	.	Note=Transactivation domain	
+Q16621	UniProtKB	Region	1	83	.	.	.	Note=Required for interaction with MAPK8;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q16621	UniProtKB	Region	268	287	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q16621	UniProtKB	Region	291	298	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q16621	UniProtKB	Motif	61	65	.	.	.	Note=PXY motif 1	
+Q16621	UniProtKB	Motif	79	83	.	.	.	Note=PXY motif 2	
+Q16621	UniProtKB	Compositional bias	59	62	.	.	.	Note=Poly-Pro	
+Q16621	UniProtKB	Compositional bias	77	82	.	.	.	Note=Poly-Pro	
+Q16621	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphoserine%3B by MAPK8;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q07279	
+Q16621	UniProtKB	Modified residue	170	170	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q07279	
+Q16621	UniProtKB	Cross-link	368	368	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16287851;Dbxref=PMID:16287851	
+Q16621	UniProtKB	Mutagenesis	368	368	.	.	.	Note=60%25 loss of DNA-binding and 5-fold loss of transactivation activity. Almost no colocalization with nuclear bodies. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16287851;Dbxref=PMID:16287851	
+Q16621	UniProtKB	Sequence conflict	334	335	.	.	.	Note=FQ->LE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16621	UniProtKB	Helix	225	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KZ5	
+Q16621	UniProtKB	Helix	239	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KZ5	
+Q16621	UniProtKB	Helix	247	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KZ5	
+Q16621	UniProtKB	Helix	261	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KZ5	

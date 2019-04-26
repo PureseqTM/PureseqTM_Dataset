@@ -1,0 +1,58 @@
+##gff-version 3
+##sequence-region P30511 1 346
+P30511	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30511	UniProtKB	Chain	22	346	.	.	.	ID=PRO_0000018884;Note=HLA class I histocompatibility antigen%2C alpha chain F	
+P30511	UniProtKB	Topological domain	22	305	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30511	UniProtKB	Transmembrane	306	329	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30511	UniProtKB	Topological domain	330	346	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30511	UniProtKB	Domain	206	296	.	.	.	Note=Ig-like C1-type;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30511	UniProtKB	Region	22	111	.	.	.	Note=Alpha-1	
+P30511	UniProtKB	Region	112	203	.	.	.	Note=Alpha-2	
+P30511	UniProtKB	Region	204	295	.	.	.	Note=Alpha-3	
+P30511	UniProtKB	Region	296	305	.	.	.	Note=Connecting peptide	
+P30511	UniProtKB	Motif	336	338	.	.	.	Note=Sorting signal sequence%3B Golgi-retention signal%3B ER-retention signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709803;Dbxref=PMID:16709803	
+P30511	UniProtKB	Binding site	91	91	.	.	.	Note=Self-peptide antigen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Binding site	105	105	.	.	.	Note=Self-peptide antigen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Binding site	164	164	.	.	.	Note=Self-peptide antigen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Binding site	168	168	.	.	.	Note=Self-peptide antigen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Binding site	176	176	.	.	.	Note=Self-peptide antigen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Glycosylation	107	107	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30511	UniProtKB	Disulfide bond	122	185	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Disulfide bond	224	280	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Alternative sequence	204	295	.	.	.	ID=VSP_038846;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14705989;Dbxref=PMID:14705989	
+P30511	UniProtKB	Alternative sequence	346	346	.	.	.	ID=VSP_040349;Note=In isoform 3. V->AYSVVSGNLMITWWSSLFLLGVLFQGYLGCLRSHSVLGRRKVGDMWILFFLWLWTSFNTAFLALQSLRFGFGFRRGRSFLLRSWHHLMKRVQIKIFD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P30511	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_056525;Note=A->V;Dbxref=dbSNP:rs17875379	
+P30511	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_056526;Note=P->Q;Dbxref=dbSNP:rs17875380	
+P30511	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_018327;Note=P->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10727083,ECO:0000269|PubMed:14574404,ECO:0000269|PubMed:14705989,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:16570139,ECO:0000269|PubMed:1688605,ECO:0000269|PubMed:1707659,ECO:0000269|Ref.6,ECO:0000269|Ref.7;Dbxref=dbSNP:rs1736924,PMID:10727083,PMID:14574404,PMID:14705989,PMID:15489334,PMID:16570139,PMID:1688605,PMID:1707659	
+P30511	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Impairs peptide binding. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28636952;Dbxref=PMID:28636952	
+P30511	UniProtKB	Mutagenesis	336	338	.	.	.	Note=Impairs the interaction with 14-3-3 proteins. RNR->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709803;Dbxref=PMID:16709803	
+P30511	UniProtKB	Mutagenesis	336	338	.	.	.	Note=Impairs the anterograde ER-to-Golgi transport. RNR->GKG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709803;Dbxref=PMID:16709803	
+P30511	UniProtKB	Mutagenesis	346	346	.	.	.	Note=Impairs the anterograde ER-to-Golgi transport. V->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709803;Dbxref=PMID:16709803	
+P30511	UniProtKB	Mutagenesis	346	346	.	.	.	Note=Impairs the interaction with coat protein complex II%3B impairs the anterograde ER-to-Golgi transport. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709803;Dbxref=PMID:16709803	
+P30511	UniProtKB	Beta strand	24	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Turn	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	39	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	52	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	67	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	78	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	115	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	128	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	142	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	154	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	161	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	173	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	184	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	197	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	207	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	216	232	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	235	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Turn	246	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KNM	
+P30511	UniProtKB	Beta strand	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	258	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	262	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Helix	275	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	278	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	287	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	
+P30511	UniProtKB	Beta strand	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IUE	

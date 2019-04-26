@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q9UPQ3 1 857
+Q9UPQ3	UniProtKB	Chain	1	857	.	.	.	ID=PRO_0000074218;Note=Arf-GAP with GTPase%2C ANK repeat and PH domain-containing protein 1	
+Q9UPQ3	UniProtKB	Domain	346	588	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q9UPQ3	UniProtKB	Domain	609	729	.	.	.	Note=Arf-GAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00288	
+Q9UPQ3	UniProtKB	Repeat	768	797	.	.	.	Note=ANK 1	
+Q9UPQ3	UniProtKB	Repeat	801	830	.	.	.	Note=ANK 2	
+Q9UPQ3	UniProtKB	Nucleotide binding	78	85	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UPQ3	UniProtKB	Nucleotide binding	122	126	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UPQ3	UniProtKB	Nucleotide binding	178	181	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UPQ3	UniProtKB	Zinc finger	624	647	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00288	
+Q9UPQ3	UniProtKB	Region	66	276	.	.	.	Note=Small GTPase-like	
+Q9UPQ3	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9UPQ3	UniProtKB	Modified residue	521	521	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q9UPQ3	UniProtKB	Modified residue	605	605	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9UPQ3	UniProtKB	Modified residue	663	663	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BXK8	
+Q9UPQ3	UniProtKB	Modified residue	836	836	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:23186163;Dbxref=PMID:18220336,PMID:23186163	
+Q9UPQ3	UniProtKB	Alternative sequence	352	405	.	.	.	ID=VSP_011181;Note=In isoform 3. MLLKRSGKSLNKEWKKKYVTLCDNGVLTYHPSLHDYMQNVHGKEIDLLRTTVKV->LPFFVLALTASTYLRPAGARARQSSPWPGPRGGQTSPHCAEGPQSAQLSGAMMN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UPQ3	UniProtKB	Alternative sequence	406	857	.	.	.	ID=VSP_011182;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UPQ3	UniProtKB	Alternative sequence	442	494	.	.	.	ID=VSP_011183;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10470851,ECO:0000303|PubMed:12640130,ECO:0000303|Ref.2;Dbxref=PMID:10470851,PMID:12640130	
+Q9UPQ3	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_026446;Note=In an autistic patient. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15892143;Dbxref=PMID:15892143	
+Q9UPQ3	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_026447;Note=D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855721,PMID:15489334	
+Q9UPQ3	UniProtKB	Natural variant	671	671	.	.	.	ID=VAR_026448;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10470851,ECO:0000269|PubMed:12640130,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15892143,ECO:0000269|Ref.2;Dbxref=dbSNP:rs2034648,PMID:10470851,PMID:12640130,PMID:14702039,PMID:15892143	
+Q9UPQ3	UniProtKB	Natural variant	798	798	.	.	.	ID=VAR_026449;Note=In an autistic patient. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15892143;Dbxref=dbSNP:rs762355360,PMID:15892143	
+Q9UPQ3	UniProtKB	Natural variant	829	829	.	.	.	ID=VAR_019550;Note=E->K;Dbxref=dbSNP:rs15718	
+Q9UPQ3	UniProtKB	Natural variant	854	854	.	.	.	ID=VAR_026450;Note=In a family with an autistic patient. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15892143;Dbxref=dbSNP:rs368301945,PMID:15892143	
+Q9UPQ3	UniProtKB	Mutagenesis	647	647	.	.	.	Note=Loss of GAP activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12388557;Dbxref=PMID:12388557	
+Q9UPQ3	UniProtKB	Mutagenesis	652	652	.	.	.	Note=Loss of GAP activity. No effect on AP-3-binding. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12388557;Dbxref=PMID:12388557	
+Q9UPQ3	UniProtKB	Sequence conflict	288	288	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UPQ3	UniProtKB	Sequence conflict	288	288	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UPQ3	UniProtKB	Sequence conflict	288	288	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

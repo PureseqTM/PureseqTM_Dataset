@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region P78348 1 528
+P78348	UniProtKB	Chain	1	528	.	.	.	ID=PRO_0000181294;Note=Acid-sensing ion channel 1	
+P78348	UniProtKB	Topological domain	1	45	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Transmembrane	46	69	.	.	.	Note=Helical;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Topological domain	70	427	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Transmembrane	428	454	.	.	.	Note=Discontinuously helical;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Topological domain	455	528	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Motif	444	446	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78348	UniProtKB	Site	71	71	.	.	.	Note=Important for channel gating;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Site	79	79	.	.	.	Note=Important for channel desensitizing;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Site	287	287	.	.	.	Note=Important for channel gating;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P78348	UniProtKB	Site	352	352	.	.	.	Note=Important for interaction with the spider venom psalmotoxin-1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19654327;Dbxref=PMID:19654327	
+P78348	UniProtKB	Site	357	357	.	.	.	Note=Key residue for defining the pH sensitivity of ASIC1 (isoform 1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19654327;Dbxref=PMID:19654327	
+P78348	UniProtKB	Modified residue	479	479	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12578970;Dbxref=PMID:12578970	
+P78348	UniProtKB	Modified residue	499	499	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6NXK8	
+P78348	UniProtKB	Glycosylation	368	368	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78348	UniProtKB	Glycosylation	395	395	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78348	UniProtKB	Disulfide bond	93	194	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Disulfide bond	172	179	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Disulfide bond	290	367	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Disulfide bond	310	363	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Disulfide bond	314	361	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Disulfide bond	323	345	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Disulfide bond	325	337	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q1XA76	
+P78348	UniProtKB	Alternative sequence	1	185	.	.	.	ID=VSP_045298;Note=In isoform 3. MELKAEEEEVGGVQPVSIQAFASSSTLHGLAHIFSYERLSLKRALWALCFLGSLAVLLCVCTERVQYYFHYHHVTKLDEVAASQLTFPAVTLCNLNEFRFSQVSKNDLYHAGELLALLNNRYEIPDTQMADEKQLEILQDKANFRSFKPKPFNMREFYDRAGHDIRDMLLSCHFRGEVCSAEDFK->MPIQIFCSMSFSSGEEAPGPLGDIWGPHHHQQQQDISESEEEEEEKEKEAVRKEASEGHSPMDLVAFANSCTLHGTNHIFVEGGPGPRQVLWAVAFVLALGAFLCQVGDRVAYYLSYPHVTLLNEVATTELAFPAVTLCNTNAVRLSQLSYPDLLYLAPMLGLDESDDPGVPLAPPGPEAFSGEPFNLHRFYNRSCHRLEDMLLYCSYQGGPCGPHNFS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21036899;Dbxref=PMID:21036899	
+P78348	UniProtKB	Alternative sequence	433	433	.	.	.	ID=VSP_015596;Note=In isoform 1. G->GELLMTPVPFSCHGHGVAPYHPKAGCSLLSHEGPPPQRPFPKPCCLG;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9037075,ECO:0000303|Ref.3;Dbxref=PMID:15489334,PMID:9037075	
+P78348	UniProtKB	Mutagenesis	352	352	.	.	.	Note=Complete loss in the shift of pH for both activation and desensitization by the spider venom psalmotoxin-1. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19654327;Dbxref=PMID:19654327	
+P78348	UniProtKB	Mutagenesis	357	357	.	.	.	Note=Large decrease in response to pH 6.5 solutions. D->A%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19654327;Dbxref=PMID:19654327	
+P78348	UniProtKB	Mutagenesis	478	478	.	.	.	Note=No effect on phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12578970;Dbxref=PMID:12578970	
+P78348	UniProtKB	Mutagenesis	479	479	.	.	.	Note=Loss of phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12578970;Dbxref=PMID:12578970	
+P78348	UniProtKB	Sequence conflict	212	212	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78348	UniProtKB	Sequence conflict	212	212	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

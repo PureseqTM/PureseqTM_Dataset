@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region O15226 1 690
+O15226	UniProtKB	Chain	1	690	.	.	.	ID=PRO_0000096869;Note=NF-kappa-B-repressing factor	
+O15226	UniProtKB	Domain	551	596	.	.	.	Note=G-patch;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00092	
+O15226	UniProtKB	Domain	600	664	.	.	.	Note=R3H;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00382	
+O15226	UniProtKB	DNA binding	296	388	.	.	.	.	
+O15226	UniProtKB	Region	1	296	.	.	.	Note=Active repression domain	
+O15226	UniProtKB	Motif	25	45	.	.	.	Note=Nuclear localization signal	
+O15226	UniProtKB	Modified residue	618	618	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O15226	UniProtKB	Cross-link	68	68	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O15226	UniProtKB	Cross-link	500	500	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25218447;Dbxref=PMID:25218447	
+O15226	UniProtKB	Cross-link	666	666	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O15226	UniProtKB	Cross-link	674	674	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+O15226	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_047377;Note=In isoform 2. M->MGFMLPLIFRYSPRLM;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+O15226	UniProtKB	Sequence conflict	71	71	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15226	UniProtKB	Sequence conflict	453	453	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15226	UniProtKB	Sequence conflict	614	615	.	.	.	Note=AR->ES;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P32119 1 198
+P32119	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P32119	UniProtKB	Chain	2	198	.	.	.	ID=PRO_0000135080;Note=Peroxiredoxin-2	
+P32119	UniProtKB	Domain	6	164	.	.	.	Note=Thioredoxin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+P32119	UniProtKB	Active site	51	51	.	.	.	Note=Cysteine sulfenic acid (-SOH) intermediate;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11904290;Dbxref=PMID:11904290	
+P32119	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P32119	UniProtKB	Modified residue	112	112	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P32119	UniProtKB	Modified residue	182	182	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P32119	UniProtKB	Disulfide bond	51	51	.	.	.	Note=Interchain (with C-172)%3B in linked form;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5B8A,ECO:0000269|PubMed:27892488;Dbxref=PMID:27892488	
+P32119	UniProtKB	Disulfide bond	172	172	.	.	.	Note=Interchain (with C-51)%3B in linked form;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5B8A,ECO:0000269|PubMed:27892488;Dbxref=PMID:27892488	
+P32119	UniProtKB	Alternative sequence	87	198	.	.	.	ID=VSP_042924;Note=In isoform 2. INTPRKEGGLGPLNIPLLADVTRRLSEDYGVLKTDEGIAYRGLFIIDGKGVLRQITVNDLPVGRSVDEALRLVQAFQYTDEHGEVCPAGWKPGSDTIKPNVDDSKEYFSKHN->YEQGPKREVAAKLTPSGPSSVASWPLLNLWNLRFPIVKIMETLPPKSLRMMTVISI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P32119	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_025051;Note=D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs34012472	
+P32119	UniProtKB	Sequence conflict	59	66	.	.	.	Note=SNRAEDFR->TTVKRTSA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Sequence conflict	82	82	.	.	.	Note=T->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Sequence conflict	105	105	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Sequence conflict	120	120	.	.	.	Note=T->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Sequence conflict	126	127	.	.	.	Note=YR->TT;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Sequence conflict	175	175	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Sequence conflict	180	180	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32119	UniProtKB	Beta strand	16	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Beta strand	24	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	30	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Beta strand	36	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	50	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	62	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Turn	67	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Beta strand	70	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	80	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Beta strand	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	110	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Turn	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Beta strand	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IJT	
+P32119	UniProtKB	Beta strand	127	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Beta strand	136	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	152	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	
+P32119	UniProtKB	Helix	187	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QMV	

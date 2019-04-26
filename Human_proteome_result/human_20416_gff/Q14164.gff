@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q14164 1 716
+Q14164	UniProtKB	Chain	1	716	.	.	.	ID=PRO_0000086017;Note=Inhibitor of nuclear factor kappa-B kinase subunit epsilon	
+Q14164	UniProtKB	Domain	9	315	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q14164	UniProtKB	Nucleotide binding	15	23	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q14164	UniProtKB	Region	383	647	.	.	.	Note=Interaction with DDX3X	
+Q14164	UniProtKB	Region	436	457	.	.	.	Note=Leucine-zipper	
+Q14164	UniProtKB	Active site	135	135	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q14164	UniProtKB	Binding site	38	38	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14164	UniProtKB	Modified residue	172	172	.	.	.	Note=Phosphoserine%3B by autocatalysis and IKKB;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23478265;Dbxref=PMID:23478265	
+Q14164	UniProtKB	Modified residue	501	501	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24882218;Dbxref=PMID:24882218	
+Q14164	UniProtKB	Modified residue	664	664	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+Q14164	UniProtKB	Cross-link	30	30	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Cross-link	231	231	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20188669;Dbxref=PMID:20188669	
+Q14164	UniProtKB	Cross-link	401	401	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Alternative sequence	1	85	.	.	.	ID=VSP_044305;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q14164	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_038816;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41296028	
+Q14164	UniProtKB	Natural variant	371	371	.	.	.	ID=VAR_038817;Note=A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|Ref.4;Dbxref=dbSNP:rs17021877,PMID:17344846	
+Q14164	UniProtKB	Natural variant	483	483	.	.	.	ID=VAR_040571;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs52817862,PMID:17344846	
+Q14164	UniProtKB	Natural variant	515	515	.	.	.	ID=VAR_038818;Note=E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41299015	
+Q14164	UniProtKB	Natural variant	543	543	.	.	.	ID=VAR_038819;Note=I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41299037	
+Q14164	UniProtKB	Natural variant	602	602	.	.	.	ID=VAR_038820;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|Ref.4;Dbxref=dbSNP:rs12059562,PMID:17344846	
+Q14164	UniProtKB	Natural variant	660	660	.	.	.	ID=VAR_040572;Note=G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55822317,PMID:17344846	
+Q14164	UniProtKB	Natural variant	713	713	.	.	.	ID=VAR_019989;Note=P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|Ref.4;Dbxref=dbSNP:rs3748022,PMID:17344846	
+Q14164	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Loss of ubiquitination and decreased kinase activity. No effect on homodimerization. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Loss of ubiquitination and decreased kinase activity. Decreases interaction with IKBKB%2C IKBKG and MYD88. No effect on homodimerization. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Loss of kinase activity and loss of nuclear import. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10421793;Dbxref=PMID:10421793	
+Q14164	UniProtKB	Mutagenesis	168	168	.	.	.	Note=Slight decrease of kinase activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10421793;Dbxref=PMID:10421793	
+Q14164	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Loss of autophosphorylation and of kinase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10421793;Dbxref=PMID:10421793	
+Q14164	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Decrease in kinase activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10421793;Dbxref=PMID:10421793	
+Q14164	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Loss of sumoylation and loss of targeting to nuclear bodies. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20188669;Dbxref=PMID:20188669	
+Q14164	UniProtKB	Mutagenesis	401	401	.	.	.	Note=Loss of ubiquitination and decreased kinase activity. No effect on homodimerization. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Mutagenesis	401	401	.	.	.	Note=Loss of ubiquitination and decreased kinase activity. Decreases interaction with IKBKB%2C IKBKG and MYD88. No effect on homodimerization. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Mutagenesis	416	416	.	.	.	Note=No effect on ubiquitination. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Mutagenesis	416	416	.	.	.	Note=No effect on ubiquitination. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23453969;Dbxref=PMID:23453969	
+Q14164	UniProtKB	Sequence conflict	187	187	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

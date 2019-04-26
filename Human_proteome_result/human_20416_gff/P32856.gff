@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P32856 1 288
+P32856	UniProtKB	Chain	1	288	.	.	.	ID=PRO_0000210196;Note=Syntaxin-2	
+P32856	UniProtKB	Topological domain	1	264	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32856	UniProtKB	Transmembrane	265	288	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32856	UniProtKB	Domain	191	253	.	.	.	Note=t-SNARE coiled-coil homology;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00202	
+P32856	UniProtKB	Coiled coil	35	101	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32856	UniProtKB	Alternative sequence	263	288	.	.	.	ID=VSP_006335;Note=In isoform 2. KKWIIIAVSVVLVAIIALIIGLSVGK->QQHCHSNHIPRAIYP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8466509;Dbxref=PMID:8466509	
+P32856	UniProtKB	Alternative sequence	264	288	.	.	.	ID=VSP_006334;Note=In isoform 1. KWIIIAVSVVLVAIIALIIGLSVGK->LMFIIICVIVLLVILGIILATTLS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8466509;Dbxref=PMID:15489334,PMID:8466509	
+P32856	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_014850;Note=S->T;Dbxref=dbSNP:rs17564	
+P32856	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_057259;Note=K->R;Dbxref=dbSNP:rs7301926	
+P32856	UniProtKB	Sequence conflict	89	89	.	.	.	Note=R->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32856	UniProtKB	Sequence conflict	276	276	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32856	UniProtKB	Sequence conflict	288	288	.	.	.	Note=K->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

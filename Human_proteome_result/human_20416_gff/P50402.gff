@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region P50402 1 254
+P50402	UniProtKB	Chain	1	254	.	.	.	ID=PRO_0000206140;Note=Emerin	
+P50402	UniProtKB	Transmembrane	223	243	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P50402	UniProtKB	Domain	1	45	.	.	.	Note=LEM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00313	
+P50402	UniProtKB	Region	46	222	.	.	.	Note=Interaction with F-actin;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50402	UniProtKB	Region	168	186	.	.	.	Note=Interaction with CTNNB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16858403;Dbxref=PMID:16858403	
+P50402	UniProtKB	Compositional bias	192	199	.	.	.	Note=Poly-Ser	
+P50402	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712,ECO:0000269|Ref.11;Dbxref=PMID:19369195,PMID:19413330,PMID:20068231,PMID:21406692,PMID:22223895,PMID:22814378,PMID:25944712	
+P50402	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P50402	UniProtKB	Modified residue	29	29	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P50402	UniProtKB	Modified residue	49	49	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:16972941;Dbxref=PMID:17081983,PMID:18220336,PMID:18669648,PMID:18691976,PMID:23186163,PMID:16972941	
+P50402	UniProtKB	Modified residue	54	54	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P50402	UniProtKB	Modified residue	60	60	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+P50402	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+P50402	UniProtKB	Modified residue	98	98	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P50402	UniProtKB	Modified residue	141	141	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63190	
+P50402	UniProtKB	Modified residue	142	142	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63190	
+P50402	UniProtKB	Modified residue	143	143	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63190	
+P50402	UniProtKB	Modified residue	161	161	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08579	
+P50402	UniProtKB	Modified residue	171	171	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P50402	UniProtKB	Modified residue	173	173	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P50402	UniProtKB	Modified residue	175	175	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08579	
+P50402	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_005198;Note=In EDMD1%3B no loss of binding to F-actin%2C enhanced rate of actin polymerization and loss of binding to BCLAF1. S->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15009215,ECO:0000269|PubMed:15328537;Dbxref=PMID:15009215,PMID:15328537	
+P50402	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_016016;Note=In EDMD1%3B loss of binding to F-actin. Q->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11587540,ECO:0000269|PubMed:15328537;Dbxref=PMID:11587540,PMID:15328537	
+P50402	UniProtKB	Natural variant	149	149	.	.	.	ID=VAR_038433;Note=D->H;Dbxref=dbSNP:rs2070818	
+P50402	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_005199;Note=In EDMD1%3B no loss of binding to F-actin and enhanced rate of actin polymerization. P->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10323252,ECO:0000269|PubMed:15328537;Dbxref=dbSNP:rs104894805,PMID:10323252,PMID:15328537	
+P50402	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_005200;Note=In EDMD1. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10323252;Dbxref=dbSNP:rs104894806,PMID:10323252	
+P50402	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Abolishes phosphorylation. No effect on targeting to nuclear envelope nor on interaction with LMNA. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972941;Dbxref=PMID:16972941	
+P50402	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Mimics phosphorylation. No effect on targeting to nuclear envelope nor on interaction with LMNA. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972941;Dbxref=PMID:16972941	
+P50402	UniProtKB	Mutagenesis	196	196	.	.	.	Note=No loss of binding to F-actin%3B when associated with A-197. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15328537;Dbxref=PMID:15328537	
+P50402	UniProtKB	Mutagenesis	197	197	.	.	.	Note=No loss of binding to F-actin%3B when associated with A-196. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15328537;Dbxref=PMID:15328537	
+P50402	UniProtKB	Turn	3	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GHD	
+P50402	UniProtKB	Helix	9	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GHD	
+P50402	UniProtKB	Turn	28	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GHD	
+P50402	UniProtKB	Helix	31	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GHD	

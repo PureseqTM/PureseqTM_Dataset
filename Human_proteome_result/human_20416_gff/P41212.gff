@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region P41212 1 452
+P41212	UniProtKB	Chain	1	452	.	.	.	ID=PRO_0000204121;Note=Transcription factor ETV6	
+P41212	UniProtKB	Domain	40	124	.	.	.	Note=PNT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00762	
+P41212	UniProtKB	DNA binding	339	420	.	.	.	Note=ETS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00237	
+P41212	UniProtKB	Site	11	12	.	.	.	Note=Breakpoint for translocation to form CHIC2-ETV6 in AML	
+P41212	UniProtKB	Site	54	55	.	.	.	Note=Breakpoint for translocation to form ETV6-MDS2 in MDS	
+P41212	UniProtKB	Site	55	56	.	.	.	Note=Breakpoint for translocation to form PAX5-ETV6	
+P41212	UniProtKB	Site	336	337	.	.	.	Note=Breakpoint for translocation to form ETV6-AML1 in ALL	
+P41212	UniProtKB	Modified residue	11	11	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P41212	UniProtKB	Modified residue	18	18	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P41212	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:12435397;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:12435397	
+P41212	UniProtKB	Modified residue	213	213	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+P41212	UniProtKB	Modified residue	238	238	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P97360	
+P41212	UniProtKB	Modified residue	257	257	.	.	.	Note=Phosphoserine%3B by MAPK14;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12435397;Dbxref=PMID:12435397	
+P41212	UniProtKB	Modified residue	302	302	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P41212	UniProtKB	Modified residue	323	323	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P97360	
+P41212	UniProtKB	Cross-link	11	11	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+P41212	UniProtKB	Cross-link	288	288	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+P41212	UniProtKB	Cross-link	302	302	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P41212	UniProtKB	Cross-link	403	403	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P41212	UniProtKB	Cross-link	421	421	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P41212	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_073322;Note=In THC5%3B abrogates DNA binding%3B alters subcellular location%3B decreases transcriptional repression in a dominant-negative fashion. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25581430;Dbxref=dbSNP:rs724159947,PMID:25581430	
+P41212	UniProtKB	Natural variant	344	344	.	.	.	ID=VAR_034600;Note=In one individual with AML%3B somatic mutation%3B unable to repress transcription. Y->YG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15806161;Dbxref=PMID:15806161	
+P41212	UniProtKB	Natural variant	369	369	.	.	.	ID=VAR_073323;Note=In THC5%3B abrogates DNA binding%3B alters subcellular location%3B decreases transcriptional repression in a dominant-negative fashion. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25581430;Dbxref=dbSNP:rs724159946,PMID:25581430	
+P41212	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_073324;Note=In THC5%3B abrogates DNA binding%3B alters subcellular location%3B decreases transcriptional repression in a dominant-negative fashion. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25581430;Dbxref=dbSNP:rs724159945,PMID:25581430	
+P41212	UniProtKB	Mutagenesis	22	22	.	.	.	Note=No effect. S->A	
+P41212	UniProtKB	Mutagenesis	213	213	.	.	.	Note=No effect. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12435397;Dbxref=PMID:12435397	
+P41212	UniProtKB	Mutagenesis	238	238	.	.	.	Note=No effect. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12435397;Dbxref=PMID:12435397	
+P41212	UniProtKB	Mutagenesis	257	257	.	.	.	Note=No phosphorylation by MAPK14. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12435397;Dbxref=PMID:12435397	
+P41212	UniProtKB	Helix	12	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L0P	
+P41212	UniProtKB	Turn	20	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L0P	
+P41212	UniProtKB	Helix	23	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L0P	
+P41212	UniProtKB	Helix	30	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L0P	
+P41212	UniProtKB	Helix	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Helix	58	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Helix	63	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Turn	84	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Helix	91	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Helix	99	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Turn	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Helix	110	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JI7	
+P41212	UniProtKB	Helix	341	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Helix	352	354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Turn	355	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Beta strand	358	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Helix	363	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Beta strand	367	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Helix	373	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Helix	391	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Beta strand	406	408	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Beta strand	411	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Helix	424	426	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Beta strand	430	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	
+P41212	UniProtKB	Helix	434	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DAO	

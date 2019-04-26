@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q9NZJ9 1 180
+Q9NZJ9	UniProtKB	Chain	1	180	.	.	.	ID=PRO_0000057058;Note=Diphosphoinositol polyphosphate phosphohydrolase 2	
+Q9NZJ9	UniProtKB	Domain	18	144	.	.	.	Note=Nudix hydrolase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00794	
+Q9NZJ9	UniProtKB	Region	18	20	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Region	39	41	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Region	89	91	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Motif	51	72	.	.	.	Note=Nudix box	
+Q9NZJ9	UniProtKB	Active site	69	69	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NZJ9	UniProtKB	Metal binding	50	50	.	.	.	Note=Magnesium 1%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Metal binding	66	66	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Metal binding	66	66	.	.	.	Note=Magnesium 3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Metal binding	70	70	.	.	.	Note=Magnesium 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Binding site	10	10	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Binding site	115	115	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Binding site	133	133	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O95989	
+Q9NZJ9	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9NZJ9	UniProtKB	Alternative sequence	1	52	.	.	.	ID=VSP_014269;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005,ECO:0000303|Ref.3;Dbxref=PMID:14702039,PMID:17974005	
+Q9NZJ9	UniProtKB	Alternative sequence	85	85	.	.	.	ID=VSP_014270;Note=In isoform 2 and isoform 3. E->EQ;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10777568,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|Ref.3,ECO:0000303|Ref.5;Dbxref=PMID:10777568,PMID:14702039,PMID:15489334,PMID:17974005	
+Q9NZJ9	UniProtKB	Sequence conflict	16	16	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZJ9	UniProtKB	Sequence conflict	41	41	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZJ9	UniProtKB	Sequence conflict	73	73	.	.	.	Note=V->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZJ9	UniProtKB	Sequence conflict	164	164	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZJ9	UniProtKB	Sequence conflict	177	177	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZJ9	UniProtKB	Beta strand	18	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Beta strand	33	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Beta strand	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Helix	59	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Beta strand	73	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Turn	87	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Beta strand	91	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Beta strand	117	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Helix	122	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	
+Q9NZJ9	UniProtKB	Helix	134	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LTU	

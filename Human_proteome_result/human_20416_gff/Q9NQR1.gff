@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region Q9NQR1 1 393
+Q9NQR1	UniProtKB	Chain	1	393	.	.	.	ID=PRO_0000186081;Note=N-lysine methyltransferase KMT5A	
+Q9NQR1	UniProtKB	Domain	257	378	.	.	.	Note=SET;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00190	
+Q9NQR1	UniProtKB	Region	267	269	.	.	.	Note=S-adenosyl-L-methionine binding	
+Q9NQR1	UniProtKB	Region	339	340	.	.	.	Note=S-adenosyl-L-methionine binding	
+Q9NQR1	UniProtKB	Coiled coil	134	163	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NQR1	UniProtKB	Compositional bias	6	67	.	.	.	Note=Ala-rich	
+Q9NQR1	UniProtKB	Compositional bias	29	32	.	.	.	Note=Poly-Arg	
+Q9NQR1	UniProtKB	Binding site	312	312	.	.	.	Note=S-adenosyl-L-methionine	
+Q9NQR1	UniProtKB	Modified residue	100	100	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+Q9NQR1	UniProtKB	Modified residue	172	172	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23468428;Dbxref=PMID:23468428	
+Q9NQR1	UniProtKB	Modified residue	181	181	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NQR1	UniProtKB	Alternative sequence	1	41	.	.	.	ID=VSP_002226;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12121615,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:12121615,PMID:14702039,PMID:15489334	
+Q9NQR1	UniProtKB	Alternative sequence	42	57	.	.	.	ID=VSP_002227;Note=In isoform 2. PGRAAGGKMSKPCAVE->MARGRKMSKPRAVEAA;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12121615,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:12121615,PMID:14702039,PMID:15489334	
+Q9NQR1	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Inhibits the interaction with SIRT2. Increases the number of mitotic foci formation. Does not change methyltransferase activity. K->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23468428;Dbxref=PMID:23468428	
+Q9NQR1	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Increases the interaction with SIRT2. Reduces the number of mitotic foci formation. Does not change methyltransferase activity. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23468428;Dbxref=PMID:23468428	
+Q9NQR1	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Strongly reduces affinity for histone H4 and abolishes methyltransferase activity. Y->A%2CF;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Mutagenesis	300	300	.	.	.	Note=Strongly reduces affinity for histone H4. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Mutagenesis	311	311	.	.	.	Note=Strongly reduces affinity for histone H4. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Mutagenesis	336	336	.	.	.	Note=Abolishes methyltransferase activity. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12086618,ECO:0000269|PubMed:23478445;Dbxref=PMID:12086618,PMID:23478445	
+Q9NQR1	UniProtKB	Mutagenesis	340	340	.	.	.	Note=Strongly decreases methyltransferase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12121615;Dbxref=PMID:12121615	
+Q9NQR1	UniProtKB	Mutagenesis	375	375	.	.	.	Note=Strongly reduces affinity for histone H4 and methyltransferase activity. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Mutagenesis	375	375	.	.	.	Note=Alters methyltransferase activity%2C so that both monomethylation and dimethylation take place. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Mutagenesis	379	379	.	.	.	Note=Abolishes histone H4 binding and methyltransferase activity. D->A%2CN;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15933070,ECO:0000269|PubMed:17707234,ECO:0000269|PubMed:20870725,ECO:0000269|PubMed:23478445;Dbxref=PMID:15933070,PMID:17707234,PMID:20870725,PMID:23478445	
+Q9NQR1	UniProtKB	Mutagenesis	385	393	.	.	.	Note=Abolishes methyltransferase activity. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12121615;Dbxref=PMID:12121615	
+Q9NQR1	UniProtKB	Mutagenesis	388	388	.	.	.	Note=Strongly reduces affinity for histone H4. H->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Mutagenesis	388	388	.	.	.	Note=Increases affinity for histone H4. H->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15933070;Dbxref=PMID:15933070	
+Q9NQR1	UniProtKB	Sequence conflict	162	163	.	.	.	Note=KG->RR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQR1	UniProtKB	Sequence conflict	281	281	.	.	.	Note=D->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQR1	UniProtKB	Sequence conflict	343	343	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQR1	UniProtKB	Sequence conflict	357	357	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQR1	UniProtKB	Sequence conflict	373	373	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQR1	UniProtKB	Helix	236	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	259	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Turn	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	268	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	282	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	288	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Helix	293	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Helix	307	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TH7	
+Q9NQR1	UniProtKB	Helix	310	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IJ8	
+Q9NQR1	UniProtKB	Beta strand	313	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	321	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Helix	335	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	338	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TH7	
+Q9NQR1	UniProtKB	Beta strand	345	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	356	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Beta strand	372	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TH7	
+Q9NQR1	UniProtKB	Turn	377	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5V2N	
+Q9NQR1	UniProtKB	Helix	382	387	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	
+Q9NQR1	UniProtKB	Helix	389	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F9X	

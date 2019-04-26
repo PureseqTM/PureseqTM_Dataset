@@ -1,0 +1,96 @@
+##gff-version 3
+##sequence-region O60313 1 960
+O60313	UniProtKB	Transit peptide	1	87	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2TA68	
+O60313	UniProtKB	Chain	88	960	.	.	.	ID=PRO_0000007397;Note=Dynamin-like 120 kDa protein%2C mitochondrial	
+O60313	UniProtKB	Chain	195	960	.	.	.	ID=PRO_0000253479;Note=Dynamin-like 120 kDa protein%2C form S1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2TA68	
+O60313	UniProtKB	Topological domain	88	96	.	.	.	Note=Mitochondrial matrix;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60313	UniProtKB	Transmembrane	97	113	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60313	UniProtKB	Topological domain	114	960	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60313	UniProtKB	Domain	285	561	.	.	.	Note=Dynamin-type G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+O60313	UniProtKB	Nucleotide binding	295	302	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60313	UniProtKB	Nucleotide binding	398	402	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60313	UniProtKB	Nucleotide binding	467	470	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60313	UniProtKB	Region	295	302	.	.	.	Note=G1 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+O60313	UniProtKB	Region	321	324	.	.	.	Note=G2 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+O60313	UniProtKB	Region	398	401	.	.	.	Note=G3 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+O60313	UniProtKB	Region	467	470	.	.	.	Note=G4 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+O60313	UniProtKB	Region	501	504	.	.	.	Note=G5 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+O60313	UniProtKB	Coiled coil	210	254	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60313	UniProtKB	Coiled coil	895	960	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60313	UniProtKB	Site	194	195	.	.	.	Note=Cleavage at site S1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2TA68	
+O60313	UniProtKB	Modified residue	228	228	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O60313	UniProtKB	Alternative sequence	150	185	.	.	.	ID=VSP_059072;Note=In isoform 3 and isoform 7. Missing	
+O60313	UniProtKB	Alternative sequence	186	186	.	.	.	ID=VSP_059073;Note=In isoform 4 and isoform 5. G->GHKLVSEVIGASDLLLLLG	
+O60313	UniProtKB	Alternative sequence	206	206	.	.	.	ID=VSP_059074;Note=In isoform 3 and isoform 4. F->FRKGLLGELILLQQQIQEHEEEARRAAGQYSTSYAQQK	
+O60313	UniProtKB	Alternative sequence	209	209	.	.	.	ID=VSP_021035;Note=In isoform 2. V->GLLGELILLQQQIQEHEEEARRAAGQYSTSYAQQKRKV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60313	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_060825;Note=In OPA1%3B unknown pathological significance. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16617242;Dbxref=dbSNP:rs794726939,PMID:16617242	
+O60313	UniProtKB	Natural variant	38	43	.	.	.	ID=VAR_022923;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12036970;Dbxref=PMID:12036970	
+O60313	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_060826;Note=In OPA1. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16617242;Dbxref=dbSNP:rs151103940,PMID:16617242	
+O60313	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_060827;Note=In OPA1. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs201214736,PMID:19319978	
+O60313	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_060828;Note=In OPA1. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs530896300,PMID:19319978	
+O60313	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_022924;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11440988,ECO:0000269|PubMed:11440989,ECO:0000269|PubMed:12036970,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:15948788,ECO:0000269|PubMed:16617242,ECO:0000269|PubMed:9628581;Dbxref=dbSNP:rs7624750,PMID:11440988,PMID:11440989,PMID:12036970,PMID:15489334,PMID:15948788,PMID:16617242,PMID:9628581	
+O60313	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_022925;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12036970;Dbxref=dbSNP:rs754177232,PMID:12036970	
+O60313	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_022926;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11440988,ECO:0000269|PubMed:12036970,ECO:0000269|PubMed:16617242;Dbxref=dbSNP:rs34307082,PMID:11440988,PMID:12036970,PMID:16617242	
+O60313	UniProtKB	Natural variant	270	270	.	.	.	ID=VAR_060829;Note=In OPA1. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=PMID:11440988	
+O60313	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_060830;Note=In OPA1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14961560;Dbxref=PMID:14961560	
+O60313	UniProtKB	Natural variant	273	273	.	.	.	ID=VAR_060831;Note=In OPA1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=PMID:11440988	
+O60313	UniProtKB	Natural variant	290	290	.	.	.	ID=VAR_011483;Note=In OPA1. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11017080,ECO:0000269|PubMed:11440988,ECO:0000269|PubMed:11440989,ECO:0000269|PubMed:11810270;Dbxref=dbSNP:rs121908375,PMID:11017080,PMID:11440988,PMID:11440989,PMID:11810270	
+O60313	UniProtKB	Natural variant	290	290	.	.	.	ID=VAR_060832;Note=In OPA1. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=dbSNP:rs780333963,PMID:11440988	
+O60313	UniProtKB	Natural variant	293	294	.	.	.	ID=VAR_060833;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_011484;Note=In OPA1%3B loss of GTPase activity%3B loss of function in promoting mitochondrial fusion. G->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11017079,ECO:0000269|PubMed:11440989,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs28939082,PMID:11017079,PMID:11440989,PMID:20185555	
+O60313	UniProtKB	Natural variant	310	310	.	.	.	ID=VAR_060834;Note=In OPA1. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs770966290,PMID:19319978	
+O60313	UniProtKB	Natural variant	324	326	.	.	.	ID=VAR_060835;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15948788;Dbxref=PMID:15948788	
+O60313	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_072125;Note=In OPA1. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23401657;Dbxref=PMID:23401657	
+O60313	UniProtKB	Natural variant	357	357	.	.	.	ID=VAR_060836;Note=In DOA+ and OPA1. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18158317,ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs190223702,PMID:18158317,PMID:19319978	
+O60313	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_072126;Note=In OPA1. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23401657;Dbxref=dbSNP:rs780922750,PMID:23401657	
+O60313	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_060837;Note=In OPA1 and BEHRS. I->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19319978,ECO:0000269|PubMed:21636302,ECO:0000269|PubMed:25146916;Dbxref=dbSNP:rs143319805,PMID:19319978,PMID:21636302,PMID:25146916	
+O60313	UniProtKB	Natural variant	384	384	.	.	.	ID=VAR_060838;Note=In OPA1. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440989;Dbxref=PMID:11440989	
+O60313	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_060839;Note=In OPA1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs727504060,PMID:19319978	
+O60313	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_022927;Note=In OPA1. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12036970;Dbxref=dbSNP:rs727504060,PMID:12036970	
+O60313	UniProtKB	Natural variant	400	400	.	.	.	ID=VAR_067355;Note=In OPA1. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22382025;Dbxref=PMID:22382025	
+O60313	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_075903;Note=In BEHRS. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25012220;Dbxref=dbSNP:rs879255594,PMID:25012220	
+O60313	UniProtKB	Natural variant	429	430	.	.	.	ID=VAR_060840;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_060841;Note=In OPA1. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	432	432	.	.	.	ID=VAR_011485;Note=In OPA1. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11017080,ECO:0000269|PubMed:12036970;Dbxref=PMID:11017080,PMID:12036970	
+O60313	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_060842;Note=In OPA1. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=PMID:11440988	
+O60313	UniProtKB	Natural variant	439	439	.	.	.	ID=VAR_072127;Note=In DOA+ and OPA1%3B decreased GTPase activity%3B loss of function in promoting mitochondrial fusion. G->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18158317,ECO:0000269|PubMed:18204809,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs387906900,PMID:18158317,PMID:18204809,PMID:20185555	
+O60313	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_015741;Note=In DOA+ and OPA1%3B decreased GTPase activity%3B loss of function in promoting mitochondrial fusion. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12566046,ECO:0000269|PubMed:15531309,ECO:0000269|PubMed:16240368,ECO:0000269|PubMed:18158317,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs80356529,PMID:12566046,PMID:15531309,PMID:16240368,PMID:18158317,PMID:20185555	
+O60313	UniProtKB	Natural variant	449	449	.	.	.	ID=VAR_072128;Note=In DOA+. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23387428;Dbxref=PMID:23387428	
+O60313	UniProtKB	Natural variant	449	449	.	.	.	ID=VAR_060843;Note=In OPA1. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	459	459	.	.	.	ID=VAR_072129;Note=In OPA1. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22857269;Dbxref=PMID:22857269	
+O60313	UniProtKB	Natural variant	463	463	.	.	.	ID=VAR_060844;Note=In OPA1. I->IFIF	
+O60313	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_060845;Note=In OPA1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=PMID:11440988	
+O60313	UniProtKB	Natural variant	470	470	.	.	.	ID=VAR_060846;Note=In OPA1. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14961560;Dbxref=PMID:14961560	
+O60313	UniProtKB	Natural variant	487	487	.	.	.	ID=VAR_060847;Note=In OPA1 and BEHRS. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19319978,ECO:0000269|PubMed:25012220;Dbxref=PMID:19319978,PMID:25012220	
+O60313	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_072130;Note=V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19969356;Dbxref=PMID:19969356	
+O60313	UniProtKB	Natural variant	503	503	.	.	.	ID=VAR_022928;Note=In OPA1. T->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11440989,ECO:0000269|PubMed:12036970;Dbxref=PMID:11440989,PMID:12036970	
+O60313	UniProtKB	Natural variant	505	505	.	.	.	ID=VAR_060848;Note=In OPA1. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440989;Dbxref=PMID:11440989	
+O60313	UniProtKB	Natural variant	534	534	.	.	.	ID=VAR_075904;Note=In MTDPS14. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26561570;Dbxref=dbSNP:rs869312995,PMID:26561570	
+O60313	UniProtKB	Natural variant	545	545	.	.	.	ID=VAR_026533;Note=In DOA+ and OPA1%3B decreased GTPase activity%3B loss of function in promoting mitochondrial fusion. S->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16513463,ECO:0000269|PubMed:18065439,ECO:0000269|PubMed:18158317,ECO:0000269|PubMed:19319978,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs398124298,PMID:16513463,PMID:18065439,PMID:18158317,PMID:19319978,PMID:20185555	
+O60313	UniProtKB	Natural variant	550	550	.	.	.	ID=VAR_060849;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=PMID:11440988	
+O60313	UniProtKB	Natural variant	551	551	.	.	.	ID=VAR_060851;Note=In OPA1 and DOA+. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19319978,ECO:0000269|PubMed:21112924;Dbxref=dbSNP:rs879255592,PMID:19319978,PMID:21112924	
+O60313	UniProtKB	Natural variant	551	551	.	.	.	ID=VAR_060850;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440988;Dbxref=PMID:11440988	
+O60313	UniProtKB	Natural variant	571	571	.	.	.	ID=VAR_022929;Note=In OPA1. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12036970;Dbxref=dbSNP:rs140606054,PMID:12036970	
+O60313	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_060852;Note=In OPA1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14961560;Dbxref=PMID:14961560	
+O60313	UniProtKB	Natural variant	582	582	.	.	.	ID=VAR_060853;Note=In DOA+. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18195150;Dbxref=dbSNP:rs121908376,PMID:18195150	
+O60313	UniProtKB	Natural variant	586	589	.	.	.	ID=VAR_022930;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12036970;Dbxref=PMID:12036970	
+O60313	UniProtKB	Natural variant	590	590	.	.	.	ID=VAR_060854;Note=In OPA1. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs147077380,PMID:19319978	
+O60313	UniProtKB	Natural variant	590	590	.	.	.	ID=VAR_060855;Note=In OPA1. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15948788;Dbxref=dbSNP:rs778998909,PMID:15948788	
+O60313	UniProtKB	Natural variant	593	593	.	.	.	ID=VAR_060856;Note=In OPA1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	593	593	.	.	.	ID=VAR_072131;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19969356;Dbxref=PMID:19969356	
+O60313	UniProtKB	Natural variant	646	646	.	.	.	ID=VAR_060857;Note=In OPA1. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	700	701	.	.	.	ID=VAR_060858;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14961560;Dbxref=PMID:14961560	
+O60313	UniProtKB	Natural variant	728	728	.	.	.	ID=VAR_060859;Note=In OPA1%3B loss of function in promoting mitochondrial fusion. N->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15948788,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs1292852465,PMID:15948788,PMID:20185555	
+O60313	UniProtKB	Natural variant	768	768	.	.	.	ID=VAR_060860;Note=In OPA1. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	781	781	.	.	.	ID=VAR_060861;Note=In OPA1. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=dbSNP:rs190235251,PMID:19319978	
+O60313	UniProtKB	Natural variant	785	785	.	.	.	ID=VAR_060862;Note=In OPA1%3B loss of lipid binding and partial loss of function in promoting mitochondrial fusion. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11440988,ECO:0000269|PubMed:11810270,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs1064797302,PMID:11440988,PMID:11810270,PMID:20185555	
+O60313	UniProtKB	Natural variant	823	823	.	.	.	ID=VAR_060863;Note=In OPA1. S->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_060864;Note=In OPA1. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16617242;Dbxref=PMID:16617242	
+O60313	UniProtKB	Natural variant	882	882	.	.	.	ID=VAR_060865;Note=In OPA1. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	887	887	.	.	.	ID=VAR_060866;Note=In OPA1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319978;Dbxref=PMID:19319978	
+O60313	UniProtKB	Natural variant	907	907	.	.	.	ID=VAR_060867;Note=E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11440989;Dbxref=dbSNP:rs863224138,PMID:11440989	
+O60313	UniProtKB	Natural variant	910	910	.	.	.	ID=VAR_072132;Note=In DOA+%3B impairs protein folding%3B loss of function in promoting mitochondrial fusion. V->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18158317,ECO:0000269|PubMed:20185555;Dbxref=dbSNP:rs387906901,PMID:18158317,PMID:20185555	
+O60313	UniProtKB	Natural variant	910	910	.	.	.	ID=VAR_072133;Note=In OPA1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22857269;Dbxref=PMID:22857269	
+O60313	UniProtKB	Natural variant	932	932	.	.	.	ID=VAR_060868;Note=In OPA1. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19319978,ECO:0000269|PubMed:19325939;Dbxref=dbSNP:rs145710079,PMID:19319978,PMID:19325939	
+O60313	UniProtKB	Natural variant	939	939	.	.	.	ID=VAR_028370;Note=In OPA1%3B impairs protein folding%3B loss of function in promoting mitochondrial fusion. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11810270,ECO:0000269|PubMed:20185555;Dbxref=PMID:11810270,PMID:20185555	
+O60313	UniProtKB	Natural variant	949	949	.	.	.	ID=VAR_060869;Note=In OPA1. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19319978,ECO:0000269|PubMed:19969356;Dbxref=PMID:19319978,PMID:19969356	

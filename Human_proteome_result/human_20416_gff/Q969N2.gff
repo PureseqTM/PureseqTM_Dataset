@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q969N2 1 578
+Q969N2	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11483512;Dbxref=PMID:11483512	
+Q969N2	UniProtKB	Chain	22	578	.	.	.	ID=PRO_0000024107;Note=GPI transamidase component PIG-T	
+Q969N2	UniProtKB	Topological domain	22	527	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969N2	UniProtKB	Transmembrane	528	548	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969N2	UniProtKB	Topological domain	549	578	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969N2	UniProtKB	Glycosylation	164	164	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+Q969N2	UniProtKB	Glycosylation	291	291	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969N2	UniProtKB	Glycosylation	327	327	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969N2	UniProtKB	Disulfide bond	182	182	.	.	.	Note=Interchain (with C-92 in PIGK/GPI8);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12582175;Dbxref=PMID:12582175	
+Q969N2	UniProtKB	Alternative sequence	1	144	.	.	.	ID=VSP_009536;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q969N2	UniProtKB	Alternative sequence	63	256	.	.	.	ID=VSP_009537;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q969N2	UniProtKB	Alternative sequence	63	164	.	.	.	ID=VSP_009538;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q969N2	UniProtKB	Alternative sequence	109	164	.	.	.	ID=VSP_043167;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q969N2	UniProtKB	Alternative sequence	145	164	.	.	.	ID=VSP_009539;Note=In isoform 3. IDSTNTVTPTASFKPLGLAN->MWIPRGQSPRPTPDRPLSPS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q969N2	UniProtKB	Alternative sequence	345	412	.	.	.	ID=VSP_009540;Note=In isoform 3 and isoform 6. EAPPVPFLHAQRYVSGYGLQKGELSTLLYNTHPYRAFPVLLLDTVPWYLRLYVHTLTITSKGKENKPS->G;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:17974005,ECO:0000303|Ref.4;Dbxref=PMID:17974005	
+Q969N2	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_070448;Note=In MCAHS3%3B flow cytometric analysis of patient granulocytes and monocytes show decreased amounts of GPI-anchored proteins CD16B and CD59 compared to controls. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23636107;Dbxref=dbSNP:rs587777027,PMID:23636107	
+Q969N2	UniProtKB	Natural variant	473	473	.	.	.	ID=VAR_053583;Note=A->T;Dbxref=dbSNP:rs36056071	
+Q969N2	UniProtKB	Mutagenesis	182	182	.	.	.	Note=Decrease in activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12582175;Dbxref=PMID:12582175	

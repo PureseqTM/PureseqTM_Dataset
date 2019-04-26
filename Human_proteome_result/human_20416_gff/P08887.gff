@@ -1,0 +1,77 @@
+##gff-version 3
+##sequence-region P08887 1 468
+P08887	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2529343;Dbxref=PMID:2529343	
+P08887	UniProtKB	Chain	20	468	.	.	.	ID=PRO_0000010895;Note=Interleukin-6 receptor subunit alpha	
+P08887	UniProtKB	Topological domain	20	365	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08887	UniProtKB	Transmembrane	366	386	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08887	UniProtKB	Topological domain	387	468	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08887	UniProtKB	Domain	26	112	.	.	.	Note=Ig-like C2-type	
+P08887	UniProtKB	Domain	113	217	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P08887	UniProtKB	Domain	218	316	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P08887	UniProtKB	Motif	303	307	.	.	.	Note=WSXWS motif	
+P08887	UniProtKB	Site	245	245	.	.	.	Note=Not glycosylated;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Glycosylation	55	55	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Glycosylation	93	93	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Glycosylation	221	221	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Disulfide bond	25	193	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Disulfide bond	47	96	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Disulfide bond	121	132	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Disulfide bond	165	176	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10066782;Dbxref=PMID:10066782	
+P08887	UniProtKB	Alternative sequence	356	365	.	.	.	ID=VSP_001682;Note=In isoform 2. VQDSSSVPLP->GSRRRGSCGL;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8056053;Dbxref=PMID:14702039,PMID:15489334,PMID:8056053	
+P08887	UniProtKB	Alternative sequence	366	468	.	.	.	ID=VSP_001683;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8056053;Dbxref=PMID:14702039,PMID:15489334,PMID:8056053	
+P08887	UniProtKB	Natural variant	358	358	.	.	.	ID=VAR_021995;Note=Significantly associated with circulating levels of IL6 and soluble IL6R. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:17357077;Dbxref=dbSNP:rs2228145,PMID:14702039,PMID:17357077	
+P08887	UniProtKB	Natural variant	385	385	.	.	.	ID=VAR_049166;Note=V->I;Dbxref=dbSNP:rs2228146	
+P08887	UniProtKB	Mutagenesis	121	121	.	.	.	Note=Complete loss of ligand-binding. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	122	122	.	.	.	Note=No change of ligand-binding and IL6 signaling. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	132	132	.	.	.	Note=Complete loss of ligand-binding. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Complete loss of ligand-binding. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	140	140	.	.	.	Note=No change of ligand-binding and IL6 signaling. P->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	153	153	.	.	.	Note=No change of ligand-binding and IL6 signaling. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	165	165	.	.	.	Note=Complete loss of ligand-binding. C->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	174	174	.	.	.	Note=No change of ligand-binding and IL6 signaling. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	176	176	.	.	.	Note=Complete loss of ligand-binding. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	184	184	.	.	.	Note=30%25 decrease of ligand-binding and IL6 signaling. D->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	190	190	.	.	.	Note=80%25 decrease of ligand-binding and no IL6 signaling. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	193	193	.	.	.	Note=Complete loss of ligand-binding. C->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	211	211	.	.	.	Note=No change of ligand-binding and IL6 signaling. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	217	217	.	.	.	Note=Complete loss of ligand-binding. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	232	232	.	.	.	Note=30%25 decrease of ligand-binding and IL6 signaling. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	233	233	.	.	.	Note=30%25 decrease of ligand-binding and increase of IL6 signaling. W->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	254	254	.	.	.	Note=50%25 decrease of ligand-binding and IL6 signaling. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	277	277	.	.	.	Note=30%25 increase of ligand-binding and 100%25 increase in IL6 signaling. C->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	278	278	.	.	.	Note=50%25 Decrease of ligand-binding and 50%25 increase in IL6 signaling. V->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	279	279	.	.	.	Note=Complete loss of ligand-binding. I->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	280	280	.	.	.	Note=No change of ligand-binding and no IL6 signaling. H->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	281	281	.	.	.	Note=70%25 decrease of ligand-binding and no IL6 signaling. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	285	285	.	.	.	Note=80%25 decrease of ligand-binding and no IL6 signaling. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Complete loss of ligand-binding. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Mutagenesis	293	293	.	.	.	Note=Complete loss of ligand-binding. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8467812;Dbxref=PMID:8467812	
+P08887	UniProtKB	Sequence conflict	210	210	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08887	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	43	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	56	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	65	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	72	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Helix	88	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	92	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	105	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	120	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	130	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	145	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	159	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Turn	169	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	173	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	187	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	199	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	206	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Turn	210	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	220	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	234	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	247	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	251	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	266	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Helix	271	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	275	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	288	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Turn	297	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	
+P08887	UniProtKB	Beta strand	310	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N26	

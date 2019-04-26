@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q9Y6D9 1 718
+Q9Y6D9	UniProtKB	Chain	1	718	.	.	.	ID=PRO_0000213800;Note=Mitotic spindle assembly checkpoint protein MAD1	
+Q9Y6D9	UniProtKB	Region	301	340	.	.	.	Note=Important for interaction with IK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22351768;Dbxref=PMID:22351768	
+Q9Y6D9	UniProtKB	Region	380	532	.	.	.	Note=Necessary for interaction with NEK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14978040;Dbxref=PMID:14978040	
+Q9Y6D9	UniProtKB	Region	439	480	.	.	.	Note=Important for interaction with IK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22351768;Dbxref=PMID:22351768	
+Q9Y6D9	UniProtKB	Coiled coil	46	632	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6D9	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378;Dbxref=PMID:22223895,PMID:22814378	
+Q9Y6D9	UniProtKB	Modified residue	16	16	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q9Y6D9	UniProtKB	Modified residue	61	61	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9Y6D9	UniProtKB	Modified residue	214	214	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17525332;Dbxref=PMID:17525332	
+Q9Y6D9	UniProtKB	Modified residue	428	428	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:16964243,PMID:18669648,PMID:20068231,PMID:23186163	
+Q9Y6D9	UniProtKB	Cross-link	61	61	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+Q9Y6D9	UniProtKB	Alternative sequence	1	65	.	.	.	ID=VSP_056160;Note=In isoform 2. MEDLGENTMVLSTLRSLNNFISQRVEGGSGLDISTSAPGSLQMQYQQSMQLEERAEQIRSKSHLI->MLPARGCVRKRTVWPRLARVLIVTLLTLELSYAPLPCQLSGVPYNTGDPVGRWARPCIWPCPWHT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y6D9	UniProtKB	Alternative sequence	66	157	.	.	.	ID=VSP_056161;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y6D9	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_019707;Note=In a lymphoid cancer cell line%3B somatic mutation. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11423979;Dbxref=PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_019708;Note=In a prostate cancer cell line%3B somatic mutation. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11423979;Dbxref=dbSNP:rs121908982,PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_019709;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10597320;Dbxref=dbSNP:rs550573452,PMID:10597320	
+Q9Y6D9	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_019710;Note=In lung cancer cell line%3B somatic mutation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10597320;Dbxref=PMID:10597320	
+Q9Y6D9	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_019711;Note=In a prostate cancer cell line%3B somatic mutation. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11423979;Dbxref=dbSNP:rs769418574,PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	500	500	.	.	.	ID=VAR_019712;Note=T->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10597320,ECO:0000269|PubMed:11423979;Dbxref=dbSNP:rs193231481,PMID:10597320,PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	511	511	.	.	.	ID=VAR_019713;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10597320;Dbxref=dbSNP:rs377555260,PMID:10597320	
+Q9Y6D9	UniProtKB	Natural variant	516	516	.	.	.	ID=VAR_019714;Note=In a breast cancer cell line%3B somatic mutation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11423979;Dbxref=PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	556	556	.	.	.	ID=VAR_019715;Note=In a prostate cancer cell line%3B somatic mutation. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11423979;Dbxref=dbSNP:rs371561369,PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	556	556	.	.	.	ID=VAR_019716;Note=In one individual with lung cancer. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10597320;Dbxref=dbSNP:rs755012008,PMID:10597320	
+Q9Y6D9	UniProtKB	Natural variant	558	558	.	.	.	ID=VAR_019717;Note=In a cancer cell line. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10366450,ECO:0000269|PubMed:10597320,ECO:0000269|PubMed:11423979;Dbxref=dbSNP:rs1801368,PMID:10366450,PMID:10597320,PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	569	569	.	.	.	ID=VAR_019718;Note=In a breast cancer cell line%3B somatic mutation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11423979;Dbxref=dbSNP:rs201951163,PMID:11423979	
+Q9Y6D9	UniProtKB	Natural variant	572	572	.	.	.	ID=VAR_019719;Note=In a cancer cell line. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10366450;Dbxref=dbSNP:rs1801500,PMID:10366450	
+Q9Y6D9	UniProtKB	Sequence conflict	189	190	.	.	.	Note=EL->DV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y6D9	UniProtKB	Sequence conflict	189	190	.	.	.	Note=EL->DV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y6D9	UniProtKB	Sequence conflict	260	260	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y6D9	UniProtKB	Sequence conflict	260	260	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y6D9	UniProtKB	Sequence conflict	268	268	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y6D9	UniProtKB	Helix	487	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q9Y6D9	UniProtKB	Helix	494	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q9Y6D9	UniProtKB	Turn	537	539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q9Y6D9	UniProtKB	Beta strand	540	547	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q9Y6D9	UniProtKB	Helix	549	575	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q9Y6D9	UniProtKB	Turn	580	582	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q9Y6D9	UniProtKB	Helix	599	637	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Beta strand	638	644	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Turn	645	647	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Beta strand	648	653	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Beta strand	663	667	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Beta strand	675	678	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Helix	683	685	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Helix	687	693	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	
+Q9Y6D9	UniProtKB	Helix	700	715	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DZO	

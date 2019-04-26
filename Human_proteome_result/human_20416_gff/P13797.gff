@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region P13797 1 630
+P13797	UniProtKB	Chain	1	630	.	.	.	ID=PRO_0000073747;Note=Plastin-3	
+P13797	UniProtKB	Domain	12	47	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P13797	UniProtKB	Domain	52	87	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P13797	UniProtKB	Domain	123	239	.	.	.	Note=Calponin-homology (CH) 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00044	
+P13797	UniProtKB	Domain	267	378	.	.	.	Note=Calponin-homology (CH) 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00044	
+P13797	UniProtKB	Domain	397	506	.	.	.	Note=Calponin-homology (CH) 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00044	
+P13797	UniProtKB	Domain	518	627	.	.	.	Note=Calponin-homology (CH) 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00044	
+P13797	UniProtKB	Calcium binding	25	36	.	.	.	Note=1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P13797	UniProtKB	Calcium binding	65	76	.	.	.	Note=2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P13797	UniProtKB	Region	109	382	.	.	.	Note=Actin-binding 1	
+P13797	UniProtKB	Region	383	627	.	.	.	Note=Actin-binding 2	
+P13797	UniProtKB	Modified residue	268	268	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99K51	
+P13797	UniProtKB	Modified residue	293	293	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P13797	UniProtKB	Modified residue	326	326	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+P13797	UniProtKB	Modified residue	339	339	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P13797	UniProtKB	Modified residue	391	391	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+P13797	UniProtKB	Alternative sequence	1	45	.	.	.	ID=VSP_056235;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13797	UniProtKB	Alternative sequence	1	24	.	.	.	ID=VSP_056236;Note=In isoform 2. MDEMATTQISKDELDELKEAFAKV->ME;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P13797	UniProtKB	Alternative sequence	296	296	.	.	.	ID=VSP_056237;Note=In isoform 2. I->IKLIDFSNSV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P13797	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_070278;Note=In OSTEOP%3B associated with disease susceptibility. A->AN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24088043;Dbxref=PMID:24088043	
+P13797	UniProtKB	Natural variant	488	488	.	.	.	ID=VAR_035462;Note=In a breast cancer sample%3B somatic mutation. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P13797	UniProtKB	Helix	123	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Turn	137	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Turn	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Turn	151	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	155	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	164	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	180	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	190	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	216	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	224	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	261	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	269	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Turn	294	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	300	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Beta strand	315	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Turn	326	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	333	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Turn	345	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	355	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	363	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AOA	
+P13797	UniProtKB	Helix	522	535	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Helix	549	551	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Helix	553	562	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Turn	569	571	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Helix	579	595	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Helix	604	609	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Turn	612	616	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	
+P13797	UniProtKB	Helix	617	625	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WJO	

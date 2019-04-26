@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region A6NNM8 1 815
+A6NNM8	UniProtKB	Chain	1	815	.	.	.	ID=PRO_0000326167;Note=Tubulin polyglutamylase TTLL13P	
+A6NNM8	UniProtKB	Domain	85	430	.	.	.	Note=TTL;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00568	
+A6NNM8	UniProtKB	Nucleotide binding	230	233	.	.	.	Note=ATP binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6ZT98	
+A6NNM8	UniProtKB	Region	401	482	.	.	.	Note=c-MTBD region;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+A6NNM8	UniProtKB	Coiled coil	504	528	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+A6NNM8	UniProtKB	Binding site	243	243	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6ZT98	
+A6NNM8	UniProtKB	Binding site	245	245	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6ZT98	
+A6NNM8	UniProtKB	Alternative sequence	452	459	.	.	.	ID=VSP_052720;Note=In isoform 2. KEKTESSH->CARCLACV;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+A6NNM8	UniProtKB	Alternative sequence	460	815	.	.	.	ID=VSP_052721;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+A6NNM8	UniProtKB	Natural variant	126	126	.	.	.	ID=VAR_057318;Note=A->T;Dbxref=dbSNP:rs12912620	
+A6NNM8	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_057319;Note=T->I;Dbxref=dbSNP:rs2063743	
+A6NNM8	UniProtKB	Mutagenesis	425	427	.	.	.	Note=Decreased binding to microtubules and polyglutamylase activity%3B when associated with 451-E-E-452. KRK->EEE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+A6NNM8	UniProtKB	Mutagenesis	451	452	.	.	.	Note=Decreased binding to microtubules and polyglutamylase activity%3B when associated with 425-E--E-427. RK->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+A6NNM8	UniProtKB	Sequence conflict	108	108	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

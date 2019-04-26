@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region O95866 1 241
+O95866	UniProtKB	Signal peptide	1	17	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665801;Dbxref=PMID:12665801	
+O95866	UniProtKB	Chain	18	241	.	.	.	ID=PRO_0000021312;Note=Megakaryocyte and platelet inhibitory receptor G6b	
+O95866	UniProtKB	Topological domain	18	142	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255,ECO:0000303;evidence=ECO:0000255,ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Transmembrane	143	163	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95866	UniProtKB	Topological domain	164	241	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255,ECO:0000303;evidence=ECO:0000255,ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Motif	209	214	.	.	.	Note=ITIM motif;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:18955485;Dbxref=PMID:18955485	
+O95866	UniProtKB	Motif	235	240	.	.	.	Note=ITIM motif;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:18955485;Dbxref=PMID:18955485	
+O95866	UniProtKB	Modified residue	211	211	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Glycosylation	32	32	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95866	UniProtKB	Alternative sequence	137	241	.	.	.	ID=VSP_014172;Note=In isoform D. GSVYPQLLIPLLGAGLVLGLGALGLVWWLHRRLPPQPIRPLPRFAPLVKTEPQRPVKEEEPKIPGDLDQEPSLLYADLDHLALSRPRRLSTADPADASTIYAVVV->ALSPPHSSTCENRAPEASKGGRAQDSRGPGPGTEPALCGSGPSSPQQAPPAVHSGPC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Alternative sequence	137	180	.	.	.	ID=VSP_014173;Note=In isoform E. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Alternative sequence	138	180	.	.	.	ID=VSP_014174;Note=In isoform C. SVYPQLLIPLLGAGLVLGLGALGLVWWLHRRLPPQPIRPLPRF->ACPRNRFDHSLDLLCPPHI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Alternative sequence	181	241	.	.	.	ID=VSP_014175;Note=In isoform F. APLVKTEPQRPVKEEEPKIPGDLDQEPSLLYADLDHLALSRPRRLSTADPADASTIYAVVV->GETNSTPFSFSYMPTPHPSIPESEPLLGADTLVTFSPSFSSVPPT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Alternative sequence	182	241	.	.	.	ID=VSP_014176;Note=In isoform A. PLVKTEPQRPVKEEEPKIPGDLDQEPSLLYADLDHLALSRPRRLSTADPADASTIYAVVV->LSPPHSSTCENRAPEASKGGRAQDSRGPGPGTEPALCGSGPSSPQQAPPAVHSGPC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Alternative sequence	182	241	.	.	.	ID=VSP_014177;Note=In isoform G. PLVKTEPQRPVKEEEPKIPGDLDQEPSLLYADLDHLALSRPRRLSTADPADASTIYAVVV->LSPPHSSTCENRAPEASKGGRAQDSRGPGPGTGKGMGMGRG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11544253,ECO:0000303|PubMed:15489334;Dbxref=PMID:11544253,PMID:15489334	
+O95866	UniProtKB	Natural variant	108	241	.	.	.	ID=VAR_078570;Note=In THAMY%3B increased protein degradation%3B decreased enhancement of hematopoietic lineage differentiation. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27743390;Dbxref=PMID:27743390	
+O95866	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_051004;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14574404;Dbxref=dbSNP:rs11575845,PMID:14574404	
+O95866	UniProtKB	Mutagenesis	211	211	.	.	.	Note=Abolishes the inhibitory effect against ligand-induced activation of PLCG2 by CLEC1B and GP6:FCER1G%3B when associated with F-237. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18955485;Dbxref=PMID:18955485	
+O95866	UniProtKB	Mutagenesis	211	211	.	.	.	Note=Loss of tyrosine phosphorylation and loss of interaction with PTPN6 and PTPN11. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Mutagenesis	237	237	.	.	.	Note=Abolishes the inhibitory effect against ligand-induced activation of PLCG2 by CLEC1B and GP6:FCER1G%3B when associated with F-237. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18955485;Dbxref=PMID:18955485	
+O95866	UniProtKB	Mutagenesis	237	237	.	.	.	Note=Reduced level of tyrosine phosphorylation and interaction with PTPN6 and PTPN11. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11544253;Dbxref=PMID:11544253	
+O95866	UniProtKB	Sequence conflict	137	138	.	.	.	Note=GS->ID;Ontology_term=ECO:0000305;evidence=ECO:0000305	

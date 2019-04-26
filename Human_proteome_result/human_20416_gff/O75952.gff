@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region O75952 1 493
+O75952	UniProtKB	Chain	1	493	.	.	.	ID=PRO_0000089268;Note=Calcium-binding tyrosine phosphorylation-regulated protein	
+O75952	UniProtKB	Domain	12	49	.	.	.	Note=RIIa	
+O75952	UniProtKB	Modified residue	151	151	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Modified residue	155	155	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Alternative sequence	1	201	.	.	.	ID=VSP_016245;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11820818;Dbxref=PMID:11820818	
+O75952	UniProtKB	Alternative sequence	1	98	.	.	.	ID=VSP_016246;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11820818;Dbxref=PMID:11820818	
+O75952	UniProtKB	Alternative sequence	49	66	.	.	.	ID=VSP_016247;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11820818,ECO:0000303|PubMed:14702039;Dbxref=PMID:11820818,PMID:14702039	
+O75952	UniProtKB	Alternative sequence	181	379	.	.	.	ID=VSP_016248;Note=In isoform 3 and isoform 5. GKVSSIHSDQSDVLMVDVATSMPVVIKEVPSSEAAEDVMVAAPLVCSGKVLEVQVVNQTSVHVDLGSQPKENEAEPSTASSVPLQDEQEPPAYDQAPEVTLQADIEVMSTVHISSVYNDVPVTEGVVYIEQLPEQIVIPFTDQVACLKENEQSKENEQSPRVSPKSVVEKTTSGMSKKSVESVKLAQLEENAKYSSVYM->AMATSERGQPPPCSNMWTLYCLTDKNQQGHPSPPPAPGPFPQATLYLPNPKDPQFQQHPPKVTFPTYVMGDTKKTSAPPFILVGSNVQEAQGWKPLPGHAVVSQSDVLRYVAMQVPIAVPADEKYQKHTLSPQNANPPSGQDVPRPKSPVFLSVAFPVEDVAKKSSGSGDKCAPFGSYGIAGEVTVTTAHKRRKAETEN;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11820818,ECO:0000303|PubMed:15489334;Dbxref=PMID:11820818,PMID:15489334	
+O75952	UniProtKB	Alternative sequence	181	221	.	.	.	ID=VSP_016249;Note=In isoform 4. GKVSSIHSDQSDVLMVDVATSMPVVIKEVPSSEAAEDVMVA->EDVAKKSSGSGDKCAPFGSYGIAGEVTVTTAHKRRKAETEN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11820818;Dbxref=PMID:11820818	
+O75952	UniProtKB	Alternative sequence	222	493	.	.	.	ID=VSP_016250;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11820818;Dbxref=PMID:11820818	
+O75952	UniProtKB	Alternative sequence	380	493	.	.	.	ID=VSP_016251;Note=In isoform 3 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11820818,ECO:0000303|PubMed:15489334;Dbxref=PMID:11820818,PMID:15489334	
+O75952	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_030040;Note=T->M;Dbxref=dbSNP:rs3786417	
+O75952	UniProtKB	Natural variant	186	186	.	.	.	ID=VAR_050709;Note=I->V;Dbxref=dbSNP:rs35118855	
+O75952	UniProtKB	Natural variant	448	448	.	.	.	ID=VAR_030041;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11820818;Dbxref=dbSNP:rs1049682,PMID:11820818	
+O75952	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_023818;Note=S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11820818;Dbxref=dbSNP:rs1049683,PMID:11820818	
+O75952	UniProtKB	Mutagenesis	146	146	.	.	.	Note=Does not affect phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Mutagenesis	151	151	.	.	.	Note=Decreases phosphorylation. Abolishes phosphorylation%3B when associated with A-155. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Does not affect phosphorylation. Does not affect phosphorylation%3B when associated with A-159. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Mutagenesis	155	155	.	.	.	Note=Decreases phosphorylation and interaction with GSK3B. Abolishes phosphorylation and decreases interaction with GSK3B%3B when associated with A-151. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Mutagenesis	159	159	.	.	.	Note=Does not affect phosphorylation. Does not affect phosphorylation%3B when associated with A-154. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15752768;Dbxref=PMID:15752768	
+O75952	UniProtKB	Sequence conflict	423	423	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75952	UniProtKB	Sequence conflict	423	423	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

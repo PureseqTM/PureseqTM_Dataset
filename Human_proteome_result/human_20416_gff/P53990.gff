@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P53990 1 364
+P53990	UniProtKB	Chain	1	364	.	.	.	ID=PRO_0000050727;Note=IST1 homolog	
+P53990	UniProtKB	Region	1	168	.	.	.	Note=Interaction with CHMP1A and CHMP1B	
+P53990	UniProtKB	Region	64	279	.	.	.	Note=Interaction with VPS37B;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129479;Dbxref=PMID:19129479	
+P53990	UniProtKB	Region	190	364	.	.	.	Note=Interaction with VTA1	
+P53990	UniProtKB	Region	348	364	.	.	.	Note=Interaction with VPS4A%2C VTA1%2C MITD1 STAMBP and USP8;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129480;Dbxref=PMID:19129480	
+P53990	UniProtKB	Motif	321	332	.	.	.	Note=Type-2 MIT-interacting motif	
+P53990	UniProtKB	Motif	351	361	.	.	.	Note=MIT-interacting motif	
+P53990	UniProtKB	Modified residue	4	4	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P53990	UniProtKB	Modified residue	43	43	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15592455;Dbxref=PMID:15592455	
+P53990	UniProtKB	Alternative sequence	1	148	.	.	.	ID=VSP_055118;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P53990	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_047075;Note=In isoform 5. M->MVFKLKTKEEQHSM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P53990	UniProtKB	Alternative sequence	228	228	.	.	.	ID=VSP_017118;Note=In isoform 2%2C isoform 3%2C isoform 4 and isoform 6. V->VPM;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P53990	UniProtKB	Alternative sequence	237	237	.	.	.	ID=VSP_047076;Note=In isoform 5. P->PMP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P53990	UniProtKB	Alternative sequence	252	282	.	.	.	ID=VSP_017119;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P53990	UniProtKB	Alternative sequence	283	364	.	.	.	ID=VSP_017120;Note=In isoform 3. VDDINADKNISSAQIVGPGPKPEASAKLPSRPADNYDNFVLPELPSVPDTLPTASAGASTSASEDIDFDDLSRRFEELKKKT->MTLMLIRISLLHRLLVLDPSQKPLQSFLPDLQITMTTLSYQSCHLCQTHYQLHLLVPAPQHLKTLTLMIFPGGLKS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P53990	UniProtKB	Mutagenesis	323	323	.	.	.	Note=Diminishes interaction with VPS4A. Greatly diminishes interaction with VPS4A%3B when associated with A-353. L->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129479;Dbxref=PMID:19129479	
+P53990	UniProtKB	Mutagenesis	326	326	.	.	.	Note=Diminishes interaction with VPS4A. Greatly diminishes interaction with VPS4A and abolishes interaction with VTA1%3B when associated with A-353. Greatly diminishes interaction with VPS4A%3B when associated with A-360. L->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129479;Dbxref=PMID:19129479	
+P53990	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Diminishes interaction with VPS4A. Greatly diminishes interaction with VPS4A and abolishes interaction with VTA1%3B when associated with D-326. Greatly diminishes interaction with VPS4A%3B when associated with D-323. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129479;Dbxref=PMID:19129479	
+P53990	UniProtKB	Mutagenesis	360	361	.	.	.	Note=Abolishes interaction with VTA1%2C MITD1 and USP8%3B diminishes interaction with VPS4A. LK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129480;Dbxref=PMID:19129480	
+P53990	UniProtKB	Mutagenesis	360	360	.	.	.	Note=Diminishes interaction with VPS4A. Greatly diminishes interaction with VPS4A%3B when associated with D-326. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19129479;Dbxref=PMID:19129479	
+P53990	UniProtKB	Helix	8	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	49	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	83	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	97	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Turn	111	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	115	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	130	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Turn	138	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	146	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	159	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	181	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FRR	
+P53990	UniProtKB	Helix	350	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WZX	

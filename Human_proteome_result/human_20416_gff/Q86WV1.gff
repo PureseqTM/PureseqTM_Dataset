@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q86WV1 1 359
+Q86WV1	UniProtKB	Chain	1	359	.	.	.	ID=PRO_0000270173;Note=Src kinase-associated phosphoprotein 1	
+Q86WV1	UniProtKB	Domain	107	210	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q86WV1	UniProtKB	Domain	294	355	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q86WV1	UniProtKB	Region	290	295	.	.	.	Note=Interaction with FYB1	
+Q86WV1	UniProtKB	Compositional bias	220	230	.	.	.	Note=Poly-Glu	
+Q86WV1	UniProtKB	Modified residue	142	142	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3UUV5	
+Q86WV1	UniProtKB	Modified residue	219	219	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11909961;Dbxref=PMID:11909961	
+Q86WV1	UniProtKB	Modified residue	232	232	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11909961;Dbxref=PMID:11909961	
+Q86WV1	UniProtKB	Modified residue	271	271	.	.	.	Note=Phosphotyrosine%3B by FYN;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q86WV1	UniProtKB	Modified residue	295	295	.	.	.	Note=Phosphotyrosine%3B by FYN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86WV1	UniProtKB	Alternative sequence	293	293	.	.	.	ID=VSP_022179;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86WV1	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_029811;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9195899;Dbxref=dbSNP:rs2278868,PMID:9195899	
+Q86WV1	UniProtKB	Natural variant	242	242	.	.	.	ID=VAR_035343;Note=S->G;Dbxref=dbSNP:rs35288886	
+Q86WV1	UniProtKB	Mutagenesis	219	219	.	.	.	Note=Impairs interaction with PTPRC. No effect on interaction with FYN or GRB2. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11909961,ECO:0000269|PubMed:12171928;Dbxref=PMID:11909961,PMID:12171928	
+Q86WV1	UniProtKB	Mutagenesis	232	232	.	.	.	Note=Abolishes interaction with PTPRC%2C translocation to cell membrane upon T-cell stimulation and activation of the MAP kinase pathway. No effect on interaction with FYN or GRB2. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11909961,ECO:0000269|PubMed:12171928;Dbxref=PMID:11909961,PMID:12171928	
+Q86WV1	UniProtKB	Mutagenesis	271	271	.	.	.	Note=No effect on interaction with PTPRC and translocation to cell membrane upon T-cell stimulation. Abolishes interaction with FYN and GRB2 and activation of the MAP kinase pathway. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11909961,ECO:0000269|PubMed:12171928;Dbxref=PMID:11909961,PMID:12171928	
+Q86WV1	UniProtKB	Mutagenesis	295	295	.	.	.	Note=Abolishes FYB1-dependent activation of ITGAL clustering. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10856234;Dbxref=PMID:10856234	
+Q86WV1	UniProtKB	Mutagenesis	298	298	.	.	.	Note=Impairs interaction with FYB1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10856234;Dbxref=PMID:10856234	
+Q86WV1	UniProtKB	Mutagenesis	333	333	.	.	.	Note=Abolishes homodimerization%2C interaction with FYB1 and activation of the MAP kinase pathway. W->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12171928,ECO:0000269|PubMed:15849195,ECO:0000269|PubMed:9748251;Dbxref=PMID:12171928,PMID:15849195,PMID:9748251	
+Q86WV1	UniProtKB	Sequence conflict	187	187	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86WV1	UniProtKB	Beta strand	108	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	121	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	126	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	139	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	152	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	161	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Helix	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Helix	172	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	177	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	183	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Beta strand	188	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	
+Q86WV1	UniProtKB	Helix	195	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U5D	

@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region Q9P212 1 2302
+Q9P212	UniProtKB	Chain	1	2302	.	.	.	ID=PRO_0000256238;Note=1-phosphatidylinositol 4%2C5-bisphosphate phosphodiesterase epsilon-1	
+Q9P212	UniProtKB	Domain	531	790	.	.	.	Note=Ras-GEF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00168	
+Q9P212	UniProtKB	Domain	1392	1540	.	.	.	Note=PI-PLC X-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+Q9P212	UniProtKB	Domain	1730	1846	.	.	.	Note=PI-PLC Y-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00271	
+Q9P212	UniProtKB	Domain	1856	1956	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q9P212	UniProtKB	Domain	2012	2114	.	.	.	Note=Ras-associating 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00166	
+Q9P212	UniProtKB	Domain	2135	2238	.	.	.	Note=Ras-associating 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00166	
+Q9P212	UniProtKB	Region	1686	1764	.	.	.	Note=Required for activation by RHOA%2C RHOB%2C GNA12%2C GNA13 and G-beta gamma;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9P212	UniProtKB	Active site	1407	1407	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+Q9P212	UniProtKB	Active site	1452	1452	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+Q9P212	UniProtKB	Modified residue	1096	1096	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8K4S1	
+Q9P212	UniProtKB	Alternative sequence	1	308	.	.	.	ID=VSP_021335;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11022047,ECO:0000303|PubMed:14702039;Dbxref=PMID:11022047,PMID:14702039	
+Q9P212	UniProtKB	Alternative sequence	309	402	.	.	.	ID=VSP_021336;Note=In isoform 2. DVEEDAFKSKKERSTLLVRRFCKNDREVKKSVYTGTRAIVRTLPSGHIGLTAWSYIDQKRNGPLLPCGRVMEPPSTVEIRQDGSQRLSEAQWYP->MVSEGSAAGRDFAGMEEVRQLHVRFCKGIKIWHQAWFLCSLLGREPQEREAGCQLWLCTLSAVLKVGWLFPLSEVPNFTLLKDGCGCWRLKEDQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11022047,ECO:0000303|PubMed:14702039;Dbxref=PMID:11022047,PMID:14702039	
+Q9P212	UniProtKB	Natural variant	469	469	.	.	.	ID=VAR_031843;Note=S->T;Dbxref=dbSNP:rs17508082	
+Q9P212	UniProtKB	Natural variant	548	548	.	.	.	ID=VAR_031844;Note=R->L;Dbxref=dbSNP:rs17417407	
+Q9P212	UniProtKB	Natural variant	1484	1484	.	.	.	ID=VAR_029883;Note=In NPHS3%3B gives rise to focal segmental glomerulosclerosis rather than diffuse mesangial sclerosis. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17086182;Dbxref=dbSNP:rs121912605,PMID:17086182	
+Q9P212	UniProtKB	Natural variant	1575	1575	.	.	.	ID=VAR_031845;Note=R->P;Dbxref=dbSNP:rs2274224	
+Q9P212	UniProtKB	Natural variant	1777	1777	.	.	.	ID=VAR_031846;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11022048,ECO:0000269|Ref.8;Dbxref=dbSNP:rs3765524,PMID:11022048	
+Q9P212	UniProtKB	Natural variant	1927	1927	.	.	.	ID=VAR_031847;Note=H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10819331,ECO:0000269|PubMed:11022048,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.8;Dbxref=dbSNP:rs2274223,PMID:10819331,PMID:11022048,PMID:15489334	
+Q9P212	UniProtKB	Mutagenesis	1452	1452	.	.	.	Note=Loss of the phospholipase C enzymatic activity. Still activates HRAS and the MAP kinase pathway. H->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022047;Dbxref=PMID:11022047	
+Q9P212	UniProtKB	Mutagenesis	2140	2140	.	.	.	Note=Increases 2.8-fold the affinity for HRAS. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16483931;Dbxref=PMID:16483931	
+Q9P212	UniProtKB	Mutagenesis	2148	2148	.	.	.	Note=Decreases 17.5-fold the affinity for HRAS. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16483931;Dbxref=PMID:16483931	
+Q9P212	UniProtKB	Mutagenesis	2148	2148	.	.	.	Note=Increases 1.4-fold the affinity for HRAS. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16483931;Dbxref=PMID:16483931	
+Q9P212	UniProtKB	Mutagenesis	2150	2150	.	.	.	Note=Abolishes interaction with HRAS. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16483931;Dbxref=PMID:16483931	
+Q9P212	UniProtKB	Mutagenesis	2171	2171	.	.	.	Note=No effect on HRAS-binding. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16483931;Dbxref=PMID:16483931	
+Q9P212	UniProtKB	Mutagenesis	2174	2174	.	.	.	Note=Reduces HRAS-binding. Y->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16483931;Dbxref=PMID:16483931	
+Q9P212	UniProtKB	Sequence conflict	502	502	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	703	703	.	.	.	Note=V->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1133	1133	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1229	1230	.	.	.	Note=SR->QA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1456	1456	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1571	1571	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1575	1575	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1672	1672	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	1705	1705	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Sequence conflict	2125	2125	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P212	UniProtKB	Beta strand	2015	2020	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2022	2031	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Helix	2038	2046	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2049	2052	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2058	2064	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2069	2072	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2081	2084	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2086	2088	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Helix	2090	2096	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Turn	2099	2103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2107	2112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYE	
+Q9P212	UniProtKB	Beta strand	2136	2143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Beta strand	2150	2156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Helix	2161	2171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Turn	2172	2174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Helix	2176	2180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Helix	2184	2186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Beta strand	2187	2194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Beta strand	2198	2204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BYF	
+Q9P212	UniProtKB	Beta strand	2207	2211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Helix	2218	2223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Beta strand	2229	2235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	
+Q9P212	UniProtKB	Turn	2236	2238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C5L	

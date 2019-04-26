@@ -1,0 +1,78 @@
+##gff-version 3
+##sequence-region Q9UJY5 1 639
+Q9UJY5	UniProtKB	Chain	1	639	.	.	.	ID=PRO_0000212680;Note=ADP-ribosylation factor-binding protein GGA1	
+Q9UJY5	UniProtKB	Domain	17	147	.	.	.	Note=VHS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00218	
+Q9UJY5	UniProtKB	Domain	171	299	.	.	.	Note=GAT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00373	
+Q9UJY5	UniProtKB	Domain	510	631	.	.	.	Note=GAE;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00093	
+Q9UJY5	UniProtKB	Region	114	274	.	.	.	Note=Interaction with ARF3	
+Q9UJY5	UniProtKB	Region	300	509	.	.	.	Note=Unstructured hinge	
+Q9UJY5	UniProtKB	Motif	358	362	.	.	.	Note=Autoinhibitory	
+Q9UJY5	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+Q9UJY5	UniProtKB	Modified residue	185	185	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9UJY5	UniProtKB	Modified residue	355	355	.	.	.	Note=Phosphoserine%3B by CK2;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12060753;Dbxref=PMID:12060753	
+Q9UJY5	UniProtKB	Modified residue	418	418	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9UJY5	UniProtKB	Alternative sequence	1	73	.	.	.	ID=VSP_042806;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UJY5	UniProtKB	Alternative sequence	68	68	.	.	.	ID=VSP_057352;Note=In isoform 6. T->TVRRGEATIRPPPCDDTK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15461802;Dbxref=PMID:15461802	
+Q9UJY5	UniProtKB	Alternative sequence	69	101	.	.	.	ID=VSP_001744;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UJY5	UniProtKB	Alternative sequence	70	89	.	.	.	ID=VSP_042807;Note=In isoform 5. LETCMKSCGKRFHDEVGKFR->RRGEATIRPPPCDDTKGGQD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UJY5	UniProtKB	Alternative sequence	90	639	.	.	.	ID=VSP_042808;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UJY5	UniProtKB	Alternative sequence	277	363	.	.	.	ID=VSP_042809;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UJY5	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_036522;Note=In a breast cancer sample%3B somatic mutation. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs765255006,PMID:16959974	
+Q9UJY5	UniProtKB	Natural variant	484	484	.	.	.	ID=VAR_036523;Note=In a breast cancer sample%3B somatic mutation. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9UJY5	UniProtKB	Mutagenesis	92	92	.	.	.	Note=Abolishes interaction with IGF2R. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9UJY5	UniProtKB	Mutagenesis	182	182	.	.	.	Note=Abolishes interaction with ARF1%2C UBC and TSG101. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	194	194	.	.	.	Note=Abolishes interaction with ARF1 and RABEP1. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	197	197	.	.	.	Note=Abolishes interaction with ARF1%2C UBC and TSG101. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	198	198	.	.	.	Note=Abolishes interaction with ARF1. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Abolishes interaction with ARF1. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Abolishes interaction with ARF1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Abolishes interaction with RABEP1. M->K	
+Q9UJY5	UniProtKB	Mutagenesis	260	260	.	.	.	Note=No effect on interaction with RABEP1. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	260	260	.	.	.	Note=Abolishes interaction with RABEP1 and UBC. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Abolishes interaction with RABEP1. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Abolishes interaction with RABEP1 and UBC. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	277	277	.	.	.	Note=Abolishes interaction with RABEP1%2C UBC and TSG101. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	281	281	.	.	.	Note=Abolishes interaction with RABEP1. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Abolishes interaction with RABEP1. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Abolishes interaction with RABEP1. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9UJY5	UniProtKB	Mutagenesis	355	355	.	.	.	Note=Increased interaction with IGF2R. Reduced phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9UJY5	UniProtKB	Mutagenesis	355	355	.	.	.	Note=Abolishes interaction with IGF2R. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9UJY5	UniProtKB	Mutagenesis	356	360	.	.	.	Note=Partial loss of clathrin-binding. LLDDE->AADAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11301005;Dbxref=PMID:11301005	
+Q9UJY5	UniProtKB	Mutagenesis	358	358	.	.	.	Note=Increased interaction with IGF2R. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9UJY5	UniProtKB	Mutagenesis	361	362	.	.	.	Note=Increased interaction with IGF2R. LM->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9UJY5	UniProtKB	Mutagenesis	563	563	.	.	.	Note=Abolishes interaction with CCDC91. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808037;Dbxref=PMID:12808037	
+Q9UJY5	UniProtKB	Mutagenesis	564	564	.	.	.	Note=Abolishes interaction with CCDC91. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808037;Dbxref=PMID:12808037	
+Q9UJY5	UniProtKB	Mutagenesis	570	570	.	.	.	Note=Abolishes interaction with CCDC91. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808037;Dbxref=PMID:12808037	
+Q9UJY5	UniProtKB	Mutagenesis	572	572	.	.	.	Note=Abolishes interaction with CCDC91. L->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808037;Dbxref=PMID:12808037	
+Q9UJY5	UniProtKB	Helix	3	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1UJK	
+Q9UJY5	UniProtKB	Helix	10	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	27	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Beta strand	40	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	43	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	60	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	79	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	88	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Turn	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	109	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	130	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3G2S	
+Q9UJY5	UniProtKB	Helix	172	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1J2J	
+Q9UJY5	UniProtKB	Helix	187	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1J2J	
+Q9UJY5	UniProtKB	Helix	212	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X79	
+Q9UJY5	UniProtKB	Turn	235	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O3X	
+Q9UJY5	UniProtKB	Helix	243	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O3X	
+Q9UJY5	UniProtKB	Helix	274	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O3X	
+Q9UJY5	UniProtKB	Helix	494	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Helix	504	506	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	515	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	523	531	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	533	535	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DWY	
+Q9UJY5	UniProtKB	Beta strand	540	549	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	555	563	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	568	572	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	592	599	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	608	616	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Beta strand	619	627	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Turn	633	635	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	
+Q9UJY5	UniProtKB	Helix	636	638	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NA8	

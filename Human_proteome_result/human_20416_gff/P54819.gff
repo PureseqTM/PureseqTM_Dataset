@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region P54819 1 239
+P54819	UniProtKB	Chain	1	239	.	.	.	ID=PRO_0000423212;Note=Adenylate kinase 2%2C mitochondrial	
+P54819	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B alternate;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PubMed:25944712,ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.10;Dbxref=PMID:25944712	
+P54819	UniProtKB	Chain	2	239	.	.	.	ID=PRO_0000158917;Note=Adenylate kinase 2%2C mitochondrial%2C N-terminally processed	
+P54819	UniProtKB	Nucleotide binding	25	30	.	.	.	Note=ATP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Nucleotide binding	72	74	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Nucleotide binding	100	103	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Nucleotide binding	151	152	.	.	.	Note=ATP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Region	45	74	.	.	.	Note=NMPbind;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Region	141	178	.	.	.	Note=LID;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Binding site	46	46	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Binding site	51	51	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Binding site	107	107	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Binding site	138	138	.	.	.	Note=ATP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.17	
+P54819	UniProtKB	Binding site	142	142	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Binding site	175	175	.	.	.	Note=AMP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Binding site	186	186	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03168	
+P54819	UniProtKB	Binding site	214	214	.	.	.	Note=ATP%3B via carbonyl oxygen;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712;Dbxref=PMID:19413330,PMID:22814378,PMID:25944712	
+P54819	UniProtKB	Modified residue	4	4	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P54819	UniProtKB	Modified residue	58	58	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P54819	UniProtKB	Modified residue	62	62	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTP6	
+P54819	UniProtKB	Modified residue	93	93	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTP6	
+P54819	UniProtKB	Modified residue	133	133	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P54819	UniProtKB	Modified residue	181	181	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTP6	
+P54819	UniProtKB	Modified residue	195	195	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P54819	UniProtKB	Disulfide bond	42	92	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03168,ECO:0000269|Ref.17	
+P54819	UniProtKB	Alternative sequence	1	48	.	.	.	ID=VSP_002792;Note=In isoform 4 and isoform 6. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.4;Dbxref=PMID:14702039	
+P54819	UniProtKB	Alternative sequence	135	142	.	.	.	ID=VSP_036503;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P54819	UniProtKB	Alternative sequence	177	178	.	.	.	ID=VSP_002793;Note=In isoform 4. DD->GL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P54819	UniProtKB	Alternative sequence	178	239	.	.	.	ID=VSP_002791;Note=In isoform 3. DNEKALKIRLQAYHTQTTPLIEYYRKRGIHSAIDASQTPDVVFASILAAFSKATCKDLVMFI->IGQAKRSFLRLAKISFDVLIKKALA;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P54819	UniProtKB	Alternative sequence	179	239	.	.	.	ID=VSP_002794;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P54819	UniProtKB	Alternative sequence	232	239	.	.	.	ID=VSP_002790;Note=In isoform 2 and isoform 5. CKDLVMFI->S;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:19054851,ECO:0000303|PubMed:9434148,ECO:0000303|PubMed:9504408;Dbxref=PMID:14702039,PMID:15489334,PMID:19054851,PMID:9434148,PMID:9504408	
+P54819	UniProtKB	Natural variant	103	103	.	.	.	ID=VAR_054630;Note=In RDYS. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19043416;Dbxref=dbSNP:rs267606648,PMID:19043416	
+P54819	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_054631;Note=In RDYS. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19043416;Dbxref=dbSNP:rs267606643,PMID:19043416	
+P54819	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_050032;Note=A->T;Dbxref=dbSNP:rs12116440	
+P54819	UniProtKB	Beta strand	16	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	28	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Beta strand	42	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	46	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	59	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	76	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Beta strand	95	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	105	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Beta strand	124	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	132	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Turn	146	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Beta strand	151	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Turn	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Beta strand	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	180	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Beta strand	207	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	
+P54819	UniProtKB	Helix	216	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C9Y	

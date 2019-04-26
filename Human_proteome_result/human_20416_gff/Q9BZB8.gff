@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q9BZB8 1 566
+Q9BZB8	UniProtKB	Chain	1	566	.	.	.	ID=PRO_0000269251;Note=Cytoplasmic polyadenylation element-binding protein 1	
+Q9BZB8	UniProtKB	Domain	311	408	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9BZB8	UniProtKB	Domain	430	511	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9BZB8	UniProtKB	Region	330	566	.	.	.	Note=Necessary for stress granule assembly and correct localization in dcp1 bodies	
+Q9BZB8	UniProtKB	Compositional bias	178	217	.	.	.	Note=Ser-rich	
+Q9BZB8	UniProtKB	Metal binding	515	515	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	518	518	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	527	527	.	.	.	Note=Zinc 2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	532	532	.	.	.	Note=Zinc 2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	537	537	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	540	540	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	545	545	.	.	.	Note=Zinc 2%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Metal binding	553	553	.	.	.	Note=Zinc 2%3B via pros nitrogen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2M13,ECO:0000244|PDB:2MKE,ECO:0000269|PubMed:23500490;Dbxref=PMID:23500490	
+Q9BZB8	UniProtKB	Site	411	411	.	.	.	Note=Important for the positionning of RRM1 relative to RRM2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24990967;Dbxref=PMID:24990967	
+Q9BZB8	UniProtKB	Modified residue	43	43	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q9BZB8	UniProtKB	Modified residue	172	172	.	.	.	Note=Phosphothreonine%3B by AURKA and CAMK2A;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70166	
+Q9BZB8	UniProtKB	Alternative sequence	1	75	.	.	.	ID=VSP_022027;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11223249,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11223249,PMID:14702039,PMID:15489334	
+Q9BZB8	UniProtKB	Alternative sequence	1	5	.	.	.	ID=VSP_022028;Note=In isoform 3. MALSL->MAFPL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9BZB8	UniProtKB	Alternative sequence	354	358	.	.	.	ID=VSP_022029;Note=In isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9BZB8	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_076387;Note=Missing	
+Q9BZB8	UniProtKB	Natural variant	233	233	.	.	.	ID=VAR_076388;Note=M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26063658;Dbxref=PMID:26063658	
+Q9BZB8	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Does not affect its localization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15731006;Dbxref=PMID:15731006	
+Q9BZB8	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Does not affect its localization. T->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15731006;Dbxref=PMID:15731006	
+Q9BZB8	UniProtKB	Mutagenesis	314	314	.	.	.	Note=Abolishes stress granule assembly and correct localization in dcp1 bodies. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15731006;Dbxref=PMID:15731006	
+Q9BZB8	UniProtKB	Mutagenesis	545	545	.	.	.	Note=Abolishes stress granule assembly and correct localization in dcp1 bodies. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15731006;Dbxref=PMID:15731006	
+Q9BZB8	UniProtKB	Sequence conflict	446	446	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BZB8	UniProtKB	Beta strand	294	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	309	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Helix	324	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Helix	332	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	337	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Turn	342	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	361	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Helix	370	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	379	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	387	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	391	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	399	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	406	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Helix	413	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	417	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	431	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Helix	443	453	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	458	462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	466	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKK	
+Q9BZB8	UniProtKB	Beta strand	472	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	479	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Helix	482	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	492	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Beta strand	501	507	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKH	
+Q9BZB8	UniProtKB	Turn	508	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M13	
+Q9BZB8	UniProtKB	Turn	516	518	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M13	
+Q9BZB8	UniProtKB	Beta strand	524	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M13	
+Q9BZB8	UniProtKB	Turn	530	532	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M13	
+Q9BZB8	UniProtKB	Beta strand	534	536	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M13	
+Q9BZB8	UniProtKB	Helix	538	545	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M13	
+Q9BZB8	UniProtKB	Helix	548	550	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MKE	

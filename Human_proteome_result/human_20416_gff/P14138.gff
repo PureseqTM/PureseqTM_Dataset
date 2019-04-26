@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region P14138 1 238
+P14138	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P14138	UniProtKB	Propeptide	17	94	.	.	.	ID=PRO_0000008111	
+P14138	UniProtKB	Peptide	97	117	.	.	.	ID=PRO_0000008112;Note=Endothelin-3	
+P14138	UniProtKB	Propeptide	118	238	.	.	.	ID=PRO_0000008113	
+P14138	UniProtKB	Region	159	173	.	.	.	Note=Endothelin-like	
+P14138	UniProtKB	Site	117	118	.	.	.	Note=Cleavage%3B by KEL	
+P14138	UniProtKB	Disulfide bond	97	111	.	.	.	.	
+P14138	UniProtKB	Disulfide bond	99	107	.	.	.	.	
+P14138	UniProtKB	Alternative sequence	181	196	.	.	.	ID=VSP_001445;Note=In isoform Short. SNSRTAEKTDKEEEGK->RQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2178974;Dbxref=PMID:2178974	
+P14138	UniProtKB	Alternative sequence	198	238	.	.	.	ID=VSP_043139;Note=In isoform 3. EVKDQQSKQALDLHHPKLMPGSGLALAPSTCPRCLFQEGAP->RGANRGLCQRRLKSRTNKASRL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P14138	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_009078;Note=A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:27535533,ECO:0000269|PubMed:9359047,ECO:0000269|Ref.4;Dbxref=dbSNP:rs11570255,PMID:27535533,PMID:9359047	
+P14138	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_015238;Note=In WS4B. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12189494;Dbxref=dbSNP:rs752400458,PMID:12189494	
+P14138	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_002353;Note=In WS4B. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8630503;Dbxref=dbSNP:rs74315384,PMID:8630503	
+P14138	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_009079;Note=In HSCR4. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9359047;Dbxref=dbSNP:rs11570351,PMID:9359047	
+P14138	UniProtKB	Helix	105	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6IGK	

@@ -1,0 +1,83 @@
+##gff-version 3
+##sequence-region Q96P20 1 1036
+Q96P20	UniProtKB	Chain	1	1036	.	.	.	ID=PRO_0000080886;Note=NACHT%2C LRR and PYD domains-containing protein 3	
+Q96P20	UniProtKB	Domain	1	93	.	.	.	Note=Pyrin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00061	
+Q96P20	UniProtKB	Domain	220	536	.	.	.	Note=NACHT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00136	
+Q96P20	UniProtKB	Repeat	742	762	.	.	.	Note=LRR 1	
+Q96P20	UniProtKB	Repeat	771	792	.	.	.	Note=LRR 2	
+Q96P20	UniProtKB	Repeat	799	819	.	.	.	Note=LRR 3	
+Q96P20	UniProtKB	Repeat	828	849	.	.	.	Note=LRR 4	
+Q96P20	UniProtKB	Repeat	856	876	.	.	.	Note=LRR 5	
+Q96P20	UniProtKB	Repeat	885	906	.	.	.	Note=LRR 6	
+Q96P20	UniProtKB	Repeat	913	933	.	.	.	Note=LRR 7	
+Q96P20	UniProtKB	Repeat	942	963	.	.	.	Note=LRR 8	
+Q96P20	UniProtKB	Repeat	970	991	.	.	.	Note=LRR 9	
+Q96P20	UniProtKB	Nucleotide binding	226	233	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00136	
+Q96P20	UniProtKB	Compositional bias	690	697	.	.	.	Note=Poly-Glu	
+Q96P20	UniProtKB	Disulfide bond	8	108	.	.	.	Note=Redox-active;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880711;Dbxref=PMID:21880711	
+Q96P20	UniProtKB	Alternative sequence	720	1036	.	.	.	ID=VSP_005519;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12355493;Dbxref=PMID:12355493	
+Q96P20	UniProtKB	Alternative sequence	721	777	.	.	.	ID=VSP_005520;Note=In isoform 1 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11042152,ECO:0000303|PubMed:11687797,ECO:0000303|PubMed:12355493,ECO:0000303|PubMed:14662828,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11042152,PMID:11687797,PMID:12355493,PMID:14662828,PMID:14702039,PMID:15489334	
+Q96P20	UniProtKB	Alternative sequence	776	796	.	.	.	ID=VSP_053714;Note=In isoform 6. WLGRCGLSHECCFDISLVLSS->C;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96P20	UniProtKB	Alternative sequence	836	892	.	.	.	ID=VSP_005521;Note=In isoform 1 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11042152,ECO:0000303|PubMed:11687797,ECO:0000303|PubMed:12355493,ECO:0000303|PubMed:14662828,ECO:0000303|PubMed:14702039,ECO:0000303|Ref.5;Dbxref=PMID:11042152,PMID:11687797,PMID:12355493,PMID:14662828,PMID:14702039	
+Q96P20	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_080490;Note=In KEFH. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29366613;Dbxref=dbSNP:rs200154873,PMID:29366613	
+Q96P20	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_043679;Note=In CINCA. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15231984;Dbxref=dbSNP:rs180177449,PMID:15231984	
+Q96P20	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_013227;Note=In FCAS1 and MWS. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11687797,ECO:0000269|PubMed:11992256,ECO:0000269|PubMed:12355493,ECO:0000269|PubMed:15593220;Dbxref=dbSNP:rs121908147,PMID:11687797,PMID:11992256,PMID:12355493,PMID:15593220	
+Q96P20	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_043680;Note=In CINCA. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177442,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_043681;Note=In CINCA. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177442,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_014104;Note=In FCAS1 and MWS%3B spontaneous polymerization into inflammasome speck. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992256,ECO:0000269|PubMed:12355493,ECO:0000269|PubMed:24952504;Dbxref=PMID:11992256,PMID:12355493,PMID:24952504	
+Q96P20	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_043682;Note=In CINCA. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12483741;Dbxref=dbSNP:rs180177436,PMID:12483741	
+Q96P20	UniProtKB	Natural variant	305	305	.	.	.	ID=VAR_043683;Note=In CINCA. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177447,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	305	305	.	.	.	ID=VAR_014105;Note=In CINCA and MWS%3B spontaneous polymerization into inflammasome speck. D->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992256,ECO:0000269|PubMed:12032915,ECO:0000269|PubMed:12483741,ECO:0000269|PubMed:14630794,ECO:0000269|PubMed:15593220,ECO:0000269|PubMed:24952504;Dbxref=dbSNP:rs121908153,PMID:11992256,PMID:12032915,PMID:12483741,PMID:14630794,PMID:15593220,PMID:24952504	
+Q96P20	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_014124;Note=In FCAS1 and MWS. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12355493,ECO:0000269|PubMed:15593220;Dbxref=dbSNP:rs180177431,PMID:12355493,PMID:15593220	
+Q96P20	UniProtKB	Natural variant	308	308	.	.	.	ID=VAR_043684;Note=In CINCA. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12032915;Dbxref=dbSNP:rs180177432,PMID:12032915	
+Q96P20	UniProtKB	Natural variant	311	311	.	.	.	ID=VAR_014106;Note=In CINCA. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12032915,ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs121908154,PMID:12032915,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_014366;Note=In MWS and CINCA%3B spontaneous polymerization into inflammasome speck. T->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992256,ECO:0000269|PubMed:14630794,ECO:0000269|PubMed:15593220,ECO:0000269|PubMed:24952504;Dbxref=dbSNP:rs151344629,PMID:11992256,PMID:14630794,PMID:15593220,PMID:24952504	
+Q96P20	UniProtKB	Natural variant	354	354	.	.	.	ID=VAR_013228;Note=In MWS. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11687797;Dbxref=dbSNP:rs121908149,PMID:11687797	
+Q96P20	UniProtKB	Natural variant	355	355	.	.	.	ID=VAR_043685;Note=In FCAS1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12522564;Dbxref=dbSNP:rs28937896,PMID:12522564	
+Q96P20	UniProtKB	Natural variant	356	356	.	.	.	ID=VAR_043686;Note=In CINCA. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177444,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_014367;Note=In CINCA. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12032915;Dbxref=dbSNP:rs180177434,PMID:12032915	
+Q96P20	UniProtKB	Natural variant	407	407	.	.	.	ID=VAR_043687;Note=In CINCA. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177445,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_043688;Note=In CINCA. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177433,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_014368;Note=In CINCA. T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12032915;Dbxref=dbSNP:rs180177433,PMID:12032915	
+Q96P20	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_014369;Note=In MWS. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992256;Dbxref=dbSNP:rs180177430,PMID:11992256	
+Q96P20	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_013229;Note=In FCAS1. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11687797;Dbxref=dbSNP:rs121908146,PMID:11687797	
+Q96P20	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_043689;Note=In FCAS1. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15593220;Dbxref=dbSNP:rs145268073,PMID:15593220	
+Q96P20	UniProtKB	Natural variant	525	525	.	.	.	ID=VAR_031853;Note=In FCAS1. F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17284928;Dbxref=dbSNP:rs180177478,PMID:17284928	
+Q96P20	UniProtKB	Natural variant	525	525	.	.	.	ID=VAR_043690;Note=In CINCA. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12483741;Dbxref=dbSNP:rs180177439,PMID:12483741	
+Q96P20	UniProtKB	Natural variant	571	571	.	.	.	ID=VAR_014107;Note=In MWS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992256;Dbxref=dbSNP:rs121908151,PMID:11992256	
+Q96P20	UniProtKB	Natural variant	572	572	.	.	.	ID=VAR_043691;Note=In CINCA. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12483741,ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177438,PMID:12483741,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_014108;Note=In CINCA. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12032915;Dbxref=dbSNP:rs121908152,PMID:12032915	
+Q96P20	UniProtKB	Natural variant	629	629	.	.	.	ID=VAR_013230;Note=In FCAS1. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11687797;Dbxref=dbSNP:rs121908148,PMID:11687797	
+Q96P20	UniProtKB	Natural variant	634	634	.	.	.	ID=VAR_043692;Note=In CINCA. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14630794;Dbxref=dbSNP:rs180177446,PMID:14630794	
+Q96P20	UniProtKB	Natural variant	664	664	.	.	.	ID=VAR_014370;Note=In CINCA. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12032915;Dbxref=dbSNP:rs180177435,PMID:12032915	
+Q96P20	UniProtKB	Natural variant	705	705	.	.	.	ID=VAR_043693;Note=Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12522564;Dbxref=dbSNP:rs35829419,PMID:12522564	
+Q96P20	UniProtKB	Natural variant	861	861	.	.	.	ID=VAR_023551;Note=In CINCA. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15334500;Dbxref=dbSNP:rs180177452,PMID:15334500	
+Q96P20	UniProtKB	Natural variant	920	920	.	.	.	ID=VAR_081008;Note=In DFNA34%3B unknown pathological significance%3B increases inflammatory response. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28847925;Dbxref=PMID:28847925	
+Q96P20	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Complete loss of PYCARD filament nucleation. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Mutagenesis	22	23	.	.	.	Note=Loss of PYCARD-binding. No effect on GBP5-binding. LK->PA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461501;Dbxref=PMID:22461501	
+Q96P20	UniProtKB	Mutagenesis	23	23	.	.	.	Note=Complete loss of PYCARD filament nucleation%3B when associated with E-24. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Complete loss of PYCARD filament nucleation%3B when associated with E-23. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Complete loss of PYCARD filament nucleation. M->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Mutagenesis	43	43	.	.	.	Note=Complete loss of PYCARD filament nucleation. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Complete loss of PYCARD filament nucleation. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Mutagenesis	82	82	.	.	.	Note=Complete loss of PYCARD filament nucleation. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24630722;Dbxref=PMID:24630722	
+Q96P20	UniProtKB	Sequence conflict	167	167	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	167	167	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	167	167	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	323	323	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	323	323	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	323	323	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	439	439	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	523	523	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	599	599	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	617	617	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	617	617	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	617	617	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Sequence conflict	622	623	.	.	.	Note=QI->HD;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96P20	UniProtKB	Helix	6	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	
+Q96P20	UniProtKB	Helix	19	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	
+Q96P20	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	
+Q96P20	UniProtKB	Helix	43	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	
+Q96P20	UniProtKB	Helix	51	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	
+Q96P20	UniProtKB	Helix	64	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	
+Q96P20	UniProtKB	Helix	81	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QF2	

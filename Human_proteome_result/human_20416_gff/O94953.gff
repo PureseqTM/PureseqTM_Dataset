@@ -1,0 +1,74 @@
+##gff-version 3
+##sequence-region O94953 1 1096
+O94953	UniProtKB	Chain	1	1096	.	.	.	ID=PRO_0000183175;Note=Lysine-specific demethylase 4B	
+O94953	UniProtKB	Domain	15	57	.	.	.	Note=JmjN;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00537	
+O94953	UniProtKB	Domain	146	309	.	.	.	Note=JmjC;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00538	
+O94953	UniProtKB	Domain	917	974	.	.	.	Note=Tudor 1	
+O94953	UniProtKB	Domain	975	1031	.	.	.	Note=Tudor 2	
+O94953	UniProtKB	Zinc finger	731	789	.	.	.	Note=PHD-type 1	
+O94953	UniProtKB	Zinc finger	794	827	.	.	.	Note=C2HC pre-PHD-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01146	
+O94953	UniProtKB	Zinc finger	850	907	.	.	.	Note=PHD-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01146	
+O94953	UniProtKB	Compositional bias	463	535	.	.	.	Note=Pro-rich	
+O94953	UniProtKB	Metal binding	189	189	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00538	
+O94953	UniProtKB	Metal binding	191	191	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00538	
+O94953	UniProtKB	Metal binding	235	235	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O94953	UniProtKB	Metal binding	241	241	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O94953	UniProtKB	Metal binding	277	277	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00538	
+O94953	UniProtKB	Metal binding	307	307	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O94953	UniProtKB	Metal binding	309	309	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O94953	UniProtKB	Binding site	133	133	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RXH2	
+O94953	UniProtKB	Binding site	199	199	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RXH2	
+O94953	UniProtKB	Binding site	207	207	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RXH2	
+O94953	UniProtKB	Binding site	242	242	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RXH2	
+O94953	UniProtKB	Modified residue	566	566	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:19690332,PMID:23186163,PMID:24275569	
+O94953	UniProtKB	Modified residue	602	602	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O94953	UniProtKB	Modified residue	1065	1065	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+O94953	UniProtKB	Alternative sequence	373	448	.	.	.	ID=VSP_018307;Note=In isoform 2. SHRKRSQPKKPKPEDPKFPGEGTAGAALLEEAGGSVKEEAGPEVDPEEEEEEPQPLPHGREAEGAEEDGRGKLRPT->TPPCVSPHRPSQPGIWCPPGGEAKASAASWLLTTRGHGDTEAGPGLGGDPLHAQSEGQASCVSTSRLRMATQDPCR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94953	UniProtKB	Alternative sequence	449	1096	.	.	.	ID=VSP_018308;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94953	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_026223;Note=N->T;Dbxref=dbSNP:rs11667206	
+O94953	UniProtKB	Natural variant	710	710	.	.	.	ID=VAR_026224;Note=K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10048485,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2620836,PMID:10048485,PMID:15489334,PMID:17974005	
+O94953	UniProtKB	Mutagenesis	189	191	.	.	.	Note=Abolishes lysine-specific histone demethylase activity. HTE->ATA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28262558;Dbxref=PMID:28262558	
+O94953	UniProtKB	Helix	22	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	28	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	44	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	63	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	67	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	72	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	82	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	95	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Turn	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	115	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	132	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	157	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	160	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Turn	170	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	176	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	185	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	196	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	207	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	214	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	217	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	229	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	238	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	244	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	248	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	259	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	268	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	276	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	283	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	295	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	298	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	319	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Helix	327	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4LXL	
+O94953	UniProtKB	Beta strand	924	928	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Beta strand	934	951	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Beta strand	957	961	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Helix	963	965	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Beta strand	966	969	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Helix	971	974	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Beta strand	982	986	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Beta strand	992	1010	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Beta strand	1015	1019	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	
+O94953	UniProtKB	Helix	1020	1022	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UC4	

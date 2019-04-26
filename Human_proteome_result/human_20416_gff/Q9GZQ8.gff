@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q9GZQ8 1 125
+Q9GZQ8	UniProtKB	Chain	1	120	.	.	.	ID=PRO_0000017198;Note=Microtubule-associated proteins 1A/1B light chain 3B	
+Q9GZQ8	UniProtKB	Propeptide	121	125	.	.	.	ID=PRO_0000017199;Note=Removed in mature form	
+Q9GZQ8	UniProtKB	Site	120	121	.	.	.	Note=Cleavage%3B by ATG4B;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9GZQ8	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphothreonine%3B by PKA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9GZQ8	UniProtKB	Lipidation	120	120	.	.	.	Note=Phosphatidylethanolamine amidated glycine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15187094;Dbxref=PMID:15187094	
+Q9GZQ8	UniProtKB	Mutagenesis	26	26	.	.	.	Note=Increased interaction with WDFY3/ALFY%2C no effect on SQSTM1-binding%3B when associated with Y-27 and D-57. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q9GZQ8	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Increased interaction with WDFY3/ALFY%2C no effect on SQSTM1-binding%3B when associated with K-26 and D-57. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q9GZQ8	UniProtKB	Mutagenesis	52	53	.	.	.	Note=No effect on interaction with TECPR2. FL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20562859;Dbxref=PMID:20562859	
+Q9GZQ8	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Increased interaction with WDFY3/ALFY%2C no effect on SQSTM1-binding%3B when associated with K-26 and Y-27. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q9GZQ8	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Impairs cleavage by ATG4B. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23721406;Dbxref=PMID:23721406	
+Q9GZQ8	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Abolishes interaction with TECPR2. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20562859;Dbxref=PMID:20562859	
+Q9GZQ8	UniProtKB	Mutagenesis	120	120	.	.	.	Note=No processing of precursor. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15355958;Dbxref=PMID:15355958	
+Q9GZQ8	UniProtKB	Mutagenesis	122	122	.	.	.	Note=No effect on processing of precursor. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15355958;Dbxref=PMID:15355958	
+Q9GZQ8	UniProtKB	Sequence conflict	61	61	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9GZQ8	UniProtKB	Helix	2	4	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3X0W	
+Q9GZQ8	UniProtKB	Helix	7	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Helix	13	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Beta strand	30	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Beta strand	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VTW	
+Q9GZQ8	UniProtKB	Beta strand	51	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Helix	60	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Beta strand	75	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DCN	
+Q9GZQ8	UniProtKB	Beta strand	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Turn	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZJD	
+Q9GZQ8	UniProtKB	Turn	89	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VTU	
+Q9GZQ8	UniProtKB	Beta strand	92	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MS5	
+Q9GZQ8	UniProtKB	Helix	95	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Beta strand	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W9A	
+Q9GZQ8	UniProtKB	Beta strand	109	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	
+Q9GZQ8	UniProtKB	Helix	116	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D94	

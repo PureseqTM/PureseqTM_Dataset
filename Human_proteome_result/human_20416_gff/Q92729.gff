@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region Q92729 1 1446
+Q92729	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Chain	19	1446	.	.	.	ID=PRO_0000371658;Note=Receptor-type tyrosine-protein phosphatase U	
+Q92729	UniProtKB	Topological domain	19	749	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Transmembrane	750	770	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Topological domain	771	1446	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Domain	25	188	.	.	.	Note=MAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00128	
+Q92729	UniProtKB	Domain	190	275	.	.	.	Note=Ig-like C2-type	
+Q92729	UniProtKB	Domain	288	383	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q92729	UniProtKB	Domain	386	484	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q92729	UniProtKB	Domain	485	591	.	.	.	Note=Fibronectin type-III 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q92729	UniProtKB	Domain	592	674	.	.	.	Note=Fibronectin type-III 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q92729	UniProtKB	Domain	888	1144	.	.	.	Note=Tyrosine-protein phosphatase 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00160	
+Q92729	UniProtKB	Domain	1176	1439	.	.	.	Note=Tyrosine-protein phosphatase 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00160	
+Q92729	UniProtKB	Region	771	887	.	.	.	Note=Mediates interaction with CTNNB1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q92729	UniProtKB	Region	1085	1091	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q92729	UniProtKB	Active site	1085	1085	.	.	.	Note=Phosphocysteine intermediate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q92729	UniProtKB	Active site	1380	1380	.	.	.	Note=Phosphocysteine intermediate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q92729	UniProtKB	Binding site	1053	1053	.	.	.	Note=Substrate;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Binding site	1129	1129	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q92729	UniProtKB	Modified residue	848	848	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q92729	UniProtKB	Modified residue	853	853	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q92729	UniProtKB	Modified residue	863	863	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B1AUH1	
+Q92729	UniProtKB	Modified residue	865	865	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B1AUH1	
+Q92729	UniProtKB	Glycosylation	75	75	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Glycosylation	410	410	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Glycosylation	685	685	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Disulfide bond	210	264	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92729	UniProtKB	Alternative sequence	774	783	.	.	.	ID=VSP_037082;Note=In isoform 2%2C isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8700514,ECO:0000303|PubMed:9070223,ECO:0000303|PubMed:9434160,ECO:0000303|Ref.9;Dbxref=PMID:15489334,PMID:8700514,PMID:9070223,PMID:9434160	
+Q92729	UniProtKB	Alternative sequence	950	950	.	.	.	ID=VSP_037083;Note=In isoform 4. D->DIRINRE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9434160;Dbxref=PMID:9434160	
+Q92729	UniProtKB	Alternative sequence	993	995	.	.	.	ID=VSP_037084;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q92729	UniProtKB	Alternative sequence	1329	1330	.	.	.	ID=VSP_037085;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9434160;Dbxref=PMID:9434160	
+Q92729	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_055075;Note=T->N;Dbxref=dbSNP:rs35332573	
+Q92729	UniProtKB	Natural variant	471	471	.	.	.	ID=VAR_055076;Note=R->L;Dbxref=dbSNP:rs35745442	
+Q92729	UniProtKB	Natural variant	830	830	.	.	.	ID=VAR_035650;Note=In a colorectal cancer sample%3B somatic mutation. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q92729	UniProtKB	Natural variant	835	835	.	.	.	ID=VAR_035651;Note=In a colorectal cancer sample%3B somatic mutation. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs558954146,PMID:16959974	
+Q92729	UniProtKB	Natural variant	856	856	.	.	.	ID=VAR_035652;Note=In a colorectal cancer sample%3B somatic mutation. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs763868325,PMID:16959974	
+Q92729	UniProtKB	Natural variant	940	940	.	.	.	ID=VAR_055077;Note=N->S;Dbxref=dbSNP:rs2235937	
+Q92729	UniProtKB	Mutagenesis	1085	1085	.	.	.	Note=Loss of phosphatase activity toward CTNNB1. Loss of the inhibitory effect on CTNNB1 transcriptional activity without effect on interaction with CTNNB1%3B when associated with S-1380. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12501215,ECO:0000269|PubMed:16574648;Dbxref=PMID:12501215,PMID:16574648	
+Q92729	UniProtKB	Mutagenesis	1380	1380	.	.	.	Note=No effect on phosphatase activity toward CTNNB1. Loss of the inhibitory effect on CTNNB1 transcriptional activity without effect on interaction with CTNNB1%3B when associated with S-1085. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12501215,ECO:0000269|PubMed:16574648;Dbxref=PMID:12501215,PMID:16574648	
+Q92729	UniProtKB	Sequence conflict	359	360	.	.	.	Note=LT->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	401	401	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	715	715	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	840	841	.	.	.	Note=SG->GW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	1215	1215	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	1245	1245	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	1399	1399	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92729	UniProtKB	Sequence conflict	1436	1436	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

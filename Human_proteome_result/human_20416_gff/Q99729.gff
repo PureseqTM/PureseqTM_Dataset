@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q99729 1 332
+Q99729	UniProtKB	Chain	1	332	.	.	.	ID=PRO_0000081492;Note=Heterogeneous nuclear ribonucleoprotein A/B	
+Q99729	UniProtKB	Domain	69	154	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q99729	UniProtKB	Domain	153	233	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q99729	UniProtKB	Compositional bias	241	324	.	.	.	Note=Gly-rich	
+Q99729	UniProtKB	Modified residue	81	81	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q99729	UniProtKB	Modified residue	215	215	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99020	
+Q99729	UniProtKB	Modified residue	242	242	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:16964243,PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163	
+Q99729	UniProtKB	Modified residue	245	245	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6	
+Q99729	UniProtKB	Modified residue	245	245	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6	
+Q99729	UniProtKB	Modified residue	250	250	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99020	
+Q99729	UniProtKB	Modified residue	253	253	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99020	
+Q99729	UniProtKB	Modified residue	318	318	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99020	
+Q99729	UniProtKB	Modified residue	322	322	.	.	.	Note=Asymmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99020	
+Q99729	UniProtKB	Modified residue	322	322	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15782174;Dbxref=PMID:15782174	
+Q99729	UniProtKB	Modified residue	322	322	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+Q99729	UniProtKB	Cross-link	130	130	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q99729	UniProtKB	Cross-link	203	203	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q99729	UniProtKB	Alternative sequence	26	32	.	.	.	ID=VSP_007826;Note=In isoform 2%2C isoform 3 and isoform 4. ASRGRGW->GESPAGAG;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1717314;Dbxref=PMID:14702039,PMID:15489334,PMID:1717314	
+Q99729	UniProtKB	Alternative sequence	164	165	.	.	.	ID=VSP_007828;Note=In isoform 2 and isoform 3. SP->A;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q99729	UniProtKB	Alternative sequence	264	310	.	.	.	ID=VSP_007829;Note=In isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1717314;Dbxref=PMID:14702039,PMID:15489334,PMID:1717314	
+Q99729	UniProtKB	Beta strand	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Helix	82	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Turn	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Beta strand	95	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Turn	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Beta strand	109	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Helix	121	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Beta strand	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	
+Q99729	UniProtKB	Beta strand	137	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S7R	

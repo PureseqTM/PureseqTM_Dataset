@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q8IXQ6 1 854
+Q8IXQ6	UniProtKB	Chain	1	854	.	.	.	ID=PRO_0000211339;Note=Protein mono-ADP-ribosyltransferase PARP9	
+Q8IXQ6	UniProtKB	Domain	107	296	.	.	.	Note=Macro 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00490	
+Q8IXQ6	UniProtKB	Domain	306	487	.	.	.	Note=Macro 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00490	
+Q8IXQ6	UniProtKB	Domain	628	850	.	.	.	Note=PARP catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00397	
+Q8IXQ6	UniProtKB	Alternative sequence	17	51	.	.	.	ID=VSP_008505;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11110709,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11110709,PMID:14702039,PMID:15489334	
+Q8IXQ6	UniProtKB	Alternative sequence	729	745	.	.	.	ID=VSP_046086;Note=In isoform 3. DPKYGAGIYFTKNLKNL->GRCQCLIIGATLWNLVS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IXQ6	UniProtKB	Alternative sequence	746	854	.	.	.	ID=VSP_046087;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IXQ6	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_056654;Note=S->L;Dbxref=dbSNP:rs34006803	
+Q8IXQ6	UniProtKB	Natural variant	517	517	.	.	.	ID=VAR_056655;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs28365795,PMID:15489334	
+Q8IXQ6	UniProtKB	Natural variant	528	528	.	.	.	ID=VAR_056656;Note=Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11110709,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs9851180,PMID:11110709,PMID:14702039,PMID:15489334	
+Q8IXQ6	UniProtKB	Natural variant	651	651	.	.	.	ID=VAR_056657;Note=T->A;Dbxref=dbSNP:rs6780543	
+Q8IXQ6	UniProtKB	Mutagenesis	147	147	.	.	.	Note=Reduces the binding to poly(ADP-ribose) by 50 percent and prevents increase in DTX3L-mediated histone ubiquitination without affecting ubiquitin ADP ribosylation%2C interaction with DTX3L and STAT1 and DTX3L catalytic activity%3B when associated with E-346. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26479788,ECO:0000269|PubMed:28525742;Dbxref=PMID:26479788,PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	346	346	.	.	.	Note=Reduces the binding to poly(ADP-ribose) by 50 percent and prevents increase in DTX3L-mediated histone ubiquitination without affecting ubiquitin ADP ribosylation%2C interaction with DTX3L and STAT1 and DTX3L catalytic activity%3B when associated with E-147. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26479788,ECO:0000269|PubMed:28525742;Dbxref=PMID:26479788,PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	719	722	.	.	.	Note=Loss of ADP ribosylation activity and interaction with DTX3L. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	737	737	.	.	.	Note=No defect in ubiquitin ADP ribosylation and the interaction with DTX3L. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	738	738	.	.	.	Note=Severe reduction in ubiquitin ADP ribosylation. No effect on the interaction with DTX3L and on DTX3L E3 ligase activity. Increases DNA repair. F->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	766	769	.	.	.	Note=Loss of ADP ribosylation activity and interaction with DTX3L. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	780	784	.	.	.	Note=Reduces ADP ribosylation activity and interaction with DTX3L. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	802	803	.	.	.	Note=No defect in ADP ribosylation and interaction with DTX3L. PE->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Mutagenesis	831	854	.	.	.	Note=No defect in ADP ribosylation and interaction with DTX3L. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+Q8IXQ6	UniProtKB	Sequence conflict	487	487	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXQ6	UniProtKB	Sequence conflict	839	839	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXQ6	UniProtKB	Beta strand	311	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	317	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Helix	326	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	330	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Helix	347	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Helix	358	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	378	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	386	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Helix	402	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	423	427	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	433	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Helix	439	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Beta strand	462	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	
+Q8IXQ6	UniProtKB	Helix	473	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AIL	

@@ -1,0 +1,114 @@
+##gff-version 3
+##sequence-region O15553 1 781
+O15553	UniProtKB	Chain	1	781	.	.	.	ID=PRO_0000220364;Note=Pyrin	
+O15553	UniProtKB	Domain	1	92	.	.	.	Note=Pyrin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00061	
+O15553	UniProtKB	Domain	580	775	.	.	.	Note=B30.2/SPRY;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00548	
+O15553	UniProtKB	Zinc finger	370	412	.	.	.	Note=B box-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00024	
+O15553	UniProtKB	Region	266	280	.	.	.	Note=Interaction with RELA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18577712;Dbxref=PMID:18577712	
+O15553	UniProtKB	Region	420	582	.	.	.	Note=Required for homotrimerization and induction of pyroptosomes	
+O15553	UniProtKB	Coiled coil	413	442	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15553	UniProtKB	Motif	420	437	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15553	UniProtKB	Site	330	331	.	.	.	Note=Cleavage%3B by CASP1;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15553	UniProtKB	Alternative sequence	93	303	.	.	.	ID=VSP_008223;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15553	UniProtKB	Alternative sequence	587	781	.	.	.	ID=VSP_047663;Note=In isoform 3. VPELIGAQAHAVNVILDAETAYPNLIFSDDLKSVRLGNKWERLPDGPQRFDSCIIVLGSPSFLSGRRYWEVEVGDKTAWILGACKTSISRKGNMTLSPENGYWVVIMMKENEYQASSVPPTRLLIKEPPKRVGIFVDYRVGSISFYNVTARSHIYTFASCSFSGPLQPIFSPGTRDGGKNTAPLTICPVGGQGPD->DHSPQHGLGSWEERDYTQHSMQGPKQGVPCLSLLSGQCNLAPLNANAQDFFPYLIFLRSSGADWRSGTCC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15553	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_048398;Note=V->L;Dbxref=dbSNP:rs11466016	
+O15553	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_028326;Note=In arFMF. R->W;Dbxref=dbSNP:rs61754767	
+O15553	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_028327;Note=In arFMF. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378925;Dbxref=dbSNP:rs104895103,PMID:16378925	
+O15553	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_016824;Note=In arFMF. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10854105,ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs11466018,PMID:10854105,PMID:24929125	
+O15553	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_016825;Note=Association with renal amyloidosis. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11139244;Dbxref=PMID:11139244	
+O15553	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_009051;Note=In arFMF and adFMF%3B common mutation%3B associated with S-369 and Q-408 in cis%3B associated with I-694 in some patients. E->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:10737995,ECO:0000269|PubMed:10787449,ECO:0000269|PubMed:10854105,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs3743930,PMID:10364520,PMID:10612841,PMID:10737995,PMID:10787449,PMID:10854105,PMID:16378925,PMID:24929125	
+O15553	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_028328;Note=In arFMF. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378925;Dbxref=dbSNP:rs104895076,PMID:16378925	
+O15553	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_028329;Note=In arFMF. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15024744;Dbxref=dbSNP:rs104895106,PMID:15024744	
+O15553	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_009052;Note=In arFMF. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378925;Dbxref=dbSNP:rs104895079,PMID:16378925	
+O15553	UniProtKB	Natural variant	177	177	.	.	.	ID=VAR_028330;Note=In arFMF. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378925;Dbxref=dbSNP:rs104895143,PMID:16378925	
+O15553	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_072382;Note=In a Turkish patient with arFMF%3B unknown pathological significance. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs104895179,PMID:24929125	
+O15553	UniProtKB	Natural variant	202	202	.	.	.	ID=VAR_009053;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:24929125,ECO:0000269|PubMed:9668175;Dbxref=dbSNP:rs224222,PMID:15489334,PMID:24929125,PMID:9668175	
+O15553	UniProtKB	Natural variant	230	230	.	.	.	ID=VAR_016826;Note=In arFMF. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11470495,ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs104895080,PMID:11470495,PMID:24929125	
+O15553	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_072383;Note=In a Turkish patient with arFMF%3B unknown pathological significance. I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24929125;Dbxref=PMID:24929125	
+O15553	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_009054;Note=In arFMF. T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:23505238;Dbxref=dbSNP:rs104895081,PMID:16378925,PMID:23505238	
+O15553	UniProtKB	Natural variant	283	283	.	.	.	ID=VAR_072384;Note=In Turkish patients with arFMF%3B unknown pathological significance. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs104895119,PMID:24929125	
+O15553	UniProtKB	Natural variant	304	304	.	.	.	ID=VAR_072385;Note=In a Turkish patient with arFMF%3B unknown pathological significance. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs75977701,PMID:24929125	
+O15553	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_028331;Note=In arFMF. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15024744;Dbxref=dbSNP:rs104895110,PMID:15024744	
+O15553	UniProtKB	Natural variant	369	369	.	.	.	ID=VAR_009055;Note=In arFMF%3B unknown pathological significance%3B associated with Q-148 and Q-408 in cis. P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:23505238;Dbxref=dbSNP:rs11466023,PMID:10364520,PMID:23505238	
+O15553	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_009056;Note=In arFMF%3B associated with Q-148 and S-369 in cis. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:23505238;Dbxref=dbSNP:rs11466024,PMID:10364520,PMID:23505238	
+O15553	UniProtKB	Natural variant	440	440	.	.	.	ID=VAR_024376;Note=Q->E;Dbxref=dbSNP:rs11466026	
+O15553	UniProtKB	Natural variant	474	474	.	.	.	ID=VAR_028332;Note=In arFMF. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378925;Dbxref=dbSNP:rs104895104,PMID:16378925	
+O15553	UniProtKB	Natural variant	478	478	.	.	.	ID=VAR_028333;Note=In adFMF%3B severe. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14679589;Dbxref=dbSNP:rs104895105,PMID:14679589	
+O15553	UniProtKB	Natural variant	479	479	.	.	.	ID=VAR_009057;Note=In arFMF. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:16378925;Dbxref=dbSNP:rs104895083,PMID:10364520,PMID:16378925	
+O15553	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_070795;Note=Probable disease-associated mutation found in an autosomal dominant autoinflammatory disease with some similarities to familial Mediterranean fever. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23505238;Dbxref=PMID:23505238	
+O15553	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_070796;Note=Probable disease-associated mutation found in an autosomal dominant autoinflammatory disease with some similarities to familial Mediterranean fever. T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23505238;Dbxref=dbSNP:rs1057516210,PMID:23505238	
+O15553	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_070797;Note=Probable disease-associated mutation found in an autosomal dominant autoinflammatory disease with some similarities to familial Mediterranean fever. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23505238;Dbxref=dbSNP:rs104895193,PMID:23505238	
+O15553	UniProtKB	Natural variant	585	585	.	.	.	ID=VAR_028334;Note=F->L;Dbxref=dbSNP:rs11466043	
+O15553	UniProtKB	Natural variant	591	591	.	.	.	ID=VAR_016827;Note=In arFMF%3B unknown pathological significance. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12124996;Dbxref=dbSNP:rs11466045,PMID:12124996	
+O15553	UniProtKB	Natural variant	632	632	.	.	.	ID=VAR_072386;Note=In a Turkish patient with arFMF%3B unknown pathological significance. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs967990798,PMID:24929125	
+O15553	UniProtKB	Natural variant	632	632	.	.	.	ID=VAR_028335;Note=In arFMF. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895128,PMID:16730661	
+O15553	UniProtKB	Natural variant	640	640	.	.	.	ID=VAR_028336;Note=In arFMF. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895115,PMID:16730661	
+O15553	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_028337;Note=In arFMF. I->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895147,PMID:16730661	
+O15553	UniProtKB	Natural variant	646	646	.	.	.	ID=VAR_028338;Note=In arFMF. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895107,PMID:16730661	
+O15553	UniProtKB	Natural variant	649	649	.	.	.	ID=VAR_028339;Note=In arFMF. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895108,PMID:16730661	
+O15553	UniProtKB	Natural variant	653	653	.	.	.	ID=VAR_016828;Note=In arFMF. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11470495,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895085,PMID:11470495,PMID:16378925,PMID:16730661	
+O15553	UniProtKB	Natural variant	656	656	.	.	.	ID=VAR_028340;Note=In arFMF. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895086,PMID:16730661	
+O15553	UniProtKB	Natural variant	661	661	.	.	.	ID=VAR_028341;Note=In arFMF. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895120,PMID:16730661	
+O15553	UniProtKB	Natural variant	675	675	.	.	.	ID=VAR_016829;Note=In arFMF. S->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10842288,ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895087,PMID:10842288,PMID:16730661	
+O15553	UniProtKB	Natural variant	678	678	.	.	.	ID=VAR_028342;Note=In arFMF. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895088,PMID:16730661	
+O15553	UniProtKB	Natural variant	680	680	.	.	.	ID=VAR_028343;Note=In arFMF and adFMF%3B reduced CASP1 interaction%3B decreased interaction with ULK1 and diminished NLRP3 degradation after induction of autophagy by starvation%3B when associated with V-694 (PubMed:26347139). M->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10024914,ECO:0000269|PubMed:10234504,ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:10787449,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16785446,ECO:0000269|PubMed:24929125,ECO:0000269|PubMed:26347139,ECO:0000269|PubMed:9288094,ECO:0000269|PubMed:9288758;Dbxref=dbSNP:rs28940580,PMID:10024914,PMID:10234504,PMID:10364520,PMID:10612841,PMID:10787449,PMID:16378925,PMID:16785446,PMID:24929125,PMID:26347139,PMID:9288094,PMID:9288758	
+O15553	UniProtKB	Natural variant	680	680	.	.	.	ID=VAR_016830;Note=In arFMF. M->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10842288,ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895089,PMID:10842288,PMID:16730661	
+O15553	UniProtKB	Natural variant	681	681	.	.	.	ID=VAR_009059;Note=In arFMF. T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10024914,ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895090,PMID:10024914,PMID:16730661	
+O15553	UniProtKB	Natural variant	688	688	.	.	.	ID=VAR_028344;Note=In arFMF. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895122,PMID:16730661	
+O15553	UniProtKB	Natural variant	692	692	.	.	.	ID=VAR_009060;Note=In arFMF. Missing	
+O15553	UniProtKB	Natural variant	694	694	.	.	.	ID=VAR_009061;Note=In arFMF and adFMF%3B associated with Q-148 in some patients. M->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10024914,ECO:0000269|PubMed:10234504,ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:10787449,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661,ECO:0000269|PubMed:24929125,ECO:0000269|PubMed:9288094;Dbxref=dbSNP:rs28940578,PMID:10024914,PMID:10234504,PMID:10612841,PMID:10787449,PMID:16378925,PMID:16730661,PMID:24929125,PMID:9288094	
+O15553	UniProtKB	Natural variant	694	694	.	.	.	ID=VAR_070798;Note=In arFMF. M->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23031807;Dbxref=PMID:23031807	
+O15553	UniProtKB	Natural variant	694	694	.	.	.	ID=VAR_028345;Note=In arFMF. M->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs61752717,PMID:16730661	
+O15553	UniProtKB	Natural variant	694	694	.	.	.	ID=VAR_009062;Note=In arFMF and adFMF%3B very common mutation particularly in North African Jews%3B can be associated with amyloidosis development%3B reduced interaction with CASP1 and with ULK1 and diminished NLRP3 degradation after induction of autophagy by starvation (PubMed:16785446) (PubMed:26347139)%3B effect on autophagic NLRP3 degradation is increased%3B when associated with I-680%3B no effect on interaction with CASP1%2C CASP5%2C NLRP1%2C NLRP2 or NLRP3 (PubMed:17431422). M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10024914,ECO:0000269|PubMed:10234504,ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:10787449,ECO:0000269|PubMed:10854105,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661,ECO:0000269|PubMed:16785446,ECO:0000269|PubMed:17431422,ECO:0000269|PubMed:24929125,ECO:0000269|PubMed:26347139,ECO:0000269|PubMed:9288758;Dbxref=dbSNP:rs61752717,PMID:10024914,PMID:10234504,PMID:10364520,PMID:10612841,PMID:10787449,PMID:10854105,PMID:16378925,PMID:16730661,PMID:16785446,PMID:17431422,PMID:24929125,PMID:26347139,PMID:9288758	
+O15553	UniProtKB	Natural variant	694	694	.	.	.	ID=VAR_009063;Note=In arFMF and adFMF. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10024914,ECO:0000269|PubMed:10787449;Dbxref=PMID:10024914,PMID:10787449	
+O15553	UniProtKB	Natural variant	695	695	.	.	.	ID=VAR_028346;Note=In arFMF. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895094,PMID:16730661	
+O15553	UniProtKB	Natural variant	695	695	.	.	.	ID=VAR_009064;Note=In arFMF%3B reduced penetrance among Ashkenazi Jews. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661,ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs104895094,PMID:10612841,PMID:16378925,PMID:16730661,PMID:24929125	
+O15553	UniProtKB	Natural variant	702	702	.	.	.	ID=VAR_028347;Note=In one patient with familial Mediterranean fever. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895166,PMID:16730661	
+O15553	UniProtKB	Natural variant	704	704	.	.	.	ID=VAR_028348;Note=In arFMF. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895096,PMID:16730661	
+O15553	UniProtKB	Natural variant	705	705	.	.	.	ID=VAR_028349;Note=In arFMF. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895145,PMID:16730661	
+O15553	UniProtKB	Natural variant	720	720	.	.	.	ID=VAR_028350;Note=In arFMF. I->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895102,PMID:16378925,PMID:16730661	
+O15553	UniProtKB	Natural variant	726	726	.	.	.	ID=VAR_009065;Note=In arFMF%3B common mutation%3B in Iraqi and Ashkenazi Jews%2C Druze%2C Armenians%3B reduced interaction with CASP1 and ULK1 and diminished NLRP3 degradation after induction of autophagy by starvation%3B when associated with I-680 and V-694%3B no effect on CASP1 activation. V->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10024914,ECO:0000269|PubMed:10234504,ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661,ECO:0000269|PubMed:16785446,ECO:0000269|PubMed:24929125,ECO:0000269|PubMed:9288758;Dbxref=dbSNP:rs28940579,PMID:10024914,PMID:10234504,PMID:10364520,PMID:10612841,PMID:16378925,PMID:16730661,PMID:16785446,PMID:24929125,PMID:9288758	
+O15553	UniProtKB	Natural variant	743	743	.	.	.	ID=VAR_028351;Note=In arFMF. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895152,PMID:16730661	
+O15553	UniProtKB	Natural variant	744	744	.	.	.	ID=VAR_009066;Note=In arFMF%3B uncertain pathological significance. A->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15024744,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661,ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs61732874,PMID:15024744,PMID:16378925,PMID:16730661,PMID:24929125	
+O15553	UniProtKB	Natural variant	758	758	.	.	.	ID=VAR_028352;Note=In arFMF. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895114,PMID:16730661	
+O15553	UniProtKB	Natural variant	761	761	.	.	.	ID=VAR_009067;Note=In arFMF. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10364520,ECO:0000269|PubMed:10612841,ECO:0000269|PubMed:16378925,ECO:0000269|PubMed:16730661,ECO:0000269|PubMed:24929125;Dbxref=dbSNP:rs104895097,PMID:10364520,PMID:10612841,PMID:16378925,PMID:16730661,PMID:24929125	
+O15553	UniProtKB	Natural variant	780	780	.	.	.	ID=VAR_028353;Note=In arFMF. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16730661;Dbxref=dbSNP:rs104895154,PMID:16730661	
+O15553	UniProtKB	Mutagenesis	16	16	.	.	.	Note=Does not form MEFV- and PSTPIP1-containing perinuclear specks. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16037825;Dbxref=PMID:16037825	
+O15553	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Does not form MEFV- and PSTPIP1-containing perinuclear specks. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16037825;Dbxref=PMID:16037825	
+O15553	UniProtKB	Mutagenesis	330	330	.	.	.	Note=Loss of cleavage by CASP1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18577712;Dbxref=PMID:18577712	
+O15553	UniProtKB	Mutagenesis	397	404	.	.	.	Note=No effect on GABARAP-binding. Loss of GABARAP-binding%3B when associated with 470-Y--G-488 and 523-S--D-530. Missing	
+O15553	UniProtKB	Mutagenesis	470	488	.	.	.	Note=No effect on GABARAP-binding. Loss of GABARAP-binding%3B when associated with 397-I--H-404 and 523-S--D-530. Missing	
+O15553	UniProtKB	Mutagenesis	523	530	.	.	.	Note=No effect on GABARAP-binding. Loss of GABARAP-binding%3B when associated with 397-I--H-404 and 470-Y--G-488. Missing	
+O15553	UniProtKB	Helix	5	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Helix	18	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Helix	42	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Turn	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Helix	53	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Helix	63	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Helix	80	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPC	
+O15553	UniProtKB	Helix	414	519	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CG4	
+O15553	UniProtKB	Helix	524	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CG4	
+O15553	UniProtKB	Helix	531	539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CG4	
+O15553	UniProtKB	Helix	551	583	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CG4	
+O15553	UniProtKB	Helix	584	586	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CG4	
+O15553	UniProtKB	Helix	590	594	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Turn	604	606	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	611	613	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	619	622	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	637	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	642	645	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	650	658	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	665	671	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	676	678	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Helix	684	686	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	688	695	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	698	701	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	707	709	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CG4	
+O15553	UniProtKB	Beta strand	716	723	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Turn	724	727	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	728	733	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Turn	734	737	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	738	743	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	752	757	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Helix	762	764	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	
+O15553	UniProtKB	Beta strand	770	773	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL1	

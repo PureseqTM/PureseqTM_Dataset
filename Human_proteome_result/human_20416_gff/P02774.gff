@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region P02774 1 474
+P02774	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:218624,ECO:0000269|PubMed:2423133;Dbxref=PMID:218624,PMID:2423133	
+P02774	UniProtKB	Chain	17	474	.	.	.	ID=PRO_0000001102;Note=Vitamin D-binding protein	
+P02774	UniProtKB	Domain	17	208	.	.	.	Note=Albumin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00769	
+P02774	UniProtKB	Domain	209	394	.	.	.	Note=Albumin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00769	
+P02774	UniProtKB	Domain	395	474	.	.	.	Note=Albumin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00769	
+P02774	UniProtKB	Disulfide bond	29	75	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	74	83	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00769	
+P02774	UniProtKB	Disulfide bond	96	112	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	111	122	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	145	190	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	189	198	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	220	266	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	265	273	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	286	300	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	299	311	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	335	376	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	375	384	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	407	453	.	.	.	.	
+P02774	UniProtKB	Disulfide bond	452	462	.	.	.	.	
+P02774	UniProtKB	Alternative sequence	1	122	.	.	.	ID=VSP_038427;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P02774	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_044523;Note=In isoform 3. M->MLWSWSEERGGAARLSGRKM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P02774	UniProtKB	Natural variant	432	432	.	.	.	ID=VAR_000548;Note=In allele GC*1S. D->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1352271,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:20079467,ECO:0000269|PubMed:2416779,ECO:0000269|PubMed:7505619,ECO:0000269|PubMed:8325650,ECO:0000269|Ref.6,ECO:0000269|Ref.8;Dbxref=dbSNP:rs7041,PMID:1352271,PMID:14702039,PMID:20079467,PMID:2416779,PMID:7505619,PMID:8325650	
+P02774	UniProtKB	Natural variant	436	436	.	.	.	ID=VAR_000549;Note=In allele GC*2%2C allele GC*2A9. T->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1352271,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:2415977,ECO:0000269|PubMed:7725672;Dbxref=dbSNP:rs4588,PMID:1352271,PMID:14702039,PMID:2415977,PMID:7725672	
+P02774	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_014120;Note=In allele GC*2A9%3B requires 2 nucleotide substitutions. H->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7725672;Dbxref=PMID:7725672	
+P02774	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_014121;Note=In allele GC*1F%2C allele GC*2 and allele GC*1S. H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1352271,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:20079467,ECO:0000269|PubMed:2415977,ECO:0000269|PubMed:2416779,ECO:0000269|PubMed:7505619,ECO:0000269|PubMed:7725672,ECO:0000269|PubMed:8325650,ECO:0000269|Ref.6,ECO:0000269|Ref.8;Dbxref=dbSNP:rs9016,PMID:1352271,PMID:14702039,PMID:15489334,PMID:20079467,PMID:2415977,PMID:2416779,PMID:7505619,PMID:7725672,PMID:8325650	
+P02774	UniProtKB	Sequence conflict	168	168	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P02774	UniProtKB	Sequence conflict	183	183	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P02774	UniProtKB	Sequence conflict	327	327	.	.	.	Note=E->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P02774	UniProtKB	Helix	23	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	37	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	57	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Beta strand	76	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KW2	
+P02774	UniProtKB	Turn	80	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1J78	
+P02774	UniProtKB	Helix	83	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Beta strand	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1J78	
+P02774	UniProtKB	Helix	108	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KW2	
+P02774	UniProtKB	Helix	116	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KW2	
+P02774	UniProtKB	Helix	141	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	152	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	172	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Beta strand	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	195	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	228	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	248	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	273	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Turn	290	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	294	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Beta strand	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	305	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	331	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Beta strand	336	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LOT	
+P02774	UniProtKB	Helix	340	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	358	373	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Turn	374	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	381	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Turn	407	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	415	429	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	435	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	
+P02774	UniProtKB	Helix	459	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KXP	

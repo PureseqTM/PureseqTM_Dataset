@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region Q9H3Y6 1 488
+Q9H3Y6	UniProtKB	Chain	1	488	.	.	.	ID=PRO_0000088160;Note=Tyrosine-protein kinase Srms	
+Q9H3Y6	UniProtKB	Domain	51	112	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q9H3Y6	UniProtKB	Domain	120	212	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q9H3Y6	UniProtKB	Domain	230	488	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9H3Y6	UniProtKB	Nucleotide binding	236	244	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9H3Y6	UniProtKB	Active site	350	350	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+Q9H3Y6	UniProtKB	Binding site	258	258	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9H3Y6	UniProtKB	Modified residue	380	380	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23822091;Dbxref=PMID:23822091	
+Q9H3Y6	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_041831;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56053583,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_041832;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55863722,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_041833;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35558836,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_051700;Note=P->L;Dbxref=dbSNP:rs378483	
+Q9H3Y6	UniProtKB	Natural variant	255	255	.	.	.	ID=VAR_051701;Note=V->M;Dbxref=dbSNP:rs34969822	
+Q9H3Y6	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_041834;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs310657,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	325	325	.	.	.	ID=VAR_051702;Note=P->L;Dbxref=dbSNP:rs8122355	
+Q9H3Y6	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_041835;Note=D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55838540,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	397	397	.	.	.	ID=VAR_041836;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs6011889,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	452	452	.	.	.	ID=VAR_041837;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs8120713,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	453	453	.	.	.	ID=VAR_041838;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs310655,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	457	457	.	.	.	ID=VAR_041839;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs310654,PMID:17344846	
+Q9H3Y6	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_041840;Note=S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs33933649,PMID:17344846	
+Q9H3Y6	UniProtKB	Mutagenesis	223	223	.	.	.	Note=Loss of kinase activity. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23822091;Dbxref=PMID:23822091	
+Q9H3Y6	UniProtKB	Mutagenesis	258	258	.	.	.	Note=Loss of kinase activity. Exhibits a diffused cytoplasmic localization. No effect on interaction with KHDRBS1 or VIM but abolishes tyrosine phosphorylation of both substrates. K->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23822091,ECO:0000269|PubMed:29496907;Dbxref=PMID:23822091,PMID:29496907	
+Q9H3Y6	UniProtKB	Mutagenesis	380	380	.	.	.	Note=Significant reduction in phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23822091;Dbxref=PMID:23822091	

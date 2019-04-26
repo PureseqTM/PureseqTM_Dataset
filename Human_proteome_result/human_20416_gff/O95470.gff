@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region O95470 1 568
+O95470	UniProtKB	Chain	1	568	.	.	.	ID=PRO_0000147012;Note=Sphingosine-1-phosphate lyase 1	
+O95470	UniProtKB	Topological domain	1	40	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95470	UniProtKB	Transmembrane	41	61	.	.	.	Note=Helical%3B Signal-anchor for type III membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95470	UniProtKB	Topological domain	62	568	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95470	UniProtKB	Modified residue	353	353	.	.	.	Note=N6-(pyridoxal phosphate)lysine%3B alternate	
+O95470	UniProtKB	Modified residue	353	353	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O95470	UniProtKB	Modified residue	356	356	.	.	.	Note=Nitrated tyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:16777052;Dbxref=PMID:16777052	
+O95470	UniProtKB	Modified residue	366	366	.	.	.	Note=Nitrated tyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:16777052;Dbxref=PMID:16777052	
+O95470	UniProtKB	Modified residue	564	564	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+O95470	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_048875;Note=V->L;Dbxref=dbSNP:rs12770335	
+O95470	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_079213;Note=In NPHS14%3B decreased protein abundance%3B increased aggregation%3B decreased sphinganine-1-phosphate aldolase activity. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:28165339,ECO:0000269|PubMed:28165343;Dbxref=dbSNP:rs769259446,PMID:28165339,PMID:28165343	
+O95470	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_079214;Note=In NPHS14. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28165339;Dbxref=dbSNP:rs1131692255,PMID:28165339	
+O95470	UniProtKB	Natural variant	346	346	.	.	.	ID=VAR_079215;Note=In NPHS1%3B decreased protein abundance in cells of patients homozygous for the mutation%3B increased aggregation%3B decreased sphinganine-1-phosphate aldolase activity. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28165339;Dbxref=dbSNP:rs1131692256,PMID:28165339	
+O95470	UniProtKB	Natural variant	416	416	.	.	.	ID=VAR_079216;Note=In NPHS14%3B unknown pathological significance. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28165339;Dbxref=dbSNP:rs779485098,PMID:28165339	
+O95470	UniProtKB	Natural variant	505	568	.	.	.	ID=VAR_079217;Note=In NPHS14. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28181337;Dbxref=PMID:28181337	
+O95470	UniProtKB	Natural variant	545	545	.	.	.	ID=VAR_079218;Note=In NPHS14%3B decreased protein abundance. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28165343;Dbxref=PMID:28165343	
+O95470	UniProtKB	Mutagenesis	132	132	.	.	.	Note=No effect on the sphinganine-1-phosphate aldolase activity%3B no effect on protein abundance. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28165339;Dbxref=PMID:28165339	
+O95470	UniProtKB	Mutagenesis	218	218	.	.	.	Note=Loss of sphinganine-1-phosphate aldolase activity. C->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018465;Dbxref=PMID:11018465	
+O95470	UniProtKB	Mutagenesis	317	317	.	.	.	Note=Almost no sphinganine-1-phosphate aldolase activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018465;Dbxref=PMID:11018465	
+O95470	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Loss of sphinganine-1-phosphate aldolase activity. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14570870;Dbxref=PMID:14570870	
+O95470	UniProtKB	Sequence conflict	404	404	.	.	.	Note=C->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95470	UniProtKB	Helix	123	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	135	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	139	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	145	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	154	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	166	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	179	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	203	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	210	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	234	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	244	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	255	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	269	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	280	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	290	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	298	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	312	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	317	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	320	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	324	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	344	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	362	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	369	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	373	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	377	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	387	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	398	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	448	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	456	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	461	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	475	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Turn	478	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Beta strand	482	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	489	494	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	497	513	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	521	531	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	
+O95470	UniProtKB	Helix	535	549	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Q6R	

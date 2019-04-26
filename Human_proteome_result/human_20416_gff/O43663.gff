@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region O43663 1 620
+O43663	UniProtKB	Chain	1	620	.	.	.	ID=PRO_0000229737;Note=Protein regulator of cytokinesis 1	
+O43663	UniProtKB	Region	1	341	.	.	.	Note=Dimerization	
+O43663	UniProtKB	Region	342	466	.	.	.	Note=Spectrin-fold	
+O43663	UniProtKB	Region	467	620	.	.	.	Note=Unstructured%2C Arg/Lys rich	
+O43663	UniProtKB	Coiled coil	96	133	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43663	UniProtKB	Coiled coil	211	304	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43663	UniProtKB	Coiled coil	383	463	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43663	UniProtKB	Binding site	377	377	.	.	.	Note=Tubulin	
+O43663	UniProtKB	Binding site	387	387	.	.	.	Note=Tubulin	
+O43663	UniProtKB	Modified residue	470	470	.	.	.	Note=Phosphothreonine%3B by CDK1;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17351640,ECO:0000269|PubMed:17438553,ECO:0000269|PubMed:9885575;Dbxref=PMID:23186163,PMID:17351640,PMID:17438553,PMID:9885575	
+O43663	UniProtKB	Modified residue	481	481	.	.	.	Note=Phosphothreonine%3B by CDK1;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17351640,ECO:0000269|PubMed:17438553,ECO:0000269|PubMed:9885575;Dbxref=PMID:23186163,PMID:17351640,PMID:17438553,PMID:9885575	
+O43663	UniProtKB	Modified residue	513	513	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+O43663	UniProtKB	Modified residue	571	571	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O43663	UniProtKB	Modified residue	578	578	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17351640;Dbxref=PMID:17351640	
+O43663	UniProtKB	Modified residue	616	616	.	.	.	Note=Phosphothreonine%3B by PLK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17351640;Dbxref=PMID:17351640	
+O43663	UniProtKB	Alternative sequence	50	90	.	.	.	ID=VSP_035875;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43663	UniProtKB	Alternative sequence	397	426	.	.	.	ID=VSP_051979;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O43663	UniProtKB	Alternative sequence	558	620	.	.	.	ID=VSP_035876;Note=In isoform 3. GGYPGSAPLQRNFSINSVASTYSEFAKDPSLSDSSTVGLQRELSKASKSDATSGILNSTNIQS->ARTFKGFQI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43663	UniProtKB	Alternative sequence	584	597	.	.	.	ID=VSP_051980;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005;Dbxref=PMID:15489334,PMID:17974005	
+O43663	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_047768;Note=A->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9885575;Dbxref=dbSNP:rs7172758,PMID:14702039,PMID:15489334,PMID:9885575	
+O43663	UniProtKB	Natural variant	511	511	.	.	.	ID=VAR_047769;Note=Y->C;Dbxref=dbSNP:rs12911192	
+O43663	UniProtKB	Mutagenesis	470	470	.	.	.	Note=No effect. Abolishes CDK1-mediated phosphorylation%2C leading to prematurely recruit PLK1 to the spindle during prometaphase and blocking mitotic progression%3B when associated with A-481. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12082078,ECO:0000269|PubMed:17351640,ECO:0000269|PubMed:9885575;Dbxref=PMID:12082078,PMID:17351640,PMID:9885575	
+O43663	UniProtKB	Mutagenesis	481	481	.	.	.	Note=No effect. Reduces in vitro cyclin E-CDK2 phosphorylation and causes extensive bundling of microtubules to the mitotic spindle%3B when associated with A-470. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12082078,ECO:0000269|PubMed:17351640,ECO:0000269|PubMed:9885575;Dbxref=PMID:12082078,PMID:17351640,PMID:9885575	
+O43663	UniProtKB	Mutagenesis	577	578	.	.	.	Note=Weakly reduces binding to the POLO box domains of PLK1. ST->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17351640;Dbxref=PMID:17351640	
+O43663	UniProtKB	Mutagenesis	615	616	.	.	.	Note=Impairs binding to the POLO box domains of PLK1%2C preventing phosphorylation by PLK1 and recruitment of PLK1 to the spindle. ST->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17351640;Dbxref=PMID:17351640	
+O43663	UniProtKB	Sequence conflict	416	416	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43663	UniProtKB	Helix	3	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	33	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	96	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	150	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	195	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	212	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	254	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	271	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	312	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	341	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NRX	
+O43663	UniProtKB	Helix	347	373	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NRX	
+O43663	UniProtKB	Helix	375	378	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NRY	
+O43663	UniProtKB	Helix	385	417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NRX	
+O43663	UniProtKB	Beta strand	425	427	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L6Y	
+O43663	UniProtKB	Helix	428	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NRX	

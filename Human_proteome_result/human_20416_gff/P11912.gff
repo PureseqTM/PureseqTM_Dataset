@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region P11912 1 226
+P11912	UniProtKB	Signal peptide	1	32	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7514267;Dbxref=PMID:7514267	
+P11912	UniProtKB	Chain	33	226	.	.	.	ID=PRO_0000014558;Note=B-cell antigen receptor complex-associated protein alpha chain	
+P11912	UniProtKB	Topological domain	33	143	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Transmembrane	144	165	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Topological domain	166	226	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Domain	33	116	.	.	.	Note=Ig-like C2-type	
+P11912	UniProtKB	Domain	177	205	.	.	.	Note=ITAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+P11912	UniProtKB	Site	210	210	.	.	.	Note=Required for binding to BLNK;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11912	UniProtKB	Modified residue	188	188	.	.	.	Note=Phosphotyrosine%3B by SRC-type Tyr-kinases;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P11911,ECO:0000255|PROSITE-ProRule:PRU00379	
+P11912	UniProtKB	Modified residue	199	199	.	.	.	Note=Phosphotyrosine%3B by SRC-type Tyr-kinases;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P11911,ECO:0000255|PROSITE-ProRule:PRU00379	
+P11912	UniProtKB	Modified residue	204	204	.	.	.	Note=Asymmetric dimethylarginine%3B by PRMT1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P11911	
+P11912	UniProtKB	Modified residue	210	210	.	.	.	Note=Phosphotyrosine%3B by Tyr-kinases;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P11911,ECO:0000255|PROSITE-ProRule:PRU00379	
+P11912	UniProtKB	Glycosylation	57	57	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Glycosylation	63	63	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Glycosylation	73	73	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Glycosylation	88	88	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Glycosylation	97	97	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Glycosylation	112	112	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11912	UniProtKB	Disulfide bond	54	106	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P11912	UniProtKB	Disulfide bond	119	119	.	.	.	Note=Interchain (with C-136 in beta chain);Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P11912	UniProtKB	Alternative sequence	89	127	.	.	.	ID=VSP_002476;Note=In isoform 2. GTLIIQNVNKSHGGIYVCRVQEGNESYQQSCGTYLRVRQ->E;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:7643857,ECO:0000303|Ref.9;Dbxref=PMID:7643857	
+P11912	UniProtKB	Mutagenesis	197	197	.	.	.	Note=Increased phosphorylation of Y-188%3B when associated with A-203 and V-209. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10900006;Dbxref=PMID:10900006	
+P11912	UniProtKB	Mutagenesis	203	203	.	.	.	Note=Increased phosphorylation of Y-188%3B when associated with A-197 and V-209. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10900006;Dbxref=PMID:10900006	
+P11912	UniProtKB	Mutagenesis	209	209	.	.	.	Note=Increased phosphorylation of Y-188%3B when associated with A-197 and A-203. T->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10900006;Dbxref=PMID:10900006	
+P11912	UniProtKB	Sequence conflict	47	47	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P11912	UniProtKB	Sequence conflict	69	69	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P11912	UniProtKB	Sequence conflict	189	189	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

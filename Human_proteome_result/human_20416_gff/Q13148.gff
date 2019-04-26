@@ -1,0 +1,96 @@
+##gff-version 3
+##sequence-region Q13148 1 414
+Q13148	UniProtKB	Chain	1	414	.	.	.	ID=PRO_0000081972;Note=TAR DNA-binding protein 43	
+Q13148	UniProtKB	Domain	104	200	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q13148	UniProtKB	Domain	191	262	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q13148	UniProtKB	Region	216	414	.	.	.	Note=Interaction with UBQLN2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23541532;Dbxref=PMID:23541532	
+Q13148	UniProtKB	Motif	82	98	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18957508;Dbxref=PMID:18957508	
+Q13148	UniProtKB	Motif	239	250	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18957508;Dbxref=PMID:18957508	
+Q13148	UniProtKB	Compositional bias	274	413	.	.	.	Note=Gly-rich	
+Q13148	UniProtKB	Modified residue	183	183	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13148	UniProtKB	Modified residue	292	292	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:19690332,PMID:23186163,PMID:24275569	
+Q13148	UniProtKB	Modified residue	293	293	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+Q13148	UniProtKB	Cross-link	79	79	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13148	UniProtKB	Cross-link	84	84	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13148	UniProtKB	Cross-link	95	95	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13148	UniProtKB	Cross-link	102	102	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25772364;Dbxref=PMID:25772364	
+Q13148	UniProtKB	Cross-link	181	181	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25772364,PMID:28112733	
+Q13148	UniProtKB	Cross-link	263	263	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13148	UniProtKB	Alternative sequence	1	18	.	.	.	ID=VSP_056406;Note=In isoform 2. MSEYIRVTEDENDEPIEI->MPQMLAGEIWCMLSTIQK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13148	UniProtKB	Alternative sequence	19	134	.	.	.	ID=VSP_056407;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13148	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_045656;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18309045,ECO:0000269|PubMed:18372902,ECO:0000269|PubMed:22456481;Dbxref=dbSNP:rs80356715,PMID:18309045,PMID:18372902,PMID:22456481	
+Q13148	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_045657;Note=In ALS10. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18372902;Dbxref=dbSNP:rs80356717,PMID:18372902	
+Q13148	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_058611;Note=In ALS10%3B also in a patient with frontotemporal dementia. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356718,PMID:19224587	
+Q13148	UniProtKB	Natural variant	287	287	.	.	.	ID=VAR_045658;Note=In ALS10. G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18372902,ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356719,PMID:18372902,PMID:19224587	
+Q13148	UniProtKB	Natural variant	290	290	.	.	.	ID=VAR_045659;Note=In ALS10. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18396105;Dbxref=dbSNP:rs121908395,PMID:18396105	
+Q13148	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_045660;Note=In ALS10. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18309045,ECO:0000269|PubMed:19695877;Dbxref=dbSNP:rs80356721,PMID:18309045,PMID:19695877	
+Q13148	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_058612;Note=In ALS10%3B a patient with bulbar signs and dementia. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356721,PMID:19224587	
+Q13148	UniProtKB	Natural variant	295	295	.	.	.	ID=VAR_058613;Note=In ALS10. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356723,PMID:19224587	
+Q13148	UniProtKB	Natural variant	295	295	.	.	.	ID=VAR_058614;Note=In ALS10%3B also in patients with frontotemporal lobar degeneration with motor neuron disease. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356723,PMID:19224587	
+Q13148	UniProtKB	Natural variant	298	298	.	.	.	ID=VAR_045661;Note=In ALS10. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18396105;Dbxref=dbSNP:rs4884357,PMID:18396105	
+Q13148	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_045662;Note=In ALS10. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288693,ECO:0000269|PubMed:18372902;Dbxref=dbSNP:rs80356726,PMID:18288693,PMID:18372902	
+Q13148	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_045663;Note=In ALS10%3B impedes the development of normal limb and tail buds and increases the number of apoptotic nuclei when expressed in chick embryos%3B does not affect the interaction with ATNX2. Q->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18309045,ECO:0000269|PubMed:20740007;Dbxref=dbSNP:rs80356727,PMID:18309045,PMID:20740007	
+Q13148	UniProtKB	Natural variant	332	332	.	.	.	ID=VAR_058615;Note=In ALS10. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356728,PMID:19224587	
+Q13148	UniProtKB	Natural variant	335	335	.	.	.	ID=VAR_058616;Note=In ALS10. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356729,PMID:19224587	
+Q13148	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_045664;Note=In ALS10%3B impedes the development of normal limb and tail buds and increases the number of apoptotic nuclei when expressed in chick embryos. M->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18309045,ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356730,PMID:18309045,PMID:19224587	
+Q13148	UniProtKB	Natural variant	343	343	.	.	.	ID=VAR_062767;Note=In ALS10. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18438952;Dbxref=dbSNP:rs80356731,PMID:18438952	
+Q13148	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_045665;Note=In ALS10. G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18372902;Dbxref=dbSNP:rs80356733,PMID:18372902	
+Q13148	UniProtKB	Natural variant	357	357	.	.	.	ID=VAR_067499;Note=In ALS10. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22456481;Dbxref=PMID:22456481	
+Q13148	UniProtKB	Natural variant	361	361	.	.	.	ID=VAR_045666;Note=In ALS10. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18372902;Dbxref=dbSNP:rs80356735,PMID:18372902	
+Q13148	UniProtKB	Natural variant	361	361	.	.	.	ID=VAR_067500;Note=In ALS10. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22456481;Dbxref=PMID:22456481	
+Q13148	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_058617;Note=In ALS10. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356739,PMID:19224587	
+Q13148	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_058618;Note=In ALS10. S->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19224587,ECO:0000269|PubMed:22456481;Dbxref=dbSNP:rs80356738,PMID:19224587,PMID:22456481	
+Q13148	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_045667;Note=In ALS10. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18372902,ECO:0000269|PubMed:19224587,ECO:0000269|PubMed:21220647,ECO:0000269|PubMed:21418058;Dbxref=dbSNP:rs367543041,PMID:18372902,PMID:19224587,PMID:21220647,PMID:21418058	
+Q13148	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_045668;Note=In ALS10. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18372902;Dbxref=dbSNP:rs80356741,PMID:18372902	
+Q13148	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_045669;Note=In ALS10. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18372902;Dbxref=dbSNP:rs80356742,PMID:18372902	
+Q13148	UniProtKB	Natural variant	393	393	.	.	.	ID=VAR_058619;Note=In ALS10. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19224587;Dbxref=dbSNP:rs80356743,PMID:19224587	
+Q13148	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Complete loss of self-oligomerization. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29438978;Dbxref=PMID:29438978	
+Q13148	UniProtKB	Mutagenesis	106	175	.	.	.	Note=Completely abolishes RNA binding. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11470789;Dbxref=PMID:11470789	
+Q13148	UniProtKB	Mutagenesis	106	111	.	.	.	Note=Completely abolishes RNA binding. LIVLGL->DIDLGD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11470789;Dbxref=PMID:11470789	
+Q13148	UniProtKB	Mutagenesis	106	111	.	.	.	Note=Completely abolishes RNA binding. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11470789;Dbxref=PMID:11470789	
+Q13148	UniProtKB	Mutagenesis	147	149	.	.	.	Note=Highly reduces binding to RNA and DNA. FGF->LGL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11470789;Dbxref=PMID:11470789	
+Q13148	UniProtKB	Mutagenesis	193	257	.	.	.	Note=Alters but does not abolish RNA binding. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11470789;Dbxref=PMID:11470789	
+Q13148	UniProtKB	Sequence conflict	200	200	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13148	UniProtKB	Sequence conflict	278	278	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13148	UniProtKB	Beta strand	4	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	16	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	22	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N4P	
+Q13148	UniProtKB	Beta strand	25	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X4F	
+Q13148	UniProtKB	Helix	28	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	33	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X4F	
+Q13148	UniProtKB	Beta strand	40	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Turn	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	50	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X4F	
+Q13148	UniProtKB	Turn	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B1G	
+Q13148	UniProtKB	Beta strand	72	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MDI	
+Q13148	UniProtKB	Beta strand	106	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Helix	117	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Turn	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Beta strand	130	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Turn	139	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Beta strand	144	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Helix	155	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Beta strand	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Beta strand	171	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y0F	
+Q13148	UniProtKB	Beta strand	193	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Beta strand	200	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Helix	204	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Turn	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Beta strand	219	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Beta strand	231	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Helix	237	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Turn	243	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Beta strand	247	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Beta strand	253	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WF0	
+Q13148	UniProtKB	Beta strand	263	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BS2	
+Q13148	UniProtKB	Beta strand	312	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N2C	
+Q13148	UniProtKB	Turn	315	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N2C	
+Q13148	UniProtKB	Beta strand	319	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N2C	
+Q13148	UniProtKB	Helix	322	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N4H	
+Q13148	UniProtKB	Beta strand	334	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CFH	
+Q13148	UniProtKB	Turn	343	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N3X	
+Q13148	UniProtKB	Beta strand	348	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N3X	
+Q13148	UniProtKB	Beta strand	356	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N4G	

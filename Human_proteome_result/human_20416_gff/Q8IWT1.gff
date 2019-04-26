@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q8IWT1 1 228
+Q8IWT1	UniProtKB	Signal peptide	1	30	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Chain	31	228	.	.	.	ID=PRO_0000014937;Note=Sodium channel subunit beta-4	
+Q8IWT1	UniProtKB	Topological domain	31	162	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Transmembrane	163	183	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Topological domain	184	228	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Domain	31	148	.	.	.	Note=Ig-like C2-type	
+Q8IWT1	UniProtKB	Glycosylation	45	45	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Glycosylation	71	71	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Glycosylation	113	113	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IWT1	UniProtKB	Disulfide bond	53	131	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:24297919;Dbxref=PMID:24297919	
+Q8IWT1	UniProtKB	Disulfide bond	58	58	.	.	.	Note=Interchain%3B with alpha subunit;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:24297919;Dbxref=PMID:24297919	
+Q8IWT1	UniProtKB	Alternative sequence	1	110	.	.	.	ID=VSP_053913;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IWT1	UniProtKB	Alternative sequence	21	155	.	.	.	ID=VSP_046971;Note=In isoform 3. GLFLLPVTLSLEVSVGKATDIYAVNGTEILLPCTFSSCFGFEDLHFRWTYNSSDAFKILIEGTVKNEKSDPKVTLKDDDRITLVGSTKEKMNNISIVLRDLEFSDTGKYTCHVKNPKENNLQHHATIFLQVVDRL->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IWT1	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_071317;Note=In ATFB17. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23604097;Dbxref=dbSNP:rs587777559,PMID:23604097	
+Q8IWT1	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_071318;Note=In ATFB17. I->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23604097;Dbxref=dbSNP:rs587777560,PMID:23604097	
+Q8IWT1	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_043488;Note=In LQT10%3B increase in late sodium current. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17592081;Dbxref=dbSNP:rs121434386,PMID:17592081	
+Q8IWT1	UniProtKB	Mutagenesis	58	58	.	.	.	Note=Abolishes regulation of channel activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24297919;Dbxref=PMID:24297919	
+Q8IWT1	UniProtKB	Mutagenesis	131	131	.	.	.	Note=Decreases protein stability. Causes conformation changes that impair interaction with the alpha subunit. C->A%2CW;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24297919;Dbxref=PMID:24297919	
+Q8IWT1	UniProtKB	Sequence conflict	40	40	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IWT1	UniProtKB	Beta strand	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XAW	
+Q8IWT1	UniProtKB	Beta strand	40	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	49	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Turn	58	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ3	
+Q8IWT1	UniProtKB	Beta strand	62	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	76	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	92	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Helix	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	127	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Helix	136	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	140	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	
+Q8IWT1	UniProtKB	Beta strand	147	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MZ2	

@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q96F86 1 508
+Q96F86	UniProtKB	Chain	1	508	.	.	.	ID=PRO_0000119054;Note=Enhancer of mRNA-decapping protein 3	
+Q96F86	UniProtKB	Domain	192	228	.	.	.	Note=DFDF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00845	
+Q96F86	UniProtKB	Domain	283	487	.	.	.	Note=YjeF N-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00719	
+Q96F86	UniProtKB	Region	1	79	.	.	.	Note=Required for P-body targeting and interaction with DCP1A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96F86	UniProtKB	Region	191	296	.	.	.	Note=Required for interaction with DDX6;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96F86	UniProtKB	Modified residue	131	131	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:16964243,PMID:18669648,PMID:23186163,PMID:24275569	
+Q96F86	UniProtKB	Modified residue	138	138	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q96F86	UniProtKB	Modified residue	140	140	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q96F86	UniProtKB	Modified residue	161	161	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:20068231,PMID:23186163	
+Q96F86	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_073963;Note=In MRT50%3B does not enhance DCP2 decapping activity. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25701870;Dbxref=dbSNP:rs1057517676,PMID:25701870	
+Q96F86	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Abolishes interaction with DDX6%3B when associated with A-206. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19285948;Dbxref=PMID:19285948	
+Q96F86	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Abolishes interaction with DDX6%3B when associated with A-204. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19285948;Dbxref=PMID:19285948	
+Q96F86	UniProtKB	Mutagenesis	306	306	.	.	.	Note=Abolishes homodimerization and RNA binding%3B when associated with A-310. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18678652;Dbxref=PMID:18678652	
+Q96F86	UniProtKB	Mutagenesis	310	310	.	.	.	Note=Abolishes homodimerization and RNA binding%3B when associated with A-306. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18678652;Dbxref=PMID:18678652	
+Q96F86	UniProtKB	Sequence conflict	74	74	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96F86	UniProtKB	Turn	4	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Beta strand	9	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Turn	16	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Beta strand	20	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Turn	30	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Beta strand	34	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Beta strand	48	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Helix	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Beta strand	60	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VC8	
+Q96F86	UniProtKB	Helix	206	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WAX	
+Q96F86	UniProtKB	Helix	215	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WAX	
+Q96F86	UniProtKB	Beta strand	270	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	278	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	284	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	301	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	336	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	345	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	363	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	376	385	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	391	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	396	398	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	405	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	423	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	439	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	456	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	469	471	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Beta strand	473	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Helix	483	488	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	
+Q96F86	UniProtKB	Turn	496	499	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3J	
+Q96F86	UniProtKB	Beta strand	501	506	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3K	

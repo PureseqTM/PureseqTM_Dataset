@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region Q8N5Y2 1 521
+Q8N5Y2	UniProtKB	Chain	1	521	.	.	.	ID=PRO_0000080247;Note=Male-specific lethal 3 homolog	
+Q8N5Y2	UniProtKB	Domain	32	90	.	.	.	Note=Chromo	
+Q8N5Y2	UniProtKB	Domain	168	517	.	.	.	Note=MRG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00972	
+Q8N5Y2	UniProtKB	Region	290	440	.	.	.	Note=Required for the histone acetyltransferase activity of the MSL complex	
+Q8N5Y2	UniProtKB	Modified residue	309	309	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WVG9	
+Q8N5Y2	UniProtKB	Modified residue	311	311	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q8N5Y2	UniProtKB	Modified residue	367	367	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q8N5Y2	UniProtKB	Modified residue	400	400	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+Q8N5Y2	UniProtKB	Modified residue	405	405	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q8N5Y2	UniProtKB	Modified residue	407	407	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332;Dbxref=PMID:18669648,PMID:19690332	
+Q8N5Y2	UniProtKB	Modified residue	411	411	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N5Y2	UniProtKB	Alternative sequence	1	166	.	.	.	ID=VSP_045652;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y2	UniProtKB	Alternative sequence	1	59	.	.	.	ID=VSP_007636;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10395802;Dbxref=PMID:10395802	
+Q8N5Y2	UniProtKB	Alternative sequence	1	34	.	.	.	ID=VSP_043342;Note=In isoform 3. MSASEGMKFKFHSGEKVLCFEPDPTKARVLYDAK->MSPSVRPGAGWAPVGRPGRPIQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y2	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_055376;Note=In isoform 6. MSASEG->MKMMKT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y2	UniProtKB	Alternative sequence	7	155	.	.	.	ID=VSP_055377;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y2	UniProtKB	Alternative sequence	60	61	.	.	.	ID=VSP_007637;Note=In isoform 2. NR->MP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10395802;Dbxref=PMID:10395802	
+Q8N5Y2	UniProtKB	Alternative sequence	391	416	.	.	.	ID=VSP_045653;Note=In isoform 5. KTPVHSRSSSPIPLTPSKEGSAVFAG->SRFILGCPRPGRASVYFVFSQCQAWC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y2	UniProtKB	Alternative sequence	417	521	.	.	.	ID=VSP_045654;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y2	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_069061;Note=S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs150938844,PMID:14702039	
+Q8N5Y2	UniProtKB	Natural variant	199	199	.	.	.	ID=VAR_048732;Note=K->Q;Dbxref=dbSNP:rs1051595	
+Q8N5Y2	UniProtKB	Mutagenesis	31	31	.	.	.	Note=Diminishes interaction with histone H4 monomethylated at 'Lys-20'(H4K20Me1). Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20943666;Dbxref=PMID:20943666	
+Q8N5Y2	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Diminishes DNA-binding%3B when associated with A-65. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20657587;Dbxref=PMID:20657587	
+Q8N5Y2	UniProtKB	Mutagenesis	56	56	.	.	.	Note=Abolishes interaction with histone H4 monomethylated at 'Lys-20'(H4K20Me1). F->A	
+Q8N5Y2	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Diminishes DNA-binding. W->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20657587;Dbxref=PMID:20657587	
+Q8N5Y2	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Diminishes DNA-binding%3B when associated with A-55. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20657587;Dbxref=PMID:20657587	
+Q8N5Y2	UniProtKB	Sequence conflict	37	37	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N5Y2	UniProtKB	Sequence conflict	346	346	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N5Y2	UniProtKB	Sequence conflict	391	391	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N5Y2	UniProtKB	Beta strand	16	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Beta strand	30	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Beta strand	48	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Helix	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Beta strand	65	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Helix	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Beta strand	72	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Helix	77	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OA6	
+Q8N5Y2	UniProtKB	Helix	178	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	206	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	251	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	276	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	279	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	447	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	453	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	474	493	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	495	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	
+Q8N5Y2	UniProtKB	Helix	501	503	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Y0N	

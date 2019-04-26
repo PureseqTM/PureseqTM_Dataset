@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q8N556 1 730
+Q8N556	UniProtKB	Chain	1	730	.	.	.	ID=PRO_0000317658;Note=Actin filament-associated protein 1	
+Q8N556	UniProtKB	Domain	153	249	.	.	.	Note=PH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q8N556	UniProtKB	Domain	347	441	.	.	.	Note=PH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q8N556	UniProtKB	Region	594	637	.	.	.	Note=Interaction with F-actin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8N556	UniProtKB	Coiled coil	557	648	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N556	UniProtKB	Motif	71	74	.	.	.	Note=SH3-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8N556	UniProtKB	Motif	94	97	.	.	.	Note=SH2-binding 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8N556	UniProtKB	Motif	451	456	.	.	.	Note=SH2-binding 2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8N556	UniProtKB	Compositional bias	60	106	.	.	.	Note=Pro-rich	
+Q8N556	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q8N556	UniProtKB	Modified residue	282	282	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N556	UniProtKB	Modified residue	283	283	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N556	UniProtKB	Modified residue	548	548	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q8N556	UniProtKB	Modified residue	664	664	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N556	UniProtKB	Modified residue	665	665	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N556	UniProtKB	Modified residue	668	668	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+Q8N556	UniProtKB	Modified residue	675	675	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q80YS6	
+Q8N556	UniProtKB	Modified residue	679	679	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N556	UniProtKB	Modified residue	687	687	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8N556	UniProtKB	Alternative sequence	510	510	.	.	.	ID=VSP_044838;Note=In isoform 2. S->SWEPEDGFPASCSRGLGEEVLYDNAGLYDNLPPPHIFARYSPADRKASRLSADKLSSNHYKYPASAQSVTNTSSVGRASLGLNSQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N556	UniProtKB	Natural variant	403	403	.	.	.	ID=VAR_038578;Note=S->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs28406288,PMID:14702039,PMID:15489334	
+Q8N556	UniProtKB	Natural variant	518	518	.	.	.	ID=VAR_038579;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs41264705	
+Q8N556	UniProtKB	Mutagenesis	71	71	.	.	.	Note=Decreased tyrosine phosphorylation. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Mutagenesis	77	77	.	.	.	Note=No effect on tyrosine phosphorylation. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Reduces phosphorylation and phosphorylation of SRC at Y-416%3B when associated with F-94%3B F-125%3B F-451 and F-453. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Mutagenesis	94	94	.	.	.	Note=Reduces phosphorylation and phosphorylation of SRC at Y-416%3B when associated with F-93%3B F-125%3B F-451 and F-453. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Reduces phosphorylation and phosphorylation of SRC at Y-416%3B when associated with F-93%3B F-94%3B F-451 and F-453. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Mutagenesis	451	451	.	.	.	Note=Reduces phosphorylation and phosphorylation of SRC at Y-416%3B when associated with F-93%3B F-94%3B F-125 and F-453. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Mutagenesis	453	453	.	.	.	Note=Reduces phosphorylation and phosphorylation of SRC at Y-416%3B when associated with F-93%3B F-94%3B F-125 and F-451. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15485829;Dbxref=PMID:15485829	
+Q8N556	UniProtKB	Sequence conflict	197	197	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N556	UniProtKB	Sequence conflict	223	223	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N556	UniProtKB	Sequence conflict	238	238	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N556	UniProtKB	Sequence conflict	465	465	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

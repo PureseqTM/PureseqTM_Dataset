@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region P55085 1 397
+P55085	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55085	UniProtKB	Propeptide	26	36	.	.	.	ID=PRO_0000012750;Note=Removed for receptor activation	
+P55085	UniProtKB	Chain	37	397	.	.	.	ID=PRO_0000412954;Note=Proteinase-activated receptor 2	
+P55085	UniProtKB	Chain	38	397	.	.	.	ID=PRO_0000412956;Note=Proteinase-activated receptor 2%2C alternate cleaved 1	
+P55085	UniProtKB	Chain	39	397	.	.	.	ID=PRO_0000012751;Note=Proteinase-activated receptor 2%2C alternate cleaved 2	
+P55085	UniProtKB	Topological domain	37	71	.	.	.	Note=Extracellular;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	72	101	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	102	108	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	109	137	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	138	149	.	.	.	Note=Extracellular;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	150	177	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	178	183	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	184	211	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	212	235	.	.	.	Note=Extracellular;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	236	269	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	270	277	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	278	317	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	318	323	.	.	.	Note=Extracellular;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Transmembrane	324	347	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Topological domain	348	397	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Compositional bias	383	390	.	.	.	Note=Poly-Ser	
+P55085	UniProtKB	Site	36	37	.	.	.	Note=Cleavage%3B by trypsin	
+P55085	UniProtKB	Lipidation	361	361	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21627585;Dbxref=PMID:21627585	
+P55085	UniProtKB	Glycosylation	30	30	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12171601;Dbxref=PMID:12171601	
+P55085	UniProtKB	Glycosylation	222	222	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12171601;Dbxref=PMID:12171601	
+P55085	UniProtKB	Disulfide bond	148	226	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:5NDD,ECO:0000244|PDB:5NDZ,ECO:0000244|PDB:5NJ6,ECO:0000255|PROSITE-ProRule:PRU00521,ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_012846;Note=S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs2243072	
+P55085	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_049435;Note=N->S;Dbxref=dbSNP:rs616235	
+P55085	UniProtKB	Natural variant	270	270	.	.	.	ID=VAR_012847;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs2243062	
+P55085	UniProtKB	Natural variant	291	291	.	.	.	ID=VAR_012848;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs2243083	
+P55085	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Decreases cell surface expression%3B when associate with A-222. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12171601;Dbxref=PMID:12171601	
+P55085	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Increase of sensitivity towards tryptase. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12171601;Dbxref=PMID:12171601	
+P55085	UniProtKB	Mutagenesis	135	135	.	.	.	Note=Slight reduction in ligand-mediated receptor activation. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Severe reduction in ligand-mediated receptor activation. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	157	157	.	.	.	Note=Severe reduction in ligand-mediated receptor activation. G->C%2CM;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	210	210	.	.	.	Note=No defect in ligand-mediated receptor activation. Y->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	222	222	.	.	.	Note=Decreases cell surface expression%3B when associated with A-30. Loss of sensitivity towards all tested proteases. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12171601;Dbxref=PMID:12171601	
+P55085	UniProtKB	Mutagenesis	222	222	.	.	.	Note=No defect in ligand-mediated receptor activation. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	227	227	.	.	.	Note=No defect in ligand-mediated receptor activation. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Slight reduction in ligand-mediated receptor activation. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	228	228	.	.	.	Note=Severe reduction in ligand-mediated receptor activation. D->A%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	327	327	.	.	.	Note=Slight reduction in ligand-mediated receptor activation. I->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445455;Dbxref=PMID:28445455	
+P55085	UniProtKB	Mutagenesis	355	363	.	.	.	Note=Abolishes signaling through accumulation of intracellular calcium and phosphoinositide%3B no effect in signaling through MAPK. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14607272;Dbxref=PMID:14607272	
+P55085	UniProtKB	Mutagenesis	361	361	.	.	.	Note=Loss of palmitoylation%3B increases surface expression and internalization following trypsin activation%2C decreases sensitivity and intracellular calcium signaling%2C increases ERK activation through G(i) subunit alpha. C->A	
+P55085	UniProtKB	Mutagenesis	363	363	.	.	.	Note=Reduces receptor desensitization and internalization%2C activates ERK1/2%3B when associated with A-366. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10725339;Dbxref=PMID:10725339	
+P55085	UniProtKB	Mutagenesis	366	366	.	.	.	Note=Reduces receptor desensitization and internalization%2C activates ERK1/2%3B when associated with A-363. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10725339;Dbxref=PMID:10725339	
+P55085	UniProtKB	Sequence conflict	138	138	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55085	UniProtKB	Sequence conflict	291	291	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55085	UniProtKB	Helix	63	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	72	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	77	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	109	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	128	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	145	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	186	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	207	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Beta strand	215	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Turn	219	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Beta strand	223	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	233	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	236	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	252	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	279	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	301	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	323	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	333	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	336	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	
+P55085	UniProtKB	Helix	349	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NDD	

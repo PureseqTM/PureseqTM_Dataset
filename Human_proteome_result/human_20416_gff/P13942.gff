@@ -1,0 +1,89 @@
+##gff-version 3
+##sequence-region P13942 1 1736
+P13942	UniProtKB	Signal peptide	1	27	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13942	UniProtKB	Chain	28	1736	.	.	.	ID=PRO_0000005840;Note=Collagen alpha-2(XI) chain	
+P13942	UniProtKB	Propeptide	1501	1736	.	.	.	ID=PRO_0000005841;Note=C-terminal propeptide	
+P13942	UniProtKB	Domain	57	228	.	.	.	Note=Laminin G-like	
+P13942	UniProtKB	Domain	399	447	.	.	.	Note=Collagen-like 1	
+P13942	UniProtKB	Domain	487	545	.	.	.	Note=Collagen-like 2	
+P13942	UniProtKB	Domain	546	590	.	.	.	Note=Collagen-like 3	
+P13942	UniProtKB	Domain	805	862	.	.	.	Note=Collagen-like 4	
+P13942	UniProtKB	Domain	863	899	.	.	.	Note=Collagen-like 5	
+P13942	UniProtKB	Domain	1099	1156	.	.	.	Note=Collagen-like 6	
+P13942	UniProtKB	Domain	1157	1172	.	.	.	Note=Collagen-like 7	
+P13942	UniProtKB	Domain	1441	1499	.	.	.	Note=Collagen-like 8	
+P13942	UniProtKB	Domain	1541	1735	.	.	.	Note=Fibrillar collagen NC1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00793	
+P13942	UniProtKB	Region	215	486	.	.	.	Note=Nonhelical region	
+P13942	UniProtKB	Region	487	1500	.	.	.	Note=Triple-helical region	
+P13942	UniProtKB	Compositional bias	298	301	.	.	.	Note=Poly-Glu	
+P13942	UniProtKB	Metal binding	1589	1589	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13942	UniProtKB	Metal binding	1591	1591	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13942	UniProtKB	Metal binding	1592	1592	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13942	UniProtKB	Metal binding	1594	1594	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13942	UniProtKB	Metal binding	1597	1597	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13942	UniProtKB	Glycosylation	1604	1604	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13942	UniProtKB	Disulfide bond	1571	1603	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00793	
+P13942	UniProtKB	Disulfide bond	1577	1577	.	.	.	Note=Interchain;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00793	
+P13942	UniProtKB	Disulfide bond	1594	1594	.	.	.	Note=Interchain;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00793	
+P13942	UniProtKB	Disulfide bond	1612	1733	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00793	
+P13942	UniProtKB	Disulfide bond	1655	1689	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00793	
+P13942	UniProtKB	Alternative sequence	267	292	.	.	.	ID=VSP_001167;Note=In isoform 2%2C isoform 5%2C isoform 6 and isoform 8. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Alternative sequence	267	290	.	.	.	ID=VSP_043432;Note=In isoform 9. PTESLYYDYEPPYYDVMTTGTTPD->VRELGEPPSAAHPREGRHPGISPP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P13942	UniProtKB	Alternative sequence	291	1736	.	.	.	ID=VSP_043433;Note=In isoform 9. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P13942	UniProtKB	Alternative sequence	293	313	.	.	.	ID=VSP_001168;Note=In isoform 3%2C isoform 5%2C isoform 7 and isoform 8. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Alternative sequence	314	373	.	.	.	ID=VSP_001169;Note=In isoform 4%2C isoform 6%2C isoform 7 and isoform 8. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_072731;Note=In DFNB53. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25633957;Dbxref=dbSNP:rs606231410,PMID:25633957	
+P13942	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_048804;Note=P->S;Dbxref=dbSNP:rs35116188	
+P13942	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_048805;Note=E->K;Dbxref=dbSNP:rs9277934	
+P13942	UniProtKB	Natural variant	593	593	.	.	.	ID=VAR_013591;Note=D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9585596;Dbxref=PMID:9585596	
+P13942	UniProtKB	Natural variant	621	621	.	.	.	ID=VAR_025276;Note=In DFNB53. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16033917;Dbxref=dbSNP:rs121912952,PMID:16033917	
+P13942	UniProtKB	Natural variant	661	661	.	.	.	ID=VAR_001907;Note=In OSMEDB. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7859284;Dbxref=dbSNP:rs121912945,PMID:7859284	
+P13942	UniProtKB	Natural variant	808	808	.	.	.	ID=VAR_010655;Note=In DFNA13. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10581026;Dbxref=dbSNP:rs121912948,PMID:10581026	
+P13942	UniProtKB	Natural variant	824	824	.	.	.	ID=VAR_013592;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9585596;Dbxref=dbSNP:rs1799909,PMID:9585596	
+P13942	UniProtKB	Natural variant	879	879	.	.	.	ID=VAR_013593;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9585596;Dbxref=dbSNP:rs747883362,PMID:9585596	
+P13942	UniProtKB	Natural variant	888	888	.	.	.	ID=VAR_072732;Note=In DFNB53. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25633957;Dbxref=dbSNP:rs864309523,PMID:25633957	
+P13942	UniProtKB	Natural variant	894	894	.	.	.	ID=VAR_048806;Note=L->P;Dbxref=dbSNP:rs2855430	
+P13942	UniProtKB	Natural variant	940	948	.	.	.	ID=VAR_013594;Note=In OSMEDA. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9506662;Dbxref=PMID:9506662	
+P13942	UniProtKB	Natural variant	1034	1034	.	.	.	ID=VAR_010656;Note=In DFNA13. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10581026;Dbxref=dbSNP:rs121912947,PMID:10581026	
+P13942	UniProtKB	Natural variant	1316	1316	.	.	.	ID=VAR_013596;Note=P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9585596;Dbxref=dbSNP:rs2229784,PMID:9585596	
+P13942	UniProtKB	Natural variant	1422	1422	.	.	.	ID=VAR_079875;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22938506;Dbxref=dbSNP:rs555936333,PMID:22938506	
+P13942	UniProtKB	Natural variant	1441	1441	.	.	.	ID=VAR_013595;Note=In OSMEDA. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9805126;Dbxref=dbSNP:rs121912946,PMID:9805126	
+P13942	UniProtKB	Natural variant	1600	1600	.	.	.	ID=VAR_013597;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9585596;Dbxref=dbSNP:rs1799912,PMID:9585596	
+P13942	UniProtKB	Natural variant	1628	1628	.	.	.	ID=VAR_033797;Note=E->D;Dbxref=dbSNP:rs2229790	
+P13942	UniProtKB	Natural variant	1722	1722	.	.	.	ID=VAR_048807;Note=P->L;Dbxref=dbSNP:rs2229792	
+P13942	UniProtKB	Sequence conflict	7	7	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	7	7	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	7	7	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	85	85	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	85	85	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	97	97	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	97	97	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	530	531	.	.	.	Note=PP->SL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	530	531	.	.	.	Note=PP->SL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	530	531	.	.	.	Note=PP->SL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	530	531	.	.	.	Note=PP->SL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	530	531	.	.	.	Note=PP->SL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	542	542	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	548	549	.	.	.	Note=MP->TL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	578	579	.	.	.	Note=AQ->PR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	704	705	.	.	.	Note=NQ->KP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	720	720	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	726	726	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	843	846	.	.	.	Note=TGPR->HGST;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	882	884	.	.	.	Note=QGP->SGS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1031	1032	.	.	.	Note=PP->RQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1031	1032	.	.	.	Note=PP->RQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1031	1032	.	.	.	Note=PP->RQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1031	1032	.	.	.	Note=PP->RQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1091	1091	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1124	1124	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1127	1133	.	.	.	Note=EPGARGP->GAGGLGT;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1253	1253	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1253	1253	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1253	1253	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1253	1253	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1257	1257	.	.	.	Note=T->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1257	1257	.	.	.	Note=T->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1257	1257	.	.	.	Note=T->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1257	1257	.	.	.	Note=T->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13942	UniProtKB	Sequence conflict	1552	1552	.	.	.	Note=E->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

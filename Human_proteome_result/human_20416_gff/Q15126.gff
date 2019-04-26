@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q15126 1 192
+Q15126	UniProtKB	Chain	1	192	.	.	.	ID=PRO_0000058472;Note=Phosphomevalonate kinase	
+Q15126	UniProtKB	Nucleotide binding	17	23	.	.	.	Note=ATP;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:16519518,ECO:0000305|PubMed:18618710;Dbxref=PMID:16519518,PMID:18618710	
+Q15126	UniProtKB	Binding site	141	141	.	.	.	Note=ATP;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:17902708,ECO:0000305|PubMed:18618710;Dbxref=PMID:17902708,PMID:18618710	
+Q15126	UniProtKB	Binding site	170	170	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18618710;Dbxref=PMID:18618710	
+Q15126	UniProtKB	Binding site	171	171	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:18618710;Dbxref=PMID:18618710	
+Q15126	UniProtKB	Binding site	176	176	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:18618710;Dbxref=PMID:18618710	
+Q15126	UniProtKB	Binding site	180	180	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:18618710;Dbxref=PMID:18618710	
+Q15126	UniProtKB	Natural variant	69	69	.	.	.	ID=VAR_075051;Note=In POROK1%3B unknown pathological significance. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26202976;Dbxref=PMID:26202976	
+Q15126	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_051283;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs16836525	
+Q15126	UniProtKB	Natural variant	138	192	.	.	.	ID=VAR_080138;Note=In POROK1%3B results in reduced expression and solubility%3B disturbs subcellular localization with punctate rather than diffuse cytoplasmic distribution. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27052676;Dbxref=PMID:27052676	
+Q15126	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Approximately 8-fold decrease in Vmax for MgATP and R-MVP. Approximately 5-fold increase in Km for MgATP and R-MVP. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16519518;Dbxref=PMID:16519518	
+Q15126	UniProtKB	Mutagenesis	18	18	.	.	.	Note=Approximately 85-fold decrease in Vmax for MgATP and R-MVP. Approximately 5-fold increase in Km for MgATP and R-MVP. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16519518;Dbxref=PMID:16519518	
+Q15126	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Approximately 9-fold decrease in Vmax for MgATP and R-MVP. Approximately 10-fold increase in Km for MgATP and R-MVP. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16519518;Dbxref=PMID:16519518	
+Q15126	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Approximately 100000-fold decrease in Vmax for MgATP. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16519518;Dbxref=PMID:16519518	
+Q15126	UniProtKB	Mutagenesis	23	23	.	.	.	Note=Approximately 7-fold decrease in Vmax for MgATP and R-MVP. Approximately 10-fold increase in Km for MgATP and 5-fold increase in Km for R-MVP. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16519518;Dbxref=PMID:16519518	
+Q15126	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Approximately 1400-fold decrease in Vmax for MgATP and R-MVP. Approximately 3-fold increase in Km for MgATP and R-MVP. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Mutagenesis	69	69	.	.	.	Note=Approximately 500-fold decrease in Vmax for MgATP and R-MVP. Approximately 3-fold increase in Km for MgATP and R-MVP. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Mutagenesis	73	73	.	.	.	Note=Approximately 3000-fold decrease in Vmax for MgATP and R-MVP. No change in Km for MgATP and approximately 3-fold increase in Km for R-MVP. R->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Mutagenesis	84	84	.	.	.	Note=Approximately 10-fold decrease in Vmax for MgATP and R-MVP. Approximately 3-fold increase in Km for MgATP and 50-fold increase in Km for R-MVP. R->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Almost no change in Km and Vmax for MgATP and R-MVP. R->M	
+Q15126	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Approximately 20000-fold decrease in Vmax for MgATP. R->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Mutagenesis	111	111	.	.	.	Note=Approximately 65-fold decrease in Vmax for MgATP and R-MVP. Approximately 8-fold increase in Km for MgATP and 60-fold increase in Km for R-MVP. R->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Mutagenesis	130	130	.	.	.	Note=Approximately 4-fold decrease in Vmax for MgATP and R-MVP. Approximately 3-fold increase in Km for MgATP and R-MVP. R->M	
+Q15126	UniProtKB	Mutagenesis	138	138	.	.	.	Note=Approximately 3-fold decrease in Vmax for MgATP and R-MVP. Approximately 5-fold increase in Km for MgATP and no change in Km for R-MVP. R->M	
+Q15126	UniProtKB	Mutagenesis	141	141	.	.	.	Note=Approximately 15-fold decrease in Vmax for MgATP and R-MVP. Approximately 50-fold increase in Km for MgATP and approximately 7-fold in Km for R-MVP. R->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17902708;Dbxref=PMID:17902708	
+Q15126	UniProtKB	Beta strand	9	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	22	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Turn	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Beta strand	38	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	44	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Turn	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	72	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Turn	88	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	92	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Beta strand	102	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	112	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Beta strand	126	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	135	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Turn	147	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	153	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Turn	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Beta strand	165	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	
+Q15126	UniProtKB	Helix	174	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CH4	

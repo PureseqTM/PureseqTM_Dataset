@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region P01286 1 108
+P01286	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01286	UniProtKB	Propeptide	21	31	.	.	.	ID=PRO_0000011438;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6812220;Dbxref=PMID:6812220	
+P01286	UniProtKB	Peptide	32	75	.	.	.	ID=PRO_0000011439;Note=Somatoliberin	
+P01286	UniProtKB	Propeptide	78	108	.	.	.	ID=PRO_0000011440	
+P01286	UniProtKB	Modified residue	75	75	.	.	.	Note=Leucine amide;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6812220;Dbxref=PMID:6812220	
+P01286	UniProtKB	Alternative sequence	103	103	.	.	.	ID=VSP_023146;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:6192430;Dbxref=PMID:15489334,PMID:6192430	
+P01286	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_049185;Note=Y->C;Dbxref=dbSNP:rs17787698	
+P01286	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_024328;Note=L->F;Dbxref=dbSNP:rs4988492	
+P01286	UniProtKB	Sequence conflict	92	92	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

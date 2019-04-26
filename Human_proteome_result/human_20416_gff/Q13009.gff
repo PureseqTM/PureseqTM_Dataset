@@ -1,0 +1,66 @@
+##gff-version 3
+##sequence-region Q13009 1 1591
+Q13009	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13009	UniProtKB	Chain	2	1591	.	.	.	ID=PRO_0000080976;Note=T-lymphoma invasion and metastasis-inducing protein 1	
+Q13009	UniProtKB	Domain	434	549	.	.	.	Note=PH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q13009	UniProtKB	Domain	765	832	.	.	.	Note=RBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00262	
+Q13009	UniProtKB	Domain	845	908	.	.	.	Note=PDZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q13009	UniProtKB	Domain	1040	1234	.	.	.	Note=DH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00062	
+Q13009	UniProtKB	Domain	1261	1397	.	.	.	Note=PH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q13009	UniProtKB	Compositional bias	595	598	.	.	.	Note=Poly-Lys	
+Q13009	UniProtKB	Compositional bias	1445	1449	.	.	.	Note=Poly-Arg	
+Q13009	UniProtKB	Modified residue	231	231	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:21406692;Dbxref=PMID:19369195,PMID:19690332,PMID:21406692	
+Q13009	UniProtKB	Modified residue	356	356	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60610	
+Q13009	UniProtKB	Modified residue	358	358	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60610	
+Q13009	UniProtKB	Modified residue	695	695	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60610	
+Q13009	UniProtKB	Modified residue	829	829	.	.	.	Note=Phosphotyrosine%3B by NTRK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60610	
+Q13009	UniProtKB	Modified residue	1323	1323	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60610	
+Q13009	UniProtKB	Modified residue	1519	1519	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60610	
+Q13009	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13009	UniProtKB	Alternative sequence	715	739	.	.	.	ID=VSP_055865;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13009	UniProtKB	Alternative sequence	797	831	.	.	.	ID=VSP_055866;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13009	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_051991;Note=G->R;Dbxref=dbSNP:rs2070418	
+Q13009	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_051992;Note=G->V;Dbxref=dbSNP:rs2070417	
+Q13009	UniProtKB	Natural variant	678	678	.	.	.	ID=VAR_035977;Note=In a colorectal cancer sample%3B somatic mutation. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1192824496,PMID:16959974	
+Q13009	UniProtKB	Natural variant	844	844	.	.	.	ID=VAR_051993;Note=Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7731688;Dbxref=dbSNP:rs16987932,PMID:7731688	
+Q13009	UniProtKB	Natural variant	1007	1007	.	.	.	ID=VAR_067424;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22100072;Dbxref=dbSNP:rs77092908,PMID:22100072	
+Q13009	UniProtKB	Natural variant	1023	1023	.	.	.	ID=VAR_071102;Note=D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs75483199,PMID:15489334	
+Q13009	UniProtKB	Natural variant	1339	1339	.	.	.	ID=VAR_035978;Note=In a colorectal cancer sample%3B somatic mutation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1319513413,PMID:16959974	
+Q13009	UniProtKB	Mutagenesis	879	879	.	.	.	Note=Strongly reduces affinity for SDC1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23395182;Dbxref=PMID:23395182	
+Q13009	UniProtKB	Mutagenesis	912	912	.	.	.	Note=Strongly reduces affinity for SDC1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23395182;Dbxref=PMID:23395182	
+Q13009	UniProtKB	Sequence conflict	24	25	.	.	.	Note=KH->ND;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Sequence conflict	247	247	.	.	.	Note=G->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Sequence conflict	881	881	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Sequence conflict	951	951	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Sequence conflict	1018	1018	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Sequence conflict	1040	1041	.	.	.	Note=KL->NV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Sequence conflict	1148	1148	.	.	.	Note=S->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13009	UniProtKB	Beta strand	435	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Turn	450	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	453	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	463	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	473	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	481	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	492	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	501	504	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	512	518	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	520	522	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	524	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Helix	532	554	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Helix	559	587	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Turn	588	590	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Helix	594	629	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Helix	636	640	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Helix	645	654	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Helix	659	667	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K2P	
+Q13009	UniProtKB	Beta strand	842	849	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Helix	850	852	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NXR	
+Q13009	UniProtKB	Turn	855	858	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZE	
+Q13009	UniProtKB	Beta strand	859	865	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Beta strand	867	870	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Beta strand	872	878	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Helix	883	886	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Beta strand	894	898	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Helix	903	905	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Helix	908	916	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	
+Q13009	UniProtKB	Beta strand	917	926	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KZD	

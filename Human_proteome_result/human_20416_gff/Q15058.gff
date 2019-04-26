@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q15058 1 1648
+Q15058	UniProtKB	Chain	1	1648	.	.	.	ID=PRO_0000125449;Note=Kinesin-like protein KIF14	
+Q15058	UniProtKB	Domain	358	701	.	.	.	Note=Kinesin motor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00283	
+Q15058	UniProtKB	Domain	825	891	.	.	.	Note=FHA	
+Q15058	UniProtKB	Nucleotide binding	447	454	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00283	
+Q15058	UniProtKB	Region	1	356	.	.	.	Note=Required for PRC1-binding	
+Q15058	UniProtKB	Region	356	737	.	.	.	Note=Required for microtubule-binding with high affinity;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:L0N7N1	
+Q15058	UniProtKB	Region	901	1648	.	.	.	Note=Required for CIT-binding	
+Q15058	UniProtKB	Coiled coil	705	791	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15058	UniProtKB	Coiled coil	922	1079	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15058	UniProtKB	Coiled coil	1332	1348	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15058	UniProtKB	Coiled coil	1468	1500	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15058	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q15058	UniProtKB	Modified residue	272	272	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15058	UniProtKB	Modified residue	277	277	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15058	UniProtKB	Modified residue	346	346	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15058	UniProtKB	Modified residue	915	915	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15058	UniProtKB	Modified residue	937	937	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15058	UniProtKB	Modified residue	1292	1292	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:23186163	
+Q15058	UniProtKB	Natural variant	88	1648	.	.	.	ID=VAR_080623;Note=In MCPH20%3B drastically decreased expression at the mRNA level%3B loss of localization at the midbody during cytokinesis and consequently loss of CIT/CRIK recruitment to the midbody. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28892560;Dbxref=PMID:28892560	
+Q15058	UniProtKB	Natural variant	459	459	.	.	.	ID=VAR_080624;Note=In MCPH20%3B unknown pathological significance. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29343805;Dbxref=PMID:29343805	
+Q15058	UniProtKB	Natural variant	827	827	.	.	.	ID=VAR_080625;Note=In MCPH20%3B unknown pathological significance. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28892560;Dbxref=PMID:28892560	
+Q15058	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_080626;Note=In MCPH20%3B unknown pathological significance. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29343805;Dbxref=dbSNP:rs139385693,PMID:29343805	
+Q15058	UniProtKB	Natural variant	849	849	.	.	.	ID=VAR_080627;Note=In MCPH20%3B Decreased expression at the mRNA level and loss of localization at the midbody during cytokinesis and consequently loss of CIT/CRIK recruitment to the midbody%2C when analyzed in primary fibroblasts from a patient who is a compound heterozygous with variant V-1221. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28892560;Dbxref=PMID:28892560	
+Q15058	UniProtKB	Natural variant	1221	1221	.	.	.	ID=VAR_080628;Note=In MCPH20%3B Decreased expression at the mRNA level and loss of localization at the midbody during cytokinesis and consequently loss of CIT/CRIK recruitment to the midbody%2C when analyzed in primary fibroblasts from a patient who is a compound heterozygous with variant D-849. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28892560;Dbxref=PMID:28892560	
+Q15058	UniProtKB	Natural variant	1633	1633	.	.	.	ID=VAR_037777;Note=P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs12120084,PMID:15489334	
+Q15058	UniProtKB	Sequence conflict	660	660	.	.	.	Note=W->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	

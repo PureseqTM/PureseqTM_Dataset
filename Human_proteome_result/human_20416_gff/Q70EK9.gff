@@ -1,0 +1,10 @@
+##gff-version 3
+##sequence-region Q70EK9 1 711
+Q70EK9	UniProtKB	Chain	1	711	.	.	.	ID=PRO_0000080680;Note=Ubiquitin carboxyl-terminal hydrolase 51	
+Q70EK9	UniProtKB	Domain	363	706	.	.	.	Note=USP	
+Q70EK9	UniProtKB	Zinc finger	234	294	.	.	.	Note=UBP-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00502	
+Q70EK9	UniProtKB	Compositional bias	97	144	.	.	.	Note=Pro-rich	
+Q70EK9	UniProtKB	Active site	372	372	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000255,ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10092,ECO:0000255|PROSITE-ProRule:PRU10093,ECO:0000269|PubMed:27083998;Dbxref=PMID:27083998	
+Q70EK9	UniProtKB	Active site	665	665	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10092,ECO:0000255|PROSITE-ProRule:PRU10093,ECO:0000269|PubMed:27083998;Dbxref=PMID:27083998	
+Q70EK9	UniProtKB	Mutagenesis	372	372	.	.	.	Note=Abolishes ability to deubiquitinate histone H2A%3B when associated with 665-R. No decrease of total H2AK15ub levels following ionizing radiation%3B when associated with 665-R. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27083998;Dbxref=PMID:27083998	
+Q70EK9	UniProtKB	Mutagenesis	665	665	.	.	.	Note=Abolishes ability to deubiquitinate histone H2A%3B when associated with 665-R. Suppresses ionizing radiation-induced H2AK13%2C15Ub%3B when associated with 372-R. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27083998;Dbxref=PMID:27083998	

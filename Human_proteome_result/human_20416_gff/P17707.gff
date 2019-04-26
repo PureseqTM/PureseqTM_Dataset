@@ -1,0 +1,75 @@
+##gff-version 3
+##sequence-region P17707 1 334
+P17707	UniProtKB	Chain	1	67	.	.	.	ID=PRO_0000029959;Note=S-adenosylmethionine decarboxylase beta chain	
+P17707	UniProtKB	Chain	68	334	.	.	.	ID=PRO_0000029960;Note=S-adenosylmethionine decarboxylase alpha chain	
+P17707	UniProtKB	Active site	8	8	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Active site	11	11	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Active site	68	68	.	.	.	Note=Schiff-base intermediate with substrate%3B via pyruvic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Active site	82	82	.	.	.	Note=Proton donor%3B for catalytic activity;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10029540,ECO:0000269|PubMed:11583147;Dbxref=PMID:10029540,PMID:11583147	
+P17707	UniProtKB	Active site	229	229	.	.	.	Note=Proton acceptor%3B for processing activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Active site	243	243	.	.	.	Note=Proton acceptor%3B for processing activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Binding site	7	7	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Binding site	67	67	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Binding site	223	223	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Binding site	247	247	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Site	67	68	.	.	.	Note=Cleavage (non-hydrolytic)%3B by autolysis;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2460457,ECO:0000269|PubMed:2687270;Dbxref=PMID:2460457,PMID:2687270	
+P17707	UniProtKB	Modified residue	68	68	.	.	.	Note=Pyruvic acid (Ser)%3B by autocatalysis;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2460457,ECO:0000269|PubMed:2687270;Dbxref=PMID:2460457,PMID:2687270	
+P17707	UniProtKB	Modified residue	298	298	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P17707	UniProtKB	Alternative sequence	1	148	.	.	.	ID=VSP_043209;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P17707	UniProtKB	Mutagenesis	7	7	.	.	.	Note=No effect. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Mutagenesis	8	8	.	.	.	Note=Loss of activity. Normal putrescine-stimulated processing. E->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10029540,ECO:0000269|PubMed:1917972;Dbxref=PMID:10029540,PMID:1917972	
+P17707	UniProtKB	Mutagenesis	11	11	.	.	.	Note=Loss of activity. Loss of putrescine-stimulated processing. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Little effect. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Little effect. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	50	50	.	.	.	Note=17 percent decrease in catalytic activity. No effect on processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2687270;Dbxref=PMID:2687270	
+P17707	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Little effect. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	66	66	.	.	.	Note=38 percent decrease in catalytic activity. Slight reduction in processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2687270;Dbxref=PMID:2687270	
+P17707	UniProtKB	Mutagenesis	67	67	.	.	.	Note=Little effect. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	68	69	.	.	.	Note=Loss of catalytic activity and processing. SS->II;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2687270;Dbxref=PMID:2687270	
+P17707	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Loss of catalytic activity and processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2687270;Dbxref=PMID:2687270	
+P17707	UniProtKB	Mutagenesis	69	69	.	.	.	Note=24 percent decrease in catalytic activity. Slight reduction in processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2687270;Dbxref=PMID:2687270	
+P17707	UniProtKB	Mutagenesis	80	80	.	.	.	Note=Greatly reduced catalytic activity. No putrescine-stimulated processing. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	82	82	.	.	.	Note=Loss of activity. Greatly reduced putrescine-stimulated processing. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	223	223	.	.	.	Note=No effect. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583147;Dbxref=PMID:11583147	
+P17707	UniProtKB	Mutagenesis	226	226	.	.	.	Note=Little effect. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	229	229	.	.	.	Note=Loss of processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	229	229	.	.	.	Note=Greatly reduced processing. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	229	229	.	.	.	Note=Greatly reduced catalytic activity but little effect on processing. S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Greatly reduced catalytic activity and processing. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Greatly reduced catalytic activity and processing. H->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Loss of processing. H->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Loss of processing. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10574985;Dbxref=PMID:10574985	
+P17707	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Little effect. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Mutagenesis	249	249	.	.	.	Note=Little effect. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1917972;Dbxref=PMID:1917972	
+P17707	UniProtKB	Sequence conflict	146	146	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P17707	UniProtKB	Beta strand	12	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	37	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Turn	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	51	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	58	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	68	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	87	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	91	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	106	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	130	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	142	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	157	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	175	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	186	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	200	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	209	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JEN	
+P17707	UniProtKB	Beta strand	212	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	217	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	224	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	228	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	239	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	248	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H0W	
+P17707	UniProtKB	Beta strand	252	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	265	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	278	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Helix	291	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EPB	
+P17707	UniProtKB	Beta strand	305	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	
+P17707	UniProtKB	Beta strand	316	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JL0	

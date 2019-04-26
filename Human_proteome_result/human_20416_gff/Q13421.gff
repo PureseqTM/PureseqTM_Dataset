@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q13421 1 630
+Q13421	UniProtKB	Signal peptide	1	36	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7665620;Dbxref=PMID:7665620	
+Q13421	UniProtKB	Chain	37	606	.	.	.	ID=PRO_0000253559;Note=Mesothelin	
+Q13421	UniProtKB	Chain	37	286	.	.	.	ID=PRO_0000253560;Note=Megakaryocyte-potentiating factor	
+Q13421	UniProtKB	Chain	296	606	.	.	.	ID=PRO_0000253561;Note=Mesothelin%2C cleaved form	
+Q13421	UniProtKB	Propeptide	607	630	.	.	.	ID=PRO_0000021769;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13421	UniProtKB	Region	262	286	.	.	.	Note=Required for megakaryocyte-potentiating factor activity	
+Q13421	UniProtKB	Modified residue	200	200	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q13421	UniProtKB	Lipidation	606	606	.	.	.	Note=GPI-anchor amidated serine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13421	UniProtKB	Glycosylation	57	57	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Glycosylation	388	388	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13421	UniProtKB	Glycosylation	496	496	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13421	UniProtKB	Glycosylation	523	523	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13421	UniProtKB	Disulfide bond	302	326	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22787150;Dbxref=PMID:22787150	
+Q13421	UniProtKB	Alternative sequence	44	44	.	.	.	ID=VSP_021058;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13421	UniProtKB	Alternative sequence	409	416	.	.	.	ID=VSP_021059;Note=In isoform 2%2C isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10500211,ECO:0000303|PubMed:15140265,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:15897581,ECO:0000303|PubMed:7665620;Dbxref=PMID:10500211,PMID:15140265,PMID:15489334,PMID:15897581,PMID:7665620	
+Q13421	UniProtKB	Alternative sequence	601	630	.	.	.	ID=VSP_021060;Note=In isoform 3. MQEALSGTPCLLGPGPVLTVLALLLASTLA->VQGGRGGQARAGGRAGGVEVGALSHPSLCRGPLGDALPPRTWTCSHRPGTAPSLHPGLRAPLPC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10500211;Dbxref=PMID:10500211	
+Q13421	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_028381;Note=A->V;Dbxref=dbSNP:rs9927389	
+Q13421	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_028382;Note=R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17850474,PMID:15489334	
+Q13421	UniProtKB	Natural variant	497	497	.	.	.	ID=VAR_054012;Note=G->E;Dbxref=dbSNP:rs35935235	
+Q13421	UniProtKB	Natural variant	601	601	.	.	.	ID=VAR_028383;Note=M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10500211,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:15616553,ECO:0000269|PubMed:15897581,ECO:0000269|PubMed:7665620,ECO:0000269|PubMed:8552591;Dbxref=dbSNP:rs1135210,PMID:10500211,PMID:15489334,PMID:15616553,PMID:15897581,PMID:7665620,PMID:8552591	
+Q13421	UniProtKB	Sequence conflict	4	11	.	.	.	Note=PTARPLLG->QRLDPCW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	15	18	.	.	.	Note=TPAL->DRP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	32	34	.	.	.	Note=QPS->HPA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	43	45	.	.	.	Note=QEA->TES;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	49	49	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	53	56	.	.	.	Note=ANPP->TTPH;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	139	139	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	402	402	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Sequence conflict	604	604	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13421	UniProtKB	Helix	313	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F3F	
+Q13421	UniProtKB	Helix	320	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F3F	
+Q13421	UniProtKB	Helix	329	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F3F	
+Q13421	UniProtKB	Helix	336	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F3F	
+Q13421	UniProtKB	Helix	346	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F3F	

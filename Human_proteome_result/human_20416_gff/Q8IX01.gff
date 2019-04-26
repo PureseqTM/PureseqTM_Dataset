@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q8IX01 1 1082
+Q8IX01	UniProtKB	Chain	1	1082	.	.	.	ID=PRO_0000097708;Note=SURP and G-patch domain-containing protein 2	
+Q8IX01	UniProtKB	Repeat	590	633	.	.	.	Note=SURP motif 1	
+Q8IX01	UniProtKB	Repeat	787	830	.	.	.	Note=SURP motif 2	
+Q8IX01	UniProtKB	Domain	1011	1057	.	.	.	Note=G-patch;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00092	
+Q8IX01	UniProtKB	Motif	995	1000	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IX01	UniProtKB	Compositional bias	738	776	.	.	.	Note=Pro/Ser-rich	
+Q8IX01	UniProtKB	Compositional bias	869	905	.	.	.	Note=Asp/Glu-rich	
+Q8IX01	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17525332;Dbxref=PMID:17525332	
+Q8IX01	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IX01	UniProtKB	Modified residue	224	224	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IX01	UniProtKB	Modified residue	275	275	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8IX01	UniProtKB	Modified residue	277	277	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8IX01	UniProtKB	Modified residue	315	315	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IX01	UniProtKB	Modified residue	573	573	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q8IX01	UniProtKB	Modified residue	603	603	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IX01	UniProtKB	Modified residue	754	754	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q8IX01	UniProtKB	Modified residue	757	757	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CH09	
+Q8IX01	UniProtKB	Modified residue	863	863	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CH09	
+Q8IX01	UniProtKB	Cross-link	228	228	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q8IX01	UniProtKB	Cross-link	305	305	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q8IX01	UniProtKB	Cross-link	650	650	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q8IX01	UniProtKB	Alternative sequence	890	941	.	.	.	ID=VSP_013112;Note=In isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005;Dbxref=PMID:15489334,PMID:17974005	
+Q8IX01	UniProtKB	Alternative sequence	1044	1082	.	.	.	ID=VSP_013113;Note=In isoform 3. GTPSEGEGLGADGQEHKEDTFDVFRQRMMQMYRHKRANK->YAAGSLGWEWVGPQSFHLQPAAWLLHSQDGLQLAVDFCFLNRRHLQMRS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IX01	UniProtKB	Natural variant	206	206	.	.	.	ID=VAR_023711;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12594045,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs4808907,PMID:12594045,PMID:15489334,PMID:17974005	
+Q8IX01	UniProtKB	Natural variant	552	552	.	.	.	ID=VAR_051341;Note=M->T;Dbxref=dbSNP:rs10404860	
+Q8IX01	UniProtKB	Natural variant	649	649	.	.	.	ID=VAR_051342;Note=Q->R;Dbxref=dbSNP:rs10414535	
+Q8IX01	UniProtKB	Natural variant	722	722	.	.	.	ID=VAR_051343;Note=Q->R;Dbxref=dbSNP:rs34540303	
+Q8IX01	UniProtKB	Natural variant	881	881	.	.	.	ID=VAR_051344;Note=R->Q;Dbxref=dbSNP:rs35646935	
+Q8IX01	UniProtKB	Helix	588	599	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4P	
+Q8IX01	UniProtKB	Helix	604	612	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4P	
+Q8IX01	UniProtKB	Helix	614	616	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4P	
+Q8IX01	UniProtKB	Turn	618	620	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4P	
+Q8IX01	UniProtKB	Beta strand	623	625	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4P	
+Q8IX01	UniProtKB	Helix	626	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4P	

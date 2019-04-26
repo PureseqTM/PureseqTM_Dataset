@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region O94901 1 812
+O94901	UniProtKB	Chain	1	812	.	.	.	ID=PRO_0000218911;Note=SUN domain-containing protein 1	
+O94901	UniProtKB	Topological domain	1	315	.	.	.	Note=Nuclear;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18845190;Dbxref=PMID:18845190	
+O94901	UniProtKB	Transmembrane	316	335	.	.	.	Note=Helical	
+O94901	UniProtKB	Topological domain	336	812	.	.	.	Note=Perinuclear space;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18845190;Dbxref=PMID:18845190	
+O94901	UniProtKB	Domain	649	811	.	.	.	Note=SUN;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00802	
+O94901	UniProtKB	Region	1	138	.	.	.	Note=LMNA-binding	
+O94901	UniProtKB	Region	209	302	.	.	.	Note=SYNE2-binding	
+O94901	UniProtKB	Region	223	302	.	.	.	Note=EMD-binding	
+O94901	UniProtKB	Region	601	812	.	.	.	Note=Sufficient for interaction with SYNE1 and SYNE2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9UH99	
+O94901	UniProtKB	Coiled coil	393	430	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94901	UniProtKB	Coiled coil	455	493	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94901	UniProtKB	Coiled coil	501	523	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94901	UniProtKB	Modified residue	48	48	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94901	UniProtKB	Modified residue	100	100	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+O94901	UniProtKB	Modified residue	138	138	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:20068231,PMID:23186163,PMID:24275569	
+O94901	UniProtKB	Modified residue	371	371	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94901	UniProtKB	Disulfide bond	657	657	.	.	.	Note=Interchain (with KASH domain-containing nesprins);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9UH99	
+O94901	UniProtKB	Cross-link	195	195	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O94901	UniProtKB	Alternative sequence	1	50	.	.	.	ID=VSP_037867;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_046108;Note=In isoform 7. M->MGRISPGSPGLPRTVWFEVVNM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Alternative sequence	109	109	.	.	.	ID=VSP_007741;Note=In isoform 4. R->V;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+O94901	UniProtKB	Alternative sequence	110	812	.	.	.	ID=VSP_007742;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+O94901	UniProtKB	Alternative sequence	151	279	.	.	.	ID=VSP_045815;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Alternative sequence	219	219	.	.	.	ID=VSP_047139;Note=In isoform 9. K->KCGASFYVNRILWLARYTASSFSSFLVQLFQVVLMKLSYESENYKLKTHESKDCESESYKSKSHESKAHASYYGRMNVREVLREDGHLSVNGEAL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Alternative sequence	220	280	.	.	.	ID=VSP_037868;Note=In isoform 5. CDDCKGKRHLDAHPGRAGTLWHIWACAGYFLLQILRRIGAVGQAVSRTAWSALWLAVVAPG->W;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Alternative sequence	221	341	.	.	.	ID=VSP_007745;Note=In isoform 3. DDCKGKRHLDAHPGRAGTLWHIWACAGYFLLQILRRIGAVGQAVSRTAWSALWLAVVAPGKAASGVFWWLGIGWYQFVTLISWLNVFLLTRCLRNICKFLVLLIPLFLLLAGLSLRGQGNF->GASFYVNRILWLARYTASSFSSFLVQLFQVVLMKLSYESENYKLKTHESKDCESESYKSKSHESKAHASYYGRMNVREVLREDGHLSVNGEALCKYGFVFLWASVVELVPHAVMLGTSSRE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Alternative sequence	221	257	.	.	.	ID=VSP_007743;Note=In isoform 2 and isoform 7. DDCKGKRHLDAHPGRAGTLWHIWACAGYFLLQILRRI->KSQSFKTQKKVCFPNLIFPFCKSQCLHYLSWRLKIIP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O94901	UniProtKB	Alternative sequence	221	247	.	.	.	ID=VSP_046269;Note=In isoform 8. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94901	UniProtKB	Alternative sequence	232	232	.	.	.	ID=VSP_047140;Note=In isoform 9. H->HTAAHSQSPRL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Alternative sequence	258	812	.	.	.	ID=VSP_007744;Note=In isoform 2 and isoform 7. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O94901	UniProtKB	Alternative sequence	331	331	.	.	.	ID=VSP_045816;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Alternative sequence	342	812	.	.	.	ID=VSP_007746;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94901	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_059828;Note=H->Y;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9872452;Dbxref=dbSNP:rs6461378,PMID:14702039,PMID:15489334,PMID:9872452	
+O94901	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_071065;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24375709;Dbxref=dbSNP:rs144929525,PMID:24375709	
+O94901	UniProtKB	Natural variant	614	614	.	.	.	ID=VAR_071066;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24375709;Dbxref=PMID:24375709	
+O94901	UniProtKB	Sequence conflict	15	15	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Sequence conflict	78	78	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Sequence conflict	174	174	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Sequence conflict	204	204	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Sequence conflict	445	445	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Sequence conflict	503	503	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94901	UniProtKB	Sequence conflict	520	520	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

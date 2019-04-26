@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region P32249 1 361
+P32249	UniProtKB	Chain	1	361	.	.	.	ID=PRO_0000069411;Note=G-protein coupled receptor 183	
+P32249	UniProtKB	Topological domain	1	31	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	32	57	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	58	77	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	78	95	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	96	105	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	106	127	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	128	149	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	150	168	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	169	192	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	193	215	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	216	241	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	242	265	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	266	287	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Transmembrane	288	312	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Topological domain	313	361	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32249	UniProtKB	Region	126	134	.	.	.	Note=Interaction with G proteins	
+P32249	UniProtKB	Binding site	87	87	.	.	.	Note=Oxysterol agonist;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Binding site	112	112	.	.	.	Note=Oxysterol agonist;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Binding site	116	116	.	.	.	Note=Oxysterol agonist;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Binding site	260	260	.	.	.	Note=Oxysterol agonist;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Modified residue	328	328	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3U6B2	
+P32249	UniProtKB	Disulfide bond	104	181	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P32249	UniProtKB	Natural variant	338	338	.	.	.	ID=VAR_054147;Note=In an acute myeloid leukemia sample%3B somatic mutation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18987736;Dbxref=dbSNP:rs1466524306,PMID:18987736	
+P32249	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Strongly reduced localization to the cell membrane and reduced protein expression levels. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Loss of receptor activation without affecting oxysterol agonist-binding. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22875855,ECO:0000269|PubMed:22930711;Dbxref=PMID:22875855,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Strong decrease in oxysterol agonist-binding and receptor activation. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Strongly reduced localization to the cell membrane. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Strong decrease in oxysterol agonist-binding and receptor activation. R->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18628402,ECO:0000269|PubMed:22875855,ECO:0000269|PubMed:22930711;Dbxref=PMID:18628402,PMID:22875855,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Slight decrease in oxysterol agonist-binding and receptor activation. R->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18628402,ECO:0000269|PubMed:22875855;Dbxref=PMID:18628402,PMID:22875855	
+P32249	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Slight decrease in oxysterol agonist-binding and receptor activation. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	90	90	.	.	.	Note=10-fold reduction in receptor activation. Strongly reduced localization to the cell membrane. Y->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22875855,ECO:0000269|PubMed:22930711;Dbxref=PMID:22875855,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	104	104	.	.	.	Note=Abolishes localization to the cell membrane without affecting protein expression levels. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	111	111	.	.	.	Note=500-fold decrease of IC(50) for GSK682753A. No effect on oxysterol agonist-binding and receptor activation. F->A%2CY;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21673108,ECO:0000269|PubMed:22875855;Dbxref=PMID:21673108,PMID:22875855	
+P32249	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Strong decrease in oxysterol agonist-binding and receptor activation. Y->A%2CF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22875855,ECO:0000269|PubMed:22930711;Dbxref=PMID:22875855,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	114	114	.	.	.	Note=Strongly reduced localization to the cell membrane. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	115	115	.	.	.	Note=No effect. T->A%2CF;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Mutagenesis	116	116	.	.	.	Note=Strong decrease in oxysterol agonist-binding and receptor activation. Y->A%2CF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22875855,ECO:0000269|PubMed:22930711;Dbxref=PMID:22875855,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	181	181	.	.	.	Note=Abolishes localization to the cell membrane without affecting protein expression levels. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Strong reduction in ligand potency. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	197	197	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	205	205	.	.	.	Note=No effect. Y->A%2CF;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Mutagenesis	256	256	.	.	.	Note=Increased receptor activation. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18628402;Dbxref=PMID:18628402	
+P32249	UniProtKB	Mutagenesis	257	257	.	.	.	Note=Increased receptor activation. Strongly reduced localization to the cell membrane. F->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18628402,ECO:0000269|PubMed:22930711;Dbxref=PMID:18628402,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	260	260	.	.	.	Note=Strong decrease in oxysterol agonist-binding and receptor activation. Y->A%2CF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22875855,ECO:0000269|PubMed:22930711;Dbxref=PMID:22875855,PMID:22930711	
+P32249	UniProtKB	Mutagenesis	261	261	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	280	280	.	.	.	Note=Strongly reduced localization to the cell membrane and reduced protein expression levels. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	287	287	.	.	.	Note=10-fold reduction in receptor activation. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Mutagenesis	291	291	.	.	.	Note=10-fold reduction in receptor activation. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22875855;Dbxref=PMID:22875855	
+P32249	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	294	294	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	297	297	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function%2C without affecting oxysterol agonist-binding. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Mutagenesis	297	297	.	.	.	Note=Reduced localization to the cell membrane and reduced receptor function. Reduced oxysterol agonist-binding. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22930711;Dbxref=PMID:22930711	
+P32249	UniProtKB	Sequence conflict	6	6	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32249	UniProtKB	Sequence conflict	179	179	.	.	.	Note=I->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32249	UniProtKB	Sequence conflict	325	325	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

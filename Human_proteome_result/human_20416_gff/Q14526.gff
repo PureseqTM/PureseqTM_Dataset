@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q14526 1 733
+Q14526	UniProtKB	Chain	1	733	.	.	.	ID=PRO_0000046942;Note=Hypermethylated in cancer 1 protein	
+Q14526	UniProtKB	Domain	47	110	.	.	.	Note=BTB;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00037	
+Q14526	UniProtKB	Zinc finger	439	459	.	.	.	Note=C2H2-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q14526	UniProtKB	Zinc finger	509	529	.	.	.	Note=C2H2-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q14526	UniProtKB	Zinc finger	537	557	.	.	.	Note=C2H2-type 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q14526	UniProtKB	Zinc finger	565	585	.	.	.	Note=C2H2-type 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q14526	UniProtKB	Zinc finger	593	613	.	.	.	Note=C2H2-type 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q14526	UniProtKB	Region	154	315	.	.	.	Note=Mediates HDAC-dependent transcriptional repression	
+Q14526	UniProtKB	Region	241	247	.	.	.	Note=Interaction with CTBP1	
+Q14526	UniProtKB	Compositional bias	110	119	.	.	.	Note=Poly-Ala	
+Q14526	UniProtKB	Compositional bias	160	167	.	.	.	Note=Poly-Gly	
+Q14526	UniProtKB	Compositional bias	195	199	.	.	.	Note=Poly-Pro	
+Q14526	UniProtKB	Modified residue	159	159	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9R1Y5	
+Q14526	UniProtKB	Modified residue	237	237	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q14526	UniProtKB	Modified residue	248	248	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q14526	UniProtKB	Modified residue	333	333	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17283066;Dbxref=PMID:17283066	
+Q14526	UniProtKB	Modified residue	366	366	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q14526	UniProtKB	Modified residue	704	704	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9R1Y5	
+Q14526	UniProtKB	Cross-link	333	333	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)%3B alternate	
+Q14526	UniProtKB	Alternative sequence	1	19	.	.	.	ID=VSP_006826;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14526	UniProtKB	Natural variant	725	725	.	.	.	ID=VAR_063109;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7585125;Dbxref=dbSNP:rs1063317,PMID:7585125	
+Q14526	UniProtKB	Mutagenesis	244	244	.	.	.	Note=Abolishes interaction with CTBP1 and CTBP2. Impairs transcriptional repression. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16762039;Dbxref=PMID:16762039	
+Q14526	UniProtKB	Mutagenesis	333	333	.	.	.	Note=Mimicks acetylation. Impairs interaction with RBBP4 and MTA1 and no effect on interaction with CTBP2. Reduces transcriptional repression. K->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17283066,ECO:0000269|PubMed:20547755;Dbxref=PMID:17283066,PMID:20547755	
+Q14526	UniProtKB	Mutagenesis	333	333	.	.	.	Note=Abolishes sumoylation%3B impairs transcriptional repression activity. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17283066,ECO:0000269|PubMed:20547755;Dbxref=PMID:17283066,PMID:20547755	
+Q14526	UniProtKB	Mutagenesis	335	335	.	.	.	Note=Impairs transcriptional repression activity. Decreases interaction with MTA1. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17283066,ECO:0000269|PubMed:20547755;Dbxref=PMID:17283066,PMID:20547755	
+Q14526	UniProtKB	Mutagenesis	336	336	.	.	.	Note=Impairs K-333 acetylation%3B no effect on sumoylation. Decreases interaction with MTA1. P->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17283066,ECO:0000269|PubMed:20547755;Dbxref=PMID:17283066,PMID:20547755	
+Q14526	UniProtKB	Mutagenesis	540	540	.	.	.	Note=Abolishes repression activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15231840;Dbxref=PMID:15231840	
+Q14526	UniProtKB	Sequence conflict	190	190	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

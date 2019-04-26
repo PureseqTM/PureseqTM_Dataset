@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region P16410 1 223
+P16410	UniProtKB	Signal peptide	1	35	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16410	UniProtKB	Chain	36	223	.	.	.	ID=PRO_0000014734;Note=Cytotoxic T-lymphocyte protein 4	
+P16410	UniProtKB	Topological domain	36	161	.	.	.	Note=Extracellular;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Transmembrane	162	182	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16410	UniProtKB	Topological domain	183	223	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16410	UniProtKB	Domain	39	140	.	.	.	Note=Ig-like V-type	
+P16410	UniProtKB	Region	46	50	.	.	.	Note=Homodimerization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21156796;Dbxref=PMID:21156796	
+P16410	UniProtKB	Region	134	139	.	.	.	Note=Important for interaction with CD80 and CD86;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Region	150	155	.	.	.	Note=Homodimerization;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21156796,ECO:0000269|PubMed:28484017;Dbxref=PMID:21156796,PMID:28484017	
+P16410	UniProtKB	Modified residue	201	201	.	.	.	Note=Phosphotyrosine%3B by TXK and JAK2;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10842319,ECO:0000269|PubMed:9175836,ECO:0000269|PubMed:9813138;Dbxref=PMID:10842319,PMID:9175836,PMID:9813138	
+P16410	UniProtKB	Glycosylation	113	113	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11279502,ECO:0000269|PubMed:16002699,ECO:0000269|PubMed:21156796;Dbxref=PMID:11279502,PMID:16002699,PMID:21156796	
+P16410	UniProtKB	Glycosylation	145	145	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11279502,ECO:0000269|PubMed:16002699;Dbxref=PMID:11279502,PMID:16002699	
+P16410	UniProtKB	Disulfide bond	58	129	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3BX7,ECO:0000244|PDB:5TRU,ECO:0000269|PubMed:11279501,ECO:0000269|PubMed:11279502,ECO:0000269|PubMed:21156796,ECO:0000269|PubMed:28484017,ECO:0000269|PubMed:9228944,ECO:0000269|Ref.23;Dbxref=PMID:11279501,PMID:11279502,PMID:21156796,PMID:28484017,PMID:9228944	
+P16410	UniProtKB	Disulfide bond	85	103	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3BX7,ECO:0000244|PDB:5TRU,ECO:0000269|PubMed:11279501,ECO:0000269|PubMed:11279502,ECO:0000269|PubMed:21156796,ECO:0000269|PubMed:28484017,ECO:0000269|PubMed:9228944,ECO:0000269|Ref.23;Dbxref=PMID:11279501,PMID:11279502,PMID:21156796,PMID:28484017,PMID:9228944	
+P16410	UniProtKB	Disulfide bond	157	157	.	.	.	Note=Interchain;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3BX7,ECO:0000269|PubMed:28484017,ECO:0000269|Ref.23;Dbxref=PMID:28484017	
+P16410	UniProtKB	Alternative sequence	38	204	.	.	.	ID=VSP_041284;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18595775;Dbxref=PMID:18595775	
+P16410	UniProtKB	Alternative sequence	58	58	.	.	.	ID=VSP_041285;Note=In isoform 4. C->S;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18595775;Dbxref=PMID:18595775	
+P16410	UniProtKB	Alternative sequence	59	204	.	.	.	ID=VSP_041286;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18595775;Dbxref=PMID:18595775	
+P16410	UniProtKB	Alternative sequence	153	174	.	.	.	ID=VSP_047238;Note=In isoform 5. DPEPCPDSDFLLWILAAVSSGL->AKEKKPSYNRGLCENAPNRARM;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.9	
+P16410	UniProtKB	Alternative sequence	175	223	.	.	.	ID=VSP_047239;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.9	
+P16410	UniProtKB	Alternative sequence	205	223	.	.	.	ID=VSP_041287;Note=In isoform 3 and isoform 4. PPTEPECEKQFQPYFIPIN->KEKKPSYNRGLCENAPNRARM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18595775;Dbxref=PMID:18595775	
+P16410	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_013577;Note=Increased risk for Graves disease%2C insulin-dependent diabetes mellitus%2C thyroid-associated orbitopathy%2C systemic lupus erythematosus and susceptibility to HBV infection. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10475192,ECO:0000269|PubMed:10903931,ECO:0000269|PubMed:10924276,ECO:0000269|PubMed:15452244,ECO:0000269|PubMed:1713603,ECO:0000269|PubMed:18595775,ECO:0000269|PubMed:9259273;Dbxref=dbSNP:rs231775,PMID:10475192,PMID:10903931,PMID:10924276,PMID:15452244,PMID:1713603,PMID:18595775,PMID:9259273	
+P16410	UniProtKB	Natural variant	70	70	.	.	.	ID=VAR_072681;Note=In ALPS5. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25329329;Dbxref=dbSNP:rs606231422,PMID:25329329	
+P16410	UniProtKB	Mutagenesis	45	45	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	47	47	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. L->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. R->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	130	130	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. K->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	132	132	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. E->A%2CR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. Y->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Mutagenesis	143	143	.	.	.	Note=Strongly reduced interaction with CD80%2C CD86 and ICOSLG. I->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28484017;Dbxref=PMID:28484017	
+P16410	UniProtKB	Sequence conflict	37	37	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16410	UniProtKB	Sequence conflict	147	147	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16410	UniProtKB	Beta strand	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GGV	
+P16410	UniProtKB	Beta strand	44	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1I8L	
+P16410	UniProtKB	Beta strand	54	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1I85	
+P16410	UniProtKB	Beta strand	68	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	80	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	102	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Helix	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	125	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	140	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	147	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OSK	
+P16410	UniProtKB	Beta strand	156	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AH1	

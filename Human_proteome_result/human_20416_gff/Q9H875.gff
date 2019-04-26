@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q9H875 1 184
+Q9H875	UniProtKB	Chain	1	184	.	.	.	ID=PRO_0000324787;Note=PRKR-interacting protein 1	
+Q9H875	UniProtKB	Region	1	50	.	.	.	Note=Interaction with EIF2AK2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H875	UniProtKB	Region	51	143	.	.	.	Note=Required for RNA-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H875	UniProtKB	Region	126	138	.	.	.	Note=Required for nuclear localization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H875	UniProtKB	Coiled coil	91	152	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H875	UniProtKB	Compositional bias	162	165	.	.	.	Note=Poly-Ser	
+Q9H875	UniProtKB	Compositional bias	172	176	.	.	.	Note=Poly-Glu	
+Q9H875	UniProtKB	Alternative sequence	1	38	.	.	.	ID=VSP_056088;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H875	UniProtKB	Alternative sequence	132	184	.	.	.	ID=VSP_056089;Note=In isoform 2. QKLKEKKLLAKKMKLEQKKQEGPGQPKEQGSSSSAEASGTEEEEEVPSFTMGR->TRSAQGAGVQQLCGGIWNRGGGGSAQFHHGAMTMFATASAWNLARAVTRRERRLFGSFSPARTR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H875	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_039882;Note=S->A;Dbxref=dbSNP:rs6951185	
+Q9H875	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_039883;Note=D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11556160,PMID:15489334	

@@ -1,0 +1,144 @@
+##gff-version 3
+##sequence-region Q99972 1 504
+Q99972	UniProtKB	Signal peptide	1	32	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19287508,ECO:0000269|PubMed:9497363;Dbxref=PMID:19287508,PMID:9497363	
+Q99972	UniProtKB	Chain	33	504	.	.	.	ID=PRO_0000020084;Note=Myocilin	
+Q99972	UniProtKB	Chain	33	226	.	.	.	ID=PRO_0000428749;Note=Myocilin%2C N-terminal fragment	
+Q99972	UniProtKB	Chain	227	504	.	.	.	ID=PRO_0000428750;Note=Myocilin%2C C-terminal fragment	
+Q99972	UniProtKB	Domain	244	503	.	.	.	Note=Olfactomedin-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00446	
+Q99972	UniProtKB	Coiled coil	74	184	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99972	UniProtKB	Motif	502	504	.	.	.	Note=Microbody targeting signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99972	UniProtKB	Metal binding	380	380	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4WXQ,ECO:0000244|PDB:4WXS,ECO:0000244|PDB:4WXU	
+Q99972	UniProtKB	Metal binding	428	428	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4WXQ,ECO:0000244|PDB:4WXS,ECO:0000244|PDB:4WXU	
+Q99972	UniProtKB	Metal binding	429	429	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4WXQ,ECO:0000244|PDB:4WXS,ECO:0000244|PDB:4WXU	
+Q99972	UniProtKB	Metal binding	477	477	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4WXQ,ECO:0000244|PDB:4WXS,ECO:0000244|PDB:4WXU	
+Q99972	UniProtKB	Metal binding	478	478	.	.	.	Note=Calcium;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4WXQ,ECO:0000244|PDB:4WXS,ECO:0000244|PDB:4WXU	
+Q99972	UniProtKB	Site	226	227	.	.	.	Note=Cleavage%3B by CAPN2	
+Q99972	UniProtKB	Glycosylation	57	57	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Disulfide bond	245	433	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:4WXQ,ECO:0000244|PDB:4WXS,ECO:0000244|PDB:4WXU,ECO:0000255|PROSITE-ProRule:PRU00446,ECO:0000269|PubMed:12615070;Dbxref=PMID:12615070	
+Q99972	UniProtKB	Natural variant	4	4	.	.	.	ID=VAR_009665;Note=F->S	
+Q99972	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_009666;Note=C->S	
+Q99972	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_009667;Note=G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10798654,ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs199752860,PMID:10798654,PMID:12356829	
+Q99972	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_054269;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs745439002,PMID:12356829	
+Q99972	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_054270;Note=A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=PMID:12356829	
+Q99972	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_009668;Note=Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10980537;Dbxref=dbSNP:rs2234925,PMID:10980537	
+Q99972	UniProtKB	Natural variant	25	25	.	.	.	ID=VAR_054271;Note=In GLC1A. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12860809;Dbxref=dbSNP:rs755246983,PMID:12860809	
+Q99972	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_054272;Note=In GLC1A and GLC3A%3B the GLC3A patient also carries mutation H-368 in CYP1B1 suggesting digenic inheritance. Q->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15025728,ECO:0000269|PubMed:15733270;Dbxref=dbSNP:rs74315339,PMID:15025728,PMID:15733270	
+Q99972	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_008969;Note=In GLC1A. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10644174;Dbxref=dbSNP:rs200208925,PMID:10644174	
+Q99972	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_054273;Note=N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11004290;Dbxref=PMID:11004290	
+Q99972	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_054274;Note=Loss of higher molecular weight isoform. N->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12697062,ECO:0000269|PubMed:12872267;Dbxref=dbSNP:rs561439247,PMID:12697062,PMID:12872267	
+Q99972	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_009669;Note=N->S	
+Q99972	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_009670;Note=R->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10798654,ECO:0000269|PubMed:10980537,ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:12356829,ECO:0000269|PubMed:12442283,ECO:0000269|PubMed:12872267,ECO:0000269|PubMed:15025728,ECO:0000269|PubMed:9863594;Dbxref=dbSNP:rs2234926,PMID:10798654,PMID:10980537,PMID:11004290,PMID:12189160,PMID:12356829,PMID:12442283,PMID:12872267,PMID:15025728,PMID:9863594	
+Q99972	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_054275;Note=D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12189160;Dbxref=PMID:12189160	
+Q99972	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_009671;Note=In GLC1A. R->C;Dbxref=dbSNP:rs764005392	
+Q99972	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_009672;Note=R->H;Dbxref=dbSNP:rs201552559	
+Q99972	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_054276;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=PMID:12356829	
+Q99972	UniProtKB	Natural variant	126	126	.	.	.	ID=VAR_054277;Note=In GLC1A. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12189160;Dbxref=dbSNP:rs200120115,PMID:12189160	
+Q99972	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_054278;Note=In GLC1A. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10980537;Dbxref=dbSNP:rs199746824,PMID:10980537	
+Q99972	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_009673;Note=R->Q;Dbxref=dbSNP:rs144579767	
+Q99972	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_009674;Note=S->F	
+Q99972	UniProtKB	Natural variant	208	208	.	.	.	ID=VAR_014943;Note=In GLC1A%3B unknown pathological significance. D->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10798654,ECO:0000269|PubMed:10980537,ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs2234927,PMID:10798654,PMID:10980537,PMID:12356829	
+Q99972	UniProtKB	Natural variant	215	215	.	.	.	ID=VAR_054279;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs531050114,PMID:12356829	
+Q99972	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_054280;Note=In GLC1A%3B unknown pathological significance. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17210859;Dbxref=dbSNP:rs757769997,PMID:17210859	
+Q99972	UniProtKB	Natural variant	245	245	.	.	.	ID=VAR_054281;Note=In GLC1A%3B forms homomultimeric complexes that migrate at molecular weights larger than their wild-type counterparts%3B these mutant complexes remain sequestered intracellularly. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16401791;Dbxref=dbSNP:rs74315340,PMID:16401791	
+Q99972	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_005468;Note=In GLC1A. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9328473;Dbxref=PMID:9328473	
+Q99972	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_054282;Note=In GLC1A. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442283;Dbxref=PMID:12442283	
+Q99972	UniProtKB	Natural variant	252	252	.	.	.	ID=VAR_054283;Note=In GLC1A. G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10873982,ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:11774072,ECO:0000269|PubMed:17210859;Dbxref=dbSNP:rs74315341,PMID:10873982,PMID:11004290,PMID:11774072,PMID:17210859	
+Q99972	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_054284;Note=In GLC1A. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10916185;Dbxref=dbSNP:rs982896610,PMID:10916185	
+Q99972	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_054285;Note=In GLC1A%3B unknown pathological significance. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11004290;Dbxref=PMID:11004290	
+Q99972	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_054286;Note=In GLC1A. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15255110;Dbxref=PMID:15255110	
+Q99972	UniProtKB	Natural variant	286	286	.	.	.	ID=VAR_009675;Note=In GLC1A. W->R;Dbxref=dbSNP:rs1351328951	
+Q99972	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_009676;Note=In GLC1A%3B no effect on protein stability. T->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11774072,ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:25524706;Dbxref=dbSNP:rs139122673,PMID:11774072,PMID:12189160,PMID:25524706	
+Q99972	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_054287;Note=In GLC1A%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs748621461,PMID:12356829	
+Q99972	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_054288;Note=In GLC1A%3B inhibits endoproteolytic processing%3B mainly accumulates as insoluble aggregates inside the endoplasmic reticulum. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:15795224;Dbxref=PMID:11004290,PMID:15795224	
+Q99972	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_009677;Note=Slightly decreased protein stability. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:25524706;Dbxref=dbSNP:rs146391864,PMID:11004290,PMID:25524706	
+Q99972	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_054289;Note=In GLC1A. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10916185;Dbxref=PMID:10916185	
+Q99972	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_005469;Note=In GLC1A. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9361308;Dbxref=dbSNP:rs74315335,PMID:9361308	
+Q99972	UniProtKB	Natural variant	341	341	.	.	.	ID=VAR_054290;Note=In GLC1A. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9510647;Dbxref=PMID:9510647	
+Q99972	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_054291;Note=In GLC1A. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12362081;Dbxref=PMID:12362081	
+Q99972	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_054292;Note=In GLC1A. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442283;Dbxref=PMID:12442283	
+Q99972	UniProtKB	Natural variant	352	352	.	.	.	ID=VAR_009678;Note=In GLC1A%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:9792882;Dbxref=dbSNP:rs61745146,PMID:12189160,PMID:9792882	
+Q99972	UniProtKB	Natural variant	353	353	.	.	.	ID=VAR_009679;Note=In GLC1A%3B unknown pathological significance%3B no significant effect on protein stability. T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10330365,ECO:0000269|PubMed:10798654,ECO:0000269|PubMed:12356829,ECO:0000269|PubMed:25524706;Dbxref=dbSNP:rs137853277,PMID:10330365,PMID:10798654,PMID:12356829,PMID:25524706	
+Q99972	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_054293;Note=In GLC1A. I->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10980537,ECO:0000269|PubMed:15534471;Dbxref=PMID:10980537,PMID:15534471	
+Q99972	UniProtKB	Natural variant	361	361	.	.	.	ID=VAR_009680;Note=In GLC1A. P->S;Dbxref=dbSNP:rs1344039930	
+Q99972	UniProtKB	Natural variant	363	363	.	.	.	ID=VAR_054294;Note=In GLC1A. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10980537,ECO:0000269|PubMed:15534471;Dbxref=PMID:10980537,PMID:15534471	
+Q99972	UniProtKB	Natural variant	364	364	.	.	.	ID=VAR_005470;Note=In GLC1A. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9005853;Dbxref=dbSNP:rs121909193,PMID:9005853	
+Q99972	UniProtKB	Natural variant	367	367	.	.	.	ID=VAR_005471;Note=In GLC1A. G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11774072,ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:12442283,ECO:0000269|PubMed:12872267,ECO:0000269|PubMed:9345106,ECO:0000269|PubMed:9490287,ECO:0000269|PubMed:9521427;Dbxref=dbSNP:rs74315334,PMID:11774072,PMID:12189160,PMID:12442283,PMID:12872267,PMID:9345106,PMID:9490287,PMID:9521427	
+Q99972	UniProtKB	Natural variant	369	369	.	.	.	ID=VAR_054295;Note=In GLC1A. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15534471;Dbxref=PMID:15534471	
+Q99972	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_005472;Note=In GLC1A%3B severe form%3B inhibits endoproteolytic processing%3B produced the highest inhibition of the endoproteolytic processing%3B mainly accumulates as insoluble aggregates inside the endoplasmic reticulum%3B inhibits neurite outgrowth. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:11774072,ECO:0000269|PubMed:12442283,ECO:0000269|PubMed:15795224,ECO:0000269|PubMed:9328473,ECO:0000269|PubMed:9345106,ECO:0000269|PubMed:9490287,ECO:0000269|PubMed:9792882,ECO:0000269|PubMed:9863594;Dbxref=dbSNP:rs74315330,PMID:11004290,PMID:11774072,PMID:12442283,PMID:15795224,PMID:9328473,PMID:9345106,PMID:9490287,PMID:9792882,PMID:9863594	
+Q99972	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_054296;Note=In GLC1A. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11774072;Dbxref=PMID:11774072	
+Q99972	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_009681;Note=In GLC1A. T->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:9792882;Dbxref=dbSNP:rs566289099,PMID:11004290,PMID:9792882	
+Q99972	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_009682;Note=In GLC1A%3B incomplete penetrance%3B inhibits endoproteolytic processing%3B mainly accumulates as insoluble aggregates inside the endoplasmic reticulum. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9863594;Dbxref=PMID:9863594	
+Q99972	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_009683;Note=In GLC1A. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15795224;Dbxref=PMID:15795224	
+Q99972	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_054297;Note=In GLC1A. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17499207;Dbxref=dbSNP:rs121909194,PMID:17499207	
+Q99972	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_054298;Note=In GLC1A. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12362081;Dbxref=PMID:12362081	
+Q99972	UniProtKB	Natural variant	393	393	.	.	.	ID=VAR_054299;Note=In GLC1A. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442283;Dbxref=PMID:12442283	
+Q99972	UniProtKB	Natural variant	393	393	.	.	.	ID=VAR_009684;Note=In GLC1A. S->R;Dbxref=dbSNP:rs998968146	
+Q99972	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_009685;Note=K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10916185,ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:11774072,ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:12872267;Dbxref=dbSNP:rs56314834,PMID:10916185,PMID:11004290,PMID:11774072,PMID:12189160,PMID:12872267	
+Q99972	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_054300;Note=In GLC1A. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11774072;Dbxref=dbSNP:rs28936694,PMID:11774072	
+Q99972	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_009686;Note=V->I	
+Q99972	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_054301;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs1351097164,PMID:12356829	
+Q99972	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_009687;Note=No effect on protein stability. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25524706;Dbxref=dbSNP:rs751113505,PMID:25524706	
+Q99972	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_009688;Note=In GLC1A. R->H;Dbxref=dbSNP:rs201573718	
+Q99972	UniProtKB	Natural variant	423	423	.	.	.	ID=VAR_009689;Note=In GLC1A%3B heterozygote specific phenotype. K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:12860809,ECO:0000269|PubMed:9697688;Dbxref=dbSNP:rs74315336,PMID:12189160,PMID:12860809,PMID:9697688	
+Q99972	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_009690;Note=Decreases protein stability. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25524706;Dbxref=PMID:25524706	
+Q99972	UniProtKB	Natural variant	426	426	.	.	.	ID=VAR_005473;Note=In GLC1A. V->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:9521427;Dbxref=PMID:11004290,PMID:9521427	
+Q99972	UniProtKB	Natural variant	427	427	.	.	.	ID=VAR_054302;Note=In GLC1A. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12189160;Dbxref=dbSNP:rs754237376,PMID:12189160	
+Q99972	UniProtKB	Natural variant	433	433	.	.	.	ID=VAR_008970;Note=In GLC1A%3B severe form. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10819638;Dbxref=dbSNP:rs74315338,PMID:10819638	
+Q99972	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_054303;Note=In GLC1A. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442283;Dbxref=dbSNP:rs1200513428,PMID:12442283	
+Q99972	UniProtKB	Natural variant	437	437	.	.	.	ID=VAR_005474;Note=In GLC1A. Y->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9005853,ECO:0000269|PubMed:9792882;Dbxref=dbSNP:rs74315328,PMID:9005853,PMID:9792882	
+Q99972	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_054304;Note=In GLC1A. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12872267;Dbxref=PMID:12872267	
+Q99972	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_009691;Note=In GLC1A%3B no effect on protein stability. A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11774072,ECO:0000269|PubMed:12189160,ECO:0000269|PubMed:25524706;Dbxref=dbSNP:rs140967767,PMID:11774072,PMID:12189160,PMID:25524706	
+Q99972	UniProtKB	Natural variant	448	448	.	.	.	ID=VAR_054305;Note=In GLC1A. T->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10340788,ECO:0000269|PubMed:15534471;Dbxref=PMID:10340788,PMID:15534471	
+Q99972	UniProtKB	Natural variant	450	450	.	.	.	ID=VAR_054306;Note=In GLC1A. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442283;Dbxref=PMID:12442283	
+Q99972	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_009692;Note=In GLC1A. I->M	
+Q99972	UniProtKB	Natural variant	470	470	.	.	.	ID=VAR_009693;Note=In GLC1A. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442283;Dbxref=dbSNP:rs771122834,PMID:12442283	
+Q99972	UniProtKB	Natural variant	470	470	.	.	.	ID=VAR_054307;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10980537;Dbxref=dbSNP:rs750791099,PMID:10980537	
+Q99972	UniProtKB	Natural variant	471	471	.	.	.	ID=VAR_054308;Note=In GLC1A%3B unknown pathological significance. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12356829;Dbxref=dbSNP:rs554235897,PMID:12356829	
+Q99972	UniProtKB	Natural variant	473	473	.	.	.	ID=VAR_009694;Note=No effect on protein stability. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25524706;Dbxref=PMID:25524706	
+Q99972	UniProtKB	Natural variant	477	477	.	.	.	ID=VAR_009695;Note=In GLC1A%3B induces stress fiber formation in only 5%25 of cells. I->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11004290,ECO:0000269|PubMed:19188438;Dbxref=dbSNP:rs74315331,PMID:11004290,PMID:19188438	
+Q99972	UniProtKB	Natural variant	477	477	.	.	.	ID=VAR_005475;Note=In GLC1A. I->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9328473;Dbxref=dbSNP:rs74315331,PMID:9328473	
+Q99972	UniProtKB	Natural variant	480	480	.	.	.	ID=VAR_005476;Note=In GLC1A. N->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12872267,ECO:0000269|PubMed:9328473;Dbxref=dbSNP:rs74315332,PMID:12872267,PMID:9328473	
+Q99972	UniProtKB	Natural variant	481	481	.	.	.	ID=VAR_009696;Note=In GLC1A. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12189160;Dbxref=PMID:12189160	
+Q99972	UniProtKB	Natural variant	481	481	.	.	.	ID=VAR_009697;Note=In GLC1A. P->T	
+Q99972	UniProtKB	Natural variant	495	495	.	.	.	ID=VAR_009698;Note=V->I	
+Q99972	UniProtKB	Natural variant	499	499	.	.	.	ID=VAR_005477;Note=In GLC1A. I->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12872267,ECO:0000269|PubMed:9328473;Dbxref=PMID:12872267,PMID:9328473	
+Q99972	UniProtKB	Natural variant	499	499	.	.	.	ID=VAR_054309;Note=In GLC1A. I->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11004290;Dbxref=PMID:11004290	
+Q99972	UniProtKB	Natural variant	500	500	.	.	.	ID=VAR_009699;Note=K->R;Dbxref=dbSNP:rs145977437	
+Q99972	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_009700;Note=In GLC1A. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9863594;Dbxref=PMID:9863594	
+Q99972	UniProtKB	Mutagenesis	226	230	.	.	.	Note=Impairs endoproteolytic processing. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Mutagenesis	226	226	.	.	.	Note=Reduced processing. Impairs endoproteolytic processing%3B when associated with A-229 or A-230. Completely processed after 6 days of expression%2C and releases a C-terminal fragment with similar electrophoretic mobility to that obtained by processing wild-type myocilin%3B when associated with A-229 or A-230. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Mutagenesis	226	226	.	.	.	Note=Slightly increases endoproteolytic processing. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Reduced processing. I->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Mutagenesis	229	229	.	.	.	Note=Completely blocks endoproteolytic processing%3B when associated with A-226. Completely processed after 6 days of expression%2C and releases a C-terminal fragment with similar electrophoretic mobility to that obtained by processing wild-type myocilin%3B when associated with A-226. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Mutagenesis	230	230	.	.	.	Note=Impairs endoproteolytic processing%3B when associated with A-226. Completely processed after 6 days of expression%2C and released a C-terminal fragment with similar electrophoretic mobility to that obtained by processing wild-type myocilin%3B when associated with A-226. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17650508;Dbxref=PMID:17650508	
+Q99972	UniProtKB	Beta strand	248	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	255	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Helix	263	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	266	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	285	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	292	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Helix	304	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	313	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	328	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	333	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	341	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Turn	349	352	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	353	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	366	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Turn	375	378	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXU	
+Q99972	UniProtKB	Beta strand	380	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	387	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Turn	395	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	400	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Turn	408	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	413	422	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Helix	423	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	426	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	435	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Turn	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	460	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	474	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Turn	481	484	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	485	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	493	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	
+Q99972	UniProtKB	Beta strand	499	501	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WXS	

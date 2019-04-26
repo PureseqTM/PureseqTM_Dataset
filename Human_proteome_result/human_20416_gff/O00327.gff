@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region O00327 1 626
+O00327	UniProtKB	Chain	1	626	.	.	.	ID=PRO_0000127156;Note=Aryl hydrocarbon receptor nuclear translocator-like protein 1	
+O00327	UniProtKB	Domain	72	125	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+O00327	UniProtKB	Domain	143	215	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O00327	UniProtKB	Domain	326	396	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O00327	UniProtKB	Domain	401	444	.	.	.	Note=PAC	
+O00327	UniProtKB	Region	508	588	.	.	.	Note=Interaction with CIART;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Motif	36	41	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Motif	142	152	.	.	.	Note=Nuclear export signal 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Motif	361	369	.	.	.	Note=Nuclear export signal 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Site	77	77	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Site	80	80	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Site	81	81	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Site	85	85	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Site	125	125	.	.	.	Note=Important for interaction with CLOCK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Modified residue	17	17	.	.	.	Note=Phosphoserine%3B by GSK3-beta;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphothreonine%3B by GSK3-beta;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Modified residue	78	78	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Modified residue	90	90	.	.	.	Note=Phosphoserine%3B by CK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Modified residue	538	538	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Cross-link	252	252	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2 and SUMO3);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+O00327	UniProtKB	Cross-link	259	259	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O00327	UniProtKB	Alternative sequence	1	59	.	.	.	ID=VSP_002095;Note=In isoform MOP3. MADQRMDISSTISDFMSPGPTDLLSSSLGTSGVDCNRKRKGSSTDYQESMDTDKDDPHG->MSKEAVSLWALTVSLQPPVPLCVCREMTGSGRRKQQCVTLPFISRELCFYLLLFPPP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9079689;Dbxref=PMID:9079689	
+O00327	UniProtKB	Alternative sequence	1	47	.	.	.	ID=VSP_002094;Note=In isoform BMAL1A and isoform 9. MADQRMDISSTISDFMSPGPTDLLSSSLGTSGVDCNRKRKGSSTDYQ->MINI;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O00327	UniProtKB	Alternative sequence	224	224	.	.	.	ID=VSP_002096;Note=In isoform BMAL1C. T->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Alternative sequence	225	626	.	.	.	ID=VSP_002097;Note=In isoform BMAL1C. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Alternative sequence	274	391	.	.	.	ID=VSP_002098;Note=In isoform BMAL1D. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Alternative sequence	274	274	.	.	.	ID=VSP_035457;Note=In isoform 8 and isoform 9. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O00327	UniProtKB	Alternative sequence	278	301	.	.	.	ID=VSP_002099;Note=In isoform BMAL1E. SFCTIHSTGYLKSWPPTKMGLDED->AFCTIHSTGYFGIFTTRTSRHIVL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Alternative sequence	302	626	.	.	.	ID=VSP_002100;Note=In isoform BMAL1E. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Alternative sequence	443	526	.	.	.	ID=VSP_002101;Note=In isoform BMAL1F. ANVLEGGDPTFPQLTASPHSMDSMLPSGEGGPKRTHPTVPGIPGGTRAGAGKIGRMIAEEIMEIHRIRGSSPSSCGSSPLNITS->SRVDTGHLGQVERCTVLSRPNSRFLIAGMFTEPTSWKAGTQPSHSSQHPPTAWTACCPLEKVAQRGPTPLFQGFQGEPGLGQEK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Alternative sequence	527	626	.	.	.	ID=VSP_002102;Note=In isoform BMAL1F. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Mutagenesis	9	9	.	.	.	Note=Enhanced PER1 reporter activity by CLOCK-ARNTL/BMAL1. S->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O00327	UniProtKB	Mutagenesis	9	9	.	.	.	Note=2-2.5-fold increase in CLOCK-BMAL1 transcriptional activity in the absence of CRY1. No change in repression activity in the presence of CRY1. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O00327	UniProtKB	Mutagenesis	10	10	.	.	.	Note=Enhanced PER1 reporter activity by CLOCK-ARNTL/BMAL1. S->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O00327	UniProtKB	Mutagenesis	10	10	.	.	.	Note=2-2.5-fold increase in CLOCK-ARNTL/BMAL1 transcriptional activity in the absence of CRY1. No change in repression activity in the presence of CRY1. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O00327	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Phosphomimetic mutant which severely impairs DNA binding and CLOCK-ARNTL/BMAL1 transcriptional activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Mutagenesis	88	88	.	.	.	Note=No effect on CLOCK binding. M->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Phosphomimetic mutant with no effect on DNA binding or CLOCK-ARNTL/BMAL1 transcriptional activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Impaired CLOCK binding. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O00327	UniProtKB	Mutagenesis	611	611	.	.	.	Note=Increased desensitization to CRY1%2C in the presence of CLOCK. Approximately 2-fold increase in CLOCK-ARNTL/BMAL1 transcriptional activity in the absence of CRY1%3B when associated with E-407. A->S%2CT;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O00327	UniProtKB	Mutagenesis	612	612	.	.	.	Note=Increased desensitization to CRY1%2C in the presence of CLOCK. Approximately 2-fold increase in CLOCK-ARNTL/BMAL1 transcriptional activity in the absence of CRY1. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O00327	UniProtKB	Sequence conflict	69	69	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Sequence conflict	123	123	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Sequence conflict	173	173	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Sequence conflict	259	259	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Sequence conflict	264	264	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Sequence conflict	418	418	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Sequence conflict	513	514	.	.	.	Note=SP->LR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00327	UniProtKB	Helix	71	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H10	
+O00327	UniProtKB	Helix	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H10	
+O00327	UniProtKB	Helix	111	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H10	

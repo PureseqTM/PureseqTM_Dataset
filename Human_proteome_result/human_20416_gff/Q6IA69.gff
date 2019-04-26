@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region Q6IA69 1 706
+Q6IA69	UniProtKB	Chain	1	706	.	.	.	ID=PRO_0000237577;Note=Glutamine-dependent NAD(+) synthetase	
+Q6IA69	UniProtKB	Domain	5	275	.	.	.	Note=CN hydrolase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00054	
+Q6IA69	UniProtKB	Nucleotide binding	355	362	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6IA69	UniProtKB	Region	325	706	.	.	.	Note=Ligase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6IA69	UniProtKB	Active site	45	45	.	.	.	Note=Proton acceptor%3B for glutaminase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WJJ3	
+Q6IA69	UniProtKB	Active site	114	114	.	.	.	Note=For glutaminase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WJJ3	
+Q6IA69	UniProtKB	Active site	175	175	.	.	.	Note=Nucleophile%3B for glutaminase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P9WJJ3	
+Q6IA69	UniProtKB	Active site	357	357	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6IA69	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_056585;Note=In isoform 2. MGRKVT->MGISGQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6IA69	UniProtKB	Alternative sequence	7	266	.	.	.	ID=VSP_056586;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6IA69	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_026497;Note=V->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2276360,PMID:14702039,PMID:15489334	
+Q6IA69	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_058703;Note=Q->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12547821,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.3;Dbxref=dbSNP:rs7950441,PMID:12547821,PMID:14702039,PMID:15489334	
+Q6IA69	UniProtKB	Natural variant	297	297	.	.	.	ID=VAR_056204;Note=P->L;Dbxref=dbSNP:rs7121106	
+Q6IA69	UniProtKB	Natural variant	591	591	.	.	.	ID=VAR_056205;Note=M->I;Dbxref=dbSNP:rs35007971	
+Q6IA69	UniProtKB	Natural variant	704	704	.	.	.	ID=VAR_056206;Note=G->S;Dbxref=dbSNP:rs12282060	
+Q6IA69	UniProtKB	Mutagenesis	175	175	.	.	.	Note=Eliminates glutamine-dependent NAD synthetase activity with the ammonia-dependent activity intact. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12547821;Dbxref=PMID:12547821	
+Q6IA69	UniProtKB	Sequence conflict	102	102	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6IA69	UniProtKB	Sequence conflict	207	207	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6IA69	UniProtKB	Sequence conflict	623	623	.	.	.	Note=W->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

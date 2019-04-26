@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q01432 1 767
+Q01432	UniProtKB	Chain	1	767	.	.	.	ID=PRO_0000194410;Note=AMP deaminase 3	
+Q01432	UniProtKB	Region	388	393	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Region	664	667	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Active site	608	608	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10104	
+Q01432	UniProtKB	Metal binding	317	317	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Metal binding	319	319	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Metal binding	586	586	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Metal binding	663	663	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Binding site	319	319	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Binding site	589	589	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01432	UniProtKB	Modified residue	85	85	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q01432	UniProtKB	Modified residue	107	107	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q01432	UniProtKB	Alternative sequence	1	159	.	.	.	ID=VSP_044230;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q01432	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_001275;Note=In isoform 1A and isoform 2. M->MALSSEPAEM;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1400401,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:1400401,PMID:14702039,PMID:15489334	
+Q01432	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_001276;Note=In isoform 1C and isoform 3. M->MEPGSAEM;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1400401,ECO:0000303|PubMed:14702039;Dbxref=PMID:1400401,PMID:14702039	
+Q01432	UniProtKB	Alternative sequence	208	767	.	.	.	ID=VSP_001277;Note=In isoform 1A. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1400401;Dbxref=PMID:1400401	
+Q01432	UniProtKB	Alternative sequence	652	767	.	.	.	ID=VSP_001278;Note=In isoform 1C. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1400401;Dbxref=PMID:1400401	
+Q01432	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_033499;Note=R->W;Dbxref=dbSNP:rs11042836	
+Q01432	UniProtKB	Natural variant	310	310	.	.	.	ID=VAR_042606;Note=In AMPDDE. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7881427;Dbxref=PMID:7881427	
+Q01432	UniProtKB	Natural variant	311	311	.	.	.	ID=VAR_042607;Note=In AMPDDE. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9598089;Dbxref=dbSNP:rs117706710,PMID:9598089	
+Q01432	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_042608;Note=In AMPDDE. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7881427;Dbxref=dbSNP:rs147542803,PMID:7881427	
+Q01432	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_042609;Note=In AMPDDE. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7881427;Dbxref=dbSNP:rs750004231,PMID:7881427	
+Q01432	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_042610;Note=In AMPDDE. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7881427;Dbxref=dbSNP:rs758038726,PMID:7881427	
+Q01432	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_042611;Note=In AMPDDE. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7881427;Dbxref=dbSNP:rs766280048,PMID:7881427	
+Q01432	UniProtKB	Natural variant	450	450	.	.	.	ID=VAR_042612;Note=In AMPDDE. W->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11139257,ECO:0000269|PubMed:7881427;Dbxref=dbSNP:rs1273151844,PMID:11139257,PMID:7881427	
+Q01432	UniProtKB	Natural variant	455	455	.	.	.	ID=VAR_042613;Note=Y->H;Dbxref=dbSNP:rs36003153	
+Q01432	UniProtKB	Natural variant	573	573	.	.	.	ID=VAR_009881;Note=In AMPDDE%3B enzyme inactive. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8004104;Dbxref=dbSNP:rs3741040,PMID:8004104	
+Q01432	UniProtKB	Natural variant	585	585	.	.	.	ID=VAR_042614;Note=In AMPDDE. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7881427;Dbxref=dbSNP:rs748852415,PMID:7881427	
+Q01432	UniProtKB	Natural variant	712	712	.	.	.	ID=VAR_042615;Note=In AMPDDE. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11139257;Dbxref=PMID:11139257	

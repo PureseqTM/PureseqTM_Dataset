@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region O95997 1 202
+O95997	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+O95997	UniProtKB	Chain	2	202	.	.	.	ID=PRO_0000206361;Note=Securin	
+O95997	UniProtKB	Motif	61	64	.	.	.	Note=D-box	
+O95997	UniProtKB	Motif	71	73	.	.	.	Note=TEK-box 1	
+O95997	UniProtKB	Motif	94	96	.	.	.	Note=TEK-box 2	
+O95997	UniProtKB	Motif	163	173	.	.	.	Note=SH3-binding	
+O95997	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+O95997	UniProtKB	Modified residue	165	165	.	.	.	Note=Phosphoserine%3B by CDK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10656688;Dbxref=PMID:10656688	
+O95997	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Abolishes ubiquitination and subsequent degradation%3B when associated with A-64. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10411507;Dbxref=PMID:10411507	
+O95997	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Abolishes ubiquitination and subsequent degradation%3B when associated with A-61. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10411507;Dbxref=PMID:10411507	
+O95997	UniProtKB	Mutagenesis	163	163	.	.	.	Note=Strongly reduces transforming capability%3B when associated with L-170%3B A-172 and L-173. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9892021;Dbxref=PMID:9892021	
+O95997	UniProtKB	Mutagenesis	165	165	.	.	.	Note=Abolishes phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10656688;Dbxref=PMID:10656688	
+O95997	UniProtKB	Mutagenesis	170	173	.	.	.	Note=Strongly reduces transforming capability%3B when associated with A-163. PSPP->LSAL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9892021;Dbxref=PMID:9892021	

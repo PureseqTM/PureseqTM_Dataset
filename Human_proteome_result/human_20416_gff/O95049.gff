@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region O95049 1 919
+O95049	UniProtKB	Chain	1	919	.	.	.	ID=PRO_0000094546;Note=Tight junction protein ZO-3	
+O95049	UniProtKB	Domain	11	93	.	.	.	Note=PDZ 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O95049	UniProtKB	Domain	195	272	.	.	.	Note=PDZ 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O95049	UniProtKB	Domain	380	446	.	.	.	Note=PDZ 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O95049	UniProtKB	Domain	475	549	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+O95049	UniProtKB	Domain	580	761	.	.	.	Note=Guanylate kinase-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00100	
+O95049	UniProtKB	Modified residue	112	112	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O95049	UniProtKB	Modified residue	136	136	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O95049	UniProtKB	Modified residue	164	164	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+O95049	UniProtKB	Modified residue	169	169	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QXY1	
+O95049	UniProtKB	Modified residue	203	203	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O95049	UniProtKB	Modified residue	319	319	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O95049	UniProtKB	Modified residue	325	325	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O95049	UniProtKB	Modified residue	327	327	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O95049	UniProtKB	Modified residue	371	371	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O95049	UniProtKB	Modified residue	591	591	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+O95049	UniProtKB	Modified residue	856	856	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O95049	UniProtKB	Modified residue	905	905	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+O95049	UniProtKB	Modified residue	906	906	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:20068231,PMID:24275569	
+O95049	UniProtKB	Alternative sequence	1	36	.	.	.	ID=VSP_053844;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O95049	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_040238;Note=In isoform 3. M->MNLCGLMPIFPAPLDQVADM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O95049	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_047022;Note=In isoform 4. M->MAVRFQVADM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O95049	UniProtKB	Natural variant	898	898	.	.	.	ID=VAR_056114;Note=M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1046268,PMID:15489334	
+O95049	UniProtKB	Sequence conflict	19	19	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95049	UniProtKB	Sequence conflict	96	96	.	.	.	Note=H->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95049	UniProtKB	Sequence conflict	449	449	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95049	UniProtKB	Sequence conflict	802	802	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95049	UniProtKB	Sequence conflict	901	901	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95049	UniProtKB	Sequence conflict	917	917	.	.	.	Note=T->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95049	UniProtKB	Beta strand	478	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	490	493	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	501	506	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	522	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	533	539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	542	555	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	596	602	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	606	614	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	621	625	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	628	638	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Turn	640	642	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	643	645	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	661	669	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	673	676	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	680	688	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	694	701	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	703	713	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	721	735	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	736	738	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	740	745	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	747	749	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Helix	751	763	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	
+O95049	UniProtKB	Beta strand	766	771	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KFV	

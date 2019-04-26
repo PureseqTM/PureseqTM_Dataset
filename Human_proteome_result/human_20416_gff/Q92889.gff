@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q92889 1 916
+Q92889	UniProtKB	Chain	1	916	.	.	.	ID=PRO_0000198853;Note=DNA repair endonuclease XPF	
+Q92889	UniProtKB	Domain	683	763	.	.	.	Note=ERCC4	
+Q92889	UniProtKB	Region	1	457	.	.	.	Note=Helicase-like	
+Q92889	UniProtKB	Region	233	254	.	.	.	Note=Leucine-zipper 1	
+Q92889	UniProtKB	Region	270	298	.	.	.	Note=Leucine-zipper 2	
+Q92889	UniProtKB	Region	658	813	.	.	.	Note=Nuclease	
+Q92889	UniProtKB	Region	837	905	.	.	.	Note=HhH2%2C dimerization with ERCC1	
+Q92889	UniProtKB	Motif	486	491	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92889	UniProtKB	Modified residue	289	289	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q92889	UniProtKB	Modified residue	521	521	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZD4	
+Q92889	UniProtKB	Modified residue	764	764	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZD4	
+Q92889	UniProtKB	Cross-link	500	500	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q92889	UniProtKB	Alternative sequence	368	372	.	.	.	ID=VSP_056341;Note=In isoform 2. ETKKE->GILWG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q92889	UniProtKB	Alternative sequence	373	916	.	.	.	ID=VSP_056342;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q92889	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_057477;Note=V->L;Dbxref=dbSNP:rs34205098	
+Q92889	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_072084;Note=Rare functional polymorphism%3B causes mild disruption of interstrand cross-link repair activity%3B partial loss of protein stability. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24027083;Dbxref=dbSNP:rs145402255,PMID:24027083	
+Q92889	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_034802;Note=In XFEPS. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17183314;Dbxref=dbSNP:rs121913050,PMID:17183314	
+Q92889	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_014769;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs2020961	
+Q92889	UniProtKB	Natural variant	225	225	.	.	.	ID=VAR_008200;Note=In XP-F. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=dbSNP:rs764731249,PMID:9580660	
+Q92889	UniProtKB	Natural variant	230	230	.	.	.	ID=VAR_070086;Note=In FANCQ. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23623386;Dbxref=dbSNP:rs397509402,PMID:23623386	
+Q92889	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_070087;Note=In XPF/CS. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23623389;Dbxref=dbSNP:rs397509403,PMID:23623389	
+Q92889	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_072085;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24027083;Dbxref=dbSNP:rs143479220,PMID:24027083	
+Q92889	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_013395;Note=P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9485007,ECO:0000269|Ref.2;Dbxref=dbSNP:rs1799802,PMID:9485007	
+Q92889	UniProtKB	Natural variant	415	415	.	.	.	ID=VAR_013396;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10479728,ECO:0000269|PubMed:14702039,ECO:0000269|Ref.2;Dbxref=dbSNP:rs1800067,PMID:10479728,PMID:14702039	
+Q92889	UniProtKB	Natural variant	454	454	.	.	.	ID=VAR_008201;Note=In XP-F. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=PMID:9580660	
+Q92889	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_008202;Note=In XP-F. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=dbSNP:rs912480692,PMID:9580660	
+Q92889	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_008203;Note=In XP-F. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=PMID:9580660	
+Q92889	UniProtKB	Natural variant	513	513	.	.	.	ID=VAR_008204;Note=In XP-F. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=dbSNP:rs769679311,PMID:9580660	
+Q92889	UniProtKB	Natural variant	529	529	.	.	.	ID=VAR_008205;Note=In XP-F. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=PMID:9580660	
+Q92889	UniProtKB	Natural variant	567	567	.	.	.	ID=VAR_008206;Note=In XP-F. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=PMID:9580660	
+Q92889	UniProtKB	Natural variant	576	576	.	.	.	ID=VAR_013397;Note=R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10479728;Dbxref=dbSNP:rs1800068,PMID:10479728	
+Q92889	UniProtKB	Natural variant	589	589	.	.	.	ID=VAR_070088;Note=In XPF/CS. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23623389;Dbxref=dbSNP:rs147105770,PMID:23623389	
+Q92889	UniProtKB	Natural variant	605	611	.	.	.	ID=VAR_008207;Note=In XP-F. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=PMID:9580660	
+Q92889	UniProtKB	Natural variant	608	608	.	.	.	ID=VAR_013398;Note=In XP-F. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9580660;Dbxref=PMID:9580660	
+Q92889	UniProtKB	Natural variant	621	621	.	.	.	ID=VAR_072086;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24027083;Dbxref=PMID:24027083	
+Q92889	UniProtKB	Natural variant	662	662	.	.	.	ID=VAR_014770;Note=S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs2020955	
+Q92889	UniProtKB	Natural variant	689	689	.	.	.	ID=VAR_070089;Note=In FANCQ%3B disruption of interstrand cross-link repair activity%3B no effect on protein stability. R->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23623386,ECO:0000269|PubMed:24027083;Dbxref=dbSNP:rs149364215,PMID:23623386,PMID:24027083	
+Q92889	UniProtKB	Natural variant	703	703	.	.	.	ID=VAR_005849;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8797827;Dbxref=PMID:8797827	
+Q92889	UniProtKB	Natural variant	706	706	.	.	.	ID=VAR_014771;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs1800069	
+Q92889	UniProtKB	Natural variant	717	717	.	.	.	ID=VAR_013399;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10479728;Dbxref=PMID:10479728	
+Q92889	UniProtKB	Natural variant	768	768	.	.	.	ID=VAR_057478;Note=S->F;Dbxref=dbSNP:rs12928650	
+Q92889	UniProtKB	Natural variant	786	786	.	.	.	ID=VAR_072087;Note=In FANCQ%3B disruption of interstrand cross-link repair activity%3B no effect on protein stability. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24027083;Dbxref=dbSNP:rs1451008479,PMID:24027083	
+Q92889	UniProtKB	Natural variant	799	799	.	.	.	ID=VAR_005850;Note=In XP-F%3B mild%3B significant residual repair activity. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8797827,ECO:0000269|PubMed:9579555;Dbxref=dbSNP:rs121913049,PMID:8797827,PMID:9579555	
+Q92889	UniProtKB	Natural variant	860	860	.	.	.	ID=VAR_057479;Note=A->D;Dbxref=dbSNP:rs4986933	
+Q92889	UniProtKB	Natural variant	873	873	.	.	.	ID=VAR_019201;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs2020957	
+Q92889	UniProtKB	Natural variant	875	875	.	.	.	ID=VAR_013408;Note=E->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10479728,ECO:0000269|Ref.2;Dbxref=dbSNP:rs1800124,PMID:10479728	
+Q92889	UniProtKB	Natural variant	912	912	.	.	.	ID=VAR_014772;Note=G->E;Dbxref=dbSNP:rs2020956	
+Q92889	UniProtKB	Turn	835	837	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AQ0	
+Q92889	UniProtKB	Helix	839	842	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z00	
+Q92889	UniProtKB	Helix	850	853	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A1J	
+Q92889	UniProtKB	Helix	860	869	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A1J	
+Q92889	UniProtKB	Beta strand	870	872	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KN7	
+Q92889	UniProtKB	Helix	873	877	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A1J	
+Q92889	UniProtKB	Helix	881	888	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A1J	
+Q92889	UniProtKB	Helix	891	902	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A1J	
+Q92889	UniProtKB	Helix	905	908	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z00	
+Q92889	UniProtKB	Beta strand	911	913	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z00	

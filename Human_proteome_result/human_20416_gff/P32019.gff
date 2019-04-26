@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region P32019 1 993
+P32019	UniProtKB	Chain	1	990	.	.	.	ID=PRO_0000015640;Note=Type II inositol 1%2C4%2C5-trisphosphate 5-phosphatase	
+P32019	UniProtKB	Propeptide	991	993	.	.	.	ID=PRO_0000422293;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32019	UniProtKB	Domain	22	148	.	.	.	Note=PH	
+P32019	UniProtKB	Domain	821	993	.	.	.	Note=Rho-GAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00172	
+P32019	UniProtKB	Region	342	668	.	.	.	Note=5-phosphatase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32019	UniProtKB	Region	459	460	.	.	.	Note=Substrate binding	
+P32019	UniProtKB	Region	582	583	.	.	.	Note=Substrate binding	
+P32019	UniProtKB	Region	596	598	.	.	.	Note=Substrate binding	
+P32019	UniProtKB	Region	669	782	.	.	.	Note=ASH;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32019	UniProtKB	Metal binding	355	355	.	.	.	Note=Magnesium;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.11	
+P32019	UniProtKB	Metal binding	383	383	.	.	.	Note=Magnesium;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.11	
+P32019	UniProtKB	Binding site	383	383	.	.	.	Note=Substrate	
+P32019	UniProtKB	Modified residue	990	990	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32019	UniProtKB	Lipidation	990	990	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P32019	UniProtKB	Alternative sequence	1	244	.	.	.	ID=VSP_012821;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32019	UniProtKB	Alternative sequence	178	257	.	.	.	ID=VSP_012820;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7721860;Dbxref=PMID:7721860	
+P32019	UniProtKB	Alternative sequence	810	828	.	.	.	ID=VSP_013902;Note=In isoform 4. TLMPVWTGDDGSQLDSPME->LAYLAAYCFETQLVTKSLI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P32019	UniProtKB	Alternative sequence	829	993	.	.	.	ID=VSP_013903;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P32019	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_061270;Note=G->S;Dbxref=dbSNP:rs56993041	
+P32019	UniProtKB	Natural variant	745	745	.	.	.	ID=VAR_028002;Note=M->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:1718960,ECO:0000269|PubMed:7721860;Dbxref=dbSNP:rs11488569,PMID:15489334,PMID:1718960,PMID:7721860	
+P32019	UniProtKB	Mutagenesis	990	990	.	.	.	Note=Loss of prenylation and membrane localization. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7721860;Dbxref=PMID:7721860	
+P32019	UniProtKB	Sequence conflict	587	606	.	.	.	Note=GSDDWDTSEKCRAPAWCDRI->RALTTGIPVRSAVLLPGVIGF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32019	UniProtKB	Sequence conflict	911	911	.	.	.	Note=G->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32019	UniProtKB	Beta strand	340	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	364	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	368	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	375	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	388	391	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	397	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	416	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	427	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	435	440	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	441	450	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	453	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	460	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	472	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	485	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	488	501	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	509	511	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MTC	
+P32019	UniProtKB	Beta strand	518	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	537	545	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	549	553	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Helix	557	563	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	566	568	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5A7J	
+P32019	UniProtKB	Beta strand	588	591	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	594	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5A7J	
+P32019	UniProtKB	Beta strand	604	620	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	626	629	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	
+P32019	UniProtKB	Beta strand	632	643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CML	

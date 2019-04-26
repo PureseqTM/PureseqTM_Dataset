@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region O15534 1 1290
+O15534	UniProtKB	Chain	1	1290	.	.	.	ID=PRO_0000162627;Note=Period circadian protein homolog 1	
+O15534	UniProtKB	Domain	208	275	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O15534	UniProtKB	Domain	348	414	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O15534	UniProtKB	Domain	422	465	.	.	.	Note=PAC	
+O15534	UniProtKB	Region	1	151	.	.	.	Note=Interaction with BTRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15917222;Dbxref=PMID:15917222	
+O15534	UniProtKB	Region	596	815	.	.	.	Note=Required for phosphorylation by CSNK1E;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15534	UniProtKB	Region	1149	1290	.	.	.	Note=CRY binding domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15534	UniProtKB	Motif	138	147	.	.	.	Note=Nuclear export signal 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15534	UniProtKB	Motif	489	498	.	.	.	Note=Nuclear export signal 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35973	
+O15534	UniProtKB	Motif	827	843	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35973	
+O15534	UniProtKB	Motif	982	989	.	.	.	Note=Nuclear export signal 3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15534	UniProtKB	Motif	1043	1047	.	.	.	Note=LXXLL	
+O15534	UniProtKB	Compositional bias	49	129	.	.	.	Note=Ser-rich	
+O15534	UniProtKB	Compositional bias	653	656	.	.	.	Note=Poly-Ser	
+O15534	UniProtKB	Compositional bias	848	1013	.	.	.	Note=Pro-rich	
+O15534	UniProtKB	Compositional bias	1030	1104	.	.	.	Note=Ser-rich	
+O15534	UniProtKB	Compositional bias	1269	1273	.	.	.	Note=Poly-Glu	
+O15534	UniProtKB	Compositional bias	1276	1279	.	.	.	Note=Poly-Ser	
+O15534	UniProtKB	Modified residue	121	121	.	.	.	Note=Phosphothreonine%3B by CSNK1E;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15534	UniProtKB	Modified residue	122	122	.	.	.	Note=Phosphoserine%3B by CSNK1E;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15534	UniProtKB	Modified residue	126	126	.	.	.	Note=Phosphoserine%3B by CSNK1E;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15534	UniProtKB	Modified residue	661	661	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35973	
+O15534	UniProtKB	Modified residue	663	663	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35973	
+O15534	UniProtKB	Modified residue	704	704	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+O15534	UniProtKB	Modified residue	815	815	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+O15534	UniProtKB	Modified residue	979	979	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17081983;Dbxref=PMID:17081983	
+O15534	UniProtKB	Modified residue	980	980	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17081983;Dbxref=PMID:17081983	
+O15534	UniProtKB	Alternative sequence	1	32	.	.	.	ID=VSP_056205;Note=In isoform 2. MSGPLEGADGGGDPRPGESFCPGGVPSPGPPQ->MLEVLEEIWSVRARRA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15534	UniProtKB	Alternative sequence	822	875	.	.	.	ID=VSP_056206;Note=In isoform 2. CHHGPAPPSRRHHCRSKAKRSRHHQNPRAEAPCYVSHPSPVPPSTPWPTPPATT->SHLGPPGACPLPSLGLDCWGVGLKGGVSAPGTQAGVASTTRPCLGTGPSLASPH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15534	UniProtKB	Alternative sequence	876	1290	.	.	.	ID=VSP_056207;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15534	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_079176;Note=Found in a patient with Moyamoya disease%3B unknown pathological significance. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27717682;Dbxref=dbSNP:rs1464745710,PMID:27717682	
+O15534	UniProtKB	Natural variant	696	696	.	.	.	ID=VAR_036038;Note=In a breast cancer sample%3B somatic mutation. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O15534	UniProtKB	Natural variant	962	962	.	.	.	ID=VAR_047899;Note=A->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10857746,ECO:0000269|PubMed:10940553,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9323128,ECO:0000269|PubMed:9333243,ECO:0000269|PubMed:9455484,ECO:0000269|Ref.9;Dbxref=dbSNP:rs2585405,PMID:10857746,PMID:10940553,PMID:15489334,PMID:9323128,PMID:9333243,PMID:9455484	
+O15534	UniProtKB	Natural variant	968	968	.	.	.	ID=VAR_047900;Note=R->H;Dbxref=dbSNP:rs3027193	
+O15534	UniProtKB	Natural variant	985	985	.	.	.	ID=VAR_036039;Note=In a breast cancer sample%3B somatic mutation. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1323588262,PMID:16959974	
+O15534	UniProtKB	Natural variant	1060	1060	.	.	.	ID=VAR_036040;Note=In a colorectal cancer sample%3B somatic mutation. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs761958964,PMID:16959974	
+O15534	UniProtKB	Mutagenesis	121	126	.	.	.	Note=Strongly decreases interaction with BTRC and FBXW11 and inhibits degradation promoted by CSNK1E. TSGCSS->AAGCSA	
+O15534	UniProtKB	Mutagenesis	210	213	.	.	.	Note=No effect on interaction with BTRC and FBXW11. SEYT->AEYA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15917222;Dbxref=PMID:15917222	
+O15534	UniProtKB	Mutagenesis	714	726	.	.	.	Note=No effect on interaction with BTRC and FBXW11. SVVSVTSQCSFSS->AVVAVTAQCAFAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15917222;Dbxref=PMID:15917222	
+O15534	UniProtKB	Mutagenesis	794	798	.	.	.	Note=Strongly decreases interaction with BTRC and FBXW11. FLSRF->ALSRA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15917222;Dbxref=PMID:15917222	

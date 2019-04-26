@@ -1,0 +1,64 @@
+##gff-version 3
+##sequence-region P08172 1 466
+P08172	UniProtKB	Chain	1	466	.	.	.	ID=PRO_0000069021;Note=Muscarinic acetylcholine receptor M2	
+P08172	UniProtKB	Topological domain	1	22	.	.	.	Note=Extracellular	
+P08172	UniProtKB	Transmembrane	23	45	.	.	.	Note=Helical%3B Name%3D1	
+P08172	UniProtKB	Topological domain	46	59	.	.	.	Note=Cytoplasmic	
+P08172	UniProtKB	Transmembrane	60	80	.	.	.	Note=Helical%3B Name%3D2	
+P08172	UniProtKB	Topological domain	81	97	.	.	.	Note=Extracellular	
+P08172	UniProtKB	Transmembrane	98	119	.	.	.	Note=Helical%3B Name%3D3	
+P08172	UniProtKB	Topological domain	120	139	.	.	.	Note=Cytoplasmic	
+P08172	UniProtKB	Transmembrane	140	162	.	.	.	Note=Helical%3B Name%3D4	
+P08172	UniProtKB	Topological domain	163	184	.	.	.	Note=Extracellular	
+P08172	UniProtKB	Transmembrane	185	209	.	.	.	Note=Helical%3B Name%3D5	
+P08172	UniProtKB	Topological domain	210	387	.	.	.	Note=Cytoplasmic	
+P08172	UniProtKB	Transmembrane	388	410	.	.	.	Note=Helical%3B Name%3D6	
+P08172	UniProtKB	Topological domain	411	418	.	.	.	Note=Extracellular	
+P08172	UniProtKB	Transmembrane	419	442	.	.	.	Note=Helical%3B Name%3D7	
+P08172	UniProtKB	Topological domain	443	466	.	.	.	Note=Cytoplasmic	
+P08172	UniProtKB	Region	103	107	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08172	UniProtKB	Region	403	404	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08172	UniProtKB	Region	426	430	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08172	UniProtKB	Motif	120	122	.	.	.	Note=Important for signaling	
+P08172	UniProtKB	Motif	436	440	.	.	.	Note=Important for signaling	
+P08172	UniProtKB	Modified residue	232	232	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ERZ4	
+P08172	UniProtKB	Modified residue	446	446	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Modified residue	450	450	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Modified residue	465	465	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Glycosylation	2	2	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Glycosylation	3	3	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Glycosylation	6	6	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Glycosylation	9	9	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08172	UniProtKB	Disulfide bond	96	176	.	.	.	.	
+P08172	UniProtKB	Disulfide bond	413	416	.	.	.	.	
+P08172	UniProtKB	Mutagenesis	58	58	.	.	.	Note=Nearly abolishes signaling via downstream effectors. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24256733;Dbxref=PMID:24256733	
+P08172	UniProtKB	Mutagenesis	103	103	.	.	.	Note=Reduced affinity for acetylcholine. Abolishes signaling via downstream effectors. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24256733;Dbxref=PMID:24256733	
+P08172	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Abolishes signaling via downstream effectors. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24256733;Dbxref=PMID:24256733	
+P08172	UniProtKB	Mutagenesis	404	404	.	.	.	Note=Reduced affinity for acetylcholine. Reduces signaling via downstream effectors. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24256733;Dbxref=PMID:24256733	
+P08172	UniProtKB	Helix	17	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	57	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	76	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	93	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Turn	128	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	137	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	179	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	184	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	196	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	220	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	227	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	239	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	248	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	265	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	295	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	312	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	325	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	332	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	356	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	382	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	414	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YC8	
+P08172	UniProtKB	Helix	419	440	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	441	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	
+P08172	UniProtKB	Helix	445	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZKC	

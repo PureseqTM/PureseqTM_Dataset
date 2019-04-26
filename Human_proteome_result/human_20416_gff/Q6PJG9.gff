@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q6PJG9 1 635
+Q6PJG9	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Chain	17	635	.	.	.	ID=PRO_0000014843;Note=Leucine-rich repeat and fibronectin type-III domain-containing protein 4	
+Q6PJG9	UniProtKB	Topological domain	17	518	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Transmembrane	519	539	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Topological domain	540	635	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Domain	17	48	.	.	.	Note=LRRNT	
+Q6PJG9	UniProtKB	Repeat	49	70	.	.	.	Note=LRR 1	
+Q6PJG9	UniProtKB	Repeat	73	94	.	.	.	Note=LRR 2	
+Q6PJG9	UniProtKB	Repeat	97	118	.	.	.	Note=LRR 3	
+Q6PJG9	UniProtKB	Repeat	121	142	.	.	.	Note=LRR 4	
+Q6PJG9	UniProtKB	Repeat	146	161	.	.	.	Note=LRR 5	
+Q6PJG9	UniProtKB	Repeat	170	191	.	.	.	Note=LRR 6	
+Q6PJG9	UniProtKB	Repeat	194	215	.	.	.	Note=LRR 7	
+Q6PJG9	UniProtKB	Domain	234	280	.	.	.	Note=LRRCT	
+Q6PJG9	UniProtKB	Domain	281	367	.	.	.	Note=Ig-like	
+Q6PJG9	UniProtKB	Domain	405	502	.	.	.	Note=Fibronectin type-III;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q6PJG9	UniProtKB	Motif	632	635	.	.	.	Note=PDZ-binding	
+Q6PJG9	UniProtKB	Modified residue	585	585	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q6PJG9	UniProtKB	Modified residue	626	626	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q6PJG9	UniProtKB	Glycosylation	25	25	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Glycosylation	70	70	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Glycosylation	324	324	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Glycosylation	333	333	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Glycosylation	376	376	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Glycosylation	440	440	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PJG9	UniProtKB	Disulfide bond	302	351	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q6PJG9	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_024499;Note=V->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.2;Dbxref=dbSNP:rs3741194,PMID:15489334	
+Q6PJG9	UniProtKB	Mutagenesis	633	635	.	.	.	Note=Loss of DLG1-%2C DLG3- and DLG4-binding. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630835;Dbxref=PMID:16630835	

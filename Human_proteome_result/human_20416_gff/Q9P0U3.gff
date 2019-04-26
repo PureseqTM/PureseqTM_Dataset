@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region Q9P0U3 1 644
+Q9P0U3	UniProtKB	Chain	1	644	.	.	.	ID=PRO_0000101716;Note=Sentrin-specific protease 1	
+Q9P0U3	UniProtKB	Region	1	200	.	.	.	Note=Interaction with CCAR2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25406032;Dbxref=PMID:25406032	
+Q9P0U3	UniProtKB	Region	450	613	.	.	.	Note=Protease	
+Q9P0U3	UniProtKB	Motif	171	177	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14563852;Dbxref=PMID:14563852	
+Q9P0U3	UniProtKB	Motif	574	577	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P0U3	UniProtKB	Motif	628	634	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P0U3	UniProtKB	Motif	635	644	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P0U3	UniProtKB	Compositional bias	45	170	.	.	.	Note=Ser-rich	
+Q9P0U3	UniProtKB	Compositional bias	290	300	.	.	.	Note=His-rich	
+Q9P0U3	UniProtKB	Active site	533	533	.	.	.	.	
+Q9P0U3	UniProtKB	Active site	550	550	.	.	.	.	
+Q9P0U3	UniProtKB	Active site	603	603	.	.	.	Note=Nucleophile	
+Q9P0U3	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9P0U3	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9P0U3	UniProtKB	Modified residue	132	132	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q9P0U3	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q9P0U3	UniProtKB	Alternative sequence	593	593	.	.	.	ID=VSP_035777;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10652325;Dbxref=PMID:10652325	
+Q9P0U3	UniProtKB	Natural variant	193	193	.	.	.	ID=VAR_029648;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17854369,PMID:15489334	
+Q9P0U3	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_047547;Note=A->T;Dbxref=dbSNP:rs35130318	
+Q9P0U3	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_029649;Note=D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17854368,PMID:15489334	
+Q9P0U3	UniProtKB	Mutagenesis	441	441	.	.	.	Note=No effect on SUMO2 processing and SUMO2 deconjugating activities. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	465	465	.	.	.	Note=Impairs SUMO2 processing and SUMO2 deconjugating activities. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	468	468	.	.	.	Note=Slightly impairs SUMO2 processing activity. No effect on SUMO2 deconjugating activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	496	496	.	.	.	Note=Impairs SUMO2 processing activity. No effect on SUMO2 deconjugating activity. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	511	511	.	.	.	Note=Impairs SUMO2 processing activity. No effect on SUMO2 deconjugating activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	512	512	.	.	.	Note=Impairs SUMO2 processing and SUMO2 deconjugating activities. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	529	529	.	.	.	Note=Impairs SUMO2 processing activity. No effect on SUMO2 deconjugating activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	532	532	.	.	.	Note=No effect on SUMO2 processing and SUMO2 deconjugating activities. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	533	533	.	.	.	Note=Abolishes SUMO2 processing and SUMO2 deconjugating activities. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	534	534	.	.	.	Note=Abolishes SUMO2 processing and SUMO2 deconjugating activities. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	550	550	.	.	.	Note=Abolishes SUMO2 processing and SUMO2 deconjugating activities. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	597	597	.	.	.	Note=Abolishes SUMO2 processing and SUMO2 deconjugating activities. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16553580;Dbxref=PMID:16553580	
+Q9P0U3	UniProtKB	Mutagenesis	603	603	.	.	.	Note=Abolishes SUMO2 processing and SUMO2 deconjugating activities. C->A%2CS;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14563852,ECO:0000269|PubMed:16553580,ECO:0000269|PubMed:16712526;Dbxref=PMID:14563852,PMID:16553580,PMID:16712526	
+Q9P0U3	UniProtKB	Mutagenesis	603	603	.	.	.	Note=Exclusively nuclear. Loss of CCAR2 desumoylation. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14563852,ECO:0000269|PubMed:16553580,ECO:0000269|PubMed:16712526,ECO:0000269|PubMed:25406032;Dbxref=PMID:14563852,PMID:16553580,PMID:16712526,PMID:25406032	
+Q9P0U3	UniProtKB	Helix	425	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	435	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	445	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	450	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	454	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	468	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	482	484	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IYD	
+Q9P0U3	UniProtKB	Beta strand	490	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Turn	495	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	499	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	506	509	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Turn	510	515	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	518	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	521	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	533	540	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Turn	541	544	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	545	549	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	557	575	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	585	588	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Beta strand	591	594	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	600	602	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	603	615	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	624	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	
+Q9P0U3	UniProtKB	Helix	627	640	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XPH	

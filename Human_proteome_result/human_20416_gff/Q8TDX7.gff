@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q8TDX7 1 302
+Q8TDX7	UniProtKB	Chain	1	302	.	.	.	ID=PRO_0000086430;Note=Serine/threonine-protein kinase Nek7	
+Q8TDX7	UniProtKB	Domain	34	299	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8TDX7	UniProtKB	Nucleotide binding	40	48	.	.	.	Note=ATP	
+Q8TDX7	UniProtKB	Region	20	33	.	.	.	Note=NTE motif	
+Q8TDX7	UniProtKB	Active site	161	161	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q8TDX7	UniProtKB	Binding site	63	63	.	.	.	Note=ATP	
+Q8TDX7	UniProtKB	Site	97	97	.	.	.	Note=Autoinhibitory	
+Q8TDX7	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+Q8TDX7	UniProtKB	Modified residue	5	5	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8TDX7	UniProtKB	Modified residue	195	195	.	.	.	Note=Phosphoserine%3B by NEK9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12840024;Dbxref=PMID:12840024	
+Q8TDX7	UniProtKB	Alternative sequence	67	119	.	.	.	ID=VSP_041243;Note=In isoform 2. IFDLMDAKARADCIKEIDLLKQLNHPNVIKYYASFIEDNELNIVLELADAGDL->VCLLPVWERRVCALNACYFLEIIKGSESLQYMATLTNLFENLPVSHHGSFAKK;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q8TDX7	UniProtKB	Alternative sequence	120	302	.	.	.	ID=VSP_041244;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q8TDX7	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_040924;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55833332,PMID:17344846	
+Q8TDX7	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_040925;Note=In an ovarian serous carcinoma sample%3B somatic mutation. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+Q8TDX7	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Significant decrease in catalytic activity%3B when associated with A-31. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19941817;Dbxref=PMID:19941817	
+Q8TDX7	UniProtKB	Mutagenesis	31	31	.	.	.	Note=Significant decrease in catalytic activity%3B when associated with A-28. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19941817;Dbxref=PMID:19941817	
+Q8TDX7	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Significant decrease in catalytic activity. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19941817;Dbxref=PMID:19941817	
+Q8TDX7	UniProtKB	Mutagenesis	97	97	.	.	.	Note=5-fold increase in catalytic activity. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19941817;Dbxref=PMID:19941817	
+Q8TDX7	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Moderate increase in catalytic activity. Y->F%2CL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19941817;Dbxref=PMID:19941817	
+Q8TDX7	UniProtKB	Helix	24	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	34	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	47	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Turn	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	59	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Turn	67	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQN	
+Q8TDX7	UniProtKB	Helix	73	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	97	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	106	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	119	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	135	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	164	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Beta strand	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	205	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	215	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	243	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Turn	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	265	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	279	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	
+Q8TDX7	UniProtKB	Helix	285	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WQM	

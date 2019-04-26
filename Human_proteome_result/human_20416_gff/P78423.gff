@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region P78423 1 397
+P78423	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P78423	UniProtKB	Chain	25	397	.	.	.	ID=PRO_0000005252;Note=Fractalkine	
+P78423	UniProtKB	Chain	25	339	.	.	.	ID=PRO_0000296224;Note=Processed fractalkine	
+P78423	UniProtKB	Topological domain	25	341	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78423	UniProtKB	Transmembrane	342	362	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78423	UniProtKB	Topological domain	363	397	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78423	UniProtKB	Region	25	100	.	.	.	Note=Chemokine and involved in interaction with ITGAV:ITGB3 and ITGA4:ITGB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Region	101	341	.	.	.	Note=Mucin-like stalk	
+P78423	UniProtKB	Site	339	340	.	.	.	Note=Cleavage%3B to produce soluble form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78423	UniProtKB	Glycosylation	33	33	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78423	UniProtKB	Glycosylation	183	183	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22171320;Dbxref=PMID:22171320	
+P78423	UniProtKB	Glycosylation	253	253	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19838169,ECO:0000269|PubMed:22171320;Dbxref=PMID:19838169,PMID:22171320	
+P78423	UniProtKB	Glycosylation	329	329	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19838169,ECO:0000269|PubMed:22171320;Dbxref=PMID:19838169,PMID:22171320	
+P78423	UniProtKB	Disulfide bond	32	58	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10770945;Dbxref=PMID:10770945	
+P78423	UniProtKB	Disulfide bond	36	74	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10770945;Dbxref=PMID:10770945	
+P78423	UniProtKB	Natural variant	240	240	.	.	.	ID=VAR_048714;Note=A->V;Dbxref=dbSNP:rs35860084	
+P78423	UniProtKB	Mutagenesis	60	60	.	.	.	Note=Reduced binding to integrin ITGAV:ITGB3%2C but no effect on binding to CX3CR1%3B when associated with A-61. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Mutagenesis	60	60	.	.	.	Note=Dominant-negative mutant%2C reduced binding to integrins ITGAV:ITGB3 and ITGA4:ITGB1%2C no effect on binding to CX3CR1%2C defective in ternary complex formation%2C integrin activation and fractalkine signaling and suppression of leukocyte recruitment in the peritonitis model in vivo%3B when associated with E-61. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23125415,ECO:0000269|PubMed:24789099;Dbxref=PMID:23125415,PMID:24789099	
+P78423	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Reduced binding to integrin ITGAV:ITGB3%2C but no effect on binding to CX3CR1%3B when associated with A-60. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Dominant-negative mutant%2C reduced binding to integrins ITGAV:ITGB3 and ITGA4:ITGB1%2C no effect on binding to CX3CR1%2C defective in ternary complex formation%2C integrin activation and fractalkine signaling and suppression of leukocyte recruitment in the peritonitis model in vivo%3B when associated with E-60. R->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23125415,ECO:0000269|PubMed:24789099;Dbxref=PMID:23125415,PMID:24789099	
+P78423	UniProtKB	Mutagenesis	71	71	.	.	.	Note=Loss of binding to CX3CR1 and ability to induce chemotaxis but no effect on binding to integrins. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Little or no effect on binding to integrin ITGAV:ITGB3. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Little or no effect on binding to integrin ITGAV:ITGB3%3B when associated with A-83. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Little or no effect on binding to integrin ITGAV:ITGB3%3B when associated with A-78. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23125415;Dbxref=PMID:23125415	
+P78423	UniProtKB	Beta strand	34	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Helix	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Beta strand	48	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Helix	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Beta strand	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ONA	
+P78423	UniProtKB	Beta strand	63	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Turn	68	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ONA	
+P78423	UniProtKB	Beta strand	72	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Helix	80	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	
+P78423	UniProtKB	Helix	93	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F2L	

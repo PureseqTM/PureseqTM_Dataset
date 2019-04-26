@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P63165 1 101
+P63165	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:20388717;Dbxref=PMID:19413330,PMID:20068231,PMID:21406692,PMID:20388717	
+P63165	UniProtKB	Chain	2	97	.	.	.	ID=PRO_0000035939;Note=Small ubiquitin-related modifier 1	
+P63165	UniProtKB	Propeptide	98	101	.	.	.	ID=PRO_0000035940;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15487983;Dbxref=PMID:15487983	
+P63165	UniProtKB	Domain	20	97	.	.	.	Note=Ubiquitin-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00214	
+P63165	UniProtKB	Site	36	36	.	.	.	Note=Interaction with PIAS2	
+P63165	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:20388717;Dbxref=PMID:19413330,PMID:20068231,PMID:21406692,PMID:20388717	
+P63165	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:18707152;Dbxref=PMID:17081983,PMID:18691976,PMID:20068231,PMID:21406692,PMID:23186163,PMID:18707152	
+P63165	UniProtKB	Modified residue	9	9	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P63165	UniProtKB	Modified residue	32	32	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P63165	UniProtKB	Cross-link	7	7	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate	
+P63165	UniProtKB	Cross-link	7	7	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+P63165	UniProtKB	Cross-link	16	16	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+P63165	UniProtKB	Cross-link	17	17	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25772364,PMID:28112733	
+P63165	UniProtKB	Cross-link	23	23	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P63165	UniProtKB	Cross-link	25	25	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)	
+P63165	UniProtKB	Cross-link	37	37	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+P63165	UniProtKB	Cross-link	39	39	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P63165	UniProtKB	Cross-link	45	45	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P63165	UniProtKB	Cross-link	46	46	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P63165	UniProtKB	Cross-link	97	97	.	.	.	Note=Glycyl lysine isopeptide (Gly-Lys) (interchain with K-? in acceptor proteins)	
+P63165	UniProtKB	Alternative sequence	4	28	.	.	.	ID=VSP_046756;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63165	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Abolishes binding to PIAS2. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16204249;Dbxref=PMID:16204249	
+P63165	UniProtKB	Sequence conflict	75	75	.	.	.	Note=H->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63165	UniProtKB	Beta strand	2	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1A5R	
+P63165	UniProtKB	Turn	9	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1A5R	
+P63165	UniProtKB	Turn	16	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KQS	
+P63165	UniProtKB	Beta strand	22	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Beta strand	29	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z5S	
+P63165	UniProtKB	Beta strand	33	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Beta strand	40	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PE6	
+P63165	UniProtKB	Helix	45	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Helix	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Beta strand	62	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Beta strand	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B7A	
+P63165	UniProtKB	Helix	77	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Beta strand	87	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WJQ	
+P63165	UniProtKB	Beta strand	96	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N1A	

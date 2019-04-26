@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q16613 1 207
+Q16613	UniProtKB	Chain	1	207	.	.	.	ID=PRO_0000074580;Note=Serotonin N-acetyltransferase	
+Q16613	UniProtKB	Domain	35	194	.	.	.	Note=N-acetyltransferase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00532	
+Q16613	UniProtKB	Region	124	126	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Region	132	137	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Region	168	170	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Binding site	124	124	.	.	.	Note=Substrate%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Binding site	159	159	.	.	.	Note=Substrate%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Site	120	120	.	.	.	Note=Important for the catalytic mechanism%3B involved in substrate deprotonation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Site	122	122	.	.	.	Note=Important for the catalytic mechanism%3B involved in substrate deprotonation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Modified residue	31	31	.	.	.	Note=Phosphothreonine%3B by PKA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O97756	
+Q16613	UniProtKB	Modified residue	205	205	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29495	
+Q16613	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_054108;Note=In isoform 2. M->MEPQSMKGQKRPFGGPWRLKVLGGPPWLRRTLPKLGRPKEAPVARM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16613	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_048168;Note=R->C;Dbxref=dbSNP:rs34470791	
+Q16613	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_055086;Note=Found in individuals with delayed sleep phase syndrome%3B has higher frequency in affected individuals than in healthy controls%3B unknown pathological significance. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12736803;Dbxref=dbSNP:rs28936679,PMID:12736803	
+Q16613	UniProtKB	Mutagenesis	31	31	.	.	.	Note=Loss of activation by cAMP. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11427721;Dbxref=PMID:11427721	

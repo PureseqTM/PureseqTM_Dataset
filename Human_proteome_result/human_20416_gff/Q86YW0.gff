@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q86YW0 1 608
+Q86YW0	UniProtKB	Chain	1	608	.	.	.	ID=PRO_0000347244;Note=1-phosphatidylinositol 4%2C5-bisphosphate phosphodiesterase zeta-1	
+Q86YW0	UniProtKB	Domain	35	70	.	.	.	Note=EF-hand;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q86YW0	UniProtKB	Domain	155	299	.	.	.	Note=PI-PLC X-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+Q86YW0	UniProtKB	Domain	349	465	.	.	.	Note=PI-PLC Y-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00271	
+Q86YW0	UniProtKB	Domain	469	572	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q86YW0	UniProtKB	Active site	170	170	.	.	.	Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P10688,ECO:0000255|PROSITE-ProRule:PRU00270	
+Q86YW0	UniProtKB	Active site	215	215	.	.	.	Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P10688,ECO:0000255|PROSITE-ProRule:PRU00270	
+Q86YW0	UniProtKB	Alternative sequence	1	104	.	.	.	ID=VSP_035076;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14697805;Dbxref=PMID:14697805	
+Q86YW0	UniProtKB	Alternative sequence	46	238	.	.	.	ID=VSP_052862;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86YW0	UniProtKB	Natural variant	489	489	.	.	.	ID=VAR_077876;Note=In SPGF17%3B loss of function in egg activation. I->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26721930;Dbxref=dbSNP:rs757326350,PMID:26721930	
+Q86YW0	UniProtKB	Natural variant	500	500	.	.	.	ID=VAR_050542;Note=S->L;Dbxref=dbSNP:rs10505830	
+Q86YW0	UniProtKB	Sequence conflict	294	294	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86YW0	UniProtKB	Sequence conflict	489	489	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

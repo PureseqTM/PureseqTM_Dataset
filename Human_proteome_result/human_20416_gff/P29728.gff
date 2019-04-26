@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P29728 1 719
+P29728	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2211721;Dbxref=PMID:2211721	
+P29728	UniProtKB	Chain	2	719	.	.	.	ID=PRO_0000160264;Note=2'-5'-oligoadenylate synthase 2	
+P29728	UniProtKB	Region	11	335	.	.	.	Note=OAS domain 1	
+P29728	UniProtKB	Region	343	683	.	.	.	Note=OAS domain 2	
+P29728	UniProtKB	Compositional bias	326	346	.	.	.	Note=Pro-rich (linker)	
+P29728	UniProtKB	Metal binding	408	408	.	.	.	Note=Magnesium%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29728	UniProtKB	Metal binding	410	410	.	.	.	Note=Magnesium%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29728	UniProtKB	Metal binding	481	481	.	.	.	Note=Magnesium%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29728	UniProtKB	Binding site	396	396	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00973	
+P29728	UniProtKB	Binding site	544	544	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11986302;Dbxref=PMID:11986302	
+P29728	UniProtKB	Binding site	547	547	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11986302;Dbxref=PMID:11986302	
+P29728	UniProtKB	Modified residue	378	378	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P29728	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2211721;Dbxref=PMID:2211721	
+P29728	UniProtKB	Alternative sequence	151	172	.	.	.	ID=VSP_043354;Note=In isoform 3. LNDNPSPWIYRELKRSLDKTNA->KHCWVSGEKSQRSGCQTALCNL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P29728	UniProtKB	Alternative sequence	173	719	.	.	.	ID=VSP_043355;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P29728	UniProtKB	Alternative sequence	684	687	.	.	.	ID=VSP_003741;Note=In isoform p69. TMQT->VKVI;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1577824;Dbxref=PMID:14702039,PMID:15489334,PMID:1577824	
+P29728	UniProtKB	Alternative sequence	688	719	.	.	.	ID=VSP_003742;Note=In isoform p69. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1577824;Dbxref=PMID:14702039,PMID:15489334,PMID:1577824	
+P29728	UniProtKB	Mutagenesis	2	2	.	.	.	Note=No loss of activity. G->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9880569;Dbxref=PMID:9880569	
+P29728	UniProtKB	Mutagenesis	408	408	.	.	.	Note=Loss of activity%3B when associated with A-410. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10464285;Dbxref=PMID:10464285	
+P29728	UniProtKB	Mutagenesis	410	410	.	.	.	Note=Loss of activity%3B when associated with A-408. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10464285;Dbxref=PMID:10464285	
+P29728	UniProtKB	Mutagenesis	421	421	.	.	.	Note=Significant loss of activity. Y->P%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11986302;Dbxref=PMID:11986302	
+P29728	UniProtKB	Mutagenesis	481	481	.	.	.	Note=Loss of activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10464285;Dbxref=PMID:10464285	
+P29728	UniProtKB	Mutagenesis	544	544	.	.	.	Note=Significant loss of activity. R->A%2CY;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11986302;Dbxref=PMID:11986302	
+P29728	UniProtKB	Mutagenesis	547	547	.	.	.	Note=Partial loss of activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11986302;Dbxref=PMID:11986302	
+P29728	UniProtKB	Mutagenesis	668	668	.	.	.	Note=Loss of activity%3B when associated with A-669 and A-670. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10464285;Dbxref=PMID:10464285	
+P29728	UniProtKB	Mutagenesis	669	669	.	.	.	Note=Loss of activity%3B when associated with A-668 and A-670. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10464285;Dbxref=PMID:10464285	
+P29728	UniProtKB	Mutagenesis	670	670	.	.	.	Note=Loss of activity%3B when associated with A-668 and A-669. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10464285;Dbxref=PMID:10464285	
+P29728	UniProtKB	Sequence conflict	45	47	.	.	.	Note=LQE->CRN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	45	47	.	.	.	Note=LQE->CRN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	127	127	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	127	127	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	606	606	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	606	606	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	639	639	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	639	639	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	657	657	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	657	657	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	662	663	.	.	.	Note=EW->VR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	662	663	.	.	.	Note=EW->VR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29728	UniProtKB	Sequence conflict	719	719	.	.	.	Note=F->FWRSSGNRF;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q15051 1 598
+Q15051	UniProtKB	Chain	1	598	.	.	.	ID=PRO_0000084225;Note=IQ calmodulin-binding motif-containing protein 1	
+Q15051	UniProtKB	Domain	294	317	.	.	.	Note=IQ 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00116	
+Q15051	UniProtKB	Domain	318	338	.	.	.	Note=IQ 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00116	
+Q15051	UniProtKB	Domain	387	416	.	.	.	Note=IQ 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00116	
+Q15051	UniProtKB	Domain	417	437	.	.	.	Note=IQ 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00116	
+Q15051	UniProtKB	Region	1	157	.	.	.	Note=Interaction with BBS1%2C BBS8 and BBS9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25552655;Dbxref=PMID:25552655	
+Q15051	UniProtKB	Region	287	598	.	.	.	Note=Interaction with CEP290%2C BBS1%2C BBS2%2C BBS4%2C BBS5%2C BBS7%2C BBS8 and BBS9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25552655;Dbxref=PMID:25552655	
+Q15051	UniProtKB	Region	530	598	.	.	.	Note=Interaction with BBS1%2C BBS2%2C BBS4%2C BBS7%2C BBS8 and BBS9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25552655;Dbxref=PMID:25552655	
+Q15051	UniProtKB	Coiled coil	336	373	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15051	UniProtKB	Modified residue	572	572	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q15051	UniProtKB	Alternative sequence	196	328	.	.	.	ID=VSP_010245;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:16322217;Dbxref=PMID:15489334,PMID:16322217	
+Q15051	UniProtKB	Alternative sequence	293	303	.	.	.	ID=VSP_013943;Note=In isoform 3. KLHQAACLIQA->IQTIKDVAGDK;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q15051	UniProtKB	Alternative sequence	304	598	.	.	.	ID=VSP_013944;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q15051	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_051074;Note=F->L;Dbxref=dbSNP:rs11926958	
+Q15051	UniProtKB	Natural variant	393	393	.	.	.	ID=VAR_051075;Note=Impairs interaction with calmodulin. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15723066;Dbxref=dbSNP:rs1141528,PMID:15723066	
+Q15051	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_061668;Note=C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17849995,PMID:15489334	
+Q15051	UniProtKB	Natural variant	435	435	.	.	.	ID=VAR_051076;Note=R->C;Dbxref=dbSNP:rs11920543	
+Q15051	UniProtKB	Mutagenesis	549	549	.	.	.	Note=Disrupts interaction with CEP290%2C no effect on interaction with BBS1%2C BBS2%2C BBS4%2C BBS8 and BBS9%2C abolishes ciliogenesis. A->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23446637,ECO:0000269|PubMed:25552655;Dbxref=PMID:23446637,PMID:25552655	

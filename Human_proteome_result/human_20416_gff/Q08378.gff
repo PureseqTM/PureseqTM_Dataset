@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q08378 1 1498
+Q08378	UniProtKB	Chain	1	1498	.	.	.	ID=PRO_0000190057;Note=Golgin subfamily A member 3	
+Q08378	UniProtKB	Region	121	141	.	.	.	Note=Interaction with GOPC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15951434;Dbxref=PMID:15951434	
+Q08378	UniProtKB	Region	172	257	.	.	.	Note=Golgi-targeting domain	
+Q08378	UniProtKB	Coiled coil	394	1459	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q08378	UniProtKB	Compositional bias	20	95	.	.	.	Note=Pro-rich	
+Q08378	UniProtKB	Compositional bias	538	744	.	.	.	Note=Gln-rich	
+Q08378	UniProtKB	Compositional bias	1231	1369	.	.	.	Note=Gln-rich	
+Q08378	UniProtKB	Site	59	60	.	.	.	Note=Cleavage%3B by caspase-2	
+Q08378	UniProtKB	Site	139	140	.	.	.	Note=Cleavage%3B by caspase-3	
+Q08378	UniProtKB	Site	311	312	.	.	.	Note=Cleavage%3B by caspase-7	
+Q08378	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378	
+Q08378	UniProtKB	Modified residue	18	18	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q08378	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P55937	
+Q08378	UniProtKB	Modified residue	272	272	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q08378	UniProtKB	Modified residue	385	385	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q08378	UniProtKB	Modified residue	389	389	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q08378	UniProtKB	Modified residue	465	465	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q08378	UniProtKB	Modified residue	983	983	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q08378	UniProtKB	Modified residue	1392	1392	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q08378	UniProtKB	Alternative sequence	1090	1134	.	.	.	ID=VSP_038000;Note=In isoform 3. LQESRGFRKKIKRLEESNKKLALELEHEKGKLTGLGQSNAALREH->VRPGHLLWRQRGAGHVSPGHAATRETRRTKLHRVPSVATFGVATF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q08378	UniProtKB	Alternative sequence	1135	1498	.	.	.	ID=VSP_038001;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q08378	UniProtKB	Alternative sequence	1382	1390	.	.	.	ID=VSP_007728;Note=In isoform 2. RKEPKGEAS->VLRPASLPG;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q08378	UniProtKB	Alternative sequence	1391	1498	.	.	.	ID=VSP_007729;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q08378	UniProtKB	Natural variant	70	70	.	.	.	ID=VAR_020153;Note=G->E;Dbxref=dbSNP:rs2291256	
+Q08378	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_021901;Note=P->L;Dbxref=dbSNP:rs3741486	
+Q08378	UniProtKB	Natural variant	1185	1185	.	.	.	ID=VAR_020154;Note=K->R;Dbxref=dbSNP:rs2291260	
+Q08378	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Abolishes cleavage by caspase-2. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10791974;Dbxref=PMID:10791974	
+Q08378	UniProtKB	Mutagenesis	121	121	.	.	.	Note=Loss of interaction with GOPC%3B when associated with A-128 and A-135. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15951434;Dbxref=PMID:15951434	
+Q08378	UniProtKB	Mutagenesis	128	128	.	.	.	Note=Loss of interaction with GOPC%3B when associated with A-121 and A-135. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15951434;Dbxref=PMID:15951434	
+Q08378	UniProtKB	Mutagenesis	135	135	.	.	.	Note=Loss of interaction with GOPC%3B when associated with A-121 and A-128. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15951434;Dbxref=PMID:15951434	
+Q08378	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Abolishes cleavage by caspase-3. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10791974;Dbxref=PMID:10791974	
+Q08378	UniProtKB	Mutagenesis	311	311	.	.	.	Note=Abolishes cleavage by caspase-7. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10791974;Dbxref=PMID:10791974	
+Q08378	UniProtKB	Sequence conflict	159	159	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	609	609	.	.	.	Note=L->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	746	746	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	785	785	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	932	932	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	1017	1017	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	1281	1281	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	1315	1315	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08378	UniProtKB	Sequence conflict	1443	1443	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

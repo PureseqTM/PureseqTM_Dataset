@@ -1,0 +1,74 @@
+##gff-version 3
+##sequence-region Q9BY41 1 377
+Q9BY41	UniProtKB	Chain	1	377	.	.	.	ID=PRO_0000114708;Note=Histone deacetylase 8	
+Q9BY41	UniProtKB	Region	14	324	.	.	.	Note=Histone deacetylase	
+Q9BY41	UniProtKB	Active site	143	143	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19053282;Dbxref=PMID:19053282	
+Q9BY41	UniProtKB	Metal binding	178	178	.	.	.	Note=Divalent metal cation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17721440;Dbxref=PMID:17721440	
+Q9BY41	UniProtKB	Metal binding	180	180	.	.	.	Note=Divalent metal cation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17721440;Dbxref=PMID:17721440	
+Q9BY41	UniProtKB	Metal binding	267	267	.	.	.	Note=Divalent metal cation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17721440;Dbxref=PMID:17721440	
+Q9BY41	UniProtKB	Binding site	101	101	.	.	.	Note=Substrate	
+Q9BY41	UniProtKB	Binding site	151	151	.	.	.	Note=Substrate%3B via carbonyl oxygen	
+Q9BY41	UniProtKB	Binding site	306	306	.	.	.	Note=Substrate	
+Q9BY41	UniProtKB	Modified residue	39	39	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15242608;Dbxref=PMID:15242608	
+Q9BY41	UniProtKB	Alternative sequence	56	146	.	.	.	ID=VSP_043426;Note=In isoform 4 and isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BY41	UniProtKB	Alternative sequence	147	377	.	.	.	ID=VSP_047502;Note=In isoform 8. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8889548;Dbxref=PMID:8889548	
+Q9BY41	UniProtKB	Alternative sequence	147	158	.	.	.	ID=VSP_046832;Note=In isoform 7. DEASGFCYLNDA->ETCVYVALYKAF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Alternative sequence	159	377	.	.	.	ID=VSP_046833;Note=In isoform 7. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Alternative sequence	185	210	.	.	.	ID=VSP_046834;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Alternative sequence	246	272	.	.	.	ID=VSP_043427;Note=In isoform 5. SVLKEVYQAFNPKAVVLQLGADTIAGD->RYEPPAPNPGL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BY41	UniProtKB	Alternative sequence	246	256	.	.	.	ID=VSP_046835;Note=In isoform 6. SVLKEVYQAFN->RYEPPAPNPGL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Alternative sequence	257	377	.	.	.	ID=VSP_046836;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Alternative sequence	273	377	.	.	.	ID=VSP_007177;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BY41	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_069140;Note=In CDLS5. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22885700;Dbxref=dbSNP:rs397515416,PMID:22885700	
+Q9BY41	UniProtKB	Natural variant	311	311	.	.	.	ID=VAR_069141;Note=In CDLS5. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22885700;Dbxref=dbSNP:rs397515417,PMID:22885700	
+Q9BY41	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_069142;Note=In CDLS5. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22885700;Dbxref=dbSNP:rs398122909,PMID:22885700	
+Q9BY41	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_069143;Note=In CDLS5. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22885700;Dbxref=dbSNP:rs397515418,PMID:22885700	
+Q9BY41	UniProtKB	Mutagenesis	39	39	.	.	.	Note=Enhances the deacetylase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14701748;Dbxref=PMID:14701748	
+Q9BY41	UniProtKB	Mutagenesis	39	39	.	.	.	Note=Decreases the deacetylase activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14701748;Dbxref=PMID:14701748	
+Q9BY41	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Complete loss of catalytical activity. Complete loss of catalytical activity%3B when associated with F-306. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17721440,ECO:0000269|PubMed:19053282;Dbxref=PMID:17721440,PMID:19053282	
+Q9BY41	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Partial loss of catalytical activity. D->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17721440,ECO:0000269|PubMed:19053282;Dbxref=PMID:17721440,PMID:19053282	
+Q9BY41	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Complete loss of catalytical activity. D->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17721440,ECO:0000269|PubMed:19053282;Dbxref=PMID:17721440,PMID:19053282	
+Q9BY41	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Almost complete loss of catalytical activity. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17721440,ECO:0000269|PubMed:19053282;Dbxref=PMID:17721440,PMID:19053282	
+Q9BY41	UniProtKB	Mutagenesis	142	143	.	.	.	Note=Strongly reduces histone deacetylase activity. HH->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10926844;Dbxref=PMID:10926844	
+Q9BY41	UniProtKB	Mutagenesis	143	143	.	.	.	Note=Loss of catalytic activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19053282;Dbxref=PMID:19053282	
+Q9BY41	UniProtKB	Mutagenesis	306	306	.	.	.	Note=Loss of catalytic activity. Complete loss of catalytic activity%3B when associated with A-101. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17721440;Dbxref=PMID:17721440	
+Q9BY41	UniProtKB	Sequence conflict	31	31	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Sequence conflict	179	179	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Sequence conflict	223	223	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BY41	UniProtKB	Beta strand	17	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	22	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Turn	29	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RN0	
+Q9BY41	UniProtKB	Beta strand	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EZP	
+Q9BY41	UniProtKB	Helix	37	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	50	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	54	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	64	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Turn	68	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	73	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F0R	
+Q9BY41	UniProtKB	Turn	91	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DC8	
+Q9BY41	UniProtKB	Beta strand	99	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	108	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	128	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W22	
+Q9BY41	UniProtKB	Beta strand	132	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	157	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Turn	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	172	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	178	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	183	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Turn	189	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	193	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	207	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1VKG	
+Q9BY41	UniProtKB	Helix	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	225	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	237	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	258	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	266	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	281	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Beta strand	297	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	308	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	337	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Turn	341	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Helix	359	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VI6	
+Q9BY41	UniProtKB	Turn	374	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5D1C	

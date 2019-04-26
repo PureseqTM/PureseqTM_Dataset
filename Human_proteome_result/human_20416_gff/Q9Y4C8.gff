@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q9Y4C8 1 960
+Q9Y4C8	UniProtKB	Chain	1	960	.	.	.	ID=PRO_0000081781;Note=Probable RNA-binding protein 19	
+Q9Y4C8	UniProtKB	Domain	2	79	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y4C8	UniProtKB	Domain	294	369	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y4C8	UniProtKB	Domain	402	480	.	.	.	Note=RRM 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y4C8	UniProtKB	Domain	587	659	.	.	.	Note=RRM 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y4C8	UniProtKB	Domain	730	811	.	.	.	Note=RRM 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y4C8	UniProtKB	Domain	832	912	.	.	.	Note=RRM 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y4C8	UniProtKB	Compositional bias	225	232	.	.	.	Note=Poly-Glu	
+Q9Y4C8	UniProtKB	Compositional bias	391	396	.	.	.	Note=Poly-Glu	
+Q9Y4C8	UniProtKB	Compositional bias	714	725	.	.	.	Note=Poly-Glu	
+Q9Y4C8	UniProtKB	Modified residue	174	174	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+Q9Y4C8	UniProtKB	Modified residue	176	176	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+Q9Y4C8	UniProtKB	Modified residue	180	180	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+Q9Y4C8	UniProtKB	Modified residue	936	936	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q9Y4C8	UniProtKB	Modified residue	949	949	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:20068231,PMID:21406692	
+Q9Y4C8	UniProtKB	Modified residue	951	951	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:20068231,PMID:21406692	
+Q9Y4C8	UniProtKB	Cross-link	481	481	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9Y4C8	UniProtKB	Natural variant	602	602	.	.	.	ID=VAR_059822;Note=Q->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11230166,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9734811;Dbxref=dbSNP:rs7299217,PMID:11230166,PMID:14702039,PMID:15489334,PMID:9734811	
+Q9Y4C8	UniProtKB	Natural variant	609	609	.	.	.	ID=VAR_023114;Note=H->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9734811;Dbxref=dbSNP:rs2290789,PMID:15489334,PMID:9734811	
+Q9Y4C8	UniProtKB	Natural variant	623	623	.	.	.	ID=VAR_023115;Note=I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9734811;Dbxref=dbSNP:rs2290788,PMID:15489334,PMID:9734811	
+Q9Y4C8	UniProtKB	Natural variant	665	665	.	.	.	ID=VAR_023116;Note=T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9734811;Dbxref=dbSNP:rs2290787,PMID:15489334,PMID:9734811	
+Q9Y4C8	UniProtKB	Natural variant	821	821	.	.	.	ID=VAR_057246;Note=R->G;Dbxref=dbSNP:rs16943379	
+Q9Y4C8	UniProtKB	Natural variant	921	921	.	.	.	ID=VAR_023117;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11230166;Dbxref=dbSNP:rs2075387,PMID:11230166	
+Q9Y4C8	UniProtKB	Sequence conflict	141	141	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y4C8	UniProtKB	Sequence conflict	259	259	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y4C8	UniProtKB	Sequence conflict	259	259	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y4C8	UniProtKB	Sequence conflict	259	259	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y4C8	UniProtKB	Beta strand	295	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	
+Q9Y4C8	UniProtKB	Helix	307	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	
+Q9Y4C8	UniProtKB	Beta strand	320	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	
+Q9Y4C8	UniProtKB	Beta strand	332	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	
+Q9Y4C8	UniProtKB	Helix	343	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	
+Q9Y4C8	UniProtKB	Beta strand	354	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	
+Q9Y4C8	UniProtKB	Beta strand	360	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DGW	

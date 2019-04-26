@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region P22460 1 613
+P22460	UniProtKB	Chain	1	613	.	.	.	ID=PRO_0000053985;Note=Potassium voltage-gated channel subfamily A member 5	
+P22460	UniProtKB	Topological domain	1	247	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Transmembrane	248	269	.	.	.	Note=Helical%3B Name%3DSegment S1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	270	323	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Transmembrane	324	345	.	.	.	Note=Helical%3B Name%3DSegment S2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	346	356	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Transmembrane	357	377	.	.	.	Note=Helical%3B Name%3DSegment S3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	378	395	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Transmembrane	396	416	.	.	.	Note=Helical%3B Voltage-sensor%3B Name%3DSegment S4;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	417	431	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Transmembrane	432	453	.	.	.	Note=Helical%3B Name%3DSegment S5;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	454	467	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Intramembrane	468	479	.	.	.	Note=Helical%3B Name%3DPore helix;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Intramembrane	480	487	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	488	494	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Transmembrane	495	523	.	.	.	Note=Helical%3B Name%3DSegment S6;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Topological domain	524	613	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Repeat	61	71	.	.	.	Note=1	
+P22460	UniProtKB	Repeat	72	82	.	.	.	Note=2	
+P22460	UniProtKB	Region	61	82	.	.	.	Note=2 X 11 AA tandem repeat of D-[SP]-G-V-R-P-L-P-P-L-P	
+P22460	UniProtKB	Region	418	431	.	.	.	Note=S4-S5 linker;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Motif	480	485	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63142	
+P22460	UniProtKB	Motif	611	613	.	.	.	Note=PDZ-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22460	UniProtKB	Compositional bias	94	99	.	.	.	Note=Poly-Glu	
+P22460	UniProtKB	Compositional bias	382	387	.	.	.	Note=Poly-Gly	
+P22460	UniProtKB	Modified residue	557	557	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22460	UniProtKB	Lipidation	346	346	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22460	UniProtKB	Cross-link	221	221	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17261810;Dbxref=PMID:17261810	
+P22460	UniProtKB	Cross-link	536	536	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17261810;Dbxref=PMID:17261810	
+P22460	UniProtKB	Alternative sequence	1	209	.	.	.	ID=VSP_037110;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_079602;Note=Found in a patient with pulmonary arterial hypertension%3B unknown pathological significance. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24936649;Dbxref=PMID:24936649	
+P22460	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_079603;Note=L->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24936649;Dbxref=PMID:24936649	
+P22460	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_079604;Note=Found in a patient with pulmonary arterial hypertension%3B unknown pathological significance. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24936649;Dbxref=PMID:24936649	
+P22460	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_079605;Note=Found in a patient with pulmonary arterial hypertension%3B unknown pathological significance. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24936649;Dbxref=PMID:24936649	
+P22460	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_079606;Note=Found in a patient with pulmonary arterial hypertension%3B unknown pathological significance. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24936649;Dbxref=PMID:24936649	
+P22460	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_053856;Note=P->S;Dbxref=dbSNP:rs1056464	
+P22460	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_035770;Note=In a breast cancer sample%3B somatic mutation. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs148708451,PMID:16959974	
+P22460	UniProtKB	Natural variant	578	578	.	.	.	ID=VAR_054786;Note=R->K;Dbxref=dbSNP:rs12720445	
+P22460	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Loss of DLG1 effect on channel current. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16466689;Dbxref=PMID:16466689	
+P22460	UniProtKB	Mutagenesis	220	220	.	.	.	Note=Reduces sumoylation%3B when associated with N-535. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17261810;Dbxref=PMID:17261810	
+P22460	UniProtKB	Mutagenesis	221	221	.	.	.	Note=Abolishes sumoylation%3B when associated with R-536. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17261810;Dbxref=PMID:17261810	
+P22460	UniProtKB	Mutagenesis	535	535	.	.	.	Note=Reduces sumoylation%3B when associated with N-220. L->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17261810;Dbxref=PMID:17261810	
+P22460	UniProtKB	Mutagenesis	536	536	.	.	.	Note=Abolishes sumoylation%3B when associated with R-221. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17261810;Dbxref=PMID:17261810	
+P22460	UniProtKB	Sequence conflict	55	55	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	138	138	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	154	154	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	154	154	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	187	188	.	.	.	Note=RP->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	214	214	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	228	228	.	.	.	Note=P->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	282	282	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22460	UniProtKB	Sequence conflict	307	307	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

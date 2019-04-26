@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region P50461 1 194
+P50461	UniProtKB	Chain	1	194	.	.	.	ID=PRO_0000075727;Note=Cysteine and glycine-rich protein 3	
+P50461	UniProtKB	Domain	10	61	.	.	.	Note=LIM zinc-binding 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00125	
+P50461	UniProtKB	Domain	120	171	.	.	.	Note=LIM zinc-binding 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00125	
+P50461	UniProtKB	Region	1	5	.	.	.	Note=Interaction with TCAP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12507422;Dbxref=PMID:12507422	
+P50461	UniProtKB	Region	94	105	.	.	.	Note=Interaction with CLF2 and isoform 2;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19752190,ECO:0000269|PubMed:24860983;Dbxref=PMID:19752190,PMID:24860983	
+P50461	UniProtKB	Motif	64	69	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P50463,ECO:0000255	
+P50461	UniProtKB	Compositional bias	63	78	.	.	.	Note=Gly-rich	
+P50461	UniProtKB	Compositional bias	177	185	.	.	.	Note=Gly-rich	
+P50461	UniProtKB	Modified residue	95	95	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P50462	
+P50461	UniProtKB	Modified residue	153	153	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P50463	
+P50461	UniProtKB	Alternative sequence	38	59	.	.	.	ID=VSP_058575;Note=In isoform 2. MACRKALDSTTVAAHESEIYCK->TLAQDLFPLCHLWEESGVHKC	
+P50461	UniProtKB	Alternative sequence	60	194	.	.	.	ID=VSP_058576;Note=In isoform 2. Missing	
+P50461	UniProtKB	Natural variant	4	4	.	.	.	ID=VAR_015401;Note=In CMD1M%3B unknown pathological significance%3B decreases interaction with TCAP. W->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12507422,ECO:0000269|PubMed:18505755;Dbxref=dbSNP:rs45550635,PMID:12507422,PMID:18505755	
+P50461	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_045932;Note=In CMH12%3B decreases PKC/PRKCA activity. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12642359,ECO:0000269|PubMed:27353086;Dbxref=dbSNP:rs104894205,PMID:12642359,PMID:27353086	
+P50461	UniProtKB	Natural variant	54	55	.	.	.	ID=VAR_045933;Note=In CMH12%3B decreases PKC/PRKCA activity. SE->RG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27353086;Dbxref=dbSNP:rs281865416,PMID:27353086	
+P50461	UniProtKB	Natural variant	58	58	.	.	.	ID=VAR_045934;Note=In CMH12%3B decreases interaction with NRAP and ACTN2%2C decreases zinc-binding and impairs protein stability%2C decreases PKC/PRKCA activity. C->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12642359,ECO:0000269|PubMed:15205937,ECO:0000269|PubMed:18505755;Dbxref=dbSNP:rs104894204,PMID:12642359,PMID:15205937,PMID:18505755	
+P50461	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_076805;Note=In CMD1M%3B unknown pathological significance%3B increases PKC/PRKCA activity. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19412328,ECO:0000269|PubMed:27353086;Dbxref=dbSNP:rs45552933,PMID:19412328,PMID:27353086	
+P50461	UniProtKB	Mutagenesis	69	69	.	.	.	Note=Increases PKC/PRKCA activity. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27353086;Dbxref=PMID:27353086	
+P50461	UniProtKB	Sequence conflict	26	26	.	.	.	Note=N->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50461	UniProtKB	Beta strand	14	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Helix	19	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Beta strand	22	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Beta strand	28	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Turn	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Beta strand	38	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Turn	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Beta strand	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Beta strand	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Helix	59	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O10	
+P50461	UniProtKB	Turn	121	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Turn	129	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Beta strand	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Beta strand	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Turn	142	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Beta strand	145	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Turn	148	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Beta strand	159	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Beta strand	165	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	
+P50461	UniProtKB	Helix	169	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O13	

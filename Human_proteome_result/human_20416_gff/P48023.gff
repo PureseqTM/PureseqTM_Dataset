@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P48023 1 281
+P48023	UniProtKB	Chain	1	281	.	.	.	ID=PRO_0000034500;Note=Tumor necrosis factor ligand superfamily member 6%2C membrane form	
+P48023	UniProtKB	Chain	1	129	.	.	.	ID=PRO_0000417152;Note=ADAM10-processed FasL form	
+P48023	UniProtKB	Chain	1	81	.	.	.	ID=PRO_0000416842;Note=FasL intracellular domain	
+P48023	UniProtKB	Chain	130	281	.	.	.	ID=PRO_0000034501;Note=Tumor necrosis factor ligand superfamily member 6%2C soluble form	
+P48023	UniProtKB	Topological domain	1	80	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48023	UniProtKB	Transmembrane	81	102	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48023	UniProtKB	Topological domain	103	281	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48023	UniProtKB	Compositional bias	4	70	.	.	.	Note=Pro-rich	
+P48023	UniProtKB	Compositional bias	45	65	.	.	.	Note=Poly-Pro	
+P48023	UniProtKB	Site	81	82	.	.	.	Note=Cleavage%3B by SPPL2A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P48023	UniProtKB	Site	129	130	.	.	.	Note=Cleavage%3B by ADAM10;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P48023	UniProtKB	Glycosylation	184	184	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48023	UniProtKB	Glycosylation	250	250	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48023	UniProtKB	Glycosylation	260	260	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48023	UniProtKB	Disulfide bond	202	233	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4MSV,ECO:0000244|PDB:5L19,ECO:0000269|PubMed:27806260;Dbxref=PMID:27806260	
+P48023	UniProtKB	Alternative sequence	117	127	.	.	.	ID=VSP_006443;Note=In isoform 2. STSQMHTASSL->ATPVHPLKKRS;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P48023	UniProtKB	Alternative sequence	128	281	.	.	.	ID=VSP_006444;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P48023	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_052583;Note=Y->S;Dbxref=dbSNP:rs12079514	
+P48023	UniProtKB	Natural variant	202	202	.	.	.	ID=VAR_075568;Note=In ALPS1B%3B significant reduction in cytotoxicity and apoptosis and inhibition of the shedding of the soluble form. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26334989;Dbxref=PMID:26334989	
+P48023	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Lowers binding to TNFRSF6 and reduces cytotoxicity more than 100-fold. P->D%2CF%2CR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9228058;Dbxref=PMID:9228058	
+P48023	UniProtKB	Mutagenesis	218	218	.	.	.	Note=Lowers binding to TNFRSF6 and abolishes cytotoxicity. Y->F%2CR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9228058;Dbxref=PMID:9228058	
+P48023	UniProtKB	Mutagenesis	275	275	.	.	.	Note=Abolishes binding to TNRFSF6 and cytotoxicity. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9228058;Dbxref=PMID:9228058	
+P48023	UniProtKB	Helix	137	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	146	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	157	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MSV	
+P48023	UniProtKB	Beta strand	165	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MSV	
+P48023	UniProtKB	Beta strand	170	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	180	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	187	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	207	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	218	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MSV	
+P48023	UniProtKB	Beta strand	222	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	239	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	256	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Helix	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Turn	271	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	
+P48023	UniProtKB	Beta strand	274	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L19	

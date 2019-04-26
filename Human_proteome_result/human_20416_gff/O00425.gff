@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region O00425 1 579
+O00425	UniProtKB	Chain	1	579	.	.	.	ID=PRO_0000282538;Note=Insulin-like growth factor 2 mRNA-binding protein 3	
+O00425	UniProtKB	Domain	2	75	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+O00425	UniProtKB	Domain	81	156	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+O00425	UniProtKB	Domain	195	260	.	.	.	Note=KH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+O00425	UniProtKB	Domain	276	343	.	.	.	Note=KH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+O00425	UniProtKB	Domain	405	470	.	.	.	Note=KH 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+O00425	UniProtKB	Domain	487	553	.	.	.	Note=KH 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+O00425	UniProtKB	Modified residue	184	184	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+O00425	UniProtKB	Modified residue	528	528	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:21406692,PMID:23186163	
+O00425	UniProtKB	Cross-link	450	450	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O00425	UniProtKB	Cross-link	475	475	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+O00425	UniProtKB	Alternative sequence	1	381	.	.	.	ID=VSP_024172;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+O00425	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C modestly impaired binding to ACTB and MYC transcripts and almost no effect on ELAVL1-%2C DHX9- and HNRNPU-binding%2C nor on subcellular location%3B when associated with E-294%3B 422-E-E-423 and 505-E-E-506. K->E	
+O00425	UniProtKB	Mutagenesis	294	294	.	.	.	Note=Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C Modestly impaired binding to ACTB and MYC transcripts and almost no effect on ELAVL1-%2C DHX9- and HNRNPU-binding%2C nor on subcellular location%3B when associated with E-213%3B 422-E-E-423 and 505-E-E-506. K->E	
+O00425	UniProtKB	Mutagenesis	423	424	.	.	.	Note=Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C Modestly impaired binding to ACTB and MYC transcripts and almost no effect on ELAVL1-%2C DHX9- and HNRNPU-binding%2C nor on subcellular location%3B when associated with E-213%3B E-294 and 505-E-E-506. KQ->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23640942;Dbxref=PMID:23640942	
+O00425	UniProtKB	Mutagenesis	505	506	.	.	.	Note=Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C Modestly impaired binding to ACTB and MYC transcripts and almost no effect on ELAVL1-%2C DHX9- and HNRNPU-binding%2C nor on subcellular location%3B when associated with E-213%3B E-294 and 422-E-E-423. KG->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23640942;Dbxref=PMID:23640942	
+O00425	UniProtKB	Sequence conflict	410	410	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00425	UniProtKB	Sequence conflict	410	410	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00425	UniProtKB	Sequence conflict	494	494	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00425	UniProtKB	Beta strand	3	8	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Helix	15	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Helix	47	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Turn	58	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GX6	
+O00425	UniProtKB	Beta strand	69	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Helix	76	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	80	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E44	
+O00425	UniProtKB	Helix	94	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	107	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	116	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Helix	129	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Beta strand	150	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	
+O00425	UniProtKB	Helix	157	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQ1	

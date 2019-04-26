@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q31612 1 363
+Q31612	UniProtKB	Signal peptide	1	24	.	.	.	.	
+Q31612	UniProtKB	Chain	25	363	.	.	.	ID=PRO_0000018864;Note=HLA class I histocompatibility antigen%2C B-73 alpha chain	
+Q31612	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q31612	UniProtKB	Transmembrane	309	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q31612	UniProtKB	Topological domain	334	363	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q31612	UniProtKB	Domain	209	297	.	.	.	Note=Ig-like C1-type	
+Q31612	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+Q31612	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+Q31612	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+Q31612	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+Q31612	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q31612	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q31612	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q31612	UniProtKB	Natural variant	4	4	.	.	.	ID=VAR_056430;Note=M->T;Dbxref=dbSNP:rs1050458	
+Q31612	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_056431;Note=V->L;Dbxref=dbSNP:rs1050462	
+Q31612	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_056432;Note=L->V;Dbxref=dbSNP:rs1131165	
+Q31612	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_056433;Note=A->T;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21269460;Dbxref=dbSNP:rs1050529,PMID:21269460	
+Q31612	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_056434;Note=N->D;Dbxref=dbSNP:rs1050570	
+Q31612	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_059496;Note=N->K;Dbxref=dbSNP:rs1065386	
+Q31612	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_056435;Note=R->S;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=dbSNP:rs1050654,PMID:25944712	
+Q31612	UniProtKB	Sequence conflict	338	339	.	.	.	Note=SG->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	

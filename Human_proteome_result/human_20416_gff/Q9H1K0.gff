@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q9H1K0 1 784
+Q9H1K0	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9H1K0	UniProtKB	Chain	2	784	.	.	.	ID=PRO_0000098711;Note=Rabenosyn-5	
+Q9H1K0	UniProtKB	Domain	496	515	.	.	.	Note=UIM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H1K0	UniProtKB	Zinc finger	14	37	.	.	.	Note=C2H2-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q9H1K0	UniProtKB	Zinc finger	157	260	.	.	.	Note=FYVE-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00091	
+Q9H1K0	UniProtKB	Region	100	263	.	.	.	Note=Necessary for the correct targeting to endosomes	
+Q9H1K0	UniProtKB	Region	264	784	.	.	.	Note=Necessary for interaction with EHD1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15020713;Dbxref=PMID:15020713	
+Q9H1K0	UniProtKB	Region	264	500	.	.	.	Note=Necessary for interaction with RAB4A	
+Q9H1K0	UniProtKB	Region	627	784	.	.	.	Note=Necessary for interaction with RAB5A	
+Q9H1K0	UniProtKB	Coiled coil	378	414	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H1K0	UniProtKB	Coiled coil	472	531	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H1K0	UniProtKB	Compositional bias	204	239	.	.	.	Note=Ser-rich	
+Q9H1K0	UniProtKB	Compositional bias	665	672	.	.	.	Note=Poly-Glu	
+Q9H1K0	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9H1K0	UniProtKB	Modified residue	3	3	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H1K0	UniProtKB	Modified residue	215	215	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q80Y56	
+Q9H1K0	UniProtKB	Modified residue	219	219	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H1K0	UniProtKB	Modified residue	226	226	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H1K0	UniProtKB	Modified residue	230	230	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H1K0	UniProtKB	Modified residue	684	684	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9H1K0	UniProtKB	Alternative sequence	200	208	.	.	.	ID=VSP_056003;Note=In isoform 2. NKLTSASKE->KITTLHGES;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H1K0	UniProtKB	Alternative sequence	209	784	.	.	.	ID=VSP_056004;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H1K0	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_072416;Note=Found in a patient with intractable epileptic encephalopathy%2C developmental delay and additional multi-organ symptoms%3B unknown pathological significance. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25233840;Dbxref=dbSNP:rs144008665,PMID:25233840	
+Q9H1K0	UniProtKB	Natural variant	591	591	.	.	.	ID=VAR_052982;Note=L->P;Dbxref=dbSNP:rs9868848	
+Q9H1K0	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_052983;Note=T->A;Dbxref=dbSNP:rs9851219	
+Q9H1K0	UniProtKB	Natural variant	722	722	.	.	.	ID=VAR_052984;Note=M->I;Dbxref=dbSNP:rs9830744	
+Q9H1K0	UniProtKB	Mutagenesis	626	628	.	.	.	Note=Reduces the interaction with EHD1. Abolishes the interaction with EHD1%3B when associated with 662-APA-664. NPF->APA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15020713;Dbxref=PMID:15020713	
+Q9H1K0	UniProtKB	Mutagenesis	662	664	.	.	.	Note=Reduces the interaction with EHD1. Abolishes the interaction with EHD1%3B when associated with 626-APA-628. NPF->APA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15020713;Dbxref=PMID:15020713	
+Q9H1K0	UniProtKB	Sequence conflict	106	106	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H1K0	UniProtKB	Sequence conflict	720	720	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H1K0	UniProtKB	Helix	458	475	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YZM	
+Q9H1K0	UniProtKB	Helix	479	500	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YZM	
+Q9H1K0	UniProtKB	Helix	736	755	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z0J	
+Q9H1K0	UniProtKB	Helix	759	779	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z0J	

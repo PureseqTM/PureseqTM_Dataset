@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region O76070 1 127
+O76070	UniProtKB	Chain	1	127	.	.	.	ID=PRO_0000184038;Note=Gamma-synuclein	
+O76070	UniProtKB	Repeat	20	30	.	.	.	Note=1	
+O76070	UniProtKB	Repeat	31	41	.	.	.	Note=2	
+O76070	UniProtKB	Repeat	42	56	.	.	.	Note=3%3B approximate	
+O76070	UniProtKB	Repeat	57	67	.	.	.	Note=4	
+O76070	UniProtKB	Region	20	67	.	.	.	Note=4 X 11 AA tandem repeats of [EGSA]-K-T-K-[EQ]-[GQ]-V-X(4)	
+O76070	UniProtKB	Modified residue	67	67	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63544	
+O76070	UniProtKB	Modified residue	72	72	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63544	
+O76070	UniProtKB	Modified residue	124	124	.	.	.	Note=Phosphoserine%3B by BARK1%2C CaMK2 and CK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10852916;Dbxref=PMID:10852916	
+O76070	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_007455;Note=E->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9737786;Dbxref=dbSNP:rs9864,PMID:15489334,PMID:9737786	
+O76070	UniProtKB	Sequence conflict	13	13	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O76070	UniProtKB	Sequence conflict	17	17	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O76070	UniProtKB	Sequence conflict	68	68	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region O95299 1 355
+O95299	UniProtKB	Transit peptide	1	35	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P34942	
+O95299	UniProtKB	Chain	36	355	.	.	.	ID=PRO_0000019988;Note=NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10%2C mitochondrial	
+O95299	UniProtKB	Modified residue	250	250	.	.	.	Note=Phosphoserine%3B by PINK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99LC3	
+O95299	UniProtKB	Modified residue	285	285	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99LC3	
+O95299	UniProtKB	Alternative sequence	183	183	.	.	.	ID=VSP_056417;Note=In isoform 2. C->CESALQTHFWTGVAGASGKLESGSSEEVLLINERGGRSKPG;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+O95299	UniProtKB	Alternative sequence	214	223	.	.	.	ID=VSP_056418;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+O95299	UniProtKB	Alternative sequence	334	355	.	.	.	ID=VSP_056419;Note=In isoform 2. LPGRKYSPGYNTEVGDKWIWLK->RLDWTVCFGEESTEVKHQGHLLSVQPGTVALTVGSWLRSCLLGLHWKLLFLFPESPMHTTAFMFLC;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+O95299	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_034149;Note=A->G;Dbxref=dbSNP:rs11541494	
+O95299	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_078937;Note=In LS. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21150889;Dbxref=dbSNP:rs387906873,PMID:21150889	

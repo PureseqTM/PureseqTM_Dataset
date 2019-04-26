@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region Q9UBE0 1 346
+Q9UBE0	UniProtKB	Chain	1	346	.	.	.	ID=PRO_0000194966;Note=SUMO-activating enzyme subunit 1	
+Q9UBE0	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B alternate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000269|PubMed:25489052;Dbxref=PMID:19413330,PMID:25489052	
+Q9UBE0	UniProtKB	Chain	2	346	.	.	.	ID=PRO_0000423290;Note=SUMO-activating enzyme subunit 1%2C N-terminally processed	
+Q9UBE0	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+Q9UBE0	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylvaline%3B in SUMO-activating enzyme subunit 1%2C N-terminally processed;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000269|PubMed:25489052;Dbxref=PMID:19413330,PMID:25489052	
+Q9UBE0	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9UBE0	UniProtKB	Modified residue	198	198	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9R1T2	
+Q9UBE0	UniProtKB	Alternative sequence	245	299	.	.	.	ID=VSP_045372;Note=In isoform 3. VLLKFRTDKGRDPSSDTYEEDSELLLQIRNDVLDSLGISPDLLPEDFVRYCFSEM->GPVSAGPSSQQLLLLRWHEGEWDCGVPWPQVNSRFGSPRDANCSMPTCIPCPLPS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UBE0	UniProtKB	Alternative sequence	245	266	.	.	.	ID=VSP_045373;Note=In isoform 2. VLLKFRTDKGRDPSSDTYEEDS->GTASPRWPQCVRWLEGFWHRKL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q9UBE0	UniProtKB	Alternative sequence	267	346	.	.	.	ID=VSP_045374;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q9UBE0	UniProtKB	Alternative sequence	300	346	.	.	.	ID=VSP_045375;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UBE0	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Abolishes ATP-dependent activation of SUMO proteins. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20164921;Dbxref=PMID:20164921	
+Q9UBE0	UniProtKB	Mutagenesis	24	26	.	.	.	Note=Abolishes ATP-dependent activation of SUMO proteins. RLW->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20164921;Dbxref=PMID:20164921	
+Q9UBE0	UniProtKB	Sequence conflict	115	115	.	.	.	Note=I->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBE0	UniProtKB	Sequence conflict	158	158	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBE0	UniProtKB	Sequence conflict	178	180	.	.	.	Note=KTK->ETD;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBE0	UniProtKB	Sequence conflict	186	186	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBE0	UniProtKB	Sequence conflict	273	273	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBE0	UniProtKB	Helix	13	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	28	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	38	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	46	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	61	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KYC	
+Q9UBE0	UniProtKB	Helix	76	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	91	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	106	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	115	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	120	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	127	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	136	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	152	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	162	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	170	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	206	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	216	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	227	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	239	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	253	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	259	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	262	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Turn	279	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	284	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Helix	289	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KYC	
+Q9UBE0	UniProtKB	Helix	300	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	327	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Turn	333	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	
+Q9UBE0	UniProtKB	Beta strand	337	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Y8Q	

@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q96T60 1 521
+Q96T60	UniProtKB	Chain	1	521	.	.	.	ID=PRO_0000058478;Note=Bifunctional polynucleotide phosphatase/kinase	
+Q96T60	UniProtKB	Domain	6	110	.	.	.	Note=FHA	
+Q96T60	UniProtKB	Nucleotide binding	372	379	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96T60	UniProtKB	Region	146	337	.	.	.	Note=Phosphatase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96T60	UniProtKB	Region	341	516	.	.	.	Note=Kinase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96T60	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q96T60	UniProtKB	Modified residue	114	114	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+Q96T60	UniProtKB	Modified residue	118	118	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+Q96T60	UniProtKB	Modified residue	122	122	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:18669648,PMID:19690332,PMID:23186163	
+Q96T60	UniProtKB	Alternative sequence	1	50	.	.	.	ID=VSP_055500;Note=In isoform 2. MGEVEAPGRLWLESPPGGAPPIFLPSDGQALVLGRGPLTQVTDRKCSRTQ->MQILTPPLQSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96T60	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_019260;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3739168	
+Q96T60	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_019261;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3739173	
+Q96T60	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_063835;Note=In MCSZ. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20118933;Dbxref=dbSNP:rs267606957,PMID:20118933	
+Q96T60	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_019262;Note=R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3739185	
+Q96T60	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_019263;Note=Y->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3739186	
+Q96T60	UniProtKB	Natural variant	326	326	.	.	.	ID=VAR_063836;Note=In MCSZ. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20118933;Dbxref=dbSNP:rs267606956,PMID:20118933	
+Q96T60	UniProtKB	Natural variant	375	375	.	.	.	ID=VAR_073369;Note=In AOA4. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25728773;Dbxref=dbSNP:rs786203983,PMID:25728773	
+Q96T60	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_073370;Note=In AOA4. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25728773;Dbxref=PMID:25728773	
+Q96T60	UniProtKB	Natural variant	462	462	.	.	.	ID=VAR_076537;Note=In MCSZ%3B atypical phenotype. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27232581;Dbxref=dbSNP:rs376854895,PMID:27232581	
+Q96T60	UniProtKB	Natural variant	478	478	.	.	.	ID=VAR_019264;Note=V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3739206	
+Q96T60	UniProtKB	Sequence conflict	6	6	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96T60	UniProtKB	Sequence conflict	18	18	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96T60	UniProtKB	Sequence conflict	458	458	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96T60	UniProtKB	Beta strand	9	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Turn	37	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	51	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Turn	57	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	61	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	68	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	84	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	92	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	
+Q96T60	UniProtKB	Beta strand	99	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BRF	

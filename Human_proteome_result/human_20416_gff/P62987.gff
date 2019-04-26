@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P62987 1 128
+P62987	UniProtKB	Chain	1	76	.	.	.	ID=PRO_0000396433;Note=Ubiquitin	
+P62987	UniProtKB	Chain	77	128	.	.	.	ID=PRO_0000396434;Note=60S ribosomal protein L40	
+P62987	UniProtKB	Domain	1	76	.	.	.	Note=Ubiquitin-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00214	
+P62987	UniProtKB	Binding site	54	54	.	.	.	Note=Activating enzyme	
+P62987	UniProtKB	Binding site	72	72	.	.	.	Note=Activating enzyme	
+P62987	UniProtKB	Site	68	68	.	.	.	Note=Essential for function	
+P62987	UniProtKB	Modified residue	65	65	.	.	.	Note=Phosphoserine%3B by PINK1;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24660806,ECO:0000269|PubMed:24751536,ECO:0000269|PubMed:24784582,ECO:0000269|PubMed:25527291;Dbxref=PMID:24660806,PMID:24751536,PMID:24784582,PMID:25527291	
+P62987	UniProtKB	Modified residue	76	76	.	.	.	Note=ADP-ribosylglycine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Modified residue	98	98	.	.	.	Note=N6%2CN6%2CN6-trimethyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P62986	
+P62987	UniProtKB	Cross-link	6	6	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16443603;Dbxref=PMID:16443603	
+P62987	UniProtKB	Cross-link	11	11	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16443603,ECO:0000269|PubMed:16543144;Dbxref=PMID:16443603,PMID:16543144	
+P62987	UniProtKB	Cross-link	27	27	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15466860;Dbxref=PMID:15466860	
+P62987	UniProtKB	Cross-link	29	29	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16543144;Dbxref=PMID:16543144	
+P62987	UniProtKB	Cross-link	48	48	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16443603,ECO:0000269|PubMed:16543144;Dbxref=PMID:16443603,PMID:16543144	
+P62987	UniProtKB	Cross-link	63	63	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16543144,ECO:0000269|PubMed:18719106;Dbxref=PMID:16543144,PMID:18719106	
+P62987	UniProtKB	Cross-link	76	76	.	.	.	Note=Glycyl lysine isopeptide (Gly-Lys) (interchain with K-? in acceptor proteins)	
+P62987	UniProtKB	Mutagenesis	48	48	.	.	.	Note=No effect on HLTF-mediated polyubiquitination of PCNA. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18719106;Dbxref=PMID:18719106	
+P62987	UniProtKB	Mutagenesis	63	63	.	.	.	Note=Abolishes HLTF-mediated polyubiquitination of PCNA. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18719106;Dbxref=PMID:18719106	
+P62987	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Prevents phosphorylation in case of mitophagy. S->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24660806,ECO:0000269|PubMed:24751536,ECO:0000269|PubMed:24784582;Dbxref=PMID:24660806,PMID:24751536,PMID:24784582	
+P62987	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Phosphomimetic mutant that binds and activates PRKN. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24751536;Dbxref=PMID:24751536	
+P62987	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Loss of DTX3L-mediated polyubiquitination of histone H3 and H4. H->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Mutagenesis	72	72	.	.	.	Note=No effect on ADP-ribosylation. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Mutagenesis	72	72	.	.	.	Note=No effect on ADP-ribosylation%2C when associated with K-74. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Mutagenesis	74	74	.	.	.	Note=No effect on ADP-ribosylation. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Mutagenesis	74	74	.	.	.	Note=No effect on ADP-ribosylation%2C when associated with K-72. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Mutagenesis	76	76	.	.	.	Note=Loss of ADP-ribosylation. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28525742;Dbxref=PMID:28525742	
+P62987	UniProtKB	Beta strand	2	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	
+P62987	UniProtKB	Beta strand	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOG	
+P62987	UniProtKB	Beta strand	12	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	
+P62987	UniProtKB	Beta strand	19	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MBH	
+P62987	UniProtKB	Helix	23	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	
+P62987	UniProtKB	Helix	38	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	
+P62987	UniProtKB	Beta strand	41	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	
+P62987	UniProtKB	Beta strand	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GO7	
+P62987	UniProtKB	Beta strand	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RF1	
+P62987	UniProtKB	Helix	57	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	
+P62987	UniProtKB	Beta strand	66	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GOD	

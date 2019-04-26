@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region P29218 1 277
+P29218	UniProtKB	Chain	1	277	.	.	.	ID=PRO_0000142513;Note=Inositol monophosphatase 1	
+P29218	UniProtKB	Region	92	95	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269,ECO:0000303;evidence=ECO:0000269|PubMed:8068620,ECO:0000303|PubMed:8068621;Dbxref=PMID:8068620,PMID:8068621	
+P29218	UniProtKB	Region	194	196	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8068620;Dbxref=PMID:8068620	
+P29218	UniProtKB	Metal binding	70	70	.	.	.	Note=Magnesium 1%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000303,ECO:0000303;evidence=ECO:0000269|PubMed:23027737,ECO:0000269|PubMed:8068621,ECO:0000303|PubMed:1332026,ECO:0000303|PubMed:8068620;Dbxref=PMID:23027737,PMID:8068621,PMID:1332026,PMID:8068620	
+P29218	UniProtKB	Metal binding	90	90	.	.	.	Note=Magnesium 1%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000303,ECO:0000303;evidence=ECO:0000269|PubMed:23027737,ECO:0000269|PubMed:8068621,ECO:0000303|PubMed:1332026,ECO:0000303|PubMed:8068620;Dbxref=PMID:23027737,PMID:8068621,PMID:1332026,PMID:8068620	
+P29218	UniProtKB	Metal binding	90	90	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23027737,ECO:0000269|PubMed:8068621;Dbxref=PMID:23027737,PMID:8068621	
+P29218	UniProtKB	Metal binding	92	92	.	.	.	Note=Magnesium 1%3B via carbonyl oxygen%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000303,ECO:0000303;evidence=ECO:0000269|PubMed:23027737,ECO:0000269|PubMed:8068621,ECO:0000303|PubMed:1332026,ECO:0000303|PubMed:8068620;Dbxref=PMID:23027737,PMID:8068621,PMID:1332026,PMID:8068620	
+P29218	UniProtKB	Metal binding	93	93	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23027737,ECO:0000269|PubMed:8068621;Dbxref=PMID:23027737,PMID:8068621	
+P29218	UniProtKB	Metal binding	220	220	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23027737,ECO:0000269|PubMed:8068621;Dbxref=PMID:23027737,PMID:8068621	
+P29218	UniProtKB	Binding site	70	70	.	.	.	Note=Substrate;Ontology_term=ECO:0000269,ECO:0000303;evidence=ECO:0000269|PubMed:8068620,ECO:0000303|PubMed:8068621;Dbxref=PMID:8068620,PMID:8068621	
+P29218	UniProtKB	Binding site	213	213	.	.	.	Note=Substrate;Ontology_term=ECO:0000269,ECO:0000303;evidence=ECO:0000269|PubMed:8068620,ECO:0000303|PubMed:8068621;Dbxref=PMID:8068620,PMID:8068621	
+P29218	UniProtKB	Binding site	220	220	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8068620;Dbxref=PMID:8068620	
+P29218	UniProtKB	Modified residue	168	168	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P29218	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_046308;Note=In isoform 3. M->MGQRPGPVLPAVAVLGQVAKRKVAWLLRWKAVTRTETAGNSSGVYGFGKMKIFVKYFQKM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P29218	UniProtKB	Alternative sequence	153	277	.	.	.	ID=VSP_042521;Note=In isoform 2. DITKSLLVTELGSSRTPETVRMVLSNMEKLFCIPVHGIRSVGTAAVNMCLVATGGADAYYEMGIHCWDVAGAGIIVTEAGGVLMDVTGGPFDLMSRRVIAANNRILAERIAKEIQVIPLQRDDED->GSGVLEQQLLICALWQLAEQMHIMKWEFTAGMLQELALLLLKLVAC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P29218	UniProtKB	Natural variant	109	109	.	.	.	ID=VAR_049600;Note=I->V;Dbxref=dbSNP:rs204781	
+P29218	UniProtKB	Mutagenesis	36	36	.	.	.	Note=50-fold reduction in activity. K->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8718889;Dbxref=PMID:8718889	
+P29218	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Loss of activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17068342;Dbxref=PMID:17068342	
+P29218	UniProtKB	Mutagenesis	165	165	.	.	.	Note=Reduced enzyme activity with myo-inositol 1-phosphate. S->A%2CI;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8068620;Dbxref=PMID:8068620	
+P29218	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Strongly reduced affinity for myo-inositol 1-phosphate and strongly reduced enzyme activity with myo-inositol 1-phosphate. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8068620;Dbxref=PMID:8068620	
+P29218	UniProtKB	Helix	6	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	34	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	45	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	66	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	86	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	95	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	106	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	116	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Turn	125	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	129	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Turn	135	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	138	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	158	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	169	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Turn	184	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	188	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	196	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	207	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	218	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	224	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	234	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	240	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Beta strand	247	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	
+P29218	UniProtKB	Helix	256	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GIU	

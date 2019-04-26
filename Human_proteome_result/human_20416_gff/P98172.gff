@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P98172 1 346
+P98172	UniProtKB	Signal peptide	1	27	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+P98172	UniProtKB	Chain	28	346	.	.	.	ID=PRO_0000008387;Note=Ephrin-B1	
+P98172	UniProtKB	Chain	218	346	.	.	.	ID=PRO_0000445791;Note=Ephrin-B1 C-terminal fragment;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98172	UniProtKB	Chain	260	346	.	.	.	ID=PRO_0000445792;Note=Ephrin-B1 intracellular domain;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98172	UniProtKB	Topological domain	28	237	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98172	UniProtKB	Transmembrane	238	258	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98172	UniProtKB	Topological domain	259	346	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98172	UniProtKB	Domain	30	164	.	.	.	Note=Ephrin RBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00884	
+P98172	UniProtKB	Region	263	294	.	.	.	Note=Interaction with ZHX2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P52795	
+P98172	UniProtKB	Motif	260	273	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16930449;Dbxref=PMID:16930449	
+P98172	UniProtKB	Motif	344	346	.	.	.	Note=PDZ-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98172	UniProtKB	Modified residue	281	281	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P98172	UniProtKB	Modified residue	287	287	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+P98172	UniProtKB	Glycosylation	139	139	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98172	UniProtKB	Disulfide bond	64	101	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00884	
+P98172	UniProtKB	Disulfide bond	89	153	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00884	
+P98172	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_023127;Note=In CFNS. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_023128;Note=In CFNS. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15124102,ECO:0000269|PubMed:15959873;Dbxref=dbSNP:rs104894801,PMID:15124102,PMID:15959873	
+P98172	UniProtKB	Natural variant	62	62	.	.	.	ID=VAR_023129;Note=In CFNS. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=PMID:15166289	
+P98172	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_023130;Note=In CFNS. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=PMID:15166289	
+P98172	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_023131;Note=In CFNS. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15124102;Dbxref=dbSNP:rs104894796,PMID:15124102	
+P98172	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_023132;Note=In CFNS. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=PMID:15166289	
+P98172	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_023133;Note=In CFNS. P->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15166289,ECO:0000269|PubMed:15959873;Dbxref=PMID:15166289,PMID:15959873	
+P98172	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_023134;Note=In CFNS. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_023135;Note=In CFNS. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=PMID:15166289	
+P98172	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_023136;Note=In CFNS. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_023137;Note=In CFNS. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_023138;Note=In CFNS. G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15166289,ECO:0000269|PubMed:15959873;Dbxref=dbSNP:rs28936069,PMID:15166289,PMID:15959873	
+P98172	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_023139;Note=In CFNS. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=dbSNP:rs28936070,PMID:15166289	
+P98172	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_023140;Note=In CFNS. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_023141;Note=In CFNS. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_023142;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=dbSNP:rs146636295,PMID:15166289	
+P98172	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_023143;Note=In CFNS. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=PMID:15166289	
+P98172	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_023144;Note=In CFNS. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=dbSNP:rs28935170,PMID:15166289	
+P98172	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_023145;Note=In CFNS. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15166289;Dbxref=dbSNP:rs28936071,PMID:15166289	
+P98172	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_059256;Note=T->M;Dbxref=dbSNP:rs7889678	
+P98172	UniProtKB	Natural variant	182	182	.	.	.	ID=VAR_023146;Note=In CFNS. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15959873;Dbxref=PMID:15959873	
+P98172	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_023147;Note=V->A;Dbxref=dbSNP:rs16989105	
+P98172	UniProtKB	Mutagenesis	260	273	.	.	.	Note=The intracellular domain peptide fails to localize to the nucleus. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16930449;Dbxref=PMID:16930449	
+P98172	UniProtKB	Mutagenesis	344	346	.	.	.	Note=No effect on gamma-secretase mediated proteolysis of the C-terminal fragment. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16930449;Dbxref=PMID:16930449	

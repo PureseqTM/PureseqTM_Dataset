@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P40967 1 661
+P40967	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8179825;Dbxref=PMID:8179825	
+P40967	UniProtKB	Chain	25	661	.	.	.	ID=PRO_0000024712;Note=Melanocyte protein PMEL	
+P40967	UniProtKB	Chain	25	467	.	.	.	ID=PRO_0000292263;Note=M-alpha	
+P40967	UniProtKB	Chain	470	661	.	.	.	ID=PRO_0000386648;Note=M-beta	
+P40967	UniProtKB	Topological domain	470	595	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Transmembrane	596	616	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Topological domain	617	661	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Domain	255	292	.	.	.	Note=PKD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00151	
+P40967	UniProtKB	Repeat	315	327	.	.	.	Note=1	
+P40967	UniProtKB	Repeat	328	340	.	.	.	Note=2	
+P40967	UniProtKB	Repeat	341	353	.	.	.	Note=3	
+P40967	UniProtKB	Repeat	354	366	.	.	.	Note=4	
+P40967	UniProtKB	Repeat	367	379	.	.	.	Note=5	
+P40967	UniProtKB	Repeat	380	392	.	.	.	Note=6	
+P40967	UniProtKB	Repeat	393	405	.	.	.	Note=7	
+P40967	UniProtKB	Repeat	406	418	.	.	.	Note=8	
+P40967	UniProtKB	Repeat	419	431	.	.	.	Note=9	
+P40967	UniProtKB	Repeat	432	444	.	.	.	Note=10	
+P40967	UniProtKB	Region	315	444	.	.	.	Note=10 X 13 AA approximate tandem repeats%2C RPT domain	
+P40967	UniProtKB	Glycosylation	81	81	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Glycosylation	106	106	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Glycosylation	111	111	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Glycosylation	321	321	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Glycosylation	568	568	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40967	UniProtKB	Alternative sequence	26	111	.	.	.	ID=VSP_038266;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P40967	UniProtKB	Alternative sequence	373	414	.	.	.	ID=VSP_038267;Note=In isoform 4 and isoform 5. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40967	UniProtKB	Alternative sequence	587	587	.	.	.	ID=VSP_038268;Note=In isoform 2 and isoform 5. P->PVPGILLT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1924386;Dbxref=PMID:1924386	
+P40967	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_050606;Note=P->H;Dbxref=dbSNP:rs2071024	
+P40967	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_050607;Note=E->D;Dbxref=dbSNP:rs17118154	
+P40967	UniProtKB	Mutagenesis	468	469	.	.	.	Note=Loss of proteolytic cleavage. KR->QQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12732614;Dbxref=PMID:12732614	
+P40967	UniProtKB	Sequence conflict	162	162	.	.	.	Note=V->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40967	UniProtKB	Sequence conflict	274	274	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40967	UniProtKB	Sequence conflict	274	274	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40967	UniProtKB	Sequence conflict	373	373	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40967	UniProtKB	Sequence conflict	592	592	.	.	.	Note=G->GG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40967	UniProtKB	Sequence conflict	597	597	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region Q14242 1 412
+Q14242	UniProtKB	Signal peptide	1	17	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Propeptide	18	41	.	.	.	ID=PRO_0000022302	
+Q14242	UniProtKB	Chain	42	412	.	.	.	ID=PRO_0000022303;Note=P-selectin glycoprotein ligand 1	
+Q14242	UniProtKB	Topological domain	18	320	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Transmembrane	321	341	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Topological domain	342	412	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Repeat	122	131	.	.	.	Note=1	
+Q14242	UniProtKB	Repeat	132	141	.	.	.	Note=2	
+Q14242	UniProtKB	Repeat	142	151	.	.	.	Note=3	
+Q14242	UniProtKB	Repeat	162	171	.	.	.	Note=4	
+Q14242	UniProtKB	Repeat	182	191	.	.	.	Note=5	
+Q14242	UniProtKB	Repeat	192	201	.	.	.	Note=6	
+Q14242	UniProtKB	Repeat	202	211	.	.	.	Note=7	
+Q14242	UniProtKB	Repeat	212	221	.	.	.	Note=8	
+Q14242	UniProtKB	Repeat	222	231	.	.	.	Note=9	
+Q14242	UniProtKB	Repeat	232	241	.	.	.	Note=10	
+Q14242	UniProtKB	Repeat	242	251	.	.	.	Note=11	
+Q14242	UniProtKB	Repeat	252	261	.	.	.	Note=12	
+Q14242	UniProtKB	Region	122	261	.	.	.	Note=12 X 10 AA tandem repeats	
+Q14242	UniProtKB	Modified residue	42	42	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+Q14242	UniProtKB	Modified residue	46	46	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+Q14242	UniProtKB	Modified residue	48	48	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+Q14242	UniProtKB	Modified residue	51	51	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+Q14242	UniProtKB	Modified residue	406	406	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q14242	UniProtKB	Modified residue	409	409	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q14242	UniProtKB	Glycosylation	57	57	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081633;Dbxref=PMID:11081633	
+Q14242	UniProtKB	Glycosylation	65	65	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Glycosylation	111	111	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Glycosylation	302	302	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14242	UniProtKB	Disulfide bond	320	320	.	.	.	Note=Interchain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10713099;Dbxref=PMID:10713099	
+Q14242	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_044827;Note=In isoform 2. M->MAVGASGLEGDKMAGAM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14242	UniProtKB	Natural variant	62	62	.	.	.	ID=VAR_019156;Note=M->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2228315,PMID:14702039	
+Q14242	UniProtKB	Natural variant	132	141	.	.	.	ID=VAR_005611;Note=In short form%3B not an alternative splicing. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7505206;Dbxref=dbSNP:rs63748999,PMID:14702039,PMID:15489334,PMID:7505206	
+Q14242	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_019157;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs8179142	
+Q14242	UniProtKB	Natural variant	249	249	.	.	.	ID=VAR_076761;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25102098;Dbxref=dbSNP:rs756234416,PMID:25102098	
+Q14242	UniProtKB	Mutagenesis	44	44	.	.	.	Note=No effect on L-selectin binding nor neutrophil rolling. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12403782;Dbxref=PMID:12403782	
+Q14242	UniProtKB	Mutagenesis	46	52	.	.	.	Note=No sulfation. Almost complete loss of P-selectin binding. No effect on E-selectin binding. YEYLDYD->FEFLDFE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7585949;Dbxref=PMID:7585949	
+Q14242	UniProtKB	Mutagenesis	46	51	.	.	.	Note=No sulfation. Almost complete loss of P-selectin binding. No effect on E-selectin binding. YEYLDY->FEFLDF	
+Q14242	UniProtKB	Mutagenesis	46	46	.	.	.	Note=Binding L-selectin reduced by 20%25%2C neutrophil recruitment reduced by 30%25%2C and lymphocyte rolling reduced by 32%25%3B when associated with F-48. Binding L-selectin reduced by 86%25%2C neutrophil recruitment reduced by 75%25%2C and lymphocyte rolling reduced by 69%25%3B when associated with F-51. Binding L-selectin reduced by 89%25%2C and neutrophil recruitment reduced by 90%25%3B when associated with F-48 and F-51. Binding of L-selectin reduced by 91%25%3B when associated with F-48%3B F-51 and A-57. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7585950;Dbxref=PMID:7585950	
+Q14242	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Binding L-selectin reduced by 20%25%2C neutrophil recruitment reduced by 30%25%2C and lymphocyte rolling reduced by 32%25%3B when associated with F-46. Binding L-lectin reduced by 31%25%2C neutrophil recruitment reduced by 52%25%2C and lymphocyte rolling reduced by 52%25%3B when associated with F-51. Binding L-selectin reduced by 89%25%2C and neutrophil recruitment reduced by 90%25%3B when associated with F-46 and F-51. Binding of L-selectin reduced by 91%25%3B when associated with F-46%3B F-51 and A-57. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12403782,ECO:0000269|PubMed:7585950;Dbxref=PMID:12403782,PMID:7585950	
+Q14242	UniProtKB	Mutagenesis	51	51	.	.	.	Note=Binding L-selectin reduced by 86%25%2C neutrophil recruitment reduced by 75%25 and%2C lymphocyte rolling reduced by 69%25%3B when associated with F-46. Binding L-selectin reduced by 31%25%2C neutrophil recruitment reduced by 52%25%2C and lymphocyte rolling reduced by 52%25%3B when associated with F-48%3B Binding L-selectin reduced by 89%25%2C and neutrophil recruitment reduced by 90%25%3B when associated with F-46 and F-48. Binding of L-selectin reduced by 91%25%3B when associated with F-46%3B F-48 and A-57. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12403782,ECO:0000269|PubMed:7585950;Dbxref=PMID:12403782,PMID:7585950	
+Q14242	UniProtKB	Mutagenesis	57	57	.	.	.	Note=No E- nor P-selectin binding%2C and very little neutrophil rolling. Binding of L-selectin reduced by 91%25%3B when associated with F-46%3B F-48 and F-51. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12403782,ECO:0000269|PubMed:7585950;Dbxref=PMID:12403782,PMID:7585950	
+Q14242	UniProtKB	Mutagenesis	320	320	.	.	.	Note=No dimer formation. No effect on P-selectin binding. C->A%2CS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10713099;Dbxref=PMID:10713099	
+Q14242	UniProtKB	Sequence conflict	23	39	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14242	UniProtKB	Sequence conflict	50	50	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14242	UniProtKB	Sequence conflict	219	219	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14242	UniProtKB	Sequence conflict	222	222	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14242	UniProtKB	Sequence conflict	396	396	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14242	UniProtKB	Turn	51	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G1S	

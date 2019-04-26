@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q8IV76 1 773
+Q8IV76	UniProtKB	Chain	1	773	.	.	.	ID=PRO_0000299445;Note=Circadian clock protein PASD1	
+Q8IV76	UniProtKB	Domain	30	102	.	.	.	Note=PAS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q8IV76	UniProtKB	Region	365	412	.	.	.	Note=Necessary for transcriptional repression;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25936801;Dbxref=PMID:25936801	
+Q8IV76	UniProtKB	Coiled coil	365	412	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IV76	UniProtKB	Coiled coil	475	553	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IV76	UniProtKB	Compositional bias	229	236	.	.	.	Note=Poly-Ala	
+Q8IV76	UniProtKB	Compositional bias	508	548	.	.	.	Note=Lys-rich	
+Q8IV76	UniProtKB	Compositional bias	665	668	.	.	.	Note=Poly-Ser	
+Q8IV76	UniProtKB	Alternative sequence	639	639	.	.	.	ID=VSP_027663;Note=In isoform 2. S->R;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15162151;Dbxref=PMID:15162151	
+Q8IV76	UniProtKB	Alternative sequence	640	773	.	.	.	ID=VSP_027664;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15162151;Dbxref=PMID:15162151	
+Q8IV76	UniProtKB	Natural variant	213	213	.	.	.	ID=VAR_034819;Note=Q->E;Dbxref=dbSNP:rs5924658	
+Q8IV76	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Reduces inhibition of CLOCK-ARNTL/BMAL1 heterodimer activity%3B when associated with R-45. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25936801;Dbxref=PMID:25936801	
+Q8IV76	UniProtKB	Mutagenesis	45	45	.	.	.	Note=Reduces inhibition of CLOCK-ARNTL/BMAL1 heterodimer activity%3B when associated with E-36. M->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25936801;Dbxref=PMID:25936801	
+Q8IV76	UniProtKB	Sequence conflict	107	107	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region Q9P2K8 1 1649
+Q9P2K8	UniProtKB	Chain	1	1649	.	.	.	ID=PRO_0000085947;Note=eIF-2-alpha kinase GCN2	
+Q9P2K8	UniProtKB	Domain	25	137	.	.	.	Note=RWD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00179	
+Q9P2K8	UniProtKB	Domain	296	539	.	.	.	Note=Protein kinase 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9P2K8	UniProtKB	Domain	590	1001	.	.	.	Note=Protein kinase 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9P2K8	UniProtKB	Nucleotide binding	596	604	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9P2K8	UniProtKB	Region	1022	1493	.	.	.	Note=Histidyl-tRNA synthetase-like	
+Q9P2K8	UniProtKB	Coiled coil	146	205	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P2K8	UniProtKB	Compositional bias	484	491	.	.	.	Note=Poly-Leu	
+Q9P2K8	UniProtKB	Active site	848	848	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q9P2K8	UniProtKB	Binding site	619	619	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9P2K8	UniProtKB	Modified residue	230	230	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:18691976,PMID:20068231,PMID:21406692,PMID:23186163	
+Q9P2K8	UniProtKB	Modified residue	667	667	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:18691976,PMID:19369195,PMID:20068231,PMID:23186163	
+Q9P2K8	UniProtKB	Modified residue	871	871	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9P2K8	UniProtKB	Modified residue	899	899	.	.	.	Note=Phosphothreonine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZ05	
+Q9P2K8	UniProtKB	Modified residue	904	904	.	.	.	Note=Phosphothreonine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9P2K8	UniProtKB	Modified residue	1259	1259	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9P2K8	UniProtKB	Alternative sequence	608	616	.	.	.	ID=VSP_039185;Note=In isoform 3. QNKLDGCCY->WYRVIPSPL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9P2K8	UniProtKB	Alternative sequence	617	1649	.	.	.	ID=VSP_039186;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9P2K8	UniProtKB	Alternative sequence	774	801	.	.	.	ID=VSP_013038;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2K8	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_040479;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35509999,PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_040480;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34439704,PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_040481;Note=I->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs2291627,PMID:17344846,PMID:17974005	
+Q9P2K8	UniProtKB	Natural variant	585	585	.	.	.	ID=VAR_070990;Note=In PVOD2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24292273;Dbxref=dbSNP:rs587777106,PMID:24292273	
+Q9P2K8	UniProtKB	Natural variant	643	643	.	.	.	ID=VAR_070991;Note=In PVOD2. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24292273;Dbxref=dbSNP:rs757852728,PMID:24292273	
+Q9P2K8	UniProtKB	Natural variant	872	872	.	.	.	ID=VAR_040482;Note=D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34665481,PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	939	939	.	.	.	ID=VAR_040483;Note=In a lung neuroendocrine carcinoma sample%3B somatic mutation. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	1060	1060	.	.	.	ID=VAR_040484;Note=T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55781333,PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	1306	1306	.	.	.	ID=VAR_040485;Note=G->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35602605,PMID:15489334,PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	1336	1336	.	.	.	ID=VAR_040486;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35480871,PMID:17344846	
+Q9P2K8	UniProtKB	Natural variant	1406	1406	.	.	.	ID=VAR_040487;Note=Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55721315,PMID:17344846	
+Q9P2K8	UniProtKB	Sequence conflict	556	556	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2K8	UniProtKB	Sequence conflict	556	556	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2K8	UniProtKB	Sequence conflict	629	629	.	.	.	Note=Q->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2K8	UniProtKB	Sequence conflict	858	858	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P2K8	UniProtKB	Sequence conflict	1133	1133	.	.	.	Note=N->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

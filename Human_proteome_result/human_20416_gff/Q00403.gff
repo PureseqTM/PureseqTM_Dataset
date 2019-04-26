@@ -1,0 +1,69 @@
+##gff-version 3
+##sequence-region Q00403 1 316
+Q00403	UniProtKB	Chain	1	316	.	.	.	ID=PRO_0000119293;Note=Transcription initiation factor IIB	
+Q00403	UniProtKB	Repeat	124	200	.	.	.	Note=1	
+Q00403	UniProtKB	Repeat	218	294	.	.	.	Note=2	
+Q00403	UniProtKB	Zinc finger	11	42	.	.	.	Note=TFIIB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00469	
+Q00403	UniProtKB	Region	189	193	.	.	.	Note=Core promoter DNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10619841;Dbxref=PMID:10619841	
+Q00403	UniProtKB	Region	244	316	.	.	.	Note=Necessary for TATA box-bound TBP complex formation;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8515820,ECO:0000269|PubMed:8516311;Dbxref=PMID:8515820,PMID:8516311	
+Q00403	UniProtKB	Region	249	252	.	.	.	Note=Core promoter DNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7675079;Dbxref=PMID:7675079	
+Q00403	UniProtKB	Region	283	286	.	.	.	Note=Core promoter DNA-binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10619841,ECO:0000269|PubMed:7675079;Dbxref=PMID:10619841,PMID:7675079	
+Q00403	UniProtKB	Metal binding	15	15	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1DL6,ECO:0000244|PDB:1RLY,ECO:0000269|PubMed:11045620,ECO:0000269|PubMed:14641108;Dbxref=PMID:11045620,PMID:14641108	
+Q00403	UniProtKB	Metal binding	18	18	.	.	.	Note=Zinc%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1DL6,ECO:0000244|PDB:1RLY,ECO:0000269|PubMed:11045620,ECO:0000269|PubMed:14641108;Dbxref=PMID:11045620,PMID:14641108	
+Q00403	UniProtKB	Metal binding	34	34	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1DL6,ECO:0000244|PDB:1RLY,ECO:0000269|PubMed:11045620,ECO:0000269|PubMed:14641108;Dbxref=PMID:11045620,PMID:14641108	
+Q00403	UniProtKB	Metal binding	37	37	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1DL6,ECO:0000244|PDB:1RLY,ECO:0000269|PubMed:11045620,ECO:0000269|PubMed:14641108;Dbxref=PMID:11045620,PMID:14641108	
+Q00403	UniProtKB	Modified residue	70	70	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q00403	UniProtKB	Modified residue	76	76	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+Q00403	UniProtKB	Modified residue	92	92	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q00403	UniProtKB	Modified residue	238	238	.	.	.	Note=N6-acetyllysine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12931194;Dbxref=PMID:12931194	
+Q00403	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_011977;Note=P->S;Dbxref=dbSNP:rs1804499	
+Q00403	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_035722;Note=In a colorectal cancer sample%3B somatic mutation. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs144944840,PMID:16959974	
+Q00403	UniProtKB	Mutagenesis	37	37	.	.	.	Note=Does not inhibit interaction with TBP. Inhibits the recruitment of RNA polymerase II into the initiation complex. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8516312;Dbxref=PMID:8516312	
+Q00403	UniProtKB	Mutagenesis	51	56	.	.	.	Note=Partial loss of HIV-1 Vpr binding. EWRTFS->AWRTFA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10359081;Dbxref=PMID:10359081	
+Q00403	UniProtKB	Mutagenesis	51	51	.	.	.	Note=Defects in transcription start site selection. Supports a level of transcription equivalent to wild-type. E->R%2CA%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10318856;Dbxref=PMID:10318856	
+Q00403	UniProtKB	Mutagenesis	52	52	.	.	.	Note=Partial loss of HIV-1 Vpr binding. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10359081;Dbxref=PMID:10359081	
+Q00403	UniProtKB	Mutagenesis	53	54	.	.	.	Note=Partial loss of HIV-1 Vpr binding. RT->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10359081;Dbxref=PMID:10359081	
+Q00403	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Partial loss of HIV-1 Vpr binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10359081;Dbxref=PMID:10359081	
+Q00403	UniProtKB	Mutagenesis	66	66	.	.	.	Note=Defects in transcription start site selection. Supports a level of transcription equivalent to wild-type. R->A%2CE%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10318856;Dbxref=PMID:10318856	
+Q00403	UniProtKB	Mutagenesis	153	153	.	.	.	Note=Decreases BREd-dependent pre-initiation complex formation. G->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16230532;Dbxref=PMID:16230532	
+Q00403	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Reduces interaction with SSU72%3B when associated with E-193 or E-200. Inhibits interaction with VP16%3B when associated with E-193. Inhibits RNA pol II transcription activation induced by VP16 but does not affect basal transcription%3B when associated with E-193. R->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:29158257,ECO:0000269|PubMed:8515819;Dbxref=PMID:29158257,PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Reduces interaction with VP16%3B when associated with L-189. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8515819;Dbxref=PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	189	189	.	.	.	Note=Inhibits interaction with SSU72%3B when associated with E-193. Reduces interaction with SSU72%3B when associated with E-200. Inhibits interaction with VP16%3B when associated with E-200. Inhibits RNA pol II transcription activation induced by VP16 but does not affect basal transcription%3B when associated with E-200. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:29158257,ECO:0000269|PubMed:8515819;Dbxref=PMID:29158257,PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	189	189	.	.	.	Note=Reduces interaction with VP16%3B when associated with L-185. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8515819;Dbxref=PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	193	193	.	.	.	Note=Inhibits interaction with SSU72%3B when associated with E-185 or E-189. Inhibits interaction with VP16%3B when associated with E-185. Inhibits RNA pol II transcription activation induced by VP16 but does not affect basal transcription%3B when associated with E-185. R->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:29158257,ECO:0000269|PubMed:8515819;Dbxref=PMID:29158257,PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	196	196	.	.	.	Note=Reduces interaction with VP16%3B when associated with L-200. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8515819;Dbxref=PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	200	208	.	.	.	Note=Reduces the formation of the TATA box-bound TBP ternary complex. KALETSVDL->GSGS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29158257;Dbxref=PMID:29158257	
+Q00403	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Reduces interaction with SSU72%3B when associated with E-185 or E-189. Inhibits interaction with VP16%3B when associated with E-189. Inhibits RNA pol II transcription activation induced by VP16 but does not affect basal transcription%3B when associated with E-189. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:29158257,ECO:0000269|PubMed:8515819;Dbxref=PMID:29158257,PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Reduces the formation of the TATA box-bound TBP ternary complex. K->KGSGS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29158257;Dbxref=PMID:29158257	
+Q00403	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Reduces interaction with VP16%3B when associated with L-196. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8515819;Dbxref=PMID:8515819	
+Q00403	UniProtKB	Mutagenesis	208	208	.	.	.	Note=Does not inhibit the formation of the TATA box-bound TBP ternary complex. L->LGSGS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29158257;Dbxref=PMID:29158257	
+Q00403	UniProtKB	Mutagenesis	238	238	.	.	.	Note=Abolishes autoacetylation%2C represses transcription activity%2C does not inhibit its association with chromatin to promoter-specific regions and decreases the association of GTF2F1 with chromatin to promoter-specific regions. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12931194;Dbxref=PMID:12931194	
+Q00403	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Inhibits interaction with TBP. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8516312;Dbxref=PMID:8516312	
+Q00403	UniProtKB	Mutagenesis	283	283	.	.	.	Note=Reduces DNA-binding. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9420329;Dbxref=PMID:9420329	
+Q00403	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Reduces DNA-binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9420329;Dbxref=PMID:9420329	
+Q00403	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Inhibits interaction with RNA polymerase II%3B when associated with E-290 and E-295. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8504927;Dbxref=PMID:8504927	
+Q00403	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Inhibits interaction with RNA polymerase II%3B when associated with E-286 and E-295. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8504927;Dbxref=PMID:8504927	
+Q00403	UniProtKB	Mutagenesis	295	295	.	.	.	Note=Inhibits interaction with RNA polymerase II%3B when associated with E-286 and E-290. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8504927;Dbxref=PMID:8504927	
+Q00403	UniProtKB	Beta strand	4	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RLY	
+Q00403	UniProtKB	Beta strand	18	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DL6	
+Q00403	UniProtKB	Beta strand	24	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RO4	
+Q00403	UniProtKB	Beta strand	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DL6	
+Q00403	UniProtKB	Turn	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DL6	
+Q00403	UniProtKB	Helix	111	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	114	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	132	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WH1	
+Q00403	UniProtKB	Beta strand	152	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WH1	
+Q00403	UniProtKB	Helix	156	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	177	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Beta strand	184	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	188	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	212	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	226	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	250	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Beta strand	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	271	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	282	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	293	295	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	296	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1C9B	
+Q00403	UniProtKB	Helix	310	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1VOL	

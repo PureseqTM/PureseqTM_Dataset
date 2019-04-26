@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region Q95365 1 362
+Q95365	UniProtKB	Signal peptide	1	24	.	.	.	.	
+Q95365	UniProtKB	Chain	25	362	.	.	.	ID=PRO_0000018842;Note=HLA class I histocompatibility antigen%2C B-38 alpha chain	
+Q95365	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95365	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95365	UniProtKB	Topological domain	333	362	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95365	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+Q95365	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+Q95365	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+Q95365	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+Q95365	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+Q95365	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q95365	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q95365	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q95365	UniProtKB	Natural variant	4	4	.	.	.	ID=VAR_056347;Note=M->T;Dbxref=dbSNP:rs1050458	
+Q95365	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_056348;Note=V->L;Dbxref=dbSNP:rs1050462	
+Q95365	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_056349;Note=L->V;Dbxref=dbSNP:rs1131165	
+Q95365	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_016411;Note=In allele B*38:05. S->A;Dbxref=dbSNP:rs1131170	
+Q95365	UniProtKB	Natural variant	36	36	.	.	.	ID=VAR_056350;Note=V->M;Dbxref=dbSNP:rs1050486	
+Q95365	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_061407;Note=S->A;Dbxref=dbSNP:rs713031	
+Q95365	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_061408;Note=S->P;Dbxref=dbSNP:rs713031	
+Q95365	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_061409;Note=S->T;Dbxref=dbSNP:rs713031	
+Q95365	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_056351;Note=A->T;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21269460;Dbxref=dbSNP:rs1050529,PMID:21269460	
+Q95365	UniProtKB	Natural variant	69	69	.	.	.	ID=VAR_016412;Note=In allele B*38:06 and allele B*38:07%3B requires 2 nucleotide substitutions. E->T;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+Q95365	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_016413;Note=In allele B*38:07. E->G	
+Q95365	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_056352;Note=N->D;Dbxref=dbSNP:rs1050570	
+Q95365	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_016414;Note=In allele B*38:03 and allele B*38:04%3B requires 2 nucleotide substitutions. N->E;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q95365	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_059478;Note=N->K;Dbxref=dbSNP:rs1065386	
+Q95365	UniProtKB	Natural variant	91	91	.	.	.	ID=VAR_016415;Note=In allele B*38:06 and allele B*38:07. C->F	
+Q95365	UniProtKB	Natural variant	91	91	.	.	.	ID=VAR_016416;Note=In allele B*38:03. C->S	
+Q95365	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_016417;Note=In allele B*38:03. Y->D	
+Q95365	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_016418;Note=In allele B*38:03. N->S	
+Q95365	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_016419;Note=In allele B*38:02%2C allele B*38:03%2C allele B*38:04 and allele B*38:08. I->T	
+Q95365	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_016420;Note=In allele B*38:08. T->M	
+Q95365	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_056353;Note=V->I;Dbxref=dbSNP:rs1131500	
+Q95365	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_056354;Note=A->T;Dbxref=dbSNP:rs1051488	
+Q95365	UniProtKB	Sequence conflict	130	131	.	.	.	Note=DG->ER;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q95365	UniProtKB	Sequence conflict	191	192	.	.	.	Note=WL->CV;Ontology_term=ECO:0000305;evidence=ECO:0000305	

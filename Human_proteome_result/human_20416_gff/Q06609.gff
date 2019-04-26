@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region Q06609 1 339
+Q06609	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q06609	UniProtKB	Chain	2	339	.	.	.	ID=PRO_0000122932;Note=DNA repair protein RAD51 homolog 1	
+Q06609	UniProtKB	Domain	48	77	.	.	.	Note=HhH	
+Q06609	UniProtKB	Nucleotide binding	127	134	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q06609	UniProtKB	Region	184	257	.	.	.	Note=Interaction with PALB2	
+Q06609	UniProtKB	Motif	245	260	.	.	.	Note=Nuclear export signal%3B masked by the interaction with BRCA2;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24013206;Dbxref=PMID:24013206	
+Q06609	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q06609	UniProtKB	Modified residue	54	54	.	.	.	Note=Phosphotyrosine%3B by ABL1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9461559;Dbxref=PMID:9461559	
+Q06609	UniProtKB	Modified residue	309	309	.	.	.	Note=Phosphothreonine%3B by CHEK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15665856;Dbxref=PMID:15665856	
+Q06609	UniProtKB	Cross-link	58	58	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23393192;Dbxref=PMID:23393192	
+Q06609	UniProtKB	Cross-link	64	64	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23393192;Dbxref=PMID:23393192	
+Q06609	UniProtKB	Alternative sequence	76	114	.	.	.	ID=VSP_043655;Note=In isoform 4. AEAAKLVPMGFTTATEFHQRRSEIIQITTGSKELDKLLQ->TESRSVARLECNSVILVYCTLRLSGSSDSPASASRVVGTT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q06609	UniProtKB	Alternative sequence	77	173	.	.	.	ID=VSP_005556;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q06609	UniProtKB	Alternative sequence	259	284	.	.	.	ID=VSP_041724;Note=In isoform 3. FGVAVVITNQVVAQVDGAAMFAADPK->IVSEERKRGNQNLQNLRLSLSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18417535;Dbxref=PMID:18417535	
+Q06609	UniProtKB	Alternative sequence	285	339	.	.	.	ID=VSP_041725;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18417535;Dbxref=PMID:18417535	
+Q06609	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_076870;Note=In FANCR%3B causes dominant negative loss of function in interstrand cross-link repair%3B shows high basal DNA-independent ATPase activity%3B results in decreased DNA binding. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26253028;Dbxref=PMID:26253028	
+Q06609	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_010899;Note=In BC%3B decreased ATPase activity in the presence of stoichiometric ss-DNA concentrations with respect to RAD51%3B 3 to 4-fold decrease of affinity for ATP. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10807537,ECO:0000269|PubMed:25539919;Dbxref=dbSNP:rs121917739,PMID:10807537,PMID:25539919	
+Q06609	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_076593;Note=In FANCR%3B dominant negative%3B impaired function in DNA repair via homologous recombination%3B impaired DNA-binding and formation of nucleoprotein filaments%3B impaired DNA-dependent ATPase activity%3B no effect on subcellular location. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26681308;Dbxref=dbSNP:rs1057519413,PMID:26681308	
+Q06609	UniProtKB	Mutagenesis	58	58	.	.	.	Note=Impaired ubiquitination%3B when associated with R-64. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23393192;Dbxref=PMID:23393192	
+Q06609	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Impaired ubiquitination%3B when associated with R-58. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23393192;Dbxref=PMID:23393192	
+Q06609	UniProtKB	Mutagenesis	86	86	.	.	.	Note=Loss of homooligomerization. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442171;Dbxref=PMID:12442171	
+Q06609	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Loss of homooligomerization. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12442171;Dbxref=PMID:12442171	
+Q06609	UniProtKB	Mutagenesis	208	209	.	.	.	Note=Disrupts interaction with BRCA2%2C no effect on homooligomerization%2C promotes interaction with XPO1 and cytoplasmic localization. SA->LE;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14580352,ECO:0000269|PubMed:24013206;Dbxref=PMID:14580352,PMID:24013206	
+Q06609	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Confers hypersensitivity to hydroxyurea. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15665856;Dbxref=PMID:15665856	
+Q06609	UniProtKB	Sequence conflict	313	313	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q06609	UniProtKB	Helix	25	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Helix	35	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Helix	49	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Beta strand	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Helix	57	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Turn	62	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Helix	70	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B22	
+Q06609	UniProtKB	Helix	107	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Turn	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	121	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	133	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	148	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	154	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	168	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	182	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	189	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	197	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	216	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Helix	238	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	262	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	298	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	309	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	323	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	
+Q06609	UniProtKB	Beta strand	333	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N0W	

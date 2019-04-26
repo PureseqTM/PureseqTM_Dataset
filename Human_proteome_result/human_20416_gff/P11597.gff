@@ -1,0 +1,73 @@
+##gff-version 3
+##sequence-region P11597 1 493
+P11597	UniProtKB	Signal peptide	1	17	.	.	.	.	
+P11597	UniProtKB	Chain	18	493	.	.	.	ID=PRO_0000017155;Note=Cholesteryl ester transfer protein	
+P11597	UniProtKB	Glycosylation	105	105	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19139490;Dbxref=PMID:19139490	
+P11597	UniProtKB	Glycosylation	257	257	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P11597	UniProtKB	Glycosylation	358	358	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P11597	UniProtKB	Glycosylation	413	413	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11597	UniProtKB	Disulfide bond	160	201	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Alternative sequence	251	310	.	.	.	ID=VSP_023645;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+P11597	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_017018;Note=A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12966036;Dbxref=dbSNP:rs34065661,PMID:12966036	
+P11597	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_033098;Note=R->W;Dbxref=dbSNP:rs34716057	
+P11597	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_033099;Note=In HALP1%3B reduced secretion into plasma. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12091484;Dbxref=PMID:12091484	
+P11597	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_033100;Note=In HALP1%3B reduced secretion into plasma. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12091484;Dbxref=dbSNP:rs142459781,PMID:12091484	
+P11597	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_013919;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs5881,PMID:10391209	
+P11597	UniProtKB	Natural variant	385	385	.	.	.	ID=VAR_017019;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12966036;Dbxref=dbSNP:rs34855278,PMID:12966036	
+P11597	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_013920;Note=A->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:12966036;Dbxref=dbSNP:rs5880,PMID:10391209,PMID:12966036	
+P11597	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_013921;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:12966036,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:3600759,ECO:0000269|Ref.3,ECO:0000269|Ref.7;Dbxref=dbSNP:rs5882,PMID:10391209,PMID:12966036,PMID:15489334,PMID:3600759	
+P11597	UniProtKB	Natural variant	455	455	.	.	.	ID=VAR_031127;Note=V->M;Dbxref=dbSNP:rs2228667	
+P11597	UniProtKB	Natural variant	459	459	.	.	.	ID=VAR_004172;Note=In HALP1. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8408659;Dbxref=dbSNP:rs2303790,PMID:8408659	
+P11597	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_013922;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12966036;Dbxref=dbSNP:rs1800777,PMID:12966036	
+P11597	UniProtKB	Natural variant	486	486	.	.	.	ID=VAR_013923;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs5887,PMID:10391209	
+P11597	UniProtKB	Mutagenesis	155	155	.	.	.	Note=Reduces triglyceride transfer and cholesteryl ester transfer 5-fold. T->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	215	215	.	.	.	Note=Reduces triglyceride transfer 10-fold. No effect on cholesteryl ester transfer. V->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	218	218	.	.	.	Note=Reduces triglyceride transfer 10-fold. Slight reduction of cholesteryl ester transfer. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Reduces triglyceride transfer 5-fold. Slight reduction of cholesteryl ester transfer. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	282	282	.	.	.	Note=Not secreted. F->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Not secreted. F->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Not secreted. F->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Reduces cholesteryl ester transfer by 60%25. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	392	392	.	.	.	Note=Not secreted. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	399	399	.	.	.	Note=Not secreted. L->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Mutagenesis	433	433	.	.	.	Note=Reduces activity by 60%25. V->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17237796;Dbxref=PMID:17237796	
+P11597	UniProtKB	Beta strand	27	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	34	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	44	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	60	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Turn	67	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	70	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Turn	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	98	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	128	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	152	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	172	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EWS	
+P11597	UniProtKB	Helix	180	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	189	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	228	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	234	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	242	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	252	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	274	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	284	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	300	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	306	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	323	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	326	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	333	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	337	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	347	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	354	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	372	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	378	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	396	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	420	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	434	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Turn	452	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	458	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Beta strand	471	479	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	
+P11597	UniProtKB	Helix	482	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OBD	

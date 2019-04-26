@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region O43592 1 962
+O43592	UniProtKB	Chain	1	962	.	.	.	ID=PRO_0000204716;Note=Exportin-T	
+O43592	UniProtKB	Region	1	385	.	.	.	Note=Necessary for interaction with Ran%2C nuclear localization and nuclear import	
+O43592	UniProtKB	Region	443	962	.	.	.	Note=Necessary for tRNA-binding%2C cytoplasmic localization and nuclear export	
+O43592	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378	
+O43592	UniProtKB	Modified residue	634	634	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O43592	UniProtKB	Natural variant	526	526	.	.	.	ID=VAR_026528;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17851795,PMID:15489334	
+O43592	UniProtKB	Natural variant	716	716	.	.	.	ID=VAR_048962;Note=E->D;Dbxref=dbSNP:rs1051396	
+O43592	UniProtKB	Mutagenesis	405	409	.	.	.	Note=Abolishes binding to tRNA. Does not abolish shuttling behavior. RKQLK->AAQLA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138183;Dbxref=PMID:12138183	
+O43592	UniProtKB	Mutagenesis	539	543	.	.	.	Note=Does not abolish binding to tRNA. Does not abolish shuttling behavior. KVRSR->AVRSA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138183;Dbxref=PMID:12138183	
+O43592	UniProtKB	Mutagenesis	547	551	.	.	.	Note=Does not abolish binding to tRNA. Does not abolish shuttling behavior. LFSRF->AFSRA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138183;Dbxref=PMID:12138183	
+O43592	UniProtKB	Mutagenesis	548	552	.	.	.	Note=Does not abolish binding to tRNA. Does not abolish shuttling behavior. FSRFV->ASRFA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138183;Dbxref=PMID:12138183	
+O43592	UniProtKB	Mutagenesis	550	557	.	.	.	Note=Abolishes binding to tRNA. Does not abolish shuttling behavior. RFVKSLNK->AFVASLNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12138183;Dbxref=PMID:12138183	
+O43592	UniProtKB	Sequence conflict	360	360	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

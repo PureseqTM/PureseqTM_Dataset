@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region P60880 1 206
+P60880	UniProtKB	Chain	1	206	.	.	.	ID=PRO_0000213587;Note=Synaptosomal-associated protein 25	
+P60880	UniProtKB	Domain	19	81	.	.	.	Note=t-SNARE coiled-coil homology 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00202	
+P60880	UniProtKB	Domain	140	202	.	.	.	Note=t-SNARE coiled-coil homology 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00202	
+P60880	UniProtKB	Region	1	75	.	.	.	Note=Interaction with CENPF;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60880	UniProtKB	Region	111	120	.	.	.	Note=Interaction with ZDHHC17;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Compositional bias	85	92	.	.	.	Note=Cys-rich	
+P60880	UniProtKB	Site	180	181	.	.	.	Note=(Microbial infection) Cleavage%3B by C.botulinum neurotoxin type E (BoNT/E);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9886085;Dbxref=PMID:9886085	
+P60880	UniProtKB	Site	197	198	.	.	.	Note=(Microbial infection) Cleavage%3B by C.botulinum neurotoxin type A (BoNT/A%2C botA);Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:9886085,ECO:0000305|PubMed:15592454;Dbxref=PMID:9886085,PMID:15592454	
+P60880	UniProtKB	Site	198	199	.	.	.	Note=(Microbial infection) Cleavage%3B by C.botulinum neurotoxin type C (BoNT/C);Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:9886085,ECO:0000305|PubMed:15592454;Dbxref=PMID:9886085,PMID:15592454	
+P60880	UniProtKB	Modified residue	138	138	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Modified residue	154	154	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Modified residue	187	187	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Lipidation	85	85	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Lipidation	88	88	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Lipidation	90	90	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Lipidation	92	92	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60879	
+P60880	UniProtKB	Alternative sequence	58	89	.	.	.	ID=VSP_006186;Note=In isoform 2. ERIEEGMDQINKDMKEAEKNLTDLGKFCGLCV->DRVEEGMNHINQDMKEAEKNLKDLGKCCGLFI;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8056350,ECO:0000303|PubMed:8112622,ECO:0000303|Ref.4;Dbxref=PMID:14702039,PMID:15489334,PMID:8056350,PMID:8112622	
+P60880	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_073698;Note=In CMS18%3B interfers with calcium-induced fusion%3B inhibits exocytosis of catecholamine-containing vesicles. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25381298;Dbxref=PMID:25381298	
+P60880	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Mildly decreased binding affinity for ZDHHC17. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Mutagenesis	113	113	.	.	.	Note=Mildly decreased binding affinity for ZDHHC17. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Mutagenesis	115	115	.	.	.	Note=No effect on ZDHHC17 binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Mutagenesis	116	116	.	.	.	Note=Decreased binding affinity for ZDHHC17. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Mutagenesis	117	117	.	.	.	Note=Decreased binding affinity for ZDHHC17. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Mutagenesis	119	119	.	.	.	Note=No effect on ZDHHC17 binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28757145;Dbxref=PMID:28757145	
+P60880	UniProtKB	Mutagenesis	152	152	.	.	.	Note=Decreased cleavage by C.botulinum BoNT/C%2C no change in cleavage by C.botulinum BoNT/A (botA). Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17718519;Dbxref=PMID:17718519	
+P60880	UniProtKB	Mutagenesis	156	156	.	.	.	Note=Small decrease in affinity for C.botulinum BoNT/A%2C increased efficiency of BoNT/C cleavage. I->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15592454,ECO:0000269|PubMed:17718519;Dbxref=PMID:15592454,PMID:17718519	
+P60880	UniProtKB	Mutagenesis	166	166	.	.	.	Note=Decreased cleavage by BoNT/C%2C no change in cleavage by BoNT/A. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17718519;Dbxref=PMID:17718519	
+P60880	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Small decrease in affinity for C.botulinum BoNT/A. M->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15592454;Dbxref=PMID:15592454	
+P60880	UniProtKB	Mutagenesis	199	199	.	.	.	Note=Not cleaved by BoNT/C. A->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17718519;Dbxref=PMID:17718519	
+P60880	UniProtKB	Mutagenesis	202	202	.	.	.	Note=Slight decrease in affinity for BoNT/A%2C increases kcat for BoNT/A. M->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15592454;Dbxref=PMID:15592454	
+P60880	UniProtKB	Sequence conflict	44	44	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P60880	UniProtKB	Helix	8	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RK2	
+P60880	UniProtKB	Helix	148	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XTG	
+P60880	UniProtKB	Beta strand	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XTG	

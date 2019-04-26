@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region Q96DU3 1 332
+Q96DU3	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+Q96DU3	UniProtKB	Chain	22	332	.	.	.	ID=PRO_0000014961;Note=SLAM family member 6	
+Q96DU3	UniProtKB	Topological domain	22	226	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Transmembrane	227	247	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Topological domain	248	331	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Domain	35	120	.	.	.	Note=Ig-like V-type	
+Q96DU3	UniProtKB	Domain	132	209	.	.	.	Note=Ig-like C2-type	
+Q96DU3	UniProtKB	Motif	283	288	.	.	.	Note=ITSM 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q13291	
+Q96DU3	UniProtKB	Motif	307	312	.	.	.	Note=ITSM 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q13291	
+Q96DU3	UniProtKB	Modified residue	274	274	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q96DU3	UniProtKB	Modified residue	278	278	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q96DU3	UniProtKB	Modified residue	309	309	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q96DU3	UniProtKB	Glycosylation	58	58	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Glycosylation	87	87	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Glycosylation	137	137	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Glycosylation	144	144	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Glycosylation	161	161	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Glycosylation	178	178	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19349973;Dbxref=PMID:19349973	
+Q96DU3	UniProtKB	Glycosylation	203	203	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96DU3	UniProtKB	Disulfide bond	147	214	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:17045824;Dbxref=PMID:17045824	
+Q96DU3	UniProtKB	Disulfide bond	153	195	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:17045824;Dbxref=PMID:17045824	
+Q96DU3	UniProtKB	Alternative sequence	18	128	.	.	.	ID=VSP_043230;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96DU3	UniProtKB	Alternative sequence	266	266	.	.	.	ID=VSP_034620;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11489943,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11489943,PMID:14702039,PMID:15489334	
+Q96DU3	UniProtKB	Mutagenesis	108	108	.	.	.	Note=Inhibits dimerization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045824;Dbxref=PMID:17045824	
+Q96DU3	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Inhibits dimerization. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045824;Dbxref=PMID:17045824	
+Q96DU3	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Inhibits dimerization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17045824;Dbxref=PMID:17045824	
+Q96DU3	UniProtKB	Mutagenesis	274	274	.	.	.	Note=Retains reduced SLAMF6-mediated cytotoxity%2C disrupts interaction with SH2D1A and retains interaction with SH2D1B%3B when associated with F-309. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16920955;Dbxref=PMID:16920955	
+Q96DU3	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Abolishes SLAMF6-mediated cytotoxity%2C disrupts interaction with SH2D1B and retains interaction with SH2D1A. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16920955;Dbxref=PMID:16920955	
+Q96DU3	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Reduced SLAMF6-mediated cytotoxity. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16920955;Dbxref=PMID:16920955	
+Q96DU3	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Retains reduced SLAMF6-mediated cytotoxity%2C disrupts interaction with SH2D1A and retains interaction with SH2D1B%3B when associated with F-273. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16920955;Dbxref=PMID:16920955	
+Q96DU3	UniProtKB	Beta strand	28	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	38	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	52	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	60	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	74	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Helix	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Helix	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	105	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	117	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	131	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	145	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	163	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	171	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Turn	185	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	192	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Beta strand	202	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	
+Q96DU3	UniProtKB	Helix	210	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IF7	

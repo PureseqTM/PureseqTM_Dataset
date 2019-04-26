@@ -1,0 +1,56 @@
+##gff-version 3
+##sequence-region Q99720 1 223
+Q99720	UniProtKB	Chain	1	223	.	.	.	ID=PRO_0000268652;Note=Sigma non-opioid intracellular receptor 1	
+Q99720	UniProtKB	Topological domain	1	9	.	.	.	Note=Lumenal;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27042935;Dbxref=PMID:27042935	
+Q99720	UniProtKB	Transmembrane	10	30	.	.	.	Note=Helical;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27042935;Dbxref=PMID:27042935	
+Q99720	UniProtKB	Topological domain	31	223	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27042935;Dbxref=PMID:27042935	
+Q99720	UniProtKB	Region	2	8	.	.	.	Note=Targeting to endoplasmic reticulum-associated lipid droplets;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O55242	
+Q99720	UniProtKB	Region	99	106	.	.	.	Note=Important for ligand-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60492	
+Q99720	UniProtKB	Region	177	223	.	.	.	Note=C-terminal hydrophobic region;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27042935;Dbxref=PMID:27042935	
+Q99720	UniProtKB	Site	126	126	.	.	.	Note=Important for ligand binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Site	172	172	.	.	.	Note=Important for ligand binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Alternative sequence	31	52	.	.	.	ID=VSP_021981;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99720	UniProtKB	Alternative sequence	31	50	.	.	.	ID=VSP_021982;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+Q99720	UniProtKB	Alternative sequence	63	76	.	.	.	ID=VSP_021983;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99720	UniProtKB	Alternative sequence	103	106	.	.	.	ID=VSP_021984;Note=In isoform 4. YVLL->ALLG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:15489334	
+Q99720	UniProtKB	Alternative sequence	107	223	.	.	.	ID=VSP_021985;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:15489334	
+Q99720	UniProtKB	Alternative sequence	118	148	.	.	.	ID=VSP_021986;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.4,ECO:0000303|Ref.6	
+Q99720	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_029750;Note=Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15298647;Dbxref=dbSNP:rs1800866,PMID:15298647	
+Q99720	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_078816;Note=In DSMA2%3B unknown pathological significance. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27629094;Dbxref=dbSNP:rs140376902,PMID:27629094	
+Q99720	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_067311;Note=In ALS16%3B the mutation decreases the viability of motor neurons%3B the mutant protein is shifted to lower density membranes and forms detergent-resistant complexes%3B there is an almost 2-fold increase in apoptosis in response to stress compared to controls. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21842496;Dbxref=dbSNP:rs387906829,PMID:21842496	
+Q99720	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_029751;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15298647;Dbxref=dbSNP:rs192644838,PMID:15298647	
+Q99720	UniProtKB	Mutagenesis	123	123	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Reduces ligand-binding. No effect on subcellular localization. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	138	138	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	144	144	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	150	150	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	158	158	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	163	163	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Reduces ligand-binding. No effect on subcellular localization. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	188	188	.	.	.	Note=No effect on ligand-binding. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	195	195	.	.	.	Note=No effect on ligand-binding. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Mutagenesis	213	213	.	.	.	Note=No effect on ligand-binding. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11476895;Dbxref=PMID:11476895	
+Q99720	UniProtKB	Sequence conflict	151	151	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99720	UniProtKB	Sequence conflict	168	168	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99720	UniProtKB	Sequence conflict	208	208	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99720	UniProtKB	Sequence conflict	218	218	.	.	.	Note=L->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99720	UniProtKB	Sequence conflict	219	219	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99720	UniProtKB	Helix	1	3	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DK0	
+Q99720	UniProtKB	Helix	9	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	39	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	54	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	76	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	82	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	89	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	100	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	113	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	121	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	133	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	151	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	160	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Beta strand	166	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	178	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	182	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	187	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	
+Q99720	UniProtKB	Helix	196	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HK1	

@@ -1,0 +1,148 @@
+##gff-version 3
+##sequence-region Q06124 1 597
+Q06124	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+Q06124	UniProtKB	Chain	2	597	.	.	.	ID=PRO_0000094767;Note=Tyrosine-protein phosphatase non-receptor type 11	
+Q06124	UniProtKB	Domain	6	102	.	.	.	Note=SH2 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q06124	UniProtKB	Domain	112	216	.	.	.	Note=SH2 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q06124	UniProtKB	Domain	247	521	.	.	.	Note=Tyrosine-protein phosphatase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00160	
+Q06124	UniProtKB	Region	463	469	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q06124	UniProtKB	Active site	463	463	.	.	.	Note=Phosphocysteine intermediate	
+Q06124	UniProtKB	Binding site	429	429	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q06124	UniProtKB	Binding site	510	510	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q06124	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylthreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+Q06124	UniProtKB	Modified residue	62	62	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q06124	UniProtKB	Modified residue	66	66	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35235	
+Q06124	UniProtKB	Modified residue	546	546	.	.	.	Note=Phosphotyrosine%3B by PDGFR;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35235	
+Q06124	UniProtKB	Modified residue	584	584	.	.	.	Note=Phosphotyrosine%3B by PDGFR;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q06124	UniProtKB	Alternative sequence	408	411	.	.	.	ID=VSP_016672;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1280823,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:7681217,ECO:0000303|PubMed:7681589,ECO:0000303|PubMed:8216283,ECO:0000303|Ref.6;Dbxref=PMID:1280823,PMID:14702039,PMID:15489334,PMID:7681217,PMID:7681589,PMID:8216283	
+Q06124	UniProtKB	Alternative sequence	464	464	.	.	.	ID=VSP_016673;Note=In isoform 3. S->R;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:15489334	
+Q06124	UniProtKB	Alternative sequence	465	597	.	.	.	ID=VSP_016674;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:15489334	
+Q06124	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_027183;Note=In NS1. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs267606990,PMID:12960218	
+Q06124	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_015601;Note=In NS1. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs397507501,PMID:11992261,PMID:12960218	
+Q06124	UniProtKB	Natural variant	58	58	.	.	.	ID=VAR_027184;Note=In NS1. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507506,PMID:12634870	
+Q06124	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_066060;Note=In NS1. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19020799;Dbxref=dbSNP:rs886043790,PMID:19020799	
+Q06124	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_015602;Note=In NS1. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992261;Dbxref=dbSNP:rs397507509,PMID:11992261	
+Q06124	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_015990;Note=In myelodysplastic syndrome. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs397507509,PMID:12717436	
+Q06124	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_015603;Note=In NS1. D->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12161469,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs121918461,PMID:11704759,PMID:11992261,PMID:12161469,PMID:12634870	
+Q06124	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_015604;Note=In NS1. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507510,PMID:11992261,PMID:12634870	
+Q06124	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_015991;Note=In JMML%3B also in myelodysplastic syndrome. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918461,PMID:12717436	
+Q06124	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_015992;Note=In JMML. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs397507510,PMID:12717436	
+Q06124	UniProtKB	Natural variant	62	62	.	.	.	ID=VAR_015605;Note=In NS1%3B also in Noonan patients manifesting juvenile myelomonocytic leukemia. Y->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12325025,ECO:0000269|PubMed:12717436,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs121918460,PMID:11992261,PMID:12325025,PMID:12717436,PMID:12960218	
+Q06124	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_015606;Note=In NS1. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12161469,ECO:0000269|PubMed:12325025,ECO:0000269|PubMed:12634870,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs121918459,PMID:11704759,PMID:11992261,PMID:12161469,PMID:12325025,PMID:12634870,PMID:12960218	
+Q06124	UniProtKB	Natural variant	69	69	.	.	.	ID=VAR_015993;Note=In JMML%3B also in myelodysplastic syndrome. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs397507511,PMID:12717436	
+Q06124	UniProtKB	Natural variant	69	69	.	.	.	ID=VAR_027185;Note=In NS1. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507511,PMID:12634870	
+Q06124	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_015994;Note=In acute myeloid leukemia%3B requires 2 nucleotide substitutions. F->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=PMID:12717436	
+Q06124	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_015995;Note=In myelodysplastic syndrome. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12634870,ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs397507512,PMID:12634870,PMID:12717436	
+Q06124	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_015607;Note=In NS1. A->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs121918454,PMID:11704759,PMID:11992261,PMID:12960218	
+Q06124	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_015608;Note=In NS1. A->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:12161469,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs121918453,PMID:11704759,PMID:12161469,PMID:12634870	
+Q06124	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_015996;Note=In JMML. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918453,PMID:12717436	
+Q06124	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_015997;Note=In JMML. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918454,PMID:12717436	
+Q06124	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_015609;Note=In NS1%3B also in Noonan patients manifesting juvenile myelomonocytic leukemia. T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12161469,ECO:0000269|PubMed:12634870,ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918462,PMID:11992261,PMID:12161469,PMID:12634870,PMID:12717436	
+Q06124	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_015998;Note=In JMML%3B also in myelodysplastic syndrome. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918465,PMID:12717436	
+Q06124	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_015610;Note=In NS1. E->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507514,PMID:11704759,PMID:11992261,PMID:12634870	
+Q06124	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_015999;Note=In JMML. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918465,PMID:12717436	
+Q06124	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_016000;Note=In JMML%3B increases protein tyrosine phosphatase activity against CDC73. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12717436,ECO:0000269|PubMed:26742426;Dbxref=dbSNP:rs121918464,PMID:12717436,PMID:26742426	
+Q06124	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_016001;Note=In JMML. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs121918465,PMID:12717436	
+Q06124	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_027186;Note=In NS1. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12960218;Dbxref=PMID:12960218	
+Q06124	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_015611;Note=In NS1. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12529711,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs121918466,PMID:11704759,PMID:11992261,PMID:12529711,PMID:12634870	
+Q06124	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_015612;Note=In NS1. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs397507517,PMID:11992261,PMID:12960218	
+Q06124	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_015613;Note=In NS1. E->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507520,PMID:11992261,PMID:12634870	
+Q06124	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_027187;Note=In NS1. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507523,PMID:12634870	
+Q06124	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_078101;Note=In NS1%3B increases MAPK signaling%3B increases protein tyrosine phosphatase activity%3B changed substrate selectivity for GAB1. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28074573;Dbxref=dbSNP:rs397507525,PMID:28074573	
+Q06124	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_078102;Note=In NS1%3B increases MAPK signaling%3B increased protein tyrosine phosphatase activity. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28074573;Dbxref=dbSNP:rs765642157,PMID:28074573	
+Q06124	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_078103;Note=In NS1%3B increases MAPK signaling%3B increased protein tyrosine phosphatase activity. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28074573;Dbxref=PMID:28074573	
+Q06124	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_078104;Note=In NS1%3B increases MAPK signaling%3B increased protein tyrosine phosphatase activity. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28074573;Dbxref=dbSNP:rs397507526,PMID:28074573	
+Q06124	UniProtKB	Natural variant	265	265	.	.	.	ID=VAR_078105;Note=In NS1%3B increases MAPK signaling%3B increased protein tyrosine phosphatase activity. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28074573;Dbxref=dbSNP:rs376607329,PMID:28074573	
+Q06124	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_015614;Note=In NS1 and LPRD1%3B does not affect subcellular location%3B decreases protein tyrosine phosphatase activity against CDC73. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12058348,ECO:0000269|PubMed:12960218,ECO:0000269|PubMed:15121796,ECO:0000269|PubMed:15520399,ECO:0000269|PubMed:16679933,ECO:0000269|PubMed:26742426;Dbxref=dbSNP:rs121918456,PMID:11992261,PMID:12058348,PMID:12960218,PMID:15121796,PMID:15520399,PMID:16679933,PMID:26742426	
+Q06124	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_027188;Note=In LPRD1. Y->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15121796,ECO:0000269|PubMed:15520399;Dbxref=dbSNP:rs121918456,PMID:15121796,PMID:15520399	
+Q06124	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_015615;Note=In NS1. I->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12634870;Dbxref=dbSNP:rs397507529,PMID:11704759,PMID:11992261,PMID:12634870	
+Q06124	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_015617;Note=In NS1. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992261;Dbxref=dbSNP:rs397507531,PMID:11992261	
+Q06124	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_015616;Note=In NS1. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12161469;Dbxref=dbSNP:rs121918463,PMID:11992261,PMID:12161469	
+Q06124	UniProtKB	Natural variant	308	308	.	.	.	ID=VAR_015619;Note=In NS1%3B common mutation. N->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12161469,ECO:0000269|PubMed:12634870,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs28933386,PMID:11704759,PMID:11992261,PMID:12161469,PMID:12634870,PMID:12960218	
+Q06124	UniProtKB	Natural variant	308	308	.	.	.	ID=VAR_015618;Note=In NS1%3B some patients also manifest giant cell lesions of bone and soft tissue. N->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs121918455,PMID:11992261,PMID:12960218	
+Q06124	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_015620;Note=In NS1%3B unknown pathological significance. I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992261;Dbxref=dbSNP:rs201787206,PMID:11992261	
+Q06124	UniProtKB	Natural variant	415	415	.	.	.	ID=VAR_027189;Note=In NS1. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15384080;Dbxref=dbSNP:rs121918467,PMID:15384080	
+Q06124	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_027190;Note=In LPRD1. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15389709;Dbxref=dbSNP:rs121918468,PMID:15389709	
+Q06124	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_027191;Note=In LPRD1. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15121796,ECO:0000269|PubMed:15389709;Dbxref=dbSNP:rs121918469,PMID:15121796,PMID:15389709	
+Q06124	UniProtKB	Natural variant	472	472	.	.	.	ID=VAR_015621;Note=In LPRD1%3B does not affect subcellular location%3B decreases protein tyrosine phosphatase activity against CDC73. T->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12058348,ECO:0000269|PubMed:12960218,ECO:0000269|PubMed:15121796,ECO:0000269|PubMed:15520399,ECO:0000269|PubMed:26742426;Dbxref=dbSNP:rs121918457,PMID:12058348,PMID:12960218,PMID:15121796,PMID:15520399,PMID:26742426	
+Q06124	UniProtKB	Natural variant	495	495	.	.	.	ID=VAR_071706;Note=In NS1%3B increased phosphatase activity. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24891296;Dbxref=dbSNP:rs397507539,PMID:24891296	
+Q06124	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_027192;Note=In LPRD1. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15121796;Dbxref=dbSNP:rs397507542,PMID:15121796	
+Q06124	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_027193;Note=In LPRD1%3B reduced phosphatase activity. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15121796,ECO:0000269|PubMed:24891296;Dbxref=dbSNP:rs397507541,PMID:15121796,PMID:24891296	
+Q06124	UniProtKB	Natural variant	505	505	.	.	.	ID=VAR_015622;Note=In NS1. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11992261;Dbxref=dbSNP:rs397507543,PMID:11992261	
+Q06124	UniProtKB	Natural variant	506	506	.	.	.	ID=VAR_015623;Note=In NS1. S->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12325025,ECO:0000269|PubMed:12739139;Dbxref=dbSNP:rs121918458,PMID:12325025,PMID:12739139	
+Q06124	UniProtKB	Natural variant	507	507	.	.	.	ID=VAR_016002;Note=In JMML. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12717436;Dbxref=dbSNP:rs397507546,PMID:12717436	
+Q06124	UniProtKB	Natural variant	507	507	.	.	.	ID=VAR_016003;Note=In NS1 and JMML%3B JMML patient also shows growth retardation and pulmonic stenosis. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12717436,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs397507545,PMID:12717436,PMID:12960218	
+Q06124	UniProtKB	Natural variant	508	508	.	.	.	ID=VAR_015624;Note=In NS1. M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11704759,ECO:0000269|PubMed:11992261,ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs397507547,PMID:11704759,PMID:11992261,PMID:12960218	
+Q06124	UniProtKB	Natural variant	510	510	.	.	.	ID=VAR_027194;Note=In LPRD1%3B does not affect subcellular location%3B decreases protein tyrosine phosphatase activity against CDC73. Q->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14961557,ECO:0000269|PubMed:15121796,ECO:0000269|PubMed:15690106,ECO:0000269|PubMed:26742426;Dbxref=dbSNP:rs397509345,PMID:14961557,PMID:15121796,PMID:15690106,PMID:26742426	
+Q06124	UniProtKB	Natural variant	510	510	.	.	.	ID=VAR_027195;Note=In NS1. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15948193;Dbxref=PMID:15948193	
+Q06124	UniProtKB	Natural variant	514	514	.	.	.	ID=VAR_076499;Note=In NS1 and LPRD1%3B does not affect subcellular location%3B decreases protein tyrosine phosphatase activity against CDC73. Q->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15889278,ECO:0000269|PubMed:16733669,ECO:0000269|PubMed:26742426;Dbxref=dbSNP:rs397507549,PMID:15889278,PMID:16733669,PMID:26742426	
+Q06124	UniProtKB	Natural variant	514	514	.	.	.	ID=VAR_027196;Note=In LPRD1. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15520399;Dbxref=dbSNP:rs121918470,PMID:15520399	
+Q06124	UniProtKB	Natural variant	564	564	.	.	.	ID=VAR_027197;Note=In NS1%3B unknown pathological significance. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12960218;Dbxref=dbSNP:rs397516797,PMID:12960218	
+Q06124	UniProtKB	Mutagenesis	463	463	.	.	.	Note=Abolishes phosphatase activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8216283;Dbxref=PMID:8216283	
+Q06124	UniProtKB	Sequence conflict	539	539	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q06124	UniProtKB	Sequence conflict	552	552	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q06124	UniProtKB	Turn	4	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X7B	
+Q06124	UniProtKB	Helix	13	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	28	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	41	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	50	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	63	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Helix	74	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	83	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHD	
+Q06124	UniProtKB	Beta strand	87	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TKZ	
+Q06124	UniProtKB	Beta strand	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NWG	
+Q06124	UniProtKB	Helix	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DGX	
+Q06124	UniProtKB	Beta strand	113	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CMP	
+Q06124	UniProtKB	Helix	119	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	134	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DF6	
+Q06124	UniProtKB	Beta strand	147	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DF6	
+Q06124	UniProtKB	Beta strand	157	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CMP	
+Q06124	UniProtKB	Beta strand	161	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CMP	
+Q06124	UniProtKB	Beta strand	166	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	178	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	187	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Helix	190	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	202	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DF6	
+Q06124	UniProtKB	Turn	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XZR	
+Q06124	UniProtKB	Beta strand	208	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JEG	
+Q06124	UniProtKB	Beta strand	218	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OHD	
+Q06124	UniProtKB	Helix	223	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Helix	226	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Beta strand	235	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CMQ	
+Q06124	UniProtKB	Helix	251	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	256	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PVG	
+Q06124	UniProtKB	Helix	259	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3B7O	
+Q06124	UniProtKB	Helix	266	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	271	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CMP	
+Q06124	UniProtKB	Helix	286	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	289	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	304	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Turn	312	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CMP	
+Q06124	UniProtKB	Beta strand	319	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RDD	
+Q06124	UniProtKB	Helix	323	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHP	
+Q06124	UniProtKB	Beta strand	327	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	335	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	338	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	352	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	359	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	364	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM0	
+Q06124	UniProtKB	Beta strand	376	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	383	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	394	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	413	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I6V	
+Q06124	UniProtKB	Beta strand	417	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	429	431	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	434	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	437	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	459	467	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	468	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	488	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EHR	
+Q06124	UniProtKB	Helix	494	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Helix	512	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZM1	
+Q06124	UniProtKB	Beta strand	585	589	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JMG	

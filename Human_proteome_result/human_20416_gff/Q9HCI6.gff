@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q9HCI6 1 787
+Q9HCI6	UniProtKB	Chain	1	787	.	.	.	ID=PRO_0000320680;Note=E3 SUMO-protein ligase KIAA1586	
+Q9HCI6	UniProtKB	Region	1	223	.	.	.	Note=Sufficient for E3 SUMO-protein ligase activity;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCI6	UniProtKB	Region	30	37	.	.	.	Note=Interaction with SUMO2 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Y4E5	
+Q9HCI6	UniProtKB	Region	42	50	.	.	.	Note=Interaction with SUMO2 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Y4E5	
+Q9HCI6	UniProtKB	Motif	38	41	.	.	.	Note=PSRP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCI6	UniProtKB	Cross-link	85	85	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25218447;Dbxref=PMID:25218447	
+Q9HCI6	UniProtKB	Cross-link	119	119	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9HCI6	UniProtKB	Cross-link	125	125	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9HCI6	UniProtKB	Alternative sequence	1	62	.	.	.	ID=VSP_031740;Note=In isoform 2. MGDPGSEIIESVPPAGPEASESTTDENEDDIQFVSEGPSRPVLEYIDLVCGDDENPSAYYSD->MNFTYICKIIFQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10997877;Dbxref=PMID:10997877	
+Q9HCI6	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_039276;Note=F->L;Dbxref=dbSNP:rs36113897	
+Q9HCI6	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_039277;Note=V->M;Dbxref=dbSNP:rs6926980	

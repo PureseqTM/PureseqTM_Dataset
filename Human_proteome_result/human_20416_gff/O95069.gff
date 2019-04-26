@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region O95069 1 426
+O95069	UniProtKB	Chain	1	426	.	.	.	ID=PRO_0000101742;Note=Potassium channel subfamily K member 2	
+O95069	UniProtKB	Topological domain	1	61	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Transmembrane	62	82	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Intramembrane	144	170	.	.	.	Note=Pore-forming%3B Name%3DPore-forming 1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Transmembrane	172	192	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Topological domain	193	223	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Transmembrane	224	244	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Intramembrane	253	283	.	.	.	Note=Pore-forming%3B Name%3DPore-forming 2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Transmembrane	288	308	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Topological domain	309	426	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Region	354	426	.	.	.	Note=Required for basal channel activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95069	UniProtKB	Region	378	426	.	.	.	Note=Essential for chloroform and halothane sensitivity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95069	UniProtKB	Modified residue	348	348	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11319556;Dbxref=PMID:11319556	
+O95069	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000255;evidence=ECO:0000244|PDB:4TWK,ECO:0000255	
+O95069	UniProtKB	Glycosylation	134	134	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95069	UniProtKB	Disulfide bond	108	108	.	.	.	Note=Interchain;Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Alternative sequence	1	16	.	.	.	ID=VSP_024428;Note=In isoform 3 and isoform 4. MLPSASRERPGYRAGV->MMNPRAKRDFYL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24196565;Dbxref=PMID:24196565	
+O95069	UniProtKB	Alternative sequence	2	16	.	.	.	ID=VSP_024429;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10321245,ECO:0000303|PubMed:10784345,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:10321245,PMID:10784345,PMID:14702039,PMID:15489334	
+O95069	UniProtKB	Alternative sequence	213	232	.	.	.	ID=VSP_047567;Note=In isoform 4. KWNVSQTKIRIISTIIFILF->VDPILNIWTSISLSCGSGSL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24196565;Dbxref=PMID:24196565	
+O95069	UniProtKB	Alternative sequence	233	426	.	.	.	ID=VSP_047568;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24196565;Dbxref=PMID:24196565	
+O95069	UniProtKB	Mutagenesis	348	348	.	.	.	Note=Mimics non-phosphorylated state and has no effect on leak channel activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11319556;Dbxref=PMID:11319556	
+O95069	UniProtKB	Mutagenesis	348	348	.	.	.	Note=Phosphomimetic mutant which causes switch to voltage-dependent outward rectifier channel activity. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11319556;Dbxref=PMID:11319556	
+O95069	UniProtKB	Sequence conflict	309	311	.	.	.	Note=DWL->RLV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95069	UniProtKB	Sequence conflict	391	391	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95069	UniProtKB	Sequence conflict	411	411	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95069	UniProtKB	Helix	54	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	111	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Turn	133	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Beta strand	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	144	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	168	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	218	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	242	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	253	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	
+O95069	UniProtKB	Helix	287	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TWK	

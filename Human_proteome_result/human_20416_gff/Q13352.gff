@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q13352 1 177
+Q13352	UniProtKB	Chain	1	177	.	.	.	ID=PRO_0000057949;Note=Centromere protein R	
+Q13352	UniProtKB	Region	20	50	.	.	.	Note=DD1	
+Q13352	UniProtKB	Coiled coil	83	113	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13352	UniProtKB	Motif	9	13	.	.	.	Note=LXXLL motif	
+Q13352	UniProtKB	Motif	63	66	.	.	.	Note=Nuclear localization signal	
+Q13352	UniProtKB	Motif	172	176	.	.	.	Note=LXXIL motif	
+Q13352	UniProtKB	Modified residue	17	17	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q13352	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11713274;Dbxref=PMID:11713274	
+Q13352	UniProtKB	Modified residue	71	71	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q13352	UniProtKB	Cross-link	8	8	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13352	UniProtKB	Cross-link	22	22	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13352	UniProtKB	Alternative sequence	1	2	.	.	.	ID=VSP_010831;Note=In isoform 5. MP->MPFAPVAQARVQWHDFRSLQHLLPAFKRFSCLSLGSSWDYS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13352	UniProtKB	Alternative sequence	63	177	.	.	.	ID=VSP_010832;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13352	UniProtKB	Alternative sequence	112	177	.	.	.	ID=VSP_010833;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7593198;Dbxref=PMID:7593198	
+Q13352	UniProtKB	Alternative sequence	162	177	.	.	.	ID=VSP_010834;Note=In isoform 2. ASRHLDSYEFLKAILN->GQPQMSQPL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7593198;Dbxref=PMID:7593198	
+Q13352	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_048691;Note=I->V;Dbxref=dbSNP:rs1058057	
+Q13352	UniProtKB	Mutagenesis	9	9	.	.	.	Note=Decreased interaction with nuclear receptors. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10490654;Dbxref=PMID:10490654	
+Q13352	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Loss of repressor function. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11713274,ECO:0000269|PubMed:15082778;Dbxref=PMID:11713274,PMID:15082778	
+Q13352	UniProtKB	Mutagenesis	63	66	.	.	.	Note=Abolishes localization to nucleus. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244126;Dbxref=PMID:12244126	
+Q13352	UniProtKB	Mutagenesis	63	65	.	.	.	Note=Abolishes localization to nucleus. KRK->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11864709;Dbxref=PMID:11864709	
+Q13352	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Abolishes dimerization%2C but not interactions with nuclear receptors%3B when associated with R-96. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713274;Dbxref=PMID:11713274	
+Q13352	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Abolishes dimerization%2C but not interactions with nuclear receptors%3B when associated with R-89. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713274;Dbxref=PMID:11713274	
+Q13352	UniProtKB	Mutagenesis	172	176	.	.	.	Note=Abolishes interaction with nuclear receptors. LKAIL->AKAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10490654;Dbxref=PMID:10490654	

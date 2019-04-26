@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region P16885 1 1265
+P16885	UniProtKB	Chain	1	1265	.	.	.	ID=PRO_0000088501;Note=1-phosphatidylinositol 4%2C5-bisphosphate phosphodiesterase gamma-2	
+P16885	UniProtKB	Domain	20	131	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+P16885	UniProtKB	Domain	312	456	.	.	.	Note=PI-PLC X-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+P16885	UniProtKB	Domain	532	635	.	.	.	Note=SH2 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+P16885	UniProtKB	Domain	646	735	.	.	.	Note=SH2 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+P16885	UniProtKB	Domain	769	829	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+P16885	UniProtKB	Domain	930	1044	.	.	.	Note=PI-PLC Y-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00271	
+P16885	UniProtKB	Domain	1059	1152	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+P16885	UniProtKB	Active site	327	327	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+P16885	UniProtKB	Active site	372	372	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+P16885	UniProtKB	Modified residue	753	753	.	.	.	Note=Phosphotyrosine%3B by BTK;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19690332,ECO:0000269|PubMed:11606584,ECO:0000269|PubMed:12181444;Dbxref=PMID:19690332,PMID:11606584,PMID:12181444	
+P16885	UniProtKB	Modified residue	759	759	.	.	.	Note=Phosphotyrosine%3B by BTK;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19690332,ECO:0000269|PubMed:11606584,ECO:0000269|PubMed:12181444;Dbxref=PMID:19690332,PMID:11606584,PMID:12181444	
+P16885	UniProtKB	Modified residue	1197	1197	.	.	.	Note=Phosphotyrosine%3B by BTK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P24135	
+P16885	UniProtKB	Modified residue	1217	1217	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P16885	UniProtKB	Modified residue	1245	1245	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15144186;Dbxref=PMID:15144186	
+P16885	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_031560;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11548656,PMID:15489334	
+P16885	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_031561;Note=R->W;Dbxref=dbSNP:rs1143687	
+P16885	UniProtKB	Natural variant	541	541	.	.	.	ID=VAR_047427;Note=T->A;Dbxref=dbSNP:rs11548657	
+P16885	UniProtKB	Natural variant	665	665	.	.	.	ID=VAR_074310;Note=Found in patients with chronic lymphocytic leukemia%3B associated with BTK mutation S-481%3B unknown pathological significance%3B results in resistance to ibrutinib therapy. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24869598;Dbxref=dbSNP:rs1057519831,PMID:24869598	
+P16885	UniProtKB	Natural variant	707	707	.	.	.	ID=VAR_069211;Note=In APLAID%3B results in increased epidermal growth factor-stimulated production of intracellular IP3 and increased intracellular calcium release%3B is a hypermorphic mutation. S->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23000145;Dbxref=dbSNP:rs397514562,PMID:23000145	
+P16885	UniProtKB	Natural variant	845	845	.	.	.	ID=VAR_074311;Note=Found in patients with chronic lymphocytic leukemia%3B associated with BTK mutation S-481%3B unknown pathological significance%3B results in resistance to ibrutinib therapy. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24869598;Dbxref=dbSNP:rs1057519832,PMID:24869598	
+P16885	UniProtKB	Natural variant	883	883	.	.	.	ID=VAR_047428;Note=D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17856213,PMID:15489334	
+P16885	UniProtKB	Sequence conflict	606	610	.	.	.	Note=TFSSI->RFRRM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	606	610	.	.	.	Note=TFSSI->RFRRM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	606	610	.	.	.	Note=TFSSI->RFRRM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	623	623	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	623	623	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	623	623	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	745	745	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	745	745	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	745	745	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	880	880	.	.	.	Note=Q->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	880	880	.	.	.	Note=Q->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	880	880	.	.	.	Note=Q->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	912	912	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	912	912	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	912	912	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	1095	1095	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	1095	1095	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Sequence conflict	1095	1095	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P16885	UniProtKB	Turn	815	817	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Beta strand	818	825	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Beta strand	828	831	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Helix	835	840	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Beta strand	850	854	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Helix	855	857	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Beta strand	858	862	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Beta strand	867	869	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K2J	
+P16885	UniProtKB	Beta strand	870	882	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Beta strand	886	892	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	
+P16885	UniProtKB	Helix	893	907	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2X	

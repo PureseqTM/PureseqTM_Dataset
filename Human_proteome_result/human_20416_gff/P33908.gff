@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region P33908 1 653
+P33908	UniProtKB	Chain	1	653	.	.	.	ID=PRO_0000210308;Note=Mannosyl-oligosaccharide 1%2C2-alpha-mannosidase IA	
+P33908	UniProtKB	Topological domain	1	41	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P33908	UniProtKB	Transmembrane	42	62	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P33908	UniProtKB	Topological domain	63	653	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P33908	UniProtKB	Active site	522	522	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P31723	
+P33908	UniProtKB	Glycosylation	513	513	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P33908	UniProtKB	Disulfide bond	476	508	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P32906	
+P33908	UniProtKB	Alternative sequence	201	201	.	.	.	ID=VSP_056372;Note=In isoform 2. E->EEIEARKGQANCPGSSSSCEVEIQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P33908	UniProtKB	Alternative sequence	331	344	.	.	.	ID=VSP_056373;Note=In isoform 2. SGIGRNWPWASGGS->RWMCNIPRAMEATI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P33908	UniProtKB	Alternative sequence	345	653	.	.	.	ID=VSP_056374;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P33908	UniProtKB	Natural variant	651	651	.	.	.	ID=VAR_034102;Note=R->G;Dbxref=dbSNP:rs35544784	
+P33908	UniProtKB	Sequence conflict	29	47	.	.	.	Note=KGSGPAALRLTEKFVLLLV->MNSNFITFDLKMSLLPSNL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P33908	UniProtKB	Sequence conflict	464	464	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

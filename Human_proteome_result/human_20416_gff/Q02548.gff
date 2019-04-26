@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q02548 1 391
+Q02548	UniProtKB	Chain	1	391	.	.	.	ID=PRO_0000050183;Note=Paired box protein Pax-5	
+Q02548	UniProtKB	Domain	16	142	.	.	.	Note=Paired;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00381	
+Q02548	UniProtKB	Site	158	159	.	.	.	Note=Breakpoint for translocation to form PAX5-ETV6	
+Q02548	UniProtKB	Site	260	261	.	.	.	Note=Breakpoint for translocation to form PAX5-FOXP1	
+Q02548	UniProtKB	Site	303	304	.	.	.	Note=Breakpoint for translocation to form PAX5-ZNF521	
+Q02548	UniProtKB	Alternative sequence	71	136	.	.	.	ID=VSP_047827;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19725825;Dbxref=PMID:19725825	
+Q02548	UniProtKB	Alternative sequence	159	201	.	.	.	ID=VSP_047828;Note=In isoform 8 and isoform 9. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19725825;Dbxref=PMID:19725825	
+Q02548	UniProtKB	Alternative sequence	261	391	.	.	.	ID=VSP_044115;Note=In isoform 5. TTEYSAMASLAGGLDDMKANLASPTPADIGSSVPGPQSYPIVTGRDLASTTLPGYPPHVPPAGQGSYSAPTLTGMVPGSEFSGSPYSHPQYSSYNDSWRFPNPGLLGSPYYYSAAARGAAPPAAATAYDRH->AVTWRARPSPGTLHTSPPLDRAATQHRR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15385562;Dbxref=PMID:15385562	
+Q02548	UniProtKB	Alternative sequence	261	315	.	.	.	ID=VSP_044116;Note=In isoform 4. TTEYSAMASLAGGLDDMKANLASPTPADIGSSVPGPQSYPIVTGRDLASTTLPGY->APPIIIALPPEE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15385562;Dbxref=PMID:15385562	
+Q02548	UniProtKB	Alternative sequence	261	307	.	.	.	ID=VSP_047829;Note=In isoform 11. TTEYSAMASLAGGLDDMKANLASPTPADIGSSVPGPQSYPIVTGRDL->WCPVLMRQYLVQPQAVLFQAVTWRARPSPGTLHTSPPLDRAATQHRR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19725825;Dbxref=PMID:19725825	
+Q02548	UniProtKB	Alternative sequence	261	282	.	.	.	ID=VSP_044117;Note=In isoform 3. TTEYSAMASLAGGLDDMKANLA->GVSFPGVPTATLSIPRTTTPGG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15385562;Dbxref=PMID:15385562	
+Q02548	UniProtKB	Alternative sequence	286	315	.	.	.	ID=VSP_044118;Note=In isoform 3. PADIGSSVPGPQSYPIVTGRDLASTTLPGY->RGCLAPPIIIALPPEE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15385562;Dbxref=PMID:15385562	
+Q02548	UniProtKB	Alternative sequence	304	366	.	.	.	ID=VSP_047830;Note=In isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19725825;Dbxref=PMID:19725825	
+Q02548	UniProtKB	Alternative sequence	304	337	.	.	.	ID=VSP_047831;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19725825;Dbxref=PMID:19725825	
+Q02548	UniProtKB	Alternative sequence	305	349	.	.	.	ID=VSP_044119;Note=In isoform 6. RDLASTTLPGYPPHVPPAGQGSYSAPTLTGMVPGSEFSGSPYSHP->SEFSGSPYSHP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15385562;Dbxref=PMID:15385562	
+Q02548	UniProtKB	Alternative sequence	308	391	.	.	.	ID=VSP_047832;Note=In isoform 11. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19725825;Dbxref=PMID:19725825	
+Q02548	UniProtKB	Alternative sequence	319	391	.	.	.	ID=VSP_044120;Note=In isoform 3 and isoform 4. VPPAGQGSYSAPTLTGMVPGSEFSGSPYSHPQYSSYNDSWRFPNPGLLGSPYYYSAAARGAAPPAAATAYDRH->LQPPLPMTVTDPWSQAGTKH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15385562;Dbxref=PMID:15385562	
+Q02548	UniProtKB	Alternative sequence	338	366	.	.	.	ID=VSP_044121;Note=In isoform 2 and isoform 9. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15385562,ECO:0000303|PubMed:19725825;Dbxref=PMID:15385562,PMID:19725825	
+Q02548	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_070672;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=dbSNP:rs868494257,PMID:24013638	
+Q02548	UniProtKB	Natural variant	26	26	.	.	.	ID=VAR_070673;Note=V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=dbSNP:rs926053251,PMID:24013638	
+Q02548	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_070674;Note=P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_070675;Note=D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_070676;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_070677;Note=S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_070678;Note=T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_070679;Note=P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_070680;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_070681;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=dbSNP:rs115889954,PMID:24013638	
+Q02548	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_070682;Note=In ALL3%3B confers susceptibility to ALL3%3B reduced transcription factor activity. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=dbSNP:rs398123063,PMID:24013638	
+Q02548	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_070683;Note=G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Natural variant	213	213	.	.	.	ID=VAR_070684;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=dbSNP:rs137870876,PMID:24013638	
+Q02548	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_070685;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=dbSNP:rs372989600,PMID:24013638	
+Q02548	UniProtKB	Natural variant	322	322	.	.	.	ID=VAR_034370;Note=A->T;Dbxref=dbSNP:rs34810717	
+Q02548	UniProtKB	Natural variant	338	338	.	.	.	ID=VAR_070686;Note=G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24013638;Dbxref=PMID:24013638	
+Q02548	UniProtKB	Sequence conflict	99	99	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02548	UniProtKB	Sequence conflict	141	143	.	.	.	Note=TKV->PKL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02548	UniProtKB	Helix	35	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Helix	51	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Helix	62	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Beta strand	89	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Helix	93	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Helix	111	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Turn	126	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	
+Q02548	UniProtKB	Helix	132	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1K78	

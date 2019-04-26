@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q96RI0 1 385
+Q96RI0	UniProtKB	Signal peptide	1	17	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Propeptide	18	47	.	.	.	ID=PRO_0000012762;Note=Removed for receptor activation;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96RI0	UniProtKB	Chain	48	385	.	.	.	ID=PRO_0000012763;Note=Proteinase-activated receptor 4	
+Q96RI0	UniProtKB	Topological domain	48	82	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	83	103	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	104	108	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	109	129	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	130	151	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	152	172	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	173	192	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	193	213	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	214	247	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	248	268	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	269	283	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	284	304	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	305	319	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Transmembrane	320	343	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Topological domain	344	385	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Compositional bias	301	305	.	.	.	Note=Poly-Leu	
+Q96RI0	UniProtKB	Site	47	48	.	.	.	Note=Cleavage%3B by thrombin or trypsin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96RI0	UniProtKB	Glycosylation	56	56	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96RI0	UniProtKB	Disulfide bond	149	228	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+Q96RI0	UniProtKB	Natural variant	120	120	.	.	.	ID=VAR_028300;Note=A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9618465,ECO:0000269|PubMed:9716134,ECO:0000269|PubMed:9722561;Dbxref=dbSNP:rs773902,PMID:9618465,PMID:9716134,PMID:9722561	
+Q96RI0	UniProtKB	Natural variant	215	215	.	.	.	ID=VAR_028301;Note=R->Q;Dbxref=dbSNP:rs2230799	
+Q96RI0	UniProtKB	Natural variant	296	296	.	.	.	ID=VAR_012852;Note=F->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs2227346	
+Q96RI0	UniProtKB	Natural variant	310	310	.	.	.	ID=VAR_012853;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs2227376	
+Q96RI0	UniProtKB	Mutagenesis	47	47	.	.	.	Note=No proteolytic cleavage (by thrombin or trypsin). R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9618465;Dbxref=PMID:9618465	
+Q96RI0	UniProtKB	Mutagenesis	68	68	.	.	.	Note=No effect on receptor activation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9618465;Dbxref=PMID:9618465	
+Q96RI0	UniProtKB	Beta strand	44	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QDZ	

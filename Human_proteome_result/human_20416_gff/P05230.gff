@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region P05230 1 155
+P05230	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P03968	
+P05230	UniProtKB	Propeptide	2	15	.	.	.	ID=PRO_0000008907	
+P05230	UniProtKB	Chain	16	155	.	.	.	ID=PRO_0000008908;Note=Fibroblast growth factor 1	
+P05230	UniProtKB	Region	127	143	.	.	.	Note=Heparin-binding	
+P05230	UniProtKB	Motif	24	27	.	.	.	Note=Nuclear localization signal	
+P05230	UniProtKB	Binding site	33	33	.	.	.	Note=Heparin;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11069186,ECO:0000269|PubMed:9655399;Dbxref=PMID:11069186,PMID:9655399	
+P05230	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P03968	
+P05230	UniProtKB	Alternative sequence	57	60	.	.	.	ID=VSP_036536;Note=In isoform 2. IQLQ->TDTK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7504343;Dbxref=PMID:7504343	
+P05230	UniProtKB	Alternative sequence	61	155	.	.	.	ID=VSP_036537;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7504343;Dbxref=PMID:7504343	
+P05230	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_021357;Note=G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs17223632	
+P05230	UniProtKB	Mutagenesis	24	27	.	.	.	Note=Loss of nuclear import leading to loss of phosphorylation by PKC/PRKCD. KKPK->AAPA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22321063;Dbxref=PMID:22321063	
+P05230	UniProtKB	Mutagenesis	33	33	.	.	.	Note=No effect on integrin-binding. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Mutagenesis	50	50	.	.	.	Note=Dominant-negative mutant. Defective in integrin-binding and in ternary complex formation with integrin and FGFR1. No effect on heparin- and FGFR1-binding. Defective in inducing FGF1 signaling%2C cell proliferation and cell migration. Defective in inducing angiogenesis%2C and suppression of angiogenesis in different in vitro and in vivo angiogenesis models. R->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18441324,ECO:0000269|PubMed:20422052,ECO:0000269|PubMed:23469107;Dbxref=PMID:18441324,PMID:20422052,PMID:23469107	
+P05230	UniProtKB	Mutagenesis	102	102	.	.	.	Note=No effect on integrin-binding. No effect on integrin- and heparin-binding%2C loss of FGFR1-binding%2C defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with A-109 and A-110. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Mutagenesis	109	109	.	.	.	Note=No effect on integrin- and heparin-binding%2C loss of FGFR1-binding%2C defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with A-102 and A-110. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Mutagenesis	110	110	.	.	.	Note=No effect on integrin-binding. No effect on integrin- and heparin-binding%2C loss of FGFR1-binding%2C defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with A-102 and A-109. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Mutagenesis	114	114	.	.	.	Note=Decrease in LRRC59-binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11964394;Dbxref=PMID:11964394	
+P05230	UniProtKB	Mutagenesis	127	127	.	.	.	Note=Reduced integrin-binding%3B when associated with E-128. Defective in integrin-%2C heparin- and FGFR1-binding%2C and defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with E-128%3B E-133 and E-134. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Mutagenesis	128	128	.	.	.	Note=Reduced integrin-binding%3B when associated with E-127. Defective in integrin-%2C heparin- and FGFR1-binding%2C and defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with E-127%3B E-133 and E-134. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Mutagenesis	131	131	.	.	.	Note=Decrease in LRRC59-binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11964394;Dbxref=PMID:11964394	
+P05230	UniProtKB	Mutagenesis	131	131	.	.	.	Note=Decrease in LRRC59-binding. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11964394;Dbxref=PMID:11964394	
+P05230	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Loss of LRRC59-binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11964394;Dbxref=PMID:11964394	
+P05230	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Loss of CSNK2A-%2C CSNK2B- and LRRC59-binding. Reduced integrin-binding%3B when associated with E-134. Defective in integrin-%2C heparin- and FGFR1-binding%2C and defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with E-128%3B E-133 and E-134. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11964394,ECO:0000269|PubMed:18441324;Dbxref=PMID:11964394,PMID:18441324	
+P05230	UniProtKB	Mutagenesis	133	133	.	.	.	Note=No effect on LRRC59-binding. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11964394;Dbxref=PMID:11964394	
+P05230	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Reduced integrin-binding%3B when associated with E-133. Defective in integrin-%2C heparin- and FGFR1-binding%2C and defective in inducing FGF1 signaling%2C cell proliferation and cell migration%3B when associated with E-127%3B E-128 and E-133. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18441324;Dbxref=PMID:18441324	
+P05230	UniProtKB	Turn	11	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OJM	
+P05230	UniProtKB	Beta strand	23	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	27	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Turn	32	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	36	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Turn	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DZC	
+P05230	UniProtKB	Beta strand	46	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Helix	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3B9U	
+P05230	UniProtKB	Beta strand	59	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	68	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Turn	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OJ2	
+P05230	UniProtKB	Beta strand	88	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Helix	96	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	100	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Turn	106	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	109	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Helix	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Beta strand	123	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O3Q	
+P05230	UniProtKB	Beta strand	130	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QC4	
+P05230	UniProtKB	Helix	135	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	
+P05230	UniProtKB	Turn	138	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K43	
+P05230	UniProtKB	Helix	143	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3B9U	
+P05230	UniProtKB	Beta strand	147	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG8	

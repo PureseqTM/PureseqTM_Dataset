@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region P28288 1 659
+P28288	UniProtKB	Chain	1	659	.	.	.	ID=PRO_0000093309;Note=ATP-binding cassette sub-family D member 3	
+P28288	UniProtKB	Transmembrane	84	104	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00441	
+P28288	UniProtKB	Transmembrane	126	146	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00441	
+P28288	UniProtKB	Transmembrane	224	244	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00441	
+P28288	UniProtKB	Transmembrane	313	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00441	
+P28288	UniProtKB	Domain	85	372	.	.	.	Note=ABC transmembrane type-1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00441	
+P28288	UniProtKB	Domain	440	659	.	.	.	Note=ABC transporter;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00434	
+P28288	UniProtKB	Nucleotide binding	473	480	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00434	
+P28288	UniProtKB	Region	1	199	.	.	.	Note=Interaction with PEX19	
+P28288	UniProtKB	Region	1	124	.	.	.	Note=Targeting to peroxisomes	
+P28288	UniProtKB	Modified residue	61	61	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P55096	
+P28288	UniProtKB	Modified residue	260	260	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P28288	UniProtKB	Modified residue	399	399	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P28288	UniProtKB	Modified residue	533	533	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P55096	
+P28288	UniProtKB	Modified residue	659	659	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P55096	
+P28288	UniProtKB	Glycosylation	12	12	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P28288	UniProtKB	Glycosylation	106	106	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P28288	UniProtKB	Glycosylation	206	206	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P28288	UniProtKB	Alternative sequence	229	236	.	.	.	ID=VSP_031187;Note=In isoform 3. GPASMMAY->VLGKILWH;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.4;Dbxref=PMID:15489334	
+P28288	UniProtKB	Alternative sequence	237	659	.	.	.	ID=VSP_031188;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.4;Dbxref=PMID:15489334	
+P28288	UniProtKB	Alternative sequence	277	386	.	.	.	ID=VSP_031189;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P28288	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_000091;Note=In a patient with Zellweger syndrome. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1301993;Dbxref=dbSNP:rs121917999,PMID:1301993	
+P28288	UniProtKB	Mutagenesis	478	478	.	.	.	Note=Decreased ATP-binding affinity. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11248239;Dbxref=PMID:11248239	
+P28288	UniProtKB	Mutagenesis	572	572	.	.	.	Note=Decreased ATPase activity. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11248239;Dbxref=PMID:11248239	
+P28288	UniProtKB	Sequence conflict	175	175	.	.	.	Note=M->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28288	UniProtKB	Sequence conflict	191	192	.	.	.	Note=QD->LV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28288	UniProtKB	Sequence conflict	336	336	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28288	UniProtKB	Sequence conflict	503	503	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28288	UniProtKB	Sequence conflict	542	542	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P28288	UniProtKB	Sequence conflict	616	634	.	.	.	Note=VGITLFTVSHRKSLWKHHE->GWHHSLHLCLIGNLFGNIMR;Ontology_term=ECO:0000305;evidence=ECO:0000305	

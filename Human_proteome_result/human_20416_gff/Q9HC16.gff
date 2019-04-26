@@ -1,0 +1,75 @@
+##gff-version 3
+##sequence-region Q9HC16 1 384
+Q9HC16	UniProtKB	Chain	1	384	.	.	.	ID=PRO_0000171761;Note=DNA dC->dU-editing enzyme APOBEC-3G	
+Q9HC16	UniProtKB	Domain	29	138	.	.	.	Note=CMP/dCMP-type deaminase 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01083	
+Q9HC16	UniProtKB	Domain	214	328	.	.	.	Note=CMP/dCMP-type deaminase 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01083	
+Q9HC16	UniProtKB	Region	1	60	.	.	.	Note=Essential for cytoplasmic localization	
+Q9HC16	UniProtKB	Region	209	336	.	.	.	Note=Necessary for homooligomerization	
+Q9HC16	UniProtKB	Region	213	215	.	.	.	Note=Interaction with DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC16	UniProtKB	Region	313	320	.	.	.	Note=Interaction with DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC16	UniProtKB	Active site	259	259	.	.	.	Note=Proton donor;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC16	UniProtKB	Metal binding	65	65	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9HC16	UniProtKB	Metal binding	97	97	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9HC16	UniProtKB	Metal binding	100	100	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9HC16	UniProtKB	Metal binding	257	257	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968,ECO:0000269|PubMed:19153609;Dbxref=PMID:18288108,PMID:18849968,PMID:19153609	
+Q9HC16	UniProtKB	Metal binding	288	288	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968,ECO:0000269|PubMed:19153609;Dbxref=PMID:18288108,PMID:18849968,PMID:19153609	
+Q9HC16	UniProtKB	Metal binding	291	291	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968,ECO:0000269|PubMed:19153609;Dbxref=PMID:18288108,PMID:18849968,PMID:19153609	
+Q9HC16	UniProtKB	Site	244	244	.	.	.	Note=Interaction with DNA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC16	UniProtKB	Modified residue	32	32	.	.	.	Note=Phosphothreonine%3B by PKA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18836454,ECO:0000269|PubMed:21659520;Dbxref=PMID:18836454,PMID:21659520	
+Q9HC16	UniProtKB	Modified residue	218	218	.	.	.	Note=Phosphothreonine%3B by PKA and CAMK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659520;Dbxref=PMID:21659520	
+Q9HC16	UniProtKB	Alternative sequence	58	79	.	.	.	ID=VSP_009588;Note=In isoform 3. VYSELKYHPEMRFFHWFSKWRK->VPPGLQSLCRQELSQLGKQTTH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9HC16	UniProtKB	Alternative sequence	80	384	.	.	.	ID=VSP_009589;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9HC16	UniProtKB	Natural variant	186	186	.	.	.	ID=VAR_017837;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs8177832	
+Q9HC16	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_048723;Note=R->H;Dbxref=dbSNP:rs17000736	
+Q9HC16	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_025060;Note=Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs17496046	
+Q9HC16	UniProtKB	Mutagenesis	67	67	.	.	.	Note=Loss of cytidine deaminase activity and significant decrease in antiviral activity%3B when associated with A-259. E->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355,ECO:0000269|PubMed:17020885;Dbxref=PMID:12808466,PMID:12970355,PMID:17020885	
+Q9HC16	UniProtKB	Mutagenesis	67	67	.	.	.	Note=No effect on cytidine deaminase and antiviral activity. E->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355,ECO:0000269|PubMed:17020885;Dbxref=PMID:12808466,PMID:12970355,PMID:17020885	
+Q9HC16	UniProtKB	Mutagenesis	67	67	.	.	.	Note=Decreases cytidine deaminase activity. E->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355,ECO:0000269|PubMed:17020885;Dbxref=PMID:12808466,PMID:12970355,PMID:17020885	
+Q9HC16	UniProtKB	Mutagenesis	81	81	.	.	.	Note=Decreases cytidine deaminase activity. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808465,ECO:0000269|PubMed:12808466;Dbxref=PMID:12808465,PMID:12808466	
+Q9HC16	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Does not decrease cytidine deaminase activity. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808466;Dbxref=PMID:12808466	
+Q9HC16	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Decreases cytidine deaminase activity. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808465,ECO:0000269|PubMed:12808466;Dbxref=PMID:12808465,PMID:12808466	
+Q9HC16	UniProtKB	Mutagenesis	100	100	.	.	.	Note=Decreases cytidine deaminase activity. C->A%2CS;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808465,ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355;Dbxref=PMID:12808465,PMID:12808466,PMID:12970355	
+Q9HC16	UniProtKB	Mutagenesis	128	128	.	.	.	Note=Complete loss of VIF-induced degradation. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15054139;Dbxref=PMID:15054139	
+Q9HC16	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Slightly reduces enzyme activity. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968;Dbxref=PMID:18288108,PMID:18849968	
+Q9HC16	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Reduces enzyme activity. R->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968;Dbxref=PMID:18288108,PMID:18849968	
+Q9HC16	UniProtKB	Mutagenesis	215	215	.	.	.	Note=Abolishes enzyme activity. R->A%2CE;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968;Dbxref=PMID:18288108,PMID:18849968	
+Q9HC16	UniProtKB	Mutagenesis	217	217	.	.	.	Note=Modifies the spectrum of action against mobile genetic elements%3B when associated with K-247. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+Q9HC16	UniProtKB	Mutagenesis	218	218	.	.	.	Note=Loss of phosphorylation. No effect on cytidine deaminase activity or HIV-1 restriction activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659520;Dbxref=PMID:21659520	
+Q9HC16	UniProtKB	Mutagenesis	218	218	.	.	.	Note=Phosphomimetic mutant which shows loss of cytidine deaminase activity and HIV-1 restriction activity. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659520;Dbxref=PMID:21659520	
+Q9HC16	UniProtKB	Mutagenesis	221	221	.	.	.	Note=Does not decrease cytidine deaminase activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808466;Dbxref=PMID:12808466	
+Q9HC16	UniProtKB	Mutagenesis	244	244	.	.	.	Note=Abolishes enzyme activity. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18849968;Dbxref=PMID:18849968	
+Q9HC16	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Modifies the spectrum of action against mobile genetic elements%3B when associated with K-217. P->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+Q9HC16	UniProtKB	Mutagenesis	256	256	.	.	.	Note=Strongly reduces enzyme activity. R->E	
+Q9HC16	UniProtKB	Mutagenesis	257	257	.	.	.	Note=Decreases cytidine deaminase activity. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808465,ECO:0000269|PubMed:12808466;Dbxref=PMID:12808465,PMID:12808466	
+Q9HC16	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Loss of cytidine deaminase activity and significant decrease in antiviral activity. E->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355,ECO:0000269|PubMed:17020885,ECO:0000269|PubMed:18288108;Dbxref=PMID:12808466,PMID:12970355,PMID:17020885,PMID:18288108	
+Q9HC16	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Loss of cytidine deaminase activity and significant decrease in antiviral activity%3B when associated with A-67. E->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355,ECO:0000269|PubMed:17020885,ECO:0000269|PubMed:18288108;Dbxref=PMID:12808466,PMID:12970355,PMID:17020885,PMID:18288108	
+Q9HC16	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Decreases cytidine deaminase activity and antiviral activity. E->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355,ECO:0000269|PubMed:17020885,ECO:0000269|PubMed:18288108;Dbxref=PMID:12808466,PMID:12970355,PMID:17020885,PMID:18288108	
+Q9HC16	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Abolishes enzyme activity. W->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18288108,ECO:0000269|PubMed:18849968;Dbxref=PMID:18288108,PMID:18849968	
+Q9HC16	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Decreases cytidine deaminase activity. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808465,ECO:0000269|PubMed:12808466;Dbxref=PMID:12808465,PMID:12808466	
+Q9HC16	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Decreases cytidine deaminase activity. C->A%2CS;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12808465,ECO:0000269|PubMed:12808466,ECO:0000269|PubMed:12970355;Dbxref=PMID:12808465,PMID:12808466,PMID:12970355	
+Q9HC16	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Abolishes enzyme activity. R->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18288108;Dbxref=PMID:18288108	
+Q9HC16	UniProtKB	Mutagenesis	315	315	.	.	.	Note=Abolishes enzyme activity. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18849968;Dbxref=PMID:18849968	
+Q9HC16	UniProtKB	Mutagenesis	320	320	.	.	.	Note=Slightly reduces enzyme activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18288108;Dbxref=PMID:18288108	
+Q9HC16	UniProtKB	Mutagenesis	320	320	.	.	.	Note=Reduces enzyme activity. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18288108;Dbxref=PMID:18288108	
+Q9HC16	UniProtKB	Mutagenesis	323	323	.	.	.	Note=Does not decrease cytidine deaminase activity. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12808466;Dbxref=PMID:12808466	
+Q9HC16	UniProtKB	Sequence conflict	162	162	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC16	UniProtKB	Sequence conflict	370	370	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC16	UniProtKB	Beta strand	195	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KBO	
+Q9HC16	UniProtKB	Helix	199	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	213	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JYW	
+Q9HC16	UniProtKB	Beta strand	219	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	231	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Helix	236	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	240	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	247	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JYW	
+Q9HC16	UniProtKB	Helix	258	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Helix	266	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	273	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E1U	
+Q9HC16	UniProtKB	Beta strand	277	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Helix	289	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	305	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Helix	321	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Beta strand	334	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Helix	340	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	
+Q9HC16	UniProtKB	Helix	364	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V4K	

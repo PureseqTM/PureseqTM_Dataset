@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region P03973 1 132
+P03973	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2039600,ECO:0000269|PubMed:25946035,ECO:0000269|PubMed:3462719,ECO:0000269|PubMed:3485543;Dbxref=PMID:2039600,PMID:25946035,PMID:3462719,PMID:3485543	
+P03973	UniProtKB	Chain	26	132	.	.	.	ID=PRO_0000041355;Note=Antileukoproteinase	
+P03973	UniProtKB	Domain	28	76	.	.	.	Note=WAP 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00722	
+P03973	UniProtKB	Domain	82	130	.	.	.	Note=WAP 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00722	
+P03973	UniProtKB	Region	84	132	.	.	.	Note=Elastase inhibitory domain	
+P03973	UniProtKB	Site	97	98	.	.	.	Note=Reactive bond for chymotrypsin%2C trypsin and elastase;Ontology_term=ECO:0000305,ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:18421166,ECO:0000305|PubMed:24121345,ECO:0000305|PubMed:3366116;Dbxref=PMID:18421166,PMID:24121345,PMID:3366116	
+P03973	UniProtKB	Disulfide bond	35	64	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	43	68	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	51	63	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	57	72	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	89	118	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2Z7F,ECO:0000244|PDB:4DOQ,ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	96	122	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2Z7F,ECO:0000244|PDB:4DOQ,ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	105	117	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2Z7F,ECO:0000244|PDB:4DOQ,ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Disulfide bond	111	126	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2Z7F,ECO:0000244|PDB:4DOQ,ECO:0000269|PubMed:3366116;Dbxref=PMID:3366116	
+P03973	UniProtKB	Mutagenesis	45	45	.	.	.	Note=No significant effect on inhibition of elastase%2C trypsin and chymotrypsin. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10702419,ECO:0000269|PubMed:2110563;Dbxref=PMID:10702419,PMID:2110563	
+P03973	UniProtKB	Mutagenesis	45	45	.	.	.	Note=No significant effect on inhibition of elastase%2C trypsin and chymotrypsin. R->M%2CV;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2110563;Dbxref=PMID:2110563	
+P03973	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Increases inhibition of chymotrypsin. L->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10702419,ECO:0000269|PubMed:2110563;Dbxref=PMID:10702419,PMID:2110563	
+P03973	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Reduced inhibition of elastase. Strongly reduced inhibition of chymotrypsin and trypsin. L->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10702419,ECO:0000269|PubMed:2110563;Dbxref=PMID:10702419,PMID:2110563	
+P03973	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Strongly reduced inhibition of elastase. Abolishes inhibition of trypsin. L->K%2CR;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10702419,ECO:0000269|PubMed:2110563;Dbxref=PMID:10702419,PMID:2110563	
+P03973	UniProtKB	Mutagenesis	98	98	.	.	.	Note=No significant effect on inhibition of elastase%2C trypsin and chymotrypsin. M->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2110563;Dbxref=PMID:2110563	
+P03973	UniProtKB	Mutagenesis	99	99	.	.	.	Note=No significant effect on inhibition of elastase%2C trypsin and chymotrypsin. L->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2110563;Dbxref=PMID:2110563	
+P03973	UniProtKB	Beta strand	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7F	
+P03973	UniProtKB	Beta strand	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7F	
+P03973	UniProtKB	Helix	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7F	
+P03973	UniProtKB	Beta strand	116	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7F	
+P03973	UniProtKB	Beta strand	123	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7F	

@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region O43283 1 966
+O43283	UniProtKB	Chain	1	966	.	.	.	ID=PRO_0000086264;Note=Mitogen-activated protein kinase kinase kinase 13	
+O43283	UniProtKB	Domain	168	409	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O43283	UniProtKB	Nucleotide binding	174	182	.	.	.	Note=ATP;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q12852,ECO:0000255|PROSITE-ProRule:PRU00159	
+O43283	UniProtKB	Region	433	454	.	.	.	Note=Leucine-zipper 1	
+O43283	UniProtKB	Region	486	507	.	.	.	Note=Leucine-zipper 2	
+O43283	UniProtKB	Region	815	828	.	.	.	Note=Acidic;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43283	UniProtKB	Active site	279	279	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250,ECO:0000255,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q12852,ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+O43283	UniProtKB	Binding site	195	195	.	.	.	Note=ATP;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q60700,ECO:0000255|PROSITE-ProRule:PRU00159	
+O43283	UniProtKB	Alternative sequence	1	207	.	.	.	ID=VSP_036562;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43283	UniProtKB	Alternative sequence	1	144	.	.	.	ID=VSP_036563;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43283	UniProtKB	Alternative sequence	122	128	.	.	.	ID=VSP_036564;Note=In isoform 5. RSGSGSG->RYLGSAI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O43283	UniProtKB	Alternative sequence	129	966	.	.	.	ID=VSP_036565;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O43283	UniProtKB	Alternative sequence	145	159	.	.	.	ID=VSP_036566;Note=In isoform 3. IGKAYSTDYKLQQQD->MSYVECKCLQLENKN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43283	UniProtKB	Alternative sequence	159	160	.	.	.	ID=VSP_036567;Note=In isoform 2. DT->VF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O43283	UniProtKB	Alternative sequence	161	966	.	.	.	ID=VSP_036568;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O43283	UniProtKB	Alternative sequence	208	220	.	.	.	ID=VSP_036569;Note=In isoform 4. LRKLKHPNIIAFK->MYCGIQILALWER;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43283	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_051640;Note=E->K;Dbxref=dbSNP:rs35266179	
+O43283	UniProtKB	Natural variant	517	517	.	.	.	ID=VAR_040708;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56408536,PMID:17344846	
+O43283	UniProtKB	Natural variant	712	712	.	.	.	ID=VAR_040709;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56309231,PMID:17344846	
+O43283	UniProtKB	Natural variant	746	746	.	.	.	ID=VAR_040710;Note=In a metastatic melanoma sample%3B somatic mutation. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O43283	UniProtKB	Natural variant	915	915	.	.	.	ID=VAR_030577;Note=R->H;Dbxref=dbSNP:rs3732576	
+O43283	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Kinase inactive. Fails to activate NF-kappa-B. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12492477;Dbxref=PMID:12492477	
+O43283	UniProtKB	Sequence conflict	106	106	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43283	UniProtKB	Sequence conflict	230	232	.	.	.	Note=CII->YLY;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43283	UniProtKB	Sequence conflict	268	268	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43283	UniProtKB	Sequence conflict	339	340	.	.	.	Note=FG->MV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43283	UniProtKB	Sequence conflict	508	508	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43283	UniProtKB	Sequence conflict	821	821	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

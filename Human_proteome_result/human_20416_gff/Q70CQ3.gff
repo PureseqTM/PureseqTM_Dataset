@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q70CQ3 1 517
+Q70CQ3	UniProtKB	Chain	1	517	.	.	.	ID=PRO_0000080662;Note=Ubiquitin carboxyl-terminal hydrolase 30	
+Q70CQ3	UniProtKB	Topological domain	1	35	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q70CQ3	UniProtKB	Transmembrane	36	56	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q70CQ3	UniProtKB	Topological domain	57	517	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q70CQ3	UniProtKB	Domain	68	502	.	.	.	Note=USP	
+Q70CQ3	UniProtKB	Active site	77	77	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18287522,ECO:0000269|PubMed:24896179,ECO:0000269|PubMed:25621951;Dbxref=PMID:18287522,PMID:24896179,PMID:25621951	
+Q70CQ3	UniProtKB	Active site	452	452	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10092,ECO:0000255|PROSITE-ProRule:PRU10093	
+Q70CQ3	UniProtKB	Cross-link	235	235	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24896179;Dbxref=PMID:24896179	
+Q70CQ3	UniProtKB	Cross-link	289	289	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24896179;Dbxref=PMID:24896179	
+Q70CQ3	UniProtKB	Natural variant	357	357	.	.	.	ID=VAR_059751;Note=H->R;Dbxref=dbSNP:rs16939904	
+Q70CQ3	UniProtKB	Mutagenesis	28	28	.	.	.	Note=No change in mitochondrial subcellular location%3B when associated with N-30 and N-33. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18287522;Dbxref=PMID:18287522	
+Q70CQ3	UniProtKB	Mutagenesis	30	30	.	.	.	Note=No effect on subcellular location%3B when associated with N-28 and N-33. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18287522;Dbxref=PMID:18287522	
+Q70CQ3	UniProtKB	Mutagenesis	33	33	.	.	.	Note=No effect on subcellular location%3B when associated with N-28 and N-30. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18287522;Dbxref=PMID:18287522	
+Q70CQ3	UniProtKB	Mutagenesis	59	64	.	.	.	Note=Loss of mitochondrial subcellular location. Located in the endoplasmic reticulum. RKKRRK->NNASNN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18287522;Dbxref=PMID:18287522	
+Q70CQ3	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Loss of deubiquitinase activity and impaired ability to inhibit mitophagy. Increased TOMM20 ubiquitination. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18287522,ECO:0000269|PubMed:24896179,ECO:0000269|PubMed:25621951;Dbxref=PMID:18287522,PMID:24896179,PMID:25621951	
+Q70CQ3	UniProtKB	Beta strand	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	77	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	90	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	101	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	116	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	141	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	156	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	162	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	226	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Turn	235	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	240	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	266	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	277	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	285	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	306	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	319	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	328	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	332	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	347	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	352	354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	355	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	435	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	448	450	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	452	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	463	465	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHP	
+Q70CQ3	UniProtKB	Beta strand	473	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	480	484	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Helix	486	491	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	
+Q70CQ3	UniProtKB	Beta strand	494	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OHK	

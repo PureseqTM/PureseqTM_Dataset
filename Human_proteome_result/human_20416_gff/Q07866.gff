@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region Q07866 1 573
+Q07866	UniProtKB	Chain	1	573	.	.	.	ID=PRO_0000215092;Note=Kinesin light chain 1	
+Q07866	UniProtKB	Repeat	213	246	.	.	.	Note=TPR 1	
+Q07866	UniProtKB	Repeat	255	288	.	.	.	Note=TPR 2	
+Q07866	UniProtKB	Repeat	297	330	.	.	.	Note=TPR 3	
+Q07866	UniProtKB	Repeat	339	372	.	.	.	Note=TPR 4	
+Q07866	UniProtKB	Repeat	381	414	.	.	.	Note=TPR 5	
+Q07866	UniProtKB	Repeat	464	497	.	.	.	Note=TPR 6	
+Q07866	UniProtKB	Coiled coil	27	156	.	.	.	.	
+Q07866	UniProtKB	Modified residue	162	162	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P37285	
+Q07866	UniProtKB	Modified residue	449	449	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88447	
+Q07866	UniProtKB	Modified residue	460	460	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88447	
+Q07866	UniProtKB	Modified residue	521	521	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20074060;Dbxref=PMID:20074060	
+Q07866	UniProtKB	Modified residue	524	524	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20074060;Dbxref=PMID:20074060	
+Q07866	UniProtKB	Alternative sequence	542	573	.	.	.	ID=VSP_008021;Note=In isoform P. VSMSVEWNGGVSGRASFCGKRQQQQWPGRRHR->MKRASSLNVLNVGGKAAEDRFQERNNCLADSRALSASHTDLAH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12839500;Dbxref=PMID:12839500	
+Q07866	UniProtKB	Alternative sequence	542	550	.	.	.	ID=VSP_008017;Note=In isoform G%2C isoform N and isoform S. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12839500;Dbxref=PMID:12839500	
+Q07866	UniProtKB	Alternative sequence	550	550	.	.	.	ID=VSP_023323;Note=In isoform I. G->GDGTGSLKRSGSFSKLRASIRRSSEKLVRKLKGGSSRESEPKNPGMKRASSLNVLNVGGKAAEDRFQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12839500;Dbxref=PMID:12839500	
+Q07866	UniProtKB	Alternative sequence	551	573	.	.	.	ID=VSP_008018;Note=In isoform C and isoform S. GVSGRASFCGKRQQQQWPGRRHR->MRKMKLGLVN;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12839500,ECO:0000303|PubMed:15489334;Dbxref=PMID:12839500,PMID:15489334	
+Q07866	UniProtKB	Alternative sequence	551	573	.	.	.	ID=VSP_046424;Note=In isoform D. GVSGRASFCGKRQQQQWPGRRHR->DGTGSLKRSGSFSKLRASIRRSSEKLVRKLKGGSSRESEPKNPGASLAEPLFVENDSSSSGLEDATAN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12839500;Dbxref=PMID:12839500	
+Q07866	UniProtKB	Alternative sequence	551	551	.	.	.	ID=VSP_008019;Note=In isoform J%2C isoform K and isoform N. G->DGTGSLKRSGSFSKLRASIRRSSEKLVRKLKGGSSRESEPKNPG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12839500;Dbxref=PMID:12839500	
+Q07866	UniProtKB	Alternative sequence	552	573	.	.	.	ID=VSP_008020;Note=In isoform J and isoform N. VSGRASFCGKRQQQQWPGRRHR->MKRASSLNVLNVGGKAAEDRFQERNNCLADSRALSASHTDLAH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12839500;Dbxref=PMID:12839500	
+Q07866	UniProtKB	Mutagenesis	521	521	.	.	.	Note=No effect on motor function%3B when associated with A/D-524. S->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20074060;Dbxref=PMID:20074060	
+Q07866	UniProtKB	Mutagenesis	524	524	.	.	.	Note=No effect on motor function%3B when associated with A/D-521. S->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20074060;Dbxref=PMID:20074060	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Sequence conflict	4	4	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07866	UniProtKB	Beta strand	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NF1	
+Q07866	UniProtKB	Helix	211	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	229	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Beta strand	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	252	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	271	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	294	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	313	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	336	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Turn	351	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	355	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	378	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	397	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OJ8	
+Q07866	UniProtKB	Helix	426	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NF1	
+Q07866	UniProtKB	Helix	461	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NF1	
+Q07866	UniProtKB	Helix	480	494	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NF1	

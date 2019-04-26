@@ -1,0 +1,68 @@
+##gff-version 3
+##sequence-region Q9NZ52 1 723
+Q9NZ52	UniProtKB	Chain	1	723	.	.	.	ID=PRO_0000212684;Note=ADP-ribosylation factor-binding protein GGA3	
+Q9NZ52	UniProtKB	Domain	16	146	.	.	.	Note=VHS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00218	
+Q9NZ52	UniProtKB	Domain	171	298	.	.	.	Note=GAT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00373	
+Q9NZ52	UniProtKB	Domain	594	715	.	.	.	Note=GAE;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00093	
+Q9NZ52	UniProtKB	Region	1	313	.	.	.	Note=Binds to ARF1 (in long isoform)	
+Q9NZ52	UniProtKB	Region	299	593	.	.	.	Note=Unstructured hinge	
+Q9NZ52	UniProtKB	Motif	391	395	.	.	.	Note=DXXLL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9NZ52	UniProtKB	Compositional bias	357	360	.	.	.	Note=Poly-Pro	
+Q9NZ52	UniProtKB	Compositional bias	453	457	.	.	.	Note=Poly-Ser	
+Q9NZ52	UniProtKB	Compositional bias	624	629	.	.	.	Note=Poly-Val	
+Q9NZ52	UniProtKB	Modified residue	159	159	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9NZ52	UniProtKB	Modified residue	275	275	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9NZ52	UniProtKB	Alternative sequence	1	122	.	.	.	ID=VSP_045133;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NZ52	UniProtKB	Alternative sequence	1	72	.	.	.	ID=VSP_046868;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NZ52	UniProtKB	Alternative sequence	68	100	.	.	.	ID=VSP_001745;Note=In isoform Short. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10747089,ECO:0000303|PubMed:10749927,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8590280;Dbxref=PMID:10747089,PMID:10749927,PMID:15489334,PMID:8590280	
+Q9NZ52	UniProtKB	Alternative sequence	688	723	.	.	.	ID=VSP_045134;Note=In isoform 3. EKVRLRYKLTFALGEQLSTEVGEVDQFPPVEQWGNL->KQVLSFLGKACLQPWGQAILLTTSCLA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NZ52	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_075715;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26477546;Dbxref=dbSNP:rs117805695,PMID:26477546	
+Q9NZ52	UniProtKB	Natural variant	321	321	.	.	.	ID=VAR_075716;Note=S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26477546;Dbxref=dbSNP:rs146877619,PMID:26477546	
+Q9NZ52	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_036524;Note=In a breast cancer sample%3B somatic mutation. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs776324450,PMID:16959974	
+Q9NZ52	UniProtKB	Mutagenesis	91	91	.	.	.	Note=No effect on regulation of BACE1 degradation. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20484053;Dbxref=PMID:20484053	
+Q9NZ52	UniProtKB	Mutagenesis	194	194	.	.	.	Note=Loss of interaction with ARF1 and Golgi localization. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11301005;Dbxref=PMID:11301005	
+Q9NZ52	UniProtKB	Mutagenesis	199	199	.	.	.	Note=Loss of interaction with ARF1 and Golgi localization. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11301005;Dbxref=PMID:11301005	
+Q9NZ52	UniProtKB	Mutagenesis	217	217	.	.	.	Note=Loss of interaction with ARF1 and Golgi localization. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11301005;Dbxref=PMID:11301005	
+Q9NZ52	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Loss of UBC-binding and ubiquitination. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660606;Dbxref=PMID:14660606	
+Q9NZ52	UniProtKB	Mutagenesis	258	258	.	.	.	Note=No effect. Confers an affinity to RABEP1 identical to GGA1%3B when associated with N-283. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9NZ52	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Loss of UBC-binding and ubiquitination. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660606;Dbxref=PMID:14660606	
+Q9NZ52	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Loss of UBC-binding and ubiquitination. Abolishes binding to ubiquitin. Abolishes regulation of BACE1 degradation. No effect on interaction with NTRK1. L->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14660606,ECO:0000269|PubMed:15039775,ECO:0000269|PubMed:20484053,ECO:0000269|PubMed:26446845;Dbxref=PMID:14660606,PMID:15039775,PMID:20484053,PMID:26446845	
+Q9NZ52	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Loss of UBC-binding and ubiquitination. L->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14660606,ECO:0000269|PubMed:15039775;Dbxref=PMID:14660606,PMID:15039775	
+Q9NZ52	UniProtKB	Mutagenesis	280	280	.	.	.	Note=Loss of UBC-binding and ubiquitination. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660606;Dbxref=PMID:14660606	
+Q9NZ52	UniProtKB	Mutagenesis	283	283	.	.	.	Note=Can bind RABEP1. Confers an affinity to RABEP1 identical to GGA1%3B when associated with M-258. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15143060;Dbxref=PMID:15143060	
+Q9NZ52	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Loss of UBC-binding and ubiquitination. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660606;Dbxref=PMID:14660606	
+Q9NZ52	UniProtKB	Mutagenesis	293	293	.	.	.	Note=Loss of UBC-binding and ubiquitination. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660606;Dbxref=PMID:14660606	
+Q9NZ52	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Acts as dominant negatif. Prevents proteolytic cleavage by CASP3%3B when associated with A-328%2C A-333 and A-428. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17553422;Dbxref=PMID:17553422	
+Q9NZ52	UniProtKB	Mutagenesis	328	328	.	.	.	Note=Prevents proteolytic cleavage by CASP3%3B when associated with A-313%2C A-333 and A-428. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17553422;Dbxref=PMID:17553422	
+Q9NZ52	UniProtKB	Mutagenesis	333	333	.	.	.	Note=Prevents proteolytic cleavage by CASP3%3B when associated with A-313%2C A-328 and A-428. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17553422;Dbxref=PMID:17553422	
+Q9NZ52	UniProtKB	Mutagenesis	391	395	.	.	.	Note=Increased binding to IGF2R. DEELL->AAAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12060753;Dbxref=PMID:12060753	
+Q9NZ52	UniProtKB	Mutagenesis	428	428	.	.	.	Note=Prevents proteolytic cleavage by CASP3%3B when associated with A-313%2C A-328 and A-333. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17553422;Dbxref=PMID:17553422	
+Q9NZ52	UniProtKB	Sequence conflict	448	448	.	.	.	Note=Q->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZ52	UniProtKB	Sequence conflict	562	562	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZ52	UniProtKB	Helix	9	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	26	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	42	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	59	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	77	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	87	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	99	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	108	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	129	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JUQ	
+Q9NZ52	UniProtKB	Helix	218	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Turn	232	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Turn	237	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Helix	242	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Helix	276	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Helix	292	295	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Turn	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WR6	
+Q9NZ52	UniProtKB	Helix	588	590	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	599	604	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	607	616	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	624	633	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	635	637	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	639	647	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	652	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	675	683	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	692	700	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Beta strand	703	711	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	
+Q9NZ52	UniProtKB	Helix	717	719	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1P4U	

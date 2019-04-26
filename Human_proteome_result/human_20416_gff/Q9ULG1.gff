@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q9ULG1 1 1556
+Q9ULG1	UniProtKB	Chain	1	1556	.	.	.	ID=PRO_0000248829;Note=Chromatin-remodeling ATPase INO80	
+Q9ULG1	UniProtKB	Domain	280	405	.	.	.	Note=DBINO;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00746	
+Q9ULG1	UniProtKB	Domain	530	701	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q9ULG1	UniProtKB	Domain	1105	1260	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+Q9ULG1	UniProtKB	Nucleotide binding	543	550	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q9ULG1	UniProtKB	Region	1	266	.	.	.	Note=Assembles INO80 complex module with putative regulatory components INO80E%2C INO80F%2C UCHL5%2C NFRKB%2C MCRS1 and IN80D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21303910;Dbxref=PMID:21303910	
+Q9ULG1	UniProtKB	Region	212	526	.	.	.	Note=Assembles INO80 complex module consisting of conserved components ACTR8%2C ACTL6A and YY1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21303910;Dbxref=PMID:21303910	
+Q9ULG1	UniProtKB	Region	521	1556	.	.	.	Note=Assembles INO80 complex module consisting of conserved components INO80B%2C INO80C%2C ACTR5%2C RVBL1%2C RVBL2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21303910;Dbxref=PMID:21303910	
+Q9ULG1	UniProtKB	Modified residue	118	118	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9ULG1	UniProtKB	Modified residue	1512	1512	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9ULG1	UniProtKB	Natural variant	882	882	.	.	.	ID=VAR_049500;Note=I->V;Dbxref=dbSNP:rs34153025	
+Q9ULG1	UniProtKB	Natural variant	1108	1108	.	.	.	ID=VAR_061233;Note=V->G;Dbxref=dbSNP:rs34178030	
+Q9ULG1	UniProtKB	Mutagenesis	653	653	.	.	.	Note=Abolishes DNA-dependent ATPase and nucleosome remodeling activities. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21303910;Dbxref=PMID:21303910	

@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q9HCM2 1 1894
+Q9HCM2	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Chain	24	1894	.	.	.	ID=PRO_0000240283;Note=Plexin-A4	
+Q9HCM2	UniProtKB	Topological domain	24	1237	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Transmembrane	1238	1258	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Topological domain	1259	1894	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Domain	24	507	.	.	.	Note=Sema;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Domain	509	559	.	.	.	Note=PSI 1	
+Q9HCM2	UniProtKB	Domain	655	702	.	.	.	Note=PSI 2	
+Q9HCM2	UniProtKB	Domain	803	856	.	.	.	Note=PSI 3	
+Q9HCM2	UniProtKB	Domain	858	952	.	.	.	Note=IPT/TIG 1	
+Q9HCM2	UniProtKB	Domain	954	1037	.	.	.	Note=IPT/TIG 2	
+Q9HCM2	UniProtKB	Domain	1040	1139	.	.	.	Note=IPT/TIG 3	
+Q9HCM2	UniProtKB	Domain	1142	1230	.	.	.	Note=IPT/TIG 4	
+Q9HCM2	UniProtKB	Modified residue	1350	1350	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9HCM2	UniProtKB	Glycosylation	655	655	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Glycosylation	1007	1007	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Glycosylation	1132	1132	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Glycosylation	1180	1180	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCM2	UniProtKB	Disulfide bond	95	104	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	130	138	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	284	405	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	300	356	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	374	393	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	510	527	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	516	558	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	519	536	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	530	542	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Disulfide bond	593	612	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9HCM2	UniProtKB	Alternative sequence	1	1550	.	.	.	ID=VSP_019334;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9HCM2	UniProtKB	Alternative sequence	458	522	.	.	.	ID=VSP_019330;Note=In isoform 3. IRVDGPRGNALQYETVQVVDPGPVLRDMAFSKDHEQLYIMSERQLTRVPVESCGQYQSCGECLGS->SFGTGPQGGITQEWIGVEGDPPGANIASQEQMLCVYLQCSSHKAISDQRVQPLLCCFLNVPGNSS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005;Dbxref=PMID:15489334,PMID:17974005	
+Q9HCM2	UniProtKB	Alternative sequence	458	492	.	.	.	ID=VSP_019331;Note=In isoform 2. IRVDGPRGNALQYETVQVVDPGPVLRDMAFSKDHE->MPGTSLCPTLELQTGPRSHRATVTLELLFSSCSSN;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:14702039;Dbxref=PMID:12975309,PMID:14702039	
+Q9HCM2	UniProtKB	Alternative sequence	493	1894	.	.	.	ID=VSP_019332;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:14702039;Dbxref=PMID:12975309,PMID:14702039	
+Q9HCM2	UniProtKB	Alternative sequence	523	1894	.	.	.	ID=VSP_019333;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005;Dbxref=PMID:15489334,PMID:17974005	
+Q9HCM2	UniProtKB	Sequence conflict	1750	1750	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCM2	UniProtKB	Sequence conflict	1804	1804	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCM2	UniProtKB	Beta strand	1499	1504	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Beta strand	1515	1520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Helix	1525	1536	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Turn	1537	1539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Helix	1542	1544	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Helix	1548	1550	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Beta strand	1551	1556	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Beta strand	1562	1565	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Beta strand	1567	1569	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Helix	1584	1587	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	
+Q9HCM2	UniProtKB	Beta strand	1594	1599	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E74	

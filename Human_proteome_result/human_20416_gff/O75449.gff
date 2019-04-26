@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region O75449 1 491
+O75449	UniProtKB	Chain	1	491	.	.	.	ID=PRO_0000084594;Note=Katanin p60 ATPase-containing subunit A1	
+O75449	UniProtKB	Nucleotide binding	249	256	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03023	
+O75449	UniProtKB	Region	1	185	.	.	.	Note=Interaction with microtubules	
+O75449	UniProtKB	Region	1	75	.	.	.	Note=Interaction with dynein and NDEL1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O75449	UniProtKB	Region	1	29	.	.	.	Note=Interaction with KATNB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10751153;Dbxref=PMID:10751153	
+O75449	UniProtKB	Modified residue	42	42	.	.	.	Note=Phosphoserine%3B by DYRK2;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03023,ECO:0000269|PubMed:19287380;Dbxref=PMID:19287380	
+O75449	UniProtKB	Modified residue	109	109	.	.	.	Note=Phosphoserine%3B by DYRK2;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03023,ECO:0000269|PubMed:19287380;Dbxref=PMID:19287380	
+O75449	UniProtKB	Modified residue	133	133	.	.	.	Note=Phosphothreonine%3B by DYRK2;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03023,ECO:0000269|PubMed:19287380;Dbxref=PMID:19287380	
+O75449	UniProtKB	Modified residue	170	170	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:21406692,PMID:23186163	
+O75449	UniProtKB	Alternative sequence	168	243	.	.	.	ID=VSP_012948;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O75449	UniProtKB	Alternative sequence	384	387	.	.	.	ID=VSP_012949;Note=In isoform 2. AKGR->GMRP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O75449	UniProtKB	Alternative sequence	388	491	.	.	.	ID=VSP_012950;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O75449	UniProtKB	Mutagenesis	255	255	.	.	.	Note=Abolishes ATP dependent microtubule severing activity and localization to spindle poles. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10751153,ECO:0000269|PubMed:11870226;Dbxref=PMID:10751153,PMID:11870226	
+O75449	UniProtKB	Mutagenesis	308	308	.	.	.	Note=Abolishes ATP dependent microtubule severing activity and localization to spindle poles%3B when associated with N-309. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10751153;Dbxref=PMID:10751153	
+O75449	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Abolishes ATP dependent microtubule severing activity and localization to spindle poles%3B when associated with N-308. E->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10751153;Dbxref=PMID:10751153	

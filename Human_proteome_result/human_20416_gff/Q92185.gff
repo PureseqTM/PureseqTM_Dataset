@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region Q92185 1 356
+Q92185	UniProtKB	Chain	1	356	.	.	.	ID=PRO_0000149282;Note=Alpha-N-acetylneuraminide alpha-2%2C8-sialyltransferase	
+Q92185	UniProtKB	Topological domain	1	29	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Transmembrane	30	48	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Topological domain	49	356	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Region	188	190	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43173	
+Q92185	UniProtKB	Region	274	276	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43173	
+Q92185	UniProtKB	Active site	322	322	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43173	
+Q92185	UniProtKB	Binding site	166	166	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43173	
+Q92185	UniProtKB	Glycosylation	71	71	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Glycosylation	119	119	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Glycosylation	214	214	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Glycosylation	245	245	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92185	UniProtKB	Disulfide bond	138	287	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43173	
+Q92185	UniProtKB	Disulfide bond	152	347	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43173	
+Q92185	UniProtKB	Alternative sequence	128	135	.	.	.	ID=VSP_047583;Note=In isoform 2. ATPFQLPL->MQSPSFVK;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.5,ECO:0000303|Ref.6	
+Q92185	UniProtKB	Alternative sequence	136	356	.	.	.	ID=VSP_047584;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.5,ECO:0000303|Ref.6	

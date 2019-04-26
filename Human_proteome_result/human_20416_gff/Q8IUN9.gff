@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q8IUN9 1 316
+Q8IUN9	UniProtKB	Chain	1	316	.	.	.	ID=PRO_0000046639;Note=C-type lectin domain family 10 member A	
+Q8IUN9	UniProtKB	Topological domain	1	39	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Transmembrane	40	60	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Topological domain	61	316	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Domain	188	305	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q8IUN9	UniProtKB	Coiled coil	85	176	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Motif	5	8	.	.	.	Note=Endocytosis signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Glycosylation	78	78	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Glycosylation	173	173	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IUN9	UniProtKB	Disulfide bond	181	192	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q8IUN9	UniProtKB	Disulfide bond	209	304	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q8IUN9	UniProtKB	Disulfide bond	282	296	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q8IUN9	UniProtKB	Alternative sequence	118	144	.	.	.	ID=VSP_012848;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8598452;Dbxref=PMID:14702039,PMID:15489334,PMID:8598452	
+Q8IUN9	UniProtKB	Alternative sequence	173	173	.	.	.	ID=VSP_012849;Note=In isoform 2. N->NGEE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8598452;Dbxref=PMID:8598452	
+Q8IUN9	UniProtKB	Alternative sequence	226	283	.	.	.	ID=VSP_012850;Note=In isoform 3. NFVQKYLGSAYTWMGLSDPEGAWKWVDGTDYATGFQNWKPGQPDDWQGHGLGGGEDCA->VRASGTQFLRHVPFREMVLKLGRTLESSGSFQNDCHLCHTLRDLIGLSIQRNISKLLS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8IUN9	UniProtKB	Alternative sequence	284	316	.	.	.	ID=VSP_012851;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8IUN9	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_021262;Note=C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8598452;Dbxref=dbSNP:rs90951,PMID:8598452	
+Q8IUN9	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_050113;Note=R->K;Dbxref=dbSNP:rs16956478	
+Q8IUN9	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_050114;Note=T->M;Dbxref=dbSNP:rs35318160	
+Q8IUN9	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_050115;Note=A->G;Dbxref=dbSNP:rs35101468	
+Q8IUN9	UniProtKB	Sequence conflict	112	112	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

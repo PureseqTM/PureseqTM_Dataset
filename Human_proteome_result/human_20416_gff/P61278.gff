@@ -1,0 +1,10 @@
+##gff-version 3
+##sequence-region P61278 1 116
+P61278	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P61278	UniProtKB	Propeptide	25	88	.	.	.	ID=PRO_0000033086	
+P61278	UniProtKB	Peptide	89	116	.	.	.	ID=PRO_0000033087;Note=Somatostatin-28	
+P61278	UniProtKB	Peptide	103	116	.	.	.	ID=PRO_0000033088;Note=Somatostatin-14	
+P61278	UniProtKB	Disulfide bond	105	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MI1	
+P61278	UniProtKB	Natural variant	11	11	.	.	.	ID=VAR_034499;Note=A->V;Dbxref=dbSNP:rs35603672	
+P61278	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_034500;Note=N->T;Dbxref=dbSNP:rs33934967	
+P61278	UniProtKB	Beta strand	107	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MI1	

@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region P13056 1 603
+P13056	UniProtKB	Chain	1	603	.	.	.	ID=PRO_0000053586;Note=Nuclear receptor subfamily 2 group C member 1	
+P13056	UniProtKB	Domain	348	590	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P13056	UniProtKB	DNA binding	110	185	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P13056	UniProtKB	Zinc finger	113	133	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P13056	UniProtKB	Zinc finger	149	173	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P13056	UniProtKB	Region	1	178	.	.	.	Note=Required for interaction with KAT2B;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13056	UniProtKB	Region	584	603	.	.	.	Note=Required for interaction with NRIP1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P13056	UniProtKB	Modified residue	197	197	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q505F1	
+P13056	UniProtKB	Modified residue	215	215	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+P13056	UniProtKB	Modified residue	220	220	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P13056	UniProtKB	Modified residue	222	222	.	.	.	Note=Phosphothreonine%3B by MAPK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q505F1	
+P13056	UniProtKB	Modified residue	581	581	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q505F1	
+P13056	UniProtKB	Cross-link	250	250	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P13056	UniProtKB	Cross-link	588	588	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P13056	UniProtKB	Alternative sequence	465	467	.	.	.	ID=VSP_036855;Note=In isoform 2. DKM->AEG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:2597158;Dbxref=PMID:15489334,PMID:2597158	
+P13056	UniProtKB	Alternative sequence	466	483	.	.	.	ID=VSP_036856;Note=In isoform 3. KMSTERRKLLMEHIFKLQ->AKVIAALIHFTRRAITDL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:3421977;Dbxref=PMID:3421977	
+P13056	UniProtKB	Alternative sequence	468	603	.	.	.	ID=VSP_036857;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:2597158;Dbxref=PMID:15489334,PMID:2597158	
+P13056	UniProtKB	Alternative sequence	484	603	.	.	.	ID=VSP_036858;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:3421977;Dbxref=PMID:3421977	
+P13056	UniProtKB	Sequence conflict	291	291	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13056	UniProtKB	Sequence conflict	304	304	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13056	UniProtKB	Sequence conflict	520	520	.	.	.	Note=Q->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q9H3N1 1 280
+Q9H3N1	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3N1	UniProtKB	Chain	27	280	.	.	.	ID=PRO_0000034153;Note=Thioredoxin-related transmembrane protein 1	
+Q9H3N1	UniProtKB	Topological domain	27	180	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3N1	UniProtKB	Transmembrane	181	203	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3N1	UniProtKB	Topological domain	204	280	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3N1	UniProtKB	Domain	27	132	.	.	.	Note=Thioredoxin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q9H3N1	UniProtKB	Modified residue	228	228	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H3N1	UniProtKB	Modified residue	247	247	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18088087,ECO:0000244|PubMed:18318008,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:18088087,PMID:18318008,PMID:18669648,PMID:19369195,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+Q9H3N1	UniProtKB	Modified residue	270	270	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+Q9H3N1	UniProtKB	Modified residue	274	274	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H3N1	UniProtKB	Modified residue	280	280	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q9H3N1	UniProtKB	Disulfide bond	56	59	.	.	.	Note=Redox-active;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00691,ECO:0000269|PubMed:11152479;Dbxref=PMID:11152479	
+Q9H3N1	UniProtKB	Mutagenesis	56	56	.	.	.	Note=Loss of reductase activity%3B when associated with S-59. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11152479;Dbxref=PMID:11152479	
+Q9H3N1	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Loss of reductase activity%3B when associated with S-56. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11152479;Dbxref=PMID:11152479	
+Q9H3N1	UniProtKB	Sequence conflict	14	16	.	.	.	Note=LVL->MVP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H3N1	UniProtKB	Sequence conflict	98	98	.	.	.	Note=T->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H3N1	UniProtKB	Sequence conflict	177	177	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H3N1	UniProtKB	Beta strand	30	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Turn	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Helix	39	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Beta strand	44	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Helix	57	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Helix	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Beta strand	79	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Turn	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Helix	89	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Beta strand	99	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Beta strand	110	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Helix	120	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	
+Q9H3N1	UniProtKB	Helix	131	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5E	

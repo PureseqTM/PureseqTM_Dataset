@@ -1,0 +1,9 @@
+##gff-version 3
+##sequence-region Q13790 1 326
+Q13790	UniProtKB	Signal peptide	1	35	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13790	UniProtKB	Propeptide	36	164	.	.	.	ID=PRO_0000002051;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8093033,ECO:0000269|PubMed:9880564;Dbxref=PMID:8093033,PMID:9880564	
+Q13790	UniProtKB	Chain	165	326	.	.	.	ID=PRO_0000002052;Note=Apolipoprotein F	
+Q13790	UniProtKB	Modified residue	323	323	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:28935895;Dbxref=PMID:24275569,PMID:28935895	
+Q13790	UniProtKB	Glycosylation	118	118	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13790	UniProtKB	Glycosylation	274	274	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22171320;Dbxref=PMID:22171320	
+Q13790	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_055520;Note=A->G;Dbxref=dbSNP:rs11575216	

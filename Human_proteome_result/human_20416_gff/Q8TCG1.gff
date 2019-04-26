@@ -1,0 +1,63 @@
+##gff-version 3
+##sequence-region Q8TCG1 1 905
+Q8TCG1	UniProtKB	Chain	1	905	.	.	.	ID=PRO_0000287141;Note=Protein CIP2A	
+Q8TCG1	UniProtKB	Transmembrane	192	212	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TCG1	UniProtKB	Region	159	245	.	.	.	Note=Required for interaction with PPP2R5C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28174209;Dbxref=PMID:28174209	
+Q8TCG1	UniProtKB	Region	388	558	.	.	.	Note=Required for homodimerization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28174209;Dbxref=PMID:28174209	
+Q8TCG1	UniProtKB	Coiled coil	637	883	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TCG1	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+Q8TCG1	UniProtKB	Modified residue	573	573	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8TCG1	UniProtKB	Modified residue	904	904	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18691976,PMID:20068231,PMID:23186163	
+Q8TCG1	UniProtKB	Alternative sequence	1	159	.	.	.	ID=VSP_025336;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10819331;Dbxref=PMID:10819331	
+Q8TCG1	UniProtKB	Natural variant	126	126	.	.	.	ID=VAR_046939;Note=K->R;Dbxref=dbSNP:rs7648496	
+Q8TCG1	UniProtKB	Natural variant	229	229	.	.	.	ID=VAR_046940;Note=R->Q;Dbxref=dbSNP:rs2278911	
+Q8TCG1	UniProtKB	Natural variant	409	409	.	.	.	ID=VAR_046941;Note=T->I;Dbxref=dbSNP:rs9856308	
+Q8TCG1	UniProtKB	Natural variant	447	447	.	.	.	ID=VAR_046942;Note=T->A;Dbxref=dbSNP:rs34944683	
+Q8TCG1	UniProtKB	Natural variant	494	494	.	.	.	ID=VAR_046943;Note=P->L;Dbxref=dbSNP:rs13083928	
+Q8TCG1	UniProtKB	Natural variant	572	572	.	.	.	ID=VAR_046944;Note=S->A;Dbxref=dbSNP:rs34172460	
+Q8TCG1	UniProtKB	Natural variant	680	680	.	.	.	ID=VAR_046945;Note=R->T;Dbxref=dbSNP:rs6777766	
+Q8TCG1	UniProtKB	Natural variant	759	759	.	.	.	ID=VAR_046946;Note=I->V;Dbxref=dbSNP:rs13071874	
+Q8TCG1	UniProtKB	Mutagenesis	230	230	.	.	.	Note=Reduces binding to PPP2R5C. N->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28174209;Dbxref=PMID:28174209	
+Q8TCG1	UniProtKB	Mutagenesis	522	522	.	.	.	Note=Decreases homodimerization. Reduces binding to PPP2R5C. Decreases protein level. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28174209;Dbxref=PMID:28174209	
+Q8TCG1	UniProtKB	Mutagenesis	533	533	.	.	.	Note=Decreases homodimerization. Reduces binding to PPP2R5C. Decreases protein level. L->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28174209;Dbxref=PMID:28174209	
+Q8TCG1	UniProtKB	Sequence conflict	412	415	.	.	.	Note=KCER->NVKG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCG1	UniProtKB	Sequence conflict	419	419	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCG1	UniProtKB	Helix	6	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	25	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	51	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	70	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	89	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	100	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	116	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Turn	137	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	141	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	159	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	174	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	189	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	196	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	202	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Beta strand	217	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	223	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Turn	228	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	231	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	249	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	265	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	277	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	287	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	293	307	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	310	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	336	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	339	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	358	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	379	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	406	426	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	430	439	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	442	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Beta strand	461	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	470	489	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Turn	490	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	496	504	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	507	509	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	510	517	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	522	535	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	
+Q8TCG1	UniProtKB	Helix	543	558	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UFL	

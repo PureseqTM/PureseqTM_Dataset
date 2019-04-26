@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region O94916 1 1531
+O94916	UniProtKB	Chain	1	1531	.	.	.	ID=PRO_0000205183;Note=Nuclear factor of activated T-cells 5	
+O94916	UniProtKB	Domain	264	443	.	.	.	Note=RHD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00265	
+O94916	UniProtKB	DNA binding	293	300	.	.	.	.	
+O94916	UniProtKB	Compositional bias	69	100	.	.	.	Note=Ser-rich	
+O94916	UniProtKB	Compositional bias	739	743	.	.	.	Note=Poly-Gln	
+O94916	UniProtKB	Compositional bias	879	888	.	.	.	Note=Poly-Gln	
+O94916	UniProtKB	Compositional bias	966	971	.	.	.	Note=Poly-Thr	
+O94916	UniProtKB	Compositional bias	1248	1266	.	.	.	Note=Poly-Gln	
+O94916	UniProtKB	Modified residue	120	120	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Modified residue	122	122	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WV30	
+O94916	UniProtKB	Modified residue	134	134	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Modified residue	135	135	.	.	.	Note=Phosphothreonine%3B by CDK5;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:21209322;Dbxref=PMID:23186163,PMID:21209322	
+O94916	UniProtKB	Modified residue	155	155	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Modified residue	561	561	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94916	UniProtKB	Cross-link	556	556	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+O94916	UniProtKB	Cross-link	556	556	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+O94916	UniProtKB	Cross-link	603	603	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O94916	UniProtKB	Alternative sequence	1	76	.	.	.	ID=VSP_058784;Note=In isoform A. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10051678,ECO:0000303|PubMed:10377394,ECO:0000303|PubMed:11528118;Dbxref=PMID:10051678,PMID:10377394,PMID:11528118	
+O94916	UniProtKB	Alternative sequence	24	24	.	.	.	ID=VSP_058785;Note=In isoform B%2C isoform D and isoform E. R->RDSLKLHPSQNFHRAGLLE;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000305;evidence=ECO:0000303|PubMed:11528118,ECO:0000303|PubMed:15489334,ECO:0000305|PubMed:11528118;Dbxref=PMID:11528118,PMID:15489334,PMID:11528118	
+O94916	UniProtKB	Alternative sequence	67	81	.	.	.	ID=VSP_058786;Note=In isoform B. DASSAPSSSSMGGAC->GFASEAGSVCIKNDL;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11528118;Dbxref=PMID:11528118	
+O94916	UniProtKB	Alternative sequence	82	1531	.	.	.	ID=VSP_058787;Note=In isoform B. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11528118;Dbxref=PMID:11528118	
+O94916	UniProtKB	Alternative sequence	546	546	.	.	.	ID=VSP_058788;Note=In isoform D. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94916	UniProtKB	Mutagenesis	120	120	.	.	.	Note=Normal nuclear localization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Reduced nuclear localization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Mutagenesis	135	135	.	.	.	Note=Reduced nuclear localization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Mutagenesis	155	155	.	.	.	Note=Increased nuclear localization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21209322;Dbxref=PMID:21209322	
+O94916	UniProtKB	Sequence conflict	666	667	.	.	.	Note=QP->HA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94916	UniProtKB	Sequence conflict	666	667	.	.	.	Note=QP->HA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94916	UniProtKB	Sequence conflict	1369	1369	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94916	UniProtKB	Beta strand	275	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	280	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	310	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	315	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	325	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	342	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	358	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	365	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Helix	374	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	379	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	384	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Helix	392	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	410	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	422	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	426	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	446	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	454	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	462	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	475	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	489	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Helix	496	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	501	507	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	520	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	
+O94916	UniProtKB	Beta strand	537	542	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IMH	

@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P48051 1 423
+P48051	UniProtKB	Chain	1	423	.	.	.	ID=PRO_0000154942;Note=G protein-activated inward rectifier potassium channel 2	
+P48051	UniProtKB	Topological domain	1	89	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Transmembrane	90	114	.	.	.	Note=Helical%3B Name%3DM1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Topological domain	115	138	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Intramembrane	139	150	.	.	.	Note=Helical%3B Pore-forming%3B Name%3DH5;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Intramembrane	151	157	.	.	.	Note=Pore-forming;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Topological domain	158	166	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Transmembrane	167	188	.	.	.	Note=Helical%3B Name%3DM2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Topological domain	189	423	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Motif	152	157	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Motif	420	423	.	.	.	Note=PDZ-binding	
+P48051	UniProtKB	Site	182	182	.	.	.	Note=Role in the control of polyamine-mediated channel gating and in the blocking by intracellular magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48051	UniProtKB	Modified residue	16	16	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P48542	
+P48051	UniProtKB	Modified residue	23	23	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P48542	
+P48051	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_073430;Note=In KPLBS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25620207;Dbxref=PMID:25620207	
+P48051	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_073431;Note=In KPLBS. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25620207;Dbxref=dbSNP:rs786204795,PMID:25620207	

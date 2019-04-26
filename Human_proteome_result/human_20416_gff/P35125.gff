@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P35125 1 1406
+P35125	UniProtKB	Chain	1	1406	.	.	.	ID=PRO_0000080625;Note=Ubiquitin carboxyl-terminal hydrolase 6	
+P35125	UniProtKB	Domain	100	292	.	.	.	Note=Rab-GAP TBC;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00163	
+P35125	UniProtKB	Domain	532	1369	.	.	.	Note=USP	
+P35125	UniProtKB	Active site	541	541	.	.	.	Note=Nucleophile	
+P35125	UniProtKB	Active site	1328	1328	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10092,ECO:0000255|PROSITE-ProRule:PRU10093	
+P35125	UniProtKB	Alternative sequence	1	317	.	.	.	ID=VSP_010878;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1565468;Dbxref=PMID:1565468	
+P35125	UniProtKB	Alternative sequence	318	359	.	.	.	ID=VSP_010879;Note=In isoform 2. GLWARLRNQFFDTWAMNDDTVLKHLRASTKKLTRKQGDLPPP->MPQRLPHARQHTPLPLGSADYRRVVSVRPQGPHRDPKDSRDA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1565468;Dbxref=PMID:1565468	
+P35125	UniProtKB	Alternative sequence	774	786	.	.	.	ID=VSP_010880;Note=In isoform 3. NFPQDNQKVQLSV->ISPLHHLQMECSP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1565468;Dbxref=PMID:1565468	
+P35125	UniProtKB	Alternative sequence	787	1406	.	.	.	ID=VSP_010881;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1565468;Dbxref=PMID:1565468	
+P35125	UniProtKB	Natural variant	475	475	.	.	.	ID=VAR_051522;Note=W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1565468;Dbxref=dbSNP:rs8073787,PMID:1565468	
+P35125	UniProtKB	Natural variant	525	525	.	.	.	ID=VAR_059749;Note=V->I;Dbxref=dbSNP:rs2304449	
+P35125	UniProtKB	Natural variant	912	912	.	.	.	ID=VAR_051523;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1565468;Dbxref=dbSNP:rs9899177,PMID:1565468	
+P35125	UniProtKB	Mutagenesis	150	150	.	.	.	Note=Does not restore GAP activity in yeast complementation assay. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14521938;Dbxref=PMID:14521938	
+P35125	UniProtKB	Mutagenesis	187	187	.	.	.	Note=Does not restore GAP activity in yeast complementation assay. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14521938;Dbxref=PMID:14521938	
+P35125	UniProtKB	Mutagenesis	541	541	.	.	.	Note=Loss of enzyme activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16127172;Dbxref=PMID:16127172	
+P35125	UniProtKB	Sequence conflict	963	963	.	.	.	Note=N->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

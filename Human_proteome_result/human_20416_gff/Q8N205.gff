@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region Q8N205 1 404
+Q8N205	UniProtKB	Chain	1	404	.	.	.	ID=PRO_0000306264;Note=Nesprin-4	
+Q8N205	UniProtKB	Topological domain	1	355	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00385	
+Q8N205	UniProtKB	Transmembrane	356	376	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00385	
+Q8N205	UniProtKB	Topological domain	377	404	.	.	.	Note=Perinuclear space;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00385	
+Q8N205	UniProtKB	Domain	347	404	.	.	.	Note=KASH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00385	
+Q8N205	UniProtKB	Disulfide bond	381	381	.	.	.	Note=Interchain (with C-563 in SUN2)%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8WXH0	
+Q8N205	UniProtKB	Disulfide bond	381	381	.	.	.	Note=Interchain (with C-657 in SUN1);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8WXH0	
+Q8N205	UniProtKB	Alternative sequence	94	206	.	.	.	ID=VSP_028444;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8N205	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_035284;Note=S->L;Dbxref=dbSNP:rs34818970	
+Q8N205	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_035285;Note=Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2285422,PMID:15489334	

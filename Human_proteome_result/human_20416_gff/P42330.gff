@@ -1,0 +1,57 @@
+##gff-version 3
+##sequence-region P42330 1 323
+P42330	UniProtKB	Chain	1	323	.	.	.	ID=PRO_0000124638;Note=Aldo-keto reductase family 1 member C3	
+P42330	UniProtKB	Nucleotide binding	13	22	.	.	.	Note=NADP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42330	UniProtKB	Nucleotide binding	217	280	.	.	.	Note=NADP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42330	UniProtKB	Active site	55	55	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42330	UniProtKB	Binding site	117	117	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42330	UniProtKB	Site	54	54	.	.	.	Note=Important for substrate specificity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42330	UniProtKB	Site	84	84	.	.	.	Note=Lowers pKa of active site Tyr;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42330	UniProtKB	Site	227	227	.	.	.	Note=Involved in ligand recognition and product release	
+P42330	UniProtKB	Site	306	306	.	.	.	Note=Involved in ligand recognition and product release	
+P42330	UniProtKB	Alternative sequence	1	119	.	.	.	ID=VSP_055798;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P42330	UniProtKB	Natural variant	5	5	.	.	.	ID=VAR_013288;Note=H->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10557352,ECO:0000269|PubMed:10622721,ECO:0000269|PubMed:7626489,ECO:0000269|PubMed:7650035,ECO:0000269|PubMed:7788527,ECO:0000269|PubMed:8274401,ECO:0000269|PubMed:9415401;Dbxref=dbSNP:rs12529,PMID:10557352,PMID:10622721,PMID:7626489,PMID:7650035,PMID:7788527,PMID:8274401,PMID:9415401	
+P42330	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_032767;Note=R->Q;Dbxref=dbSNP:rs35961894	
+P42330	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_061001;Note=E->G;Dbxref=dbSNP:rs11551177	
+P42330	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_032768;Note=R->C;Dbxref=dbSNP:rs35575889	
+P42330	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_013289;Note=No effect on 17beta-HSD activity. M->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7650035,ECO:0000269|PubMed:8274401,ECO:0000269|PubMed:9927279;Dbxref=dbSNP:rs1131132,PMID:7650035,PMID:8274401,PMID:9927279	
+P42330	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_032769;Note=P->S;Dbxref=dbSNP:rs34186955	
+P42330	UniProtKB	Mutagenesis	75	75	.	.	.	Note=No effect on 17beta-HSD activity. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9927279;Dbxref=PMID:9927279	
+P42330	UniProtKB	Sequence conflict	3	3	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	6	6	.	.	.	Note=Q->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	38	38	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	75	75	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	75	75	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	75	75	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	89	89	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Sequence conflict	270	270	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42330	UniProtKB	Beta strand	7	9	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	15	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	33	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	58	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	76	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	80	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	92	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	95	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ZQ5	
+P42330	UniProtKB	Beta strand	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WDU	
+P42330	UniProtKB	Helix	144	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	159	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	170	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	187	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	200	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	212	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Turn	225	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	235	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	239	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	252	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Beta strand	266	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	274	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	281	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	290	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	309	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1P	
+P42330	UniProtKB	Helix	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WRH	

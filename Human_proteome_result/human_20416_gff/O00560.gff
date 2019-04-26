@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region O00560 1 298
+O00560	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000269|Ref.9;Dbxref=PMID:19413330	
+O00560	UniProtKB	Chain	2	298	.	.	.	ID=PRO_0000184001;Note=Syntenin-1	
+O00560	UniProtKB	Domain	114	193	.	.	.	Note=PDZ 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O00560	UniProtKB	Domain	198	273	.	.	.	Note=PDZ 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O00560	UniProtKB	Region	2	60	.	.	.	Note=Interaction with PDCD6IP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22660413;Dbxref=PMID:22660413	
+O00560	UniProtKB	Region	250	251	.	.	.	Note=phosphatidylinositol-4%2C5-bisphosphate-binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4Z33,ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O00560	UniProtKB	Motif	3	7	.	.	.	Note=LYPX(n)L motif 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08992	
+O00560	UniProtKB	Motif	45	49	.	.	.	Note=LYPX(n)L motif 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08992	
+O00560	UniProtKB	Motif	49	53	.	.	.	Note=LYPX(n)L motif 3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08992	
+O00560	UniProtKB	Binding site	215	215	.	.	.	Note=Phosphatidylinositol-4%2C5-bisphosphate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4Z33,ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O00560	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000269|Ref.9;Dbxref=PMID:19413330	
+O00560	UniProtKB	Modified residue	6	6	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O00560	UniProtKB	Modified residue	46	46	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O00560	UniProtKB	Alternative sequence	12	17	.	.	.	ID=VSP_038374;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O00560	UniProtKB	Alternative sequence	81	81	.	.	.	ID=VSP_038375;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O00560	UniProtKB	Natural variant	69	69	.	.	.	ID=VAR_013160;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9391086;Dbxref=dbSNP:rs1127509,PMID:9391086	
+O00560	UniProtKB	Mutagenesis	214	214	.	.	.	Note=Disruption of the cooperative binding of C-terminal peptides from FZD7 and phosphatidylinositol-4%2C5-bisphosphate. Impaired interaction with FZD7 and disruption of the cooperative binding of C-terminal peptides from FZD7 and phosphatidylinositol-4%2C5-bisphosphate%3B when associated with A-250. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O00560	UniProtKB	Mutagenesis	215	215	.	.	.	Note=Disruption of the cooperative binding of C-terminal peptides from FZD7 and phosphatidylinositol-4%2C5-bisphosphate. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O00560	UniProtKB	Mutagenesis	250	250	.	.	.	Note=Disruption of the cooperative binding of C-terminal peptides from FZD7 and phosphatidylinositol-4%2C5-bisphosphate. Impaired interaction with FZD7 and disruption of the cooperative binding of C-terminal peptides from FZD7 and phosphatidylinositol-4%2C5-bisphosphate%3B when associated with A-214. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O00560	UniProtKB	Sequence conflict	62	62	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00560	UniProtKB	Beta strand	113	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Beta strand	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9O	
+O00560	UniProtKB	Beta strand	126	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Beta strand	135	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Helix	146	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Beta strand	157	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Helix	171	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Beta strand	183	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1W9E	
+O00560	UniProtKB	Beta strand	197	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Beta strand	205	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N99	
+O00560	UniProtKB	Beta strand	211	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Beta strand	217	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Helix	226	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Beta strand	234	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Helix	251	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Beta strand	263	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1R6J	
+O00560	UniProtKB	Helix	272	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z33	

@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q96P71 1 396
+Q96P71	UniProtKB	Chain	1	396	.	.	.	ID=PRO_0000073863;Note=N-terminal EF-hand calcium-binding protein 3	
+Q96P71	UniProtKB	Domain	36	71	.	.	.	Note=EF-hand;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q96P71	UniProtKB	Domain	296	385	.	.	.	Note=ABM	
+Q96P71	UniProtKB	Calcium binding	49	60	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q96P71	UniProtKB	Region	181	190	.	.	.	Note=Required for interaction with APBA3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26948053;Dbxref=PMID:26948053	
+Q96P71	UniProtKB	Alternative sequence	176	203	.	.	.	ID=VSP_000737;Note=In isoform 3. SDAESVEAQSRLCGSRRAGRRALRSVSR->YVRVLSTCGASAQAPIVPPFQIPTVPAS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96P71	UniProtKB	Alternative sequence	204	396	.	.	.	ID=VSP_000738;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96P71	UniProtKB	Alternative sequence	242	275	.	.	.	ID=VSP_000739;Note=In isoform 1. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12044471,ECO:0000303|PubMed:14697346,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:12044471,PMID:14697346,PMID:14702039,PMID:15489334	
+Q96P71	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_048643;Note=P->L;Dbxref=dbSNP:rs17124890	
+Q96P71	UniProtKB	Mutagenesis	358	358	.	.	.	Note=No effect on interaction with APBA3. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26948053;Dbxref=PMID:26948053	
+Q96P71	UniProtKB	Sequence conflict	383	383	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

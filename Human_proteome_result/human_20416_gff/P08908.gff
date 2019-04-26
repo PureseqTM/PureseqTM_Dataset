@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region P08908 1 422
+P08908	UniProtKB	Chain	1	422	.	.	.	ID=PRO_0000068903;Note=5-hydroxytryptamine receptor 1A	
+P08908	UniProtKB	Topological domain	1	36	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	37	62	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	63	73	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	74	98	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	99	110	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	111	132	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	133	152	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	153	178	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	179	191	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	192	217	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	218	345	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	346	367	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	368	378	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Transmembrane	379	403	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Topological domain	404	422	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Region	112	121	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Region	358	362	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Motif	133	135	.	.	.	Note=DRY motif%3B important for ligand-induced conformation changes;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Motif	396	400	.	.	.	Note=NPxxY motif%3B important for ligand-induced conformation changes and signaling;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08908	UniProtKB	Glycosylation	10	10	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08908	UniProtKB	Glycosylation	11	11	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08908	UniProtKB	Glycosylation	24	24	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08908	UniProtKB	Disulfide bond	109	187	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P08908	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_003446;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9754630;Dbxref=dbSNP:rs1800041,PMID:9754630	
+P08908	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_011826;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7755630;Dbxref=dbSNP:rs1799920,PMID:7755630	
+P08908	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_011827;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7755630;Dbxref=dbSNP:rs1799921,PMID:7755630	
+P08908	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_011828;Note=P->L;Dbxref=dbSNP:rs1800043	
+P08908	UniProtKB	Natural variant	220	220	.	.	.	ID=VAR_011829;Note=R->L;Dbxref=dbSNP:rs1800044	
+P08908	UniProtKB	Natural variant	273	273	.	.	.	ID=VAR_011830;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9754630;Dbxref=dbSNP:rs1800042,PMID:9754630	
+P08908	UniProtKB	Sequence conflict	152	154	.	.	.	Note=RAA->PR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	152	154	.	.	.	Note=RAA->PR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	172	172	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	172	172	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	200	202	.	.	.	Note=TFG->RPR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	228	228	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	244	244	.	.	.	Note=A->AA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	355	355	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	363	365	.	.	.	Note=IVA->MRP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	418	418	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08908	UniProtKB	Sequence conflict	418	418	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	

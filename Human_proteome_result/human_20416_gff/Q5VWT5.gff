@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q5VWT5 1 728
+Q5VWT5	UniProtKB	Chain	1	728	.	.	.	ID=PRO_0000304583;Note=FYN-binding protein 2	
+Q5VWT5	UniProtKB	Domain	664	724	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q5VWT5	UniProtKB	Motif	521	524	.	.	.	Note=SH2-binding%3B to LCP2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27335501;Dbxref=PMID:27335501	
+Q5VWT5	UniProtKB	Compositional bias	228	286	.	.	.	Note=Pro-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00015	
+Q5VWT5	UniProtKB	Modified residue	491	491	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27335501;Dbxref=PMID:27335501	
+Q5VWT5	UniProtKB	Modified residue	587	587	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27335501;Dbxref=PMID:27335501	
+Q5VWT5	UniProtKB	Alternative sequence	355	358	.	.	.	ID=VSP_028031;Note=In isoform 2. PTYE->RRCL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q5VWT5	UniProtKB	Alternative sequence	359	728	.	.	.	ID=VSP_028032;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q5VWT5	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_035041;Note=I->M;Dbxref=dbSNP:rs17114336	
+Q5VWT5	UniProtKB	Mutagenesis	491	491	.	.	.	Note=Decrease in phosphorylation and interaction with LCP2. Significant decrease in phosphorylation and loss of interaction with LCP2%3B when associated with F-587. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27335501;Dbxref=PMID:27335501	
+Q5VWT5	UniProtKB	Mutagenesis	587	587	.	.	.	Note=Decrease in phosphorylation and interaction with LCP2. Significant decrease in phosphorylation and loss of interaction with LCP2%3B when associated with F-491. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27335501;Dbxref=PMID:27335501	
+Q5VWT5	UniProtKB	Sequence conflict	103	103	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5VWT5	UniProtKB	Sequence conflict	400	400	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5VWT5	UniProtKB	Sequence conflict	718	718	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

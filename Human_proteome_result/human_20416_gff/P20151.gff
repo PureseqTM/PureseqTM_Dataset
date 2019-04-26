@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region P20151 1 261
+P20151	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20151	UniProtKB	Propeptide	19	24	.	.	.	ID=PRO_0000027929;Note=Activation peptide;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20151	UniProtKB	Chain	25	261	.	.	.	ID=PRO_0000027930;Note=Kallikrein-2	
+P20151	UniProtKB	Domain	25	258	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P20151	UniProtKB	Active site	65	65	.	.	.	Note=Charge relay system	
+P20151	UniProtKB	Active site	120	120	.	.	.	Note=Charge relay system	
+P20151	UniProtKB	Active site	213	213	.	.	.	Note=Charge relay system	
+P20151	UniProtKB	Glycosylation	102	102	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20151	UniProtKB	Disulfide bond	31	173	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P20151	UniProtKB	Disulfide bond	50	66	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P20151	UniProtKB	Disulfide bond	152	219	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P20151	UniProtKB	Disulfide bond	184	198	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P20151	UniProtKB	Disulfide bond	209	234	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P20151	UniProtKB	Alternative sequence	1	102	.	.	.	ID=VSP_044709;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P20151	UniProtKB	Alternative sequence	165	261	.	.	.	ID=VSP_005400;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20151	UniProtKB	Alternative sequence	211	261	.	.	.	ID=VSP_005399;Note=In isoform 2. GDSGGPLVCNGVLQGITSWGPEPCALPEKPAVYTKVVHYRKWIKDTIAANP->VSHPYSQHLEGKG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:1726490;Dbxref=PMID:14702039,PMID:1726490	
+P20151	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_014164;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6072,PMID:10391209	
+P20151	UniProtKB	Natural variant	250	250	.	.	.	ID=VAR_020178;Note=R->W;Dbxref=dbSNP:rs198977	
+P20151	UniProtKB	Natural variant	255	255	.	.	.	ID=VAR_061775;Note=D->A;Dbxref=dbSNP:rs60268688	
+P20151	UniProtKB	Sequence conflict	143	143	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20151	UniProtKB	Beta strand	39	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	47	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	59	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Helix	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	72	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	88	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Helix	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFF	
+P20151	UniProtKB	Beta strand	122	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	134	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFF	
+P20151	UniProtKB	Beta strand	151	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	160	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	172	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Helix	181	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	196	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	216	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	222	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Beta strand	241	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Helix	246	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	
+P20151	UniProtKB	Helix	250	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NFE	

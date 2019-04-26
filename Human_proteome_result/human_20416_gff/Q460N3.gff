@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region Q460N3 1 678
+Q460N3	UniProtKB	Chain	1	678	.	.	.	ID=PRO_0000252436;Note=Protein mono-ADP-ribosyltransferase PARP15	
+Q460N3	UniProtKB	Domain	78	267	.	.	.	Note=Macro 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00490	
+Q460N3	UniProtKB	Domain	293	464	.	.	.	Note=Macro 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00490	
+Q460N3	UniProtKB	Domain	482	678	.	.	.	Note=PARP catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00397	
+Q460N3	UniProtKB	Region	312	313	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3V2B,ECO:0000269|PubMed:23473667;Dbxref=PMID:23473667	
+Q460N3	UniProtKB	Region	324	325	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3V2B,ECO:0000269|PubMed:23473667;Dbxref=PMID:23473667	
+Q460N3	UniProtKB	Region	409	413	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3V2B,ECO:0000269|PubMed:23473667;Dbxref=PMID:23473667	
+Q460N3	UniProtKB	Binding site	331	331	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3V2B,ECO:0000269|PubMed:23473667;Dbxref=PMID:23473667	
+Q460N3	UniProtKB	Binding site	335	335	.	.	.	Note=Substrate%3B via amide nitrogen;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3V2B,ECO:0000269|PubMed:23473667;Dbxref=PMID:23473667	
+Q460N3	UniProtKB	Binding site	449	449	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3V2B,ECO:0000269|PubMed:23473667;Dbxref=PMID:23473667	
+Q460N3	UniProtKB	Alternative sequence	1	234	.	.	.	ID=VSP_020971;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q460N3	UniProtKB	Alternative sequence	235	256	.	.	.	ID=VSP_020972;Note=In isoform 2. RPITSPLQEVHFLVYTNDDEGC->MLQRIGLIFLHNIVVVSNCFYF;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q460N3	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_027862;Note=R->K;Dbxref=dbSNP:rs6793271	
+Q460N3	UniProtKB	Natural variant	521	521	.	.	.	ID=VAR_056658;Note=A->T;Dbxref=dbSNP:rs34383355	
+Q460N3	UniProtKB	Natural variant	628	628	.	.	.	ID=VAR_027863;Note=G->R;Dbxref=dbSNP:rs12489170	
+Q460N3	UniProtKB	Mutagenesis	559	559	.	.	.	Note=Abolishes catalytic activity. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25635049;Dbxref=PMID:25635049	
+Q460N3	UniProtKB	Mutagenesis	560	560	.	.	.	Note=Slightly reduces catalytic activity. Abolishes activity%3B when associated with Y-559 and C-604. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25635049;Dbxref=PMID:25635049	
+Q460N3	UniProtKB	Mutagenesis	604	604	.	.	.	Note=Reduces catalytic activity 20-fold. Abolishes activity%3B when associated with Y-559 and A-560. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25635049;Dbxref=PMID:25635049	
+Q460N3	UniProtKB	Sequence conflict	42	42	.	.	.	Note=V->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q460N3	UniProtKB	Beta strand	296	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	304	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Helix	313	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	318	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Helix	335	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Helix	345	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	361	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	370	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Helix	384	397	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	402	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Helix	417	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	442	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Helix	451	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V2B	
+Q460N3	UniProtKB	Beta strand	493	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Helix	504	517	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	520	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Helix	531	548	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	554	561	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Helix	563	565	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Helix	566	572	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Turn	576	578	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BLJ	
+Q460N3	UniProtKB	Beta strand	588	595	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Helix	596	599	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Turn	602	604	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	613	621	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	624	627	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	637	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	642	646	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GEY	
+Q460N3	UniProtKB	Beta strand	648	652	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	654	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	658	662	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	
+Q460N3	UniProtKB	Beta strand	667	677	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EK3	

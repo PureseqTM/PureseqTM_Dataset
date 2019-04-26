@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region Q29960 1 366
+Q29960	UniProtKB	Signal peptide	1	24	.	.	.	.	
+Q29960	UniProtKB	Chain	25	366	.	.	.	ID=PRO_0000018879;Note=HLA class I histocompatibility antigen%2C Cw-16 alpha chain	
+Q29960	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29960	UniProtKB	Transmembrane	309	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29960	UniProtKB	Topological domain	334	366	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29960	UniProtKB	Domain	209	297	.	.	.	Note=Ig-like C1-type	
+Q29960	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+Q29960	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+Q29960	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+Q29960	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+Q29960	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q29960	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q29960	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q29960	UniProtKB	Alternative sequence	299	338	.	.	.	ID=VSP_008096;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q29960	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_056505;Note=A->E;Dbxref=dbSNP:rs1050409	
+Q29960	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_056506;Note=V->M;Dbxref=dbSNP:rs1065382	
+Q29960	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_056507;Note=K->N;Dbxref=dbSNP:rs28626310	
+Q29960	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_016630;Note=In allele Cw*16:02. S->N	
+Q29960	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_016631;Note=In allele Cw*16:02. N->K	
+Q29960	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_056508;Note=Y->H;Dbxref=dbSNP:rs2308574	
+Q29960	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_016632;Note=In allele Cw*16:02 and allele Cw*16:04. H->D	
+Q29960	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_016633;Note=In allele Cw*16:02 and allele Cw*16:04. C->W	
+Q29960	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_016634;Note=In allele Cw*16:04%3B requires 2 nucleotide substitutions. Q->W	
+Q29960	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_056510;Note=E->K;Dbxref=dbSNP:rs1131103	
+Q29960	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_056511;Note=V->M;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=dbSNP:rs1050276,PMID:25944712	

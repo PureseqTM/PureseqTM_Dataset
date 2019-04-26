@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q6UVW9 1 174
+Q6UVW9	UniProtKB	Chain	1	174	.	.	.	ID=PRO_0000264240;Note=C-type lectin domain family 2 member A	
+Q6UVW9	UniProtKB	Topological domain	1	27	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UVW9	UniProtKB	Transmembrane	28	48	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UVW9	UniProtKB	Topological domain	49	174	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UVW9	UniProtKB	Domain	65	174	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q6UVW9	UniProtKB	Glycosylation	78	78	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Glycosylation	130	130	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Glycosylation	143	143	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UVW9	UniProtKB	Disulfide bond	58	69	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Disulfide bond	86	167	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Alternative sequence	138	174	.	.	.	ID=VSP_035643;Note=In isoform 2. FEIIGNGSFAFLSADGVHSSRGFIDIKWICSKPKYFL->PSNSKWSCNWSLRQWLLLLGPLR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:18046548;Dbxref=PMID:12975309,PMID:18046548	
+Q6UVW9	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_029629;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18046548;Dbxref=dbSNP:rs526680,PMID:18046548	
+Q6UVW9	UniProtKB	Mutagenesis	148	148	.	.	.	Note=Reduces affinity for KLRF2 40-fold. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Mutagenesis	152	152	.	.	.	Note=No effect on affinity for KLRF2. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Mutagenesis	155	155	.	.	.	Note=Slightly reduces affinity for KLRF2. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Mutagenesis	157	158	.	.	.	Note=Reduces affinity for KLRF2 over 10'000-fold. SR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Mutagenesis	160	161	.	.	.	Note=Reduces affinity for KLRF2 550-fold. FI->AA	
+Q6UVW9	UniProtKB	Mutagenesis	162	162	.	.	.	Note=Reduces affinity for KLRF2 360-fold. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803857;Dbxref=PMID:23803857	
+Q6UVW9	UniProtKB	Beta strand	60	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Beta strand	68	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Helix	79	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Turn	88	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Helix	99	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Turn	108	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Beta strand	114	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Beta strand	129	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Beta strand	143	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Beta strand	154	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	
+Q6UVW9	UniProtKB	Beta strand	163	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IOP	

@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P34925 1 607
+P34925	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Chain	26	607	.	.	.	ID=PRO_0000024464;Note=Tyrosine-protein kinase RYK	
+P34925	UniProtKB	Topological domain	26	227	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Transmembrane	228	248	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Topological domain	249	607	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Domain	66	194	.	.	.	Note=WIF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00222	
+P34925	UniProtKB	Domain	330	603	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P34925	UniProtKB	Nucleotide binding	336	344	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P34925	UniProtKB	Compositional bias	24	53	.	.	.	Note=Pro-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00015	
+P34925	UniProtKB	Active site	465	465	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P34925	UniProtKB	Binding site	364	364	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P34925	UniProtKB	Modified residue	495	495	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P34925	UniProtKB	Glycosylation	139	139	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Glycosylation	174	174	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Glycosylation	178	178	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Glycosylation	182	182	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Glycosylation	209	209	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34925	UniProtKB	Disulfide bond	159	194	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00222	
+P34925	UniProtKB	Alternative sequence	297	297	.	.	.	ID=VSP_005009;Note=In isoform 2. S->SSLG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8390040;Dbxref=PMID:8390040	
+P34925	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_041800;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:8386829,ECO:0000269|PubMed:8390040,ECO:0000269|PubMed:8726462;Dbxref=dbSNP:rs1131262,PMID:17344846,PMID:8386829,PMID:8390040,PMID:8726462	
+P34925	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_041801;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55740278,PMID:17344846	
+P34925	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_041802;Note=In an ovarian mucinous carcinoma sample%3B somatic mutation. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs746238409,PMID:17344846	
+P34925	UniProtKB	Mutagenesis	364	364	.	.	.	Note=No induction of the MAPK pathway. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10454588;Dbxref=PMID:10454588	
+P34925	UniProtKB	Mutagenesis	484	484	.	.	.	Note=Gain of an autophosphorylation activity. Gain of an autophosphorylation activity%3B when associated with A-359. Gain of an autophosphorylation activity%3B when associated with G-334 and G-482. N->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10454588;Dbxref=PMID:10454588	
+P34925	UniProtKB	Mutagenesis	485	485	.	.	.	Note=Gain of an autophosphorylation activity. Gain of an autophosphorylation activity%3B when associated with G-334 and F-481. A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10454588;Dbxref=PMID:10454588	
+P34925	UniProtKB	Sequence conflict	26	26	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	33	33	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	254	254	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	254	254	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	319	319	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	358	358	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	440	440	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	446	446	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	531	531	.	.	.	Note=T->NS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	544	544	.	.	.	Note=V->TL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	566	566	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P34925	UniProtKB	Sequence conflict	588	588	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

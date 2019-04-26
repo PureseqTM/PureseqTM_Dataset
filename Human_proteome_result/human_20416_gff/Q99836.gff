@@ -1,0 +1,68 @@
+##gff-version 3
+##sequence-region Q99836 1 296
+Q99836	UniProtKB	Chain	1	296	.	.	.	ID=PRO_0000096666;Note=Myeloid differentiation primary response protein MyD88	
+Q99836	UniProtKB	Domain	54	109	.	.	.	Note=Death;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00064	
+Q99836	UniProtKB	Domain	159	296	.	.	.	Note=TIR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00204	
+Q99836	UniProtKB	Region	110	155	.	.	.	Note=Intermediate domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99836	UniProtKB	Modified residue	244	244	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99836	UniProtKB	Alternative sequence	1	22	.	.	.	ID=VSP_053764;Note=In isoform 5. MAAGGPGAGSAAPVSSTSSLPL->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99836	UniProtKB	Alternative sequence	110	154	.	.	.	ID=VSP_038887;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99836	UniProtKB	Alternative sequence	110	110	.	.	.	ID=VSP_043498;Note=In isoform 4. E->G;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99836	UniProtKB	Alternative sequence	111	155	.	.	.	ID=VSP_043499;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99836	UniProtKB	Alternative sequence	156	296	.	.	.	ID=VSP_043500;Note=In isoform 3 and isoform 4. HMPERFDAFICYCPSDIQFVQEMIRQLEQTNYRLKLCVSDRDVLPGTCVWSIASELIEKRCRRMVVVVSDDYLQSKECDFQTKFALSLSPGAHQKRLIPIKYKAMKKEFPSILRFITVCDYTNPCTKSWFWTRLAKALSLP->AAGWWWLSLMITCRARNVTSRPNLHSASLQVPIRSD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99836	UniProtKB	Alternative sequence	215	215	.	.	.	ID=VSP_053765;Note=In isoform 6. R->RLARRPRGG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q99836	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_072893;Note=Rare functional polymorphism%3B loss of NF-kappa-B complex activation%3B loss of interaction with IRAK4%3B reduces homooligomerization. S->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20966070,ECO:0000269|PubMed:24316379;Dbxref=dbSNP:rs1319438,PMID:20966070,PMID:24316379	
+Q99836	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_073252;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=dbSNP:rs770387646,PMID:21179087	
+Q99836	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_072894;Note=In MYD88D%3B loss of NF-kappa-B complex activation. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21057262,ECO:0000269|PubMed:24316379;Dbxref=PMID:21057262,PMID:24316379	
+Q99836	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_047953;Note=In MYD88D%3B results in a loss of function%3B loss of NF-kappa-B complex activation. L->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18669862,ECO:0000269|PubMed:21057262,ECO:0000269|PubMed:24316379;Dbxref=dbSNP:rs137853065,PMID:18669862,PMID:21057262,PMID:24316379	
+Q99836	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_072895;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance%3B loss of NF-kappa-B complex activation%3B loss of interaction with IRAK4%3B reduces homooligomerization. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20966070,ECO:0000269|PubMed:24316379,ECO:0000269|PubMed:8957090;Dbxref=dbSNP:rs199396,PMID:20966070,PMID:24316379,PMID:8957090	
+Q99836	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_073253;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_073254;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_072896;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance%3B no effect on NF-kappaB complex activation. M->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20966070,ECO:0000269|PubMed:24316379;Dbxref=dbSNP:rs41285117,PMID:20966070,PMID:24316379	
+Q99836	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_047954;Note=In MYD88D%3B results in a loss of function%3B decreases NF-kappa-B complex activation. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18669862,ECO:0000269|PubMed:19506249,ECO:0000269|PubMed:21057262,ECO:0000269|PubMed:24316379;Dbxref=dbSNP:rs137853064,PMID:18669862,PMID:19506249,PMID:21057262,PMID:24316379	
+Q99836	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_073255;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=dbSNP:rs776995408,PMID:21179087	
+Q99836	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_073256;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	206	206	.	.	.	ID=VAR_073257;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_073258;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_073259;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance%3B constitutively activates NF-kappaB complex activation. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	219	219	.	.	.	ID=VAR_073260;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance%3B constitutively activates NF-kappaB complex activation. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Natural variant	230	230	.	.	.	ID=VAR_073261;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance%3B constitutively activates NF-kappaB complex activation. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=dbSNP:rs1353791431,PMID:21179087	
+Q99836	UniProtKB	Natural variant	252	252	.	.	.	ID=VAR_073262;Note=Found in hematological malignancies%3B common mutation in Waldenstroem macroglobulinemia%3B somatic mutation%3B unknown pathological significance%3B constitutively activates NF-kappaB complex activation%3B gain-of-function mutation%3B does not affect interaction with IRAK4. L->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21179087,ECO:0000269|PubMed:22931316,ECO:0000269|PubMed:24366360;Dbxref=dbSNP:rs387907272,PMID:21179087,PMID:22931316,PMID:24366360	
+Q99836	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_073263;Note=Found in hematological malignancies%3B somatic mutation%3B unknown pathological significance%3B no effect on NF-kappaB complex activation. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21179087;Dbxref=PMID:21179087	
+Q99836	UniProtKB	Mutagenesis	196	196	.	.	.	Note=Reduced interaction with TIRAP%2C and strongly reduced activity. Strongly reduced interaction with TIRAP%3B when associated with A-288. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506249;Dbxref=PMID:19506249	
+Q99836	UniProtKB	Mutagenesis	197	197	.	.	.	Note=Slightly reduced activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506249;Dbxref=PMID:19506249	
+Q99836	UniProtKB	Mutagenesis	217	217	.	.	.	Note=Strongly reduced activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506249;Dbxref=PMID:19506249	
+Q99836	UniProtKB	Mutagenesis	282	282	.	.	.	Note=Slightly reduced activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506249;Dbxref=PMID:19506249	
+Q99836	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Slightly reduced activity%2C and reduced interaction with TIRAP. Strongly reduced interaction with TIRAP%3B when associated with A-196. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19506249;Dbxref=PMID:19506249	
+Q99836	UniProtKB	Sequence conflict	190	190	.	.	.	Note=K->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99836	UniProtKB	Sequence conflict	223	224	.	.	.	Note=VS->WL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99836	UniProtKB	Helix	22	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	27	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Beta strand	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	47	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Turn	52	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	58	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Beta strand	66	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	70	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Beta strand	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	86	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	99	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Helix	106	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Turn	114	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MOP	
+Q99836	UniProtKB	Beta strand	159	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	169	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	172	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Beta strand	185	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Beta strand	191	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	196	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	209	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	212	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Beta strand	216	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	227	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	231	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	247	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Beta strand	252	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	266	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Beta strand	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DOM	
+Q99836	UniProtKB	Helix	279	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	
+Q99836	UniProtKB	Helix	285	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EO7	

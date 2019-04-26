@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P01601 1 117
+P01601	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01601	UniProtKB	Chain	23	117	.	.	.	ID=PRO_0000015168;Note=Immunoglobulin kappa variable 1D-16;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01601	UniProtKB	Domain	24	117	.	.	.	Note=Ig-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01601	UniProtKB	Region	23	45	.	.	.	Note=Framework-1;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6779204;Dbxref=PMID:6779204	
+P01601	UniProtKB	Region	46	56	.	.	.	Note=Complementarity-determining-1;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6779204;Dbxref=PMID:6779204	
+P01601	UniProtKB	Region	57	71	.	.	.	Note=Framework-2;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6779204;Dbxref=PMID:6779204	
+P01601	UniProtKB	Region	72	78	.	.	.	Note=Complementarity-determining-2;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6779204;Dbxref=PMID:6779204	
+P01601	UniProtKB	Region	79	110	.	.	.	Note=Framework-3;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6779204;Dbxref=PMID:6779204	
+P01601	UniProtKB	Region	111	117	.	.	.	Note=Complementarity-determining-3;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6779204;Dbxref=PMID:6779204	
+P01601	UniProtKB	Disulfide bond	45	110	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01601	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_073376;Note=In IMGT allele IGKV1D-16*02. S->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:6402305,ECO:0000269|PubMed:6779204;Dbxref=PMID:6402305,PMID:6779204	
+P01601	UniProtKB	Non-terminal residue	117	117	.	.	.	.	

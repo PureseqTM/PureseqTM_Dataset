@@ -1,0 +1,63 @@
+##gff-version 3
+##sequence-region P22234 1 425
+P22234	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000269|Ref.6;Dbxref=PMID:19413330,PMID:22223895	
+P22234	UniProtKB	Chain	2	425	.	.	.	ID=PRO_0000075030;Note=Multifunctional protein ADE2	
+P22234	UniProtKB	Region	2	260	.	.	.	Note=SAICAR synthetase	
+P22234	UniProtKB	Region	261	266	.	.	.	Note=Linker	
+P22234	UniProtKB	Region	267	425	.	.	.	Note=AIR carboxylase	
+P22234	UniProtKB	Active site	101	101	.	.	.	Note=For SAICAR synthetase activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Active site	107	107	.	.	.	Note=For SAICAR synthetase activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Active site	215	215	.	.	.	Note=For SAICAR synthetase activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Active site	303	303	.	.	.	Note=For AIR carboxylase activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Active site	332	332	.	.	.	Note=For AIR carboxylase activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Site	334	334	.	.	.	Note=Essential for AIR carboxylase activity	
+P22234	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000269|Ref.6;Dbxref=PMID:19413330,PMID:22223895	
+P22234	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9DCL9	
+P22234	UniProtKB	Modified residue	27	27	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:17924679,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:16964243,PMID:17924679,PMID:18669648,PMID:18691976,PMID:19369195,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+P22234	UniProtKB	Modified residue	36	36	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9DCL9	
+P22234	UniProtKB	Modified residue	107	107	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+P22234	UniProtKB	Modified residue	238	238	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:23186163;Dbxref=PMID:18691976,PMID:23186163	
+P22234	UniProtKB	Modified residue	247	247	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P22234	UniProtKB	Modified residue	274	274	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P22234	UniProtKB	Alternative sequence	72	72	.	.	.	ID=VSP_041265;Note=In isoform 2. G->VTSYKSNR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P22234	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_051884;Note=K->N;Dbxref=dbSNP:rs11549976	
+P22234	UniProtKB	Mutagenesis	303	303	.	.	.	Note=Loss of AIR carboxylase activity. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Mutagenesis	332	332	.	.	.	Note=Loss of AIR carboxylase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Mutagenesis	334	334	.	.	.	Note=Loss of AIR carboxylase activity. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224163;Dbxref=PMID:17224163	
+P22234	UniProtKB	Mutagenesis	400	400	.	.	.	Note=No change of AIR carboxylase activity. S->A	
+P22234	UniProtKB	Sequence conflict	217	217	.	.	.	Note=W->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22234	UniProtKB	Sequence conflict	340	340	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22234	UniProtKB	Beta strand	20	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	32	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	54	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	82	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	97	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	106	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	126	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	142	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Turn	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	159	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	186	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	194	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Turn	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	213	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	241	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	249	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	256	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	267	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	275	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	278	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	295	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Turn	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	306	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	323	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	335	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Beta strand	347	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Turn	355	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	358	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	362	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	380	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	
+P22234	UniProtKB	Helix	396	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H31	

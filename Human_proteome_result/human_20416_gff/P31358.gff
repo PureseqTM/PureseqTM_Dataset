@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region P31358 1 61
+P31358	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1711975;Dbxref=PMID:1711975	
+P31358	UniProtKB	Peptide	25	36	.	.	.	ID=PRO_0000020904;Note=CAMPATH-1 antigen	
+P31358	UniProtKB	Propeptide	37	61	.	.	.	ID=PRO_0000020905;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P31358	UniProtKB	Lipidation	36	36	.	.	.	Note=GPI-anchor amidated serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7688956;Dbxref=PMID:7688956	
+P31358	UniProtKB	Glycosylation	27	27	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P31358	UniProtKB	Glycosylation	40	40	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P31358	UniProtKB	Natural variant	40	41	.	.	.	ID=VAR_005130;Note=NI->SM	
+P31358	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_050775;Note=N->S;Dbxref=dbSNP:rs1071849	
+P31358	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_014838;Note=I->M;Dbxref=dbSNP:rs17645	

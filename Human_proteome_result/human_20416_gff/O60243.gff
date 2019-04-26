@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region O60243 1 411
+O60243	UniProtKB	Chain	1	411	.	.	.	ID=PRO_0000190801;Note=Heparan-sulfate 6-O-sulfotransferase 1	
+O60243	UniProtKB	Topological domain	11	17	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60243	UniProtKB	Transmembrane	18	37	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60243	UniProtKB	Topological domain	38	411	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60243	UniProtKB	Region	93	101	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Region	123	124	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Region	317	319	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Region	323	324	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Coiled coil	352	387	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60243	UniProtKB	Compositional bias	2	5	.	.	.	Note=Poly-Arg	
+O60243	UniProtKB	Active site	150	150	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	140	140	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	145	145	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	150	150	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	185	185	.	.	.	Note=PAPS;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	193	193	.	.	.	Note=PAPS;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	197	197	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Binding site	204	204	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A0MGZ7	
+O60243	UniProtKB	Glycosylation	264	264	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60243	UniProtKB	Glycosylation	320	320	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60243	UniProtKB	Alternative sequence	1	162	.	.	.	ID=VSP_037048;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O60243	UniProtKB	Alternative sequence	163	175	.	.	.	ID=VSP_037049;Note=In isoform 2. VLDRRDSAALRTP->MFSWCLWPVVGES;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O60243	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_072980;Note=In HH15. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs200268730,PMID:25077900	
+O60243	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_069283;Note=In HH15%3B 15 to 30%25 reduction in enzymatic activity compared to wild-type. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21700882,ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs201307896,PMID:21700882,PMID:25077900	
+O60243	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_069284;Note=In HH15%3B with anosmia%3B results in Kallmann syndrome in the presence of FGFR1 mutation Gln-250%3B approximately 50%25 reduction in enzymatic activity compared to wild-type. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21700882,ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs780352591,PMID:21700882,PMID:25077900	
+O60243	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_069285;Note=In HH15%3B approximately 30%25 reduction in enzymatic activity compared to wild-type when heparan sulfate is the acceptor substrate. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21700882;Dbxref=dbSNP:rs761325768,PMID:21700882	
+O60243	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_069286;Note=In HH15%3B with or without anosmia%3B results in Kallmann syndrome in the presence of NSMF mutation Ala-480%3B 25 to 35%25 reduction in enzymatic activity compared to wild-type. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21700882;Dbxref=dbSNP:rs199538589,PMID:21700882	
+O60243	UniProtKB	Natural variant	404	404	.	.	.	ID=VAR_069287;Note=In HH15%3B with anosmia%3B 30 to 70%25 reduction in enzymatic activity compared to wild-type. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21700882;Dbxref=PMID:21700882	
+O60243	UniProtKB	Sequence conflict	55	55	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60243	UniProtKB	Sequence conflict	191	191	.	.	.	Note=Y->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60243	UniProtKB	Sequence conflict	255	255	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

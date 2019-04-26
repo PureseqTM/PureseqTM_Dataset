@@ -1,0 +1,78 @@
+##gff-version 3
+##sequence-region Q09161 1 790
+Q09161	UniProtKB	Chain	1	790	.	.	.	ID=PRO_0000089364;Note=Nuclear cap-binding protein subunit 1	
+Q09161	UniProtKB	Domain	28	240	.	.	.	Note=MIF4G	
+Q09161	UniProtKB	Coiled coil	643	713	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q09161	UniProtKB	Motif	3	20	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q09161	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphoserine%3B by RPS6KB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10973943;Dbxref=PMID:10973943	
+Q09161	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphothreonine%3B by RPS6KB1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000269|PubMed:10973943;Dbxref=PMID:18669648,PMID:10973943	
+Q09161	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphoserine%3B by RPS6KB1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:10973943;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163,PMID:10973943	
+Q09161	UniProtKB	Modified residue	201	201	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q09161	UniProtKB	Modified residue	204	204	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q09161	UniProtKB	Modified residue	698	698	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q09161	UniProtKB	Cross-link	684	684	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q09161	UniProtKB	Mutagenesis	7	7	.	.	.	Note=Reduced phosphorylation by RPS6KB1. Abolishes phosphorylation by RPS6KB1%3B when associated with 21-A-A-22. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10973943;Dbxref=PMID:10973943	
+Q09161	UniProtKB	Mutagenesis	17	18	.	.	.	Note=Abolishes nuclear localization and phosphorylation by RPS6KB1. KR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10973943;Dbxref=PMID:10973943	
+Q09161	UniProtKB	Mutagenesis	21	22	.	.	.	Note=Reduced phosphorylation by RPS6KB1. Abolishes phosphorylation by RPS6KB1%3B when associated with A-7. TS->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10973943;Dbxref=PMID:10973943	
+Q09161	UniProtKB	Sequence conflict	80	80	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q09161	UniProtKB	Sequence conflict	159	159	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q09161	UniProtKB	Sequence conflict	674	674	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q09161	UniProtKB	Helix	30	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	46	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	61	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	80	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	83	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	98	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	121	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Beta strand	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N52	
+Q09161	UniProtKB	Helix	142	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	155	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Beta strand	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D0Y	
+Q09161	UniProtKB	Helix	163	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	177	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	211	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Beta strand	216	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2T	
+Q09161	UniProtKB	Beta strand	221	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2U	
+Q09161	UniProtKB	Helix	228	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	242	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Beta strand	247	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N54	
+Q09161	UniProtKB	Helix	252	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	257	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	262	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	294	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Beta strand	298	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N52	
+Q09161	UniProtKB	Helix	309	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	329	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	347	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	369	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	384	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	387	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	402	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	407	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	422	426	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	430	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	444	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	462	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	471	476	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Beta strand	488	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2T	
+Q09161	UniProtKB	Beta strand	493	495	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2T	
+Q09161	UniProtKB	Helix	498	509	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	514	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	521	523	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	541	554	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	555	557	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H6K	
+Q09161	UniProtKB	Helix	559	568	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	570	576	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	580	594	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	598	610	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	616	623	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	626	628	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Turn	629	633	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	635	661	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	693	731	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	738	753	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	755	758	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	759	761	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	762	768	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	
+Q09161	UniProtKB	Helix	776	787	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2V	

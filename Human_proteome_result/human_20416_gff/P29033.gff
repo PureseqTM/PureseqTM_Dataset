@@ -1,0 +1,100 @@
+##gff-version 3
+##sequence-region P29033 1 226
+P29033	UniProtKB	Chain	1	226	.	.	.	ID=PRO_0000057855;Note=Gap junction beta-2 protein	
+P29033	UniProtKB	Topological domain	1	20	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Transmembrane	21	40	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Topological domain	41	75	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Transmembrane	76	98	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Topological domain	99	131	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Transmembrane	132	154	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Topological domain	155	192	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Transmembrane	193	215	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Topological domain	216	226	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29033	UniProtKB	Disulfide bond	53	180	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19340074;Dbxref=PMID:19340074	
+P29033	UniProtKB	Disulfide bond	60	174	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19340074;Dbxref=PMID:19340074	
+P29033	UniProtKB	Disulfide bond	64	169	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19340074;Dbxref=PMID:19340074	
+P29033	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_015453;Note=In KID syndrome. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11912510;Dbxref=dbSNP:rs104894408,PMID:11912510	
+P29033	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_015454;Note=In KID syndrome. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11912510;Dbxref=dbSNP:rs28929485,PMID:11912510	
+P29033	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_002137;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10607953,ECO:0000269|PubMed:12560944,ECO:0000269|PubMed:12746422,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:15666300,ECO:0000269|PubMed:19416251,ECO:0000269|PubMed:9529365;Dbxref=dbSNP:rs2274084,PMID:10607953,PMID:12560944,PMID:12746422,PMID:15489334,PMID:15666300,PMID:19416251,PMID:9529365	
+P29033	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_023605;Note=In DFNB1A. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15666300;Dbxref=dbSNP:rs111033190,PMID:15666300	
+P29033	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_016839;Note=R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs111033190	
+P29033	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_002138;Note=Frequently found in deafness patients%3B it is correctly synthesized and targeted to the plasma membrane%3B it inefficiently forms intercellular channels that display an abnormal electrical behavior%3B uncertain pathological significance. M->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14694360,ECO:0000269|PubMed:16849369,ECO:0000269|PubMed:17935238,ECO:0000269|PubMed:9139825,ECO:0000269|PubMed:9600457;Dbxref=dbSNP:rs35887622,PMID:14694360,PMID:16849369,PMID:17935238,PMID:9139825,PMID:9600457	
+P29033	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_002139;Note=In DFNB1A%3B was reported first as a polymorphism. V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10607953,ECO:0000269|PubMed:10830906,ECO:0000269|PubMed:12121355,ECO:0000269|PubMed:12560944,ECO:0000269|PubMed:12786758,ECO:0000269|PubMed:14722929,ECO:0000269|PubMed:17935238,ECO:0000269|PubMed:23680645,ECO:0000269|PubMed:9529365;Dbxref=dbSNP:rs72474224,PMID:10607953,PMID:10830906,PMID:12121355,PMID:12560944,PMID:12786758,PMID:14722929,PMID:17935238,PMID:23680645,PMID:9529365	
+P29033	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_008709;Note=In DFNA3A. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9620796;Dbxref=dbSNP:rs104894407,PMID:9620796	
+P29033	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_032749;Note=In DFNA3A%3B does not affect protein trafficking%3B affects the ability to form functional channels%3B dominant negative effect. W->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12668604;Dbxref=dbSNP:rs104894413,PMID:12668604	
+P29033	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_015455;Note=In deafness. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12560944;Dbxref=dbSNP:rs72561723,PMID:12560944	
+P29033	UniProtKB	Natural variant	46	48	.	.	.	ID=VAR_023606;Note=May contribute to deafness. DEQ->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722929;Dbxref=PMID:14722929	
+P29033	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_060798;Note=In DFNA3A%3B the mutant is targeted to the plasma membrane but failes to transfer ionic calcium or propidium iodide intercellularly suggesting disruption of both ionic and biochemical coupling%3B heterozygous gap junctions also show dysfunctional intercellular couplings and hemichannel opening confirming the dominant-negative nature of the mutation. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19384972;Dbxref=PMID:19384972	
+P29033	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_015456;Note=In KID syndrome and HID syndrome. D->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11912510,ECO:0000269|PubMed:12072059,ECO:0000269|PubMed:12548749,ECO:0000269|PubMed:12752120;Dbxref=dbSNP:rs28931594,PMID:11912510,PMID:12072059,PMID:12548749,PMID:12752120	
+P29033	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_015935;Note=In KID syndrome. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12752120;Dbxref=dbSNP:rs28931594,PMID:12752120	
+P29033	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_032750;Note=In BPS. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15482471;Dbxref=dbSNP:rs104894412,PMID:15482471	
+P29033	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_009965;Note=In PPKDFN%3B impairs trafficking%3B localizes intracellularly closed to the nucleus%3B affects the ability to form functional channels%3B phenotype can be rescued by coexpression with wild-type protein. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10633135,ECO:0000269|PubMed:12668604;Dbxref=dbSNP:rs104894404,PMID:10633135,PMID:12668604	
+P29033	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_032751;Note=In BPS. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15952212;Dbxref=dbSNP:rs104894410,PMID:15952212	
+P29033	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_008710;Note=In VOWNKL and PPKDFN%3B impairs trafficking%3B localizes intracellularly closed to the nucleus%3B affects the ability to form functional channels%3B phenotype can be rescued by coexpression with wild-type protein. D->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10369869,ECO:0000269|PubMed:10757647,ECO:0000269|PubMed:12668604;Dbxref=dbSNP:rs104894403,PMID:10369869,PMID:10757647,PMID:12668604	
+P29033	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_015457;Note=In deafness. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12560944;Dbxref=dbSNP:rs1373154561,PMID:12560944	
+P29033	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_060799;Note=In PPKDFN%3B the mutant has a dominant-negative effect on connexin trafficking. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17993581;Dbxref=dbSNP:rs121912968,PMID:17993581	
+P29033	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_015936;Note=In PPKDFN%3B the mutant protein completely prevents the formation of functional channels. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12372058,ECO:0000269|PubMed:15996214;Dbxref=dbSNP:rs28931593,PMID:12372058,PMID:15996214	
+P29033	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_002140;Note=In PPKDFN and DFNA3A%3B does not affect protein trafficking%3B affects the ability to form functional channels%3B dominant negative effect. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12668604,ECO:0000269|PubMed:9856479;Dbxref=dbSNP:rs104894402,PMID:12668604,PMID:9856479	
+P29033	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_002141;Note=In DFNB1A. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9328482;Dbxref=dbSNP:rs104894397,PMID:9328482	
+P29033	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_023607;Note=In DFNB1A. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11439000;Dbxref=PMID:11439000	
+P29033	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_023608;Note=In DFNB1A. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15666300;Dbxref=PMID:15666300	
+P29033	UniProtKB	Natural variant	83	83	.	.	.	ID=VAR_002142;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9600457;Dbxref=dbSNP:rs111033218,PMID:9600457	
+P29033	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_002143;Note=In DFNB1A%3B sorted to the plasma membrane normally and forms gap junctions that were morphologically and electrically indistinguishable from those of control%3B the mutation reduces the permeability of GJB2 gap junction channels to inositol 1%2C4%2C5-trisphosphate (Ins(1%2C4%2C5)P3)%2C resulting in blockade of the Ins(1%2C4%2C5)P3-induced inward calcium current in neighboring cells. V->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15592461,ECO:0000269|PubMed:9529365;Dbxref=dbSNP:rs104894409,PMID:15592461,PMID:9529365	
+P29033	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_060800;Note=In DFNB1A%3B the mutant disrupts cellular communication. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17660464;Dbxref=dbSNP:rs104894409,PMID:17660464	
+P29033	UniProtKB	Natural variant	86	86	.	.	.	ID=VAR_015458;Note=In DFNB1A%3B does not form gap junctions since the mutated protein is confined in the cytoplasm and not transported to the cell membrane%3B when the mutation is coexpressed with the wild-type protein ionic and biochemical coupling is normal consistent with the recessive nature of the mutation. T->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12560944,ECO:0000269|PubMed:19384972;Dbxref=dbSNP:rs1291519904,PMID:12560944,PMID:19384972	
+P29033	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_015937;Note=In DFNB1A. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10830906,ECO:0000269|PubMed:11313763;Dbxref=dbSNP:rs80338945,PMID:10830906,PMID:11313763	
+P29033	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_023609;Note=In DFNB1A. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15666300;Dbxref=dbSNP:rs397516871,PMID:15666300	
+P29033	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_002144;Note=In DFNB1A. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9529365;Dbxref=dbSNP:rs111033299,PMID:9529365	
+P29033	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_015938;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12746422;Dbxref=dbSNP:rs1316789942,PMID:12746422	
+P29033	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_002145;Note=In DFNB1A. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9529365;Dbxref=dbSNP:rs80338946,PMID:9529365	
+P29033	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_009966;Note=E->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10607953,ECO:0000269|PubMed:12560944,ECO:0000269|PubMed:12746422,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:15666300;Dbxref=dbSNP:rs2274083,PMID:10607953,PMID:12560944,PMID:12746422,PMID:15489334,PMID:15666300	
+P29033	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_069519;Note=D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954104;Dbxref=PMID:15954104	
+P29033	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_060801;Note=In DFNB1A. Missing	
+P29033	UniProtKB	Natural variant	120	120	.	.	.	ID=VAR_023610;Note=In DFNB1A. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15666300;Dbxref=PMID:15666300	
+P29033	UniProtKB	Natural variant	123	123	.	.	.	ID=VAR_015459;Note=T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12560944;Dbxref=dbSNP:rs111033188,PMID:12560944	
+P29033	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_015939;Note=Very common polymorphism in India. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12746422,ECO:0000269|PubMed:14722929,ECO:0000269|PubMed:15666300;Dbxref=dbSNP:rs111033196,PMID:12746422,PMID:14722929,PMID:15666300	
+P29033	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_023611;Note=In DFNB1A. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15666300;Dbxref=dbSNP:rs397516875,PMID:15666300	
+P29033	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_069520;Note=In DFNB1A. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23680645;Dbxref=dbSNP:rs779018464,PMID:23680645	
+P29033	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_069521;Note=In DFNB1A. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17666888;Dbxref=dbSNP:rs779018464,PMID:17666888	
+P29033	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_069522;Note=In VOWNKL. G->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15954104,ECO:0000269|PubMed:18688874;Dbxref=PMID:15954104,PMID:18688874	
+P29033	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_069523;Note=Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954104;Dbxref=PMID:15954104	
+P29033	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_015940;Note=In DFNA3A. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11313763;Dbxref=dbSNP:rs104894401,PMID:11313763	
+P29033	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_015460;Note=In DFNB1A. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11439000,ECO:0000269|PubMed:12560944,ECO:0000269|PubMed:15666300,ECO:0000269|PubMed:9471561;Dbxref=dbSNP:rs80338948,PMID:11439000,PMID:12560944,PMID:15666300,PMID:9471561	
+P29033	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_069524;Note=A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954104;Dbxref=PMID:15954104	
+P29033	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_009967;Note=May contribute to deafness. V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12746422,ECO:0000269|PubMed:14722929,ECO:0000269|PubMed:15666300;Dbxref=dbSNP:rs111033186,PMID:12746422,PMID:14722929,PMID:15666300	
+P29033	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_015941;Note=In DFNB1A. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12239718;Dbxref=dbSNP:rs28931592,PMID:12239718	
+P29033	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_002146;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14722929,ECO:0000269|PubMed:9600457;Dbxref=dbSNP:rs34988750,PMID:14722929,PMID:9600457	
+P29033	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_015942;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12746422;Dbxref=dbSNP:rs376898963,PMID:12746422	
+P29033	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_023612;Note=May contribute to deafness. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722929;Dbxref=dbSNP:rs111033360,PMID:14722929	
+P29033	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_057959;Note=In a patient with congenital erythrokeratodermia%3B unknown pathological significance. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19283857;Dbxref=dbSNP:rs200104362,PMID:19283857	
+P29033	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_009968;Note=C->Y;Dbxref=dbSNP:rs774518779	
+P29033	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_023613;Note=In DFNB1A. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11439000;Dbxref=dbSNP:rs568612627,PMID:11439000	
+P29033	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_032752;Note=In DFNA3A. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12786758;Dbxref=dbSNP:rs28931595,PMID:12786758	
+P29033	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_015943;Note=In DFNB1A. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15666300,ECO:0000269|PubMed:9336442;Dbxref=dbSNP:rs80338950,PMID:15666300,PMID:9336442	
+P29033	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_023614;Note=In DFNA3A. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11439000;Dbxref=dbSNP:rs80338950,PMID:11439000	
+P29033	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_009969;Note=In DFNB1A. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10830906;Dbxref=dbSNP:rs998045226,PMID:10830906	
+P29033	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_015461;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12560944;Dbxref=dbSNP:rs397516878,PMID:12560944	
+P29033	UniProtKB	Natural variant	197	197	.	.	.	ID=VAR_023615;Note=In DFNA3A. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11439000;Dbxref=dbSNP:rs777236559,PMID:11439000	
+P29033	UniProtKB	Natural variant	202	202	.	.	.	ID=VAR_015944;Note=In DFNA3A. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10807696;Dbxref=dbSNP:rs104894406,PMID:10807696	
+P29033	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_023616;Note=In DFNB1A. I->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11439000;Dbxref=PMID:11439000	
+P29033	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_009970;Note=I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10607953,ECO:0000269|PubMed:12560944;Dbxref=dbSNP:rs76838169,PMID:10607953,PMID:12560944	
+P29033	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_023617;Note=In DFNB1A. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11439000;Dbxref=PMID:11439000	
+P29033	UniProtKB	Sequence conflict	86	86	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29033	UniProtKB	Sequence conflict	112	112	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29033	UniProtKB	Helix	5	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZW3	
+P29033	UniProtKB	Helix	21	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Turn	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Turn	47	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Beta strand	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Helix	60	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Helix	73	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Helix	87	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Turn	106	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZW3	
+P29033	UniProtKB	Turn	126	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZW3	
+P29033	UniProtKB	Helix	136	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Turn	156	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Beta strand	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZW3	
+P29033	UniProtKB	Beta strand	165	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Beta strand	174	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Beta strand	178	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	
+P29033	UniProtKB	Helix	185	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ER7	

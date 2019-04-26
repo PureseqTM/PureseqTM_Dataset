@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region Q9P126 1 229
+Q9P126	UniProtKB	Chain	1	229	.	.	.	ID=PRO_0000280043;Note=C-type lectin domain family 1 member B	
+Q9P126	UniProtKB	Topological domain	1	33	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P126	UniProtKB	Transmembrane	34	54	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P126	UniProtKB	Topological domain	55	229	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P126	UniProtKB	Domain	109	217	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q9P126	UniProtKB	Motif	7	10	.	.	.	Note=ITAM;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:18215137;Dbxref=PMID:18215137	
+Q9P126	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154219;Dbxref=PMID:20154219	
+Q9P126	UniProtKB	Glycosylation	68	68	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P126	UniProtKB	Glycosylation	120	120	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P126	UniProtKB	Glycosylation	134	134	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P126	UniProtKB	Disulfide bond	102	113	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Disulfide bond	130	216	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Disulfide bond	195	208	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Alternative sequence	22	55	.	.	.	ID=VSP_023515;Note=In isoform 2. VGSASSSWWRVMALILLILCVGMVVGLVALGIWS->A;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9P126	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_031047;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10671229,ECO:0000269|PubMed:12975309,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:16940507;Dbxref=dbSNP:rs612593,PMID:10671229,PMID:12975309,PMID:15489334,PMID:16940507	
+Q9P126	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_031048;Note=S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12975309;Dbxref=dbSNP:rs2273986,PMID:12975309	
+Q9P126	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_031049;Note=S->F;Dbxref=dbSNP:rs2273987	
+Q9P126	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_031050;Note=G->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10671229,ECO:0000269|PubMed:12975309,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:16940507;Dbxref=dbSNP:rs583903,PMID:10671229,PMID:12975309,PMID:15489334,PMID:16940507	
+Q9P126	UniProtKB	Mutagenesis	7	7	.	.	.	Note=Loss of activation upon podoplanin or rhodocytin stimulation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18955485;Dbxref=PMID:18955485	
+Q9P126	UniProtKB	Mutagenesis	150	150	.	.	.	Note=Substantial reduction in rhodocytin binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Mutagenesis	171	171	.	.	.	Note=Significant reduction in rhodocytin binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Significant reduction in rhodocytin binding. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Mutagenesis	187	187	.	.	.	Note=Significant reduction in rhodocytin binding. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Significant reduction in rhodocytin binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Mutagenesis	190	190	.	.	.	Note=Significant reduction in rhodocytin binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Mutagenesis	192	192	.	.	.	Note=Significant reduction in rhodocytin binding. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17132623;Dbxref=PMID:17132623	
+Q9P126	UniProtKB	Sequence conflict	41	41	.	.	.	Note=C->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P126	UniProtKB	Sequence conflict	41	41	.	.	.	Note=C->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9P126	UniProtKB	Beta strand	106	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Beta strand	112	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Helix	123	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Helix	143	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Beta strand	157	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Helix	180	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Beta strand	195	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Beta strand	202	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	
+Q9P126	UniProtKB	Beta strand	212	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C6U	

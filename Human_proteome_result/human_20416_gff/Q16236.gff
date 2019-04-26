@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q16236 1 605
+Q16236	UniProtKB	Chain	1	605	.	.	.	ID=PRO_0000076449;Note=Nuclear factor erythroid 2-related factor 2	
+Q16236	UniProtKB	Domain	497	560	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q16236	UniProtKB	Region	499	518	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q16236	UniProtKB	Region	522	529	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q16236	UniProtKB	Region	591	596	.	.	.	Note=Mediates interaction with CHD6 and is necessary to activate transcription;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q16236	UniProtKB	Modified residue	40	40	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54968	
+Q16236	UniProtKB	Modified residue	215	215	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q16236	UniProtKB	Modified residue	596	596	.	.	.	Note=N6-acetyllysine%3B by CREBBP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21196497;Dbxref=PMID:21196497	
+Q16236	UniProtKB	Modified residue	599	599	.	.	.	Note=N6-acetyllysine%3B by CREBBP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21196497;Dbxref=PMID:21196497	
+Q16236	UniProtKB	Alternative sequence	1	16	.	.	.	ID=VSP_025045;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2;Dbxref=PMID:14702039	
+Q16236	UniProtKB	Alternative sequence	135	141	.	.	.	ID=VSP_046168;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q16236	UniProtKB	Natural variant	31	31	.	.	.	ID=VAR_080492;Note=In IMDDHH. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29018201;Dbxref=PMID:29018201	
+Q16236	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_032110;Note=R->Q;Dbxref=dbSNP:rs35248500	
+Q16236	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_080493;Note=In IMDDHH. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29018201;Dbxref=dbSNP:rs1057519922,PMID:29018201	
+Q16236	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_080494;Note=In IMDDHH%3B increased protein abundance%3B increased positive regulation of transcription of target genes%3B changed cell redox homeostasis. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29018201;Dbxref=PMID:29018201	
+Q16236	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_080495;Note=In IMDDHH. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29018201;Dbxref=PMID:29018201	
+Q16236	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_020322;Note=S->P;Dbxref=dbSNP:rs5031039	
+Q16236	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_032111;Note=V->M;Dbxref=dbSNP:rs34154613	
+Q16236	UniProtKB	Mutagenesis	80	80	.	.	.	Note=Loss of interaction with KEAP1. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16888629;Dbxref=PMID:16888629	
+Q16236	UniProtKB	Sequence conflict	72	72	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16236	UniProtKB	Sequence conflict	92	92	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16236	UniProtKB	Sequence conflict	178	178	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16236	UniProtKB	Sequence conflict	521	521	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16236	UniProtKB	Turn	78	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FLU	
+Q16236	UniProtKB	Helix	456	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LZ1	
+Q16236	UniProtKB	Helix	470	475	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LZ1	
+Q16236	UniProtKB	Helix	478	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LZ1	
+Q16236	UniProtKB	Helix	492	504	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LZ1	

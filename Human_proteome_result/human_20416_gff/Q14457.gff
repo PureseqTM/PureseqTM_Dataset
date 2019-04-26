@@ -1,0 +1,56 @@
+##gff-version 3
+##sequence-region Q14457 1 450
+Q14457	UniProtKB	Chain	1	450	.	.	.	ID=PRO_0000218555;Note=Beclin-1	
+Q14457	UniProtKB	Chain	134	450	.	.	.	ID=PRO_0000435036;Note=Beclin-1-C 37 kDa;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21364619;Dbxref=PMID:21364619	
+Q14457	UniProtKB	Chain	150	450	.	.	.	ID=PRO_0000435037;Note=Beclin-1-C 35 kDa;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:21364619,ECO:0000305|PubMed:26263979;Dbxref=PMID:21364619,PMID:26263979	
+Q14457	UniProtKB	Region	112	159	.	.	.	Note=Interaction with BCL2 and BCL2L1 isoform Bcl-X(L);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17446862;Dbxref=PMID:17446862	
+Q14457	UniProtKB	Region	245	450	.	.	.	Note=Evolutionary conserved domain (ECD);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:28445460;Dbxref=PMID:28445460	
+Q14457	UniProtKB	Region	425	450	.	.	.	Note=Required for membrane-association;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23878393;Dbxref=PMID:23878393	
+Q14457	UniProtKB	Coiled coil	142	270	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14457	UniProtKB	Motif	108	127	.	.	.	Note=BH3	
+Q14457	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q14457	UniProtKB	Modified residue	30	30	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q14457	UniProtKB	Modified residue	90	90	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23878393;Dbxref=PMID:23878393	
+Q14457	UniProtKB	Modified residue	93	93	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23878393;Dbxref=PMID:23878393	
+Q14457	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88597	
+Q14457	UniProtKB	Modified residue	119	119	.	.	.	Note=Phosphothreonine%3B by DAPK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19180116;Dbxref=PMID:19180116	
+Q14457	UniProtKB	Cross-link	402	402	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445460;Dbxref=PMID:28445460	
+Q14457	UniProtKB	Natural variant	103	103	.	.	.	ID=VAR_010384;Note=A->V	
+Q14457	UniProtKB	Natural variant	403	403	.	.	.	ID=VAR_005236;Note=I->T	
+Q14457	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Complete loss of phosphorylation. Complete loss of phosphorylation and defective autophagic function%3B when associated with Ala-93. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23878393;Dbxref=PMID:23878393	
+Q14457	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Partial loss of phosphorylation. Complete loss of phosphorylation and defective autophagic function%3B when associated with Ala-90. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23878393;Dbxref=PMID:23878393	
+Q14457	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Weakly decreases interaction with MUHV-4 M11%2C greatly decreases interaction with BCL2L1 isoform Bcl-X(L). L->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18797192,ECO:0000269|PubMed:24443581;Dbxref=PMID:18797192,PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	116	116	.	.	.	Note=Decreases interaction with BCL2L1 isoform Bcl-X(L). L->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17446862,ECO:0000269|PubMed:18797192,ECO:0000269|PubMed:24443581;Dbxref=PMID:17446862,PMID:18797192,PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	117	117	.	.	.	Note=Weakly decreases interaction with MUHV-4 M11%2C greatly decreases interaction with BCL2L1 isoform Bcl-X(L). K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24443581;Dbxref=PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	120	121	.	.	.	Note=Weakly decreases interaction with MUHV-4 M11%2C disrupts interaction with BCL2L1 isoform Bcl-X(L). GD->EA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24443581;Dbxref=PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	120	120	.	.	.	Note=Decreases interaction with MUHV-4 M11%2C disrupts interaction with BCL2L1 isoform Bcl-X(L). G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24443581;Dbxref=PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	121	121	.	.	.	Note=No effect on interaction with MUHV-4 M11%2C disrupts interaction with BCL2L1 isoform Bcl-X(L). D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24443581;Dbxref=PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	123	123	.	.	.	Note=Weakly decreases interaction with MUHV-4 M11%2C disrupts interaction with BCL2 and decreases interaction with BCL2L1 isoform Bcl-X(L). F->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16179260,ECO:0000269|PubMed:17446862,ECO:0000269|PubMed:18797192,ECO:0000269|PubMed:24443581;Dbxref=PMID:16179260,PMID:17446862,PMID:18797192,PMID:24443581	
+Q14457	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Abolishes in vitro cleavage by CASP3 and CASP8%3B when associated with A-149. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21364619;Dbxref=PMID:21364619	
+Q14457	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Abolishes in vitro cleavage by CASP8%3B when associated with A-146. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21444671;Dbxref=PMID:21444671	
+Q14457	UniProtKB	Mutagenesis	146	146	.	.	.	Note=Abolishes in vitro cleavage by CASP8%3B when associated with A-133. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21444671;Dbxref=PMID:21444671	
+Q14457	UniProtKB	Mutagenesis	149	149	.	.	.	Note=Abolishes in vitro cleavage by CASP3 and CASP8%3B when associated with A-133. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21364619;Dbxref=PMID:21364619	
+Q14457	UniProtKB	Mutagenesis	149	149	.	.	.	Note=Abolishes in vitro cleavage by CASP3. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19713971;Dbxref=PMID:19713971	
+Q14457	UniProtKB	Mutagenesis	352	352	.	.	.	Note=Significantly reduces ubiquitination. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21936852;Dbxref=PMID:21936852	
+Q14457	UniProtKB	Mutagenesis	402	402	.	.	.	Note=Decreases K48 polyubiquitination and stabilizes BECN1. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28445460;Dbxref=PMID:28445460	
+Q14457	UniProtKB	Mutagenesis	425	425	.	.	.	Note=Decrease in membrane-association. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23878393;Dbxref=PMID:23878393	
+Q14457	UniProtKB	Sequence conflict	150	150	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14457	UniProtKB	Sequence conflict	161	161	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14457	UniProtKB	Sequence conflict	314	314	.	.	.	Note=L->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14457	UniProtKB	Helix	110	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VAU	
+Q14457	UniProtKB	Helix	160	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EFM	
+Q14457	UniProtKB	Helix	176	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HHE	
+Q14457	UniProtKB	Beta strand	276	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Beta strand	282	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Helix	300	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Beta strand	326	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Helix	334	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Beta strand	338	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Beta strand	349	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Helix	358	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Helix	364	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Turn	398	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Beta strand	402	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Turn	406	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Beta strand	412	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	
+Q14457	UniProtKB	Helix	422	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DDP	

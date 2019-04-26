@@ -1,0 +1,63 @@
+##gff-version 3
+##sequence-region P10276 1 462
+P10276	UniProtKB	Chain	1	462	.	.	.	ID=PRO_0000053461;Note=Retinoic acid receptor alpha	
+P10276	UniProtKB	Domain	183	417	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P10276	UniProtKB	DNA binding	88	153	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10276	UniProtKB	Zinc finger	88	108	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10276	UniProtKB	Zinc finger	124	148	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10276	UniProtKB	Region	1	87	.	.	.	Note=Modulating	
+P10276	UniProtKB	Region	154	182	.	.	.	Note=Hinge	
+P10276	UniProtKB	Region	404	419	.	.	.	Note=Required for binding corepressor NCOR1	
+P10276	UniProtKB	Site	60	61	.	.	.	Note=Breakpoint for translocation to form PLZF-RAR-alpha%2C RAR-alpha1-PLZF and PML-RAR-alpha oncogenes	
+P10276	UniProtKB	Modified residue	77	77	.	.	.	Note=Phosphoserine%3B by CDK7;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P11416	
+P10276	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine%3B by PKB/AKT1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417524;Dbxref=PMID:16417524	
+P10276	UniProtKB	Modified residue	219	219	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20215566;Dbxref=PMID:20215566	
+P10276	UniProtKB	Modified residue	369	369	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20215566;Dbxref=PMID:20215566	
+P10276	UniProtKB	Cross-link	166	166	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Cross-link	171	171	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Cross-link	399	399	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Alternative sequence	1	60	.	.	.	ID=VSP_003629;Note=In isoform Alpha-2. MASNSSSCPTPGGGHLNGYPVPPYAFFFPPMLGGLSPPGALTTLQHQLPVSGYSTPSPAT->MYESVEVGGPTPNPFLVVDFYNQNRACLLPEKGLPAPGPYSTPLRTPLWNGSNHS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P10276	UniProtKB	Alternative sequence	61	157	.	.	.	ID=VSP_043143;Note=In isoform Alpha-1-deltaBC. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11812818;Dbxref=PMID:11812818	
+P10276	UniProtKB	Mutagenesis	95	95	.	.	.	Note=No effect on PKB/AKT1-mediated phosphorylation. Repressed transactivation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417524;Dbxref=PMID:16417524	
+P10276	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Abolishes PKB/AKT1-mediated phosphorylation. Repressed transactivation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417524;Dbxref=PMID:16417524	
+P10276	UniProtKB	Mutagenesis	147	147	.	.	.	Note=Abrogates sumoylation in the presence or absence of ATRA and primarily nuclear localization and enhanced ATRA-mediated transcriptional activity%3B when associated with R-166%3B R-171 and R-399. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Mutagenesis	154	154	.	.	.	Note=No effect on PKB/AKT1-mediated phosphorylation. No repression of transactivation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417524;Dbxref=PMID:16417524	
+P10276	UniProtKB	Mutagenesis	157	157	.	.	.	Note=No effect on PKB/AKT1-mediated phosphorylation. Repressed transactivation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417524;Dbxref=PMID:16417524	
+P10276	UniProtKB	Mutagenesis	166	166	.	.	.	Note=Cytoplasmic in the absence of ATRA and reduced transcriptional activity in the presence of ATRA. Low sumoylation levels in the presence of ATRA%3B when associated with R-399. Nuclear localization and enhanced transcriptional activity%3B when associated with R-171 and R-399. Primarily nuclear localization and enhanced ATRA-mediated transcriptional activity%3B when associated with R-147%3B R-171 and R-399. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Mutagenesis	171	171	.	.	.	Note=Cytoplasmic in the absence of ATRA and reduced transcriptional activity in the presence of ATRA. Low sumoylation levels in the presence of ATRA%3B when associated with R-399. Nuclear localization and enhanced transcriptional activity%3B when associated with R-166 and R-399. Primarily nuclear localization and enhanced ATRA-mediated transcriptional activity%3B when associated with R-147%3B R-166 and R-399. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Mutagenesis	219	219	.	.	.	Note=No effect on heterodimerization with RARA. On ATRA treatment%2C localizes to the nucleus%2C and increased protein levels%3B when associated with A-369. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20215566;Dbxref=PMID:20215566	
+P10276	UniProtKB	Mutagenesis	219	219	.	.	.	Note=No effect on heterodimerization with RARA. On ATRA treatment%2C localizes to both nucleus and cytoplasm%2C no increase in protein levels%2C and decrease in RARA-mediated transcriptional activity%3B when associated with E-369. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20215566;Dbxref=PMID:20215566	
+P10276	UniProtKB	Mutagenesis	369	369	.	.	.	Note=No effect on heterodimerization with RARA. On ATRA treatment%2C localizes to the nucleus%2C and increased protein levels%3B when associated with A-219. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20215566;Dbxref=PMID:20215566	
+P10276	UniProtKB	Mutagenesis	369	369	.	.	.	Note=Some inhibition of heterodimerization with RARA. On ATRA treatment%2C localizes to both nucleus and cytoplasm%2C increase in protein levels%2C and decrease in RARA-mediated transcriptional activity%3B when associated with E-219. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20215566;Dbxref=PMID:20215566	
+P10276	UniProtKB	Mutagenesis	396	396	.	.	.	Note=Abrogates interaction with NCOR1 or NCOR2. Increased affinity for NCOR1 and NCOR2 in the presence of BMS493. Increased transcriptional activity in the presence of agonist and decreased activity in the presence of neutral antagonist. I->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20543827;Dbxref=PMID:20543827	
+P10276	UniProtKB	Mutagenesis	399	399	.	.	.	Note=In the absence of ATRA%2C abolishes sumoylation and is mainly nuclear. In the presence of ATRA%2C some sumoylation%2C cytoplasmic location%2C reduced transcriptional activity and no SENP6 binding. Low sumoylation levels in the presence of ATRA and nuclear location in the absence of ATRA%3B when associated with R-166 or with R-171. Primarily nuclear localization and enhanced ATRA-mediated transcriptional activity%3B when associated with R-147%3B R-166 and R-171. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19850744;Dbxref=PMID:19850744	
+P10276	UniProtKB	Mutagenesis	409	410	.	.	.	Note=Abolishes interaction with ASXL1 and NCOA1. LI->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16606617;Dbxref=PMID:16606617	
+P10276	UniProtKB	Mutagenesis	412	412	.	.	.	Note=Impairs interaction with ASXL1 and NCOA1%3B when associated with Q-415. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16606617;Dbxref=PMID:16606617	
+P10276	UniProtKB	Mutagenesis	413	414	.	.	.	Note=Abolishes interaction with ASXL1 and NCOA1. ML->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16606617;Dbxref=PMID:16606617	
+P10276	UniProtKB	Mutagenesis	415	415	.	.	.	Note=Impairs interaction with ASXL1 and NCOA1%3B when associated with Q-412. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16606617;Dbxref=PMID:16606617	
+P10276	UniProtKB	Sequence conflict	241	241	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10276	UniProtKB	Turn	89	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Beta strand	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Helix	106	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Turn	134	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Helix	137	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Helix	141	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Helix	155	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DSZ	
+P10276	UniProtKB	Helix	183	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	202	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Beta strand	214	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K13	
+P10276	UniProtKB	Helix	222	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	254	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Turn	279	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Beta strand	283	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Beta strand	289	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	294	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	303	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	306	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	317	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	323	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	345	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	373	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Beta strand	402	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	
+P10276	UniProtKB	Helix	408	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KMR	

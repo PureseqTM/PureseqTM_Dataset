@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region P04843 1 607
+P04843	UniProtKB	Signal peptide	1	23	.	.	.	.	
+P04843	UniProtKB	Chain	24	607	.	.	.	ID=PRO_0000022241;Note=Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1	
+P04843	UniProtKB	Topological domain	24	438	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P04843	UniProtKB	Transmembrane	439	457	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P04843	UniProtKB	Topological domain	458	607	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P04843	UniProtKB	Modified residue	187	187	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P04843	UniProtKB	Modified residue	538	538	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91YQ5	
+P04843	UniProtKB	Glycosylation	299	299	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P04843	UniProtKB	Cross-link	538	538	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	

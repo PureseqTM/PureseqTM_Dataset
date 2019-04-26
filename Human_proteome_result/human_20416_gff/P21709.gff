@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region P21709 1 976
+P21709	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Chain	26	976	.	.	.	ID=PRO_0000016798;Note=Ephrin type-A receptor 1	
+P21709	UniProtKB	Topological domain	26	547	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Transmembrane	548	568	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Topological domain	569	976	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Domain	27	209	.	.	.	Note=Eph LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00883	
+P21709	UniProtKB	Domain	332	445	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P21709	UniProtKB	Domain	447	538	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P21709	UniProtKB	Domain	624	884	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P21709	UniProtKB	Domain	913	976	.	.	.	Note=SAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00184	
+P21709	UniProtKB	Nucleotide binding	630	638	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P21709	UniProtKB	Motif	974	976	.	.	.	Note=PDZ-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Compositional bias	191	329	.	.	.	Note=Cys-rich	
+P21709	UniProtKB	Active site	749	749	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+P21709	UniProtKB	Binding site	656	656	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P21709	UniProtKB	Modified residue	599	599	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Modified residue	605	605	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Modified residue	781	781	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Modified residue	906	906	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+P21709	UniProtKB	Modified residue	910	910	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+P21709	UniProtKB	Modified residue	930	930	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Glycosylation	414	414	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21709	UniProtKB	Alternative sequence	446	490	.	.	.	ID=VSP_056010;Note=In isoform 2. ESLSGLSLRLVKKEPRQLELTWAGSRPRSPGANLTYELHVLNQDE->DPTLSLWTPRVTVRPVSETGEERTEATRADLGGVPAPKPWGEPDL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18593464;Dbxref=PMID:18593464	
+P21709	UniProtKB	Alternative sequence	446	474	.	.	.	ID=VSP_056011;Note=In isoform 3. ESLSGLSLRLVKKEPRQLELTWAGSRPRS->GERLRGAGTGTWWRQKGLRPQNKLMGRKP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18593464;Dbxref=PMID:18593464	
+P21709	UniProtKB	Alternative sequence	475	976	.	.	.	ID=VSP_056012;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18593464;Dbxref=PMID:18593464	
+P21709	UniProtKB	Alternative sequence	491	976	.	.	.	ID=VSP_056013;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18593464;Dbxref=PMID:18593464	
+P21709	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_028265;Note=V->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10369740,ECO:0000269|PubMed:12690205,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:2825356,ECO:0000269|Ref.6;Dbxref=dbSNP:rs4725617,PMID:10369740,PMID:12690205,PMID:15489334,PMID:17344846,PMID:2825356	
+P21709	UniProtKB	Natural variant	351	351	.	.	.	ID=VAR_042115;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56006153,PMID:17344846	
+P21709	UniProtKB	Natural variant	492	492	.	.	.	ID=VAR_028266;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs11768549,PMID:17344846	
+P21709	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_042116;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35719334,PMID:17344846	
+P21709	UniProtKB	Natural variant	585	585	.	.	.	ID=VAR_042117;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34178823,PMID:17344846	
+P21709	UniProtKB	Natural variant	697	697	.	.	.	ID=VAR_042118;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34372369,PMID:17344846	
+P21709	UniProtKB	Natural variant	703	703	.	.	.	ID=VAR_042119;Note=In a breast pleomorphic lobular carcinoma sample%3B somatic mutation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+P21709	UniProtKB	Natural variant	807	807	.	.	.	ID=VAR_042120;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56244405,PMID:17344846	
+P21709	UniProtKB	Natural variant	900	900	.	.	.	ID=VAR_028267;Note=M->V;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19369195,ECO:0000269|PubMed:10369740,ECO:0000269|PubMed:12690205,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:2825356,ECO:0000269|Ref.6,ECO:0000269|Ref.8;Dbxref=dbSNP:rs6967117,PMID:19369195,PMID:10369740,PMID:12690205,PMID:15489334,PMID:17344846,PMID:2825356	
+P21709	UniProtKB	Sequence conflict	398	398	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21709	UniProtKB	Sequence conflict	398	398	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21709	UniProtKB	Beta strand	538	540	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K1K	
+P21709	UniProtKB	Helix	545	570	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K1K	
+P21709	UniProtKB	Helix	918	924	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HIL	
+P21709	UniProtKB	Helix	928	930	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HIL	
+P21709	UniProtKB	Helix	931	936	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HIL	
+P21709	UniProtKB	Helix	942	945	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HIL	
+P21709	UniProtKB	Helix	950	955	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HIL	
+P21709	UniProtKB	Helix	961	973	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HIL	

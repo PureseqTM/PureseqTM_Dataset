@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region P13762 1 266
+P13762	UniProtKB	Signal peptide	1	29	.	.	.	.	
+P13762	UniProtKB	Chain	30	266	.	.	.	ID=PRO_0000018991;Note=HLA class II histocompatibility antigen%2C DR beta 4 chain	
+P13762	UniProtKB	Topological domain	30	227	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13762	UniProtKB	Transmembrane	228	250	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13762	UniProtKB	Topological domain	251	266	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13762	UniProtKB	Domain	126	216	.	.	.	Note=Ig-like C1-type	
+P13762	UniProtKB	Region	30	124	.	.	.	Note=Beta-1	
+P13762	UniProtKB	Region	125	227	.	.	.	Note=Beta-2	
+P13762	UniProtKB	Glycosylation	48	48	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13762	UniProtKB	Disulfide bond	44	108	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P13762	UniProtKB	Disulfide bond	146	202	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P13762	UniProtKB	Cross-link	254	254	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19117940;Dbxref=PMID:19117940	
+P13762	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_060778;Note=In allele DRB4*01:02. D->G	
+P13762	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_060779;Note=In allele DRB4*01:04. T->N	
+P13762	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_060780;Note=In allele DRB4*01:05. Y->H	
+P13762	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_060781;Note=In allele DRB4*01:07. G->R	
+P13762	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_060782;Note=In allele DRB4*01:06. H->Y	
+P13762	UniProtKB	Natural variant	164	164	.	.	.	ID=VAR_060783;Note=In allele DRB4*01:01 and allele DRB4*01:06. G->S	
+P13762	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Almost no change in down-regulation of MHC class II. No ubiquitination and complete loss of down-regulation of MHC class II%3B when associated with 'R-244' of HLA-DRA. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19117940;Dbxref=PMID:19117940	
+P13762	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Almost no change in down-regulation of MHC class II%3B when associated with A-265. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19117940;Dbxref=PMID:19117940	
+P13762	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Almost no change in down-regulation of MHC class II%3B when associated with A-264. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19117940;Dbxref=PMID:19117940	

@@ -1,0 +1,91 @@
+##gff-version 3
+##sequence-region P02649 1 317
+P02649	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7068630;Dbxref=PMID:7068630	
+P02649	UniProtKB	Chain	19	317	.	.	.	ID=PRO_0000001987;Note=Apolipoprotein E	
+P02649	UniProtKB	Repeat	80	101	.	.	.	Note=1	
+P02649	UniProtKB	Repeat	102	123	.	.	.	Note=2	
+P02649	UniProtKB	Repeat	124	145	.	.	.	Note=3	
+P02649	UniProtKB	Repeat	146	167	.	.	.	Note=4	
+P02649	UniProtKB	Repeat	168	189	.	.	.	Note=5	
+P02649	UniProtKB	Repeat	190	211	.	.	.	Note=6	
+P02649	UniProtKB	Repeat	212	233	.	.	.	Note=7	
+P02649	UniProtKB	Repeat	234	255	.	.	.	Note=8	
+P02649	UniProtKB	Region	80	255	.	.	.	Note=8 X 22 AA approximate tandem repeats	
+P02649	UniProtKB	Region	158	168	.	.	.	Note=LDL and other lipoprotein receptors binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20030366,ECO:0000269|PubMed:2063194;Dbxref=PMID:20030366,PMID:2063194	
+P02649	UniProtKB	Region	162	165	.	.	.	Note=Heparin-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3947350;Dbxref=PMID:3947350	
+P02649	UniProtKB	Region	210	290	.	.	.	Note=Lipid-binding and lipoprotein association;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2280190,ECO:0000269|PubMed:8071364;Dbxref=PMID:2280190,PMID:8071364	
+P02649	UniProtKB	Region	229	236	.	.	.	Note=Heparin-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3947350;Dbxref=PMID:3947350	
+P02649	UniProtKB	Region	266	317	.	.	.	Note=Homooligomerization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8340399;Dbxref=PMID:8340399	
+P02649	UniProtKB	Region	278	290	.	.	.	Note=Specificity for association with VLDL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8071364;Dbxref=PMID:8071364	
+P02649	UniProtKB	Modified residue	143	143	.	.	.	Note=Methionine sulfoxide;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P08226	
+P02649	UniProtKB	Modified residue	147	147	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:26091039;Dbxref=PMID:24275569,PMID:26091039	
+P02649	UniProtKB	Glycosylation	26	26	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23234360;Dbxref=PMID:23234360	
+P02649	UniProtKB	Glycosylation	36	36	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23234360;Dbxref=PMID:23234360	
+P02649	UniProtKB	Glycosylation	93	93	.	.	.	Note=N-linked (Glc) (glycation) lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10452964;Dbxref=PMID:10452964	
+P02649	UniProtKB	Glycosylation	212	212	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19838169,ECO:0000269|PubMed:2498325;Dbxref=PMID:19838169,PMID:2498325	
+P02649	UniProtKB	Glycosylation	307	307	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19838169;Dbxref=PMID:19838169	
+P02649	UniProtKB	Glycosylation	308	308	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19838169,ECO:0000269|PubMed:20511397;Dbxref=PMID:19838169,PMID:20511397	
+P02649	UniProtKB	Glycosylation	314	314	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23234360;Dbxref=PMID:23234360	
+P02649	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_000645;Note=In ApoE5%3B associated with hyperlipoproteinemia and atherosclerosis%3B increased binding to LDL receptor. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1530612,ECO:0000269|PubMed:2760009;Dbxref=dbSNP:rs121918392,PMID:1530612,PMID:2760009	
+P02649	UniProtKB	Natural variant	31	31	.	.	.	ID=VAR_000646;Note=In HLPP3%3B ApoE4 Philadelphia%2C ApoE5 French-Canadian and ApoE5-type%3B only ApoE4 Philadelphia is associated with HLPP3. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000303;evidence=ECO:0000269|PubMed:1674745,ECO:0000269|PubMed:1713245,ECO:0000303|PubMed:7833947;Dbxref=dbSNP:rs201672011,PMID:1674745,PMID:1713245,PMID:7833947	
+P02649	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_042734;Note=In LPG%3B ApoE2 Kyoto. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10432380,ECO:0000269|PubMed:18077821;Dbxref=dbSNP:rs121918399,PMID:10432380,PMID:18077821	
+P02649	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_000647;Note=In FH%3B unknown pathological significance%3B ApoE4 Freiburg. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11042151,ECO:0000269|PubMed:26802169;Dbxref=dbSNP:rs769452,PMID:11042151,PMID:26802169	
+P02649	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_000648;Note=In ApoE3 Freiburg. T->A;Dbxref=dbSNP:rs28931576	
+P02649	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_014114;Note=Polymorphism%3B confirmed at protein level. Q->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22028381,ECO:0000269|Ref.10;Dbxref=dbSNP:rs370594287,PMID:22028381	
+P02649	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_000649;Note=In ApoE5 Frankfurt. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8125051;Dbxref=dbSNP:rs1180612218,PMID:8125051	
+P02649	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_000650;Note=In ApoE5-type%3B no hyperlipidemia. P->R;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7833947;Dbxref=dbSNP:rs11083750,PMID:7833947	
+P02649	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_000651;Note=In ApoE3*. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6327682;Dbxref=dbSNP:rs28931577,PMID:6327682	
+P02649	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_016789;Note=In ApoE3 Basel. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12864777;Dbxref=dbSNP:rs937063425,PMID:12864777	
+P02649	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_000652;Note=In HLPP3 and AD2%3B ApoE4%2C ApoE3 Leiden%2C ApoE3**%2C ApoE5-Frankfurt and ApoE5-type%3B ApoE3 Leiden and ApoE3** are associated with HLPP3%3B ApoE4 is associated with AD2%3B changed protein structure%3B no effect on binding to LDL receptor%3B decreased association with HDL and enrichment in VLDL and IDL%3B may prevent the interaction with MAP2 and MAPT%3B changed interaction with APP/A4 amyloid-beta peptide%3B increased ability to induce APP transcription%3B increased C-terminal proteolytic processing in neurons%3B decreased function in neurite outgrowth. C->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000303;evidence=ECO:0000269|PubMed:10903326,ECO:0000269|PubMed:11042151,ECO:0000269|PubMed:11447277,ECO:0000269|PubMed:12966036,ECO:0000269|PubMed:2280190,ECO:0000269|PubMed:2556398,ECO:0000269|PubMed:28111074,ECO:0000269|PubMed:2987927,ECO:0000269|PubMed:7891887,ECO:0000269|PubMed:7972031,ECO:0000269|PubMed:8071364,ECO:0000269|PubMed:8125051,ECO:0000269|PubMed:8287539,ECO:0000269|PubMed:8346443,ECO:0000269|PubMed:8367470,ECO:0000269|PubMed:8939961,ECO:0000269|PubMed:9360638,ECO:0000303|PubMed:7833947;Dbxref=dbSNP:rs429358,PMID:10903326,PMID:11042151,PMID:11447277,PMID:12966036,PMID:2280190,PMID:2556398,PMID:28111074,PMID:2987927,PMID:7891887,PMID:7972031,PMID:8071364,PMID:8125051,PMID:8287539,PMID:8346443,PMID:8367470,PMID:8939961,PMID:9360638,PMID:7833947	
+P02649	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_000653;Note=In FH%3B unknown pathological significance%3B ApoE1 Weisgraber. G->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26802169,ECO:0000269|PubMed:8287539;Dbxref=dbSNP:rs267606664,PMID:26802169,PMID:8287539	
+P02649	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_000654;Note=In HLPP3%3B ApoE3 Leiden%3B no effect on glycosylation. G->GEVQAMLG;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2556398,ECO:0000269|PubMed:8468528;Dbxref=PMID:2556398,PMID:8468528	
+P02649	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_000655;Note=In ApoE2-type%3B no hyperlipidemia. R->Q;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7833947;Dbxref=dbSNP:rs28931578,PMID:7833947	
+P02649	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_000657;Note=In HLPP3%3B ApoE2-type. R->C;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7833947;Dbxref=dbSNP:rs121918393,PMID:7833947	
+P02649	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_000656;Note=In HLPP3%3B ApoE2 Christchurch%3B decreased binding to LDL receptor. R->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22481068,ECO:0000269|PubMed:2831187,ECO:0000269|PubMed:8287539;Dbxref=dbSNP:rs121918393,PMID:22481068,PMID:2831187,PMID:8287539	
+P02649	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_000658;Note=In HLPP3%3B ApoE3**. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8287539;Dbxref=dbSNP:rs387906567,PMID:8287539	
+P02649	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_000659;Note=In HLPP3 and FH%3B ApoE4 Philadelphia and ApoE2-type. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11042151,ECO:0000269|PubMed:1674745,ECO:0000269|PubMed:26802169;Dbxref=dbSNP:rs769455,PMID:11042151,PMID:1674745,PMID:26802169	
+P02649	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_000660;Note=In HLPP3%3B unknown pathological significance%3B ApoE Kochi. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2101409;Dbxref=dbSNP:rs121918397,PMID:2101409	
+P02649	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_042735;Note=In LPG%3B ApoE2 Sendai%3B decreased binding to LDL receptor%3B induces intraglomerular deposition of ApoE-containing lipoproteins. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10903326,ECO:0000269|PubMed:9176854;Dbxref=dbSNP:rs121918397,PMID:10903326,PMID:9176854	
+P02649	UniProtKB	Natural variant	164	164	.	.	.	ID=VAR_000662;Note=In HLPP3%3B ApoE1 Harrisburg%3B decreased binding to LDL receptor%3B probable dominant negative effect%3B decreased in vitro binding to heparin. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7635945;Dbxref=dbSNP:rs121918394,PMID:7635945	
+P02649	UniProtKB	Natural variant	164	164	.	.	.	ID=VAR_000661;Note=In HLPP3%3B ApoE2**. K->Q;Dbxref=dbSNP:rs121918394	
+P02649	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_035015;Note=In SBHD and FH%3B also found in patients with a diagnosis of familial combined hyperlipidemia. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11095479,ECO:0000269|PubMed:16094309,ECO:0000269|PubMed:22481068,ECO:0000269|PubMed:22949395,ECO:0000269|PubMed:24267230,ECO:0000269|PubMed:26802169;Dbxref=PMID:11095479,PMID:16094309,PMID:22481068,PMID:22949395,PMID:24267230,PMID:26802169	
+P02649	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_000663;Note=In ApoE3*%3B decreased binding to LDL receptor. A->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2831187,ECO:0000269|PubMed:6327682;Dbxref=dbSNP:rs267606662,PMID:2831187,PMID:6327682	
+P02649	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_000664;Note=In HLPP3%3B ApoE2%2C ApoE2 Fukuoka%2C ApoE1 Weisgraber and ApoE3**%3B ApoE3** is associated with HLPP3%3B changed protein structure%3B decreased binding to LDLR and other lipoprotein receptors%3B decreased in vitro binding to heparin%3B no effect on distribution among plasma lipoproteins. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11042151,ECO:0000269|PubMed:12950167,ECO:0000269|PubMed:12966036,ECO:0000269|PubMed:2280190,ECO:0000269|PubMed:3243553,ECO:0000269|PubMed:7635945,ECO:0000269|PubMed:7994571,ECO:0000269|PubMed:8287539,ECO:0000269|PubMed:8756331;Dbxref=dbSNP:rs7412,PMID:11042151,PMID:12950167,PMID:12966036,PMID:2280190,PMID:3243553,PMID:7635945,PMID:7994571,PMID:8287539,PMID:8756331	
+P02649	UniProtKB	Natural variant	228	317	.	.	.	ID=VAR_081136;Note=In HLPP3%3B ApoE3 Washington. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1361196;Dbxref=PMID:1361196	
+P02649	UniProtKB	Natural variant	242	242	.	.	.	ID=VAR_000665;Note=In ApoE2 Fukuoka. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8664327;Dbxref=dbSNP:rs267606663,PMID:8664327	
+P02649	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_000666;Note=In ApoE2 Dunedin. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2341812;Dbxref=dbSNP:rs121918395,PMID:2341812	
+P02649	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_000667;Note=In ApoE2 WG. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8488843;Dbxref=dbSNP:rs199768005,PMID:8488843	
+P02649	UniProtKB	Natural variant	262	263	.	.	.	ID=VAR_000668;Note=In HLPP3%3B ApoE7 Suita. EE->KK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2738044;Dbxref=PMID:2738044	
+P02649	UniProtKB	Natural variant	269	269	.	.	.	ID=VAR_000669;Note=In ApoE3 HB. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8488843,ECO:0000269|PubMed:9360638;Dbxref=dbSNP:rs267606661,PMID:8488843,PMID:9360638	
+P02649	UniProtKB	Natural variant	270	270	.	.	.	ID=VAR_000670;Note=In ApoE1 HE%3B requires 2 nucleotide substitutions. L->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8488843;Dbxref=PMID:8488843	
+P02649	UniProtKB	Natural variant	292	292	.	.	.	ID=VAR_000671;Note=In ApoE4 PD. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8488843;Dbxref=dbSNP:rs121918398,PMID:8488843	
+P02649	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_000672;Note=In ApoE4 HG. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8488843;Dbxref=dbSNP:rs28931579,PMID:8488843	
+P02649	UniProtKB	Mutagenesis	79	79	.	.	.	Note=Changes the plasma lipoprotein distribution of ApoE4 to the HDL. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8071364;Dbxref=PMID:8071364	
+P02649	UniProtKB	Mutagenesis	127	127	.	.	.	Note=No effect on plasma lipoprotein distribution. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8071364;Dbxref=PMID:8071364	
+P02649	UniProtKB	Mutagenesis	157	157	.	.	.	Note=Increased binding to LDL receptor%3B when associated with A-167. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2831187;Dbxref=PMID:2831187	
+P02649	UniProtKB	Mutagenesis	158	158	.	.	.	Note=Decreased binding to LDL receptor. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2831187;Dbxref=PMID:2831187	
+P02649	UniProtKB	Mutagenesis	161	161	.	.	.	Note=Decreased binding to LDL receptor. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2831187;Dbxref=PMID:2831187	
+P02649	UniProtKB	Mutagenesis	162	162	.	.	.	Note=Decreased binding to LDL receptor. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2831187;Dbxref=PMID:2831187	
+P02649	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Increased binding to LDL receptor%3B when associated with R-157. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2831187;Dbxref=PMID:2831187	
+P02649	UniProtKB	Mutagenesis	168	168	.	.	.	Note=Decreased binding to LDL receptor. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2831187;Dbxref=PMID:2831187	
+P02649	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Restores the LDL receptor binding activity of ApoE2. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8756331;Dbxref=PMID:8756331	
+P02649	UniProtKB	Mutagenesis	212	212	.	.	.	Note=Loss of O-glycosylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2498325;Dbxref=PMID:2498325	
+P02649	UniProtKB	Beta strand	22	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KC3	
+P02649	UniProtKB	Helix	31	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KC3	
+P02649	UniProtKB	Turn	40	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KC3	
+P02649	UniProtKB	Helix	43	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GS9	
+P02649	UniProtKB	Helix	63	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GS9	
+P02649	UniProtKB	Helix	73	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GS9	
+P02649	UniProtKB	Turn	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LE4	
+P02649	UniProtKB	Helix	106	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GS9	
+P02649	UniProtKB	Turn	143	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NFN	
+P02649	UniProtKB	Helix	149	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GS9	
+P02649	UniProtKB	Turn	180	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BZ4	
+P02649	UniProtKB	Turn	187	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KC3	
+P02649	UniProtKB	Helix	193	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KC3	
+P02649	UniProtKB	Beta strand	200	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7B	
+P02649	UniProtKB	Helix	209	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7B	
+P02649	UniProtKB	Helix	228	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7B	
+P02649	UniProtKB	Helix	257	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7B	
+P02649	UniProtKB	Helix	286	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1OEF	
+P02649	UniProtKB	Beta strand	307	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7B	

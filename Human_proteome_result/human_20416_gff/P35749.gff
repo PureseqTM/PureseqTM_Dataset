@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P35749 1 1972
+P35749	UniProtKB	Chain	1	1972	.	.	.	ID=PRO_0000123424;Note=Myosin-11	
+P35749	UniProtKB	Domain	31	81	.	.	.	Note=Myosin N-terminal SH3-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01190	
+P35749	UniProtKB	Domain	85	783	.	.	.	Note=Myosin motor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00782	
+P35749	UniProtKB	Domain	786	815	.	.	.	Note=IQ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00116	
+P35749	UniProtKB	Nucleotide binding	178	185	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35749	UniProtKB	Region	661	683	.	.	.	Note=Actin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35749	UniProtKB	Region	762	776	.	.	.	Note=Actin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35749	UniProtKB	Region	1935	1972	.	.	.	Note=C-terminal	
+P35749	UniProtKB	Coiled coil	844	1934	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35749	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P35749	UniProtKB	Modified residue	23	23	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P35749	UniProtKB	Modified residue	40	40	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q7Z406	
+P35749	UniProtKB	Modified residue	129	129	.	.	.	Note=N6%2CN6%2CN6-trimethyllysine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35749	UniProtKB	Modified residue	1177	1177	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q7Z406	
+P35749	UniProtKB	Modified residue	1684	1684	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63862	
+P35749	UniProtKB	Modified residue	1722	1722	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63862	
+P35749	UniProtKB	Modified residue	1954	1954	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18318008,ECO:0000244|PubMed:24275569;Dbxref=PMID:18318008,PMID:24275569	
+P35749	UniProtKB	Modified residue	1958	1958	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P35749	UniProtKB	Modified residue	1971	1971	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08638	
+P35749	UniProtKB	Alternative sequence	211	211	.	.	.	ID=VSP_043017;Note=In isoform 2 and isoform 3. T->TQGPSFAY;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:16000639;Dbxref=PMID:15489334,PMID:16000639	
+P35749	UniProtKB	Alternative sequence	1930	1972	.	.	.	ID=VSP_043018;Note=In isoform 3 and isoform 4. RGNETSFVPSRRSGGRRVIENADGSEEETDTRDADFNGTKASE->GPPPQETSQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:16000639;Dbxref=PMID:15489334,PMID:16000639	
+P35749	UniProtKB	Natural variant	1104	1104	.	.	.	ID=VAR_050205;Note=A->T;Dbxref=dbSNP:rs34263860	
+P35749	UniProtKB	Natural variant	1234	1234	.	.	.	ID=VAR_030239;Note=A->T;Dbxref=dbSNP:rs16967494	
+P35749	UniProtKB	Natural variant	1241	1264	.	.	.	ID=VAR_031734;Note=In AAT4. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16444274;Dbxref=PMID:16444274	
+P35749	UniProtKB	Natural variant	1289	1289	.	.	.	ID=VAR_030240;Note=V->A;Dbxref=dbSNP:rs16967510	
+P35749	UniProtKB	Natural variant	1310	1310	.	.	.	ID=VAR_030241;Note=V->M;Dbxref=dbSNP:rs7196804	
+P35749	UniProtKB	Natural variant	1508	1508	.	.	.	ID=VAR_050206;Note=M->V;Dbxref=dbSNP:rs35176378	
+P35749	UniProtKB	Natural variant	1758	1758	.	.	.	ID=VAR_031735;Note=In AAT4. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16444274;Dbxref=dbSNP:rs142546324,PMID:16444274	
+P35749	UniProtKB	Sequence conflict	887	889	.	.	.	Note=EEK->NSE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35749	UniProtKB	Sequence conflict	1558	1558	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35749	UniProtKB	Sequence conflict	1610	1611	.	.	.	Note=KQ->NE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35749	UniProtKB	Sequence conflict	1786	1786	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35749	UniProtKB	Sequence conflict	1958	1958	.	.	.	Note=T->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

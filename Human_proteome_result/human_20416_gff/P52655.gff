@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P52655 1 376
+P52655	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+P52655	UniProtKB	Chain	2	376	.	.	.	ID=PRO_0000022481;Note=Transcription initiation factor IIA subunit 1	
+P52655	UniProtKB	Chain	2	274	.	.	.	ID=PRO_0000042593;Note=Transcription initiation factor IIA alpha chain	
+P52655	UniProtKB	Chain	275	376	.	.	.	ID=PRO_0000042594;Note=Transcription initiation factor IIA beta chain	
+P52655	UniProtKB	Compositional bias	71	80	.	.	.	Note=Poly-Gln	
+P52655	UniProtKB	Compositional bias	81	87	.	.	.	Note=Poly-His	
+P52655	UniProtKB	Site	274	275	.	.	.	Note=Cleavage%3B by TASP1	
+P52655	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+P52655	UniProtKB	Modified residue	280	280	.	.	.	Note=Phosphoserine%3B by TAF1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278496;Dbxref=PMID:11278496	
+P52655	UniProtKB	Modified residue	281	281	.	.	.	Note=Phosphoserine%3B by TAF1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278496;Dbxref=PMID:11278496	
+P52655	UniProtKB	Modified residue	316	316	.	.	.	Note=Phosphoserine%3B by TAF1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000269|PubMed:11278496;Dbxref=PMID:17081983,PMID:11278496	
+P52655	UniProtKB	Modified residue	321	321	.	.	.	Note=Phosphoserine%3B by TAF1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000269|PubMed:11278496;Dbxref=PMID:17081983,PMID:11278496	
+P52655	UniProtKB	Alternative sequence	1	39	.	.	.	ID=VSP_018798;Note=In isoform 37 kDa. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52655	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_035667;Note=In a breast cancer sample%3B somatic mutation. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P52655	UniProtKB	Natural variant	109	109	.	.	.	ID=VAR_054043;Note=A->P;Dbxref=dbSNP:rs17111579	
+P52655	UniProtKB	Mutagenesis	270	270	.	.	.	Note=Slightly affects cleavage and yields elevated levels of the precursor. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	272	272	.	.	.	Note=Abolishes cleavage. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	273	273	.	.	.	Note=Abolishes cleavage. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	274	274	.	.	.	Note=Abolishes cleavage. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	275	275	.	.	.	Note=Abolishes cleavage. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Does not affect cleavage. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	277	277	.	.	.	Note=Does not affect cleavage. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	278	278	.	.	.	Note=Significant reduction of cleavage. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	280	280	.	.	.	Note=Slightly affects cleavage%2C yields elevated levels of the precursor. Eliminates phosphorylation%3B when associated with A-281%3B A-316 and A-321. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11278496,ECO:0000269|PubMed:15257296;Dbxref=PMID:11278496,PMID:15257296	
+P52655	UniProtKB	Mutagenesis	281	281	.	.	.	Note=Eliminates phosphorylation%3B when associated with A-280%3B A-316 and A-321. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278496;Dbxref=PMID:11278496	
+P52655	UniProtKB	Mutagenesis	282	282	.	.	.	Note=Slightly affects cleavage and yields elevated levels of the precursor. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15257296;Dbxref=PMID:15257296	
+P52655	UniProtKB	Mutagenesis	316	316	.	.	.	Note=Strongly reduces phosphorylation%3B when associated with A-321. Eliminates phosphorylation%3B when associated with A-280%3B A-281 and A-321. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278496;Dbxref=PMID:11278496	
+P52655	UniProtKB	Mutagenesis	321	321	.	.	.	Note=Strongly reduces phosphorylation%3B when associated with A-316. Eliminates phosphorylation%3B when associated with A-280%3B A-281 and A-316. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278496;Dbxref=PMID:11278496	
+P52655	UniProtKB	Helix	10	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NVP	
+P52655	UniProtKB	Helix	36	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NVP	
+P52655	UniProtKB	Beta strand	65	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M4S	
+P52655	UniProtKB	Beta strand	79	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M4S	
+P52655	UniProtKB	Beta strand	334	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NVP	
+P52655	UniProtKB	Beta strand	348	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NVP	
+P52655	UniProtKB	Beta strand	363	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NVP	

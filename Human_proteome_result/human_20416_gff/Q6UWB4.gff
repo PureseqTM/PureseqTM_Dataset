@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region Q6UWB4 1 352
+Q6UWB4	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UWB4	UniProtKB	Propeptide	19	67	.	.	.	ID=PRO_0000423643;Note=Activation propeptide;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6UWB4	UniProtKB	Chain	68	352	.	.	.	ID=PRO_0000328815;Note=Serine protease 55	
+Q6UWB4	UniProtKB	Topological domain	68	326	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UWB4	UniProtKB	Transmembrane	327	347	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UWB4	UniProtKB	Topological domain	348	352	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UWB4	UniProtKB	Domain	68	300	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q6UWB4	UniProtKB	Active site	108	108	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6UWB4	UniProtKB	Active site	156	156	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6UWB4	UniProtKB	Active site	250	250	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6UWB4	UniProtKB	Glycosylation	240	240	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UWB4	UniProtKB	Disulfide bond	93	109	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q6UWB4	UniProtKB	Disulfide bond	189	256	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q6UWB4	UniProtKB	Disulfide bond	222	235	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q6UWB4	UniProtKB	Disulfide bond	246	276	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q6UWB4	UniProtKB	Alternative sequence	248	352	.	.	.	ID=VSP_044557;Note=In isoform 2. GDSGGPLVCTPEPGEKWYQVGIISWGKSCGEKNTPGIYTSLVNYNLWIEKVTQLEGRPFNAEKRRTSVKQKPMGSPVSGVPEPGSPRSWLLLCPLSHVLFRAILY->QSYFPTLQRMNTGSSQTKPPGSHTFHLQN;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:18844450;Dbxref=PMID:15489334,PMID:18844450	
+Q6UWB4	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_042525;Note=P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12975309;Dbxref=dbSNP:rs4521726,PMID:12975309	
+Q6UWB4	UniProtKB	Natural variant	212	212	.	.	.	ID=VAR_042526;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12975309;Dbxref=dbSNP:rs4406360,PMID:12975309	
+Q6UWB4	UniProtKB	Sequence conflict	15	15	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region O00623 1 359
+O00623	UniProtKB	Chain	1	359	.	.	.	ID=PRO_0000218610;Note=Peroxisome assembly protein 12	
+O00623	UniProtKB	Topological domain	1	158	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00623	UniProtKB	Transmembrane	159	179	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00623	UniProtKB	Topological domain	180	239	.	.	.	Note=Peroxisomal matrix;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00623	UniProtKB	Transmembrane	240	260	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00623	UniProtKB	Topological domain	261	359	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00623	UniProtKB	Zinc finger	304	343	.	.	.	Note=RING-type%3B degenerate	
+O00623	UniProtKB	Compositional bias	280	285	.	.	.	Note=Poly-Pro	
+O00623	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_058389;Note=In PBD-CG3. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19105186;Dbxref=dbSNP:rs147530802,PMID:19105186	
+O00623	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_058390;Note=In PBD-CG3. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19105186;Dbxref=PMID:19105186	
+O00623	UniProtKB	Natural variant	245	245	.	.	.	ID=VAR_050495;Note=L->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19105186;Dbxref=dbSNP:rs12941376,PMID:19105186	
+O00623	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_031998;Note=In PBD3B%3B attenuates interaction with PEX10 and decreases peroxisomal protein import. S->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10562279,ECO:0000269|PubMed:19105186;Dbxref=dbSNP:rs28936697,PMID:10562279,PMID:19105186	
+O00623	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_058391;Note=In PBD-CG3. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19105186;Dbxref=PMID:19105186	
+O00623	UniProtKB	Mutagenesis	304	304	.	.	.	Note=Abolishes interaction with PEX19%3B when associated with Q-307. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11390669;Dbxref=PMID:11390669	
+O00623	UniProtKB	Mutagenesis	307	307	.	.	.	Note=Abolishes interaction with PEX19%3B when associated with W-304. C->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11390669;Dbxref=PMID:11390669	

@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region P50552 1 380
+P50552	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|PubMed:12665801;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:12665801	
+P50552	UniProtKB	Chain	2	380	.	.	.	ID=PRO_0000065767;Note=Vasodilator-stimulated phosphoprotein	
+P50552	UniProtKB	Domain	2	113	.	.	.	Note=WH1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00410	
+P50552	UniProtKB	Repeat	344	358	.	.	.	Note=1	
+P50552	UniProtKB	Repeat	359	373	.	.	.	Note=2	
+P50552	UniProtKB	Region	225	377	.	.	.	Note=EVH2	
+P50552	UniProtKB	Region	225	245	.	.	.	Note=EVH2 block A	
+P50552	UniProtKB	Region	259	278	.	.	.	Note=EVH2 block B	
+P50552	UniProtKB	Region	343	377	.	.	.	Note=EVH2 block C	
+P50552	UniProtKB	Region	344	373	.	.	.	Note=2 X 15 AA tandem repeats of L-[EQ]-[KR]-[MV]-K-[EQ]-E-[IL]-[IL]-E-[AEV]-[FV]-[KRV]-[KQ]-E	
+P50552	UniProtKB	Coiled coil	337	373	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P50552	UniProtKB	Motif	234	237	.	.	.	Note=KLKR	
+P50552	UniProtKB	Compositional bias	118	216	.	.	.	Note=Pro-rich	
+P50552	UniProtKB	Compositional bias	215	222	.	.	.	Note=Poly-Gly	
+P50552	UniProtKB	Compositional bias	259	262	.	.	.	Note=Poly-Gly	
+P50552	UniProtKB	Compositional bias	322	325	.	.	.	Note=Poly-Ser	
+P50552	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|PubMed:12665801;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:12665801	
+P50552	UniProtKB	Modified residue	39	39	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:15592455,ECO:0000244|PubMed:23186163;Dbxref=PMID:15592455,PMID:23186163	
+P50552	UniProtKB	Modified residue	46	46	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P50552	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphoserine%3B by PKA%2C PKC%2C PKG/PRKG1 and ROCK1;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16197368,ECO:0000269|PubMed:18559661,ECO:0000269|PubMed:7925440,ECO:0000269|PubMed:8182057;Dbxref=PMID:16197368,PMID:18559661,PMID:7925440,PMID:8182057	
+P50552	UniProtKB	Modified residue	239	239	.	.	.	Note=Phosphoserine%3B by PKA and PKG/PRKG1;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:18559661,ECO:0000269|PubMed:8182057;Dbxref=PMID:23186163,PMID:18559661,PMID:8182057	
+P50552	UniProtKB	Modified residue	278	278	.	.	.	Note=Phosphothreonine%3B by PKA%2C PKG/PRKG1 and AMPK;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17082196,ECO:0000269|PubMed:8182057;Dbxref=PMID:17082196,PMID:8182057	
+P50552	UniProtKB	Modified residue	283	283	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P50552	UniProtKB	Modified residue	284	284	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P50552	UniProtKB	Modified residue	305	305	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P50552	UniProtKB	Modified residue	314	314	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P50552	UniProtKB	Modified residue	316	316	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+P50552	UniProtKB	Modified residue	322	322	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P50552	UniProtKB	Modified residue	323	323	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70460	
+P50552	UniProtKB	Modified residue	325	325	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70460	
+P50552	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_048929;Note=A->T;Dbxref=dbSNP:rs10415373	
+P50552	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_048930;Note=Q->H;Dbxref=dbSNP:rs34345197	
+P50552	UniProtKB	Mutagenesis	157	157	.	.	.	Note=Promotes F-actin assembly%3B when associated with A-239 and A-278. Interferes with F-actin assembly%3B when associated with A-239 and E-278. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17082196;Dbxref=PMID:17082196	
+P50552	UniProtKB	Mutagenesis	239	239	.	.	.	Note=Promotes F-actin assembly%3B when associated with A-157 and A-278. Interferes with F-actin assembly%3B when associated with A-157 and E-278. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17082196;Dbxref=PMID:17082196	
+P50552	UniProtKB	Mutagenesis	278	278	.	.	.	Note=Promotes F-actin assembly%3B when associated with A-157 and A-239. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17082196;Dbxref=PMID:17082196	
+P50552	UniProtKB	Mutagenesis	278	278	.	.	.	Note=Interferes with F-actin assembly%3B when associated with A-157 and A-239. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17082196;Dbxref=PMID:17082196	
+P50552	UniProtKB	Mutagenesis	370	370	.	.	.	Note=Lower stability of tetramerization domain. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15569942;Dbxref=PMID:15569942	
+P50552	UniProtKB	Mutagenesis	370	370	.	.	.	Note=No change in stability of tetramerization domain. F->I%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15569942;Dbxref=PMID:15569942	
+P50552	UniProtKB	Sequence conflict	2	2	.	.	.	Note=S->SS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50552	UniProtKB	Sequence conflict	241	241	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50552	UniProtKB	Beta strand	5	12	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	14	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Turn	18	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	25	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	34	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Turn	42	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	46	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	60	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	79	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Beta strand	88	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Helix	96	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EGX	
+P50552	UniProtKB	Helix	226	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PBD	
+P50552	UniProtKB	Helix	341	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1USE	

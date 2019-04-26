@@ -1,0 +1,45 @@
+##gff-version 3
+##sequence-region O95996 1 2303
+O95996	UniProtKB	Chain	1	2303	.	.	.	ID=PRO_0000313686;Note=Adenomatous polyposis coli protein 2	
+O95996	UniProtKB	Repeat	302	341	.	.	.	Note=ARM 1	
+O95996	UniProtKB	Repeat	479	518	.	.	.	Note=ARM 2	
+O95996	UniProtKB	Repeat	522	562	.	.	.	Note=ARM 3	
+O95996	UniProtKB	Repeat	566	609	.	.	.	Note=ARM 4	
+O95996	UniProtKB	Repeat	615	654	.	.	.	Note=ARM 5	
+O95996	UniProtKB	Repeat	657	696	.	.	.	Note=ARM 6	
+O95996	UniProtKB	Repeat	1058	1077	.	.	.	Note=1	
+O95996	UniProtKB	Repeat	1150	1169	.	.	.	Note=2	
+O95996	UniProtKB	Repeat	1263	1282	.	.	.	Note=3	
+O95996	UniProtKB	Repeat	1391	1410	.	.	.	Note=4	
+O95996	UniProtKB	Repeat	1568	1587	.	.	.	Note=5	
+O95996	UniProtKB	Region	1058	1587	.	.	.	Note=5 X 20 AA approximate repeat of F-X-V-E-X-T-P-X-C-F-S-R-X-S-S-L-S-S-L-S	
+O95996	UniProtKB	Region	1058	1587	.	.	.	Note=Interaction with CTNNB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9823329;Dbxref=PMID:9823329	
+O95996	UniProtKB	Region	1821	1900	.	.	.	Note=Required for localization to microtubules and function in microtubule stabilization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25753423;Dbxref=PMID:25753423	
+O95996	UniProtKB	Region	2067	2144	.	.	.	Note=Interaction with MAPRE1 and MAPRE3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10644998;Dbxref=PMID:10644998	
+O95996	UniProtKB	Coiled coil	8	59	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95996	UniProtKB	Coiled coil	840	864	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95996	UniProtKB	Compositional bias	1145	1196	.	.	.	Note=Ser-rich	
+O95996	UniProtKB	Compositional bias	1518	1622	.	.	.	Note=Pro-rich	
+O95996	UniProtKB	Compositional bias	1765	1953	.	.	.	Note=Pro-rich	
+O95996	UniProtKB	Modified residue	1585	1585	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z1K7	
+O95996	UniProtKB	Modified residue	1587	1587	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z1K7	
+O95996	UniProtKB	Alternative sequence	168	441	.	.	.	ID=VSP_030106;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+O95996	UniProtKB	Alternative sequence	175	175	.	.	.	ID=VSP_030107;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10021369;Dbxref=PMID:10021369	
+O95996	UniProtKB	Natural variant	562	562	.	.	.	ID=VAR_037703;Note=In a breast cancer sample%3B somatic mutation. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O95996	UniProtKB	Natural variant	1921	1921	.	.	.	ID=VAR_081224;Note=H->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29120066;Dbxref=PMID:29120066	
+O95996	UniProtKB	Natural variant	2003	2003	.	.	.	ID=VAR_037704;Note=In a breast cancer sample%3B somatic mutation. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1288757495,PMID:16959974	
+O95996	UniProtKB	Natural variant	2241	2241	.	.	.	ID=VAR_037705;Note=S->A;Dbxref=dbSNP:rs265277	
+O95996	UniProtKB	Sequence conflict	463	463	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	526	527	.	.	.	Note=KV->NL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	526	527	.	.	.	Note=KV->NL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	566	566	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	566	566	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	816	816	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	971	971	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	1106	1106	.	.	.	Note=S->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	1140	1140	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	1188	1188	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	1361	1361	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	1456	1456	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	1515	1515	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95996	UniProtKB	Sequence conflict	2219	2219	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region Q9H244 1 342
+Q9H244	UniProtKB	Chain	1	342	.	.	.	ID=PRO_0000070036;Note=P2Y purinoceptor 12	
+Q9H244	UniProtKB	Topological domain	1	27	.	.	.	Note=Extracellular	
+Q9H244	UniProtKB	Transmembrane	28	50	.	.	.	Note=Helical%3B Name%3D1	
+Q9H244	UniProtKB	Topological domain	51	61	.	.	.	Note=Cytoplasmic	
+Q9H244	UniProtKB	Transmembrane	62	82	.	.	.	Note=Helical%3B Name%3D2	
+Q9H244	UniProtKB	Topological domain	83	97	.	.	.	Note=Extracellular	
+Q9H244	UniProtKB	Transmembrane	98	118	.	.	.	Note=Helical%3B Name%3D3	
+Q9H244	UniProtKB	Topological domain	119	142	.	.	.	Note=Cytoplasmic	
+Q9H244	UniProtKB	Transmembrane	143	162	.	.	.	Note=Helical%3B Name%3D4	
+Q9H244	UniProtKB	Topological domain	163	185	.	.	.	Note=Extracellular	
+Q9H244	UniProtKB	Transmembrane	186	207	.	.	.	Note=Helical%3B Name%3D5	
+Q9H244	UniProtKB	Topological domain	208	233	.	.	.	Note=Cytoplasmic	
+Q9H244	UniProtKB	Transmembrane	234	259	.	.	.	Note=Helical%3B Name%3D6	
+Q9H244	UniProtKB	Topological domain	260	278	.	.	.	Note=Extracellular	
+Q9H244	UniProtKB	Transmembrane	279	298	.	.	.	Note=Helical%3B Name%3D7	
+Q9H244	UniProtKB	Topological domain	299	342	.	.	.	Note=Cytoplasmic	
+Q9H244	UniProtKB	Nucleotide binding	156	159	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Nucleotide binding	175	179	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Nucleotide binding	256	259	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Binding site	93	93	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Binding site	97	97	.	.	.	Note=ADP%3B via carbonyl oxygen	
+Q9H244	UniProtKB	Binding site	105	105	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Binding site	187	187	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Binding site	191	191	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Binding site	263	263	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Binding site	280	280	.	.	.	Note=ADP	
+Q9H244	UniProtKB	Modified residue	55	55	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9EPX4	
+Q9H244	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9EPX4	
+Q9H244	UniProtKB	Glycosylation	6	6	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H244	UniProtKB	Glycosylation	13	13	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H244	UniProtKB	Disulfide bond	17	270	.	.	.	.	
+Q9H244	UniProtKB	Disulfide bond	97	175	.	.	.	.	
+Q9H244	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_072802;Note=In BDPLT8. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25428217;Dbxref=PMID:25428217	
+Q9H244	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_025383;Note=In BDPLT8. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12578987;Dbxref=dbSNP:rs121917885,PMID:12578987	
+Q9H244	UniProtKB	Natural variant	265	265	.	.	.	ID=VAR_025384;Note=In BDPLT8. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12578987;Dbxref=dbSNP:rs121917886,PMID:12578987	
+Q9H244	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_049431;Note=E->G;Dbxref=dbSNP:rs16846673	
+Q9H244	UniProtKB	Mutagenesis	80	80	.	.	.	Note=Abolishes ADP binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24670650;Dbxref=PMID:24670650	
+Q9H244	UniProtKB	Mutagenesis	83	83	.	.	.	Note=No effect on ADP binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24784220;Dbxref=PMID:24784220	
+Q9H244	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Abolishes ADP binding. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24784220;Dbxref=PMID:24784220	
+Q9H244	UniProtKB	Mutagenesis	156	156	.	.	.	Note=Slightly decreases affinity for ADP. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24670650;Dbxref=PMID:24670650	
+Q9H244	UniProtKB	Mutagenesis	159	159	.	.	.	Note=Slightly decreases affinity for ADP. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24670650;Dbxref=PMID:24670650	
+Q9H244	UniProtKB	Mutagenesis	175	175	.	.	.	Note=Abolishes ADP binding. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24784220;Dbxref=PMID:24784220	
+Q9H244	UniProtKB	Mutagenesis	256	256	.	.	.	Note=Decreases affinity for ADP. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24784220;Dbxref=PMID:24784220	
+Q9H244	UniProtKB	Mutagenesis	280	280	.	.	.	Note=Abolishes ADP binding. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24670650,ECO:0000269|PubMed:24784220;Dbxref=PMID:24670650,PMID:24784220	
+Q9H244	UniProtKB	Mutagenesis	281	281	.	.	.	Note=Abolishes ADP binding. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24670650;Dbxref=PMID:24670650	
+Q9H244	UniProtKB	Helix	24	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	58	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	77	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Beta strand	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	91	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	100	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	136	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	175	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	181	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	231	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	236	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	250	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	270	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Helix	296	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	
+Q9H244	UniProtKB	Turn	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PXZ	

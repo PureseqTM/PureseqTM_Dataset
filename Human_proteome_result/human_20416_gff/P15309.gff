@@ -1,0 +1,78 @@
+##gff-version 3
+##sequence-region P15309 1 386
+P15309	UniProtKB	Signal peptide	1	32	.	.	.	.	
+P15309	UniProtKB	Chain	33	386	.	.	.	ID=PRO_0000023963;Note=Prostatic acid phosphatase	
+P15309	UniProtKB	Peptide	248	286	.	.	.	ID=PRO_0000411250;Note=PAPf39	
+P15309	UniProtKB	Active site	44	44	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1989985;Dbxref=PMID:1989985	
+P15309	UniProtKB	Active site	290	290	.	.	.	Note=Proton donor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:1989985;Dbxref=PMID:1989985	
+P15309	UniProtKB	Binding site	43	43	.	.	.	Note=Substrate	
+P15309	UniProtKB	Binding site	47	47	.	.	.	Note=Substrate	
+P15309	UniProtKB	Binding site	111	111	.	.	.	Note=Substrate	
+P15309	UniProtKB	Binding site	289	289	.	.	.	Note=Substrate	
+P15309	UniProtKB	Site	49	49	.	.	.	Note=Important for substrate specificity	
+P15309	UniProtKB	Site	138	138	.	.	.	Note=Required for homodimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15309	UniProtKB	Site	144	144	.	.	.	Note=Required for homodimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P15309	UniProtKB	Site	206	206	.	.	.	Note=Required for structural stability	
+P15309	UniProtKB	Glycosylation	94	94	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10639192;Dbxref=PMID:10639192	
+P15309	UniProtKB	Glycosylation	220	220	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10639192,ECO:0000269|PubMed:12525165;Dbxref=PMID:10639192,PMID:12525165	
+P15309	UniProtKB	Glycosylation	333	333	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12525165;Dbxref=PMID:12525165	
+P15309	UniProtKB	Disulfide bond	161	372	.	.	.	.	
+P15309	UniProtKB	Disulfide bond	215	313	.	.	.	.	
+P15309	UniProtKB	Disulfide bond	347	351	.	.	.	.	
+P15309	UniProtKB	Alternative sequence	153	185	.	.	.	ID=VSP_053360;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.7;Dbxref=PMID:14702039	
+P15309	UniProtKB	Alternative sequence	380	386	.	.	.	ID=VSP_036023;Note=In isoform 2. GTEDSTD->VLKVIFAVAFCLISAVLMVLLFIHIRRGLCWQRESYGNI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P15309	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_047960;Note=S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17850347,PMID:15489334	
+P15309	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_047961;Note=F->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17856254,PMID:15489334	
+P15309	UniProtKB	Natural variant	226	226	.	.	.	ID=VAR_047962;Note=W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17856253,PMID:15489334	
+P15309	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_047963;Note=Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17851392,PMID:15489334	
+P15309	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_047964;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17850198,PMID:15489334	
+P15309	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Greatly reduced enzyme activity%2C marked decrease in structural stability%2C and increased binding of the inhibitor%2C L(+)-tartrate. W->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9584846;Dbxref=PMID:9584846	
+P15309	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Reduced enzyme activity%2C marked decrease in structural stability%2C and increased binding of the inhibitor%2C L(+)-tartrate. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9584846;Dbxref=PMID:9584846	
+P15309	UniProtKB	Sequence conflict	15	24	.	.	.	Note=SLGFLFLLFF->AFASCFCFFC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	15	24	.	.	.	Note=SLGFLFLLFF->ALASCFCFFC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	15	24	.	.	.	Note=SLGFLFLLFF->ALASCFCFFC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	46	46	.	.	.	Note=D->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	66	73	.	.	.	Note=GFGQLTQL->RIWPTHPA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	66	73	.	.	.	Note=GFGQLTQL->WIWPTHPA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	95	95	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	116	116	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	139	139	.	.	.	Note=Q->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	157	157	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	212	212	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	215	215	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	294	294	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	372	372	.	.	.	Note=C->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Sequence conflict	383	383	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15309	UniProtKB	Beta strand	34	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	72	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Turn	89	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	102	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	110	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	128	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	134	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CVI	
+P15309	UniProtKB	Beta strand	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	148	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	152	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	162	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	175	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	182	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	185	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	202	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	210	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	229	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	248	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	252	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	261	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND5	
+P15309	UniProtKB	Beta strand	282	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	290	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	313	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	324	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Beta strand	335	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CVI	
+P15309	UniProtKB	Beta strand	340	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND5	
+P15309	UniProtKB	Beta strand	349	352	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	353	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	361	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	
+P15309	UniProtKB	Helix	368	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ND6	

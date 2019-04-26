@@ -1,0 +1,69 @@
+##gff-version 3
+##sequence-region Q9HAN9 1 279
+Q9HAN9	UniProtKB	Chain	1	279	.	.	.	ID=PRO_0000135012;Note=Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1	
+Q9HAN9	UniProtKB	Nucleotide binding	15	17	.	.	.	Note=ATP;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:Q96T66,ECO:0000305|PubMed:11788603;Dbxref=PMID:11788603	
+Q9HAN9	UniProtKB	Nucleotide binding	156	158	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96T66	
+Q9HAN9	UniProtKB	Nucleotide binding	224	227	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96T66	
+Q9HAN9	UniProtKB	Region	55	57	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11959140;Dbxref=PMID:11959140	
+Q9HAN9	UniProtKB	Region	92	95	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11788603,ECO:0000269|PubMed:11959140;Dbxref=PMID:11788603,PMID:11959140	
+Q9HAN9	UniProtKB	Region	168	169	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11788603,ECO:0000269|PubMed:11959140;Dbxref=PMID:11788603,PMID:11959140	
+Q9HAN9	UniProtKB	Motif	123	129	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HAN9	UniProtKB	Binding site	24	24	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96T66	
+Q9HAN9	UniProtKB	Binding site	58	58	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96T66	
+Q9HAN9	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q9HAN9	UniProtKB	Modified residue	119	119	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9HAN9	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_068856;Note=In LCA9%3B does not affect nuclear localization%3B results in significantly reduced enzymatic activity. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=dbSNP:rs387907294,PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_068857;Note=In LCA9. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842227,ECO:0000269|PubMed:22842229,ECO:0000269|PubMed:22842230;Dbxref=dbSNP:rs138613460,PMID:22842227,PMID:22842229,PMID:22842230	
+Q9HAN9	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_068858;Note=In LCA9. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=dbSNP:rs761948762,PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_068859;Note=In LCA9. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_068860;Note=In LCA9. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842231;Dbxref=PMID:22842231	
+Q9HAN9	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_068861;Note=In LCA9. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=dbSNP:rs760965874,PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_068862;Note=In LCA9%3B does not affect nuclear localization%3B results in significantly reduced enzymatic activity. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=dbSNP:rs763325435,PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_068863;Note=In LCA9. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842230;Dbxref=dbSNP:rs756903689,PMID:22842230	
+Q9HAN9	UniProtKB	Natural variant	69	69	.	.	.	ID=VAR_068864;Note=In LCA9. M->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842227,ECO:0000269|PubMed:22842229;Dbxref=dbSNP:rs372066126,PMID:22842227,PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_068865;Note=In LCA9. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_068866;Note=In LCA9. V->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842227,ECO:0000269|PubMed:22842230,ECO:0000269|PubMed:22842231;Dbxref=dbSNP:rs771336246,PMID:22842227,PMID:22842230,PMID:22842231	
+Q9HAN9	UniProtKB	Natural variant	147	147	.	.	.	ID=VAR_068867;Note=In LCA9. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_068868;Note=In LCA9. V->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842230,ECO:0000269|PubMed:22842231;Dbxref=dbSNP:rs387907292,PMID:22842230,PMID:22842231	
+Q9HAN9	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_068869;Note=In LCA9. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_068870;Note=In LCA9. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842231;Dbxref=dbSNP:rs387907293,PMID:22842231	
+Q9HAN9	UniProtKB	Natural variant	156	156	.	.	.	ID=VAR_068871;Note=In LCA9. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=dbSNP:rs1244511644,PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	173	173	.	.	.	ID=VAR_068872;Note=In LCA9. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_068873;Note=In LCA9. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=dbSNP:rs757724544,PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_068874;Note=In LCA9. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=dbSNP:rs748913297,PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_068875;Note=In LCA9. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842227;Dbxref=PMID:22842227	
+Q9HAN9	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_068876;Note=In LCA9%3B results in significantly reduced enzymatic activity. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842229,ECO:0000269|PubMed:22842230;Dbxref=dbSNP:rs142968179,PMID:22842229,PMID:22842230	
+Q9HAN9	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_068877;Note=In LCA9. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	237	237	.	.	.	ID=VAR_068878;Note=In LCA9%3B does not affect nuclear localization. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842227,ECO:0000269|PubMed:22842229;Dbxref=dbSNP:rs375110174,PMID:22842227,PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	237	237	.	.	.	ID=VAR_068879;Note=In LCA9. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842230;Dbxref=dbSNP:rs368062092,PMID:22842230	
+Q9HAN9	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_068880;Note=In LCA9. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=dbSNP:rs778606847,PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_068881;Note=In LCA9. H->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22842229;Dbxref=dbSNP:rs1208495291,PMID:22842229	
+Q9HAN9	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_068882;Note=In LCA9%3B results in significantly reduced enzymatic activity%3B the mutant localizes to the cytoplasm. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842227,ECO:0000269|PubMed:22842230,ECO:0000269|PubMed:22842231;Dbxref=dbSNP:rs150726175,PMID:22842227,PMID:22842230,PMID:22842231	
+Q9HAN9	UniProtKB	Natural variant	273	273	.	.	.	ID=VAR_068883;Note=In LCA9%3B results in significantly reduced enzymatic activity. N->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22842230,ECO:0000269|PubMed:22842231;Dbxref=dbSNP:rs387907291,PMID:22842230,PMID:22842231	
+Q9HAN9	UniProtKB	Sequence conflict	20	20	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HAN9	UniProtKB	Sequence conflict	20	20	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HAN9	UniProtKB	Sequence conflict	217	217	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HAN9	UniProtKB	Beta strand	7	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	22	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Beta strand	39	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	63	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Turn	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Beta strand	78	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	95	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Beta strand	150	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	157	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Turn	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	171	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Beta strand	183	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	190	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	201	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	206	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Beta strand	210	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Beta strand	217	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KR2	
+Q9HAN9	UniProtKB	Helix	223	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	242	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	256	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Turn	260	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	
+Q9HAN9	UniProtKB	Helix	268	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KQN	

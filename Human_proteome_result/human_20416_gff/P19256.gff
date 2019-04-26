@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P19256 1 250
+P19256	UniProtKB	Signal peptide	1	28	.	.	.	.	
+P19256	UniProtKB	Chain	29	250	.	.	.	ID=PRO_0000014814;Note=Lymphocyte function-associated antigen 3	
+P19256	UniProtKB	Topological domain	29	215	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Transmembrane	216	238	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Topological domain	239	250	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Domain	30	121	.	.	.	Note=Ig-like	
+P19256	UniProtKB	Glycosylation	40	40	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P19256	UniProtKB	Glycosylation	94	94	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P19256	UniProtKB	Glycosylation	109	109	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Glycosylation	135	135	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Glycosylation	169	169	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Glycosylation	195	195	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19256	UniProtKB	Disulfide bond	142	187	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P19256	UniProtKB	Alternative sequence	236	237	.	.	.	ID=VSP_002522;Note=In isoform 2. GI->VL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:3313052,ECO:0000303|Ref.5;Dbxref=PMID:3313052	
+P19256	UniProtKB	Alternative sequence	238	250	.	.	.	ID=VSP_002523;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:3313052,ECO:0000303|Ref.5;Dbxref=PMID:3313052	
+P19256	UniProtKB	Alternative sequence	248	250	.	.	.	ID=VSP_038693;Note=In isoform 3. NSN->K;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P19256	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_049885;Note=S->G;Dbxref=dbSNP:rs17426456	
+P19256	UniProtKB	Mutagenesis	29	29	.	.	.	Note=No effect on CD2-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10380930;Dbxref=PMID:10380930	
+P19256	UniProtKB	Mutagenesis	37	37	.	.	.	Note=No effect on CD2-binding. V->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10380930;Dbxref=PMID:10380930	
+P19256	UniProtKB	Mutagenesis	49	49	.	.	.	Note=No effect on CD2-binding. V->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10380930;Dbxref=PMID:10380930	
+P19256	UniProtKB	Mutagenesis	86	86	.	.	.	Note=No effect on CD2-binding. V->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10380930;Dbxref=PMID:10380930	
+P19256	UniProtKB	Mutagenesis	113	113	.	.	.	Note=No effect on CD2-binding. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10380930;Dbxref=PMID:10380930	
+P19256	UniProtKB	Mutagenesis	121	121	.	.	.	Note=No effect on CD2-binding. L->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10380930;Dbxref=PMID:10380930	
+P19256	UniProtKB	Beta strand	30	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	54	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	61	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Helix	75	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Turn	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Helix	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	101	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	114	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	128	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	139	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	146	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	165	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	
+P19256	UniProtKB	Beta strand	172	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CCZ	

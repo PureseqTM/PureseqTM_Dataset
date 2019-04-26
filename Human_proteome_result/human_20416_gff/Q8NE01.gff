@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region Q8NE01 1 707
+Q8NE01	UniProtKB	Chain	1	707	.	.	.	ID=PRO_0000295763;Note=Metal transporter CNNM3	
+Q8NE01	UniProtKB	Transmembrane	11	27	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE01	UniProtKB	Transmembrane	193	213	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE01	UniProtKB	Transmembrane	221	241	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE01	UniProtKB	Transmembrane	261	281	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE01	UniProtKB	Domain	130	308	.	.	.	Note=CNNM transmembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01193	
+Q8NE01	UniProtKB	Domain	318	379	.	.	.	Note=CBS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00703	
+Q8NE01	UniProtKB	Domain	386	452	.	.	.	Note=CBS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00703	
+Q8NE01	UniProtKB	Modified residue	661	661	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q8NE01	UniProtKB	Modified residue	700	700	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8NE01	UniProtKB	Glycosylation	73	73	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE01	UniProtKB	Alternative sequence	410	457	.	.	.	ID=VSP_027082;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8NE01	UniProtKB	Alternative sequence	694	707	.	.	.	ID=VSP_027083;Note=In isoform 3. GVPVEGSPGRNPGV->SLPLLPRGRDSAAYSDSDLFGLSHLVSAVTAFVWP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8NE01	UniProtKB	Sequence conflict	315	315	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Sequence conflict	404	404	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Sequence conflict	407	407	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Sequence conflict	482	482	.	.	.	Note=K->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Sequence conflict	532	532	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Sequence conflict	533	533	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Sequence conflict	543	543	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE01	UniProtKB	Turn	309	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	314	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TSR	
+Q8NE01	UniProtKB	Helix	321	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	335	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	347	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	359	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	365	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	373	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	379	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	392	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	399	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	412	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	423	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Beta strand	428	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	437	444	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K23	
+Q8NE01	UniProtKB	Helix	494	507	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Helix	509	511	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Turn	513	515	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Helix	518	525	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Helix	528	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	531	534	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Helix	544	546	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	547	549	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	557	563	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	566	570	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Turn	571	574	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	575	579	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Helix	587	590	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	627	634	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Beta strand	636	642	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	
+Q8NE01	UniProtKB	Helix	643	654	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DFD	

@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q8TAS1 1 419
+Q8TAS1	UniProtKB	Chain	1	419	.	.	.	ID=PRO_0000086777;Note=Serine/threonine-protein kinase Kist	
+Q8TAS1	UniProtKB	Domain	23	304	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000305	
+Q8TAS1	UniProtKB	Domain	324	406	.	.	.	Note=RRM;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00176,ECO:0000305	
+Q8TAS1	UniProtKB	Nucleotide binding	29	37	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8TAS1	UniProtKB	Active site	158	158	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8TAS1	UniProtKB	Binding site	54	54	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8TAS1	UniProtKB	Alternative sequence	1	89	.	.	.	ID=VSP_046145;Note=In isoform 3. MAGSGCAWGAEPPRFLEAFGRLWQVQSRLGSGSSASVYRVRCCGNPGSPPGALKQFLPPGTTGAAASAAEYGFRKERAALEQLQGHRNI->MFLTRPKVCVDLNRR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8TAS1	UniProtKB	Alternative sequence	342	344	.	.	.	ID=VSP_004908;Note=In isoform 2. DVV->GLC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8TAS1	UniProtKB	Alternative sequence	345	419	.	.	.	ID=VSP_004909;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8TAS1	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_041272;Note=L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34466082,PMID:17344846	
+Q8TAS1	UniProtKB	Natural variant	197	197	.	.	.	ID=VAR_041273;Note=Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56201055,PMID:17344846	
+Q8TAS1	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Loss of kinase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12093740;Dbxref=PMID:12093740	

@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P24666 1 158
+P24666	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1939112;Dbxref=PMID:1939112	
+P24666	UniProtKB	Chain	2	158	.	.	.	ID=PRO_0000046558;Note=Low molecular weight phosphotyrosine protein phosphatase	
+P24666	UniProtKB	Active site	13	13	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P24666	UniProtKB	Active site	19	19	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P24666	UniProtKB	Active site	130	130	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P24666	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1939112;Dbxref=PMID:1939112	
+P24666	UniProtKB	Modified residue	132	132	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9038134;Dbxref=PMID:9038134	
+P24666	UniProtKB	Modified residue	133	133	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9038134;Dbxref=PMID:9038134	
+P24666	UniProtKB	Alternative sequence	41	74	.	.	.	ID=VSP_010087;Note=In isoform 2. RVDSAATSGYEIGNPPDYRGQSCMKRHGIPMSHV->VIDSGAVSDWNVGRSPDPRAVSCLRNHGIHTAHK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1304913,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1587862,ECO:0000303|Ref.8;Dbxref=PMID:1304913,PMID:14702039,PMID:15489334,PMID:1587862	
+P24666	UniProtKB	Alternative sequence	41	74	.	.	.	ID=VSP_010088;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P24666	UniProtKB	Alternative sequence	78	112	.	.	.	ID=VSP_054074;Note=In isoform 4. ITKEDFATFDYILCMDESNLRDLNRKSNQVKTCKA->VPSLDLKLCVLCFSGSLTAVLFLTGTWAGPQTQEL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16344560;Dbxref=PMID:16344560	
+P24666	UniProtKB	Alternative sequence	113	158	.	.	.	ID=VSP_054075;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16344560;Dbxref=PMID:16344560	
+P24666	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_050526;Note=K->N;Dbxref=dbSNP:rs11691572	
+P24666	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_006171;Note=In allele ACP1*A. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs79716074,PMID:15489334	
+P24666	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_050527;Note=S->F;Dbxref=dbSNP:rs35569198	
+P24666	UniProtKB	Mutagenesis	13	13	.	.	.	Note=Inactive. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9038134;Dbxref=PMID:9038134	
+P24666	UniProtKB	Mutagenesis	132	132	.	.	.	Note=Reduced phosphorylation and activity. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9038134;Dbxref=PMID:9038134	
+P24666	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Reduced phosphorylation. No effect on activity. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9038134;Dbxref=PMID:9038134	
+P24666	UniProtKB	Sequence conflict	2	6	.	.	.	Note=AEQAT->PRRGR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P24666	UniProtKB	Sequence conflict	2	2	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P24666	UniProtKB	Sequence conflict	13	20	.	.	.	Note=CLGNICRS->PARREAAR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P24666	UniProtKB	Sequence conflict	32	32	.	.	.	Note=T->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P24666	UniProtKB	Sequence conflict	32	32	.	.	.	Note=T->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P24666	UniProtKB	Beta strand	7	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	20	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Beta strand	40	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Turn	50	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	58	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	80	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Beta strand	87	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	94	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Beta strand	113	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	117	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	
+P24666	UniProtKB	Helix	136	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JNT	

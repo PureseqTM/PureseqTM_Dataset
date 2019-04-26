@@ -1,0 +1,45 @@
+##gff-version 3
+##sequence-region Q9HCJ0 1 1690
+Q9HCJ0	UniProtKB	Chain	1	1690	.	.	.	ID=PRO_0000278526;Note=Trinucleotide repeat-containing gene 6C protein	
+Q9HCJ0	UniProtKB	Domain	933	978	.	.	.	Note=UBA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00212	
+Q9HCJ0	UniProtKB	Domain	1565	1632	.	.	.	Note=RRM	
+Q9HCJ0	UniProtKB	Region	1	926	.	.	.	Note=Sufficient for interaction with argonaute family proteins	
+Q9HCJ0	UniProtKB	Region	1260	1690	.	.	.	Note=Silencing domain%3B interaction with CNOT1 and PAN3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21981923;Dbxref=PMID:21981923	
+Q9HCJ0	UniProtKB	Region	1371	1690	.	.	.	Note=Sufficient for translational repression when tethered to a target mRNA	
+Q9HCJ0	UniProtKB	Region	1371	1417	.	.	.	Note=Required for interaction with PABPC1	
+Q9HCJ0	UniProtKB	Region	1381	1399	.	.	.	Note=PABPC1-interacting motif-2 (PAM2)	
+Q9HCJ0	UniProtKB	Region	1596	1690	.	.	.	Note=Interaction with the CCR4-NOT complex	
+Q9HCJ0	UniProtKB	Coiled coil	1156	1214	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HCJ0	UniProtKB	Compositional bias	204	430	.	.	.	Note=Gly-rich	
+Q9HCJ0	UniProtKB	Compositional bias	549	552	.	.	.	Note=Poly-Ala	
+Q9HCJ0	UniProtKB	Compositional bias	756	777	.	.	.	Note=Thr-rich	
+Q9HCJ0	UniProtKB	Compositional bias	1215	1248	.	.	.	Note=Pro-rich	
+Q9HCJ0	UniProtKB	Modified residue	313	313	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+Q9HCJ0	UniProtKB	Modified residue	465	465	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3UHC0	
+Q9HCJ0	UniProtKB	Modified residue	714	714	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q9HCJ0	UniProtKB	Modified residue	777	777	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9HCJ0	UniProtKB	Modified residue	1011	1011	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HCJ0	UniProtKB	Alternative sequence	796	798	.	.	.	ID=VSP_054230;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9HCJ0	UniProtKB	Alternative sequence	1435	1435	.	.	.	ID=VSP_023322;Note=In isoform 2. G->GGSSPPSSQNATLPSSSAWPLSASGYSSSFSSIASAPSVA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9HCJ0	UniProtKB	Natural variant	820	820	.	.	.	ID=VAR_052237;Note=P->R;Dbxref=dbSNP:rs34293811	
+Q9HCJ0	UniProtKB	Mutagenesis	1294	1300	.	.	.	Note=Abolishes association with CCR4-NOT complex. QSRLPQW->AAAAPAA	
+Q9HCJ0	UniProtKB	Mutagenesis	1388	1389	.	.	.	Note=Abolishes interaction with PABPC1%2C impairs interaction with PAN2%2C no effect on interaction with CCR4-NOT complex%2C reduces RNA deadenylation rate%3B when associated with 1395-A-A-1396. EF->AA	
+Q9HCJ0	UniProtKB	Mutagenesis	1395	1396	.	.	.	Note=Abolishes interaction with PABPC1%2C impairs interaction with PAN2%2C no effect on interaction with CCR4-NOT complex%2C reduces RNA deadenylation rate%3B when associated with 1388-A-A-1389. WK->AA	
+Q9HCJ0	UniProtKB	Mutagenesis	1445	1445	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1487%2C A-1494%2C A-1504%2C A-1515%2C A-1605 and A-1648. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1487	1487	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1445%2C A-1494%2C A-1504%2C A-1515%2C A-1605 and A-1648. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1494	1494	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1445%2C A-1487%2C A-1504%2C A-1515%2C A-1605 and A-1648. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1504	1504	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1445%2C A-1487%2C A-1494%2C A-1515%2C A-1605 and A-1648. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1515	1515	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1445%2C A-1487%2C A-1494%2C A-1504%2C A-1605 and A-1648. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1537	1537	.	.	.	Note=Strongly reduced ability to repress translation of target mRNAs. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19304925;Dbxref=PMID:19304925	
+Q9HCJ0	UniProtKB	Mutagenesis	1543	1543	.	.	.	Note=Weakly reduced ability to repress translation of target mRNAs. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19304925;Dbxref=PMID:19304925	
+Q9HCJ0	UniProtKB	Mutagenesis	1556	1556	.	.	.	Note=Strongly reduced ability to repress translation of target mRNAs. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19304925;Dbxref=PMID:19304925	
+Q9HCJ0	UniProtKB	Mutagenesis	1605	1605	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1445%2C A-1487%2C A-1494%2C A-1504%2C A-1515 and A-1648. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1647	1649	.	.	.	Note=Impairs interaction with the CCR4-NOT complex%2C no effect on interaction with PABPC1%3B when associated with 1658-A-A-1660. LWG->AAA	
+Q9HCJ0	UniProtKB	Mutagenesis	1648	1648	.	.	.	Note=Abolishes translational repression when tethered to a target mRNA%2C abolishes association with the CCR4-NOT complex%3B when associated with A-1445%2C A-1487%2C A-1494%2C A-1504%2C A-1515 and A-1605. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21984184;Dbxref=PMID:21984184	
+Q9HCJ0	UniProtKB	Mutagenesis	1658	1660	.	.	.	Note=Impairs interaction with the CCR4-NOT complex%2C no effect on interaction with PABPC1%3B when associated with 1647-A-A-1649. LWG->AAA	
+Q9HCJ0	UniProtKB	Sequence conflict	728	728	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCJ0	UniProtKB	Sequence conflict	1231	1231	.	.	.	Note=G->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCJ0	UniProtKB	Sequence conflict	1555	1555	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCJ0	UniProtKB	Helix	936	950	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DKL	
+Q9HCJ0	UniProtKB	Helix	954	963	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DKL	
+Q9HCJ0	UniProtKB	Helix	968	976	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DKL	

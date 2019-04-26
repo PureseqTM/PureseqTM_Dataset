@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q96EG1 1 525
+Q96EG1	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96EG1	UniProtKB	Chain	17	525	.	.	.	ID=PRO_0000042215;Note=Arylsulfatase G	
+Q96EG1	UniProtKB	Active site	84	84	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18283100;Dbxref=PMID:18283100	
+Q96EG1	UniProtKB	Active site	139	139	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P15289	
+Q96EG1	UniProtKB	Metal binding	44	44	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Metal binding	45	45	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Metal binding	84	84	.	.	.	Note=Calcium%3B via 3-oxoalanine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Metal binding	302	302	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Metal binding	303	303	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Binding site	137	137	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Binding site	162	162	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Binding site	251	251	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96EG1	UniProtKB	Modified residue	84	84	.	.	.	Note=3-oxoalanine (Cys);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18283100;Dbxref=PMID:18283100	
+Q96EG1	UniProtKB	Glycosylation	117	117	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96EG1	UniProtKB	Glycosylation	215	215	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96EG1	UniProtKB	Glycosylation	356	356	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96EG1	UniProtKB	Glycosylation	497	497	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96EG1	UniProtKB	Natural variant	11	11	.	.	.	ID=VAR_052511;Note=A->V;Dbxref=dbSNP:rs8074806	
+Q96EG1	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_052512;Note=T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs1558876,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_052513;Note=W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs1558878,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	326	326	.	.	.	ID=VAR_074038;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs144503106,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	385	385	.	.	.	ID=VAR_052514;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs9972951,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_074039;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs11657051,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	444	444	.	.	.	ID=VAR_074040;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs62000424,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	481	481	.	.	.	ID=VAR_074041;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs370852507,PMID:25825126	
+Q96EG1	UniProtKB	Natural variant	493	493	.	.	.	ID=VAR_074042;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825126;Dbxref=dbSNP:rs61999318,PMID:25825126	
+Q96EG1	UniProtKB	Mutagenesis	84	84	.	.	.	Note=No sulfatase activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18283100;Dbxref=PMID:18283100	
+Q96EG1	UniProtKB	Mutagenesis	501	501	.	.	.	Note=Decrease of sulfatase activity. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18283100;Dbxref=PMID:18283100	
+Q96EG1	UniProtKB	Sequence conflict	444	445	.	.	.	Note=TG->MV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96EG1	UniProtKB	Sequence conflict	501	501	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

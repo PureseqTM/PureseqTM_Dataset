@@ -1,0 +1,88 @@
+##gff-version 3
+##sequence-region Q14118 1 895
+Q14118	UniProtKB	Signal peptide	1	29	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Chain	30	653	.	.	.	ID=PRO_0000021065;Note=Alpha-dystroglycan	
+Q14118	UniProtKB	Chain	654	895	.	.	.	ID=PRO_0000021066;Note=Beta-dystroglycan	
+Q14118	UniProtKB	Topological domain	654	749	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Transmembrane	750	775	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Topological domain	776	895	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Domain	603	712	.	.	.	Note=Peptidase S72	
+Q14118	UniProtKB	Region	30	408	.	.	.	Note=Required for laminin recognition	
+Q14118	UniProtKB	Region	169	200	.	.	.	Note=O-glycosylated at one site	
+Q14118	UniProtKB	Region	316	485	.	.	.	Note=Mucin-like domain	
+Q14118	UniProtKB	Region	463	485	.	.	.	Note=O-glycosylated at seven sites with GalNAc	
+Q14118	UniProtKB	Region	819	895	.	.	.	Note=Required for interaction with CAV3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10988290;Dbxref=PMID:10988290	
+Q14118	UniProtKB	Region	880	895	.	.	.	Note=Required for binding DMD and UTRN	
+Q14118	UniProtKB	Motif	776	782	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20512930;Dbxref=PMID:20512930	
+Q14118	UniProtKB	Motif	889	892	.	.	.	Note=PPXY motif	
+Q14118	UniProtKB	Compositional bias	317	484	.	.	.	Note=Thr-rich	
+Q14118	UniProtKB	Compositional bias	809	895	.	.	.	Note=Pro-rich	
+Q14118	UniProtKB	Site	653	654	.	.	.	Note=Cleavage%3B by autolysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17905726;Dbxref=PMID:17905726	
+Q14118	UniProtKB	Site	715	716	.	.	.	Note=Cleavage%3B by MMP9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19946898;Dbxref=PMID:19946898	
+Q14118	UniProtKB	Modified residue	790	790	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q14118	UniProtKB	Modified residue	892	892	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11495720,ECO:0000269|PubMed:12795607,ECO:0000269|PubMed:20512930;Dbxref=PMID:11495720,PMID:12795607,PMID:20512930	
+Q14118	UniProtKB	Glycosylation	63	63	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23234360;Dbxref=PMID:23234360	
+Q14118	UniProtKB	Glycosylation	141	141	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Glycosylation	317	317	.	.	.	Note=O-linked (Man6P...) threonine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21987822,ECO:0000269|PubMed:24256719;Dbxref=PMID:21987822,PMID:24256719	
+Q14118	UniProtKB	Glycosylation	319	319	.	.	.	Note=O-linked (Man6P...) threonine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21987822,ECO:0000269|PubMed:24256719;Dbxref=PMID:21987822,PMID:24256719	
+Q14118	UniProtKB	Glycosylation	367	367	.	.	.	Note=O-linked (Hex...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20507882;Dbxref=PMID:20507882	
+Q14118	UniProtKB	Glycosylation	369	369	.	.	.	Note=O-linked (Hex...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20507882;Dbxref=PMID:20507882	
+Q14118	UniProtKB	Glycosylation	372	372	.	.	.	Note=O-linked (Hex...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20507882;Dbxref=PMID:20507882	
+Q14118	UniProtKB	Glycosylation	379	379	.	.	.	Note=O-linked (Man6P...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20044576;Dbxref=PMID:20044576	
+Q14118	UniProtKB	Glycosylation	381	381	.	.	.	Note=O-linked (Hex...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20044576;Dbxref=PMID:20044576	
+Q14118	UniProtKB	Glycosylation	388	388	.	.	.	Note=O-linked (Hex...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20044576;Dbxref=PMID:20044576	
+Q14118	UniProtKB	Glycosylation	455	455	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20507882;Dbxref=PMID:20507882	
+Q14118	UniProtKB	Glycosylation	641	641	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Glycosylation	649	649	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Glycosylation	661	661	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14118	UniProtKB	Disulfide bond	182	264	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5LLK,ECO:0000269|PubMed:28781947;Dbxref=PMID:28781947	
+Q14118	UniProtKB	Disulfide bond	669	713	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17212656;Dbxref=PMID:17212656	
+Q14118	UniProtKB	Natural variant	14	14	.	.	.	ID=VAR_024335;Note=S->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:8268918,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2131107,PMID:14702039,PMID:15489334,PMID:8268918	
+Q14118	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_075809;Note=In MDDGC9%3B no effect on dystroglycan expression%3B impairs alpha-dystroglycan glycosylation. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25503980;Dbxref=dbSNP:rs189360006,PMID:25503980	
+Q14118	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_075810;Note=In MDDGC9%3B does not affect dystroglycan expression%3B impairs alpha-dystroglycan glycosylation. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25503980;Dbxref=dbSNP:rs117209107,PMID:25503980	
+Q14118	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_065266;Note=In MDDGC9%3B results in impaired interaction with LARGE1 and incomplete DAG1 glycosylation. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21388311;Dbxref=dbSNP:rs193922955,PMID:21388311	
+Q14118	UniProtKB	Natural variant	669	669	.	.	.	ID=VAR_075811;Note=In MDDGA9. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24052401;Dbxref=dbSNP:rs797045023,PMID:24052401	
+Q14118	UniProtKB	Mutagenesis	317	319	.	.	.	Note=Impaired laminin-binding. TPT->APA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21987822,ECO:0000269|PubMed:24256719;Dbxref=PMID:21987822,PMID:24256719	
+Q14118	UniProtKB	Mutagenesis	328	329	.	.	.	Note=Does not affect laminin-binding. TT->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21987822;Dbxref=PMID:21987822	
+Q14118	UniProtKB	Mutagenesis	654	654	.	.	.	Note=Abolishes autoproteolysis and enhances laminin-binding. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17905726,ECO:0000269|PubMed:18764929;Dbxref=PMID:17905726,PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	663	663	.	.	.	Note=Reduced N-linked glycosylation. No change in nuclear translocation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18764929;Dbxref=PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	776	782	.	.	.	Note=Moderate reduction in nuclear accumulation. RKKRKGK->AKKRKGA	
+Q14118	UniProtKB	Mutagenesis	777	782	.	.	.	Note=About 50%25 reduction in nuclear accumulation. KKRKGK->AARKGA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20512930;Dbxref=PMID:20512930	
+Q14118	UniProtKB	Mutagenesis	777	782	.	.	.	Note=Drastic reduction in nuclear accumulation. KKRKGK->RKKAAGA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20512930;Dbxref=PMID:20512930	
+Q14118	UniProtKB	Mutagenesis	777	780	.	.	.	Note=Abolishes nuclear translocation. KKRK->NPGE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18764929;Dbxref=PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	779	779	.	.	.	Note=Significant reduction in nuclear accumulation. R->A	
+Q14118	UniProtKB	Mutagenesis	780	780	.	.	.	Note=Significant reduction in nuclear accumulation. K->A	
+Q14118	UniProtKB	Mutagenesis	793	794	.	.	.	Note=Abolishes nuclear translocation. KK->TA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18764929;Dbxref=PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	823	823	.	.	.	Note=No change in nuclear location. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18764929;Dbxref=PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	828	829	.	.	.	Note=No change in nuclear location. PP->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18764929;Dbxref=PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	831	831	.	.	.	Note=No change in nuclear location. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18764929;Dbxref=PMID:18764929	
+Q14118	UniProtKB	Mutagenesis	892	892	.	.	.	Note=Abolishes phosphorylation. No change in plasma membrane location. Y->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12795607,ECO:0000269|PubMed:20512930;Dbxref=PMID:12795607,PMID:20512930	
+Q14118	UniProtKB	Mutagenesis	892	892	.	.	.	Note=Redistributes to a vesicular internal membrane compartment. Y->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12795607,ECO:0000269|PubMed:20512930;Dbxref=PMID:12795607,PMID:20512930	
+Q14118	UniProtKB	Mutagenesis	892	892	.	.	.	Note=Abolishes phosphorylation. Increase in nuclear location. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12795607,ECO:0000269|PubMed:20512930;Dbxref=PMID:12795607,PMID:20512930	
+Q14118	UniProtKB	Sequence conflict	163	163	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14118	UniProtKB	Sequence conflict	248	248	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14118	UniProtKB	Sequence conflict	319	319	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14118	UniProtKB	Sequence conflict	871	871	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14118	UniProtKB	Beta strand	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	78	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	84	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	93	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	108	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Turn	112	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	116	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	127	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	144	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	188	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	199	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	204	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	222	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	225	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	241	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	256	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Turn	268	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	275	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Helix	285	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	
+Q14118	UniProtKB	Beta strand	294	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LLK	

@@ -1,0 +1,125 @@
+##gff-version 3
+##sequence-region O60603 1 784
+O60603	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60603	UniProtKB	Chain	21	784	.	.	.	ID=PRO_0000034710;Note=Toll-like receptor 2	
+O60603	UniProtKB	Topological domain	21	588	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60603	UniProtKB	Transmembrane	589	609	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60603	UniProtKB	Topological domain	610	784	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60603	UniProtKB	Repeat	54	77	.	.	.	Note=LRR 1	
+O60603	UniProtKB	Repeat	78	101	.	.	.	Note=LRR 2	
+O60603	UniProtKB	Repeat	102	125	.	.	.	Note=LRR 3	
+O60603	UniProtKB	Repeat	126	150	.	.	.	Note=LRR 4	
+O60603	UniProtKB	Repeat	151	175	.	.	.	Note=LRR 5	
+O60603	UniProtKB	Repeat	176	199	.	.	.	Note=LRR 6	
+O60603	UniProtKB	Repeat	200	223	.	.	.	Note=LRR 7	
+O60603	UniProtKB	Repeat	224	250	.	.	.	Note=LRR 8	
+O60603	UniProtKB	Repeat	251	278	.	.	.	Note=LRR 9	
+O60603	UniProtKB	Repeat	279	308	.	.	.	Note=LRR 10	
+O60603	UniProtKB	Repeat	309	337	.	.	.	Note=LRR 11	
+O60603	UniProtKB	Repeat	338	361	.	.	.	Note=LRR 12	
+O60603	UniProtKB	Repeat	362	388	.	.	.	Note=LRR 13	
+O60603	UniProtKB	Repeat	389	414	.	.	.	Note=LRR 14	
+O60603	UniProtKB	Repeat	415	437	.	.	.	Note=LRR 15	
+O60603	UniProtKB	Repeat	438	457	.	.	.	Note=LRR 16	
+O60603	UniProtKB	Repeat	458	478	.	.	.	Note=LRR 17	
+O60603	UniProtKB	Repeat	479	500	.	.	.	Note=LRR 18	
+O60603	UniProtKB	Repeat	501	524	.	.	.	Note=LRR 19	
+O60603	UniProtKB	Domain	525	579	.	.	.	Note=LRRCT	
+O60603	UniProtKB	Domain	639	784	.	.	.	Note=TIR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00204	
+O60603	UniProtKB	Motif	761	778	.	.	.	Note=ATG16L1-binding motif	
+O60603	UniProtKB	Site	349	349	.	.	.	Note=Interaction with bacterial lipopeptide	
+O60603	UniProtKB	Glycosylation	114	114	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15173186,ECO:0000269|PubMed:17889651;Dbxref=PMID:15173186,PMID:17889651	
+O60603	UniProtKB	Glycosylation	199	199	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15173186,ECO:0000269|PubMed:17889651;Dbxref=PMID:15173186,PMID:17889651	
+O60603	UniProtKB	Glycosylation	414	414	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17889651;Dbxref=PMID:17889651	
+O60603	UniProtKB	Glycosylation	442	442	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15173186,ECO:0000269|PubMed:17889651;Dbxref=PMID:15173186,PMID:17889651	
+O60603	UniProtKB	Disulfide bond	30	36	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17889651;Dbxref=PMID:17889651	
+O60603	UniProtKB	Disulfide bond	353	382	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17889651;Dbxref=PMID:17889651	
+O60603	UniProtKB	Disulfide bond	432	454	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17889651;Dbxref=PMID:17889651	
+O60603	UniProtKB	Cross-link	754	754	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27805901;Dbxref=PMID:27805901	
+O60603	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_066349;Note=N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618349;Dbxref=dbSNP:rs137853176,PMID:21618349	
+O60603	UniProtKB	Natural variant	411	411	.	.	.	ID=VAR_026765;Note=Reduces TLR2-mediated NF-kappa-B activation. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618349;Dbxref=dbSNP:rs5743699,PMID:21618349	
+O60603	UniProtKB	Natural variant	571	571	.	.	.	ID=VAR_066350;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618349;Dbxref=dbSNP:rs61735277,PMID:21618349	
+O60603	UniProtKB	Natural variant	579	579	.	.	.	ID=VAR_026766;Note=R->H;Dbxref=dbSNP:rs5743703	
+O60603	UniProtKB	Natural variant	631	631	.	.	.	ID=VAR_024663;Note=Reduces TLR2-mediated NF-kappa-B activation. P->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19924287,ECO:0000269|PubMed:21618349;Dbxref=dbSNP:rs5743704,PMID:19924287,PMID:21618349	
+O60603	UniProtKB	Natural variant	636	636	.	.	.	ID=VAR_066351;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618349;Dbxref=dbSNP:rs137853177,PMID:21618349	
+O60603	UniProtKB	Natural variant	677	677	.	.	.	ID=VAR_031236;Note=R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11476982,ECO:0000269|PubMed:12646604;Dbxref=dbSNP:rs121917864,PMID:11476982,PMID:12646604	
+O60603	UniProtKB	Natural variant	715	715	.	.	.	ID=VAR_052360;Note=Y->N;Dbxref=dbSNP:rs5743706	
+O60603	UniProtKB	Natural variant	753	753	.	.	.	ID=VAR_031237;Note=Reduces TLR2-mediated NF-kappa-B activation. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19924287,ECO:0000269|PubMed:21618349;Dbxref=dbSNP:rs5743708,PMID:19924287,PMID:21618349	
+O60603	UniProtKB	Mutagenesis	114	114	.	.	.	Note=Prevents addition of N-glycans. Reduces secretion of the N-terminal ectodomain. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15173186;Dbxref=PMID:15173186	
+O60603	UniProtKB	Mutagenesis	199	199	.	.	.	Note=Prevents addition of N-glycans. Reduces secretion of the N-terminal ectodomain. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15173186;Dbxref=PMID:15173186	
+O60603	UniProtKB	Mutagenesis	416	416	.	.	.	Note=Prevents addition of N-glycans. Reduces secretion of the N-terminal ectodomain. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15173186;Dbxref=PMID:15173186	
+O60603	UniProtKB	Mutagenesis	442	442	.	.	.	Note=Prevents addition of N-glycans. Prevents secretion of the N-terminal ectodomain. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15173186;Dbxref=PMID:15173186	
+O60603	UniProtKB	Mutagenesis	681	681	.	.	.	Note=Abolishes the interaction with MYD88. No effect on oligomerization or on the structure of the TIR domain. P->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081518;Dbxref=PMID:11081518	
+O60603	UniProtKB	Mutagenesis	709	709	.	.	.	Note=Reduced protein stability. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27805901;Dbxref=PMID:27805901	
+O60603	UniProtKB	Mutagenesis	714	714	.	.	.	Note=Reduced protein stability. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27805901;Dbxref=PMID:27805901	
+O60603	UniProtKB	Mutagenesis	742	743	.	.	.	Note=Reduced protein stability. KK->RR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27805901;Dbxref=PMID:27805901	
+O60603	UniProtKB	Mutagenesis	751	751	.	.	.	Note=Reduced protein stability. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27805901;Dbxref=PMID:27805901	
+O60603	UniProtKB	Mutagenesis	754	754	.	.	.	Note=Loss of PPP1R11-mediated ubiquitination and degradation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27805901;Dbxref=PMID:27805901	
+O60603	UniProtKB	Sequence conflict	59	59	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60603	UniProtKB	Sequence conflict	68	68	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60603	UniProtKB	Sequence conflict	726	726	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60603	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Turn	69	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	80	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Turn	93	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Helix	117	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	127	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	137	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	153	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Turn	167	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	175	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Turn	191	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	198	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Helix	213	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Turn	221	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	224	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	253	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	263	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	281	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z80	
+O60603	UniProtKB	Beta strand	288	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	311	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	322	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	329	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	340	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	353	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	364	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	374	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	391	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	402	408	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	409	411	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	417	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	440	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	460	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	481	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	495	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	503	505	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	518	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	527	529	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Helix	539	544	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Turn	545	547	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	548	550	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2Z7X	
+O60603	UniProtKB	Beta strand	641	646	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	649	651	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	652	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	658	663	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Beta strand	666	668	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Beta strand	672	674	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	675	678	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Beta strand	681	683	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	685	695	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Beta strand	696	703	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	705	711	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	713	716	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Turn	717	719	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O77	
+O60603	UniProtKB	Helix	720	722	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O77	
+O60603	UniProtKB	Turn	723	725	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYW	
+O60603	UniProtKB	Helix	726	728	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Beta strand	733	738	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Turn	742	744	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	750	758	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Beta strand	761	763	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	768	770	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	
+O60603	UniProtKB	Helix	771	783	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FYX	

@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q92784 1 378
+Q92784	UniProtKB	Chain	1	378	.	.	.	ID=PRO_0000168154;Note=Zinc finger protein DPF3	
+Q92784	UniProtKB	Zinc finger	198	221	.	.	.	Note=C2H2-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+Q92784	UniProtKB	Zinc finger	259	319	.	.	.	Note=PHD-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00146	
+Q92784	UniProtKB	Zinc finger	316	366	.	.	.	Note=PHD-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00146	
+Q92784	UniProtKB	Cross-link	99	99	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q92784	UniProtKB	Alternative sequence	1	11	.	.	.	ID=VSP_035882;Note=In isoform 3. MATVIHNPLKA->MFYGRINGRNFAASSLPVAFAATPLMLFLPNPQLICSFPISSRNHITGLMPPGKLKLENLFHMCTR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92784	UniProtKB	Alternative sequence	1	11	.	.	.	ID=VSP_055748;Note=In isoform 5. MATVIHNPLKA->MGFTDLEEPISGCPGGPWALG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92784	UniProtKB	Alternative sequence	177	378	.	.	.	ID=VSP_035883;Note=In isoform 4. RGSAGGRRRHDAASQEDHDKPYVCDICGKRYKNRPGLSYHYAHTHLASEEGDEAQDQETRSPPNHRNENHRPQKGPDGTVIPNNYCDFCLGGSNMNKKSGRPEELVSCADCGRSGHPTCLQFTLNMTEAVKTYKWQCIECKSCILCGTSENDDQLLFCDDCDRGYHMYCLNPPVAEPPEGSWSCHLCWELLKEKASAFGCQA->RCPLPSLHCFLPSLCRDRC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92784	UniProtKB	Alternative sequence	291	378	.	.	.	ID=VSP_035884;Note=In isoform 2%2C isoform 3 and isoform 5. GHPTCLQFTLNMTEAVKTYKWQCIECKSCILCGTSENDDQLLFCDDCDRGYHMYCLNPPVAEPPEGSWSCHLCWELLKEKASAFGCQA->AHLGGEGRKEKEAAAAARTTEDLFGSTSESDTSTFHGFDEDDLEEPRSCRGRRSGRGSPTADKKGSC;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:18765789;Dbxref=PMID:14702039,PMID:15489334,PMID:18765789	
+Q92784	UniProtKB	Natural variant	177	177	.	.	.	ID=VAR_047771;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855717,PMID:15489334	
+Q92784	UniProtKB	Mutagenesis	358	358	.	.	.	Note=Abolishes binding to acetylated histones H3 and H4. W->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18765789;Dbxref=PMID:18765789	
+Q92784	UniProtKB	Mutagenesis	360	360	.	.	.	Note=Abolishes binding to acetylated histones H3 and H4%3B when associated with R-363. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18765789;Dbxref=PMID:18765789	
+Q92784	UniProtKB	Mutagenesis	363	363	.	.	.	Note=Abolishes binding to acetylated histones H3 and H4%3B when associated with R-360. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18765789;Dbxref=PMID:18765789	
+Q92784	UniProtKB	Sequence conflict	12	12	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92784	UniProtKB	Sequence conflict	24	24	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92784	UniProtKB	Sequence conflict	32	32	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92784	UniProtKB	Sequence conflict	170	170	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92784	UniProtKB	Sequence conflict	207	207	.	.	.	Note=Y->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92784	UniProtKB	Sequence conflict	216	216	.	.	.	Note=H->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92784	UniProtKB	Beta strand	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	263	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	273	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	285	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	293	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Helix	300	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	307	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	314	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	320	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Helix	328	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Beta strand	331	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	335	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Beta strand	340	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Turn	343	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Beta strand	346	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	
+Q92784	UniProtKB	Beta strand	355	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KWO	
+Q92784	UniProtKB	Helix	361	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5SZC	

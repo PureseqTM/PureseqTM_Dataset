@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q32M88 1 737
+Q32M88	UniProtKB	Chain	1	737	.	.	.	ID=PRO_0000329004;Note=Protein-glucosylgalactosylhydroxylysine glucosidase	
+Q32M88	UniProtKB	Region	300	301	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Region	498	499	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:D6XZ22	
+Q32M88	UniProtKB	Compositional bias	696	699	.	.	.	Note=Poly-Ser	
+Q32M88	UniProtKB	Active site	430	430	.	.	.	Note=Proton donor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Alternative sequence	303	354	.	.	.	ID=VSP_032895;Note=In isoform 2. DLWMFPSILMFHPEAARAILEYRIRTLDGALENAQNLGYQGAKFAWESADSG->VSTVHPAPATQQATHGGPRSLPSLGPGLWLGKHRDCGKREEAWKVCRSLVEE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12693554;Dbxref=PMID:12693554	
+Q32M88	UniProtKB	Alternative sequence	355	737	.	.	.	ID=VSP_032896;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12693554;Dbxref=PMID:12693554	
+Q32M88	UniProtKB	Mutagenesis	301	301	.	.	.	Note=Abolishes catalytic activity. D->E%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Mutagenesis	429	429	.	.	.	Note=Abolishes catalytic activity. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Mutagenesis	429	429	.	.	.	Note=Significantly impairs catalytic activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Mutagenesis	430	430	.	.	.	Note=Abolishes catalytic activity. E->D%2CQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Mutagenesis	574	574	.	.	.	Note=Abolishes catalytic activity. E->D%2CQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682924;Dbxref=PMID:26682924	
+Q32M88	UniProtKB	Sequence conflict	487	500	.	.	.	Note=EFDGYEPGEVVKQA->KFQLRVPWEDFFRC;Ontology_term=ECO:0000305;evidence=ECO:0000305	

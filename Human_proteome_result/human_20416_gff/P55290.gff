@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region P55290 1 713
+P55290	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55290	UniProtKB	Propeptide	23	138	.	.	.	ID=PRO_0000003793	
+P55290	UniProtKB	Chain	139	693	.	.	.	ID=PRO_0000003794;Note=Cadherin-13	
+P55290	UniProtKB	Propeptide	694	713	.	.	.	ID=PRO_0000003795;Note=Removed in mature form;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Domain	139	245	.	.	.	Note=Cadherin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55290	UniProtKB	Domain	246	363	.	.	.	Note=Cadherin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55290	UniProtKB	Domain	364	477	.	.	.	Note=Cadherin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55290	UniProtKB	Domain	478	585	.	.	.	Note=Cadherin 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55290	UniProtKB	Domain	584	694	.	.	.	Note=Cadherin 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55290	UniProtKB	Lipidation	693	693	.	.	.	Note=GPI-anchor amidated glycine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55290	UniProtKB	Glycosylation	52	52	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55290	UniProtKB	Glycosylation	86	86	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P55290	UniProtKB	Glycosylation	382	382	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55290	UniProtKB	Glycosylation	500	500	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P55290	UniProtKB	Glycosylation	530	530	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P55290	UniProtKB	Glycosylation	598	598	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55290	UniProtKB	Glycosylation	638	638	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19159218;Dbxref=PMID:16335952,PMID:19159218	
+P55290	UniProtKB	Glycosylation	671	671	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55290	UniProtKB	Alternative sequence	1	14	.	.	.	ID=VSP_046714;Note=In isoform 4. MQPRTPLVLCVLLS->MKTPPGASSRTKCSRELRSFCAFSCPRAKQPTCTAWFPQQEHPSENGPQMPGRDPPAASTM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Alternative sequence	123	161	.	.	.	ID=VSP_053739;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P55290	UniProtKB	Alternative sequence	162	190	.	.	.	ID=VSP_042696;Note=In isoform 2. VVDSDRPERSKFRLTGKGVDQEPKGIFRI->RTHNPINSELLLNEGITADLNPCITILAI;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P55290	UniProtKB	Alternative sequence	162	175	.	.	.	ID=VSP_042794;Note=In isoform 3. VVDSDRPERSKFRL->MKIWQVLCLARWLT;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P55290	UniProtKB	Alternative sequence	176	713	.	.	.	ID=VSP_042795;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P55290	UniProtKB	Alternative sequence	191	713	.	.	.	ID=VSP_042697;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P55290	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_065747;Note=In a patient with amyotrophic lateral sclerosis. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs368685803,PMID:21220648	
+P55290	UniProtKB	Natural variant	103	103	.	.	.	ID=VAR_065748;Note=In a patient with amyotrophic lateral sclerosis. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs199539898,PMID:21220648	
+P55290	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_065749;Note=In a patient with amyotrophic lateral sclerosis. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs183971768,PMID:21220648	
+P55290	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_030632;Note=L->S;Dbxref=dbSNP:rs7197352	
+P55290	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_065750;Note=In a patient with amyotrophic lateral sclerosis. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs377210458,PMID:21220648	
+P55290	UniProtKB	Natural variant	367	367	.	.	.	ID=VAR_065751;Note=In a patient with amyotrophic lateral sclerosis. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs200000145,PMID:21220648	
+P55290	UniProtKB	Natural variant	376	376	.	.	.	ID=VAR_065752;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs35549391,PMID:21220648	
+P55290	UniProtKB	Natural variant	643	643	.	.	.	ID=VAR_065753;Note=L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21220648;Dbxref=dbSNP:rs34106627,PMID:21220648	
+P55290	UniProtKB	Sequence conflict	199	199	.	.	.	Note=V->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	199	199	.	.	.	Note=V->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	288	288	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	288	288	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	392	392	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	392	392	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	544	544	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Sequence conflict	544	544	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55290	UniProtKB	Beta strand	145	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	157	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	163	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	172	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Turn	179	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	182	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	187	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Turn	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	196	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Turn	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	209	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	224	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	
+P55290	UniProtKB	Beta strand	238	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V37	

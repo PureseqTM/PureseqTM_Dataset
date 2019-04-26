@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region P13716 1 330
+P13716	UniProtKB	Chain	1	330	.	.	.	ID=PRO_0000140526;Note=Delta-aminolevulinic acid dehydratase	
+P13716	UniProtKB	Active site	199	199	.	.	.	Note=Schiff-base intermediate with substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3092810;Dbxref=PMID:3092810	
+P13716	UniProtKB	Active site	252	252	.	.	.	Note=Schiff-base intermediate with substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3092810;Dbxref=PMID:3092810	
+P13716	UniProtKB	Metal binding	122	122	.	.	.	Note=Zinc 1%3B catalytic	
+P13716	UniProtKB	Metal binding	124	124	.	.	.	Note=Zinc 1%3B catalytic	
+P13716	UniProtKB	Metal binding	131	131	.	.	.	Note=Zinc 2	
+P13716	UniProtKB	Metal binding	132	132	.	.	.	Note=Zinc 1%3B catalytic	
+P13716	UniProtKB	Metal binding	223	223	.	.	.	Note=Zinc 2	
+P13716	UniProtKB	Binding site	209	209	.	.	.	Note=Substrate 1	
+P13716	UniProtKB	Binding site	221	221	.	.	.	Note=Substrate 1	
+P13716	UniProtKB	Binding site	279	279	.	.	.	Note=Substrate 2	
+P13716	UniProtKB	Binding site	318	318	.	.	.	Note=Substrate 2	
+P13716	UniProtKB	Modified residue	199	199	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10518	
+P13716	UniProtKB	Modified residue	215	215	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10518	
+P13716	UniProtKB	Modified residue	252	252	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10518	
+P13716	UniProtKB	Alternative sequence	1	38	.	.	.	ID=VSP_037866;Note=In isoform 2. MQPQSVLHSGYFHPLLRAWQTATTTLNASNLIYPIFVT->MPPTSSTPSLSRPGLGQAGKPDTGSHPPPTISTSIFLSCFPTIPLSRPRTTGPSHSYQSISHPRSCR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P13716	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_020973;Note=In an asymptomatic patient with ALAD deficiency%3B also found in a hereditary coproporphyria patient carrying the R-279 mutation in CPOX%3B hexamer with almost no residual activity. F->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10519994,ECO:0000269|PubMed:16398658,ECO:0000269|PubMed:17236137;Dbxref=dbSNP:rs121912984,PMID:10519994,PMID:16398658,PMID:17236137	
+P13716	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_003633;Note=Common polymorphism%3B allele ALAD*2%3B ALAD*2 heterozygous or homozygous carriers have significantly higher blood lead levels than ALAD*1 homozygotes when exposed to environmental lead%3B fully active octamer. K->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11032836,ECO:0000269|PubMed:1716854,ECO:0000269|PubMed:17236137,ECO:0000269|PubMed:1769358,ECO:0000269|Ref.5;Dbxref=dbSNP:rs1800435,PMID:11032836,PMID:1716854,PMID:17236137,PMID:1769358	
+P13716	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_003634;Note=In AHEPP%3B mixture of about 50%25 hexamer and 50%25 octamer%3B about 10%25 residual activity. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17236137,ECO:0000269|PubMed:2063868;Dbxref=dbSNP:rs121912980,PMID:17236137,PMID:2063868	
+P13716	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_020974;Note=In AHEPP%3B about 95%25 octamer%3B about 40%25 residual activity. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10706561,ECO:0000269|PubMed:17236137;Dbxref=PMID:10706561,PMID:17236137	
+P13716	UniProtKB	Natural variant	240	240	.	.	.	ID=VAR_003635;Note=In AHEPP%3B mixture of about 80%25 hexamer and 20%25 octamer%3B about 4%25 residual activity. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1309003,ECO:0000269|PubMed:1569184,ECO:0000269|PubMed:17236137;Dbxref=dbSNP:rs121912982,PMID:1309003,PMID:1569184,PMID:17236137	
+P13716	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_003636;Note=In AHEPP%3B mixture of about 14%25 hexamer and 86%25 octamer%3B about 20%25 enzyme residual activity. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1309003,ECO:0000269|PubMed:1569184,ECO:0000269|PubMed:17236137;Dbxref=dbSNP:rs121912983,PMID:1309003,PMID:1569184,PMID:17236137	
+P13716	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_003637;Note=In AHEPP%3B mainly octamer%3B reduced activity. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17236137,ECO:0000269|PubMed:2063868;Dbxref=dbSNP:rs121912981,PMID:17236137,PMID:2063868	
+P13716	UniProtKB	Mutagenesis	122	122	.	.	.	Note=Reduces enzyme activity about 1000000-fold%3B when associated with A-124 and A-132. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032836;Dbxref=PMID:11032836	
+P13716	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Reduces enzyme activity about 1000000-fold%3B when associated with A-122 and A-132. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032836;Dbxref=PMID:11032836	
+P13716	UniProtKB	Mutagenesis	131	131	.	.	.	Note=No effect on catalytic activity%3B when associated with A-223. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032836;Dbxref=PMID:11032836	
+P13716	UniProtKB	Mutagenesis	132	132	.	.	.	Note=Reduces enzyme activity about 1000000-fold%3B when associated with A-122 and A-124. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032836;Dbxref=PMID:11032836	
+P13716	UniProtKB	Mutagenesis	223	223	.	.	.	Note=No effect on catalytic activity%3B when associated with A-131. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032836;Dbxref=PMID:11032836	
+P13716	UniProtKB	Helix	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Beta strand	11	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Helix	14	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Turn	21	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	28	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	31	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	44	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	58	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	75	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	83	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Beta strand	88	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Helix	92	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Helix	100	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	115	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Beta strand	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Beta strand	131	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HNR	
+P13716	UniProtKB	Beta strand	137	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Helix	141	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	163	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	174	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Turn	188	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Helix	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	206	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	217	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Turn	222	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HMS	
+P13716	UniProtKB	Helix	231	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	247	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	255	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	258	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	273	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	279	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	296	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Beta strand	313	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Helix	320	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	
+P13716	UniProtKB	Turn	327	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PV8	

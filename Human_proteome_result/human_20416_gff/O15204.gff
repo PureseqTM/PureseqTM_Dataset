@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region O15204 1 470
+O15204	UniProtKB	Signal peptide	1	30	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15204	UniProtKB	Propeptide	31	205	.	.	.	ID=PRO_0000029146;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15204	UniProtKB	Chain	206	470	.	.	.	ID=PRO_0000029147;Note=ADAM DEC1	
+O15204	UniProtKB	Domain	218	412	.	.	.	Note=Peptidase M12B;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00276	
+O15204	UniProtKB	Domain	420	470	.	.	.	Note=Disintegrin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00068	
+O15204	UniProtKB	Active site	353	353	.	.	.	Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00276,ECO:0000255|PROSITE-ProRule:PRU10095	
+O15204	UniProtKB	Metal binding	352	352	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15204	UniProtKB	Metal binding	356	356	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15204	UniProtKB	Metal binding	362	362	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15204	UniProtKB	Glycosylation	61	61	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15204	UniProtKB	Glycosylation	184	184	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19139490;Dbxref=PMID:19139490	
+O15204	UniProtKB	Glycosylation	237	237	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+O15204	UniProtKB	Glycosylation	466	466	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15204	UniProtKB	Disulfide bond	328	407	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15204	UniProtKB	Disulfide bond	369	374	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15204	UniProtKB	Alternative sequence	1	79	.	.	.	ID=VSP_043124;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15204	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_024598;Note=M->T;Dbxref=dbSNP:rs7007084	
+O15204	UniProtKB	Natural variant	444	444	.	.	.	ID=VAR_021848;Note=N->S;Dbxref=dbSNP:rs3765124	

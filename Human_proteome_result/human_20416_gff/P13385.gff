@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P13385 1 188
+P13385	UniProtKB	Signal peptide	1	30	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+P13385	UniProtKB	Chain	31	150	.	.	.	ID=PRO_0000007503;Note=Teratocarcinoma-derived growth factor 1	
+P13385	UniProtKB	Propeptide	151	188	.	.	.	ID=PRO_0000395410;Note=Removed in mature form	
+P13385	UniProtKB	Domain	78	107	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P13385	UniProtKB	Lipidation	150	150	.	.	.	Note=GPI-anchor amidated aspartate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18930707;Dbxref=PMID:18930707	
+P13385	UniProtKB	Glycosylation	79	79	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P13385	UniProtKB	Disulfide bond	82	89	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P13385	UniProtKB	Disulfide bond	83	95	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P13385	UniProtKB	Disulfide bond	97	106	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P13385	UniProtKB	Disulfide bond	115	133	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:12919325;Dbxref=PMID:12919325	
+P13385	UniProtKB	Disulfide bond	128	149	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:12919325;Dbxref=PMID:12919325	
+P13385	UniProtKB	Disulfide bond	131	140	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:12919325;Dbxref=PMID:12919325	
+P13385	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_024262;Note=V->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4;Dbxref=dbSNP:rs11130097,PMID:15489334	
+P13385	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_021903;Note=Y->D;Dbxref=dbSNP:rs2293025	
+P13385	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_048975;Note=R->G;Dbxref=dbSNP:rs34501971	
+P13385	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Alters the localization and decreases the biological activity. Y->YVVVVV;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18930707;Dbxref=PMID:18930707	

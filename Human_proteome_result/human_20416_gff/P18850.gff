@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region P18850 1 670
+P18850	UniProtKB	Chain	1	670	.	.	.	ID=PRO_0000076589;Note=Cyclic AMP-dependent transcription factor ATF-6 alpha	
+P18850	UniProtKB	Topological domain	1	377	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18850	UniProtKB	Transmembrane	378	398	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18850	UniProtKB	Topological domain	399	670	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18850	UniProtKB	Domain	306	369	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18850	UniProtKB	Region	1	150	.	.	.	Note=Transcription activation	
+P18850	UniProtKB	Region	308	339	.	.	.	Note=Basic motif	
+P18850	UniProtKB	Region	348	355	.	.	.	Note=Leucine-zipper	
+P18850	UniProtKB	Region	468	589	.	.	.	Note=Interaction with THBS4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22682248;Dbxref=PMID:22682248	
+P18850	UniProtKB	Compositional bias	124	127	.	.	.	Note=Poly-Ser	
+P18850	UniProtKB	Compositional bias	325	328	.	.	.	Note=Poly-Lys	
+P18850	UniProtKB	Compositional bias	463	466	.	.	.	Note=Poly-Pro	
+P18850	UniProtKB	Site	419	420	.	.	.	Note=Cleavage%3B by PS1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18850	UniProtKB	Glycosylation	472	472	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14699159;Dbxref=PMID:14699159	
+P18850	UniProtKB	Glycosylation	584	584	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14699159;Dbxref=PMID:14699159	
+P18850	UniProtKB	Glycosylation	643	643	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14699159;Dbxref=PMID:14699159	
+P18850	UniProtKB	Cross-link	87	87	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P18850	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_022455;Note=M->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9271374;Dbxref=dbSNP:rs1058405,PMID:9271374	
+P18850	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_022456;Note=M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1058405,PMID:15489334	
+P18850	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_022457;Note=A->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9271374,ECO:0000269|PubMed:9837962;Dbxref=dbSNP:rs2070150,PMID:9271374,PMID:9837962	
+P18850	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_022458;Note=P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9271374,ECO:0000269|PubMed:9837962;Dbxref=dbSNP:rs1135983,PMID:9271374,PMID:9837962	
+P18850	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_075681;Note=In ACHM7%3B reduced ATF6-mediated unfolded protein response. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26029869;Dbxref=dbSNP:rs761357250,PMID:26029869	
+P18850	UniProtKB	Natural variant	567	567	.	.	.	ID=VAR_075682;Note=In ACHM7. Y->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26029869;Dbxref=dbSNP:rs796065053,PMID:26029869	
+P18850	UniProtKB	Mutagenesis	391	391	.	.	.	Note=Loss of proteolytic cleavage%3B when associated with L-394. N->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11163209;Dbxref=PMID:11163209	
+P18850	UniProtKB	Mutagenesis	394	394	.	.	.	Note=Loss of proteolytic cleavage%3B when associated with F-391. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11163209;Dbxref=PMID:11163209	
+P18850	UniProtKB	Mutagenesis	415	416	.	.	.	Note=Reduces proteolytic cleavage. RR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11163209;Dbxref=PMID:11163209	
+P18850	UniProtKB	Mutagenesis	419	419	.	.	.	Note=Reduces proteolytic cleavage. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11163209;Dbxref=PMID:11163209	
+P18850	UniProtKB	Mutagenesis	474	474	.	.	.	Note=Loss of glycosylation at Asn-472 and increase of Golgi translocation rate. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14699159;Dbxref=PMID:14699159	
+P18850	UniProtKB	Mutagenesis	586	586	.	.	.	Note=Loss of glycosylation at Asn-584 and increase of Golgi translocation rate. Higher increase in Golgi translocation rate%3B when associated with Ile-645. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14699159;Dbxref=PMID:14699159	
+P18850	UniProtKB	Mutagenesis	645	645	.	.	.	Note=Loss of glycosylation at Asn-643 and increase of Golgi translocation rate. Higher increase in Golgi translocation rate%3B when associated with Ile-586. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14699159;Dbxref=PMID:14699159	
+P18850	UniProtKB	Sequence conflict	195	195	.	.	.	Note=N->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	195	195	.	.	.	Note=N->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	198	201	.	.	.	Note=VPAK->IPPQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	198	201	.	.	.	Note=VPAK->IPPQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	307	307	.	.	.	Note=L->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	354	354	.	.	.	Note=T->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	366	369	.	.	.	Note=NQRL->LRNS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	410	410	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18850	UniProtKB	Sequence conflict	513	514	.	.	.	Note=AL->VV;Ontology_term=ECO:0000305;evidence=ECO:0000305	

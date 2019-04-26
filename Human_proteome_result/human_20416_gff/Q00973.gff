@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region Q00973 1 533
+Q00973	UniProtKB	Chain	1	533	.	.	.	ID=PRO_0000059100;Note=Beta-1%2C4 N-acetylgalactosaminyltransferase 1	
+Q00973	UniProtKB	Topological domain	1	7	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q00973	UniProtKB	Transmembrane	8	25	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q00973	UniProtKB	Topological domain	26	533	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q00973	UniProtKB	Glycosylation	79	79	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q00973	UniProtKB	Glycosylation	179	179	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q00973	UniProtKB	Glycosylation	274	274	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q00973	UniProtKB	Disulfide bond	80	80	.	.	.	Note=Interchain (with C-412);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018043;Dbxref=PMID:11018043	
+Q00973	UniProtKB	Disulfide bond	82	82	.	.	.	Note=Interchain (with C-529);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018043;Dbxref=PMID:11018043	
+Q00973	UniProtKB	Disulfide bond	412	412	.	.	.	Note=Interchain (with C-80);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018043;Dbxref=PMID:11018043	
+Q00973	UniProtKB	Disulfide bond	429	476	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018043;Dbxref=PMID:11018043	
+Q00973	UniProtKB	Disulfide bond	529	529	.	.	.	Note=Interchain (with C-82);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11018043;Dbxref=PMID:11018043	
+Q00973	UniProtKB	Alternative sequence	74	128	.	.	.	ID=VSP_055039;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q00973	UniProtKB	Alternative sequence	238	328	.	.	.	ID=VSP_055040;Note=In isoform 3. VRFSTEGHEAAFTIRIRHPPNPRLYPPGSLPQGAQYNISALVTIATKTFLRYDRLRALITSIRRFYPTVTVVIADDSDKPERVSGPYVEHY->GARPGWRDGQAGQTEKNQKGWSGQMAEGMGGIWAMARAVQPHNGCFNWTSRARGRKGAFVHLGLEQARGKPEPWVCLPFRPTVGGPRKRLV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q00973	UniProtKB	Alternative sequence	329	533	.	.	.	ID=VSP_055041;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q00973	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_012052;Note=L->V;Dbxref=dbSNP:rs774896	
+Q00973	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_012053;Note=G->R;Dbxref=dbSNP:rs810205	
+Q00973	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_070235;Note=In SPG26. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23746551;Dbxref=dbSNP:rs756710480,PMID:23746551	
+Q00973	UniProtKB	Natural variant	433	433	.	.	.	ID=VAR_070236;Note=In SPG26. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23746551;Dbxref=dbSNP:rs879255242,PMID:23746551	
+Q00973	UniProtKB	Natural variant	516	516	.	.	.	ID=VAR_049237;Note=A->V;Dbxref=dbSNP:rs17454674	

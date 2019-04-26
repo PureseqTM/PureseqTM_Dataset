@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region O60507 1 370
+O60507	UniProtKB	Chain	1	370	.	.	.	ID=PRO_0000189826;Note=Protein-tyrosine sulfotransferase 1	
+O60507	UniProtKB	Topological domain	1	8	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60507	UniProtKB	Transmembrane	9	25	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60507	UniProtKB	Topological domain	26	370	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60507	UniProtKB	Region	79	83	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000244|PDB:5WRJ,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Region	102	106	.	.	.	Note=Interaction with peptide substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Region	286	295	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000244|PDB:5WRJ,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Active site	100	100	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60704	
+O60507	UniProtKB	Binding site	184	184	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000244|PDB:5WRJ,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Binding site	192	192	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000244|PDB:5WRJ,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Binding site	196	196	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Binding site	239	239	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000244|PDB:5WRJ,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Binding site	301	301	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5WRI,ECO:0000244|PDB:5WRJ,ECO:0000305|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Site	159	159	.	.	.	Note=Transition state stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60704	
+O60507	UniProtKB	Site	286	286	.	.	.	Note=Transition state stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60704	
+O60507	UniProtKB	Glycosylation	60	60	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16859706;Dbxref=PMID:16859706	
+O60507	UniProtKB	Glycosylation	262	262	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16859706;Dbxref=PMID:16859706	
+O60507	UniProtKB	Disulfide bond	97	157	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Disulfide bond	226	234	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28821720;Dbxref=PMID:28821720	
+O60507	UniProtKB	Mutagenesis	60	60	.	.	.	Note=Loss of one glycosylation site. Loss of N-glycosylation%3B when associated with A-262. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16859706;Dbxref=PMID:16859706	
+O60507	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Loss of one glycosylation site. Loss of N-glycosylation%3B when associated with A-60. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16859706;Dbxref=PMID:16859706	
+O60507	UniProtKB	Beta strand	71	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Beta strand	77	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	82	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	103	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	118	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	131	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Beta strand	154	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	161	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	167	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Beta strand	177	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	186	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	208	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Turn	231	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Beta strand	234	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	239	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	246	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	263	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	287	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Turn	301	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	308	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	314	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Helix	320	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRI	
+O60507	UniProtKB	Beta strand	330	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WRJ	

@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q86WG3 1 371
+Q86WG3	UniProtKB	Chain	1	371	.	.	.	ID=PRO_0000210767;Note=Caytaxin	
+Q86WG3	UniProtKB	Domain	171	328	.	.	.	Note=CRAL-TRIO;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00056	
+Q86WG3	UniProtKB	Region	115	120	.	.	.	Note=Required for interaction with KLC1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q86WG3	UniProtKB	Region	190	371	.	.	.	Note=Mediates interaction with GLS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16899818;Dbxref=PMID:16899818	
+Q86WG3	UniProtKB	Site	105	106	.	.	.	Note=Cleavage%3B by CASP3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21369758;Dbxref=PMID:21369758	
+Q86WG3	UniProtKB	Alternative sequence	370	371	.	.	.	ID=VSP_008748;Note=In isoform 2. MS->LQPLHRSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86WG3	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_017164;Note=In ATCAY. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14556008;Dbxref=PMID:14556008	
+Q86WG3	UniProtKB	Mutagenesis	105	105	.	.	.	Note=Alters cleavage by CASP3. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21369758;Dbxref=PMID:21369758	
+Q86WG3	UniProtKB	Mutagenesis	115	117	.	.	.	Note=Reduced interaction with KLC1. ELE->AAA	
+Q86WG3	UniProtKB	Mutagenesis	118	120	.	.	.	Note=Completely abolishes interaction with KLC1. WED->AAA	
+Q86WG3	UniProtKB	Sequence conflict	9	9	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	

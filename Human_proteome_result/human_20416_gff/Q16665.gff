@@ -1,0 +1,91 @@
+##gff-version 3
+##sequence-region Q16665 1 826
+Q16665	UniProtKB	Chain	1	826	.	.	.	ID=PRO_0000127220;Note=Hypoxia-inducible factor 1-alpha	
+Q16665	UniProtKB	Domain	17	70	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+Q16665	UniProtKB	Domain	85	158	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q16665	UniProtKB	Domain	228	298	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q16665	UniProtKB	Domain	302	345	.	.	.	Note=PAC	
+Q16665	UniProtKB	Region	1	401	.	.	.	Note=Interaction with TSGA10;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q16665	UniProtKB	Region	21	30	.	.	.	Note=DNA-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61221	
+Q16665	UniProtKB	Region	170	191	.	.	.	Note=Required for heterodimer formation with ARNT;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61221	
+Q16665	UniProtKB	Region	380	417	.	.	.	Note=N-terminal VHL recognition site	
+Q16665	UniProtKB	Region	401	603	.	.	.	Note=ODD	
+Q16665	UniProtKB	Region	531	575	.	.	.	Note=NTAD	
+Q16665	UniProtKB	Region	556	572	.	.	.	Note=C-terminal VHL recognition site	
+Q16665	UniProtKB	Region	576	785	.	.	.	Note=ID	
+Q16665	UniProtKB	Region	786	826	.	.	.	Note=CTAD	
+Q16665	UniProtKB	Motif	718	721	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16665	UniProtKB	Compositional bias	615	621	.	.	.	Note=Poly-Thr	
+Q16665	UniProtKB	Modified residue	247	247	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20699359;Dbxref=PMID:20699359	
+Q16665	UniProtKB	Modified residue	402	402	.	.	.	Note=4-hydroxyproline;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11566883;Dbxref=PMID:11566883	
+Q16665	UniProtKB	Modified residue	532	532	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24681946;Dbxref=PMID:24681946	
+Q16665	UniProtKB	Modified residue	551	551	.	.	.	Note=Phosphoserine%3B by GSK3-beta;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Modified residue	555	555	.	.	.	Note=Phosphothreonine%3B by GSK3-beta;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Modified residue	564	564	.	.	.	Note=4-hydroxyproline;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11292861,ECO:0000269|PubMed:11566883,ECO:0000269|PubMed:12351678,ECO:0000269|PubMed:25974097;Dbxref=PMID:11292861,PMID:11566883,PMID:12351678,PMID:25974097	
+Q16665	UniProtKB	Modified residue	576	576	.	.	.	Note=Phosphoserine%3B by PLK3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Modified residue	589	589	.	.	.	Note=Phosphoserine%3B by GSK3-beta;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Modified residue	657	657	.	.	.	Note=Phosphoserine%3B by PLK3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Modified residue	709	709	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24681946;Dbxref=PMID:24681946	
+Q16665	UniProtKB	Modified residue	800	800	.	.	.	Note=S-nitrosocysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12914934;Dbxref=PMID:12914934	
+Q16665	UniProtKB	Modified residue	803	803	.	.	.	Note=(3S)-3-hydroxyasparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12080085;Dbxref=PMID:12080085	
+Q16665	UniProtKB	Cross-link	391	391	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:17610843;Dbxref=PMID:15465032,PMID:17610843	
+Q16665	UniProtKB	Cross-link	477	477	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:17610843;Dbxref=PMID:15465032,PMID:17610843	
+Q16665	UniProtKB	Cross-link	532	532	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:16862177;Dbxref=PMID:16862177	
+Q16665	UniProtKB	Cross-link	538	538	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:16862177;Dbxref=PMID:16862177	
+Q16665	UniProtKB	Cross-link	547	547	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:16862177;Dbxref=PMID:16862177	
+Q16665	UniProtKB	Alternative sequence	1	12	.	.	.	ID=VSP_044942;Note=In isoform 3. MEGAGGANDKKK->MSSQCRSLENKFVFLKEGLGNSKPEELEEIRIENGR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18638657;Dbxref=PMID:18638657	
+Q16665	UniProtKB	Alternative sequence	735	735	.	.	.	ID=VSP_047335;Note=In isoform 2. G->I;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+Q16665	UniProtKB	Alternative sequence	736	826	.	.	.	ID=VSP_007738;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+Q16665	UniProtKB	Natural variant	582	582	.	.	.	ID=VAR_049541;Note=P->S;Dbxref=dbSNP:rs11549465	
+Q16665	UniProtKB	Natural variant	588	588	.	.	.	ID=VAR_049542;Note=A->T;Dbxref=dbSNP:rs11549467	
+Q16665	UniProtKB	Natural variant	796	796	.	.	.	ID=VAR_015854;Note=T->A;Dbxref=dbSNP:rs1802821	
+Q16665	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Constitutive kinase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20699359;Dbxref=PMID:20699359	
+Q16665	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Impaired kinase activity. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20699359;Dbxref=PMID:20699359	
+Q16665	UniProtKB	Mutagenesis	377	377	.	.	.	Note=No change in HIF1A protein turnover rate but increased transcriptional activity%3B when associated with R-391%3B R-477 and R-532. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17610843;Dbxref=PMID:17610843	
+Q16665	UniProtKB	Mutagenesis	389	389	.	.	.	Note=No change in sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15465032;Dbxref=PMID:15465032	
+Q16665	UniProtKB	Mutagenesis	391	391	.	.	.	Note=Abolishes 1 sumoylation. Abolishes 1 sumoylation%3B when associated with R-532. Abolishes 2 sumoylations%3B when associated with R-477. No change in HIF1A protein turnover rate but increased transcriptional activity%3B when associated with R-377%3B R-477 and R-532. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:17610843;Dbxref=PMID:15465032,PMID:17610843	
+Q16665	UniProtKB	Mutagenesis	392	392	.	.	.	Note=No change in sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15465032;Dbxref=PMID:15465032	
+Q16665	UniProtKB	Mutagenesis	394	394	.	.	.	Note=No change in VHLE3-dependent ubiquitination. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11566883;Dbxref=PMID:11566883	
+Q16665	UniProtKB	Mutagenesis	397	397	.	.	.	Note=Abolishes VHLE3-dependent ubiquitination%3B when associated with A-400. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11566883;Dbxref=PMID:11566883	
+Q16665	UniProtKB	Mutagenesis	400	400	.	.	.	Note=Abolishes VHLE3-dependent ubiquitination%3B when associated with A-397. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11566883;Dbxref=PMID:11566883	
+Q16665	UniProtKB	Mutagenesis	402	402	.	.	.	Note=Abolishes in VHLE3-dependent ubiquitination%2C abolishes oxygen-dependent regulation of VP16%2C partially reduced VHLE target site ubiquitination and no interaction with VHL. No VHLE target site ubiquitination%3B when associated with G-564. Increases HIF1A instability and reduces HIF1A-induced target gene transcriptional activation%3B when associated with A-564. P->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11566883,ECO:0000269|PubMed:16862177,ECO:0000269|PubMed:24681946;Dbxref=PMID:11566883,PMID:16862177,PMID:24681946	
+Q16665	UniProtKB	Mutagenesis	442	442	.	.	.	Note=No change in sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15465032;Dbxref=PMID:15465032	
+Q16665	UniProtKB	Mutagenesis	460	460	.	.	.	Note=No change in sumoylation nor in ARD1-mediated acetylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15465032;Dbxref=PMID:15465032	
+Q16665	UniProtKB	Mutagenesis	477	477	.	.	.	Note=Abolishes 1 sumoylation. Abolishes 2 sumoylations%3B when associated with R-391. No change in HIF1A protein turnover rate but increased transcriptional activity%3B when associated with R-377%3B R-391 and R-532. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:17610843;Dbxref=PMID:15465032,PMID:17610843	
+Q16665	UniProtKB	Mutagenesis	532	532	.	.	.	Note=Reduced ubiquitination. No change in sumoylation nor on interaction with ARD1A. No change in HIF1A protein turnover rate but increased transcriptional activity%3B when associated with R-377%3B R-391 and R-477. Complete loss of ubiquitination%2C but no change in VHL binding%3B when associated with K-538 and K-547. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10944113,ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:16288748,ECO:0000269|PubMed:16862177,ECO:0000269|PubMed:17610843;Dbxref=PMID:10944113,PMID:15465032,PMID:16288748,PMID:16862177,PMID:17610843	
+Q16665	UniProtKB	Mutagenesis	538	538	.	.	.	Note=No change in sumoylation%2C but reduced ubiquitination. Complete loss of ubiquitination%2C but no change in VHL binding%3B when associated with K-532 and K-547. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10944113,ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:16862177;Dbxref=PMID:10944113,PMID:15465032,PMID:16862177	
+Q16665	UniProtKB	Mutagenesis	547	547	.	.	.	Note=No change in sumoylation%2C but reduced ubiquitination. Complete loss of ubiquitination%2C but no change in VHL binding%3B when associated with K-532 and K-538. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10944113,ECO:0000269|PubMed:15465032,ECO:0000269|PubMed:16862177;Dbxref=PMID:10944113,PMID:15465032,PMID:16862177	
+Q16665	UniProtKB	Mutagenesis	551	551	.	.	.	Note=Constitutive expression under nonhypoxic conditions by decreasing ubiquitination. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10758161;Dbxref=PMID:10758161	
+Q16665	UniProtKB	Mutagenesis	552	552	.	.	.	Note=Constitutive expression under nonhypoxic conditions by decreasing ubiquitination. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10758161;Dbxref=PMID:10758161	
+Q16665	UniProtKB	Mutagenesis	564	564	.	.	.	Note=Increases HIF1A instability and reduces HIF1A-induced target gene transcriptional activation%3B when associated with A-402. P->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11566883,ECO:0000269|PubMed:16862177,ECO:0000269|PubMed:24681946;Dbxref=PMID:11566883,PMID:16862177,PMID:24681946	
+Q16665	UniProtKB	Mutagenesis	564	564	.	.	.	Note=No change in VHL-dependent ubiquitination. Partially reduced VHLE target site ubiquitination. No VHLE target site ubiquitination%3B when associated with A-402. P->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11566883,ECO:0000269|PubMed:16862177,ECO:0000269|PubMed:24681946;Dbxref=PMID:11566883,PMID:16862177,PMID:24681946	
+Q16665	UniProtKB	Mutagenesis	576	576	.	.	.	Note=Induces stabilization of the protein. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Mutagenesis	657	657	.	.	.	Note=Induces stabilization of the protein. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20889502;Dbxref=PMID:20889502	
+Q16665	UniProtKB	Mutagenesis	709	709	.	.	.	Note=Abolishes SIRT2-mediated deacetylation%2C increases HIF1A instability and reduces HIF1A-induced target gene transcriptional activation. Increases interaction with EGLN1. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24681946;Dbxref=PMID:24681946	
+Q16665	UniProtKB	Mutagenesis	719	719	.	.	.	Note=Dramatic reduction of accumulation in the nucleus in response to hypoxia. K->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10944113,ECO:0000269|PubMed:9822602;Dbxref=PMID:10944113,PMID:9822602	
+Q16665	UniProtKB	Mutagenesis	795	795	.	.	.	Note=Inhibits interaction with EP300 and transactivation activity. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12778114;Dbxref=PMID:12778114	
+Q16665	UniProtKB	Mutagenesis	800	800	.	.	.	Note=Blocks increase in transcriptional activation caused by nitrosylation. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10202154,ECO:0000269|PubMed:12914934;Dbxref=PMID:10202154,PMID:12914934	
+Q16665	UniProtKB	Mutagenesis	800	800	.	.	.	Note=Abolishes hypoxia-inducible transcriptional activation of ctaD. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10202154,ECO:0000269|PubMed:12914934;Dbxref=PMID:10202154,PMID:12914934	
+Q16665	UniProtKB	Mutagenesis	803	803	.	.	.	Note=Recruits CREBBP. No enhancement of CREBBP by Clioquinol in the presence of FIH1. No change in nuclear location nor on repression of transcriptional activity in the presence of histone deacetylase inhibitor. N->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16543236,ECO:0000269|PubMed:16973622;Dbxref=PMID:16543236,PMID:16973622	
+Q16665	UniProtKB	Sequence conflict	572	572	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16665	UniProtKB	Beta strand	241	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Beta strand	251	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Helix	258	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Helix	267	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Helix	275	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Turn	281	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Helix	284	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Beta strand	298	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Beta strand	305	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Beta strand	310	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Turn	327	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Beta strand	332	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H6J	
+Q16665	UniProtKB	Helix	397	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L9V	
+Q16665	UniProtKB	Beta strand	408	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LA9	
+Q16665	UniProtKB	Helix	559	562	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L9B	
+Q16665	UniProtKB	Turn	779	783	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L8C	
+Q16665	UniProtKB	Helix	784	787	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L8C	
+Q16665	UniProtKB	Beta strand	789	792	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L8C	
+Q16665	UniProtKB	Helix	797	803	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L3E	
+Q16665	UniProtKB	Beta strand	807	809	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L8C	
+Q16665	UniProtKB	Helix	815	822	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1H2K	

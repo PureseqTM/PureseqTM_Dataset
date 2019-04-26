@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region P13995 1 350
+P13995	UniProtKB	Transit peptide	1	35	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+P13995	UniProtKB	Chain	36	350	.	.	.	ID=PRO_0000034049;Note=Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase%2C mitochondrial	
+P13995	UniProtKB	Nucleotide binding	200	202	.	.	.	Note=NAD;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16100107,ECO:0000269|PubMed:27899380;Dbxref=PMID:16100107,PMID:27899380	
+P13995	UniProtKB	Region	84	88	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27899380;Dbxref=PMID:27899380	
+P13995	UniProtKB	Region	131	133	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27899380;Dbxref=PMID:27899380	
+P13995	UniProtKB	Region	309	313	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27899380;Dbxref=PMID:27899380	
+P13995	UniProtKB	Binding site	233	233	.	.	.	Note=NAD;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16100107,ECO:0000269|PubMed:27899380;Dbxref=PMID:16100107,PMID:27899380	
+P13995	UniProtKB	Modified residue	50	50	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P13995	UniProtKB	Cross-link	50	50	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P13995	UniProtKB	Alternative sequence	1	102	.	.	.	ID=VSP_056188;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P13995	UniProtKB	Mutagenesis	168	168	.	.	.	Note=Significant loss of NAD and NADP-dependent dehydrogenase specific activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	168	168	.	.	.	Note=Complete loss of NAD and NADP-dependent dehydrogenase specific activity. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	168	168	.	.	.	Note=80%25 decrease in NAD-dependent dehydrogenase specific activity. 18%25 decrease in NADP-dependent dehydrogenase specific activity. Reduced affinity for magnesium. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	168	168	.	.	.	Note=82%25 decrease in NAD-dependent dehydrogenase specific activity. 65%25 decrease in NADP-dependent dehydrogenase specific activity. Reduced affinity for magnesium. D->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	201	201	.	.	.	Note=Complete loss of NAD and NADP-dependent dehydrogenase specific activity. R->A%2CS%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	225	225	.	.	.	Note=Complete loss of NAD and NADP-dependent dehydrogenase specific activity. D->A%2CS%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	225	225	.	.	.	Note=84%25 decrease in NAD-dependent dehydrogenase specific activity. 36%25 increase in NADP-dependent dehydrogenase specific activity. Reduced affinity for magnesium. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	233	233	.	.	.	Note=Significant loss of NAD and NADP-dependent dehydrogenase specific activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	233	233	.	.	.	Note=50%25 decrease in NAD and NADP-dependent dehydrogenase specific activity. Reduced affinity for magnesium. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Mutagenesis	233	233	.	.	.	Note=Almost complete loss of NAD-dependent dehydrogenase specific activity. 50%25 decrease in NADP-dependent dehydrogenase specific activity. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100107;Dbxref=PMID:16100107	
+P13995	UniProtKB	Sequence conflict	75	75	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13995	UniProtKB	Sequence conflict	95	95	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13995	UniProtKB	Helix	42	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	69	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	79	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	98	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	110	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	128	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	141	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	150	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	159	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	175	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	195	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Turn	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	206	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	219	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	227	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	237	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	248	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	262	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	270	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	288	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	295	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Turn	299	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	303	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Beta strand	308	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	
+P13995	UniProtKB	Helix	312	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TC4	

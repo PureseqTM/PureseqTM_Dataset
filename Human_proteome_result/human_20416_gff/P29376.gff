@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P29376 1 864
+P29376	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Chain	17	864	.	.	.	ID=PRO_0000016738;Note=Leukocyte tyrosine kinase receptor	
+P29376	UniProtKB	Topological domain	17	424	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Transmembrane	425	449	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Topological domain	450	864	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Domain	510	786	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P29376	UniProtKB	Nucleotide binding	516	524	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P29376	UniProtKB	Active site	643	643	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+P29376	UniProtKB	Binding site	544	544	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P29376	UniProtKB	Modified residue	676	676	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P29376	UniProtKB	Glycosylation	257	257	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Glycosylation	380	380	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Glycosylation	412	412	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P29376	UniProtKB	Alternative sequence	170	170	.	.	.	ID=VSP_002946;Note=In isoform Lambda P1. G->VAAASGDGAAPAPGARAAWGPGERAFLGAGSPAQRGEAPGPRRFPPPLPAG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Alternative sequence	171	864	.	.	.	ID=VSP_002947;Note=In isoform Lambda P1. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Alternative sequence	274	334	.	.	.	ID=VSP_035109;Note=In isoform 2 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:1655406;Dbxref=PMID:14702039,PMID:1655406	
+P29376	UniProtKB	Alternative sequence	448	448	.	.	.	ID=VSP_002948;Note=In isoform Lambda P3. L->GTKRLAGTVDSRLLLSSELGWVSAAGSRRQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Alternative sequence	449	864	.	.	.	ID=VSP_002949;Note=In isoform Lambda P3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Alternative sequence	449	544	.	.	.	ID=VSP_044521;Note=In isoform 5. VKQKKWQGLQEMRLPSPELELSKLRTSAIRTAPNPYYCQVGLGPAQSWPLPPGVTEVSPANVTLLRALGHGAFGEVYEGLVIGLPGDSSPLQVAIK->GGAWPGPVLASATRCHRGFPSQCYSAQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P29376	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_031569;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:7685902;Dbxref=dbSNP:rs2305030,PMID:17344846,PMID:7685902	
+P29376	UniProtKB	Natural variant	384	384	.	.	.	ID=VAR_046106;Note=C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55683312,PMID:17344846	
+P29376	UniProtKB	Natural variant	535	535	.	.	.	ID=VAR_046107;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35932273,PMID:17344846	
+P29376	UniProtKB	Natural variant	569	569	.	.	.	ID=VAR_046108;Note=R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs148513655,PMID:17344846	
+P29376	UniProtKB	Natural variant	673	673	.	.	.	ID=VAR_046109;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55876255,PMID:17344846	
+P29376	UniProtKB	Natural variant	745	745	.	.	.	ID=VAR_046110;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55900837,PMID:17344846	
+P29376	UniProtKB	Natural variant	763	763	.	.	.	ID=VAR_065465;Note=May possibly contribute to susceptibility to systemic lupus erythematosus%3B increases autophosphorylation and interaction with PI3-kinase subunit p85. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14695357;Dbxref=dbSNP:rs76282169,PMID:14695357	
+P29376	UniProtKB	Natural variant	838	838	.	.	.	ID=VAR_046111;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56367146,PMID:17344846	
+P29376	UniProtKB	Mutagenesis	544	544	.	.	.	Note=Loss of interaction with PLCG1%2C PI3-kinase subunit p85%2C Ras GTPase-activating protein and RAF1. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8084603;Dbxref=PMID:8084603	
+P29376	UniProtKB	Mutagenesis	750	750	.	.	.	Note=Increases autophosphorylation and interaction with PI3-kinase subunit p85 (demonstrated with chimeric EGFR-LTK). G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14695357;Dbxref=PMID:14695357	
+P29376	UniProtKB	Mutagenesis	753	753	.	.	.	Note=Abolishes interaction with PI3-kinase subunit p85%2C impairs PI3 kinase activity and leads to apoptosis (demonstrated with chimeric EGFR-LTK). Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9223670;Dbxref=PMID:9223670	
+P29376	UniProtKB	Mutagenesis	862	862	.	.	.	Note=Impairs phosphorylation of CBLC (demonstrated with chimeric EGFR-LTK). Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9223670;Dbxref=PMID:9223670	
+P29376	UniProtKB	Sequence conflict	106	106	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Sequence conflict	220	220	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Sequence conflict	449	449	.	.	.	Note=V->GTKRLAGTVDSRLLLSM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P29376	UniProtKB	Sequence conflict	652	654	.	.	.	Note=SCA->MR;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region O43567 1 381
+O43567	UniProtKB	Signal peptide	1	34	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43567	UniProtKB	Chain	35	381	.	.	.	ID=PRO_0000056054;Note=E3 ubiquitin-protein ligase RNF13	
+O43567	UniProtKB	Topological domain	35	182	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43567	UniProtKB	Transmembrane	183	203	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43567	UniProtKB	Topological domain	204	381	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43567	UniProtKB	Domain	65	160	.	.	.	Note=PA	
+O43567	UniProtKB	Zinc finger	240	282	.	.	.	Note=RING-type%3B atypical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+O43567	UniProtKB	Glycosylation	88	88	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794910;Dbxref=PMID:18794910	
+O43567	UniProtKB	Alternative sequence	1	18	.	.	.	ID=VSP_055430;Note=In isoform 2. MLLSIGMLMLSATQVYTI->MLILMTSLAWDPTTVSTV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43567	UniProtKB	Alternative sequence	19	137	.	.	.	ID=VSP_055431;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43567	UniProtKB	Mutagenesis	43	43	.	.	.	Note=No effect on glycosylation. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794910;Dbxref=PMID:18794910	
+O43567	UniProtKB	Mutagenesis	88	88	.	.	.	Note=Loss of glycosylation. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794910;Dbxref=PMID:18794910	
+O43567	UniProtKB	Mutagenesis	258	258	.	.	.	Note=Complete loss of E3 ligase activity%3B when associated with A-260. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794910;Dbxref=PMID:18794910	
+O43567	UniProtKB	Mutagenesis	260	260	.	.	.	Note=Complete loss of E3 ligase activity%3B when associated with A-258. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794910;Dbxref=PMID:18794910	
+O43567	UniProtKB	Mutagenesis	270	270	.	.	.	Note=Drastically reduces E3 ligase activity. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794910;Dbxref=PMID:18794910	

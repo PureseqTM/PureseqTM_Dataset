@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q6NTE8 1 343
+Q6NTE8	UniProtKB	Chain	1	343	.	.	.	ID=PRO_0000326119;Note=MRN complex-interacting protein	
+Q6NTE8	UniProtKB	Region	213	237	.	.	.	Note=Necessary for the association with the MRN complex;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Motif	148	151	.	.	.	Note=Nuclear localization signal (NLS);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Modified residue	100	100	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Modified residue	115	115	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Alternative sequence	1	42	.	.	.	ID=VSP_032560;Note=In isoform 2. MASLQRSRVLRCCSCRLFQAHQVKKSVKWTCKACGEKQSFLQ->MQSARAWLPGDCTSRDGVASAFSGATLLQLPPLPGAPGKKECQVDMQSLWREAVLFAEFPRHGAPASELPVPSGSEMDGAESGK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q6NTE8	UniProtKB	Alternative sequence	43	97	.	.	.	ID=VSP_047227;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6NTE8	UniProtKB	Alternative sequence	222	229	.	.	.	ID=VSP_032561;Note=In isoform 2. VTATSSKW->DGYKEILF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q6NTE8	UniProtKB	Alternative sequence	230	343	.	.	.	ID=VSP_032562;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q6NTE8	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_054030;Note=Q->R;Dbxref=dbSNP:rs1650893	
+Q6NTE8	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_039990;Note=Q->R;Dbxref=dbSNP:rs1650893	
+Q6NTE8	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_039991;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs248248,PMID:15489334	
+Q6NTE8	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_039992;Note=Q->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4;Dbxref=dbSNP:rs10277,PMID:15489334	
+Q6NTE8	UniProtKB	Mutagenesis	100	100	.	.	.	Note=Does not affect nuclear localization. Decreases weakly the association with the MRN complex. Reduces phosphorylation%3B when associated with A-115 and A-143. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	115	115	.	.	.	Note=Reduces nuclear localization and increases DNA damage accumulation. Decreases weakly the association with the MRN complex. Reduces phosphorylation%3B when associated with A-100 and A-143. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	115	115	.	.	.	Note=Does not affect nuclear localization. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	141	141	.	.	.	Note=Reduces nuclear localization and increases DNA damage accumulation and does not affect the association with the MRN complex%3B when associated with 148-A--A-151 and A-154. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	143	143	.	.	.	Note=Reduces phosphorylation%3B when associated with A-100 and A-115. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	148	151	.	.	.	Note=Decreases nuclear localization. Reduces nuclear localization and increases DNA damage accumulation and does not affect the association with the MRN complex%3B when associated with A-141 and A-154. RKRK->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Reduces nuclear localization and increases DNA damage accumulation and does not affect the association with the MRN complex%3B when associated with A-141 and 148-A--A-151. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	
+Q6NTE8	UniProtKB	Mutagenesis	213	237	.	.	.	Note=Reduces the association with the MRN complex. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27568553;Dbxref=PMID:27568553	

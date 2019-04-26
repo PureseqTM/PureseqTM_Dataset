@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region O15519 1 480
+O15519	UniProtKB	Chain	1	376	.	.	.	ID=PRO_0000004678;Note=CASP8 and FADD-like apoptosis regulator subunit p43	
+O15519	UniProtKB	Chain	377	480	.	.	.	ID=PRO_0000004679;Note=CASP8 and FADD-like apoptosis regulator subunit p12;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15519	UniProtKB	Domain	1	73	.	.	.	Note=DED 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00065	
+O15519	UniProtKB	Domain	92	170	.	.	.	Note=DED 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00065	
+O15519	UniProtKB	Region	1	435	.	.	.	Note=Not proteolytically processed and involved in apoptosis inhibition	
+O15519	UniProtKB	Region	1	305	.	.	.	Note=Interaction with caspase-8 propeptide	
+O15519	UniProtKB	Region	1	227	.	.	.	Note=Interaction with FADD	
+O15519	UniProtKB	Region	1	195	.	.	.	Note=Interaction with caspase-8	
+O15519	UniProtKB	Region	192	480	.	.	.	Note=Interaction with TRAF1 and TRAF2	
+O15519	UniProtKB	Region	192	435	.	.	.	Note=Interaction with caspase-3	
+O15519	UniProtKB	Region	217	480	.	.	.	Note=Interaction with caspase-8 subunits p18 and p10	
+O15519	UniProtKB	Region	263	358	.	.	.	Note=Caspase	
+O15519	UniProtKB	Region	370	480	.	.	.	Note=Interaction with caspase-8	
+O15519	UniProtKB	Alternative sequence	1	245	.	.	.	ID=VSP_000825;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+O15519	UniProtKB	Alternative sequence	1	96	.	.	.	ID=VSP_000824;Note=In isoform 3%2C isoform 7 and isoform 15. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9326610,ECO:0000303|Ref.6;Dbxref=PMID:14702039,PMID:9326610	
+O15519	UniProtKB	Alternative sequence	2	30	.	.	.	ID=VSP_000826;Note=In isoform 6. SAEVIHQVEEALDTDEKEMLLFLCRDVAI->LERPPVCSKV;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+O15519	UniProtKB	Alternative sequence	203	480	.	.	.	ID=VSP_000831;Note=In isoform 13. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9208847;Dbxref=PMID:9208847	
+O15519	UniProtKB	Alternative sequence	203	237	.	.	.	ID=VSP_000830;Note=In isoform 8 and isoform 9. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9228018;Dbxref=PMID:9228018	
+O15519	UniProtKB	Alternative sequence	203	221	.	.	.	ID=VSP_000828;Note=In isoform 2. LHNGRSKEQRLKEQLGAQQ->MITPYAHCPDLKILGNCSM;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9217161,ECO:0000303|PubMed:9289491,ECO:0000303|PubMed:9326610,ECO:0000303|PubMed:9380701;Dbxref=PMID:9217161,PMID:9289491,PMID:9326610,PMID:9380701	
+O15519	UniProtKB	Alternative sequence	203	221	.	.	.	ID=VSP_000827;Note=In isoform 7. LHNGRSKEQRLKEQLGAQQ->E;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+O15519	UniProtKB	Alternative sequence	222	480	.	.	.	ID=VSP_000829;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9217161,ECO:0000303|PubMed:9289491,ECO:0000303|PubMed:9326610,ECO:0000303|PubMed:9380701;Dbxref=PMID:9217161,PMID:9289491,PMID:9326610,PMID:9380701	
+O15519	UniProtKB	Alternative sequence	265	292	.	.	.	ID=VSP_000832;Note=In isoform 12. ELLRDTFTSLGYEVQKFLHLSMHGISQI->GWSAMAQSQLTAISTSQVQAILLPQPPE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10200473;Dbxref=PMID:10200473	
+O15519	UniProtKB	Alternative sequence	266	300	.	.	.	ID=VSP_000834;Note=In isoform 10. LLRDTFTSLGYEVQKFLHLSMHGISQILGQFACMP->NAHSWIFTLNSMATCMIGTAEFLPRRNIMFGCSTL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9228018;Dbxref=PMID:9228018	
+O15519	UniProtKB	Alternative sequence	267	305	.	.	.	ID=VSP_000836;Note=In isoform 9. LRDTFTSLGYEVQKFLHLSMHGISQILGQFACMPEHRDY->CGVRGPAGGQQPLGGGWASDEECGIQGSEARAVHSSPRS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9228018;Dbxref=PMID:9228018	
+O15519	UniProtKB	Alternative sequence	293	480	.	.	.	ID=VSP_000833;Note=In isoform 12. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10200473;Dbxref=PMID:10200473	
+O15519	UniProtKB	Alternative sequence	301	480	.	.	.	ID=VSP_000835;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9228018;Dbxref=PMID:9228018	
+O15519	UniProtKB	Alternative sequence	306	480	.	.	.	ID=VSP_000837;Note=In isoform 9. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9228018;Dbxref=PMID:9228018	
+O15519	UniProtKB	Alternative sequence	436	480	.	.	.	ID=VSP_000838;Note=In isoform 11%2C isoform 7 and isoform 3. KRPLLDLHIELNGYMYDWNSRVSAKEKYYVWLQHTLRKKLILSYT->GTIPGSGITESKDMHFSSLGCILLDVL;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10200473,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9326610,ECO:0000303|Ref.6;Dbxref=PMID:10200473,PMID:14702039,PMID:9326610	
+O15519	UniProtKB	Alternative sequence	436	480	.	.	.	ID=VSP_000839;Note=In isoform 14. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9208847;Dbxref=PMID:9208847	
+O15519	UniProtKB	Alternative sequence	449	480	.	.	.	ID=VSP_000840;Note=In isoform 5. YMYDWNSRVSAKEKYYVWLQHTLRKKLILSYT->L;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+O15519	UniProtKB	Alternative sequence	453	480	.	.	.	ID=VSP_000841;Note=In isoform 6. WNSRVSAKEKYYVWLQHTLRKKLILSYT->SLEHTGGRY;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+O15519	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_048619;Note=L->I;Dbxref=dbSNP:rs13424615	
+O15519	UniProtKB	Mutagenesis	360	360	.	.	.	Note=Decreases apoptosis-inducing activity. Reduces interaction with caspase-3 and proteolytic processing. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9208847;Dbxref=PMID:9208847	
+O15519	UniProtKB	Mutagenesis	376	376	.	.	.	Note=Abolishes proteolytic processing. D->N%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9228018;Dbxref=PMID:9228018	
+O15519	UniProtKB	Sequence conflict	130	132	.	.	.	Note=SFL->ISW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	130	132	.	.	.	Note=SFL->ISW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	343	343	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	364	364	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	366	368	.	.	.	Note=QLE->PAG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	369	369	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	372	372	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Sequence conflict	373	374	.	.	.	Note=LE->WR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15519	UniProtKB	Helix	67	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N5R	
+O15519	UniProtKB	Beta strand	239	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Beta strand	249	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	266	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Beta strand	276	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	286	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	300	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Beta strand	306	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	333	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Turn	342	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	346	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Beta strand	353	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Beta strand	400	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	410	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	422	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	439	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Helix	459	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	
+O15519	UniProtKB	Beta strand	463	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H11	

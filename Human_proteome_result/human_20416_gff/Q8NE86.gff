@@ -1,0 +1,45 @@
+##gff-version 3
+##sequence-region Q8NE86 1 351
+Q8NE86	UniProtKB	Transit peptide	1	50	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE86	UniProtKB	Chain	51	351	.	.	.	ID=PRO_0000282976;Note=Calcium uniporter protein%2C mitochondrial	
+Q8NE86	UniProtKB	Topological domain	51	233	.	.	.	Note=Mitochondrial matrix;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27099988;Dbxref=PMID:27099988	
+Q8NE86	UniProtKB	Transmembrane	234	256	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE86	UniProtKB	Topological domain	257	265	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27099988;Dbxref=PMID:27099988	
+Q8NE86	UniProtKB	Transmembrane	266	283	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE86	UniProtKB	Topological domain	284	351	.	.	.	Note=Mitochondrial matrix;Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:23755363,ECO:0000305|PubMed:27099988;Dbxref=PMID:23755363,PMID:27099988	
+Q8NE86	UniProtKB	Region	75	165	.	.	.	Note=N-terminal MCU domain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26341627;Dbxref=PMID:26341627	
+Q8NE86	UniProtKB	Region	216	234	.	.	.	Note=Outer juxtamembrane helix (OJMH);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q21121	
+Q8NE86	UniProtKB	Region	283	292	.	.	.	Note=Inner juxtamembrane helix (IJMH);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q21121	
+Q8NE86	UniProtKB	Coiled coil	192	223	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE86	UniProtKB	Coiled coil	311	339	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NE86	UniProtKB	Motif	261	264	.	.	.	Note=DXXE;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q21121	
+Q8NE86	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine%3B by CaMK2;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23051746;Dbxref=PMID:23051746	
+Q8NE86	UniProtKB	Modified residue	92	92	.	.	.	Note=Phosphoserine%3B by CaMK2;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23051746;Dbxref=PMID:23051746	
+Q8NE86	UniProtKB	Modified residue	332	332	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3UMR5	
+Q8NE86	UniProtKB	Alternative sequence	1	50	.	.	.	ID=VSP_041687;Note=In isoform 3. MAAAAGRSLLLLLSSRGGGGGGAGGCGALTAGCFPGLGVSRHRQQQHHRT->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NE86	UniProtKB	Alternative sequence	166	219	.	.	.	ID=VSP_024263;Note=In isoform 2. DLLSHENAATLNDVKTLVQQLYTTLCIEQHQLNKERELIERLEDLKEQLAPLEK->VEMGFCHVGQNGFELLTSSYLPASASQSAEIIA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8NE86	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Decreased MCU current%3B when associated with A-92. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23051746;Dbxref=PMID:23051746	
+Q8NE86	UniProtKB	Mutagenesis	92	92	.	.	.	Note=Decreased MCU current%3B when associated with A-57. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23051746;Dbxref=PMID:23051746	
+Q8NE86	UniProtKB	Mutagenesis	92	92	.	.	.	Note=Impairs Ca(2+) uptake%2C but has no effect on oligomerization and interaction with MCU1 and MCU2. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26341627;Dbxref=PMID:26341627	
+Q8NE86	UniProtKB	Mutagenesis	180	180	.	.	.	Note=No effect on Ca(2+) uptake%2C oligomerization and interaction with MCU1 and MCU2. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26341627;Dbxref=PMID:26341627	
+Q8NE86	UniProtKB	Mutagenesis	257	257	.	.	.	Note=According to a report%2C inhibits calcium uptake. According to a subsequent report%2C does not affect greatly calcium uptake. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21685886,ECO:0000269|PubMed:27135929;Dbxref=PMID:21685886,PMID:27135929	
+Q8NE86	UniProtKB	Mutagenesis	257	257	.	.	.	Note=Does not affect greatly calcium uptake. E->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27135929;Dbxref=PMID:27135929	
+Q8NE86	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Does not inhibit calcium uptake. Strongly reduced sensitivity to ruthenium red inhibition. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21685886,ECO:0000269|PubMed:23755363;Dbxref=PMID:21685886,PMID:23755363	
+Q8NE86	UniProtKB	Mutagenesis	259	259	.	.	.	Note=Prevents entrance of calcium into the pore. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27135929;Dbxref=PMID:27135929	
+Q8NE86	UniProtKB	Mutagenesis	261	264	.	.	.	Note=Dominant negative (DN) mutant%3B inhibits calcium uptake. Inhibits calcium channel activity. Expression of the dominant negative protein in mice%2C leads to mice that are incapable of physiological fight or flight heart rate acceleration. DIME->AIMA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21685886,ECO:0000269|PubMed:21685888,ECO:0000269|PubMed:25603276;Dbxref=PMID:21685886,PMID:21685888,PMID:25603276	
+Q8NE86	UniProtKB	Mutagenesis	261	261	.	.	.	Note=Partially functional%3B does not completely abolish calcium channel activity. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27135929;Dbxref=PMID:27135929	
+Q8NE86	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Abolishes calcium channel activity. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27135929;Dbxref=PMID:27135929	
+Q8NE86	UniProtKB	Sequence conflict	107	107	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE86	UniProtKB	Sequence conflict	142	142	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE86	UniProtKB	Beta strand	76	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Beta strand	83	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Beta strand	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KUI	
+Q8NE86	UniProtKB	Beta strand	97	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Turn	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Helix	108	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Beta strand	125	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Beta strand	137	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KUI	
+Q8NE86	UniProtKB	Helix	141	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Beta strand	149	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Beta strand	156	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	
+Q8NE86	UniProtKB	Helix	168	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XTB	

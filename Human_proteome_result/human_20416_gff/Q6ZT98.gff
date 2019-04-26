@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region Q6ZT98 1 887
+Q6ZT98	UniProtKB	Chain	1	887	.	.	.	ID=PRO_0000212444;Note=Tubulin polyglutamylase TTLL7	
+Q6ZT98	UniProtKB	Domain	38	390	.	.	.	Note=TTL;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00568	
+Q6ZT98	UniProtKB	Nucleotide binding	188	191	.	.	.	Note=ATP binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Region	388	450	.	.	.	Note=c-MTBD region;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Binding site	201	201	.	.	.	Note=ATP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Binding site	203	203	.	.	.	Note=ATP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Site	106	106	.	.	.	Note=Binds negatively charged residues of beta-tubulin C-terminal tails;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Site	352	352	.	.	.	Note=Binds negatively charged residues of beta-tubulin C-terminal tails;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Alternative sequence	665	669	.	.	.	ID=VSP_015199;Note=In isoform 2. SESLR->IILAQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+Q6ZT98	UniProtKB	Alternative sequence	670	887	.	.	.	ID=VSP_015200;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+Q6ZT98	UniProtKB	Alternative sequence	791	792	.	.	.	ID=VSP_015201;Note=In isoform 3. SS->YV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6ZT98	UniProtKB	Alternative sequence	793	887	.	.	.	ID=VSP_015202;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6ZT98	UniProtKB	Mutagenesis	106	106	.	.	.	Note=Nearly abolished polyglutamylase activity. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	143	146	.	.	.	Note=70%25 decreased polyglutamylase activity. NYVK->EYVE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	178	178	.	.	.	Note=Decreased polyglutamylase activity. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	205	205	.	.	.	Note=Nearly abolished polyglutamylase activity. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Nearly abolished polyglutamylase activity. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	271	271	.	.	.	Note=Nearly abolished polyglutamylase activity. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	349	349	.	.	.	Note=Loss of polyglutamylase activity. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	352	352	.	.	.	Note=Nearly abolished polyglutamylase activity. R->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	385	393	.	.	.	Note=45%25 decreased binding to microtubules. Decreased polyglutamylase activity. 76%25 decreased binding to microtubules%3B when associated with 425-E--E-427. KRRNLAKQK->EEENLAEQE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	425	427	.	.	.	Note=76%25 decreased binding to microtubules%3B when associated with 385-E--E-393. RRK->EEE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	477	480	.	.	.	Note=40%25 decreased polyglutamylase activity. FQTF->AQTA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Mutagenesis	490	500	.	.	.	Note=69%25 decreased polyglutamylase activity. RELNNPLKRMK->DELNNPLDDMD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25959773;Dbxref=PMID:25959773	
+Q6ZT98	UniProtKB	Sequence conflict	13	13	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	48	48	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	298	298	.	.	.	Note=L->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	489	489	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	493	493	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	575	575	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	609	609	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Sequence conflict	677	677	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6ZT98	UniProtKB	Beta strand	42	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	51	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	73	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	83	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Turn	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	102	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	107	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Turn	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	131	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Turn	134	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	138	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	171	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	186	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	196	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	201	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Turn	213	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	217	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	271	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	274	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	288	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	331	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	345	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	361	378	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Beta strand	454	459	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	
+Q6ZT98	UniProtKB	Helix	463	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YLR	

@@ -1,0 +1,71 @@
+##gff-version 3
+##sequence-region Q8IUQ4 1 282
+Q8IUQ4	UniProtKB	Chain	1	282	.	.	.	ID=PRO_0000056163;Note=E3 ubiquitin-protein ligase SIAH1	
+Q8IUQ4	UniProtKB	Zinc finger	41	76	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q8IUQ4	UniProtKB	Zinc finger	93	153	.	.	.	Note=SIAH-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00455	
+Q8IUQ4	UniProtKB	Region	90	282	.	.	.	Note=SBD	
+Q8IUQ4	UniProtKB	Metal binding	98	98	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IUQ4	UniProtKB	Metal binding	105	105	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IUQ4	UniProtKB	Metal binding	117	117	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IUQ4	UniProtKB	Metal binding	121	121	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IUQ4	UniProtKB	Metal binding	128	128	.	.	.	Note=Zinc 2	
+Q8IUQ4	UniProtKB	Metal binding	135	135	.	.	.	Note=Zinc 2	
+Q8IUQ4	UniProtKB	Metal binding	147	147	.	.	.	Note=Zinc 2	
+Q8IUQ4	UniProtKB	Metal binding	152	152	.	.	.	Note=Zinc 2	
+Q8IUQ4	UniProtKB	Modified residue	19	19	.	.	.	Note=Phosphoserine%3B by ATM and ATR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18536714;Dbxref=PMID:18536714	
+Q8IUQ4	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_010166;Note=In isoform 2. M->MTGKATPPSLYSWRGVLFTCLPAARTRKRKEM;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005;Dbxref=PMID:15489334,PMID:17974005	
+Q8IUQ4	UniProtKB	Alternative sequence	193	195	.	.	.	ID=VSP_029210;Note=In isoform 3. LEK->DLS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17420721;Dbxref=PMID:17420721	
+Q8IUQ4	UniProtKB	Alternative sequence	196	282	.	.	.	ID=VSP_029211;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17420721;Dbxref=PMID:17420721	
+Q8IUQ4	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Impaired ATM mediated phosphorylation%2C but normal interaction with HIPK2 and HIPK2 subsequent proteasomal degradation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18536714;Dbxref=PMID:18536714	
+Q8IUQ4	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Reduced interaction with HIPK2 and HIPK2 subsequent proteasomal degradation. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18536714;Dbxref=PMID:18536714	
+Q8IUQ4	UniProtKB	Mutagenesis	40	40	.	.	.	Note=Loss of function. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	41	41	.	.	.	Note=Loss of function%3B when associated with S-44. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	44	44	.	.	.	Note=Loss of function. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18536714,ECO:0000269|PubMed:9858595;Dbxref=PMID:18536714,PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Loss of function%3B when associated with A-59 and S-72. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15064394,ECO:0000269|PubMed:9858595;Dbxref=PMID:15064394,PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Loss of function%3B when associated with Y-59. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15064394,ECO:0000269|PubMed:9858595;Dbxref=PMID:15064394,PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Loss of function%3B when associated with A-55 and S-72. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15064394,ECO:0000269|PubMed:9858595;Dbxref=PMID:15064394,PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Loss of function. H->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15064394,ECO:0000269|PubMed:9858595;Dbxref=PMID:15064394,PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	66	66	.	.	.	Note=Decreased activity%3B when associated with T-68. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Decreased activity%3B when associated with L-66. K->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Loss of function%3B when associated with A-55 and A-59. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15064394;Dbxref=PMID:15064394	
+Q8IUQ4	UniProtKB	Mutagenesis	76	76	.	.	.	Note=Decreased activity. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	124	124	.	.	.	Note=In D%3B does not impair its ability to interact with CACYBP and degrade CTNNB1 and PML%3B when associated with A-214%3B A-215%3B A-231 and A-232. R->A	
+Q8IUQ4	UniProtKB	Mutagenesis	142	142	.	.	.	Note=In E%3B does not impair its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-151. D->A	
+Q8IUQ4	UniProtKB	Mutagenesis	151	151	.	.	.	Note=In E%3B does not impair its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-142. Q->A	
+Q8IUQ4	UniProtKB	Mutagenesis	152	152	.	.	.	Note=Abolishes ability to degrade DCC. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	161	162	.	.	.	Note=In A%3B does not impair its ability to degrade PML while it abolishes its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-226 and A-237. ED->AA	
+Q8IUQ4	UniProtKB	Mutagenesis	198	200	.	.	.	Note=Impairs CTNNB1 degradation. KYD->GDG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16085652;Dbxref=PMID:16085652	
+Q8IUQ4	UniProtKB	Mutagenesis	202	202	.	.	.	Note=No effect. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	211	211	.	.	.	Note=Abolishes ability to degrade DCC. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9858595;Dbxref=PMID:9858595	
+Q8IUQ4	UniProtKB	Mutagenesis	214	215	.	.	.	Note=In D%3B does not impair its ability to interact with CACYBP and degrade CTNNB1 and PML%3B when associated with A-124%3B A-231 and A-232. TR->AA	
+Q8IUQ4	UniProtKB	Mutagenesis	224	224	.	.	.	Note=In C%3B does not impair its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-233. R->A	
+Q8IUQ4	UniProtKB	Mutagenesis	226	226	.	.	.	Note=In A%3B does not impair its ability to degrade PML while it abolishes its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-161%3B A-162 and A-237. E->A	
+Q8IUQ4	UniProtKB	Mutagenesis	231	232	.	.	.	Note=In D%3B does not impair its ability to interact with CACYBP and degrade CTNNB1 and PML%3B when associated with A-124%3B A-214 and A-215. RR->AA	
+Q8IUQ4	UniProtKB	Mutagenesis	233	233	.	.	.	Note=In C%3B does not impair its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-233. R->A	
+Q8IUQ4	UniProtKB	Mutagenesis	237	237	.	.	.	Note=In A%3B does not impair its ability to degrade PML while it abolishes its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-161%3B A-162 and A-226. E->A	
+Q8IUQ4	UniProtKB	Mutagenesis	252	252	.	.	.	Note=Impairs CTNNB1 degradation. M->D%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16085652;Dbxref=PMID:16085652	
+Q8IUQ4	UniProtKB	Mutagenesis	253	253	.	.	.	Note=In B%3B does not impair its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-265. N->A	
+Q8IUQ4	UniProtKB	Mutagenesis	265	265	.	.	.	Note=In B%3B does not impair its ability to interact with CACYBP and degrade CTNNB1%3B when associated with A-253. Q->A	
+Q8IUQ4	UniProtKB	Sequence conflict	173	173	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IUQ4	UniProtKB	Sequence conflict	245	245	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IUQ4	UniProtKB	Beta strand	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4X3G	
+Q8IUQ4	UniProtKB	Helix	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4X3G	
+Q8IUQ4	UniProtKB	Helix	111	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I7B	
+Q8IUQ4	UniProtKB	Beta strand	130	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Helix	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Helix	144	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	156	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	172	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	187	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	199	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WZZ	
+Q8IUQ4	UniProtKB	Beta strand	203	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Helix	215	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	221	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	232	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Turn	243	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Helix	248	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	256	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Helix	261	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	
+Q8IUQ4	UniProtKB	Beta strand	272	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CA1	

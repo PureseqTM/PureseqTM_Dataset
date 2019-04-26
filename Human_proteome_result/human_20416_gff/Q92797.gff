@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region Q92797 1 1274
+Q92797	UniProtKB	Chain	1	1274	.	.	.	ID=PRO_0000072385;Note=Symplekin	
+Q92797	UniProtKB	Repeat	31	64	.	.	.	Note=HEAT 1	
+Q92797	UniProtKB	Repeat	67	101	.	.	.	Note=HEAT 2	
+Q92797	UniProtKB	Repeat	104	146	.	.	.	Note=HEAT 3	
+Q92797	UniProtKB	Repeat	153	192	.	.	.	Note=HEAT 4	
+Q92797	UniProtKB	Repeat	227	266	.	.	.	Note=HEAT 5	
+Q92797	UniProtKB	Region	1	124	.	.	.	Note=Interaction with HSF1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14707147;Dbxref=PMID:14707147	
+Q92797	UniProtKB	Motif	345	360	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92797	UniProtKB	Compositional bias	1168	1175	.	.	.	Note=Poly-Ser	
+Q92797	UniProtKB	Modified residue	13	13	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q92797	UniProtKB	Modified residue	494	494	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:24275569;Dbxref=PMID:19690332,PMID:24275569	
+Q92797	UniProtKB	Modified residue	1221	1221	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92797	UniProtKB	Modified residue	1222	1222	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92797	UniProtKB	Modified residue	1243	1243	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163,PMID:24275569	
+Q92797	UniProtKB	Modified residue	1257	1257	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:24275569	
+Q92797	UniProtKB	Modified residue	1259	1259	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+Q92797	UniProtKB	Cross-link	361	361	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+Q92797	UniProtKB	Cross-link	361	361	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:25218447,PMID:25755297,PMID:28112733	
+Q92797	UniProtKB	Cross-link	483	483	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:28112733	
+Q92797	UniProtKB	Cross-link	1239	1239	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+Q92797	UniProtKB	Alternative sequence	637	672	.	.	.	ID=VSP_014842;Note=In isoform 2. GSLDKYEDCLIRLLSGLQEKPDQKDGIFTKVVLEAP->PRLCWRRHSSQRVPWRWSASTARMRVAPIWACPHFET;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q92797	UniProtKB	Alternative sequence	673	1274	.	.	.	ID=VSP_014843;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q92797	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Abolishes stimulation of SSU72 phosphatase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20861839;Dbxref=PMID:20861839	
+Q92797	UniProtKB	Helix	32	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	50	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	67	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	74	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	86	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	107	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	123	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	152	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	171	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	177	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	213	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Beta strand	221	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	225	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	250	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	268	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	271	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	287	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ODS	
+Q92797	UniProtKB	Helix	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	294	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	312	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	318	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	332	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3O2T	
+Q92797	UniProtKB	Helix	342	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ODS	

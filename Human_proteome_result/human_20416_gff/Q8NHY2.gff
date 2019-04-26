@@ -1,0 +1,65 @@
+##gff-version 3
+##sequence-region Q8NHY2 1 731
+Q8NHY2	UniProtKB	Chain	1	731	.	.	.	ID=PRO_0000055879;Note=E3 ubiquitin-protein ligase COP1	
+Q8NHY2	UniProtKB	Repeat	419	458	.	.	.	Note=WD 1	
+Q8NHY2	UniProtKB	Repeat	468	508	.	.	.	Note=WD 2	
+Q8NHY2	UniProtKB	Repeat	511	551	.	.	.	Note=WD 3	
+Q8NHY2	UniProtKB	Repeat	553	593	.	.	.	Note=WD 4	
+Q8NHY2	UniProtKB	Repeat	597	635	.	.	.	Note=WD 5	
+Q8NHY2	UniProtKB	Repeat	638	677	.	.	.	Note=WD 6	
+Q8NHY2	UniProtKB	Repeat	691	729	.	.	.	Note=WD 7	
+Q8NHY2	UniProtKB	Zinc finger	136	174	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q8NHY2	UniProtKB	Region	643	645	.	.	.	Note=Interaction with TRIB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27041596;Dbxref=PMID:27041596	
+Q8NHY2	UniProtKB	Coiled coil	233	301	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NHY2	UniProtKB	Motif	109	113	.	.	.	Note=Nuclear localization signal 1	
+Q8NHY2	UniProtKB	Motif	195	206	.	.	.	Note=Nuclear localization signal 2	
+Q8NHY2	UniProtKB	Motif	235	245	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8NHY2	UniProtKB	Compositional bias	2	110	.	.	.	Note=Ser-rich	
+Q8NHY2	UniProtKB	Site	472	472	.	.	.	Note=Interaction with TRIB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27041596;Dbxref=PMID:27041596	
+Q8NHY2	UniProtKB	Site	491	491	.	.	.	Note=Interaction with TRIB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27041596;Dbxref=PMID:27041596	
+Q8NHY2	UniProtKB	Alternative sequence	1	264	.	.	.	ID=VSP_012026;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NHY2	UniProtKB	Alternative sequence	157	157	.	.	.	ID=VSP_055894;Note=In isoform 5. Y->E;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24722188;Dbxref=PMID:24722188	
+Q8NHY2	UniProtKB	Alternative sequence	158	731	.	.	.	ID=VSP_055895;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24722188;Dbxref=PMID:24722188	
+Q8NHY2	UniProtKB	Alternative sequence	211	214	.	.	.	ID=VSP_012024;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14739464;Dbxref=PMID:14739464	
+Q8NHY2	UniProtKB	Alternative sequence	277	296	.	.	.	ID=VSP_012025;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14739464;Dbxref=PMID:14739464	
+Q8NHY2	UniProtKB	Alternative sequence	342	342	.	.	.	ID=VSP_012027;Note=In isoform 3. Q->QAGVQWRYLGSLQPPPPRYKRFSCLTLPSSWDYRRLPPHL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NHY2	UniProtKB	Mutagenesis	111	113	.	.	.	Note=Abolishes localization to the nucleus. RKR->AKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12615916;Dbxref=PMID:12615916	
+Q8NHY2	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Abolishes p53 ubiquitination and degradation but not that of JUN%3B when associated with A-139. C->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12615916,ECO:0000269|PubMed:14739464,ECO:0000269|PubMed:19805145,ECO:0000269|PubMed:21625211;Dbxref=PMID:12615916,PMID:14739464,PMID:19805145,PMID:21625211	
+Q8NHY2	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Loss of SFN and MTA1 ubiquitination and degradation%3B when associated with S-139. Loss of stabilization by COPS6%3B when associated with S-139. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12615916,ECO:0000269|PubMed:14739464,ECO:0000269|PubMed:19805145,ECO:0000269|PubMed:21625211;Dbxref=PMID:12615916,PMID:14739464,PMID:19805145,PMID:21625211	
+Q8NHY2	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Abolishes p53 ubiquitination and degradation but not that of JUN%3B when associated with A-136. C->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12615916,ECO:0000269|PubMed:14739464,ECO:0000269|PubMed:19805145,ECO:0000269|PubMed:21625211;Dbxref=PMID:12615916,PMID:14739464,PMID:19805145,PMID:21625211	
+Q8NHY2	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Loss of SFN and MTA1 ubiquitination and degradation%3B when associated with S-136. Loss of stabilization by COPS6%3B when associated with S-136. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12615916,ECO:0000269|PubMed:14739464,ECO:0000269|PubMed:19805145,ECO:0000269|PubMed:21625211;Dbxref=PMID:12615916,PMID:14739464,PMID:19805145,PMID:21625211	
+Q8NHY2	UniProtKB	Mutagenesis	156	156	.	.	.	Note=Loss of MTA1 ubiquitination and degradation%3B when associated with S-159. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19805145;Dbxref=PMID:19805145	
+Q8NHY2	UniProtKB	Mutagenesis	159	159	.	.	.	Note=Loss of MTA1 ubiquitination and degradation%3B when associated with S-156. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19805145;Dbxref=PMID:19805145	
+Q8NHY2	UniProtKB	Helix	392	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	404	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	424	429	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	433	440	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	443	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Helix	450	453	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	464	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	473	478	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	485	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	495	499	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Turn	500	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	505	509	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	516	521	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	528	533	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	536	542	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	549	553	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	558	563	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	570	575	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	580	584	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	592	595	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	602	617	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Turn	618	620	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	621	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	633	636	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	642	644	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	648	651	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	654	658	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	662	668	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	676	679	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	700	705	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	709	711	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	715	720	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	
+Q8NHY2	UniProtKB	Beta strand	723	731	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HQG	

@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P40855 1 299
+P40855	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712;Dbxref=PMID:22814378,PMID:25944712	
+P40855	UniProtKB	Chain	2	296	.	.	.	ID=PRO_0000218759;Note=Peroxisomal biogenesis factor 19	
+P40855	UniProtKB	Propeptide	297	299	.	.	.	ID=PRO_0000393944;Note=Removed in mature form;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40855	UniProtKB	Region	2	91	.	.	.	Note=Necessary for PEX19 function on peroxisome biogenesis	
+P40855	UniProtKB	Region	2	56	.	.	.	Note=Docking to the peroxisome membrane and binding to PEX3	
+P40855	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712;Dbxref=PMID:22814378,PMID:25944712	
+P40855	UniProtKB	Modified residue	35	35	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P40855	UniProtKB	Modified residue	54	54	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P40855	UniProtKB	Modified residue	66	66	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QYU1	
+P40855	UniProtKB	Modified residue	236	236	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VCI5	
+P40855	UniProtKB	Modified residue	296	296	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P40855	UniProtKB	Lipidation	296	296	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10051604,ECO:0000269|PubMed:9339377;Dbxref=PMID:10051604,PMID:9339377	
+P40855	UniProtKB	Alternative sequence	1	59	.	.	.	ID=VSP_012649;Note=In isoform 5. MAAAEEGCSVGAEADRELEELLESALDDFDKAKPSPAPPSTTTAPDASGPQKRSPGDTA->PPLRKAVVSGPKRTGNWRSFW;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P40855	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Abolishes binding to PEX3. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20554521;Dbxref=PMID:20554521	
+P40855	UniProtKB	Mutagenesis	296	299	.	.	.	Note=Abolishes binding to PEX10%2C PEX11B%2C PEX12 and PEX13. Does not affect binding to PEX3 and PEX16. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11390669;Dbxref=PMID:11390669	
+P40855	UniProtKB	Mutagenesis	296	296	.	.	.	Note=Slightly inhibits PEX19 function on peroxisome biogenesis. C->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10051604,ECO:0000269|PubMed:10704444,ECO:0000269|PubMed:10777694,ECO:0000269|PubMed:9339377;Dbxref=PMID:10051604,PMID:10704444,PMID:10777694,PMID:9339377	
+P40855	UniProtKB	Mutagenesis	296	296	.	.	.	Note=Abolishes farnesylation. Abolishes PEX19 function on peroxisome biogenesis. Does not affect binding to ABCD1%2C ABCD2 and ABCD3. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10051604,ECO:0000269|PubMed:10704444,ECO:0000269|PubMed:10777694,ECO:0000269|PubMed:9339377;Dbxref=PMID:10051604,PMID:10704444,PMID:10777694,PMID:9339377	
+P40855	UniProtKB	Helix	16	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MK4	
+P40855	UniProtKB	Helix	28	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AJB	
+P40855	UniProtKB	Helix	67	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W85	
+P40855	UniProtKB	Helix	172	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	185	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	199	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	207	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	212	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	241	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	266	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WL8	
+P40855	UniProtKB	Helix	280	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LNF	

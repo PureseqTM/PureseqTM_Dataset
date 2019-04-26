@@ -1,0 +1,106 @@
+##gff-version 3
+##sequence-region P22735 1 817
+P22735	UniProtKB	Chain	1	817	.	.	.	ID=PRO_0000213701;Note=Protein-glutamine gamma-glutamyltransferase K	
+P22735	UniProtKB	Region	1	100	.	.	.	Note=Membrane anchorage region	
+P22735	UniProtKB	Active site	377	377	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10024	
+P22735	UniProtKB	Active site	436	436	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10024	
+P22735	UniProtKB	Active site	459	459	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10024	
+P22735	UniProtKB	Metal binding	499	499	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22735	UniProtKB	Metal binding	501	501	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22735	UniProtKB	Metal binding	548	548	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22735	UniProtKB	Metal binding	553	553	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22735	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JLF6	
+P22735	UniProtKB	Modified residue	24	24	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8973564;Dbxref=PMID:8973564	
+P22735	UniProtKB	Modified residue	68	68	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23606	
+P22735	UniProtKB	Modified residue	82	82	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8973564;Dbxref=PMID:8973564	
+P22735	UniProtKB	Modified residue	85	85	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8973564;Dbxref=PMID:8973564	
+P22735	UniProtKB	Modified residue	92	92	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8973564;Dbxref=PMID:8973564	
+P22735	UniProtKB	Modified residue	95	95	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JLF6	
+P22735	UniProtKB	Alternative sequence	1	442	.	.	.	ID=VSP_056840;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P22735	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_015220;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. S->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7824952,ECO:0000269|Ref.9;Dbxref=dbSNP:rs41295338,PMID:7824952	
+P22735	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_058638;Note=In ARCI1. C->S	
+P22735	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_058639;Note=In ARCI1. G->D;Dbxref=dbSNP:rs121918729	
+P22735	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_020918;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11511296;Dbxref=dbSNP:rs398122901,PMID:11511296	
+P22735	UniProtKB	Natural variant	126	126	.	.	.	ID=VAR_058640;Note=In ARCI1. R->C;Dbxref=dbSNP:rs397514524	
+P22735	UniProtKB	Natural variant	126	126	.	.	.	ID=VAR_058641;Note=In ARCI1. R->H;Dbxref=dbSNP:rs200491579	
+P22735	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_029268;Note=D->N;Dbxref=dbSNP:rs2229462	
+P22735	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_058642;Note=In ARCI1. Y->C;Dbxref=dbSNP:rs147916609	
+P22735	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_058643;Note=In ARCI1. R->C;Dbxref=dbSNP:rs121918716	
+P22735	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_007476;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7773290,ECO:0000269|PubMed:9326318;Dbxref=dbSNP:rs121918718,PMID:7773290,PMID:9326318	
+P22735	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_058644;Note=In ARCI1. R->P	
+P22735	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_007477;Note=In ARCI1%3B compound heterozygote with F-212%3B inhibits cell proliferation. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26220141,ECO:0000269|PubMed:9326318;Dbxref=dbSNP:rs531650682,PMID:26220141,PMID:9326318	
+P22735	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_007478;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7773290;Dbxref=dbSNP:rs121918719,PMID:7773290	
+P22735	UniProtKB	Natural variant	144	144	.	.	.	ID=VAR_058645;Note=In ARCI1. G->E;Dbxref=dbSNP:rs1465243895	
+P22735	UniProtKB	Natural variant	144	144	.	.	.	ID=VAR_058646;Note=In ARCI1. G->R;Dbxref=dbSNP:rs778635368	
+P22735	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_058647;Note=In ARCI1. S->C;Dbxref=dbSNP:rs121918728	
+P22735	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_058648;Note=In ARCI1. L->Q;Dbxref=dbSNP:rs878853259	
+P22735	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_058649;Note=In ARCI1. V->F	
+P22735	UniProtKB	Natural variant	212	212	.	.	.	ID=VAR_075227;Note=In ARCI1%3B compound heterozygote with C-143%3B inhibits cell proliferation. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26220141;Dbxref=PMID:26220141	
+P22735	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_007479;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9326318;Dbxref=dbSNP:rs121918732,PMID:9326318	
+P22735	UniProtKB	Natural variant	225	225	.	.	.	ID=VAR_058650;Note=In ARCI1. R->H;Dbxref=dbSNP:rs549195122	
+P22735	UniProtKB	Natural variant	225	225	.	.	.	ID=VAR_058651;Note=In ARCI1. R->P;Dbxref=dbSNP:rs549195122	
+P22735	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_058652;Note=In ARCI1. I->S	
+P22735	UniProtKB	Natural variant	249	249	.	.	.	ID=VAR_058653;Note=In ARCI1. P->L	
+P22735	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_058654;Note=In ARCI1. R->Q;Dbxref=dbSNP:rs781006633	
+P22735	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_058655;Note=In ARCI1. R->W;Dbxref=dbSNP:rs201868387	
+P22735	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_058656;Note=In ARCI1. S->P;Dbxref=dbSNP:rs764040146	
+P22735	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_058657;Note=In ARCI1. Y->N;Dbxref=dbSNP:rs397514523	
+P22735	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_058658;Note=In ARCI1. G->R;Dbxref=dbSNP:rs121918725	
+P22735	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_058659;Note=In ARCI1. E->K;Dbxref=dbSNP:rs749721551	
+P22735	UniProtKB	Natural variant	286	286	.	.	.	ID=VAR_058660;Note=In ARCI1. R->Q;Dbxref=dbSNP:rs121918727	
+P22735	UniProtKB	Natural variant	289	289	.	.	.	ID=VAR_020919;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11511296;Dbxref=dbSNP:rs121918730,PMID:11511296	
+P22735	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_058661;Note=In ARCI1. F->V	
+P22735	UniProtKB	Natural variant	304	304	.	.	.	ID=VAR_058662;Note=In ARCI1. I->F;Dbxref=dbSNP:rs753798494	
+P22735	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_058663;Note=In ARCI1. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19890349;Dbxref=dbSNP:rs121918731,PMID:19890349	
+P22735	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_020920;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11511296;Dbxref=dbSNP:rs121918731,PMID:11511296	
+P22735	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_058664;Note=In ARCI1. R->C;Dbxref=dbSNP:rs397514525	
+P22735	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_058665;Note=In ARCI1. R->H;Dbxref=dbSNP:rs143473912	
+P22735	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_058666;Note=In ARCI1. R->L;Dbxref=dbSNP:rs143473912	
+P22735	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_015221;Note=In ARCI1%3B skin phenotype consistent with lamellar ichthyosis. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7824952;Dbxref=dbSNP:rs121918717,PMID:7824952	
+P22735	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_058667;Note=In ARCI1. R->W;Dbxref=dbSNP:rs771820315	
+P22735	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_058668;Note=In ARCI1. N->H	
+P22735	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_058669;Note=In ARCI1. S->P	
+P22735	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_058670;Note=In ARCI1. W->R	
+P22735	UniProtKB	Natural variant	358	358	.	.	.	ID=VAR_058671;Note=In ARCI1. S->R;Dbxref=dbSNP:rs779287673	
+P22735	UniProtKB	Natural variant	359	359	.	.	.	ID=VAR_058672;Note=In ARCI1. V->M;Dbxref=dbSNP:rs202037016	
+P22735	UniProtKB	Natural variant	365	365	.	.	.	ID=VAR_058673;Note=In ARCI1. Y->D	
+P22735	UniProtKB	Natural variant	366	366	.	.	.	ID=VAR_058674;Note=In ARCI1. L->P	
+P22735	UniProtKB	Natural variant	372	372	.	.	.	ID=VAR_055374;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9;Dbxref=dbSNP:rs41293794	
+P22735	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_007480;Note=In ARCI1. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9326318;Dbxref=dbSNP:rs121918720,PMID:9326318	
+P22735	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_058675;Note=In ARCI1. G->R	
+P22735	UniProtKB	Natural variant	383	383	.	.	.	ID=VAR_058676;Note=In ARCI1. V->M;Dbxref=dbSNP:rs121918722	
+P22735	UniProtKB	Natural variant	389	389	.	.	.	ID=VAR_015222;Note=In ARCI1%3B skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11251583;Dbxref=dbSNP:rs121918723,PMID:11251583	
+P22735	UniProtKB	Natural variant	389	389	.	.	.	ID=VAR_058677;Note=In ARCI1. R->P;Dbxref=dbSNP:rs121918723	
+P22735	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_058678;Note=In ARCI1. G->D;Dbxref=dbSNP:rs121918726	
+P22735	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_058679;Note=In ARCI1. R->H;Dbxref=dbSNP:rs121918721	
+P22735	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_007481;Note=In ARCI1%3B skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9326318;Dbxref=dbSNP:rs121918721,PMID:9326318	
+P22735	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_058680;Note=In ARCI1. R->S	
+P22735	UniProtKB	Natural variant	401	401	.	.	.	ID=VAR_058681;Note=In ARCI1. F->V;Dbxref=dbSNP:rs991194429	
+P22735	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_058682;Note=In ARCI1. D->V	
+P22735	UniProtKB	Natural variant	473	473	.	.	.	ID=VAR_058683;Note=In ARCI1. G->S;Dbxref=dbSNP:rs904122716,dbSNP:rs1057517838	
+P22735	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_058684;Note=In ARCI1. D->G;Dbxref=dbSNP:rs121918724	
+P22735	UniProtKB	Natural variant	518	518	.	.	.	ID=VAR_052550;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9;Dbxref=dbSNP:rs35312232	
+P22735	UniProtKB	Natural variant	520	520	.	.	.	ID=VAR_058685;Note=In ARCI1. E->G;Dbxref=dbSNP:rs142404759	
+P22735	UniProtKB	Natural variant	544	544	.	.	.	ID=VAR_058686;Note=In ARCI1. Y->C;Dbxref=dbSNP:rs1044429462	
+P22735	UniProtKB	Natural variant	607	607	.	.	.	ID=VAR_052551;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9;Dbxref=dbSNP:rs2229464	
+P22735	UniProtKB	Natural variant	687	687	.	.	.	ID=VAR_058687;Note=In ARCI1. R->C;Dbxref=dbSNP:rs147516124	
+P22735	UniProtKB	Natural variant	687	687	.	.	.	ID=VAR_058688;Note=In ARCI1. R->H	
+P22735	UniProtKB	Natural variant	755	755	.	.	.	ID=VAR_052552;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9;Dbxref=dbSNP:rs35926651	
+P22735	UniProtKB	Natural variant	764	764	.	.	.	ID=VAR_058689;Note=In ARCI1. R->C;Dbxref=dbSNP:rs201853046	
+P22735	UniProtKB	Natural variant	802	802	.	.	.	ID=VAR_024660;Note=D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9;Dbxref=dbSNP:rs2228337	
+P22735	UniProtKB	Sequence conflict	119	120	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22735	UniProtKB	Sequence conflict	301	301	.	.	.	Note=C->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22735	UniProtKB	Sequence conflict	508	508	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22735	UniProtKB	Sequence conflict	551	551	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22735	UniProtKB	Sequence conflict	554	554	.	.	.	Note=R->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22735	UniProtKB	Sequence conflict	669	669	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22735	UniProtKB	Beta strand	693	699	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	703	705	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	707	714	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	717	719	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	723	730	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Turn	731	733	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	734	741	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	749	756	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Beta strand	767	771	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	
+P22735	UniProtKB	Helix	773	776	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZZ	

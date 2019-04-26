@@ -1,0 +1,65 @@
+##gff-version 3
+##sequence-region Q16769 1 361
+Q16769	UniProtKB	Signal peptide	1	28	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16769	UniProtKB	Chain	29	361	.	.	.	ID=PRO_0000022195;Note=Glutaminyl-peptide cyclotransferase	
+Q16769	UniProtKB	Active site	201	201	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18072935;Dbxref=PMID:18072935	
+Q16769	UniProtKB	Active site	248	248	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18072935;Dbxref=PMID:18072935	
+Q16769	UniProtKB	Metal binding	159	159	.	.	.	Note=Zinc%3B catalytic	
+Q16769	UniProtKB	Metal binding	202	202	.	.	.	Note=Zinc%3B catalytic	
+Q16769	UniProtKB	Metal binding	330	330	.	.	.	Note=Zinc%3B catalytic	
+Q16769	UniProtKB	Glycosylation	49	49	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21671571;Dbxref=PMID:21671571	
+Q16769	UniProtKB	Glycosylation	296	296	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16769	UniProtKB	Disulfide bond	139	164	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21671571;Dbxref=PMID:21671571	
+Q16769	UniProtKB	Alternative sequence	41	89	.	.	.	ID=VSP_038487;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16769	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_053956;Note=Lowers activity by approximately 30%25. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=dbSNP:rs2255991,PMID:16135565	
+Q16769	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_005569;Note=Q->R;Dbxref=dbSNP:rs895245310	
+Q16769	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_053957;Note=H->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs4670696,PMID:15489334	
+Q16769	UniProtKB	Mutagenesis	144	144	.	.	.	Note=Lowers activity by approximately 40%25. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=PMID:16135565	
+Q16769	UniProtKB	Mutagenesis	146	146	.	.	.	Note=Lowers activity by approximately 30%25. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=PMID:16135565	
+Q16769	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Reduces activity by about 50%25. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18072935;Dbxref=PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Reduces activity by 96%25. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18072935;Dbxref=PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	201	201	.	.	.	Note=Reduces activity by about 98%25. E->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16135565,ECO:0000269|PubMed:18072935;Dbxref=PMID:16135565,PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	201	201	.	.	.	Note=Abolishes activity. E->L%2CQ;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16135565,ECO:0000269|PubMed:18072935;Dbxref=PMID:16135565,PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Greatly lowers activity. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=PMID:16135565	
+Q16769	UniProtKB	Mutagenesis	248	248	.	.	.	Note=Reduces activity by 99%25. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16135565,ECO:0000269|PubMed:18072935;Dbxref=PMID:16135565,PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	248	248	.	.	.	Note=Abolishes activity. D->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16135565,ECO:0000269|PubMed:18072935;Dbxref=PMID:16135565,PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	304	304	.	.	.	Note=Lowers activity by approximately 35%25. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=PMID:16135565	
+Q16769	UniProtKB	Mutagenesis	305	305	.	.	.	Note=Abolishes activity. D->A%2CE%2CL;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16135565,ECO:0000269|PubMed:18072935;Dbxref=PMID:16135565,PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	305	305	.	.	.	Note=Reduces activity by 99%25. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16135565,ECO:0000269|PubMed:18072935;Dbxref=PMID:16135565,PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	319	319	.	.	.	Note=Reduces activity by 87%25. H->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18072935;Dbxref=PMID:18072935	
+Q16769	UniProtKB	Mutagenesis	325	325	.	.	.	Note=Greatly lowers activity. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=PMID:16135565	
+Q16769	UniProtKB	Mutagenesis	329	329	.	.	.	Note=Abolishes activity. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16135565;Dbxref=PMID:16135565	
+Q16769	UniProtKB	Helix	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	39	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	50	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	62	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	82	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	98	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	103	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	116	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	131	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PBB	
+Q16769	UniProtKB	Turn	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	161	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	175	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	180	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBX	
+Q16769	UniProtKB	Beta strand	191	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	204	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	209	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	214	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	226	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Turn	237	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	241	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	252	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	257	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SI0	
+Q16769	UniProtKB	Helix	262	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	265	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	284	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	293	295	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PBB	
+Q16769	UniProtKB	Helix	308	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Turn	312	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Beta strand	317	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Turn	327	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	
+Q16769	UniProtKB	Helix	336	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFM	
+Q16769	UniProtKB	Helix	341	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AFW	

@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q6PK18 1 319
+Q6PK18	UniProtKB	Chain	1	319	.	.	.	ID=PRO_0000325885;Note=2-oxoglutarate and iron-dependent oxygenase domain-containing protein 3	
+Q6PK18	UniProtKB	Topological domain	1	42	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PK18	UniProtKB	Transmembrane	43	65	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PK18	UniProtKB	Topological domain	66	319	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PK18	UniProtKB	Domain	207	309	.	.	.	Note=Fe2OG dioxygenase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q6PK18	UniProtKB	Active site	298	298	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PK18	UniProtKB	Metal binding	230	230	.	.	.	Note=Iron;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q6PK18	UniProtKB	Metal binding	232	232	.	.	.	Note=Iron;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q6PK18	UniProtKB	Metal binding	288	288	.	.	.	Note=Iron;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q6PK18	UniProtKB	Binding site	298	298	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q6PK18	UniProtKB	Glycosylation	215	215	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PK18	UniProtKB	Alternative sequence	276	319	.	.	.	ID=VSP_032462;Note=In isoform 2. RVSFFTSGSENLHRVEKVHWGTRYAITIAFSCNPDHGIEDPAFP->CFCFRMMSCGFQEVNGPRASEAAGAKAGVRCPPGTHHPPERGETHAILEAESIAYC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6PK18	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_039948;Note=D->E;Dbxref=dbSNP:rs8072110	
+Q6PK18	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_039949;Note=P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852152,PMID:15489334	

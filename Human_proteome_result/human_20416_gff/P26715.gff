@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P26715 1 233
+P26715	UniProtKB	Chain	1	233	.	.	.	ID=PRO_0000046659;Note=NKG2-A/NKG2-B type II integral membrane protein	
+P26715	UniProtKB	Topological domain	1	70	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Transmembrane	71	93	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Topological domain	94	233	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Domain	118	231	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P26715	UniProtKB	Glycosylation	102	102	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Glycosylation	103	103	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Glycosylation	151	151	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Glycosylation	180	180	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P26715	UniProtKB	Disulfide bond	116	116	.	.	.	Note=Interchain (with C-59 in KLRD1)	
+P26715	UniProtKB	Disulfide bond	119	130	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Disulfide bond	147	229	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Disulfide bond	208	221	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Alternative sequence	96	113	.	.	.	ID=VSP_003062;Note=In isoform NKG2-B. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:2007850;Dbxref=PMID:15489334,PMID:2007850	
+P26715	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_050120;Note=N->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:2007850,ECO:0000269|PubMed:8753859,ECO:0000269|PubMed:9598306,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2253849,PMID:15489334,PMID:2007850,PMID:8753859,PMID:9598306	
+P26715	UniProtKB	Mutagenesis	137	137	.	.	.	Note=Reduces binding to HLA-E. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	163	163	.	.	.	Note=Has no impact on the affinity for HLA-E. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	167	170	.	.	.	Note=Impairs binding to HLA-E. SIIS->ASIL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Has no impact on the affinity for HLA-E. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Has no impact on the affinity for HLA-E. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	202	202	.	.	.	Note=Has no impact on the affinity for HLA-E. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	212	212	.	.	.	Note=Reduces binding to HLA-E. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Has no impact on the affinity for HLA-E. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	215	215	.	.	.	Note=Reduces binding to HLA-E. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	217	217	.	.	.	Note=Reduces binding to HLA-E. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	220	220	.	.	.	Note=Has little impact on affinity for HLA-E. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Mutagenesis	223	223	.	.	.	Note=Has no impact on affinity for HLA-E. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18083576;Dbxref=PMID:18083576	
+P26715	UniProtKB	Beta strand	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CDG	
+P26715	UniProtKB	Beta strand	124	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Helix	140	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Beta strand	152	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Helix	160	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Beta strand	171	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Beta strand	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Beta strand	208	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	
+P26715	UniProtKB	Beta strand	225	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BDW	

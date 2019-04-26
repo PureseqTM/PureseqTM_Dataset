@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q8TD07 1 263
+Q8TD07	UniProtKB	Signal peptide	1	30	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Chain	31	263	.	.	.	ID=PRO_0000019021;Note=Retinoic acid early transcript 1E	
+Q8TD07	UniProtKB	Topological domain	31	225	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Transmembrane	226	248	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Topological domain	249	263	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Region	31	116	.	.	.	Note=MHC class I alpha-1 like%3B down-regulates the cell surface expression of KLRK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18544572;Dbxref=PMID:18544572	
+Q8TD07	UniProtKB	Region	117	207	.	.	.	Note=MHC class I alpha-2 like%3B down-regulates the cell surface expression of KLRK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18544572;Dbxref=PMID:18544572	
+Q8TD07	UniProtKB	Compositional bias	219	222	.	.	.	Note=Poly-Ser	
+Q8TD07	UniProtKB	Glycosylation	36	36	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Glycosylation	154	154	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Glycosylation	212	212	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TD07	UniProtKB	Disulfide bond	126	189	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8TD07	UniProtKB	Alternative sequence	28	63	.	.	.	ID=VSP_010441;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q8TD07	UniProtKB	Alternative sequence	29	29	.	.	.	ID=VSP_059262;Note=In isoform 6. G->GECPEHKNWLRTRRREKG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18544572;Dbxref=PMID:18544572	
+Q8TD07	UniProtKB	Alternative sequence	165	208	.	.	.	ID=VSP_059263;Note=In isoform 5. SKIKETWKKDRGLEKYFRKLSKGDCDHWLREFLGHWEAMPEPTV->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18544572;Dbxref=PMID:18544572	
+Q8TD07	UniProtKB	Alternative sequence	208	263	.	.	.	ID=VSP_045012;Note=In isoform 4. VSPVNASDIHWSSSSLPDRWIILGAFILLVLMGIVLICVWWQNGEWQAGLWPLRTS->GN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17470428;Dbxref=PMID:17470428	
+Q8TD07	UniProtKB	Alternative sequence	208	212	.	.	.	ID=VSP_010442;Note=In isoform 3. VSPVN->GRRST;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12975309;Dbxref=PMID:12975309	
+Q8TD07	UniProtKB	Alternative sequence	213	263	.	.	.	ID=VSP_010443;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12975309;Dbxref=PMID:12975309	
+Q8TD07	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_024534;Note=R->H;Dbxref=dbSNP:rs9383583	
+Q8TD07	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_020271;Note=Y->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11827464,ECO:0000269|PubMed:12975309;Dbxref=dbSNP:rs2151910,PMID:11827464,PMID:12975309	
+Q8TD07	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_024535;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11827464;Dbxref=dbSNP:rs6925151,PMID:11827464	
+Q8TD07	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_050408;Note=A->T;Dbxref=dbSNP:rs9383921	
+Q8TD07	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_050409;Note=T->I;Dbxref=dbSNP:rs9371533	
+Q8TD07	UniProtKB	Natural variant	194	194	.	.	.	ID=VAR_061483;Note=R->G;Dbxref=dbSNP:rs57292884	
+Q8TD07	UniProtKB	Natural variant	237	237	.	.	.	ID=VAR_024536;Note=V->L;Dbxref=dbSNP:rs2342767	
+Q8TD07	UniProtKB	Sequence conflict	141	142	.	.	.	Note=AT->TI;Ontology_term=ECO:0000305;evidence=ECO:0000305	

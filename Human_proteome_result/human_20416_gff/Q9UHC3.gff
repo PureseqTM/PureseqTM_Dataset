@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region Q9UHC3 1 531
+Q9UHC3	UniProtKB	Chain	1	531	.	.	.	ID=PRO_0000181301;Note=Acid-sensing ion channel 3	
+Q9UHC3	UniProtKB	Topological domain	1	43	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Transmembrane	44	61	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Topological domain	62	441	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Transmembrane	442	460	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Topological domain	461	531	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Motif	528	531	.	.	.	Note=PDZ-binding	
+Q9UHC3	UniProtKB	Site	26	26	.	.	.	Note=Potassium ion selectivity and permeability;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Glycosylation	175	175	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Glycosylation	398	398	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UHC3	UniProtKB	Disulfide bond	92	186	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Disulfide bond	164	171	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Disulfide bond	282	370	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Disulfide bond	315	366	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Disulfide bond	319	364	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Disulfide bond	328	350	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Disulfide bond	330	342	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHC3	UniProtKB	Alternative sequence	356	407	.	.	.	ID=VSP_015600;Note=In isoform 4. DAMLRKDSCACPNPCASTRYAKELSMVRIPSRAAARFLARKLNRSEAYIAEN->GRTCWPWTSSLRPSTMRPWSRRRPMRCQSCLVTLGARWGCSSGPACSPSSRS;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+Q9UHC3	UniProtKB	Alternative sequence	408	531	.	.	.	ID=VSP_015601;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+Q9UHC3	UniProtKB	Alternative sequence	487	531	.	.	.	ID=VSP_015602;Note=In isoform 2. LQEGLGSHRTQVPHLSLGPRPPTPPCAVTKTLSASHRTCYLVTQL->TSHPSLCRHQDSLRLPPHLLPCHTALDLLSVSSEPRPDILDMPSLHVAFPSSPQIKS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.4;Dbxref=PMID:14702039	
+Q9UHC3	UniProtKB	Alternative sequence	506	531	.	.	.	ID=VSP_015603;Note=In isoform 3. RPPTPPCAVTKTLSASHRTCYLVTQL->STLLCSEDLPPLPVPSPRLSPPPTAPATLSHSSRPAVCVLGAPP;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q9UHC3	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_052037;Note=N->S;Dbxref=dbSNP:rs1864545	
+Q9UHC3	UniProtKB	Mutagenesis	528	528	.	.	.	Note=No effect on interaction with LIN7B%2C MAGI1 and GOPC. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15317815;Dbxref=PMID:15317815	
+Q9UHC3	UniProtKB	Mutagenesis	529	529	.	.	.	Note=Loss of interaction with LIN7B%2C MAGI1. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15317815;Dbxref=PMID:15317815	
+Q9UHC3	UniProtKB	Mutagenesis	530	530	.	.	.	Note=Loss of interaction with GOPC. No effect on interaction LIN7B and MAGI1. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15317815;Dbxref=PMID:15317815	
+Q9UHC3	UniProtKB	Mutagenesis	531	531	.	.	.	Note=Loss of interaction with LIN7B%2C MAGI1 and GOPC. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15317815;Dbxref=PMID:15317815	
+Q9UHC3	UniProtKB	Sequence conflict	13	13	.	.	.	Note=P->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	13	13	.	.	.	Note=P->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	14	14	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	85	85	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	243	244	.	.	.	Note=SQ->GH;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	358	358	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	397	397	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	400	400	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHC3	UniProtKB	Sequence conflict	518	518	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

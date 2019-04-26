@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q6UWF3 1 145
+Q6UWF3	UniProtKB	Chain	1	145	.	.	.	ID=PRO_0000295237;Note=SLP adapter and CSK-interacting membrane protein	
+Q6UWF3	UniProtKB	Transmembrane	19	39	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6UWF3	UniProtKB	Compositional bias	57	137	.	.	.	Note=Pro-rich	
+Q6UWF3	UniProtKB	Modified residue	76	76	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3UU41	
+Q6UWF3	UniProtKB	Modified residue	131	131	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3UU41	
+Q6UWF3	UniProtKB	Lipidation	40	40	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21930792;Dbxref=PMID:21930792	
+Q6UWF3	UniProtKB	Lipidation	42	42	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21930792;Dbxref=PMID:21930792	
+Q6UWF3	UniProtKB	Alternative sequence	43	49	.	.	.	ID=VSP_026853;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.3;Dbxref=PMID:14702039,PMID:15489334	
+Q6UWF3	UniProtKB	Alternative sequence	95	130	.	.	.	ID=VSP_026854;Note=In isoform 2. SPQEAPSQPPATYSLVNKVKNKKTVSIPSYIEPEDD->YGVLLCHPGWSAMARSRLTASSASRVHAILLPQPPE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6UWF3	UniProtKB	Alternative sequence	131	145	.	.	.	ID=VSP_026855;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6UWF3	UniProtKB	Mutagenesis	69	69	.	.	.	Note=Inhibits interaction with GRB2. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21930792;Dbxref=PMID:21930792	
+Q6UWF3	UniProtKB	Mutagenesis	107	107	.	.	.	Note=Inhibits interaction with CSK. Stimulates activation of several downstream signaling pathways. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21930792;Dbxref=PMID:21930792	
+Q6UWF3	UniProtKB	Mutagenesis	131	131	.	.	.	Note=Inhibits interaction with BLNK. Inhibits activation of several downstream signaling pathways. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21930792;Dbxref=PMID:21930792	

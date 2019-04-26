@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P10599 1 105
+P10599	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1998498,ECO:0000269|PubMed:7818492;Dbxref=PMID:1998498,PMID:7818492	
+P10599	UniProtKB	Chain	2	105	.	.	.	ID=PRO_0000120005;Note=Thioredoxin	
+P10599	UniProtKB	Domain	2	105	.	.	.	Note=Thioredoxin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+P10599	UniProtKB	Active site	32	32	.	.	.	Note=Nucleophile	
+P10599	UniProtKB	Active site	35	35	.	.	.	Note=Nucleophile	
+P10599	UniProtKB	Site	26	26	.	.	.	Note=Deprotonates C-terminal active site Cys	
+P10599	UniProtKB	Site	33	33	.	.	.	Note=Contributes to redox potential value	
+P10599	UniProtKB	Site	34	34	.	.	.	Note=Contributes to redox potential value	
+P10599	UniProtKB	Modified residue	3	3	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P10599	UniProtKB	Modified residue	8	8	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10639	
+P10599	UniProtKB	Modified residue	39	39	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P10599	UniProtKB	Modified residue	62	62	.	.	.	Note=S-nitrosocysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17260951;Dbxref=PMID:17260951	
+P10599	UniProtKB	Modified residue	69	69	.	.	.	Note=S-nitrosocysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17260951;Dbxref=PMID:17260951	
+P10599	UniProtKB	Modified residue	73	73	.	.	.	Note=S-nitrosocysteine%3B alternate;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16408020,ECO:0000269|PubMed:17606900;Dbxref=PMID:16408020,PMID:17606900	
+P10599	UniProtKB	Modified residue	94	94	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10639	
+P10599	UniProtKB	Modified residue	94	94	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10639	
+P10599	UniProtKB	Disulfide bond	32	35	.	.	.	Note=Redox-active;Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00691,ECO:0000269|PubMed:17260951,ECO:0000269|PubMed:2001356;Dbxref=PMID:17260951,PMID:2001356	
+P10599	UniProtKB	Disulfide bond	73	73	.	.	.	Note=Interchain%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17260951;Dbxref=PMID:17260951	
+P10599	UniProtKB	Alternative sequence	44	63	.	.	.	ID=VSP_045607;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.13	
+P10599	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Loses its reducing activity%2C interaction with APEX1 and transcription activation%3B when associated with S-35. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9108029;Dbxref=PMID:9108029	
+P10599	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Loses its reducing activity%2C interaction with APEX1 and transcription activation%3B when associated with S-32. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9108029;Dbxref=PMID:9108029	
+P10599	UniProtKB	Mutagenesis	60	60	.	.	.	Note=Loss of pH-dependence of dimerization. D->N	
+P10599	UniProtKB	Mutagenesis	62	62	.	.	.	Note=Retains its reducing activity. Retains interaction with APEX1 and transcription activation%3B when associated with S-69 and S-73. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9108029;Dbxref=PMID:9108029	
+P10599	UniProtKB	Mutagenesis	69	69	.	.	.	Note=No effect on reducing activity%2C interaction with APEX1 and on S-nitrosylation of C-73. Retains interaction with APEX1 and transcription activation%3B when associated with S-62 and S-73. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17606900,ECO:0000269|PubMed:9108029;Dbxref=PMID:17606900,PMID:9108029	
+P10599	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Strongly reduced interaction with CASP3%3B when associated with A-72. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17606900;Dbxref=PMID:17606900	
+P10599	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Strongly reduced interaction with CASP3%3B when associated with A-70. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17606900;Dbxref=PMID:17606900	
+P10599	UniProtKB	Mutagenesis	73	73	.	.	.	Note=Strongly reduced S-nitrosylation of CASP3. C->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16408020,ECO:0000269|PubMed:17606900,ECO:0000269|PubMed:9108029;Dbxref=PMID:16408020,PMID:17606900,PMID:9108029	
+P10599	UniProtKB	Mutagenesis	73	73	.	.	.	Note=Loss of nitrosylation%2C and loss of S-nitrosylating activity towards CASP3. Retains interaction with APEX1 and transcription activation%3B when associated with S-62 and S-69. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16408020,ECO:0000269|PubMed:17606900,ECO:0000269|PubMed:9108029;Dbxref=PMID:16408020,PMID:17606900,PMID:9108029	
+P10599	UniProtKB	Mutagenesis	73	73	.	.	.	Note=Retains its reducing activity. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16408020,ECO:0000269|PubMed:17606900,ECO:0000269|PubMed:9108029;Dbxref=PMID:16408020,PMID:17606900,PMID:9108029	
+P10599	UniProtKB	Sequence conflict	39	39	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10599	UniProtKB	Sequence conflict	39	39	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10599	UniProtKB	Sequence conflict	74	74	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10599	UniProtKB	Sequence conflict	74	74	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10599	UniProtKB	Beta strand	3	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IFQ	
+P10599	UniProtKB	Helix	8	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Turn	18	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Beta strand	23	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Beta strand	30	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TRX	
+P10599	UniProtKB	Helix	33	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Turn	49	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QFB	
+P10599	UniProtKB	Beta strand	52	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Turn	59	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Helix	63	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Beta strand	73	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Beta strand	84	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	
+P10599	UniProtKB	Helix	94	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OO4	

@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q7RTN6 1 431
+Q7RTN6	UniProtKB	Chain	1	431	.	.	.	ID=PRO_0000260035;Note=STE20-related kinase adapter protein alpha	
+Q7RTN6	UniProtKB	Domain	69	379	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q7RTN6	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q7RTN6	UniProtKB	Modified residue	46	46	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q7RTN6	UniProtKB	Modified residue	329	329	.	.	.	Note=Phosphothreonine%3B by LKB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12805220;Dbxref=PMID:12805220	
+Q7RTN6	UniProtKB	Modified residue	419	419	.	.	.	Note=Phosphothreonine%3B by LKB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12805220;Dbxref=PMID:12805220	
+Q7RTN6	UniProtKB	Alternative sequence	1	58	.	.	.	ID=VSP_044278;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q7RTN6	UniProtKB	Alternative sequence	5	41	.	.	.	ID=VSP_052219;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2;Dbxref=PMID:14702039	
+Q7RTN6	UniProtKB	Alternative sequence	13	41	.	.	.	ID=VSP_044717;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q7RTN6	UniProtKB	Alternative sequence	32	75	.	.	.	ID=VSP_043707;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q7RTN6	UniProtKB	Alternative sequence	338	431	.	.	.	ID=VSP_043708;Note=In isoform 4 and isoform 6. DSPSHPYHRTFSPHFHHFVEQCLQRNPDARPSASTLLNHSFFKQIKRRASEALPELLRPVTPITNFEGSQSQDHSGIFGLVTNLEELEVDDWEF->PVPAPS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q7RTN6	UniProtKB	Alternative sequence	368	417	.	.	.	ID=VSP_052220;Note=In isoform 2. PSASTLLNHSFFKQIKRRASEALPELLRPVTPITNFEGSQSQDHSGIFGL->YPCWPGPGLRESRGCSGG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2;Dbxref=PMID:14702039	
+Q7RTN6	UniProtKB	Alternative sequence	418	431	.	.	.	ID=VSP_052221;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2;Dbxref=PMID:14702039	
+Q7RTN6	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_041377;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35808156,PMID:17344846	
+Q7RTN6	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_041378;Note=S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56271007,PMID:17344846	
+Q7RTN6	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_041379;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55695051,PMID:17344846	
+Q7RTN6	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Suppresses STK11/LKB1 activation without affecting complex assembly. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892943;Dbxref=PMID:19892943	
+Q7RTN6	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Inhibits interaction with STK11/LKB1%3B when associated with A-. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892943;Dbxref=PMID:19892943	
+Q7RTN6	UniProtKB	Mutagenesis	233	233	.	.	.	Note=Inhibits interaction with STK11/LKB1%3B when associated with A-. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892943;Dbxref=PMID:19892943	
+Q7RTN6	UniProtKB	Mutagenesis	241	241	.	.	.	Note=Inhibits interaction with STK11/LKB1. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892943;Dbxref=PMID:19892943	
+Q7RTN6	UniProtKB	Mutagenesis	251	251	.	.	.	Note=Inhibits interaction with STK11/LKB1. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892943;Dbxref=PMID:19892943	
+Q7RTN6	UniProtKB	Mutagenesis	329	329	.	.	.	Note=Loss of STK11/LKB1-mediated phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12805220;Dbxref=PMID:12805220	
+Q7RTN6	UniProtKB	Mutagenesis	419	419	.	.	.	Note=Loss of STK11/LKB1-mediated phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12805220;Dbxref=PMID:12805220	
+Q7RTN6	UniProtKB	Sequence conflict	163	163	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7RTN6	UniProtKB	Sequence conflict	339	339	.	.	.	Note=S->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7RTN6	UniProtKB	Sequence conflict	363	363	.	.	.	Note=N->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7RTN6	UniProtKB	Sequence conflict	388	388	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7RTN6	UniProtKB	Helix	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	69	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Turn	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	83	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Turn	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	96	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	109	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	133	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	142	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	155	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	169	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	201	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Beta strand	209	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	214	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	241	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	246	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	259	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Turn	278	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	287	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	350	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Turn	364	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	370	373	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	377	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	386	388	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WTK	
+Q7RTN6	UniProtKB	Helix	390	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Turn	394	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GNI	
+Q7RTN6	UniProtKB	Helix	406	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WTK	
+Q7RTN6	UniProtKB	Beta strand	414	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WTK	

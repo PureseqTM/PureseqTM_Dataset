@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region O94766 1 335
+O94766	UniProtKB	Chain	1	335	.	.	.	ID=PRO_0000195176;Note=Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3	
+O94766	UniProtKB	Topological domain	1	7	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94766	UniProtKB	Transmembrane	8	28	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94766	UniProtKB	Topological domain	29	335	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94766	UniProtKB	Nucleotide binding	82	84	.	.	.	Note=UDP-glucuronate binding	
+O94766	UniProtKB	Nucleotide binding	194	196	.	.	.	Note=UDP-glucuronate binding	
+O94766	UniProtKB	Nucleotide binding	308	310	.	.	.	Note=UDP-glucuronate binding	
+O94766	UniProtKB	Region	243	252	.	.	.	Note=Interaction with galactose moiety of substrate glycoprotein	
+O94766	UniProtKB	Active site	281	281	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11950836;Dbxref=PMID:11950836	
+O94766	UniProtKB	Metal binding	196	196	.	.	.	Note=Manganese	
+O94766	UniProtKB	Binding site	113	113	.	.	.	Note=UDP-glucuronate	
+O94766	UniProtKB	Binding site	156	156	.	.	.	Note=UDP-glucuronate	
+O94766	UniProtKB	Binding site	161	161	.	.	.	Note=UDP-glucuronate	
+O94766	UniProtKB	Site	227	227	.	.	.	Note=Interaction with galactose moiety of substrate glycoprotein	
+O94766	UniProtKB	Site	318	318	.	.	.	Note=Interaction with galactose moiety of substrate glycoprotein	
+O94766	UniProtKB	Glycosylation	300	300	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+O94766	UniProtKB	Disulfide bond	33	33	.	.	.	Note=Interchain	
+O94766	UniProtKB	Alternative sequence	304	335	.	.	.	ID=VSP_056347;Note=In isoform 2. VLVWHTRTEKPKMKQEEQLQRQGRGSDPAIEV->TESRCVTQAGVQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94766	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_075370;Note=In JDSCD%3B reduced glucuronyltransferase activity%3B patient fibroblasts have decreased levels of dermatan sulfate%2C chondroitin sulfate and heparan sulfate proteoglycans. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25893793;Dbxref=dbSNP:rs879255269,PMID:25893793	
+O94766	UniProtKB	Natural variant	223	223	.	.	.	ID=VAR_075371;Note=In JDSCD%3B unknown pathological significance. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26086840;Dbxref=dbSNP:rs372487178,PMID:26086840	
+O94766	UniProtKB	Natural variant	277	277	.	.	.	ID=VAR_066624;Note=In JDSCD%3B reduced glucuronyltransferase activity%3B patient fibroblasts have decreased levels of dermatan sulfate%2C chondroitin sulfate and heparan sulfate proteoglycans. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21763480,ECO:0000269|PubMed:24668659;Dbxref=dbSNP:rs387906937,PMID:21763480,PMID:24668659	
+O94766	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Loss of dimer formation and reduced activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10842173;Dbxref=PMID:10842173	
+O94766	UniProtKB	Mutagenesis	281	281	.	.	.	Note=Absence of enzymatic activity in presence of uridine diphosphate-glucuronic acid (UDP-GlcUA). Does not increase PXYLP1-induced 2-phosphoxylose phosphatase activity in presence of uridine diphosphate-glucuronic acid (UDP-GlcUA). E->A;Ontology_term=ECO:0000269,ECO:0000303;evidence=ECO:0000269|PubMed:24425863,ECO:0000303|PubMed:24425863;Dbxref=PMID:24425863,PMID:24425863	
+O94766	UniProtKB	Mutagenesis	301	301	.	.	.	Note=Enzyme inactivation and loss of glycosylation. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10842173;Dbxref=PMID:10842173	
+O94766	UniProtKB	Sequence conflict	204	204	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O94766	UniProtKB	Beta strand	76	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	89	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	103	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	119	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	130	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	158	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	174	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	188	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	197	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	201	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	211	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	218	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	224	232	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	235	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	253	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Beta strand	256	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	260	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	280	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Turn	286	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	298	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Helix	317	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	
+O94766	UniProtKB	Turn	324	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CU0	

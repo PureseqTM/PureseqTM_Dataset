@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region P01730 1 458
+P01730	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15340161,ECO:0000269|PubMed:2592374;Dbxref=PMID:15340161,PMID:2592374	
+P01730	UniProtKB	Chain	26	458	.	.	.	ID=PRO_0000014621;Note=T-cell surface glycoprotein CD4	
+P01730	UniProtKB	Topological domain	26	396	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01730	UniProtKB	Transmembrane	397	418	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01730	UniProtKB	Topological domain	419	458	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01730	UniProtKB	Domain	26	125	.	.	.	Note=Ig-like V-type	
+P01730	UniProtKB	Domain	126	203	.	.	.	Note=Ig-like C2-type 1	
+P01730	UniProtKB	Domain	204	317	.	.	.	Note=Ig-like C2-type 2	
+P01730	UniProtKB	Domain	318	374	.	.	.	Note=Ig-like C2-type 3	
+P01730	UniProtKB	Region	427	455	.	.	.	Note=HIV-1 Vpu-susceptibility domain	
+P01730	UniProtKB	Modified residue	433	433	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2105883;Dbxref=PMID:2105883	
+P01730	UniProtKB	Modified residue	440	440	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2105883;Dbxref=PMID:2105883	
+P01730	UniProtKB	Modified residue	456	456	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2105883;Dbxref=PMID:2105883	
+P01730	UniProtKB	Lipidation	419	419	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1618861;Dbxref=PMID:1618861	
+P01730	UniProtKB	Lipidation	422	422	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1618861;Dbxref=PMID:1618861	
+P01730	UniProtKB	Glycosylation	296	296	.	.	.	ID=CAR_000053;Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:2001369,ECO:0000269|PubMed:2592374;Dbxref=PMID:19159218,PMID:2001369,PMID:2592374	
+P01730	UniProtKB	Glycosylation	325	325	.	.	.	ID=CAR_000054;Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2001369,ECO:0000269|PubMed:2592374;Dbxref=PMID:2001369,PMID:2592374	
+P01730	UniProtKB	Disulfide bond	41	109	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:2592374;Dbxref=PMID:2592374	
+P01730	UniProtKB	Disulfide bond	155	184	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:2592374;Dbxref=PMID:2592374	
+P01730	UniProtKB	Disulfide bond	328	370	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:2592374;Dbxref=PMID:2592374	
+P01730	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_023459;Note=K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs28917504	
+P01730	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_023460;Note=F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs11064419	
+P01730	UniProtKB	Natural variant	265	265	.	.	.	ID=VAR_003906;Note=In OKT4-negative populations. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1708753,ECO:0000269|PubMed:1961196,ECO:0000269|Ref.8;Dbxref=dbSNP:rs28919570,PMID:1708753,PMID:1961196	
+P01730	UniProtKB	Mutagenesis	432	432	.	.	.	Note=No effect. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8124721;Dbxref=PMID:8124721	
+P01730	UniProtKB	Mutagenesis	433	433	.	.	.	Note=About 75%25 loss of internalization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2105883;Dbxref=PMID:2105883	
+P01730	UniProtKB	Mutagenesis	433	433	.	.	.	Note=No effect. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8124721;Dbxref=PMID:8124721	
+P01730	UniProtKB	Mutagenesis	438	439	.	.	.	Note=Loss of Nef-induced CD4 down-modulation. LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8124721;Dbxref=PMID:8124721	
+P01730	UniProtKB	Mutagenesis	440	440	.	.	.	Note=No effect. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8124721;Dbxref=PMID:8124721	
+P01730	UniProtKB	Mutagenesis	445	445	.	.	.	Note=Loss of homodimerization%3B when associated with A-447. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9168119;Dbxref=PMID:9168119	
+P01730	UniProtKB	Mutagenesis	447	447	.	.	.	Note=Loss of homodimerization%3B when associated with A-445. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9168119;Dbxref=PMID:9168119	
+P01730	UniProtKB	Mutagenesis	457	458	.	.	.	Note=Abolished interaction with SPG21 and induced T-cell activation. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11113139;Dbxref=PMID:11113139	
+P01730	UniProtKB	Beta strand	27	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	44	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	51	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LQA	
+P01730	UniProtKB	Beta strand	60	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	68	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	73	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NY6	
+P01730	UniProtKB	Helix	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Helix	84	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Helix	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	105	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	114	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	131	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NY1	
+P01730	UniProtKB	Beta strand	135	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1G9N	
+P01730	UniProtKB	Beta strand	139	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	152	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	158	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CDJ	
+P01730	UniProtKB	Beta strand	162	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	166	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Helix	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	180	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Beta strand	191	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H8W	
+P01730	UniProtKB	Helix	398	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KLU	
+P01730	UniProtKB	Beta strand	426	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KLU	
+P01730	UniProtKB	Helix	432	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3B71	
+P01730	UniProtKB	Beta strand	440	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WBR	

@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q9NST1 1 481
+Q9NST1	UniProtKB	Chain	1	481	.	.	.	ID=PRO_0000064458;Note=1-acylglycerol-3-phosphate O-acyltransferase PNPLA3	
+Q9NST1	UniProtKB	Topological domain	1	41	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NST1	UniProtKB	Transmembrane	42	62	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NST1	UniProtKB	Topological domain	63	481	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NST1	UniProtKB	Domain	10	179	.	.	.	Note=PNPLA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161	
+Q9NST1	UniProtKB	Motif	14	19	.	.	.	Note=GXGXXG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161	
+Q9NST1	UniProtKB	Motif	45	49	.	.	.	Note=GXSXG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161	
+Q9NST1	UniProtKB	Motif	166	168	.	.	.	Note=DGA/G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161	
+Q9NST1	UniProtKB	Active site	47	47	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161	
+Q9NST1	UniProtKB	Active site	166	166	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01161	
+Q9NST1	UniProtKB	Glycosylation	89	89	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NST1	UniProtKB	Glycosylation	280	280	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NST1	UniProtKB	Alternative sequence	59	62	.	.	.	ID=VSP_036222;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NST1	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_077543;Note=In NAFLD1%3B unknown pathological significance. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27288299;Dbxref=dbSNP:rs746140741,PMID:27288299	
+Q9NST1	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_015845;Note=C->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2076213,PMID:15489334	
+Q9NST1	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_077544;Note=In NAFLD1%3B unknown pathological significance. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27288299;Dbxref=PMID:27288299	
+Q9NST1	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_015846;Note=G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs2076212,PMID:14702039	
+Q9NST1	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_019961;Note=Common polymorphism%3B associated with increased hepatic fat content and serum aspartate aminotransferase concentrations%3B increases 1-acylglycerol-3-phosphate O-acyltransferase activity 2-fold. I->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:18728122,ECO:0000269|PubMed:18820647,ECO:0000269|PubMed:19224197,ECO:0000269|PubMed:19738004,ECO:0000269|PubMed:22560221;Dbxref=dbSNP:rs738409,PMID:14702039,PMID:15489334,PMID:18728122,PMID:18820647,PMID:19224197,PMID:19738004,PMID:22560221	
+Q9NST1	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_077545;Note=In NAFLD1%3B unknown pathological significance. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27288299;Dbxref=dbSNP:rs190477302,PMID:27288299	
+Q9NST1	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_053814;Note=T->P;Dbxref=dbSNP:rs35726887	
+Q9NST1	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_015847;Note=K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15461802,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.5;Dbxref=dbSNP:rs2294918,PMID:14702039,PMID:15461802,PMID:15489334	
+Q9NST1	UniProtKB	Natural variant	453	453	.	.	.	ID=VAR_053815;Note=Common polymorphism%3B associated with lower hepatic fat content in African Americans. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18820647;Dbxref=dbSNP:rs6006460,PMID:18820647	
+Q9NST1	UniProtKB	Mutagenesis	15	15	.	.	.	Note=65%25 loss of 1-acylglycerol-3-phosphate O-acyltransferase catalytic activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22560221;Dbxref=PMID:22560221	
+Q9NST1	UniProtKB	Mutagenesis	47	47	.	.	.	Note=No effect on 1-acylglycerol-3-phosphate O-acyltransferase catalytic activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22560221;Dbxref=PMID:22560221	
+Q9NST1	UniProtKB	Mutagenesis	206	206	.	.	.	Note=No effect on 1-acylglycerol-3-phosphate O-acyltransferase catalytic activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22560221;Dbxref=PMID:22560221	
+Q9NST1	UniProtKB	Mutagenesis	311	311	.	.	.	Note=67%25 loss of 1-acylglycerol-3-phosphate O-acyltransferase catalytic activity. P->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22560221;Dbxref=PMID:22560221	

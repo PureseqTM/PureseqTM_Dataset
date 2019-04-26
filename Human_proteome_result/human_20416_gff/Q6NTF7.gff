@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q6NTF7 1 200
+Q6NTF7	UniProtKB	Chain	1	200	.	.	.	ID=PRO_0000291663;Note=DNA dC->dU-editing enzyme APOBEC-3H	
+Q6NTF7	UniProtKB	Domain	4	126	.	.	.	Note=CMP/dCMP-type deaminase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01083	
+Q6NTF7	UniProtKB	Coiled coil	160	182	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6NTF7	UniProtKB	Active site	56	56	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6NTF7	UniProtKB	Metal binding	54	54	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6NTF7	UniProtKB	Metal binding	85	85	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6NTF7	UniProtKB	Metal binding	88	88	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6NTF7	UniProtKB	Alternative sequence	140	200	.	.	.	ID=VSP_047044;Note=In isoform 4. EFADCWENFVDHEKPLSFNPYKMLEELDKNSRAIKRRLERIKIPGVRAQGRYMDILCDAEV->NSRGTCAGSLHGYIV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6NTF7	UniProtKB	Alternative sequence	182	200	.	.	.	ID=VSP_035034;Note=In isoform 2. IPGVRAQGRYMDILCDAEV->S;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15461802,ECO:0000303|PubMed:15489334;Dbxref=PMID:15461802,PMID:15489334	
+Q6NTF7	UniProtKB	Alternative sequence	182	200	.	.	.	ID=VSP_039975;Note=In isoform 3. IPGVRAQGRYMDILCDAEV->QS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6NTF7	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_065622;Note=Decreases protein stability. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15461802,ECO:0000269|PubMed:18779051;Dbxref=PMID:15461802,PMID:18779051	
+Q6NTF7	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_032835;Note=R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15461802;Dbxref=dbSNP:rs139293,PMID:15461802	
+Q6NTF7	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_032836;Note=In allele A3H-Var%3B haplotype 2%3B allele presenting a higher expression and which is more effective in retrotransposons and HIV-1 restriction%3B increases protein stability. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15461802,ECO:0000269|PubMed:18779051;Dbxref=dbSNP:rs139297,PMID:15461802,PMID:18779051	
+Q6NTF7	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_032837;Note=In allele A3H-Var%3B haplotype 2%3B allele presenting a higher expression and more effective in retrotransposons and HIV-1 restriction. K->E;Dbxref=dbSNP:rs139298	
+Q6NTF7	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_032838;Note=K->N;Dbxref=dbSNP:rs139299	
+Q6NTF7	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_067444;Note=E->K;Dbxref=dbSNP:rs139300	
+Q6NTF7	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_032839;Note=In allele A3H-Var%3B haplotype 2%3B allele presenting a higher expression and more effective in retrotransposons and HIV-1 restriction. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15461802;Dbxref=dbSNP:rs139302,PMID:15461802	
+Q6NTF7	UniProtKB	Mutagenesis	56	56	.	.	.	Note=Reduces the ability to inhibit the retrotransposition of LINE-1 elements. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18827027;Dbxref=PMID:18827027	
+Q6NTF7	UniProtKB	Sequence conflict	121	121	.	.	.	Note=K->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6NTF7	UniProtKB	Helix	6	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Beta strand	21	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B0B	
+Q6NTF7	UniProtKB	Beta strand	29	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Turn	37	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B0B	
+Q6NTF7	UniProtKB	Beta strand	43	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Helix	55	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Beta strand	70	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B0B	
+Q6NTF7	UniProtKB	Beta strand	74	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Helix	86	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Beta strand	102	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Helix	117	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Beta strand	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Helix	138	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	
+Q6NTF7	UniProtKB	Helix	159	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W45	

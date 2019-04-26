@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q8N8S7 1 591
+Q8N8S7	UniProtKB	Chain	1	591	.	.	.	ID=PRO_0000086971;Note=Protein enabled homolog	
+Q8N8S7	UniProtKB	Domain	1	111	.	.	.	Note=WH1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00410	
+Q8N8S7	UniProtKB	Repeat	156	160	.	.	.	Note=1	
+Q8N8S7	UniProtKB	Repeat	161	165	.	.	.	Note=2	
+Q8N8S7	UniProtKB	Repeat	166	170	.	.	.	Note=3	
+Q8N8S7	UniProtKB	Repeat	171	175	.	.	.	Note=4	
+Q8N8S7	UniProtKB	Repeat	176	180	.	.	.	Note=5	
+Q8N8S7	UniProtKB	Repeat	181	185	.	.	.	Note=6	
+Q8N8S7	UniProtKB	Repeat	186	190	.	.	.	Note=7	
+Q8N8S7	UniProtKB	Repeat	191	195	.	.	.	Note=8	
+Q8N8S7	UniProtKB	Repeat	196	200	.	.	.	Note=9	
+Q8N8S7	UniProtKB	Region	156	200	.	.	.	Note=9 X 5 AA tandem repeats of [LMQ]-E-[QR]-E-[QR]	
+Q8N8S7	UniProtKB	Region	391	588	.	.	.	Note=EVH2	
+Q8N8S7	UniProtKB	Region	391	411	.	.	.	Note=EVH2 block A	
+Q8N8S7	UniProtKB	Region	442	459	.	.	.	Note=EVH2 block B	
+Q8N8S7	UniProtKB	Region	554	588	.	.	.	Note=EVH2 block C	
+Q8N8S7	UniProtKB	Coiled coil	135	265	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N8S7	UniProtKB	Coiled coil	557	587	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N8S7	UniProtKB	Motif	400	403	.	.	.	Note=KLKR	
+Q8N8S7	UniProtKB	Compositional bias	310	373	.	.	.	Note=Pro-rich	
+Q8N8S7	UniProtKB	Modified residue	125	125	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:17525332,PMID:18669648,PMID:20068231,PMID:23186163	
+Q8N8S7	UniProtKB	Modified residue	265	265	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q03173	
+Q8N8S7	UniProtKB	Modified residue	506	506	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+Q8N8S7	UniProtKB	Modified residue	508	508	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+Q8N8S7	UniProtKB	Alternative sequence	268	304	.	.	.	ID=VSP_053772;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:23129656;Dbxref=PMID:23129656	
+Q8N8S7	UniProtKB	Alternative sequence	513	533	.	.	.	ID=VSP_053773;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:23129656;Dbxref=PMID:23129656	
+Q8N8S7	UniProtKB	Alternative sequence	514	534	.	.	.	ID=VSP_010564;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|Ref.1;Dbxref=PMID:14702039,PMID:15489334,PMID:17974005	
+Q8N8S7	UniProtKB	Sequence conflict	493	493	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N8S7	UniProtKB	Beta strand	3	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Turn	18	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	22	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Helix	26	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	32	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Turn	41	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	45	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Turn	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	58	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	70	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	74	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Beta strand	86	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	
+Q8N8S7	UniProtKB	Helix	94	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NCG	

@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region O43653 1 114
+O43653	UniProtKB	Signal peptide	1	11	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+O43653	UniProtKB	Chain	12	86	.	.	.	ID=PRO_0000036162;Note=Prostate stem cell antigen	
+O43653	UniProtKB	Propeptide	86	114	.	.	.	ID=PRO_0000036163;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43653	UniProtKB	Domain	12	86	.	.	.	Note=UPAR/Ly6	
+O43653	UniProtKB	Lipidation	86	86	.	.	.	Note=GPI-anchor amidated serine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43653	UniProtKB	Glycosylation	31	31	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43653	UniProtKB	Disulfide bond	14	39	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0DP57	
+O43653	UniProtKB	Disulfide bond	17	26	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0DP57	
+O43653	UniProtKB	Disulfide bond	32	57	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0DP57	
+O43653	UniProtKB	Disulfide bond	61	77	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0DP57	
+O43653	UniProtKB	Disulfide bond	78	83	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0DP57	
+O43653	UniProtKB	Natural variant	1	1	.	.	.	ID=VAR_080777;Note=M->MKAVLLALLM;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18488030,ECO:0000269|PubMed:19648920;Dbxref=dbSNP:rs2294008,PMID:18488030,PMID:19648920	
+O43653	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_020173;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18488030;Dbxref=dbSNP:rs3736001,PMID:18488030	
+O43653	UniProtKB	Sequence conflict	1	1	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

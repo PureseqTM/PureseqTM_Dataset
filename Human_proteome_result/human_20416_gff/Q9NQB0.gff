@@ -1,0 +1,56 @@
+##gff-version 3
+##sequence-region Q9NQB0 1 619
+Q9NQB0	UniProtKB	Chain	1	619	.	.	.	ID=PRO_0000048623;Note=Transcription factor 7-like 2	
+Q9NQB0	UniProtKB	DNA binding	350	418	.	.	.	Note=HMG box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00267	
+Q9NQB0	UniProtKB	Region	1	53	.	.	.	Note=CTNNB1-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NQB0	UniProtKB	Region	201	395	.	.	.	Note=Mediates interaction with MAD2L2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19443654;Dbxref=PMID:19443654	
+Q9NQB0	UniProtKB	Region	459	505	.	.	.	Note=Promoter-specific activation domain	
+Q9NQB0	UniProtKB	Motif	425	430	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NQB0	UniProtKB	Compositional bias	178	317	.	.	.	Note=Pro-rich	
+Q9NQB0	UniProtKB	Modified residue	201	201	.	.	.	Note=Phosphothreonine%3B by NLK;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12556497;Dbxref=PMID:12556497	
+Q9NQB0	UniProtKB	Modified residue	212	212	.	.	.	Note=Phosphothreonine%3B by NLK;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12556497;Dbxref=PMID:12556497	
+Q9NQB0	UniProtKB	Cross-link	22	22	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9NQB0	UniProtKB	Cross-link	320	320	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12727872;Dbxref=PMID:12727872	
+Q9NQB0	UniProtKB	Cross-link	539	539	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9NQB0	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_053748;Note=In isoform 17. MPQLNG->MSSFLS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21256126;Dbxref=PMID:21256126	
+Q9NQB0	UniProtKB	Alternative sequence	7	290	.	.	.	ID=VSP_053749;Note=In isoform 17. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21256126;Dbxref=PMID:21256126	
+Q9NQB0	UniProtKB	Alternative sequence	128	150	.	.	.	ID=VSP_006962;Note=In isoform 8%2C isoform 10%2C isoform 11%2C isoform 12%2C isoform 13%2C isoform 14%2C isoform 15 and isoform 16. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:19602480,ECO:0000303|PubMed:21256126,ECO:0000303|PubMed:9065401;Dbxref=PMID:14702039,PMID:15489334,PMID:19602480,PMID:21256126,PMID:9065401	
+Q9NQB0	UniProtKB	Alternative sequence	184	184	.	.	.	ID=VSP_045821;Note=In isoform 11. V->VSPLPCCTQGHDCQHFYPPSDFTVSTQVFRDMKRSHSLQKVGEPWCIE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Alternative sequence	260	263	.	.	.	ID=VSP_006963;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NQB0	UniProtKB	Alternative sequence	290	290	.	.	.	ID=VSP_053750;Note=In isoform 15 and isoform 16. M->MSSFLS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21256126;Dbxref=PMID:21256126	
+Q9NQB0	UniProtKB	Alternative sequence	440	465	.	.	.	ID=VSP_006965;Note=In isoform 9%2C isoform 11%2C isoform 14 and isoform 15. EHSECFLNPCLSLPPITDLSAPKKCR->GEKKSAFATYKVKAAASAHPLQMEAY;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:19602480,ECO:0000303|PubMed:21256126,ECO:0000303|PubMed:9065401,ECO:0000303|Ref.5;Dbxref=PMID:14702039,PMID:19602480,PMID:21256126,PMID:9065401	
+Q9NQB0	UniProtKB	Alternative sequence	440	456	.	.	.	ID=VSP_006964;Note=In isoform 4%2C isoform 5%2C isoform 7%2C isoform 13 and isoform 16. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:19602480,ECO:0000303|PubMed:21256126;Dbxref=PMID:19602480,PMID:21256126	
+Q9NQB0	UniProtKB	Alternative sequence	457	619	.	.	.	ID=VSP_006967;Note=In isoform 6. DLSAPKKCRARFGLDQQNNWCGPCRRKKKCVRYIQGEGSCLSPPSSDGSLLDSPPPSPNLLGSPPRDAKSQTEQTQPLSLSLKPDPLAHLSMMPPPPALLLAEATHKASALCPNGALDLPPAALQPAAPSSSIAQPSTSSLHSHSSLAGTQPQPLSLVTKSLE->GEKKSAFATYKVKAAASAHPLQMEAY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21256126;Dbxref=PMID:21256126	
+Q9NQB0	UniProtKB	Alternative sequence	457	482	.	.	.	ID=VSP_006968;Note=In isoform 10. DLSAPKKCRARFGLDQQNNWCGPCRR->GEKKSAFATYKVKAAASAHPLQMEAY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NQB0	UniProtKB	Alternative sequence	457	478	.	.	.	ID=VSP_006966;Note=In isoform 3%2C isoform 7 and isoform 13. DLSAPKKCRARFGLDQQNNWCG->DANTPKKCRALFGLDRQTLWCK;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:19602480,ECO:0000303|PubMed:21256126;Dbxref=PMID:19602480,PMID:21256126	
+Q9NQB0	UniProtKB	Alternative sequence	466	619	.	.	.	ID=VSP_006969;Note=In isoform 9%2C isoform 11%2C isoform 14 and isoform 15. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:19602480,ECO:0000303|PubMed:21256126,ECO:0000303|PubMed:9065401,ECO:0000303|Ref.5;Dbxref=PMID:14702039,PMID:19602480,PMID:21256126,PMID:9065401	
+Q9NQB0	UniProtKB	Alternative sequence	481	619	.	.	.	ID=VSP_045822;Note=In isoform 12. RRKKKCVRYIQGEGSCLSPPSSDGSLLDSPPPSPNLLGSPPRDAKSQTEQTQPLSLSLKPDPLAHLSMMPPPPALLLAEATHKASALCPNGALDLPPAALQPAAPSSSIAQPSTSSLHSHSSLAGTQPQPLSLVTKSLE->SL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19602480;Dbxref=PMID:19602480	
+Q9NQB0	UniProtKB	Alternative sequence	482	494	.	.	.	ID=VSP_006970;Note=In isoform 2 and isoform 4. RKKKCVRYIQGEG->CKYSKEVSGTVRA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Alternative sequence	483	619	.	.	.	ID=VSP_006971;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NQB0	UniProtKB	Alternative sequence	495	619	.	.	.	ID=VSP_006972;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Natural variant	346	346	.	.	.	ID=VAR_047126;Note=K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10919662;Dbxref=dbSNP:rs2757884,PMID:10919662	
+Q9NQB0	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_035939;Note=In a colorectal cancer sample%3B somatic mutation. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9NQB0	UniProtKB	Mutagenesis	10	11	.	.	.	Note=Reduces CTNNB1 binding. DD->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10080941;Dbxref=PMID:10080941	
+Q9NQB0	UniProtKB	Mutagenesis	16	16	.	.	.	Note=Abolishes CTNNB1 binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10080941;Dbxref=PMID:10080941	
+Q9NQB0	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Reduces CTNNB1 binding. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10080941;Dbxref=PMID:10080941	
+Q9NQB0	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Reduces transcription activation. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713476;Dbxref=PMID:11713476	
+Q9NQB0	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Reduces transcription activation. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713476;Dbxref=PMID:11713476	
+Q9NQB0	UniProtKB	Mutagenesis	23	24	.	.	.	Note=Reduces CTNNB1 binding. DE->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10080941;Dbxref=PMID:10080941	
+Q9NQB0	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Reduces CTNNB1 binding%2C and abolishes CTNNB1 binding%3B when associated with A-26%3B A-28 and A-29. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713475;Dbxref=PMID:11713475	
+Q9NQB0	UniProtKB	Mutagenesis	26	26	.	.	.	Note=Abolishes CTNNB1 binding%3B when associated with A-24%3B A-28 and A-29. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713475;Dbxref=PMID:11713475	
+Q9NQB0	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Abolishes CTNNB1 binding%3B when associated with A-24%3B A-26 and A-29. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713475;Dbxref=PMID:11713475	
+Q9NQB0	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Reduces CTNNB1 binding%2C and abolishes CTNNB1 binding%3B when associated with A-24%3B A-26 and A-28. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11713475;Dbxref=PMID:11713475	
+Q9NQB0	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Abolishes CTNNB1 binding. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10080941;Dbxref=PMID:10080941	
+Q9NQB0	UniProtKB	Mutagenesis	201	201	.	.	.	Note=Reduced phosphorylation by NLK and enhanced DNA-binding%3B when associated with V-212. T->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12556497;Dbxref=PMID:12556497	
+Q9NQB0	UniProtKB	Mutagenesis	212	212	.	.	.	Note=Reduced phosphorylation by NLK and enhanced DNA-binding%3B when associated with V-201. T->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12556497;Dbxref=PMID:12556497	
+Q9NQB0	UniProtKB	Mutagenesis	320	320	.	.	.	Note=Loss of sumoylation. No effect on localization to nuclear bodies. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12727872;Dbxref=PMID:12727872	
+Q9NQB0	UniProtKB	Mutagenesis	322	322	.	.	.	Note=Loss of sumoylation. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12727872;Dbxref=PMID:12727872	
+Q9NQB0	UniProtKB	Sequence conflict	118	121	.	.	.	Note=NGSL->KRSV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Sequence conflict	118	121	.	.	.	Note=NGSL->KRSV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Sequence conflict	167	167	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Sequence conflict	226	226	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Sequence conflict	290	290	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Sequence conflict	331	331	.	.	.	Note=L->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Sequence conflict	596	596	.	.	.	Note=S->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQB0	UniProtKB	Helix	22	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JDH	
+Q9NQB0	UniProtKB	Helix	38	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JDH	

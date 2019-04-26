@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region P27540 1 789
+P27540	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+P27540	UniProtKB	Chain	2	789	.	.	.	ID=PRO_0000127118;Note=Aryl hydrocarbon receptor nuclear translocator	
+P27540	UniProtKB	Domain	89	142	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+P27540	UniProtKB	Domain	161	235	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+P27540	UniProtKB	Domain	349	419	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+P27540	UniProtKB	Domain	424	467	.	.	.	Note=PAC	
+P27540	UniProtKB	Region	88	128	.	.	.	Note=DNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28396409;Dbxref=PMID:28396409	
+P27540	UniProtKB	Region	112	264	.	.	.	Note=Required for heterodimer formation with EPAS1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53762	
+P27540	UniProtKB	Region	112	168	.	.	.	Note=Required for heterodimer formation with HIF1A;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53762	
+P27540	UniProtKB	Region	167	171	.	.	.	Note=Mediates the transcription activity and dimerization of the AHR:ARNT complex;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53762	
+P27540	UniProtKB	Compositional bias	99	102	.	.	.	Note=Poly-Arg	
+P27540	UniProtKB	Compositional bias	503	507	.	.	.	Note=Poly-Gln	
+P27540	UniProtKB	Compositional bias	710	769	.	.	.	Note=Gln-rich	
+P27540	UniProtKB	Compositional bias	738	741	.	.	.	Note=Poly-Ser	
+P27540	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+P27540	UniProtKB	Modified residue	77	77	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+P27540	UniProtKB	Cross-link	58	58	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P27540	UniProtKB	Alternative sequence	1	9	.	.	.	ID=VSP_036532;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11230166;Dbxref=PMID:11230166	
+P27540	UniProtKB	Alternative sequence	77	91	.	.	.	ID=VSP_002092;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1852076;Dbxref=PMID:1852076	
+P27540	UniProtKB	Alternative sequence	319	323	.	.	.	ID=VSP_036533;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11230166;Dbxref=PMID:11230166	
+P27540	UniProtKB	Alternative sequence	601	602	.	.	.	ID=VSP_055030;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P27540	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_024280;Note=R->Q;Dbxref=dbSNP:rs2229175	
+P27540	UniProtKB	Natural variant	511	511	.	.	.	ID=VAR_014819;Note=D->N;Dbxref=dbSNP:rs1805133	
+P27540	UniProtKB	Natural variant	517	517	.	.	.	ID=VAR_018906;Note=D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs10305741	
+P27540	UniProtKB	Natural variant	706	706	.	.	.	ID=VAR_020189;Note=P->L;Dbxref=dbSNP:rs2275237	
+P27540	UniProtKB	Mutagenesis	91	91	.	.	.	Note=Diminishes DNA interaction. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Diminishes DNA interaction. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Mutagenesis	94	94	.	.	.	Note=Severely diminishes DNA interaction. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Mutagenesis	98	98	.	.	.	Note=Severely diminishes DNA interaction. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Mutagenesis	99	99	.	.	.	Note=Diminishes DNA interaction. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Severely diminishes DNA interaction. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Mutagenesis	102	102	.	.	.	Note=Severely diminishes DNA interaction. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8621524;Dbxref=PMID:8621524	
+P27540	UniProtKB	Sequence conflict	627	627	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P27540	UniProtKB	Beta strand	356	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K7S	
+P27540	UniProtKB	Beta strand	362	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Beta strand	371	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Helix	380	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Helix	388	390	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Turn	391	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Helix	396	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Turn	402	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Helix	405	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Turn	416	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1N	
+P27540	UniProtKB	Beta strand	423	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Beta strand	436	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	
+P27540	UniProtKB	Turn	449	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B02	
+P27540	UniProtKB	Beta strand	456	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3F1P	

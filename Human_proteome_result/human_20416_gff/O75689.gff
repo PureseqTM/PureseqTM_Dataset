@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region O75689 1 374
+O75689	UniProtKB	Chain	1	374	.	.	.	ID=PRO_0000074205;Note=Arf-GAP with dual PH domain-containing protein 1	
+O75689	UniProtKB	Domain	7	126	.	.	.	Note=Arf-GAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00288	
+O75689	UniProtKB	Domain	129	230	.	.	.	Note=PH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+O75689	UniProtKB	Domain	252	356	.	.	.	Note=PH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+O75689	UniProtKB	Zinc finger	21	44	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00288	
+O75689	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12893243;Dbxref=PMID:12893243	
+O75689	UniProtKB	Modified residue	272	272	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O75689	UniProtKB	Modified residue	276	276	.	.	.	Note=Phosphothreonine%3B by PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12893243;Dbxref=PMID:12893243	
+O75689	UniProtKB	Alternative sequence	1	72	.	.	.	ID=VSP_054793;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75689	UniProtKB	Alternative sequence	1	27	.	.	.	ID=VSP_054794;Note=In isoform 2. MAKERRRAVLELLQRPGNARCADCGAP->MFQFVFSRVYCINPARRKWKEFEKMLGCAEEGHASLGR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75689	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_047470;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10333475,ECO:0000269|PubMed:12761501,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.3;Dbxref=dbSNP:rs10256887,PMID:10333475,PMID:12761501,PMID:15489334	
+O75689	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Loss of GTPase-activating activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10333475;Dbxref=PMID:10333475	
+O75689	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Loss of GTPase-activating activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10333475;Dbxref=PMID:10333475	
+O75689	UniProtKB	Mutagenesis	149	149	.	.	.	Note=40-45%25 reduction in PtdInsP2 3-kinase dependent membrane localization. Almost complete loss of PtdInsP2 3-kinase dependent membrane localization%3B when associated with C-273. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10333475,ECO:0000269|PubMed:10448098;Dbxref=PMID:10333475,PMID:10448098	
+O75689	UniProtKB	Mutagenesis	273	273	.	.	.	Note=70%25 reduction in PtdInsP2 3-kinase dependent membrane localization. Almost complete loss of PtdInsP2 3-kinase dependent membrane localization%3B when associated with C-149. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10333475,ECO:0000269|PubMed:10448098;Dbxref=PMID:10333475,PMID:10448098	
+O75689	UniProtKB	Sequence conflict	215	215	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75689	UniProtKB	Helix	3	12	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	16	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	22	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	38	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	42	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	57	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	67	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	78	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	102	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	121	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	125	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	129	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	146	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Turn	155	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	159	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	165	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3FEH	
+O75689	UniProtKB	Beta strand	172	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	177	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	180	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	186	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	195	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	204	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	215	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	237	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3MDB	
+O75689	UniProtKB	Helix	242	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	246	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	254	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	271	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	281	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	294	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	307	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	323	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Beta strand	333	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	341	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	
+O75689	UniProtKB	Helix	363	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJU	

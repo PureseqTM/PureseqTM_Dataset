@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P57059 1 783
+P57059	UniProtKB	Chain	1	783	.	.	.	ID=PRO_0000086659;Note=Serine/threonine-protein kinase SIK1	
+P57059	UniProtKB	Domain	27	278	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P57059	UniProtKB	Domain	303	343	.	.	.	Note=UBA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00212	
+P57059	UniProtKB	Nucleotide binding	33	41	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P57059	UniProtKB	Region	583	612	.	.	.	Note=RK-rich region%3B required for cAMP responsiveness and nuclear localization;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Active site	149	149	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+P57059	UniProtKB	Binding site	56	56	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P57059	UniProtKB	Modified residue	182	182	.	.	.	Note=Phosphothreonine%3B by LKB1 and GSK3-beta;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14976552,ECO:0000269|PubMed:18348280;Dbxref=PMID:14976552,PMID:18348280	
+P57059	UniProtKB	Modified residue	186	186	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18348280;Dbxref=PMID:18348280	
+P57059	UniProtKB	Modified residue	322	322	.	.	.	Note=Phosphothreonine%3B by CaMK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9R1U5	
+P57059	UniProtKB	Modified residue	473	473	.	.	.	Note=Phosphothreonine%3B by PKA;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Modified residue	575	575	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:Q60670,ECO:0000305|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_041087;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3746951,PMID:17344846	
+P57059	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_041088;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs45491503,PMID:17344846	
+P57059	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_041089;Note=In a glioblastoma multiforme sample%3B somatic mutation. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+P57059	UniProtKB	Natural variant	287	287	.	.	.	ID=VAR_073701;Note=In EIEE30%3B no change in subcellular location. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25839329;Dbxref=dbSNP:rs786205159,PMID:25839329	
+P57059	UniProtKB	Natural variant	411	411	.	.	.	ID=VAR_073702;Note=In EIEE30%3B no change in subcellular location. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25839329;Dbxref=PMID:25839329	
+P57059	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_033910;Note=R->W;Dbxref=dbSNP:rs34164089	
+P57059	UniProtKB	Natural variant	469	469	.	.	.	ID=VAR_041090;Note=In a metastatic melanoma sample%3B somatic mutation. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+P57059	UniProtKB	Natural variant	615	615	.	.	.	ID=VAR_021255;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs430554,PMID:14702039,PMID:15489334,PMID:17344846	
+P57059	UniProtKB	Natural variant	636	636	.	.	.	ID=VAR_073703;Note=In EIEE30%3B no change in subcellular location. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25839329;Dbxref=dbSNP:rs786205163,PMID:25839329	
+P57059	UniProtKB	Natural variant	696	696	.	.	.	ID=VAR_041091;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56386767,PMID:17344846	
+P57059	UniProtKB	Natural variant	725	725	.	.	.	ID=VAR_041092;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35596465,PMID:17344846	
+P57059	UniProtKB	Mutagenesis	56	56	.	.	.	Note=Loss of kinase activity. K->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18348280,ECO:0000269|PubMed:19622832;Dbxref=PMID:18348280,PMID:19622832	
+P57059	UniProtKB	Mutagenesis	135	135	.	.	.	Note=Decreased kinase activity without affecting much autophosphorylation status. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18348280;Dbxref=PMID:18348280	
+P57059	UniProtKB	Mutagenesis	182	182	.	.	.	Note=Prevents phosphorylation and activation by STK11/LKB1 complex. Reduced inhibition of CRTC3-mediated transcriptional activity. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14976552,ECO:0000269|PubMed:29211348;Dbxref=PMID:14976552,PMID:29211348	
+P57059	UniProtKB	Mutagenesis	186	186	.	.	.	Note=Impaired autophosphorylation and kinase activity. S->A%2CD%2CC%2CG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18348280;Dbxref=PMID:18348280	
+P57059	UniProtKB	Mutagenesis	186	186	.	.	.	Note=Does not autophosphorylation and kinase activity. S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18348280;Dbxref=PMID:18348280	
+P57059	UniProtKB	Mutagenesis	209	209	.	.	.	Note=Decreased kinase activity without affecting much autophosphorylation status. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18348280;Dbxref=PMID:18348280	
+P57059	UniProtKB	Mutagenesis	248	248	.	.	.	Note=Decreased kinase activity without affecting much autophosphorylation status. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18348280;Dbxref=PMID:18348280	
+P57059	UniProtKB	Mutagenesis	473	473	.	.	.	Note=Reduced but still present interaction with 14-3-3 proteins in response to cAMP signaling and%2C thus%2C still able to inhibit TORC activity. Resistant to inhibition by cAMP signaling and%2C thus%2C still able to inhibit TORC activity%3B when associated with A-575. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Mutagenesis	473	473	.	.	.	Note=Reduced but still present interaction with 14-3-3 proteins in response to cAMP signaling and%2C thus%2C still able to inhibit TORC activity. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Mutagenesis	575	575	.	.	.	Note=Loss of interaction with 14-3-3 proteins in response to cAMP signaling and%2C thus%2C still able to inhibit TORC activity. Resistant to inhibition by cAMP signaling and%2C thus%2C still able to inhibit TORC activity%3B when associated with A-473. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Mutagenesis	575	575	.	.	.	Note=Strongly reduced but still present interaction with 14-3-3 proteins in response to cAMP signaling and%2C thus%2C still able to inhibit TORC activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29211348;Dbxref=PMID:29211348	
+P57059	UniProtKB	Sequence conflict	166	166	.	.	.	Note=A->AGTE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P57059	UniProtKB	Sequence conflict	489	490	.	.	.	Note=IV->KF;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P35070 1 178
+P35070	UniProtKB	Signal peptide	1	31	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35070	UniProtKB	Chain	32	178	.	.	.	ID=PRO_0000300685;Note=Probetacellulin	
+P35070	UniProtKB	Chain	32	111	.	.	.	ID=PRO_0000007490;Note=Betacellulin	
+P35070	UniProtKB	Propeptide	112	178	.	.	.	ID=PRO_0000007491;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35070	UniProtKB	Topological domain	32	118	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35070	UniProtKB	Transmembrane	119	139	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35070	UniProtKB	Topological domain	140	178	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35070	UniProtKB	Domain	65	105	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P35070	UniProtKB	Compositional bias	146	154	.	.	.	Note=Arg/Lys-rich (basic)	
+P35070	UniProtKB	Glycosylation	34	34	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35070	UniProtKB	Disulfide bond	69	82	.	.	.	.	
+P35070	UniProtKB	Disulfide bond	77	93	.	.	.	.	
+P35070	UniProtKB	Disulfide bond	95	104	.	.	.	.	
+P35070	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_029307;Note=C->G;Dbxref=dbSNP:rs28549760	
+P35070	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_061151;Note=L->F;Dbxref=dbSNP:rs56320257	
+P35070	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_029308;Note=L->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11938093,PMID:15489334	
+P35070	UniProtKB	Beta strand	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IP0	
+P35070	UniProtKB	Helix	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IOX	
+P35070	UniProtKB	Beta strand	82	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IOX	
+P35070	UniProtKB	Turn	86	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IOX	
+P35070	UniProtKB	Beta strand	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IOX	
+P35070	UniProtKB	Turn	101	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IOX	
+P35070	UniProtKB	Beta strand	106	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IP0	

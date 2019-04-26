@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region P10316 1 365
+P10316	UniProtKB	Chain	1	365	.	.	.	ID=PRO_0000080740;Note=HLA class I histocompatibility antigen%2C A-69 alpha chain	
+P10316	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10316	UniProtKB	Topological domain	25	307	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10316	UniProtKB	Transmembrane	308	328	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10316	UniProtKB	Topological domain	329	365	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10316	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P10316	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P10316	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P10316	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P10316	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P10316	UniProtKB	Modified residue	343	343	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P10316	UniProtKB	Modified residue	344	344	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P10316	UniProtKB	Modified residue	345	345	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P10316	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P10316	UniProtKB	Modified residue	350	350	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P10316	UniProtKB	Modified residue	352	352	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P10316	UniProtKB	Modified residue	356	356	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18088087,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18088087,PMID:23186163,PMID:24275569	
+P10316	UniProtKB	Modified residue	359	359	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P10316	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P10316	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P10316	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P10316	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_056307;Note=R->G;Dbxref=dbSNP:rs199474430	
+P10316	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_056308;Note=Q->H;Dbxref=dbSNP:rs78306866	
+P10316	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_056309;Note=D->N;Dbxref=dbSNP:rs1136688	

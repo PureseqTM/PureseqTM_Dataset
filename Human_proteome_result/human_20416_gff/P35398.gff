@@ -1,0 +1,64 @@
+##gff-version 3
+##sequence-region P35398 1 523
+P35398	UniProtKB	Chain	1	523	.	.	.	ID=PRO_0000053512;Note=Nuclear receptor ROR-alpha	
+P35398	UniProtKB	Domain	272	510	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P35398	UniProtKB	DNA binding	73	138	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P35398	UniProtKB	Zinc finger	73	93	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P35398	UniProtKB	Zinc finger	109	133	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P35398	UniProtKB	Motif	506	523	.	.	.	Note=AF-2	
+P35398	UniProtKB	Compositional bias	166	169	.	.	.	Note=Poly-Gln	
+P35398	UniProtKB	Modified residue	38	38	.	.	.	Note=N6-methyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23063525;Dbxref=PMID:23063525	
+P35398	UniProtKB	Modified residue	183	183	.	.	.	Note=Phosphothreonine%3B by MAPK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17512500;Dbxref=PMID:17512500	
+P35398	UniProtKB	Cross-link	240	240	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19041634;Dbxref=PMID:19041634	
+P35398	UniProtKB	Alternative sequence	1	66	.	.	.	ID=VSP_053973;Note=In isoform 2. MESAPAAPDPAASEPGSSGADAAAGSRETPLNQESARKSEPPAPVRRQSYSSTSRGISVTKKTHTS->MNEGAPGDSDLETEARVPWSIMGHCLRTGQARMSATPTPAGEGARRDELFGILQILHQCILSSGDAFVLTGVCCSWRQNGKPPYSQKEDKEVQTGYMNA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7926749;Dbxref=PMID:7926749	
+P35398	UniProtKB	Alternative sequence	1	65	.	.	.	ID=VSP_053974;Note=In isoform 4. MESAPAAPDPAASEPGSSGADAAAGSRETPLNQESARKSEPPAPVRRQSYSSTSRGISVTKKTHT->MMYFVIAAMK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:7916608,ECO:0000303|Ref.3;Dbxref=PMID:15489334,PMID:7916608	
+P35398	UniProtKB	Alternative sequence	38	65	.	.	.	ID=VSP_053975;Note=In isoform 3. KSEPPAPVRRQSYSSTSRGISVTKKTHT->SSSTCSSLSRLFWSQLEHINWDGATAKNFINLREFFSFLLPALRK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7926749;Dbxref=PMID:7926749	
+P35398	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_081089;Note=In IDDECA%3B unknown pathological significance. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=PMID:29656859	
+P35398	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_081090;Note=In IDDECA%3B deleterious effect on embryonic development%2C when assayed in a heterologous system. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=PMID:29656859	
+P35398	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_081091;Note=In IDDECA%3B deleterious effect on embryonic development%2C when assayed in a heterologous system. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=PMID:29656859	
+P35398	UniProtKB	Natural variant	409	409	.	.	.	ID=VAR_081092;Note=In IDDECA. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=PMID:29656859	
+P35398	UniProtKB	Natural variant	462	462	.	.	.	ID=VAR_081093;Note=In IDDECA%3B loss of function in cerebellar development%2C when assayed in a heterologous system. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=dbSNP:rs1433850094,PMID:29656859	
+P35398	UniProtKB	Natural variant	476	476	.	.	.	ID=VAR_081094;Note=No effect on cerebellar development%2C when assayed in a heterologous system. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=dbSNP:rs190933482,PMID:29656859	
+P35398	UniProtKB	Natural variant	500	523	.	.	.	ID=VAR_081095;Note=In IDDECA%3B unknown pathological significance. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29656859;Dbxref=PMID:29656859	
+P35398	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Greatly increased transcriptional activity. Decrease in repression by NR1D1. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17512500;Dbxref=PMID:17512500	
+P35398	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Some increase in transcriptional activity. No change in repression by NR1D1. T->D%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17512500;Dbxref=PMID:17512500	
+P35398	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Attenuates transcriptional activity. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17512500;Dbxref=PMID:17512500	
+P35398	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Some increase in transcriptional activity. T->V%2CI;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17512500;Dbxref=PMID:17512500	
+P35398	UniProtKB	Mutagenesis	240	240	.	.	.	Note=Loss of sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19041634;Dbxref=PMID:19041634	
+P35398	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Less effect on transcriptional activity with cholesterol sulfate as substrate as compared to cholesterol as substrate. C->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722075;Dbxref=PMID:14722075	
+P35398	UniProtKB	Mutagenesis	323	323	.	.	.	Note=About 60%25 loss of transcriptional activity. C->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12467577,ECO:0000269|PubMed:14722075;Dbxref=PMID:12467577,PMID:14722075	
+P35398	UniProtKB	Mutagenesis	330	330	.	.	.	Note=About 80%25 loss of transcriptional activity. A->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12467577,ECO:0000269|PubMed:14722075;Dbxref=PMID:12467577,PMID:14722075	
+P35398	UniProtKB	Mutagenesis	335	335	.	.	.	Note=Strongly decreases interaction with NCOA2 and MED1. V->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10478845;Dbxref=PMID:10478845	
+P35398	UniProtKB	Mutagenesis	339	339	.	.	.	Note=Complete loss of transcriptional activity%3B when associated with A-507. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722075;Dbxref=PMID:14722075	
+P35398	UniProtKB	Mutagenesis	357	357	.	.	.	Note=Increased transcriptional activity. No effect on protein degradation. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14570920;Dbxref=PMID:14570920	
+P35398	UniProtKB	Mutagenesis	361	361	.	.	.	Note=Small reduction in transcriptional activity. No protein degradation. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14570920;Dbxref=PMID:14570920	
+P35398	UniProtKB	Mutagenesis	364	364	.	.	.	Note=Greatly reduced transcriptional activity. Protects from protein degradation. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14570920;Dbxref=PMID:14570920	
+P35398	UniProtKB	Mutagenesis	371	371	.	.	.	Note=Almost total loss of transcriptional activity. A->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12467577;Dbxref=PMID:12467577	
+P35398	UniProtKB	Mutagenesis	399	399	.	.	.	Note=Slight loss of transcriptional activity. F->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12467577;Dbxref=PMID:12467577	
+P35398	UniProtKB	Mutagenesis	441	441	.	.	.	Note=No effect on sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19041634;Dbxref=PMID:19041634	
+P35398	UniProtKB	Mutagenesis	484	484	.	.	.	Note=Almost total loss of transcriptional activity. H->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12467577;Dbxref=PMID:12467577	
+P35398	UniProtKB	Mutagenesis	507	507	.	.	.	Note=Complete loss of transcriptional activity%3B when associated with A-339. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12467577;Dbxref=PMID:12467577	
+P35398	UniProtKB	Mutagenesis	507	507	.	.	.	Note=About 40%25 loss of transcriptional activity. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12467577;Dbxref=PMID:12467577	
+P35398	UniProtKB	Mutagenesis	509	509	.	.	.	Note=Abolishes transcriptional activity. Protects from protein degradation. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14570920,ECO:0000269|PubMed:14722075;Dbxref=PMID:14570920,PMID:14722075	
+P35398	UniProtKB	Mutagenesis	510	511	.	.	.	Note=Decreases interaction with NCOA2. Loss of interaction with FOXP3. LF->AA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10478845,ECO:0000269|PubMed:18354202;Dbxref=PMID:10478845,PMID:18354202	
+P35398	UniProtKB	Sequence conflict	368	368	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35398	UniProtKB	Sequence conflict	466	466	.	.	.	Note=I->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35398	UniProtKB	Helix	271	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	292	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Turn	298	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	305	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	316	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Turn	342	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	349	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	368	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Turn	374	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Beta strand	378	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Beta strand	384	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	388	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	397	411	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Turn	412	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4S15	
+P35398	UniProtKB	Helix	417	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	439	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	466	494	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	496	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	
+P35398	UniProtKB	Helix	505	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N83	

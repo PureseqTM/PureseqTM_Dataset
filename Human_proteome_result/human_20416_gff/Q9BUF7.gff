@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q9BUF7 1 120
+Q9BUF7	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BUF7	UniProtKB	Chain	27	120	.	.	.	ID=PRO_0000021005;Note=Protein crumbs homolog 3	
+Q9BUF7	UniProtKB	Topological domain	27	59	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BUF7	UniProtKB	Transmembrane	60	80	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BUF7	UniProtKB	Topological domain	81	120	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BUF7	UniProtKB	Motif	117	120	.	.	.	Note=PDZ-binding	
+Q9BUF7	UniProtKB	Glycosylation	36	36	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12527193;Dbxref=PMID:12527193	
+Q9BUF7	UniProtKB	Alternative sequence	101	120	.	.	.	ID=VSP_013989;Note=In isoform 2. VGARVPPTPNLKLPPEERLI->FSHAAEARAPQDSKETVQGCLPI;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:15489334;Dbxref=PMID:12975309,PMID:15489334	
+Q9BUF7	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Abolishes N-glycosylation. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12527193;Dbxref=PMID:12527193	
+Q9BUF7	UniProtKB	Mutagenesis	117	120	.	.	.	Note=Loss of interaction with PARD6A and MPP5. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12771187,ECO:0000269|PubMed:14718572;Dbxref=PMID:12771187,PMID:14718572	
+Q9BUF7	UniProtKB	Beta strand	116	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I7Z	

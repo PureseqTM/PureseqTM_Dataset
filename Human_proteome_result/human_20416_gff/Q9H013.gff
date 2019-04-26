@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region Q9H013 1 955
+Q9H013	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Propeptide	26	202	.	.	.	ID=PRO_0000029102;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Chain	203	955	.	.	.	ID=PRO_0000029103;Note=Disintegrin and metalloproteinase domain-containing protein 19	
+Q9H013	UniProtKB	Topological domain	203	699	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Transmembrane	700	720	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Topological domain	721	955	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Domain	210	408	.	.	.	Note=Peptidase M12B;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00276	
+Q9H013	UniProtKB	Domain	416	502	.	.	.	Note=Disintegrin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00068	
+Q9H013	UniProtKB	Domain	650	682	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9H013	UniProtKB	Motif	130	137	.	.	.	Note=Cysteine switch;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Motif	833	844	.	.	.	Note=SH3-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Compositional bias	434	437	.	.	.	Note=Poly-Glu	
+Q9H013	UniProtKB	Compositional bias	502	649	.	.	.	Note=Cys-rich	
+Q9H013	UniProtKB	Active site	346	346	.	.	.	Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00276,ECO:0000255|PROSITE-ProRule:PRU10095	
+Q9H013	UniProtKB	Metal binding	132	132	.	.	.	Note=Zinc%3B in inhibited form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Metal binding	345	345	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Metal binding	349	349	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Metal binding	355	355	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Glycosylation	144	144	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Glycosylation	444	444	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Glycosylation	447	447	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Glycosylation	645	645	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H013	UniProtKB	Disulfide bond	320	403	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Disulfide bond	360	387	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Disulfide bond	361	370	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Disulfide bond	474	494	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Disulfide bond	654	664	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Disulfide bond	658	670	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Disulfide bond	672	681	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H013	UniProtKB	Alternative sequence	902	955	.	.	.	ID=VSP_005481;Note=In isoform B. VSPREALKVKAGTRGLQGGRCRVEKTKQFMLLVVWTELPEQKPRAKHSCFLVPA->FPEYRSQRAGGMISSKI;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10887142,ECO:0000303|PubMed:11162584;Dbxref=PMID:10887142,PMID:11162584	
+Q9H013	UniProtKB	Natural variant	4	4	.	.	.	ID=VAR_057066;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10887142;Dbxref=dbSNP:rs11465228,PMID:10887142	
+Q9H013	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_036146;Note=In a colorectal cancer sample%3B somatic mutation. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs200894535,PMID:16959974	
+Q9H013	UniProtKB	Natural variant	298	298	.	.	.	ID=VAR_036147;Note=In a colorectal cancer sample%3B somatic mutation. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1178207005,PMID:16959974	
+Q9H013	UniProtKB	Natural variant	609	609	.	.	.	ID=VAR_062670;Note=In a pancreatic ductal adenocarcinoma sample%3B somatic mutation. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18772397;Dbxref=PMID:18772397	
+Q9H013	UniProtKB	Sequence conflict	32	32	.	.	.	Note=R->SK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H013	UniProtKB	Sequence conflict	557	557	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H013	UniProtKB	Sequence conflict	557	557	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H013	UniProtKB	Sequence conflict	622	622	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H013	UniProtKB	Sequence conflict	622	622	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	

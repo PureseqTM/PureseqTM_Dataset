@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region Q07812 1 192
+Q07812	UniProtKB	Chain	1	192	.	.	.	ID=PRO_0000143053;Note=Apoptosis regulator BAX	
+Q07812	UniProtKB	Transmembrane	172	192	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07812	UniProtKB	Motif	59	73	.	.	.	Note=BH3	
+Q07812	UniProtKB	Motif	98	118	.	.	.	Note=BH1	
+Q07812	UniProtKB	Motif	150	165	.	.	.	Note=BH2	
+Q07812	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:25944712;Dbxref=PMID:19413330,PMID:25944712	
+Q07812	UniProtKB	Alternative sequence	1	78	.	.	.	ID=VSP_031239;Note=In isoform Zeta. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+Q07812	UniProtKB	Alternative sequence	1	19	.	.	.	ID=VSP_031238;Note=In isoform Psi. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11912183;Dbxref=PMID:11912183	
+Q07812	UniProtKB	Alternative sequence	12	41	.	.	.	ID=VSP_031234;Note=In isoform Gamma. GPTSSEQIMKTGALLLQGFIQDRAGRMGGE->VSSRIEQGEWGGRHPSWPWTRCLRMRPPRS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8358790;Dbxref=PMID:8358790	
+Q07812	UniProtKB	Alternative sequence	30	78	.	.	.	ID=VSP_031235;Note=In isoform Delta. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7607685;Dbxref=PMID:7607685	
+Q07812	UniProtKB	Alternative sequence	42	192	.	.	.	ID=VSP_031236;Note=In isoform Gamma. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8358790;Dbxref=PMID:8358790	
+Q07812	UniProtKB	Alternative sequence	125	192	.	.	.	ID=VSP_031240;Note=In isoform Epsilon. LCTKVPELIRTIMGWTLDFLRERLLGWIQDQGGWDGLLSYFGTPTWQTVTIFVAGVLTASLTIWKKMG->GVKWRDLGSLQPLPPGFKRFTCLSIPRSWDYRPCAPRCRN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9920818;Dbxref=PMID:9920818	
+Q07812	UniProtKB	Alternative sequence	159	192	.	.	.	ID=VSP_031237;Note=In isoform Beta. DGLLSYFGTPTWQTVTIFVAGVLTASLTIWKKMG->VRLLKPPHPHHRALTTAPAPPSLPPATPLGPWAFWSRSQWCPLPIFRSSDVVYNAFSLRV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8358790;Dbxref=PMID:8358790	
+Q07812	UniProtKB	Alternative sequence	159	171	.	.	.	ID=VSP_037475;Note=In isoform Sigma. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10772918;Dbxref=PMID:10772918	
+Q07812	UniProtKB	Natural variant	11	11	.	.	.	ID=VAR_013575;Note=In a plasmacytoma cell line. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9531611;Dbxref=dbSNP:rs555248599,PMID:9531611	
+Q07812	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_047053;Note=G->R;Dbxref=dbSNP:rs36017265	
+Q07812	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_007809;Note=In a T-cell acute lymphoblastic leukemia cell line%3B loss of heterodimerization with Bcl-2 or Bcl-X(L). G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7475270,ECO:0000269|PubMed:9531611;Dbxref=dbSNP:rs398122513,PMID:7475270,PMID:9531611	
+Q07812	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_013576;Note=In a Burkitt lymphoma%3B loss of homodimerization. G->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7475270,ECO:0000269|PubMed:9531611;Dbxref=PMID:7475270,PMID:9531611	
+Q07812	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Reduces interaction with BCL2L11%2C homooligomerization and triggering of apoptosis. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18948948;Dbxref=PMID:18948948	
+Q07812	UniProtKB	Mutagenesis	74	74	.	.	.	Note=Strongly reduced interaction with MCL1%2C BCL2%2C BCL2L1 and BCL2L2. No effect on cytochrome c release and subsequent apoptosis triggered by etoposide. M->D%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21199865;Dbxref=PMID:21199865	
+Q07812	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Constitutive cytoplasmic location. S->D%2CE%2CH%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10228148;Dbxref=PMID:10228148	
+Q07812	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Constitutive mitochondrial location. S->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10228148;Dbxref=PMID:10228148	
+Q07812	UniProtKB	Turn	2	4	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K7W	
+Q07812	UniProtKB	Beta strand	10	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F16	
+Q07812	UniProtKB	Helix	16	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Helix	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K7W	
+Q07812	UniProtKB	Beta strand	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W60	
+Q07812	UniProtKB	Helix	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W60	
+Q07812	UniProtKB	Helix	54	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Helix	74	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Beta strand	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W60	
+Q07812	UniProtKB	Helix	88	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Turn	100	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Helix	107	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Helix	149	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Turn	155	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Helix	159	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZIE	
+Q07812	UniProtKB	Turn	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W60	
+Q07812	UniProtKB	Helix	170	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W60	

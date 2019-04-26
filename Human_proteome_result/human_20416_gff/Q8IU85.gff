@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q8IU85 1 385
+Q8IU85	UniProtKB	Chain	1	385	.	.	.	ID=PRO_0000086082;Note=Calcium/calmodulin-dependent protein kinase type 1D	
+Q8IU85	UniProtKB	Domain	23	279	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8IU85	UniProtKB	Nucleotide binding	29	37	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8IU85	UniProtKB	Region	279	319	.	.	.	Note=Autoinhibitory domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IU85	UniProtKB	Region	299	320	.	.	.	Note=Calmodulin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IU85	UniProtKB	Motif	318	324	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8IU85	UniProtKB	Compositional bias	326	364	.	.	.	Note=Ser-rich	
+Q8IU85	UniProtKB	Active site	144	144	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q8IU85	UniProtKB	Binding site	52	52	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8IU85	UniProtKB	Modified residue	122	122	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8IU85	UniProtKB	Modified residue	180	180	.	.	.	Note=Phosphothreonine%3B by CaMKK1 and CaMKK2;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000269|PubMed:12935886;Dbxref=PMID:18669648,PMID:12935886	
+Q8IU85	UniProtKB	Cross-link	113	113	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25218447;Dbxref=PMID:25218447	
+Q8IU85	UniProtKB	Alternative sequence	348	385	.	.	.	ID=VSP_012135;Note=In isoform 2. LAPSTLCSFISSSSGVSGVGAERRPRPTTVTAVHSGSK->AYVAKPESLS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11050006;Dbxref=PMID:11050006	
+Q8IU85	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_040599;Note=I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34194224,PMID:17344846	
+Q8IU85	UniProtKB	Mutagenesis	52	52	.	.	.	Note=Catalytically inactive form. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16324104;Dbxref=PMID:16324104	
+Q8IU85	UniProtKB	Mutagenesis	180	180	.	.	.	Note=Loss of ionomycin-induced activation. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12935886,ECO:0000269|PubMed:16324104;Dbxref=PMID:12935886,PMID:16324104	
+Q8IU85	UniProtKB	Beta strand	13	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	19	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	23	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	36	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Turn	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	48	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	66	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	84	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	91	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	106	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	118	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	150	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Beta strand	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	190	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	201	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	226	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Turn	242	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	250	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Turn	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	270	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	277	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	290	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	
+Q8IU85	UniProtKB	Helix	305	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JC6	

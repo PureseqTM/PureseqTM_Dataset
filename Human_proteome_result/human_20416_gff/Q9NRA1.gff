@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region Q9NRA1 1 345
+Q9NRA1	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRA1	UniProtKB	Chain	23	345	.	.	.	ID=PRO_0000343871;Note=Platelet-derived growth factor C%2C latent form	
+Q9NRA1	UniProtKB	Domain	46	163	.	.	.	Note=CUB;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00059	
+Q9NRA1	UniProtKB	Site	225	226	.	.	.	Note=Cleavage	
+Q9NRA1	UniProtKB	Site	231	232	.	.	.	Note=Cleavage;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRA1	UniProtKB	Site	234	235	.	.	.	Note=Cleavage;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRA1	UniProtKB	Glycosylation	25	25	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRA1	UniProtKB	Glycosylation	55	55	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRA1	UniProtKB	Disulfide bond	104	124	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00059	
+Q9NRA1	UniProtKB	Disulfide bond	250	294	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12598536;Dbxref=PMID:12598536	
+Q9NRA1	UniProtKB	Disulfide bond	274	274	.	.	.	Note=Interchain (with C-286);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12598536;Dbxref=PMID:12598536	
+Q9NRA1	UniProtKB	Disulfide bond	280	335	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12598536;Dbxref=PMID:12598536	
+Q9NRA1	UniProtKB	Disulfide bond	286	286	.	.	.	Note=Interchain (with C-274);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12598536;Dbxref=PMID:12598536	
+Q9NRA1	UniProtKB	Disulfide bond	287	337	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12598536;Dbxref=PMID:12598536	
+Q9NRA1	UniProtKB	Alternative sequence	1	163	.	.	.	ID=VSP_047606;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.5;Dbxref=PMID:14702039	
+Q9NRA1	UniProtKB	Alternative sequence	155	167	.	.	.	ID=VSP_034701;Note=In isoform 3. GFCIHYNIVMPQF->SNRGGKIIQLHTS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NRA1	UniProtKB	Alternative sequence	168	345	.	.	.	ID=VSP_034702;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NRA1	UniProtKB	Alternative sequence	244	306	.	.	.	ID=VSP_034703;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NRA1	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Loss of mitogenic activity of CUB domain in coronary artery smooth muscle cells. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11854040;Dbxref=PMID:11854040	
+Q9NRA1	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Essential for cleavage by PLAT. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15911618;Dbxref=PMID:15911618	
+Q9NRA1	UniProtKB	Mutagenesis	232	232	.	.	.	Note=Not essential for cleavage by PLAT. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15911618;Dbxref=PMID:15911618	
+Q9NRA1	UniProtKB	Mutagenesis	234	234	.	.	.	Note=Not essential for cleavage by PLAT. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15911618;Dbxref=PMID:15911618	
+Q9NRA1	UniProtKB	Sequence conflict	9	9	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NRA1	UniProtKB	Sequence conflict	18	18	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

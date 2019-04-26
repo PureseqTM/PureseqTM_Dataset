@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region O75144 1 302
+O75144	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Chain	19	302	.	.	.	ID=PRO_0000014803;Note=ICOS ligand	
+O75144	UniProtKB	Topological domain	19	256	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Transmembrane	257	277	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Topological domain	278	302	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Domain	19	129	.	.	.	Note=Ig-like V-type	
+O75144	UniProtKB	Domain	141	227	.	.	.	Note=Ig-like C2-type	
+O75144	UniProtKB	Glycosylation	70	70	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+O75144	UniProtKB	Glycosylation	137	137	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Glycosylation	173	173	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Glycosylation	186	186	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+O75144	UniProtKB	Glycosylation	225	225	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75144	UniProtKB	Disulfide bond	37	113	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O75144	UniProtKB	Disulfide bond	158	216	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O75144	UniProtKB	Alternative sequence	18	134	.	.	.	ID=VSP_054718;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75144	UniProtKB	Alternative sequence	300	302	.	.	.	ID=VSP_002520;Note=In isoform 2. GHV->ESWNLLLLLS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10657606,ECO:0000303|Ref.4;Dbxref=PMID:10657606	
+O75144	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_049880;Note=V->I;Dbxref=dbSNP:rs11558819	

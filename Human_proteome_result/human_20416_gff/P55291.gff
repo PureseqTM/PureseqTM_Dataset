@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region P55291 1 814
+P55291	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Propeptide	22	60	.	.	.	ID=PRO_0000003805;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Chain	61	814	.	.	.	ID=PRO_0000003806;Note=Cadherin-15	
+P55291	UniProtKB	Topological domain	61	606	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Transmembrane	607	626	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Topological domain	627	814	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Domain	61	152	.	.	.	Note=Cadherin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55291	UniProtKB	Domain	153	260	.	.	.	Note=Cadherin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55291	UniProtKB	Domain	261	375	.	.	.	Note=Cadherin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55291	UniProtKB	Domain	376	481	.	.	.	Note=Cadherin 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55291	UniProtKB	Domain	482	590	.	.	.	Note=Cadherin 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55291	UniProtKB	Glycosylation	227	227	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Glycosylation	531	531	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Glycosylation	538	538	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Glycosylation	576	576	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55291	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_054966;Note=In MRD3%3B uncertain pathological significance. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19012874;Dbxref=dbSNP:rs567903921,PMID:19012874	
+P55291	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_054967;Note=In MRD3%3B affects cell-cell adhesion but not surface expression of the protein. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19012874;Dbxref=dbSNP:rs121434539,PMID:19012874	
+P55291	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_054968;Note=In MRD3%3B affects cell-cell adhesion but not surface expression of the protein. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19012874;Dbxref=dbSNP:rs121434540,PMID:19012874	
+P55291	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_054969;Note=In MRD3%3B affects cell-cell adhesion but not surface expression of the protein. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19012874;Dbxref=dbSNP:rs121434541,PMID:19012874	
+P55291	UniProtKB	Mutagenesis	103	103	.	.	.	Note=No effect on cell-cell adhesion. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19012874;Dbxref=PMID:19012874	
+P55291	UniProtKB	Mutagenesis	109	109	.	.	.	Note=No effect on cell-cell adhesion. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19012874;Dbxref=PMID:19012874	

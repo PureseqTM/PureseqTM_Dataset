@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region Q9Y5N5 1 214
+Q9Y5N5	UniProtKB	Chain	1	214	.	.	.	ID=PRO_0000088049;Note=Methyltransferase N6AMT1	
+Q9Y5N5	UniProtKB	Region	53	57	.	.	.	Note=S-adenosyl-L-methionine binding;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:P0ACC1,ECO:0000255|HAMAP-Rule:MF_02126	
+Q9Y5N5	UniProtKB	Region	122	125	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0ACC1	
+Q9Y5N5	UniProtKB	Binding site	77	77	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0ACC1	
+Q9Y5N5	UniProtKB	Binding site	122	122	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:30017583;Dbxref=PMID:30017583	
+Q9Y5N5	UniProtKB	Alternative sequence	105	132	.	.	.	ID=VSP_040294;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9Y5N5	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_060445;Note=D->N;Dbxref=dbSNP:rs1997607	
+Q9Y5N5	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_060446;Note=R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10830953;Dbxref=dbSNP:rs2205447,PMID:10830953	
+Q9Y5N5	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_060447;Note=R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10830953;Dbxref=dbSNP:rs2205446,PMID:10830953	
+Q9Y5N5	UniProtKB	Mutagenesis	122	125	.	.	.	Note=Abolished DNA methyltransferase activity. NPPY->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30017583;Dbxref=PMID:30017583	

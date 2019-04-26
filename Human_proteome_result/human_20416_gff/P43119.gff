@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region P43119 1 386
+P43119	UniProtKB	Chain	1	383	.	.	.	ID=PRO_0000070075;Note=Prostacyclin receptor	
+P43119	UniProtKB	Propeptide	384	386	.	.	.	ID=PRO_0000240004;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	1	16	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	17	38	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	39	51	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	52	76	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	77	94	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	95	115	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	116	134	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	135	158	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	159	181	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	182	208	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	209	235	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	236	260	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	261	274	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Transmembrane	275	295	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Topological domain	296	386	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Site	309	309	.	.	.	Note=Not S-palmitoylated;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12488443;Dbxref=PMID:12488443	
+P43119	UniProtKB	Modified residue	383	383	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43119	UniProtKB	Lipidation	308	308	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12488443;Dbxref=PMID:12488443	
+P43119	UniProtKB	Lipidation	311	311	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12488443;Dbxref=PMID:12488443	
+P43119	UniProtKB	Lipidation	383	383	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11895442;Dbxref=PMID:11895442	
+P43119	UniProtKB	Glycosylation	7	7	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43119	UniProtKB	Disulfide bond	5	165	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00521,ECO:0000269|PubMed:15194446;Dbxref=PMID:15194446	
+P43119	UniProtKB	Disulfide bond	92	170	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00521,ECO:0000269|PubMed:15194446;Dbxref=PMID:15194446	
+P43119	UniProtKB	Natural variant	25	25	.	.	.	ID=VAR_024260;Note=V->M;Dbxref=dbSNP:rs2229127	
+P43119	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_061226;Note=S->W;Dbxref=dbSNP:rs28590598	
+P43119	UniProtKB	Mutagenesis	308	308	.	.	.	Note=Reduced palmitoylation%2C coupling to G protein unaffected. Abolished palmitoylation and coupling to G protein%3B when associated with S-311. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12488443;Dbxref=PMID:12488443	
+P43119	UniProtKB	Mutagenesis	309	309	.	.	.	Note=No effect on palmitoylation level. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12488443;Dbxref=PMID:12488443	
+P43119	UniProtKB	Mutagenesis	311	311	.	.	.	Note=Reduced palmitoylation%2C coupling to G protein unaffected. Abolished palmitoylation and coupling to G protein%3B when associated with S-308. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12488443;Dbxref=PMID:12488443	
+P43119	UniProtKB	Mutagenesis	383	383	.	.	.	Note=Abolishes isoprenylation. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11895442;Dbxref=PMID:11895442	

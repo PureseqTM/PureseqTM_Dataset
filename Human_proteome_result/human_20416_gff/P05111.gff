@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P05111 1 366
+P05111	UniProtKB	Signal peptide	1	18	.	.	.	.	
+P05111	UniProtKB	Propeptide	19	61	.	.	.	ID=PRO_0000033685	
+P05111	UniProtKB	Propeptide	62	232	.	.	.	ID=PRO_0000033686;Note=Inhibin alpha N-terminal region	
+P05111	UniProtKB	Chain	233	366	.	.	.	ID=PRO_0000033687;Note=Inhibin alpha chain	
+P05111	UniProtKB	Site	61	62	.	.	.	Note=Cleavage	
+P05111	UniProtKB	Site	232	233	.	.	.	Note=Cleavage	
+P05111	UniProtKB	Glycosylation	146	146	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P05111	UniProtKB	Glycosylation	268	268	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Glycosylation	302	302	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B partial;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Disulfide bond	262	328	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P05111	UniProtKB	Disulfide bond	291	363	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P05111	UniProtKB	Disulfide bond	295	365	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P05111	UniProtKB	Disulfide bond	327	327	.	.	.	Note=Interchain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P05111	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_072639;Note=Found in a patient with early-onset epithelial ovarian tumor%3B unknown pathological significance%3B alters the ratio of secreted activins and ihibins. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24302632;Dbxref=PMID:24302632	
+P05111	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_034016;Note=G->R;Dbxref=dbSNP:rs12720061	
+P05111	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_015110;Note=Polymorphism%3B may play a role in premature ovarian failure. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11098038;Dbxref=dbSNP:rs12720062,PMID:11098038	
+P05111	UniProtKB	Mutagenesis	56	57	.	.	.	Note=Loss of cleavage%3B when associated with 60-AA-61. RR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Mutagenesis	60	61	.	.	.	Note=Loss of cleavage%3B when associated with 55-AA-56. RR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Mutagenesis	231	232	.	.	.	Note=Loss of cleavage. RR->EA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Mutagenesis	268	268	.	.	.	Note=Loss of glycosylation. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Mutagenesis	302	302	.	.	.	Note=Loss of glycosylation. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8885240;Dbxref=PMID:8885240	
+P05111	UniProtKB	Sequence conflict	17	17	.	.	.	Note=H->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05111	UniProtKB	Sequence conflict	19	19	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

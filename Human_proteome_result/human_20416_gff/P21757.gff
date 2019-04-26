@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P21757 1 451
+P21757	UniProtKB	Chain	1	451	.	.	.	ID=PRO_0000181627;Note=Macrophage scavenger receptor types I and II	
+P21757	UniProtKB	Topological domain	1	50	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Transmembrane	51	76	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Topological domain	77	451	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Domain	273	341	.	.	.	Note=Collagen-like	
+P21757	UniProtKB	Domain	350	450	.	.	.	Note=SRCR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00196	
+P21757	UniProtKB	Region	77	109	.	.	.	Note=Spacer;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21757	UniProtKB	Coiled coil	171	255	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Modified residue	27	27	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30204	
+P21757	UniProtKB	Glycosylation	82	82	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Glycosylation	102	102	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Glycosylation	143	143	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Glycosylation	184	184	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Glycosylation	221	221	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P21757	UniProtKB	Glycosylation	249	249	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Glycosylation	267	267	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21757	UniProtKB	Disulfide bond	375	439	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:8900177;Dbxref=PMID:8900177	
+P21757	UniProtKB	Disulfide bond	388	449	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:8900177;Dbxref=PMID:8900177	
+P21757	UniProtKB	Disulfide bond	419	429	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:8900177;Dbxref=PMID:8900177	
+P21757	UniProtKB	Alternative sequence	345	408	.	.	.	ID=VSP_036842;Note=In isoform III. TPFTKVRLVGGSGPHEGRVEILHSGQWGTICDDRWEVRVGQVVCRSLGYPGVQAVHKAAHFGQG->S;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9548586;Dbxref=PMID:9548586	
+P21757	UniProtKB	Alternative sequence	345	358	.	.	.	ID=VSP_006229;Note=In isoform II. TPFTKVRLVGGSGP->RPVQLTDHIRAGPS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2251254;Dbxref=PMID:2251254	
+P21757	UniProtKB	Alternative sequence	359	451	.	.	.	ID=VSP_006230;Note=In isoform II. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2251254;Dbxref=PMID:2251254	
+P21757	UniProtKB	Natural variant	23	23	.	.	.	ID=VAR_025190;Note=F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs35175081	
+P21757	UniProtKB	Natural variant	36	36	.	.	.	ID=VAR_066581;Note=Found in a family with prostate cancer. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244320;Dbxref=dbSNP:rs749666450,PMID:12244320	
+P21757	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_066582;Note=Found in patients with prostate cancer. S->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244320;Dbxref=dbSNP:rs145597376,PMID:12244320	
+P21757	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_066583;Note=Found in patients with prostate cancer. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244320;Dbxref=dbSNP:rs117359034,PMID:12244320	
+P21757	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_066584;Note=Found in patients with prostate cancer. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244320;Dbxref=dbSNP:rs72552387,PMID:12244320	
+P21757	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_066585;Note=Found in patients with Barrett esophagus. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21791690;Dbxref=dbSNP:rs387906645,PMID:21791690	
+P21757	UniProtKB	Natural variant	269	269	.	.	.	ID=VAR_052061;Note=T->I;Dbxref=dbSNP:rs13306543	
+P21757	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_025191;Note=P->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12244320,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2229388,PMID:12244320	
+P21757	UniProtKB	Natural variant	369	369	.	.	.	ID=VAR_066586;Note=Found in a family with prostate cancer. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244320;Dbxref=dbSNP:rs776370129,PMID:12244320	
+P21757	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_066587;Note=Found in patients with prostate cancer. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12244320;Dbxref=dbSNP:rs138749399,PMID:12244320	

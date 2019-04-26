@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q9P209 1 647
+Q9P209	UniProtKB	Chain	1	647	.	.	.	ID=PRO_0000089499;Note=Centrosomal protein of 72 kDa	
+Q9P209	UniProtKB	Repeat	29	50	.	.	.	Note=LRR 1	
+Q9P209	UniProtKB	Repeat	55	76	.	.	.	Note=LRR 2	
+Q9P209	UniProtKB	Repeat	77	98	.	.	.	Note=LRR 3	
+Q9P209	UniProtKB	Domain	111	150	.	.	.	Note=LRRCT	
+Q9P209	UniProtKB	Coiled coil	476	620	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9P209	UniProtKB	Modified residue	237	237	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q9P209	UniProtKB	Modified residue	382	382	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9P209	UniProtKB	Modified residue	404	404	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9P209	UniProtKB	Alternative sequence	172	193	.	.	.	ID=VSP_037835;Note=In isoform 2. PHHPRAKCTEALAKQSLVMDAD->IQTSVEPAVGTVPVWGLWEAGP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9P209	UniProtKB	Alternative sequence	194	647	.	.	.	ID=VSP_037836;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9P209	UniProtKB	Natural variant	238	238	.	.	.	ID=VAR_050798;Note=P->L;Dbxref=dbSNP:rs869955	
+Q9P209	UniProtKB	Natural variant	412	412	.	.	.	ID=VAR_050799;Note=P->T;Dbxref=dbSNP:rs12522955	
+Q9P209	UniProtKB	Natural variant	509	509	.	.	.	ID=VAR_050800;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10819331;Dbxref=dbSNP:rs868649,PMID:10819331	
+Q9P209	UniProtKB	Sequence conflict	566	566	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region P78314 1 561
+P78314	UniProtKB	Chain	1	561	.	.	.	ID=PRO_0000064365;Note=SH3 domain-binding protein 2	
+P78314	UniProtKB	Domain	26	130	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+P78314	UniProtKB	Domain	457	555	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+P78314	UniProtKB	Motif	201	210	.	.	.	Note=SH3-binding	
+P78314	UniProtKB	Compositional bias	205	212	.	.	.	Note=Poly-Pro	
+P78314	UniProtKB	Compositional bias	236	240	.	.	.	Note=Poly-Pro	
+P78314	UniProtKB	Modified residue	174	174	.	.	.	Note=Phosphotyrosine%3B by SYK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06649	
+P78314	UniProtKB	Modified residue	183	183	.	.	.	Note=Phosphotyrosine%3B by SYK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06649	
+P78314	UniProtKB	Modified residue	278	278	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+P78314	UniProtKB	Modified residue	416	416	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P78314	UniProtKB	Modified residue	427	427	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P78314	UniProtKB	Modified residue	448	448	.	.	.	Note=Phosphotyrosine%3B by SYK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06649	
+P78314	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_043636;Note=In isoform 3. M->MASLGPRTPAPSRSRGRRAMCWVSTISFM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P78314	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_055046;Note=In isoform 4. M->MAGSGPRPRSWGRREAGARDEAAAAGGRGPGPCRCSQGRRAWIAPGKPAMPAAWTPFM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78314	UniProtKB	Alternative sequence	81	97	.	.	.	ID=VSP_004085;Note=In isoform 2. VMRAAEETTSNNVFPFK->QPRPQPAQALSQTEAGP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9734812;Dbxref=PMID:14702039,PMID:9734812	
+P78314	UniProtKB	Alternative sequence	98	561	.	.	.	ID=VSP_004086;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9734812;Dbxref=PMID:14702039,PMID:9734812	
+P78314	UniProtKB	Natural variant	415	415	.	.	.	ID=VAR_013257;Note=In CRBM. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11381256;Dbxref=dbSNP:rs121909149,PMID:11381256	
+P78314	UniProtKB	Natural variant	415	415	.	.	.	ID=VAR_013258;Note=In CRBM. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11381256;Dbxref=dbSNP:rs121909149,PMID:11381256	
+P78314	UniProtKB	Natural variant	418	418	.	.	.	ID=VAR_013259;Note=In CRBM. P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11381256;Dbxref=dbSNP:rs121909146,PMID:11381256	
+P78314	UniProtKB	Natural variant	418	418	.	.	.	ID=VAR_013260;Note=In CRBM. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11381256;Dbxref=dbSNP:rs121909146,PMID:11381256	
+P78314	UniProtKB	Natural variant	418	418	.	.	.	ID=VAR_013261;Note=In CRBM. P->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11381256,ECO:0000269|PubMed:14577811;Dbxref=dbSNP:rs121909146,PMID:11381256,PMID:14577811	
+P78314	UniProtKB	Natural variant	420	420	.	.	.	ID=VAR_013262;Note=In CRBM. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11381256;Dbxref=dbSNP:rs28938171,PMID:11381256	
+P78314	UniProtKB	Natural variant	420	420	.	.	.	ID=VAR_013263;Note=In CRBM. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11381256,ECO:0000269|PubMed:12900899;Dbxref=dbSNP:rs28938170,PMID:11381256,PMID:12900899	
+P78314	UniProtKB	Sequence conflict	27	27	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78314	UniProtKB	Sequence conflict	224	224	.	.	.	Note=H->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78314	UniProtKB	Sequence conflict	249	249	.	.	.	Note=L->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78314	UniProtKB	Sequence conflict	251	251	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78314	UniProtKB	Turn	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Helix	464	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	485	489	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	496	501	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Turn	503	505	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	506	508	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	514	516	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	519	525	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	527	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Helix	531	538	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	544	548	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	
+P78314	UniProtKB	Beta strand	553	556	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CR4	

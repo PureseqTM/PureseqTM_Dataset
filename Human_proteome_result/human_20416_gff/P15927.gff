@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region P15927 1 270
+P15927	UniProtKB	Chain	1	270	.	.	.	ID=PRO_0000097270;Note=Replication protein A 32 kDa subunit	
+P15927	UniProtKB	DNA binding	74	148	.	.	.	Note=OB	
+P15927	UniProtKB	Region	187	270	.	.	.	Note=Interaction with RAD52%2C TIPIN%2C UNG and XPA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11081631;Dbxref=PMID:11081631	
+P15927	UniProtKB	Compositional bias	1	29	.	.	.	Note=Gly/Ser-rich	
+P15927	UniProtKB	Compositional bias	37	45	.	.	.	Note=Arg/Lys-rich (basic)	
+P15927	UniProtKB	Compositional bias	95	123	.	.	.	Note=Asp/Glu-rich (acidic)	
+P15927	UniProtKB	Compositional bias	127	145	.	.	.	Note=Arg/Lys-rich (basic)	
+P15927	UniProtKB	Compositional bias	247	270	.	.	.	Note=Asp/Glu-rich (acidic)	
+P15927	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:9139719;Dbxref=PMID:19413330,PMID:20068231,PMID:9139719	
+P15927	UniProtKB	Modified residue	4	4	.	.	.	Note=Phosphoserine%3B by PRKDC;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21731742,ECO:0000269|PubMed:26474068;Dbxref=PMID:21731742,PMID:26474068	
+P15927	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphoserine%3B by PRKDC;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21731742,ECO:0000269|PubMed:26474068;Dbxref=PMID:21731742,PMID:26474068	
+P15927	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphothreonine%3B by PRKDC;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21558276,ECO:0000269|PubMed:26474068,ECO:0000269|PubMed:9139719,ECO:0000269|PubMed:9295339;Dbxref=PMID:21558276,PMID:26474068,PMID:9139719,PMID:9295339	
+P15927	UniProtKB	Modified residue	23	23	.	.	.	Note=Phosphoserine%3B by CDK2;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:1318195,ECO:0000269|PubMed:8246944,ECO:0000269|PubMed:9295339;Dbxref=PMID:20068231,PMID:1318195,PMID:8246944,PMID:9295339	
+P15927	UniProtKB	Modified residue	29	29	.	.	.	Note=Phosphoserine%3B by CDK1;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:1318195,ECO:0000269|PubMed:8246944,ECO:0000269|PubMed:9139719,ECO:0000269|PubMed:9295339;Dbxref=PMID:20068231,PMID:1318195,PMID:8246944,PMID:9139719,PMID:9295339	
+P15927	UniProtKB	Modified residue	33	33	.	.	.	Note=Phosphoserine%3B by PRKDC;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26474068,ECO:0000269|PubMed:9139719,ECO:0000269|PubMed:9295339;Dbxref=PMID:26474068,PMID:9139719,PMID:9295339	
+P15927	UniProtKB	Cross-link	37	37	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26474068;Dbxref=PMID:26474068	
+P15927	UniProtKB	Cross-link	38	38	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26474068;Dbxref=PMID:26474068	
+P15927	UniProtKB	Alternative sequence	1	4	.	.	.	ID=VSP_017201;Note=In isoform 2. MWNS->MGRGDRNKRSIR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15927	UniProtKB	Alternative sequence	1	4	.	.	.	ID=VSP_017202;Note=In isoform 3. MWNS->MWNSNDGGAGWRRKRIAGGFSKRASLGSERRVVAGEEGRERSWGVWGSPAGRRRGRLGRLGQCLKGRSLREPAGFSEAWDVAQALILLFKTG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P15927	UniProtKB	Natural variant	14	14	.	.	.	ID=VAR_023300;Note=Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs28988896	
+P15927	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_023301;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs28988897	
+P15927	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_023302;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs28904899	
+P15927	UniProtKB	Mutagenesis	4	4	.	.	.	Note=Increased RAD51 foci formation and homologous recombination efficiency at DNA double-strand breaks%3B when associated with A-8. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21731742;Dbxref=PMID:21731742	
+P15927	UniProtKB	Mutagenesis	8	8	.	.	.	Note=Increased RAD51 foci formation and homologous recombination efficiency at DNA double-strand breaks%3B when associated with A-4. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20154705,ECO:0000269|PubMed:21731742;Dbxref=PMID:20154705,PMID:21731742	
+P15927	UniProtKB	Mutagenesis	8	8	.	.	.	Note=Lower homologous recombination efficiency following DNA double strand break. Impaired DNA synthesis following DNA damage%3B when associated with D-33. No effect on cell-cycle progression%2C nor DNA synthesis in undamaged cells%3B when associated with D-23%3B D-29 and D-33. Impaired DNA double strand breaks repair%3B when associated with D-23%3B D-29 and D-33. Extended DNA damage-induced G2-M checkpoint%3B when associated with D-23%3B D-29 and D-33. Preferentially interacts with RAD51%3B when associated with D-23%3B D-29 and D-33. S->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20154705,ECO:0000269|PubMed:21731742;Dbxref=PMID:20154705,PMID:21731742	
+P15927	UniProtKB	Mutagenesis	23	23	.	.	.	Note=No effect on DNA synthesis following DNA damage%3B when associated with D-29. No effect on cell-cycle progression%2C nor DNA synthesis in undamaged cells%3B when associated with D-8%3B D-29 and D-33. Impaired DNA double strand breaks repair%3B when associated with D-8%3B D-29 and D-33. Extended DNA damage-induced G2-M checkpoint%3B when associated with D-8%3B D-29 and D-33. Preferentially interacts with RAD51%3B when associated with D-8%3B D-29 and D-33. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154705;Dbxref=PMID:20154705	
+P15927	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Reduces phosphorylation by CDK1. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20154705,ECO:0000269|PubMed:9139719;Dbxref=PMID:20154705,PMID:9139719	
+P15927	UniProtKB	Mutagenesis	29	29	.	.	.	Note=No effect on DNA synthesis following DNA damage%3B when associated with D-23. No effect on cell-cycle progression%2C nor DNA synthesis in undamaged cells%3B when associated with D-8%3B D-23 and D-33. Impaired DNA double strand breaks repair%3B when associated with D-8%3B D-23 and D-33. Extended DNA damage-induced G2-M checkpoint%3B when associated with D-8%3B D-23 and D-33. Preferentially interacts with RAD51%3B when associated with D-8%3B D-23 and D-33. S->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20154705,ECO:0000269|PubMed:9139719;Dbxref=PMID:20154705,PMID:9139719	
+P15927	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Lower homologous recombination efficiency following DNA double strand break. Impaired DNA synthesis following DNA damage%3B when associated with D-8. No effect on cell-cycle progression%2C nor DNA synthesis in undamaged cells%3B when associated with D-8%3B D-23 and D-29. Impaired DNA double strand breaks repair%3B when associated with D-8%3B D-23 and D-29. Extended DNA damage-induced G2-M checkpoint%3B when associated with D-8%3B D-23 and D-29. Preferentially interacts with RAD51%3B when associated with D-8%3B D-23 and D-29. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154705;Dbxref=PMID:20154705	
+P15927	UniProtKB	Mutagenesis	37	38	.	.	.	Note=Impaired ubiquitination without affecting homologous recombination. KK->RR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26474068;Dbxref=PMID:26474068	
+P15927	UniProtKB	Mutagenesis	248	248	.	.	.	Note=Abolishes interaction with RFWD3%2C leading to impair DNA interstrand cross-links (ICL) repair. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+P15927	UniProtKB	Mutagenesis	252	252	.	.	.	Note=Abolishes interaction with RFWD3%2C leading to impair DNA interstrand cross-links (ICL) repair. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+P15927	UniProtKB	Mutagenesis	253	253	.	.	.	Note=Does not affect interaction with RFWD3. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+P15927	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Abolishes interaction with RFWD3%2C leading to impair DNA interstrand cross-links (ICL) repair. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+P15927	UniProtKB	Beta strand	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L1O	
+P15927	UniProtKB	Helix	51	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	58	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QUQ	
+P15927	UniProtKB	Beta strand	73	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	87	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	97	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	102	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	125	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Beta strand	138	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Helix	153	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KDF	
+P15927	UniProtKB	Helix	207	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OU0	
+P15927	UniProtKB	Turn	222	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DPU	
+P15927	UniProtKB	Helix	227	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OU0	
+P15927	UniProtKB	Helix	239	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OU0	
+P15927	UniProtKB	Beta strand	254	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OU0	
+P15927	UniProtKB	Beta strand	263	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OU0	

@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q14028 1 1251
+Q14028	UniProtKB	Chain	1	1251	.	.	.	ID=PRO_0000219323;Note=Cyclic nucleotide-gated cation channel beta-1	
+Q14028	UniProtKB	Topological domain	343	656	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Transmembrane	657	675	.	.	.	Note=Helical%3B Name%3DH1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Topological domain	676	689	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Transmembrane	690	708	.	.	.	Note=Helical%3B Name%3DH2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Topological domain	709	733	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Transmembrane	734	753	.	.	.	Note=Helical%3B Name%3DH3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Topological domain	754	790	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Transmembrane	791	813	.	.	.	Note=Helical%3B Name%3DH4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Topological domain	814	857	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Transmembrane	858	877	.	.	.	Note=Helical%3B Name%3DH5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Topological domain	878	961	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Transmembrane	962	982	.	.	.	Note=Helical%3B Name%3DH6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Topological domain	983	1251	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Nucleotide binding	970	1109	.	.	.	Note=cAMP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q14028	UniProtKB	Motif	568	578	.	.	.	Note=IQ-like	
+Q14028	UniProtKB	Compositional bias	23	63	.	.	.	Note=Glu-rich	
+Q14028	UniProtKB	Compositional bias	171	252	.	.	.	Note=Pro-rich	
+Q14028	UniProtKB	Compositional bias	351	371	.	.	.	Note=Poly-Glu	
+Q14028	UniProtKB	Binding site	1030	1030	.	.	.	Note=cAMP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Binding site	1042	1042	.	.	.	Note=cAMP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14028	UniProtKB	Alternative sequence	1	628	.	.	.	ID=VSP_001110;Note=In isoform RCNC2A. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Alternative sequence	189	194	.	.	.	ID=VSP_053421;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Alternative sequence	292	299	.	.	.	ID=VSP_037921;Note=In isoform GARP2. ISILPGGQ->RVMGAGGL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7590744;Dbxref=PMID:7590744	
+Q14028	UniProtKB	Alternative sequence	300	1251	.	.	.	ID=VSP_037922;Note=In isoform GARP2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7590744;Dbxref=PMID:7590744	
+Q14028	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_058691;Note=R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7590744,ECO:0000269|PubMed:8766832,ECO:0000269|PubMed:9535905;Dbxref=dbSNP:rs13336595,PMID:7590744,PMID:8766832,PMID:9535905	
+Q14028	UniProtKB	Natural variant	479	479	.	.	.	ID=VAR_059225;Note=L->I;Dbxref=dbSNP:rs2303783	
+Q14028	UniProtKB	Natural variant	535	535	.	.	.	ID=VAR_059226;Note=V->A;Dbxref=dbSNP:rs12927214	
+Q14028	UniProtKB	Natural variant	731	731	.	.	.	ID=VAR_059227;Note=N->K;Dbxref=dbSNP:rs376270	
+Q14028	UniProtKB	Natural variant	745	745	.	.	.	ID=VAR_059228;Note=L->I;Dbxref=dbSNP:rs10459809	
+Q14028	UniProtKB	Natural variant	911	911	.	.	.	ID=VAR_059229;Note=K->R;Dbxref=dbSNP:rs2303785	
+Q14028	UniProtKB	Natural variant	961	961	.	.	.	ID=VAR_059230;Note=A->S;Dbxref=dbSNP:rs16942445	
+Q14028	UniProtKB	Natural variant	993	993	.	.	.	ID=VAR_060491;Note=In RP45. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11379879;Dbxref=dbSNP:rs121918532,PMID:11379879	
+Q14028	UniProtKB	Mutagenesis	568	568	.	.	.	Note=Loss of calcium/calmodulin modulation. L->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15195096;Dbxref=PMID:15195096	
+Q14028	UniProtKB	Sequence conflict	128	128	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Sequence conflict	1148	1149	.	.	.	Note=QQ->HE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Sequence conflict	1148	1149	.	.	.	Note=QQ->HE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Sequence conflict	1148	1149	.	.	.	Note=QQ->HE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Sequence conflict	1207	1208	.	.	.	Note=RP->SC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Sequence conflict	1207	1208	.	.	.	Note=RP->SC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14028	UniProtKB	Sequence conflict	1207	1208	.	.	.	Note=RP->SC;Ontology_term=ECO:0000305;evidence=ECO:0000305	

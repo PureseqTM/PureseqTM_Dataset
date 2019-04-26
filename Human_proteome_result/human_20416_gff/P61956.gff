@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P61956 1 95
+P61956	UniProtKB	Chain	1	93	.	.	.	ID=PRO_0000035949;Note=Small ubiquitin-related modifier 2	
+P61956	UniProtKB	Propeptide	94	95	.	.	.	ID=PRO_0000035950;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15487983;Dbxref=PMID:15487983	
+P61956	UniProtKB	Domain	16	95	.	.	.	Note=Ubiquitin-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00214	
+P61956	UniProtKB	Modified residue	11	11	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P61956	UniProtKB	Cross-link	1	1	.	.	.	Note=Peptide (Met-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23560854;Dbxref=PMID:23560854	
+P61956	UniProtKB	Cross-link	5	5	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+P61956	UniProtKB	Cross-link	7	7	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+P61956	UniProtKB	Cross-link	11	11	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)%3B alternate	
+P61956	UniProtKB	Cross-link	11	11	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+P61956	UniProtKB	Cross-link	11	11	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+P61956	UniProtKB	Cross-link	11	11	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18408734;Dbxref=PMID:18408734	
+P61956	UniProtKB	Cross-link	21	21	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P61956	UniProtKB	Cross-link	93	93	.	.	.	Note=Glycyl lysine isopeptide (Gly-Lys) (interchain with K-? in acceptor proteins)	
+P61956	UniProtKB	Alternative sequence	51	74	.	.	.	ID=VSP_042351;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P61956	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_047508;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17850328,PMID:15489334	
+P61956	UniProtKB	Mutagenesis	11	11	.	.	.	Note=Abolishes the formation of poly(SUMO) chains. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11451954;Dbxref=PMID:11451954	
+P61956	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Significantly impairs sumoylation of MTA1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21965678;Dbxref=PMID:21965678	
+P61956	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Significantly impairs sumoylation of MTA1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21965678;Dbxref=PMID:21965678	
+P61956	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Significantly impairs sumoylation of MTA1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21965678;Dbxref=PMID:21965678	
+P61956	UniProtKB	Beta strand	3	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N1W	
+P61956	UniProtKB	Beta strand	11	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RPQ	
+P61956	UniProtKB	Turn	14	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RPQ	
+P61956	UniProtKB	Beta strand	18	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Turn	25	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CKH	
+P61956	UniProtKB	Beta strand	29	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Helix	41	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Turn	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Beta strand	59	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RPQ	
+P61956	UniProtKB	Turn	73	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Beta strand	82	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WM3	
+P61956	UniProtKB	Beta strand	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AWT	

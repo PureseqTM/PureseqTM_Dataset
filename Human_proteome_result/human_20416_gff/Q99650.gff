@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q99650 1 979
+Q99650	UniProtKB	Signal peptide	1	27	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Chain	28	979	.	.	.	ID=PRO_0000259759;Note=Oncostatin-M-specific receptor subunit beta	
+Q99650	UniProtKB	Topological domain	28	740	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Transmembrane	741	761	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Topological domain	762	979	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Domain	335	428	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q99650	UniProtKB	Domain	433	528	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q99650	UniProtKB	Domain	529	623	.	.	.	Note=Fibronectin type-III 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q99650	UniProtKB	Domain	625	736	.	.	.	Note=Fibronectin type-III 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+Q99650	UniProtKB	Motif	415	419	.	.	.	Note=WSXWS motif	
+Q99650	UniProtKB	Motif	770	778	.	.	.	Note=Box 1 motif	
+Q99650	UniProtKB	Modified residue	826	826	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q99650	UniProtKB	Modified residue	889	889	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q99650	UniProtKB	Glycosylation	163	163	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Glycosylation	326	326	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Glycosylation	380	380	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Glycosylation	446	446	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Glycosylation	580	580	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99650	UniProtKB	Disulfide bond	245	255	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99650	UniProtKB	Alternative sequence	331	342	.	.	.	ID=VSP_021527;Note=In isoform 2. VYLMNPFSVNFE->GETRVVTAHRGH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q99650	UniProtKB	Alternative sequence	343	979	.	.	.	ID=VSP_021528;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q99650	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_043512;Note=H->Q;Dbxref=dbSNP:rs34675408	
+Q99650	UniProtKB	Natural variant	210	210	.	.	.	ID=VAR_028972;Note=G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855841,PMID:15489334	
+Q99650	UniProtKB	Natural variant	527	527	.	.	.	ID=VAR_028973;Note=E->K;Dbxref=dbSNP:rs10941412	
+Q99650	UniProtKB	Natural variant	553	553	.	.	.	ID=VAR_028974;Note=D->N;Dbxref=dbSNP:rs2278329	
+Q99650	UniProtKB	Natural variant	618	618	.	.	.	ID=VAR_043513;Note=In PLCA1. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18179886;Dbxref=dbSNP:rs63750560,PMID:18179886	
+Q99650	UniProtKB	Natural variant	647	647	.	.	.	ID=VAR_065810;Note=In PLCA1. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19690585;Dbxref=dbSNP:rs387906821,PMID:19690585	
+Q99650	UniProtKB	Natural variant	691	691	.	.	.	ID=VAR_043514;Note=In PLCA1. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18179886;Dbxref=dbSNP:rs63750567,PMID:18179886	
+Q99650	UniProtKB	Natural variant	694	694	.	.	.	ID=VAR_065811;Note=In PLCA1. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19690585;Dbxref=dbSNP:rs387906822,PMID:19690585	
+Q99650	UniProtKB	Natural variant	697	697	.	.	.	ID=VAR_065812;Note=In PLCA1. K->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19690585;Dbxref=dbSNP:rs387906823,PMID:19690585	
+Q99650	UniProtKB	Natural variant	936	936	.	.	.	ID=VAR_028975;Note=P->S;Dbxref=dbSNP:rs3749737	
+Q99650	UniProtKB	Natural variant	959	959	.	.	.	ID=VAR_043515;Note=P->R;Dbxref=dbSNP:rs34080825	

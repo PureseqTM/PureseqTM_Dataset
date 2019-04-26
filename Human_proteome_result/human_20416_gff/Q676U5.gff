@@ -1,0 +1,75 @@
+##gff-version 3
+##sequence-region Q676U5 1 607
+Q676U5	UniProtKB	Chain	1	607	.	.	.	ID=PRO_0000050848;Note=Autophagy-related protein 16-1	
+Q676U5	UniProtKB	Repeat	320	359	.	.	.	Note=WD 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Repeat	364	403	.	.	.	Note=WD 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Repeat	406	445	.	.	.	Note=WD 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Repeat	447	484	.	.	.	Note=WD 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Repeat	486	525	.	.	.	Note=WD 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Repeat	532	573	.	.	.	Note=WD 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Repeat	575	607	.	.	.	Note=WD 7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00221	
+Q676U5	UniProtKB	Region	13	43	.	.	.	Note=Interaction with ATG5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25484072;Dbxref=PMID:25484072	
+Q676U5	UniProtKB	Region	207	230	.	.	.	Note=WIPI2-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24954904;Dbxref=PMID:24954904	
+Q676U5	UniProtKB	Region	230	242	.	.	.	Note=RB1CC1-binding;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23392225,ECO:0000269|PubMed:24954904;Dbxref=PMID:23392225,PMID:24954904	
+Q676U5	UniProtKB	Coiled coil	78	230	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q676U5	UniProtKB	Motif	296	299	.	.	.	Note=Caspase cleavage	
+Q676U5	UniProtKB	Modified residue	139	139	.	.	.	Note=Phosphoserine%3B by CK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26083323;Dbxref=PMID:26083323	
+Q676U5	UniProtKB	Modified residue	269	269	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q676U5	UniProtKB	Modified residue	287	287	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q676U5	UniProtKB	Alternative sequence	70	213	.	.	.	ID=VSP_013389;Note=In isoform 4 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17200669;Dbxref=PMID:14702039,PMID:17200669	
+Q676U5	UniProtKB	Alternative sequence	266	284	.	.	.	ID=VSP_013386;Note=In isoform 2 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17200669;Dbxref=PMID:14702039,PMID:15489334,PMID:17200669	
+Q676U5	UniProtKB	Alternative sequence	334	368	.	.	.	ID=VSP_013390;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q676U5	UniProtKB	Alternative sequence	443	470	.	.	.	ID=VSP_013387;Note=In isoform 3. IKTVFAGSSCNDIVCTEQCVMSGHFDKK->EEIQSLCLCICLDVSVEVCVCTSEPAFM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12975309;Dbxref=PMID:12975309	
+Q676U5	UniProtKB	Alternative sequence	471	607	.	.	.	ID=VSP_013388;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12975309;Dbxref=PMID:12975309	
+Q676U5	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_021834;Note=In IBD10%3B has no effect on the stability of the protein under normal conditions%3B enhances the cleavage and the degradation mediated by activated CASP3%3B results in reduced autophagy and defective clearance of intestinal pathogens%3B impairs interaction with TMEM59%3B slows TMEM59 intracellular trafficking%3B increases production of type I IFNs. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15620219,ECO:0000269|PubMed:17200669,ECO:0000269|PubMed:17484864,ECO:0000269|PubMed:18047540,ECO:0000269|PubMed:18499543,ECO:0000269|PubMed:18985712,ECO:0000269|PubMed:19659808,ECO:0000269|PubMed:24553140,ECO:0000269|PubMed:24656308,ECO:0000269|PubMed:25645662,ECO:0000269|PubMed:27273576;Dbxref=dbSNP:rs2241880,PMID:15620219,PMID:17200669,PMID:17484864,PMID:18047540,PMID:18499543,PMID:18985712,PMID:19659808,PMID:24553140,PMID:24656308,PMID:25645662,PMID:27273576	
+Q676U5	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_053386;Note=E->K;Dbxref=dbSNP:rs1866878	
+Q676U5	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Abolishes interaction with ATG5. I->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25484072;Dbxref=PMID:25484072	
+Q676U5	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Abolishes interaction with ATG5. L->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25484072;Dbxref=PMID:25484072	
+Q676U5	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Abolishes interaction with ATG5. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25484072;Dbxref=PMID:25484072	
+Q676U5	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Reduces interaction with ATG5. I->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25484072;Dbxref=PMID:25484072	
+Q676U5	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Abolishes phosphorylation. Impairs interaction with ATG12-ATG5 complex. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26083323;Dbxref=PMID:26083323	
+Q676U5	UniProtKB	Mutagenesis	226	226	.	.	.	Note=Impairs interaction with WIPI2. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24954904;Dbxref=PMID:24954904	
+Q676U5	UniProtKB	Mutagenesis	230	230	.	.	.	Note=Impairs interaction with WIPI2. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24954904;Dbxref=PMID:24954904	
+Q676U5	UniProtKB	Mutagenesis	299	299	.	.	.	Note=Prevents cleavage by activated CASP3. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24553140;Dbxref=PMID:24553140	
+Q676U5	UniProtKB	Mutagenesis	540	540	.	.	.	Note=Impairs interaction with PPP1CA%3B when associated with A-542. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26083323;Dbxref=PMID:26083323	
+Q676U5	UniProtKB	Mutagenesis	542	542	.	.	.	Note=Impairs interaction with PPP1CA%3B when associated with A-540. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26083323;Dbxref=PMID:26083323	
+Q676U5	UniProtKB	Sequence conflict	151	151	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q676U5	UniProtKB	Sequence conflict	328	328	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q676U5	UniProtKB	Sequence conflict	529	529	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q676U5	UniProtKB	Helix	12	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NAW	
+Q676U5	UniProtKB	Helix	30	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NAW	
+Q676U5	UniProtKB	Beta strand	313	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	321	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	325	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	334	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	346	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	356	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	369	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	378	385	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	390	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Turn	395	398	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	399	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	411	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	422	427	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	430	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Turn	437	440	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	441	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	452	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	459	466	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	469	475	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Turn	476	479	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	480	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	491	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	502	507	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Turn	508	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	511	516	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Turn	517	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	521	526	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	540	542	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	546	552	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	558	562	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Turn	563	565	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	568	572	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	580	585	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	592	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	
+Q676U5	UniProtKB	Beta strand	599	605	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NUV	

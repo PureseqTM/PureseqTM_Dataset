@@ -1,0 +1,65 @@
+##gff-version 3
+##sequence-region P17612 1 351
+P17612	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25255805,ECO:0000269|PubMed:25807930;Dbxref=PMID:25255805,PMID:25807930	
+P17612	UniProtKB	Chain	2	351	.	.	.	ID=PRO_0000086052;Note=cAMP-dependent protein kinase catalytic subunit alpha	
+P17612	UniProtKB	Domain	44	298	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P17612	UniProtKB	Domain	299	351	.	.	.	Note=AGC-kinase C-terminal	
+P17612	UniProtKB	Nucleotide binding	50	58	.	.	.	Note=ATP	
+P17612	UniProtKB	Nucleotide binding	122	128	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P17612	UniProtKB	Nucleotide binding	169	172	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P17612	UniProtKB	Active site	167	167	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+P17612	UniProtKB	Binding site	73	73	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P17612	UniProtKB	Modified residue	3	3	.	.	.	Note=Deamidated asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P17612	UniProtKB	Modified residue	11	11	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P05132	
+P17612	UniProtKB	Modified residue	49	49	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18691976;Dbxref=PMID:18691976	
+P17612	UniProtKB	Modified residue	140	140	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P05132	
+P17612	UniProtKB	Modified residue	196	196	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12372837;Dbxref=PMID:12372837	
+P17612	UniProtKB	Modified residue	198	198	.	.	.	Note=Phosphothreonine%3B by PDPK1;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12372837,ECO:0000269|PubMed:16765046,ECO:0000269|PubMed:20137943,ECO:0000269|PubMed:20481595,ECO:0000269|PubMed:20732331,ECO:0000269|PubMed:21774789,ECO:0000269|Ref.41;Dbxref=PMID:12372837,PMID:16765046,PMID:20137943,PMID:20481595,PMID:20732331,PMID:21774789	
+P17612	UniProtKB	Modified residue	331	331	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P05132	
+P17612	UniProtKB	Modified residue	339	339	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:16765046,ECO:0000269|PubMed:20137943,ECO:0000269|PubMed:20481595,ECO:0000269|PubMed:20732331,ECO:0000269|PubMed:21774789,ECO:0000269|Ref.41;Dbxref=PMID:18691976,PMID:19690332,PMID:24275569,PMID:16765046,PMID:20137943,PMID:20481595,PMID:20732331,PMID:21774789	
+P17612	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25255805,ECO:0000269|PubMed:25807930;Dbxref=PMID:25255805,PMID:25807930	
+P17612	UniProtKB	Alternative sequence	1	15	.	.	.	ID=VSP_004759;Note=In isoform 2. MGNAAAAKKGSEQES->MASNSSD;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10841548,ECO:0000303|PubMed:10906071,ECO:0000303|PubMed:10982398;Dbxref=PMID:10841548,PMID:10906071,PMID:10982398	
+P17612	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_040591;Note=L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56029020,PMID:17344846	
+P17612	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_040592;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56085217,PMID:17344846	
+P17612	UniProtKB	Natural variant	206	206	.	.	.	ID=VAR_071707;Note=In PPNAD4%3B somatic mutation%3B the mutation results in cAMP-independent basal protein kinase activity and constitutive activation of protein kinase A. L->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24571724,ECO:0000269|PubMed:24700472,ECO:0000269|PubMed:24747643,ECO:0000269|PubMed:24855271;Dbxref=dbSNP:rs386352352,PMID:24571724,PMID:24700472,PMID:24747643,PMID:24855271	
+P17612	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_040593;Note=S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35635531,PMID:17344846	
+P17612	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Enhanced basal kinase activity%3B when associated with Q-96%2C L-121%2C A-124%2C K-182 and A-184. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21774789;Dbxref=PMID:21774789	
+P17612	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Enhanced basal kinase activity%3B when associated with R-48%2C L-121%2C A-124%2C K-182 and A-184. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21774789;Dbxref=PMID:21774789	
+P17612	UniProtKB	Mutagenesis	121	121	.	.	.	Note=Enhanced basal kinase activity%3B when associated with R-48%2C Q-96%2C A-124%2C K-182 and A-184. M->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21774789;Dbxref=PMID:21774789	
+P17612	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Enhanced basal kinase activity%3B when associated with R-48%2C Q-96%2C L-121%2C K-182 and A-184. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21774789;Dbxref=PMID:21774789	
+P17612	UniProtKB	Mutagenesis	182	182	.	.	.	Note=Enhanced basal kinase activity%3B when associated with R-48%2C Q-96%2C L-121%2C A-124 and A-184. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21774789;Dbxref=PMID:21774789	
+P17612	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Enhanced basal kinase activity%3B when associated with R-48%2C Q-96%2C L-121%2C A-124 and K-182. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21774789;Dbxref=PMID:21774789	
+P17612	UniProtKB	Mutagenesis	195	195	.	.	.	Note=No phosphorylation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12372837;Dbxref=PMID:12372837	
+P17612	UniProtKB	Mutagenesis	201	201	.	.	.	Note=No phosphorylation. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12372837;Dbxref=PMID:12372837	
+P17612	UniProtKB	Mutagenesis	202	202	.	.	.	Note=No phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12372837;Dbxref=PMID:12372837	
+P17612	UniProtKB	Mutagenesis	205	205	.	.	.	Note=Loss of allosteric regulation. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18178622;Dbxref=PMID:18178622	
+P17612	UniProtKB	Helix	3	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AMA	
+P17612	UniProtKB	Helix	16	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	44	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	57	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Turn	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	69	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	77	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	86	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	107	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	114	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	129	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	141	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	170	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	173	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	186	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UJ2	
+P17612	UniProtKB	Helix	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	208	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Beta strand	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IZJ	
+P17612	UniProtKB	Helix	219	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	244	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	264	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Turn	278	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Turn	282	284	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IZF	
+P17612	UniProtKB	Turn	286	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	290	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Helix	303	307	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	
+P17612	UniProtKB	Turn	345	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WB8	

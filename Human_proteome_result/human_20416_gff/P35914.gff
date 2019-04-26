@@ -1,0 +1,78 @@
+##gff-version 3
+##sequence-region P35914 1 325
+P35914	UniProtKB	Transit peptide	1	27	.	.	.	Note=Mitochondrion	
+P35914	UniProtKB	Chain	28	325	.	.	.	ID=PRO_0000013478;Note=Hydroxymethylglutaryl-CoA lyase%2C mitochondrial	
+P35914	UniProtKB	Domain	33	300	.	.	.	Note=Pyruvate carboxyltransferase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01151	
+P35914	UniProtKB	Motif	323	325	.	.	.	Note=Microbody targeting signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P35914	UniProtKB	Active site	266	266	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10115	
+P35914	UniProtKB	Metal binding	42	42	.	.	.	Note=Divalent metal cation	
+P35914	UniProtKB	Metal binding	233	233	.	.	.	Note=Divalent metal cation	
+P35914	UniProtKB	Metal binding	235	235	.	.	.	Note=Divalent metal cation	
+P35914	UniProtKB	Metal binding	275	275	.	.	.	Note=Divalent metal cation	
+P35914	UniProtKB	Binding site	41	41	.	.	.	Note=Substrate	
+P35914	UniProtKB	Modified residue	48	48	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P35914	UniProtKB	Modified residue	48	48	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Modified residue	111	111	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Modified residue	137	137	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Modified residue	137	137	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Modified residue	179	179	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Modified residue	179	179	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Modified residue	324	324	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P38060	
+P35914	UniProtKB	Disulfide bond	323	323	.	.	.	Note=Interchain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12464283;Dbxref=PMID:12464283	
+P35914	UniProtKB	Alternative sequence	117	187	.	.	.	ID=VSP_047444;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:21952825;Dbxref=PMID:14702039,PMID:21952825	
+P35914	UniProtKB	Alternative sequence	188	250	.	.	.	ID=VSP_043788;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21952825;Dbxref=PMID:21952825	
+P35914	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_058440;Note=In HMGCLD%3B activity lower than 5%25 respect to the wild-type. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19177531;Dbxref=PMID:19177531	
+P35914	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_003744;Note=In HMGCLD%3B loss of activity and of proton exchange. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17173698,ECO:0000269|PubMed:9463337;Dbxref=dbSNP:rs121964997,PMID:17173698,PMID:9463337	
+P35914	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_003745;Note=In HMGCLD%3B reduced activity. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9463337;Dbxref=PMID:9463337	
+P35914	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_003746;Note=In HMGCLD%3B loss of activity. D->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19177531,ECO:0000269|PubMed:9463337;Dbxref=dbSNP:rs1467902610,PMID:19177531,PMID:9463337	
+P35914	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_003747;Note=In HMGCLD%3B loss of activity. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9463337;Dbxref=PMID:9463337	
+P35914	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_058441;Note=In HMGCLD%3B abolishes almost all enzymatic activity. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17459752;Dbxref=PMID:17459752	
+P35914	UniProtKB	Natural variant	70	70	.	.	.	ID=VAR_003748;Note=In HMGCLD. V->L;Dbxref=dbSNP:rs121964996	
+P35914	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_058442;Note=In HMGCLD. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12746442;Dbxref=dbSNP:rs1357942068,PMID:12746442	
+P35914	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_058443;Note=In HMGCLD%3B activity lower than 5%25 respect to the wild-type. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19177531;Dbxref=PMID:19177531	
+P35914	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_065453;Note=In HMGCLD. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19036343;Dbxref=dbSNP:rs199587895,PMID:19036343	
+P35914	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_058444;Note=In HMGCLD%3B activity lower than 5%25 respect to the wild-type. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19177531;Dbxref=dbSNP:rs765475941,PMID:19177531	
+P35914	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_058445;Note=In HMGCLD%3B activity lower than 5%25 respect to the wild-type. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19177531;Dbxref=PMID:19177531	
+P35914	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_058446;Note=In HMGCLD%3B activity lower than 5%25 respect to the wild-type. I->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19177531;Dbxref=PMID:19177531	
+P35914	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_058447;Note=In HMGCLD. S->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12746442;Dbxref=dbSNP:rs760106433,PMID:12746442	
+P35914	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_058448;Note=In HMGCLD%3B complete loss of activity. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16601870;Dbxref=PMID:16601870	
+P35914	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_058449;Note=In HMGCLD. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12746442;Dbxref=PMID:12746442	
+P35914	UniProtKB	Natural variant	233	233	.	.	.	ID=VAR_003749;Note=In HMGCLD%3B loss of activity. H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19177531,ECO:0000269|PubMed:8798725,ECO:0000269|PubMed:9784232;Dbxref=dbSNP:rs727503963,PMID:19177531,PMID:8798725,PMID:9784232	
+P35914	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_058450;Note=In HMGCLD. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9784232;Dbxref=PMID:9784232	
+P35914	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_014202;Note=In HMGCLD. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11129331;Dbxref=dbSNP:rs121964998,PMID:11129331	
+P35914	UniProtKB	Mutagenesis	37	37	.	.	.	Note=Normal activity. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12874287;Dbxref=PMID:12874287	
+P35914	UniProtKB	Mutagenesis	41	41	.	.	.	Note=Reduced activity%2C and loss of proton exchange. R->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15122894;Dbxref=PMID:15122894	
+P35914	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Loss of activity%2C and reduced proton exchange rate. D->A%2CN;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12874287,ECO:0000269|PubMed:15122894;Dbxref=PMID:12874287,PMID:15122894	
+P35914	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Loss of activity%2C and reduced affinity for metal cofactor and substrate. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12874287;Dbxref=PMID:12874287	
+P35914	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Reduced activity%2C and reduced affinity for metal cofactor and substrate. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12874287;Dbxref=PMID:12874287	
+P35914	UniProtKB	Mutagenesis	233	233	.	.	.	Note=Loss of activity%2C and reduced proton exchange rate. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12874287,ECO:0000269|PubMed:15122894;Dbxref=PMID:12874287,PMID:15122894	
+P35914	UniProtKB	Mutagenesis	266	266	.	.	.	Note=Loss of activity. C->A	
+P35914	UniProtKB	Mutagenesis	279	279	.	.	.	Note=Reduced thermal stability%2C but normal activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12874287;Dbxref=PMID:12874287	
+P35914	UniProtKB	Mutagenesis	280	280	.	.	.	Note=Normal activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12874287;Dbxref=PMID:12874287	
+P35914	UniProtKB	Mutagenesis	323	323	.	.	.	Note=Abolishes interchain homodimerization. Exhibits no DTT stimulated activity. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12464283,ECO:0000269|PubMed:22865860;Dbxref=PMID:12464283,PMID:22865860	
+P35914	UniProtKB	Sequence conflict	243	243	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35914	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Turn	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	42	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	53	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Beta strand	69	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Turn	79	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	83	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	88	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	110	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Beta strand	122	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	132	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	143	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Beta strand	163	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Turn	170	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Turn	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	182	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Beta strand	198	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	211	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	227	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Beta strand	230	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	241	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Beta strand	255	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	278	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	296	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	
+P35914	UniProtKB	Helix	317	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CW6	

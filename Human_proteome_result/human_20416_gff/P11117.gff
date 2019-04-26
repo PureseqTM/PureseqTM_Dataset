@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P11117 1 423
+P11117	UniProtKB	Signal peptide	1	30	.	.	.	.	
+P11117	UniProtKB	Chain	31	423	.	.	.	ID=PRO_0000023960;Note=Lysosomal acid phosphatase	
+P11117	UniProtKB	Topological domain	31	380	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11117	UniProtKB	Transmembrane	381	401	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11117	UniProtKB	Topological domain	402	423	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P11117	UniProtKB	Active site	42	42	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11117	UniProtKB	Active site	287	287	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11117	UniProtKB	Glycosylation	92	92	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P11117	UniProtKB	Glycosylation	133	133	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P11117	UniProtKB	Glycosylation	167	167	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P11117	UniProtKB	Glycosylation	177	177	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P11117	UniProtKB	Glycosylation	191	191	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:3056714;Dbxref=PMID:3056714	
+P11117	UniProtKB	Glycosylation	267	267	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P11117	UniProtKB	Glycosylation	322	322	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:3056714;Dbxref=PMID:3056714	
+P11117	UniProtKB	Glycosylation	331	331	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P11117	UniProtKB	Disulfide bond	159	370	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11117	UniProtKB	Disulfide bond	212	310	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11117	UniProtKB	Disulfide bond	345	349	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11117	UniProtKB	Alternative sequence	151	160	.	.	.	ID=VSP_045629;Note=In isoform 2. LLKFPLGPCP->VRVASPSLGW;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P11117	UniProtKB	Alternative sequence	161	423	.	.	.	ID=VSP_045630;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P11117	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_027801;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2167079,PMID:14702039,PMID:15489334	
+P11117	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_034394;Note=S->F;Dbxref=dbSNP:rs34425282	
+P11117	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_050519;Note=V->I;Dbxref=dbSNP:rs4647764	

@@ -1,0 +1,80 @@
+##gff-version 3
+##sequence-region Q99895 1 268
+Q99895	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99895	UniProtKB	Propeptide	17	29	.	.	.	ID=PRO_0000027713;Note=Activation peptide	
+Q99895	UniProtKB	Chain	30	268	.	.	.	ID=PRO_0000027714;Note=Chymotrypsin-C	
+Q99895	UniProtKB	Domain	30	267	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q99895	UniProtKB	Active site	74	74	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99895	UniProtKB	Active site	121	121	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99895	UniProtKB	Active site	216	216	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99895	UniProtKB	Glycosylation	25	25	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99895	UniProtKB	Glycosylation	52	52	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99895	UniProtKB	Glycosylation	226	226	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99895	UniProtKB	Disulfide bond	17	141	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00274,ECO:0000269|PubMed:23430245;Dbxref=PMID:23430245	
+Q99895	UniProtKB	Disulfide bond	59	75	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00274,ECO:0000269|PubMed:23430245;Dbxref=PMID:23430245	
+Q99895	UniProtKB	Disulfide bond	155	222	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00274,ECO:0000269|PubMed:23430245;Dbxref=PMID:23430245	
+Q99895	UniProtKB	Disulfide bond	186	202	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00274,ECO:0000269|PubMed:23430245;Dbxref=PMID:23430245	
+Q99895	UniProtKB	Disulfide bond	212	243	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00274,ECO:0000269|PubMed:23430245;Dbxref=PMID:23430245	
+Q99895	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_070520;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance%3B catalytic activity comparable to that of wild type%3B the mutant undergoes proteolytic degradation during trypsin-mediated activation. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs200576965,PMID:22942235	
+Q99895	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_070521;Note=Found in patients with chronic pancreatitis%3B unknown pathological significance. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23135764;Dbxref=dbSNP:rs772024986,PMID:23135764	
+Q99895	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_070522;Note=In PCTT%3B associated with disease susceptibility%3B highly reduced catalytic efficiency. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=PMID:22942235	
+Q99895	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_043516;Note=D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18059268;Dbxref=dbSNP:rs184977421,PMID:18059268	
+Q99895	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_043517;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18059268;Dbxref=dbSNP:rs184977421,PMID:18059268	
+Q99895	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_070523;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance%3B catalytic activity comparable to that of wild type. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=PMID:22942235	
+Q99895	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_043518;Note=Rare variant%3B results in normal secretion and activity. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18059268;Dbxref=dbSNP:rs145868278,PMID:18059268	
+Q99895	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_043519;Note=Rare variant that may be associated with susceptibility to pancreatitis%3B results in markedly reduced protein secretion. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:22580415,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs536812916,PMID:18059268,PMID:22580415,PMID:22942235	
+Q99895	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_070524;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance%3B the mutant is not secreted. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs769482036,PMID:22942235	
+Q99895	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_043520;Note=In PCTT%3B associated with susceptibility to disease%3B results in markedly reduced protein secretion. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22580415,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs515726209,PMID:18059268,PMID:18172691,PMID:22580415,PMID:22942235	
+Q99895	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_010928;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8635596;Dbxref=dbSNP:rs779643710,PMID:8635596	
+Q99895	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_070525;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance. K->N	
+Q99895	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_070526;Note=In PCTT%3B associated with susceptibility to disease%3B the mutant is not secreted. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22942235;Dbxref=PMID:18172691,PMID:22942235	
+Q99895	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_070527;Note=Rare variant%3B found in a patient with chronic pancreatitis%3B unknown pathological significance. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18172691;Dbxref=dbSNP:rs775404479,PMID:18172691	
+Q99895	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_043521;Note=K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22580415;Dbxref=dbSNP:rs34949635,PMID:18059268,PMID:18172691,PMID:22580415	
+Q99895	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_070528;Note=In PCTT%3B associated with disease susceptibility%3B impaired catalytic activity. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs200678111,PMID:22942235	
+Q99895	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_070529;Note=Rare variant%3B found in a patient with chronic pancreatitis%3B unknown pathological significance. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18172691;Dbxref=dbSNP:rs146235499,PMID:18172691	
+Q99895	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_070530;Note=I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23135764;Dbxref=PMID:23135764	
+Q99895	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_043522;Note=In PCTT%3B associated with susceptibility to disease%3B results in markedly reduced protein secretion and loss of activity. G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs202058123,PMID:18059268,PMID:18172691,PMID:22942235	
+Q99895	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_043523;Note=In PCTT%3B associated with susceptibility to disease%3B reduced protein secretion%3B impaired catalytic activity. G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs202058123,PMID:18059268,PMID:18172691,PMID:22942235	
+Q99895	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_043524;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18059268;Dbxref=PMID:18059268	
+Q99895	UniProtKB	Natural variant	220	220	.	.	.	ID=VAR_043525;Note=Rare variant%3B results in impaired protein secretion. L->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:22942235;Dbxref=PMID:18059268,PMID:22942235	
+Q99895	UniProtKB	Natural variant	225	225	.	.	.	ID=VAR_043526;Note=E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18059268;Dbxref=dbSNP:rs201486613,PMID:18059268	
+Q99895	UniProtKB	Natural variant	225	225	.	.	.	ID=VAR_070531;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19407484;Dbxref=PMID:19407484	
+Q99895	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_070532;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs567745213,PMID:22942235	
+Q99895	UniProtKB	Natural variant	235	235	.	.	.	ID=VAR_043527;Note=In PCTT%3B associated with susceptibility to disease%3B slightly reduced activity. V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22580415,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs140993290,PMID:18059268,PMID:18172691,PMID:22580415,PMID:22942235	
+Q99895	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_070533;Note=Found in patients with chronic pancreatitis%3B unknown pathological significance. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23135764;Dbxref=PMID:23135764	
+Q99895	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_070534;Note=Found in patients with chronic pancreatitis%3B unknown pathological significance. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23135764;Dbxref=PMID:23135764	
+Q99895	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_070535;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22580415;Dbxref=dbSNP:rs200412314,PMID:22580415	
+Q99895	UniProtKB	Natural variant	247	254	.	.	.	ID=VAR_070536;Note=In PCTT%3B associated with disease susceptibility%3B results in reduced protein secretion and loss of activity. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22942235;Dbxref=PMID:18172691,PMID:22942235	
+Q99895	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_070537;Note=Found in patients with chronic pancreatitis%3B unknown pathological significance. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23135764;Dbxref=PMID:23135764	
+Q99895	UniProtKB	Natural variant	249	249	.	.	.	ID=VAR_043528;Note=In PCTT%3B associated with disease susceptibility%3B results in reduced protein secretion and loss of activity. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs142560329,PMID:18059268,PMID:22942235	
+Q99895	UniProtKB	Natural variant	250	250	.	.	.	ID=VAR_070538;Note=In PCTT%3B associated with disease susceptibility%3B results in altered enzyme specificity and loss of activity. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22942235;Dbxref=PMID:22942235	
+Q99895	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_070539;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance%3B mutant protein secretion%2C activity and trypsin-mediated degradation are comparable to those of wild-type. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19407484,ECO:0000269|PubMed:22942235;Dbxref=dbSNP:rs755811899,PMID:19407484,PMID:22942235	
+Q99895	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_043529;Note=In PCTT%3B associated with susceptibility to disease%3B results in reduced secretion%3B normal activity%3B the mutant undergoes proteolytic degradation during trypsin-mediated activation. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18059268,ECO:0000269|PubMed:18172691,ECO:0000269|PubMed:22580415,ECO:0000269|PubMed:22942235,ECO:0000269|PubMed:23135764;Dbxref=dbSNP:rs121909293,PMID:18059268,PMID:18172691,PMID:22580415,PMID:22942235,PMID:23135764	
+Q99895	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_070540;Note=Found in patients with chronic pancreatitis%3B unknown pathological significance. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22580415;Dbxref=dbSNP:rs200406696,PMID:22580415	
+Q99895	UniProtKB	Natural variant	260	260	.	.	.	ID=VAR_043530;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18059268;Dbxref=dbSNP:rs540753875,PMID:18059268	
+Q99895	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_070541;Note=Found in a patient with chronic pancreatitis%3B unknown pathological significance. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19407484;Dbxref=dbSNP:rs769975164,PMID:19407484	
+Q99895	UniProtKB	Sequence conflict	16	16	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99895	UniProtKB	Sequence conflict	52	52	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99895	UniProtKB	Beta strand	44	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	54	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	68	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Helix	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	82	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	100	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	104	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Turn	115	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	123	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	155	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	162	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	174	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Helix	183	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Turn	189	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Helix	193	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	200	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	206	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	219	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	229	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	242	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Beta strand	250	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Helix	255	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	
+Q99895	UniProtKB	Helix	259	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H4F	

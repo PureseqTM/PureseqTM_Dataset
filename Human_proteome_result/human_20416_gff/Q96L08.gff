@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q96L08 1 255
+Q96L08	UniProtKB	Chain	1	255	.	.	.	ID=PRO_0000251973;Note=Sushi domain-containing protein 3	
+Q96L08	UniProtKB	Topological domain	1	103	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L08	UniProtKB	Transmembrane	104	124	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L08	UniProtKB	Topological domain	125	255	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L08	UniProtKB	Domain	30	93	.	.	.	Note=Sushi;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+Q96L08	UniProtKB	Glycosylation	27	27	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L08	UniProtKB	Disulfide bond	32	75	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+Q96L08	UniProtKB	Disulfide bond	61	91	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+Q96L08	UniProtKB	Alternative sequence	1	118	.	.	.	ID=VSP_020833;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96L08	UniProtKB	Alternative sequence	1	30	.	.	.	ID=VSP_020834;Note=In isoform 2. MRWAAATLRGKARPRGRAGVTTPAPGNRTG->MKNIGLVMEWEIPEIIC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12975309;Dbxref=PMID:12975309	
+Q96L08	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_027744;Note=K->E;Dbxref=dbSNP:rs1131773	
+Q96L08	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_035663;Note=In a breast cancer sample%3B somatic mutation. S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	

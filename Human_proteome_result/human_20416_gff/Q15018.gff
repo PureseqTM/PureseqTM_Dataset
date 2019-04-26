@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region Q15018 1 415
+Q15018	UniProtKB	Chain	1	415	.	.	.	ID=PRO_0000050725;Note=BRISC complex subunit Abraxas 2	
+Q15018	UniProtKB	Domain	3	149	.	.	.	Note=MPN;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01182	
+Q15018	UniProtKB	Region	215	222	.	.	.	Note=Important for interaction with SHMT2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24075985;Dbxref=PMID:24075985	
+Q15018	UniProtKB	Region	220	241	.	.	.	Note=Important for interaction with BBRC36 and other subunits of the BRISC complex;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26344097;Dbxref=PMID:26344097	
+Q15018	UniProtKB	Coiled coil	215	266	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15018	UniProtKB	Modified residue	274	274	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15018	UniProtKB	Modified residue	280	280	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q15018	UniProtKB	Modified residue	368	368	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:21406692;Dbxref=PMID:17081983,PMID:18669648,PMID:19690332,PMID:21406692	
+Q15018	UniProtKB	Modified residue	372	372	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332;Dbxref=PMID:17081983,PMID:18669648,PMID:19690332	
+Q15018	UniProtKB	Modified residue	375	375	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332;Dbxref=PMID:18669648,PMID:19690332	
+Q15018	UniProtKB	Mutagenesis	11	12	.	.	.	Note=Slighly reduces interaction with BBRC36. Abolishes interaction with SHMT2. Strongly reduces interactions with BABAM2 and BABAM1. SA->RR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26344097;Dbxref=PMID:26344097	
+Q15018	UniProtKB	Mutagenesis	215	222	.	.	.	Note=Reduces interaction with SHMT2%2C but has no effect on interaction with BRCC3. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24075985;Dbxref=PMID:24075985	
+Q15018	UniProtKB	Mutagenesis	220	220	.	.	.	Note=Strongly reduces interaction with BBRC3%3B SHMT2%3B BABAM2 and BABAM1%3B when associated with Y-231. Abolishes interaction with BRCC3 and strongly reduces interaction with SHMT2%3B BABAM2 and BABAM1%3B when associated with Y-231 and Y-241. V->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26344097;Dbxref=PMID:26344097	
+Q15018	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Strongly reduces interaction with BBRC3%3B SHMT2%3B BABAM2 and BABAM1%3B when associated with R-220. Abolishes interaction with BRCC3 and strongly reduces interaction with SHMT2%3B BABAM2 and BABAM1%3B when associated with R-220 and Y-241. E->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26344097;Dbxref=PMID:26344097	
+Q15018	UniProtKB	Mutagenesis	241	241	.	.	.	Note=Abolishes interaction with BRCC3 and strongly reduces interaction with SHMT2%3B BABAM2 and BABAM1%3B when associated with R-220 and Y-231. V->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26344097;Dbxref=PMID:26344097	
+Q15018	UniProtKB	Sequence conflict	55	57	.	.	.	Note=EIH->QIY;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15018	UniProtKB	Sequence conflict	230	230	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

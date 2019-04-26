@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q13163 1 448
+Q13163	UniProtKB	Chain	1	448	.	.	.	ID=PRO_0000086383;Note=Dual specificity mitogen-activated protein kinase kinase 5	
+Q13163	UniProtKB	Domain	18	109	.	.	.	Note=PB1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01081	
+Q13163	UniProtKB	Domain	166	409	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q13163	UniProtKB	Nucleotide binding	172	180	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q13163	UniProtKB	Region	18	25	.	.	.	Note=Interaction with MAPK7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13163	UniProtKB	Region	64	68	.	.	.	Note=Interaction with MAP3K2/MAP3K3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13163	UniProtKB	Region	117	131	.	.	.	Note=Interaction with MAPK7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13163	UniProtKB	Active site	283	283	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q13163	UniProtKB	Binding site	195	195	.	.	.	Note=ATP	
+Q13163	UniProtKB	Modified residue	311	311	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19369195,ECO:0000269|PubMed:7759517;Dbxref=PMID:19369195,PMID:7759517	
+Q13163	UniProtKB	Modified residue	315	315	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7759517;Dbxref=PMID:7759517	
+Q13163	UniProtKB	Alternative sequence	1	45	.	.	.	ID=VSP_043333;Note=In isoform 4. MLWLALGPFPAMENQVLVIRIKIPNSGAVDWTVHSGPQLLFRDVL->MMEGHFPQS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13163	UniProtKB	Alternative sequence	349	358	.	.	.	ID=VSP_021825;Note=In isoform A and isoform C. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:7759517,ECO:0000303|PubMed:9384584;Dbxref=PMID:7759517,PMID:9384584	
+Q13163	UniProtKB	Alternative sequence	444	448	.	.	.	ID=VSP_021826;Note=In isoform C. QQGPP->LASLPSPSPSV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9384584;Dbxref=PMID:9384584	
+Q13163	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_040823;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56241934,PMID:17344846	
+Q13163	UniProtKB	Natural variant	427	427	.	.	.	ID=VAR_040824;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs1226964455,PMID:17344846	
+Q13163	UniProtKB	Natural variant	428	428	.	.	.	ID=VAR_046070;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55811347,PMID:17344846	
+Q13163	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Inactivation. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7759517;Dbxref=PMID:7759517	
+Q13163	UniProtKB	Mutagenesis	311	311	.	.	.	Note=Inactivation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7759517;Dbxref=PMID:7759517	
+Q13163	UniProtKB	Mutagenesis	315	315	.	.	.	Note=Inactivation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7759517;Dbxref=PMID:7759517	
+Q13163	UniProtKB	Beta strand	17	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Turn	24	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Beta strand	27	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Helix	41	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Beta strand	58	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IC7	
+Q13163	UniProtKB	Beta strand	69	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Helix	75	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Turn	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	
+Q13163	UniProtKB	Beta strand	102	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NPT	

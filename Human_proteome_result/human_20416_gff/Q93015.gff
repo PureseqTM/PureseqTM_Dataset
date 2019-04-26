@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q93015 1 286
+Q93015	UniProtKB	Chain	1	286	.	.	.	ID=PRO_0000074536;Note=N-alpha-acetyltransferase 80	
+Q93015	UniProtKB	Domain	60	207	.	.	.	Note=N-acetyltransferase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00532	
+Q93015	UniProtKB	Region	90	93	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q59DX8	
+Q93015	UniProtKB	Region	141	143	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q59DX8	
+Q93015	UniProtKB	Region	149	154	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q59DX8	
+Q93015	UniProtKB	Binding site	85	85	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q59DX8	
+Q93015	UniProtKB	Binding site	179	179	.	.	.	Note=Acetyl-CoA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q59DX8	
+Q93015	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_037187;Note=In isoform 2. M->MQELTLSPGPAKLTPTLDPTHRM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q93015	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_014224;Note=In non-small cell lung cancer cell lines. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11085536;Dbxref=PMID:11085536	
+Q93015	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_014225;Note=In non-small cell lung cancer cell lines. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11085536;Dbxref=dbSNP:rs200439690,PMID:11085536	
+Q93015	UniProtKB	Mutagenesis	83	83	.	.	.	Note=In NAA80mut%3B abolished acetyltransferase activity%3B when associated with Q-148%2C D-151 and F-183. W->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29581253;Dbxref=PMID:29581253	
+Q93015	UniProtKB	Mutagenesis	148	148	.	.	.	Note=In NAA80mut%3B abolished acetyltransferase activity%3B when associated with F-83%2C D-151 and F-183. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29581253;Dbxref=PMID:29581253	
+Q93015	UniProtKB	Mutagenesis	151	151	.	.	.	Note=In NAA80mut%3B abolished acetyltransferase activity%3B when associated with F-83%2C Q-148 and F-183. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29581253;Dbxref=PMID:29581253	
+Q93015	UniProtKB	Mutagenesis	183	183	.	.	.	Note=In NAA80mut%3B abolished acetyltransferase activity%3B when associated with F-83%2C Q-148 and D-151. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29581253;Dbxref=PMID:29581253	

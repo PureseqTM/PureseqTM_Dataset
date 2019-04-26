@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region Q8WWN8 1 1544
+Q8WWN8	UniProtKB	Chain	1	1544	.	.	.	ID=PRO_0000074215;Note=Arf-GAP with Rho-GAP domain%2C ANK repeat and PH domain-containing protein 3	
+Q8WWN8	UniProtKB	Domain	4	68	.	.	.	Note=SAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00184	
+Q8WWN8	UniProtKB	Domain	287	379	.	.	.	Note=PH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q8WWN8	UniProtKB	Domain	394	483	.	.	.	Note=PH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q8WWN8	UniProtKB	Domain	480	611	.	.	.	Note=Arf-GAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00288	
+Q8WWN8	UniProtKB	Domain	907	1088	.	.	.	Note=Rho-GAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00172	
+Q8WWN8	UniProtKB	Domain	1117	1210	.	.	.	Note=Ras-associating;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00166	
+Q8WWN8	UniProtKB	Domain	1223	1325	.	.	.	Note=PH 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q8WWN8	UniProtKB	Zinc finger	504	527	.	.	.	Note=C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00288	
+Q8WWN8	UniProtKB	Compositional bias	81	139	.	.	.	Note=Pro-rich	
+Q8WWN8	UniProtKB	Compositional bias	1462	1542	.	.	.	Note=Pro-rich	
+Q8WWN8	UniProtKB	Modified residue	1348	1348	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R5G7	
+Q8WWN8	UniProtKB	Modified residue	1403	1403	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R5G7	
+Q8WWN8	UniProtKB	Modified residue	1408	1408	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R5G7	
+Q8WWN8	UniProtKB	Modified residue	1444	1444	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:21406692,PMID:23186163	
+Q8WWN8	UniProtKB	Modified residue	1480	1480	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q8WWN8	UniProtKB	Alternative sequence	1	338	.	.	.	ID=VSP_056214;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8WWN8	UniProtKB	Alternative sequence	1371	1383	.	.	.	ID=VSP_056215;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8WWN8	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_048330;Note=D->H;Dbxref=dbSNP:rs1031904	
+Q8WWN8	UniProtKB	Natural variant	471	471	.	.	.	ID=VAR_036180;Note=In a colorectal cancer sample%3B somatic mutation. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q8WWN8	UniProtKB	Natural variant	1085	1085	.	.	.	ID=VAR_036181;Note=In a breast cancer sample%3B somatic mutation. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q8WWN8	UniProtKB	Natural variant	1428	1428	.	.	.	ID=VAR_036182;Note=In a breast cancer sample%3B somatic mutation. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs61749636,PMID:16959974	
+Q8WWN8	UniProtKB	Mutagenesis	307	308	.	.	.	Note=Loss of PtdIns(3%2C4%2C5)P3 binding. RR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11804589;Dbxref=PMID:11804589	
+Q8WWN8	UniProtKB	Helix	9	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	14	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	19	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	22	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	33	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	41	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	52	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Turn	63	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KG5	
+Q8WWN8	UniProtKB	Helix	909	911	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Beta strand	918	920	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	921	933	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Turn	934	936	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Turn	938	942	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	947	960	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	961	963	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Turn	968	970	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	973	986	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Beta strand	987	989	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	994	996	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	997	1004	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1009	1022	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1025	1043	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1045	1048	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1052	1064	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1071	1082	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1084	1087	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	
+Q8WWN8	UniProtKB	Helix	1092	1099	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCP	

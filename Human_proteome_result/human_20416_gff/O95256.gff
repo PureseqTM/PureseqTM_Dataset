@@ -1,0 +1,57 @@
+##gff-version 3
+##sequence-region O95256 1 599
+O95256	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95256	UniProtKB	Chain	20	599	.	.	.	ID=PRO_0000042185;Note=Interleukin-18 receptor accessory protein	
+O95256	UniProtKB	Topological domain	20	356	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95256	UniProtKB	Transmembrane	357	377	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95256	UniProtKB	Topological domain	378	599	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95256	UniProtKB	Domain	149	235	.	.	.	Note=Ig-like C2-type 1	
+O95256	UniProtKB	Domain	251	353	.	.	.	Note=Ig-like C2-type 2	
+O95256	UniProtKB	Domain	406	562	.	.	.	Note=TIR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00204	
+O95256	UniProtKB	Glycosylation	21	21	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95256	UniProtKB	Glycosylation	119	119	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Glycosylation	152	152	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Glycosylation	345	345	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Disulfide bond	46	126	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Disulfide bond	155	180	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Disulfide bond	175	221	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Disulfide bond	180	221	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O95256	UniProtKB	Disulfide bond	273	337	.	.	.	Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:3WO4,ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Alternative sequence	1	142	.	.	.	ID=VSP_056295;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O95256	UniProtKB	Alternative sequence	118	126	.	.	.	ID=VSP_059114;Note=In isoform 4. VNNSGSYIC->LGHIFVDPR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17897836;Dbxref=PMID:17897836	
+O95256	UniProtKB	Alternative sequence	127	599	.	.	.	ID=VSP_059115;Note=In isoform 4. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17897836;Dbxref=PMID:17897836	
+O95256	UniProtKB	Alternative sequence	133	149	.	.	.	ID=VSP_059116;Note=In isoform 3. SPYDVACCVKMILEVKP->YDPNTFLSENISKSSII;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17897836;Dbxref=PMID:17897836	
+O95256	UniProtKB	Alternative sequence	150	599	.	.	.	ID=VSP_059117;Note=In isoform 3. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17897836;Dbxref=PMID:17897836	
+O95256	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_034005;Note=V->I;Dbxref=dbSNP:rs11465716	
+O95256	UniProtKB	Mutagenesis	15	176	.	.	.	Note=Impairs IL18 receptor signaling via NF-kappa-B. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Decreases binding to the preformed binary complex of IL18 and IL18R1. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Mutagenesis	210	210	.	.	.	Note=Decreases binding to the preformed binary complex of IL18 and IL18R1. Impairs IL18 receptor signaling via NF-kappa-B%3B when associated with A-212 and A-214. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Mutagenesis	212	212	.	.	.	Note=Abolishes binding to the preformed binary complex of IL18 and IL18R1. Impairs IL18 receptor signaling via NF-kappa-B%3B when associated with A-210 and A-214. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Mutagenesis	214	214	.	.	.	Note=Decreases binding to the preformed binary complex of IL18 and IL18R1. Impairs IL18 receptor signaling via NF-kappa-B%3B when associated with A-210 and A-212. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Decreases binding to the preformed binary complex of IL18 and IL18R1. Decreases IL18 receptor signaling via NF-kappa-B. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500532;Dbxref=PMID:25500532	
+O95256	UniProtKB	Beta strand	32	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	41	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	110	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	117	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	122	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	141	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	154	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	161	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	171	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Helix	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Turn	180	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	189	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	203	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Helix	213	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	217	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	233	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	252	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	258	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	269	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	286	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	296	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	306	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	312	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Helix	328	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	333	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	
+O95256	UniProtKB	Beta strand	344	354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WO4	

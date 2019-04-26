@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q99755 1 562
+Q99755	UniProtKB	Chain	1	562	.	.	.	ID=PRO_0000185456;Note=Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha	
+Q99755	UniProtKB	Domain	81	449	.	.	.	Note=PIPK;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00781	
+Q99755	UniProtKB	Modified residue	486	486	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99755	UniProtKB	Cross-link	103	103	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)	
+Q99755	UniProtKB	Alternative sequence	30	52	.	.	.	ID=VSP_016007;Note=In isoform 2 and isoform 3. ASGIKRPMASEVLEARQDSYISL->SGIKRPMASE;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8955136;Dbxref=PMID:14702039,PMID:15489334,PMID:8955136	
+Q99755	UniProtKB	Alternative sequence	41	52	.	.	.	ID=VSP_041912;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99755	UniProtKB	Alternative sequence	382	410	.	.	.	ID=VSP_041913;Note=In isoform 4. HMGGIPARNSKGERLLLYIGIIDILQSYR->Q;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99755	UniProtKB	Alternative sequence	455	504	.	.	.	ID=VSP_016008;Note=In isoform 2. LKPSPSKKFRSGSSFSRRAGSSGNSCITYQPSVSGEHKAQVTTKAEVEPG->C;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8955136;Dbxref=PMID:15489334,PMID:8955136	
+Q99755	UniProtKB	Mutagenesis	322	322	.	.	.	Note=Does not affect targeting of RAC1 to the plasma membrane%3B when associated with Q-440. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20660631;Dbxref=PMID:20660631	
+Q99755	UniProtKB	Mutagenesis	440	440	.	.	.	Note=Does not affect targeting of RAC1 to the plasma membrane%3B when associated with N-322. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20660631;Dbxref=PMID:20660631	
+Q99755	UniProtKB	Sequence conflict	257	257	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	

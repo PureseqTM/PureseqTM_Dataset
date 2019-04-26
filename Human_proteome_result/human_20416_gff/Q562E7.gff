@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q562E7 1 1941
+Q562E7	UniProtKB	Chain	1	1941	.	.	.	ID=PRO_0000247244;Note=WD repeat-containing protein 81	
+Q562E7	UniProtKB	Domain	337	614	.	.	.	Note=BEACH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00026	
+Q562E7	UniProtKB	Repeat	1639	1677	.	.	.	Note=WD 1	
+Q562E7	UniProtKB	Repeat	1686	1724	.	.	.	Note=WD 2	
+Q562E7	UniProtKB	Repeat	1729	1769	.	.	.	Note=WD 3	
+Q562E7	UniProtKB	Repeat	1777	1815	.	.	.	Note=WD 4	
+Q562E7	UniProtKB	Repeat	1819	1856	.	.	.	Note=WD 5	
+Q562E7	UniProtKB	Repeat	1860	1896	.	.	.	Note=WD 6	
+Q562E7	UniProtKB	Repeat	1902	1941	.	.	.	Note=WD 7	
+Q562E7	UniProtKB	Region	1	650	.	.	.	Note=Necessary and sufficient for the interaction with SQSTM1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28404643;Dbxref=PMID:28404643	
+Q562E7	UniProtKB	Compositional bias	1150	1217	.	.	.	Note=Glu-rich	
+Q562E7	UniProtKB	Compositional bias	1587	1596	.	.	.	Note=Poly-Gly	
+Q562E7	UniProtKB	Alternative sequence	1	1227	.	.	.	ID=VSP_044063;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Alternative sequence	1	1203	.	.	.	ID=VSP_044064;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q562E7	UniProtKB	Alternative sequence	1	1051	.	.	.	ID=VSP_044065;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q562E7	UniProtKB	Alternative sequence	1115	1312	.	.	.	ID=VSP_019955;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q562E7	UniProtKB	Alternative sequence	1204	1223	.	.	.	ID=VSP_044066;Note=In isoform 5. EEEEALPEQSEGKEQKILLD->MLVRVVLSLTPSFPEPSALY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q562E7	UniProtKB	Alternative sequence	1776	1941	.	.	.	ID=VSP_044067;Note=In isoform 4. HEFRLGGGLNPGLVRALAISPSGRSVVAGFSSGFMVLLDTRTGLVLRGWPAHEGDILQIKAVEGSVLVSSSSDHSLTVWKELEQKPTHHYKSASDPIHTFDLYGSEVVTGTVSNKIGVCSLLEPPSQATTKLSSENFRGTLTSLALLPTKRHLLLGSDNGVIRLLA->VRGVQFPEHSPGSLGTWQGGETPQKQKARMLFWGPS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q562E7	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_081120;Note=In HYC3%3B unknown pathological significance. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28556411;Dbxref=dbSNP:rs730882206,PMID:28556411	
+Q562E7	UniProtKB	Natural variant	856	856	.	.	.	ID=VAR_068220;Note=In CAMRQ2. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21885617;Dbxref=dbSNP:rs587776906,PMID:21885617	
+Q562E7	UniProtKB	Natural variant	1096	1941	.	.	.	ID=VAR_081121;Note=In HYC3. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28556411;Dbxref=PMID:28556411	
+Q562E7	UniProtKB	Natural variant	1333	1941	.	.	.	ID=VAR_079037;Note=In CAMRQ2. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26437881;Dbxref=PMID:26437881	
+Q562E7	UniProtKB	Natural variant	1535	1535	.	.	.	ID=VAR_062107;Note=M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs3809870,PMID:14702039	
+Q562E7	UniProtKB	Mutagenesis	544	544	.	.	.	Note=Loss of interaction with MAP1LC3C%3B when associated with A-547. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28404643;Dbxref=PMID:28404643	
+Q562E7	UniProtKB	Mutagenesis	547	547	.	.	.	Note=Loss of interaction with MAP1LC3C%3B when associated with A-544. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28404643;Dbxref=PMID:28404643	
+Q562E7	UniProtKB	Mutagenesis	577	577	.	.	.	Note=Loss of interaction with MAP1LC3C%3B when associated with A-578 and A-581. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28404643;Dbxref=PMID:28404643	
+Q562E7	UniProtKB	Mutagenesis	578	578	.	.	.	Note=Loss of interaction with MAP1LC3C%3B when associated with A-577 and A-581. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28404643;Dbxref=PMID:28404643	
+Q562E7	UniProtKB	Mutagenesis	581	581	.	.	.	Note=Loss of interaction with MAP1LC3C%3B when associated with A-577 and A-578. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28404643;Dbxref=PMID:28404643	
+Q562E7	UniProtKB	Sequence conflict	1033	1033	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1051	1051	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1298	1298	.	.	.	Note=C->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1540	1540	.	.	.	Note=P->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1573	1573	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1744	1744	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1760	1760	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q562E7	UniProtKB	Sequence conflict	1776	1776	.	.	.	Note=H->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	

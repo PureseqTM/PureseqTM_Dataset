@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region O14668 1 218
+O14668	UniProtKB	Propeptide	1	20	.	.	.	ID=PRO_0000022541;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14668	UniProtKB	Chain	21	218	.	.	.	ID=PRO_0000022542;Note=Transmembrane gamma-carboxyglutamic acid protein 1	
+O14668	UniProtKB	Topological domain	21	83	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14668	UniProtKB	Transmembrane	84	106	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14668	UniProtKB	Topological domain	107	218	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14668	UniProtKB	Domain	21	66	.	.	.	Note=Gla;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00463	
+O14668	UniProtKB	Compositional bias	131	135	.	.	.	Note=Poly-Pro	
+O14668	UniProtKB	Disulfide bond	37	42	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00463	
+O14668	UniProtKB	Alternative sequence	58	82	.	.	.	ID=VSP_044789;Note=In isoform 2. KEFWSTYTKAQQGESNRGSDWFQFY->GLVLLPRLECSCEHGSLQPQLPVPK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O14668	UniProtKB	Alternative sequence	83	218	.	.	.	ID=VSP_044790;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O14668	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_036268;Note=In a breast cancer sample%3B somatic mutation. F->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	

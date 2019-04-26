@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P48167 1 497
+P48167	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48167	UniProtKB	Chain	23	497	.	.	.	ID=PRO_0000000423;Note=Glycine receptor subunit beta	
+P48167	UniProtKB	Topological domain	23	268	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Transmembrane	269	290	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Topological domain	291	295	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Transmembrane	296	316	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Topological domain	317	327	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Transmembrane	328	348	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Topological domain	349	475	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Transmembrane	476	496	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Region	247	253	.	.	.	Note=Strychnine-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O93430	
+P48167	UniProtKB	Site	307	307	.	.	.	Note=Important for obstruction of the ion pore in the closed conformation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Modified residue	391	391	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20781	
+P48167	UniProtKB	Glycosylation	54	54	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48167	UniProtKB	Glycosylation	242	242	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48167	UniProtKB	Disulfide bond	183	197	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Disulfide bond	243	255	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23415	
+P48167	UniProtKB	Alternative sequence	303	303	.	.	.	ID=VSP_045466;Note=In isoform 2. I->W;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15028279;Dbxref=PMID:15028279	
+P48167	UniProtKB	Alternative sequence	304	497	.	.	.	ID=VSP_045467;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15028279;Dbxref=PMID:15028279	
+P48167	UniProtKB	Natural variant	199	199	.	.	.	ID=VAR_068246;Note=In HKPX2%3B heteropentameric channel complexes with GLRA1 require much higher glycine levels for channel activation%3B no effect on expression at the cell membrane. M->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21391991,ECO:0000269|PubMed:23238346;Dbxref=dbSNP:rs398122856,PMID:21391991,PMID:23238346	
+P48167	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_035070;Note=In HKPX2%3B heteropentameric channel complexes with GLRA1 require much higher glycine levels for channel activation. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11929858;Dbxref=dbSNP:rs121909749,PMID:11929858	
+P48167	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_075502;Note=In HKPX2%3B heteropentameric channel complexes with GLRA1 have reduced expression at the cell membrane and display spontaneous channel opening in the absence of extracellular glycine. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23238346;Dbxref=PMID:23238346	
+P48167	UniProtKB	Natural variant	332	332	.	.	.	ID=VAR_075503;Note=In HKPX2%3B heteropentameric channel complexes with GLRA1 have reduced expression at the cell membrane and reduced channel activity. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23238346;Dbxref=PMID:23238346	

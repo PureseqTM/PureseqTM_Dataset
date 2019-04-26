@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region O95461 1 756
+O95461	UniProtKB	Chain	1	756	.	.	.	ID=PRO_0000206060;Note=LARGE xylosyl- and glucuronyltransferase 1	
+O95461	UniProtKB	Topological domain	1	10	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Transmembrane	11	31	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Topological domain	32	756	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Region	138	413	.	.	.	Note=Xylosyltransferase activity;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22223806;Dbxref=PMID:22223806	
+O95461	UniProtKB	Region	414	756	.	.	.	Note=Glucuronyltransferase activity;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22223806;Dbxref=PMID:22223806	
+O95461	UniProtKB	Coiled coil	53	95	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Metal binding	242	242	.	.	.	Note=Manganese 1;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305,ECO:0000305|PubMed:25138275;Dbxref=PMID:25138275	
+O95461	UniProtKB	Metal binding	244	244	.	.	.	Note=Manganese 1;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305,ECO:0000305|PubMed:25138275;Dbxref=PMID:25138275	
+O95461	UniProtKB	Metal binding	563	563	.	.	.	Note=Manganese 2;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305,ECO:0000305|PubMed:25138275;Dbxref=PMID:25138275	
+O95461	UniProtKB	Metal binding	565	565	.	.	.	Note=Manganese 2;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305,ECO:0000305|PubMed:25138275;Dbxref=PMID:25138275	
+O95461	UniProtKB	Glycosylation	97	97	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Glycosylation	122	122	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Glycosylation	148	148	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Glycosylation	272	272	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95461	UniProtKB	Alternative sequence	378	429	.	.	.	ID=VSP_014536;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9628581;Dbxref=PMID:9628581	
+O95461	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_013685;Note=R->G;Dbxref=dbSNP:rs470035	
+O95461	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_013686;Note=R->P;Dbxref=dbSNP:rs135311	
+O95461	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_065064;Note=In MDDGA6. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19067344;Dbxref=dbSNP:rs267607210,PMID:19067344	
+O95461	UniProtKB	Natural variant	443	443	.	.	.	ID=VAR_075304;Note=In MDDGA6. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24709677;Dbxref=PMID:24709677	
+O95461	UniProtKB	Natural variant	495	495	.	.	.	ID=VAR_065065;Note=In MDDGA6. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19299310;Dbxref=dbSNP:rs267607209,PMID:19299310	
+O95461	UniProtKB	Natural variant	509	509	.	.	.	ID=VAR_019811;Note=In MDDGB6. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12966029;Dbxref=dbSNP:rs121908675,PMID:12966029	
+O95461	UniProtKB	Natural variant	665	665	.	.	.	ID=VAR_013687;Note=R->H;Dbxref=dbSNP:rs1046166	
+O95461	UniProtKB	Mutagenesis	242	244	.	.	.	Note=Loss of function%2C but does not abolish subcellular location. DTD->NNN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15661757;Dbxref=PMID:15661757	
+O95461	UniProtKB	Mutagenesis	242	244	.	.	.	Note=Glucuronyltransferase activity is present while xylosyltransferase activity is abolished. DTD->NTN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22223806;Dbxref=PMID:22223806	
+O95461	UniProtKB	Mutagenesis	334	336	.	.	.	Note=Loss of function%2C but does not abolish subcellular location. DQD->NNN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15661757;Dbxref=PMID:15661757	
+O95461	UniProtKB	Mutagenesis	563	565	.	.	.	Note=Xylosyltransferase activity is present while glucuronyltransferase activity is abolished. DID->NIN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22223806;Dbxref=PMID:22223806	
+O95461	UniProtKB	Mutagenesis	563	565	.	.	.	Note=Loss of function and abolishes subcellular location. DID->NNN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15661757;Dbxref=PMID:15661757	

@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q92985 1 503
+Q92985	UniProtKB	Chain	1	503	.	.	.	ID=PRO_0000154562;Note=Interferon regulatory factor 7	
+Q92985	UniProtKB	DNA binding	11	126	.	.	.	Note=IRF tryptophan pentad repeat;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00840	
+Q92985	UniProtKB	Modified residue	92	92	.	.	.	Note=N6-acetyllysine%3B by KAT2A and KAT2B;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12374802;Dbxref=PMID:12374802	
+Q92985	UniProtKB	Modified residue	471	471	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70434	
+Q92985	UniProtKB	Modified residue	472	472	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70434	
+Q92985	UniProtKB	Modified residue	475	475	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70434	
+Q92985	UniProtKB	Modified residue	477	477	.	.	.	Note=Phosphoserine%3B by TBK1 and IKKE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15367631;Dbxref=PMID:15367631	
+Q92985	UniProtKB	Modified residue	479	479	.	.	.	Note=Phosphoserine%3B by TBK1 and IKKE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15367631;Dbxref=PMID:15367631	
+Q92985	UniProtKB	Modified residue	483	483	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70434	
+Q92985	UniProtKB	Modified residue	484	484	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70434	
+Q92985	UniProtKB	Modified residue	487	487	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70434	
+Q92985	UniProtKB	Cross-link	444	444	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)	
+Q92985	UniProtKB	Cross-link	446	446	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)	
+Q92985	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_002757;Note=In isoform D. MALAPE->MPVPERPAAGPDSPRPGTR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9786932;Dbxref=PMID:15489334,PMID:9786932	
+Q92985	UniProtKB	Alternative sequence	152	164	.	.	.	ID=VSP_002758;Note=In isoform C. GGPPGPFLAHTHA->AQGSLLGSCTGGQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9315633;Dbxref=PMID:9315633	
+Q92985	UniProtKB	Alternative sequence	165	503	.	.	.	ID=VSP_002759;Note=In isoform C. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9315633;Dbxref=PMID:9315633	
+Q92985	UniProtKB	Alternative sequence	228	256	.	.	.	ID=VSP_002760;Note=In isoform B. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9315633;Dbxref=PMID:9315633	
+Q92985	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_027957;Note=K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9786932,ECO:0000269|Ref.1;Dbxref=dbSNP:rs1061502,PMID:9786932	
+Q92985	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_061273;Note=D->N;Dbxref=dbSNP:rs41313489	
+Q92985	UniProtKB	Natural variant	410	410	.	.	.	ID=VAR_073779;Note=In IMD39%3B loss of function mutation%3B shows abnormal localization to the cytoplasm rather than the nucleus. F->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25814066;Dbxref=dbSNP:rs786205223,PMID:25814066	
+Q92985	UniProtKB	Natural variant	412	412	.	.	.	ID=VAR_034017;Note=Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9786932;Dbxref=dbSNP:rs1131665,PMID:9786932	
+Q92985	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Loss of acetylation%2C increased DNA-binding and activity%3B when associated with R-93. G->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12374802;Dbxref=PMID:12374802	
+Q92985	UniProtKB	Mutagenesis	92	92	.	.	.	Note=Loss of acetylation%2C DNA-binding and activity. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12374802;Dbxref=PMID:12374802	
+Q92985	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Loss of acetylation%2C increased DNA-binding and activity%3B when associated with T-90. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12374802;Dbxref=PMID:12374802	
+Q92985	UniProtKB	Mutagenesis	477	479	.	.	.	Note=Complete loss of TBK1 and IKKE phosphorylation. SLS->ALA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15367631;Dbxref=PMID:15367631	
+Q92985	UniProtKB	Helix	14	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Beta strand	31	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Beta strand	39	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Helix	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Helix	58	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Helix	84	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Beta strand	105	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	
+Q92985	UniProtKB	Beta strand	119	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O61	

@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P25101 1 427
+P25101	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Chain	21	427	.	.	.	ID=PRO_0000012721;Note=Endothelin-1 receptor	
+P25101	UniProtKB	Topological domain	21	80	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	81	102	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	103	112	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	113	132	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	133	159	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	160	181	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	182	205	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	206	229	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	230	256	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	257	278	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	279	306	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	307	328	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	329	347	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Transmembrane	348	372	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Topological domain	373	427	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Modified residue	425	425	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28088	
+P25101	UniProtKB	Glycosylation	29	29	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Glycosylation	62	62	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25101	UniProtKB	Disulfide bond	158	239	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P25101	UniProtKB	Alternative sequence	1	225	.	.	.	ID=VSP_045578;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P25101	UniProtKB	Alternative sequence	141	249	.	.	.	ID=VSP_011061;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8611157;Dbxref=PMID:8611157	
+P25101	UniProtKB	Alternative sequence	141	161	.	.	.	ID=VSP_011059;Note=In isoform 2. LLAGRWPFDHNDFGVFLCKLF->VQSSCLLESCSGNWDSFGNCH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9284755;Dbxref=PMID:9284755	
+P25101	UniProtKB	Alternative sequence	162	427	.	.	.	ID=VSP_011060;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9284755;Dbxref=PMID:9284755	
+P25101	UniProtKB	Alternative sequence	183	187	.	.	.	ID=VSP_011062;Note=In isoform 3. RYRAV->SSTKM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8611157;Dbxref=PMID:8611157	
+P25101	UniProtKB	Alternative sequence	188	427	.	.	.	ID=VSP_011063;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8611157;Dbxref=PMID:8611157	
+P25101	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_073788;Note=In MFDA. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25772936;Dbxref=dbSNP:rs786205230,PMID:25772936	
+P25101	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_035758;Note=In a breast cancer sample%3B somatic mutation. I->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P25101	UniProtKB	Natural variant	303	303	.	.	.	ID=VAR_073789;Note=In MFDA. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25772936;Dbxref=dbSNP:rs876657388,PMID:25772936	
+P25101	UniProtKB	Sequence conflict	110	110	.	.	.	Note=C->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	115	115	.	.	.	Note=P->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	207	207	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	232	232	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	234	234	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	280	280	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	300	300	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	322	322	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	345	345	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25101	UniProtKB	Sequence conflict	409	409	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

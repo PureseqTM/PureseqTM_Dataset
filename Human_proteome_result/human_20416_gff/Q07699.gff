@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q07699 1 218
+Q07699	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07699	UniProtKB	Chain	19	218	.	.	.	ID=PRO_0000014926;Note=Sodium channel subunit beta-1	
+Q07699	UniProtKB	Topological domain	19	160	.	.	.	Note=Extracellular;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Transmembrane	161	182	.	.	.	Note=Helical;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Topological domain	183	218	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Domain	22	150	.	.	.	Note=Ig-like C2-type	
+Q07699	UniProtKB	Glycosylation	93	93	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07699	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:6AGF,ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Glycosylation	114	114	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:6AGF,ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Glycosylation	135	135	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07699	UniProtKB	Disulfide bond	21	43	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:6AGF,ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Disulfide bond	40	121	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:6AGF,ECO:0000269|PubMed:30190309;Dbxref=PMID:30190309	
+Q07699	UniProtKB	Alternative sequence	150	218	.	.	.	ID=VSP_041982;Note=In isoform 2. ANRDMASIVSEIMMYVLIVVLTIWLVAEMIYCYKKIAAATETAAQENASEYLAITSESKENCTGVQVAE->GESGAACPFTVTHRRARWRDRWQAVDRTGWLCAWPANRPQQRAEGEGSSPSCPLQLWPLFLSSPRRGQSMPVPHRRSGYRTQLCHLCCMTSGRCLLSLSQRVVLGLPGIIIRCVSRGVV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14622265;Dbxref=PMID:14622265	
+Q07699	UniProtKB	Natural variant	25	25	.	.	.	ID=VAR_062523;Note=Probable disease-associated mutation found in a patient with idiopathic childhood epilepsy%3B de novo mutation%3B loss of function in increasing sodium channel activity. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19522081,ECO:0000269|PubMed:29992740;Dbxref=dbSNP:rs786205837,PMID:19522081,PMID:29992740	
+Q07699	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_070219;Note=In ATFB13%3B the mutant results in highly reduced sodium currents and altered channel gating when coexpressed with SCN5A in a heterologous expression system. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19808477;Dbxref=dbSNP:rs16969925,PMID:19808477	
+Q07699	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_062524;Note=Probable disease-associated mutation found in a patient with non-specific cardiac conduction defects. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18464934;Dbxref=dbSNP:rs121434627,PMID:18464934	
+Q07699	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_078019;Note=In EIEE52%3B unknown pathological significance. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23148524;Dbxref=PMID:23148524	
+Q07699	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_010165;Note=In GEFS+1%3B can rescue the loss of function and defective trafficking to cell membrane phenotype of the SCN1A variant Thr-1852. C->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17928445,ECO:0000269|PubMed:9697698;Dbxref=dbSNP:rs104894718,PMID:17928445,PMID:9697698	
+Q07699	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_078020;Note=In EIEE52%3B severely decreased channel localization at the cell membrane. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19710327;Dbxref=dbSNP:rs1135401736,PMID:19710327	
+Q07699	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_067341;Note=In GEFS+1. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21040232;Dbxref=dbSNP:rs759839781,PMID:21040232	
+Q07699	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_062525;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19522081;Dbxref=dbSNP:rs72558029,PMID:19522081	
+Q07699	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_070220;Note=In ATFB13%3B the mutant results in reduced sodium currents when coexpressed with SCN5A in a heterologous expression system. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19808477;Dbxref=dbSNP:rs72550247,PMID:19808477	
+Q07699	UniProtKB	Natural variant	208	208	.	.	.	ID=VAR_062526;Note=K->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19522081;Dbxref=dbSNP:rs780958012,PMID:19522081	
+Q07699	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_062527;Note=C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19522081;Dbxref=dbSNP:rs150721582,PMID:19522081	
+Q07699	UniProtKB	Natural variant	213	213	.	.	.	ID=VAR_062528;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19522081;Dbxref=dbSNP:rs201209882,PMID:19522081	
+Q07699	UniProtKB	Beta strand	29	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	49	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	57	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	62	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	68	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	75	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	83	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	87	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	106	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Helix	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	117	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	126	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Beta strand	138	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	
+Q07699	UniProtKB	Helix	155	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AGF	

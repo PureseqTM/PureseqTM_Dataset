@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region P56975 1 720
+P56975	UniProtKB	Chain	1	720	.	.	.	ID=PRO_0000019481;Note=Pro-neuregulin-3%2C membrane-bound isoform	
+P56975	UniProtKB	Chain	1	359	.	.	.	ID=PRO_0000019482;Note=Neuregulin-3	
+P56975	UniProtKB	Topological domain	1	360	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P56975	UniProtKB	Transmembrane	361	381	.	.	.	Note=Helical%3B Note%3DInternal signal sequence;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P56975	UniProtKB	Topological domain	382	720	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P56975	UniProtKB	Domain	286	329	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P56975	UniProtKB	Compositional bias	5	8	.	.	.	Note=Poly-Ala	
+P56975	UniProtKB	Compositional bias	13	21	.	.	.	Note=Poly-Ala	
+P56975	UniProtKB	Compositional bias	26	34	.	.	.	Note=Poly-Ala	
+P56975	UniProtKB	Compositional bias	105	285	.	.	.	Note=Ser/Thr-rich	
+P56975	UniProtKB	Compositional bias	127	135	.	.	.	Note=Poly-Thr	
+P56975	UniProtKB	Compositional bias	252	260	.	.	.	Note=Poly-Ser	
+P56975	UniProtKB	Compositional bias	262	265	.	.	.	Note=Poly-Thr	
+P56975	UniProtKB	Disulfide bond	290	304	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P56975	UniProtKB	Disulfide bond	298	317	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P56975	UniProtKB	Disulfide bond	319	328	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P56975	UniProtKB	Alternative sequence	1	221	.	.	.	ID=VSP_021828;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16478787;Dbxref=PMID:16478787	
+P56975	UniProtKB	Alternative sequence	222	275	.	.	.	ID=VSP_021829;Note=In isoform 3. PSWPTAAYATSSYLHDSTPSWTLSPFQDAASSSSSSSSSATTTTPETSTSPKFH->MECGIPPTLVCVGRGGGLHTINIIIWYYFPSAWRTCFNISSSVGLLLTNSYKFY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16478787;Dbxref=PMID:16478787	
+P56975	UniProtKB	Alternative sequence	471	477	.	.	.	ID=VSP_021830;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P56975	UniProtKB	Alternative sequence	529	552	.	.	.	ID=VSP_035752;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+P56975	UniProtKB	Natural variant	472	472	.	.	.	ID=VAR_047386;Note=S->R;Dbxref=dbSNP:rs2295934	
+P56975	UniProtKB	Natural variant	552	552	.	.	.	ID=VAR_047387;Note=K->N;Dbxref=dbSNP:rs17101193	

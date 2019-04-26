@@ -1,0 +1,68 @@
+##gff-version 3
+##sequence-region P05154 1 406
+P05154	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2556811;Dbxref=PMID:2556811	
+P05154	UniProtKB	Propeptide	20	25	.	.	.	ID=PRO_0000414091;Note=Removed in mature form	
+P05154	UniProtKB	Chain	26	406	.	.	.	ID=PRO_0000032427;Note=Plasma serine protease inhibitor	
+P05154	UniProtKB	Site	373	374	.	.	.	Note=Reactive bond	
+P05154	UniProtKB	Glycosylation	39	39	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21056543,ECO:0000269|PubMed:22171320;Dbxref=PMID:21056543,PMID:22171320	
+P05154	UniProtKB	Glycosylation	249	249	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14760718,ECO:0000269|PubMed:18467335;Dbxref=PMID:14760718,PMID:18467335	
+P05154	UniProtKB	Glycosylation	262	262	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12575940,ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:18467335;Dbxref=PMID:12575940,PMID:16335952,PMID:18467335	
+P05154	UniProtKB	Glycosylation	338	338	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:18467335;Dbxref=PMID:16335952,PMID:18467335	
+P05154	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_013080;Note=S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs2069975	
+P05154	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_007100;Note=In allele PCI*B. A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:8713781,ECO:0000269|Ref.6;Dbxref=dbSNP:rs6118,PMID:10391209,PMID:8713781	
+P05154	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_013081;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:1714450,ECO:0000269|PubMed:17974005,ECO:0000269|PubMed:2173165,ECO:0000269|PubMed:3027058,ECO:0000269|PubMed:8471250,ECO:0000269|PubMed:8713781,ECO:0000269|Ref.6;Dbxref=dbSNP:rs6115,PMID:10391209,PMID:15489334,PMID:1714450,PMID:17974005,PMID:2173165,PMID:3027058,PMID:8471250,PMID:8713781	
+P05154	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_013082;Note=G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs2069976	
+P05154	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_007101;Note=In allele PCI*B. K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:8713781,ECO:0000269|Ref.6;Dbxref=dbSNP:rs6119,PMID:10391209,PMID:8713781	
+P05154	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_013083;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs2069999	
+P05154	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_013900;Note=P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6120,PMID:10391209	
+P05154	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_013084;Note=G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|Ref.6;Dbxref=dbSNP:rs6114,PMID:10391209	
+P05154	UniProtKB	Mutagenesis	248	248	.	.	.	Note=Does not change the rate of thrombin or activated protein C/F5 inhibition in the presence or absence of heparin. Strongly reduces the rate of thrombin inhibition in the presence of heparin. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18974053;Dbxref=PMID:18974053	
+P05154	UniProtKB	Mutagenesis	253	253	.	.	.	Note=Inhibits strongly thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18362344;Dbxref=PMID:18362344	
+P05154	UniProtKB	Mutagenesis	272	272	.	.	.	Note=Does not inhibit thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18362344;Dbxref=PMID:18362344	
+P05154	UniProtKB	Mutagenesis	274	274	.	.	.	Note=Does not inhibit thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18362344;Dbxref=PMID:18362344	
+P05154	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Does not change the rate of thrombin or activated protein C/F5 inhibition in the presence or absence of heparin. Slightly reduces the rate of thrombin inhibition in the presence of heparin. Does not inhibit thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18362344,ECO:0000269|PubMed:18974053;Dbxref=PMID:18362344,PMID:18974053	
+P05154	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Does not change the rate of thrombin or activated protein C/F5 inhibition in the presence or absence of heparin. Slightly reduces the rate of thrombin inhibition in the presence of heparin. Does not inhibit thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. R->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18362344,ECO:0000269|PubMed:18974053;Dbxref=PMID:18362344,PMID:18974053	
+P05154	UniProtKB	Mutagenesis	289	289	.	.	.	Note=Does not change the rate of thrombin or activated protein C/F5 inhibition in the presence or absence of heparin. Slightly reduces the rate of thrombin inhibition in the presence of heparin. Inhibits weakly thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18362344,ECO:0000269|PubMed:18974053;Dbxref=PMID:18362344,PMID:18974053	
+P05154	UniProtKB	Mutagenesis	292	292	.	.	.	Note=Does not change the rate of thrombin or activated protein C/F5 inhibition in the presence or absence of heparin. Slightly reduces the rate of thrombin inhibition in the presence of heparin. Does not inhibit thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18362344,ECO:0000269|PubMed:18974053;Dbxref=PMID:18362344,PMID:18974053	
+P05154	UniProtKB	Mutagenesis	360	360	.	.	.	Note=Inhibits heterodimer formation with TMPRSS11E. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15328353;Dbxref=PMID:15328353	
+P05154	UniProtKB	Mutagenesis	371	371	.	.	.	Note=Increases inhibition of activated protein C/F5 and factor XI/F11 activities. Decreases inhibition of thrombin activity. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7548057;Dbxref=PMID:7548057	
+P05154	UniProtKB	Mutagenesis	372	372	.	.	.	Note=Increases inhibition of thrombin activity. F->P%2CG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7548057;Dbxref=PMID:7548057	
+P05154	UniProtKB	Mutagenesis	373	373	.	.	.	Note=Increases inhibition of thrombin activity. Inhibits heterodimer formation with TMPRSS11E. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15328353,ECO:0000269|PubMed:7548057;Dbxref=PMID:15328353,PMID:7548057	
+P05154	UniProtKB	Mutagenesis	376	376	.	.	.	Note=Does not change inhibition of thrombin%2C activated protein C/F5 and factor XI/F11 activities. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7548057;Dbxref=PMID:7548057	
+P05154	UniProtKB	Mutagenesis	381	381	.	.	.	Note=Does not inhibit thrombomodulin-enhanced rate of thrombin inhibition in presence of heparin. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18362344;Dbxref=PMID:18362344	
+P05154	UniProtKB	Sequence conflict	28	28	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05154	UniProtKB	Sequence conflict	221	221	.	.	.	Note=Q->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05154	UniProtKB	Sequence conflict	335	335	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05154	UniProtKB	Sequence conflict	335	335	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05154	UniProtKB	Sequence conflict	384	384	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P05154	UniProtKB	Helix	48	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	69	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	85	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	101	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	123	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	143	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	156	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	165	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Turn	180	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	195	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	215	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	219	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	230	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Turn	248	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	252	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	264	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	275	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	284	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	295	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	306	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	314	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	318	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Helix	325	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Turn	334	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	337	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LQ8	
+P05154	UniProtKB	Beta strand	343	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	357	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	372	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OL2	
+P05154	UniProtKB	Beta strand	380	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	
+P05154	UniProtKB	Beta strand	388	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DY0	

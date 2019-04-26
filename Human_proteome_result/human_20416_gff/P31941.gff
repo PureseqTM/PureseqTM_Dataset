@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P31941 1 199
+P31941	UniProtKB	Chain	1	199	.	.	.	ID=PRO_0000171752;Note=DNA dC->dU-editing enzyme APOBEC-3A	
+P31941	UniProtKB	Domain	27	143	.	.	.	Note=CMP/dCMP-type deaminase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01083	
+P31941	UniProtKB	Active site	72	72	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P31941	UniProtKB	Metal binding	70	70	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P31941	UniProtKB	Metal binding	101	101	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P31941	UniProtKB	Metal binding	106	106	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P31941	UniProtKB	Alternative sequence	1	12	.	.	.	ID=VSP_041723;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P31941	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_048721;Note=T->A;Dbxref=dbSNP:rs17000556	
+P31941	UniProtKB	Mutagenesis	28	28	.	.	.	Note=No effect on deaminase activity despite an altered restriction activity towards genetic invaders. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. K->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	60	60	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	69	69	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Altered deaminase activity. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16527742;Dbxref=PMID:16527742	
+P31941	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. E->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16527742,ECO:0000269|PubMed:21123384;Dbxref=PMID:16527742,PMID:21123384	
+P31941	UniProtKB	Mutagenesis	98	98	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	106	106	.	.	.	Note=Altered deaminase activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16527742;Dbxref=PMID:16527742	
+P31941	UniProtKB	Mutagenesis	128	128	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	130	130	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	131	131	.	.	.	Note=No effect on deaminase activity despite an altered restriction activity towards genetic invaders. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Altered deaminase activity and restriction activity towards genetic invaders. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21123384;Dbxref=PMID:21123384	
+P31941	UniProtKB	Helix	15	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Beta strand	24	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XXO	
+P31941	UniProtKB	Beta strand	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M65	
+P31941	UniProtKB	Beta strand	32	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Beta strand	44	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Helix	49	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Beta strand	53	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Turn	62	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Helix	71	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Beta strand	88	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Turn	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M65	
+P31941	UniProtKB	Helix	106	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Beta strand	120	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Helix	136	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Beta strand	149	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Helix	155	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	
+P31941	UniProtKB	Helix	179	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KEG	

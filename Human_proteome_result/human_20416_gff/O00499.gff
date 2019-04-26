@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region O00499 1 593
+O00499	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+O00499	UniProtKB	Chain	2	593	.	.	.	ID=PRO_0000192951;Note=Myc box-dependent-interacting protein 1	
+O00499	UniProtKB	Domain	29	276	.	.	.	Note=BAR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00361	
+O00499	UniProtKB	Domain	520	593	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+O00499	UniProtKB	Region	2	122	.	.	.	Note=Interaction with BIN2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10903846;Dbxref=PMID:10903846	
+O00499	UniProtKB	Region	378	421	.	.	.	Note=Clathrin-binding	
+O00499	UniProtKB	Coiled coil	15	42	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00499	UniProtKB	Coiled coil	193	267	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00499	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+O00499	UniProtKB	Modified residue	296	296	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163,PMID:24275569	
+O00499	UniProtKB	Modified residue	298	298	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+O00499	UniProtKB	Modified residue	303	303	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:18669648,PMID:23186163	
+O00499	UniProtKB	Modified residue	307	307	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19367720;Dbxref=PMID:18669648,PMID:19367720	
+O00499	UniProtKB	Modified residue	323	323	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+O00499	UniProtKB	Modified residue	331	331	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+O00499	UniProtKB	Alternative sequence	174	204	.	.	.	ID=VSP_000246;Note=In isoform IIB%2C isoform IIC2%2C isoform II2%2C isoform II3%2C isoform BIN1%2C isoform BIN1+12A%2C isoform BIN1-10-13 and isoform BIN1-13. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8782822,ECO:0000303|PubMed:9182667,ECO:0000303|PubMed:9223448,ECO:0000303|PubMed:9395479,ECO:0000303|PubMed:9603201;Dbxref=PMID:8782822,PMID:9182667,PMID:9223448,PMID:9395479,PMID:9603201	
+O00499	UniProtKB	Alternative sequence	285	285	.	.	.	ID=VSP_000247;Note=In isoform BIN1%2C isoform BIN1+12A and isoform BIN1-13. P->PRKKSKLFSRLRRKKN;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8782822,ECO:0000303|PubMed:9182667,ECO:0000303|PubMed:9395479;Dbxref=PMID:8782822,PMID:9182667,PMID:9395479	
+O00499	UniProtKB	Alternative sequence	335	487	.	.	.	ID=VSP_000251;Note=In isoform BIN1-10-13 and isoform BIN1-13. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9395479;Dbxref=PMID:9395479	
+O00499	UniProtKB	Alternative sequence	335	457	.	.	.	ID=VSP_000250;Note=In isoform II3 and isoform BIN1. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8782822,ECO:0000303|PubMed:9182667,ECO:0000303|PubMed:9223448,ECO:0000303|PubMed:9395479;Dbxref=PMID:8782822,PMID:9182667,PMID:9223448,PMID:9395479	
+O00499	UniProtKB	Alternative sequence	335	421	.	.	.	ID=VSP_000249;Note=In isoform IIC1 and isoform IIC2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9603201;Dbxref=PMID:9603201	
+O00499	UniProtKB	Alternative sequence	335	377	.	.	.	ID=VSP_000248;Note=In isoform IID. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9603201;Dbxref=PMID:9603201	
+O00499	UniProtKB	Alternative sequence	378	457	.	.	.	ID=VSP_000253;Note=In isoform II2 and isoform BIN1+12A. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9223448,ECO:0000303|PubMed:9395479;Dbxref=PMID:9223448,PMID:9395479	
+O00499	UniProtKB	Alternative sequence	378	421	.	.	.	ID=VSP_000252;Note=In isoform IIB. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9603201;Dbxref=PMID:9603201	
+O00499	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_081080;Note=Probable disease-associated mutation found in a sporadic case of centronulear myopathy%3B does not induce membrane tubulation in cultured cells. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25260562;Dbxref=PMID:25260562	
+O00499	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_081081;Note=Probable disease-associated mutation found in a sporadic case of centronulear myopathy%3B does not induce membrane tubulation in cultured cells. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25260562;Dbxref=PMID:25260562	
+O00499	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_037425;Note=In CNM2. K->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17676042,ECO:0000269|PubMed:24755653;Dbxref=dbSNP:rs121909273,PMID:17676042,PMID:24755653	
+O00499	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_081082;Note=In CNM2. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29950440;Dbxref=dbSNP:rs1249621033,PMID:29950440	
+O00499	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_037426;Note=In CNM2%3B results in severely decreased membrane tubulation. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17676042,ECO:0000269|PubMed:24755653;Dbxref=dbSNP:rs121909274,PMID:17676042,PMID:24755653	
+O00499	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_081083;Note=In CNM2%3B results in severely decreased membrane tubulation. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20142620,ECO:0000269|PubMed:24755653;Dbxref=dbSNP:rs267606681,PMID:20142620,PMID:24755653	
+O00499	UniProtKB	Natural variant	234	234	.	.	.	ID=VAR_081084;Note=In CNM2. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29950440;Dbxref=dbSNP:rs777176261,PMID:29950440	
+O00499	UniProtKB	Natural variant	575	593	.	.	.	ID=VAR_081085;Note=In CNM2%3B decreased interaction with DNM2. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17676042;Dbxref=PMID:17676042	
+O00499	UniProtKB	Sequence conflict	474	474	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	481	481	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	481	481	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	481	481	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	510	510	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	510	510	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	528	528	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	528	528	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	576	576	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Sequence conflict	576	576	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00499	UniProtKB	Helix	8	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RMY	
+O00499	UniProtKB	Helix	43	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FIC	
+O00499	UniProtKB	Helix	97	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FIC	
+O00499	UniProtKB	Helix	123	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FIC	
+O00499	UniProtKB	Helix	133	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FIC	
+O00499	UniProtKB	Beta strand	163	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FIC	
+O00499	UniProtKB	Helix	205	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FIC	
+O00499	UniProtKB	Beta strand	523	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Beta strand	535	537	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Beta strand	546	549	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Helix	555	557	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Beta strand	562	567	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Helix	568	572	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Helix	573	579	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Beta strand	582	585	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Helix	586	588	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	
+O00499	UniProtKB	Beta strand	589	591	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MUZ	

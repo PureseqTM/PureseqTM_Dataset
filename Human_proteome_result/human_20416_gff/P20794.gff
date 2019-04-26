@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P20794 1 623
+P20794	UniProtKB	Chain	1	623	.	.	.	ID=PRO_0000086284;Note=Serine/threonine-protein kinase MAK	
+P20794	UniProtKB	Domain	4	284	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P20794	UniProtKB	Nucleotide binding	10	18	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P20794	UniProtKB	Compositional bias	309	368	.	.	.	Note=Glu/Pro-rich	
+P20794	UniProtKB	Active site	125	125	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+P20794	UniProtKB	Binding site	33	33	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P20794	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphothreonine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21986944;Dbxref=PMID:21986944	
+P20794	UniProtKB	Modified residue	159	159	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21986944;Dbxref=PMID:21986944	
+P20794	UniProtKB	Alternative sequence	532	532	.	.	.	ID=VSP_042470;Note=In isoform 2. A->AEESIIKPIEKLSCNETFPEKLEDPQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:21825139,ECO:0000303|PubMed:21835304;Dbxref=PMID:21825139,PMID:21835304	
+P20794	UniProtKB	Alternative sequence	533	572	.	.	.	ID=VSP_042471;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21697133;Dbxref=PMID:21697133	
+P20794	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_066988;Note=In RP62%3B results in a complete loss of kinase activity compared to wild-type. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21835304;Dbxref=dbSNP:rs387906647,PMID:21835304	
+P20794	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_066989;Note=In RP62. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21835304;Dbxref=dbSNP:rs754916169,PMID:21835304	
+P20794	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_066990;Note=In RP62%3B results in a complete loss of kinase activity compared to wild-type. N->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21835304;Dbxref=dbSNP:rs387906646,PMID:21835304	
+P20794	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_066991;Note=In RP62. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21835304;Dbxref=dbSNP:rs387906648,PMID:21835304	
+P20794	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_066992;Note=In RP62. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21835304;Dbxref=dbSNP:rs750559316,PMID:21835304	
+P20794	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_042006;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56215624,PMID:17344846	
+P20794	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_042007;Note=In a breast infiltrating ductal carcinoma sample%3B somatic mutation. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+P20794	UniProtKB	Natural variant	325	325	.	.	.	ID=VAR_066993;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21835304;Dbxref=dbSNP:rs371971492,PMID:21835304	
+P20794	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_053932;Note=D->E;Dbxref=dbSNP:rs17579447	
+P20794	UniProtKB	Natural variant	384	384	.	.	.	ID=VAR_042008;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55773478,PMID:17344846	
+P20794	UniProtKB	Natural variant	520	520	.	.	.	ID=VAR_042009;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs567083,PMID:17344846	
+P20794	UniProtKB	Natural variant	550	550	.	.	.	ID=VAR_042010;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56217305,PMID:17344846	
+P20794	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Abolishes autophosphorylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12084720;Dbxref=PMID:12084720	
+P20794	UniProtKB	Mutagenesis	157	157	.	.	.	Note=Abolishes autophosphorylation and impairs kinase activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21986944;Dbxref=PMID:21986944	
+P20794	UniProtKB	Mutagenesis	159	159	.	.	.	Note=Abolishes autophosphorylation and impairs kinase activity. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21986944;Dbxref=PMID:21986944	

@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region O94905 1 339
+O94905	UniProtKB	Chain	1	339	.	.	.	ID=PRO_0000002787;Note=Erlin-2	
+O94905	UniProtKB	Topological domain	1	3	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94905	UniProtKB	Transmembrane	4	24	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94905	UniProtKB	Topological domain	25	339	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94905	UniProtKB	Region	177	309	.	.	.	Note=Interaction with ERLIN1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19240031;Dbxref=PMID:19240031	
+O94905	UniProtKB	Modified residue	267	267	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O75477	
+O94905	UniProtKB	Glycosylation	106	106	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17502376;Dbxref=PMID:17502376	
+O94905	UniProtKB	Alternative sequence	142	206	.	.	.	ID=VSP_013940;Note=In isoform 3. DQIDENLKLALQQDLTSMAPGLVIQAVRVTKPNIPEAIRRNYELMESEKTKLLIAAQKQKVVEKE->GKKVSPEHAVLKQGSWNPASLHCLKPGCLQGVMVTYGQEMLKNLVLRSWSQRSSWRMLIAMQQDP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O94905	UniProtKB	Alternative sequence	142	152	.	.	.	ID=VSP_008713;Note=In isoform 2. DQIDENLKLAL->GLENDFSQESS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:15489334;Dbxref=PMID:12975309,PMID:15489334	
+O94905	UniProtKB	Alternative sequence	153	339	.	.	.	ID=VSP_008714;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:15489334;Dbxref=PMID:12975309,PMID:15489334	
+O94905	UniProtKB	Alternative sequence	207	339	.	.	.	ID=VSP_013941;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O94905	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_059140;Note=V->A;Dbxref=dbSNP:rs2032066	
+O94905	UniProtKB	Mutagenesis	106	106	.	.	.	Note=Loss of glycosylation. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17502376;Dbxref=PMID:17502376	
+O94905	UniProtKB	Sequence conflict	61	61	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

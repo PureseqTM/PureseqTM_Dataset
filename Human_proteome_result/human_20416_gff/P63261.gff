@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P63261 1 375
+P63261	UniProtKB	Chain	1	375	.	.	.	ID=PRO_0000367100;Note=Actin%2C cytoplasmic 2	
+P63261	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712,ECO:0000269|PubMed:12665801,ECO:0000269|Ref.7,ECO:0000269|Ref.8;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:25944712,PMID:12665801	
+P63261	UniProtKB	Chain	2	375	.	.	.	ID=PRO_0000000831;Note=Actin%2C cytoplasmic 2%2C N-terminally processed;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:29581253;Dbxref=PMID:29581253	
+P63261	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378;Dbxref=PMID:22223895,PMID:22814378	
+P63261	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylglutamate%3B in Actin%2C cytoplasmic 2%2C N-terminally processed%3B partial;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712,ECO:0000269|PubMed:29581253,ECO:0000269|PubMed:30028079,ECO:0000269|Ref.7,ECO:0000269|Ref.8;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:25944712,PMID:29581253,PMID:30028079	
+P63261	UniProtKB	Modified residue	44	44	.	.	.	Note=Methionine (R)-sulfoxide;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63260	
+P63261	UniProtKB	Modified residue	47	47	.	.	.	Note=Methionine (R)-sulfoxide;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63260	
+P63261	UniProtKB	Modified residue	73	73	.	.	.	Note=Tele-methylhistidine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|Ref.21,ECO:0000269|Ref.8	
+P63261	UniProtKB	Modified residue	84	84	.	.	.	Note=N6-methyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23673617;Dbxref=PMID:23673617	
+P63261	UniProtKB	Cross-link	50	50	.	.	.	Note=(Microbial infection) Isoglutamyl lysine isopeptide (Lys-Glu) (interchain with E-270)%3B by Vibrio toxins RtxA and VgrG1;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19015515;Dbxref=PMID:19015515	
+P63261	UniProtKB	Cross-link	270	270	.	.	.	Note=(Microbial infection) Isoglutamyl lysine isopeptide (Glu-Lys) (interchain with K-50)%3B by Vibrio toxins RtxA and VgrG1;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19015515;Dbxref=PMID:19015515	
+P63261	UniProtKB	Natural variant	70	70	.	.	.	ID=VAR_079849;Note=Found in a patient with isolated coloboma%3B decreased incorporation into F-actin%3B decreased interaction with cofilin%3B loss of interaction with TWF1%2C CAPZB and profilin. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28493397;Dbxref=PMID:28493397	
+P63261	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_032434;Note=In DFNA20. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:13680526;Dbxref=dbSNP:rs28999111,PMID:13680526	
+P63261	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_032435;Note=In DFNA20. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:13680526;Dbxref=dbSNP:rs104894544,PMID:13680526	
+P63261	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_067824;Note=In DFNA20. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19477959;Dbxref=dbSNP:rs267606630,PMID:19477959	
+P63261	UniProtKB	Natural variant	120	120	.	.	.	ID=VAR_067814;Note=In BRWS2. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366783;Dbxref=dbSNP:rs281875325,PMID:22366783	
+P63261	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_067825;Note=In DFNA20. I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18804074;Dbxref=dbSNP:rs281875330,PMID:18804074	
+P63261	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_067815;Note=In BRWS2. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366783;Dbxref=dbSNP:rs11549190,PMID:22366783	
+P63261	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_067816;Note=In BRWS2. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366783;Dbxref=dbSNP:rs281875326,PMID:22366783	
+P63261	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_048186;Note=T->I;Dbxref=dbSNP:rs11549206	
+P63261	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_079878;Note=In DFNA20. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22938506;Dbxref=PMID:22938506	
+P63261	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_067817;Note=In BRWS2. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366783;Dbxref=dbSNP:rs281875327,PMID:22366783	
+P63261	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_067826;Note=In DFNA20. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19477959;Dbxref=dbSNP:rs267606631,PMID:19477959	
+P63261	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_067818;Note=In BRWS2. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366783;Dbxref=dbSNP:rs281875328,PMID:22366783	
+P63261	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_067819;Note=In BRWS2. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366783;Dbxref=dbSNP:rs281875329,PMID:22366783	
+P63261	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_032436;Note=In DFNA20. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:13680526;Dbxref=dbSNP:rs104894546,PMID:13680526	
+P63261	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_032437;Note=In DFNA20. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14684684;Dbxref=dbSNP:rs28999112,PMID:14684684	
+P63261	UniProtKB	Natural variant	316	316	.	.	.	ID=VAR_079879;Note=In DFNA20%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25388789;Dbxref=PMID:25388789	
+P63261	UniProtKB	Natural variant	332	332	.	.	.	ID=VAR_032438;Note=In DFNA20. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:13680526;Dbxref=dbSNP:rs104894545,PMID:13680526	
+P63261	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_032439;Note=In DFNA20. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16773128;Dbxref=dbSNP:rs104894547,PMID:16773128	
+P63261	UniProtKB	Sequence conflict	316	316	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63261	UniProtKB	Sequence conflict	344	344	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

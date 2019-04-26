@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region O76011 1 436
+O76011	UniProtKB	Chain	1	436	.	.	.	ID=PRO_0000063691;Note=Keratin%2C type I cuticular Ha4	
+O76011	UniProtKB	Domain	98	409	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+O76011	UniProtKB	Region	1	98	.	.	.	Note=Head	
+O76011	UniProtKB	Region	99	133	.	.	.	Note=Coil 1A	
+O76011	UniProtKB	Region	134	144	.	.	.	Note=Linker 1	
+O76011	UniProtKB	Region	145	245	.	.	.	Note=Coil 1B	
+O76011	UniProtKB	Region	246	261	.	.	.	Note=Linker 12	
+O76011	UniProtKB	Region	262	405	.	.	.	Note=Coil 2	
+O76011	UniProtKB	Region	406	436	.	.	.	Note=Tail	
+O76011	UniProtKB	Site	347	347	.	.	.	Note=Stutter	
+O76011	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_056017;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2239710,PMID:15489334	
+O76011	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_056018;Note=H->R;Dbxref=dbSNP:rs2071599	
+O76011	UniProtKB	Sequence conflict	246	246	.	.	.	Note=Q->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

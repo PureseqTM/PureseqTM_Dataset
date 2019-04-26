@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region Q9ULI3 1 1381
+Q9ULI3	UniProtKB	Signal peptide	1	29	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Chain	30	1381	.	.	.	ID=PRO_0000286981;Note=Protein HEG homolog 1	
+Q9ULI3	UniProtKB	Topological domain	30	1248	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Transmembrane	1249	1269	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Topological domain	1270	1381	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Domain	985	1023	.	.	.	Note=EGF-like 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Domain	1025	1063	.	.	.	Note=EGF-like 2%3B calcium-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Compositional bias	463	743	.	.	.	Note=Ser-rich	
+Q9ULI3	UniProtKB	Modified residue	1359	1359	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:E9Q7X6	
+Q9ULI3	UniProtKB	Glycosylation	67	67	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22171320;Dbxref=PMID:22171320	
+Q9ULI3	UniProtKB	Glycosylation	123	123	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Glycosylation	159	159	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+Q9ULI3	UniProtKB	Glycosylation	180	180	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Glycosylation	314	314	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Glycosylation	462	462	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Glycosylation	520	520	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+Q9ULI3	UniProtKB	Glycosylation	610	610	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Glycosylation	1137	1137	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULI3	UniProtKB	Disulfide bond	989	1000	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Disulfide bond	994	1011	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Disulfide bond	1013	1022	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Disulfide bond	1029	1040	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Disulfide bond	1034	1049	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Disulfide bond	1051	1062	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9ULI3	UniProtKB	Alternative sequence	986	1012	.	.	.	ID=VSP_025275;Note=In isoform 2. VNSCAVNPCLHNGECVADNTSRGYHCR->GKTQSHKHMLTARPSPALRATWGSGFM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9ULI3	UniProtKB	Alternative sequence	1013	1381	.	.	.	ID=VSP_025276;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9ULI3	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_048984;Note=Q->R;Dbxref=dbSNP:rs4404487	
+Q9ULI3	UniProtKB	Natural variant	305	305	.	.	.	ID=VAR_059269;Note=S->P;Dbxref=dbSNP:rs2981546	
+Q9ULI3	UniProtKB	Natural variant	602	602	.	.	.	ID=VAR_032253;Note=F->S;Dbxref=dbSNP:rs6790837	
+Q9ULI3	UniProtKB	Natural variant	980	980	.	.	.	ID=VAR_032254;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs10804567,PMID:15489334	
+Q9ULI3	UniProtKB	Natural variant	1039	1039	.	.	.	ID=VAR_032255;Note=M->T;Dbxref=dbSNP:rs6438869	

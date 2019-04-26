@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region Q92777 1 582
+Q92777	UniProtKB	Chain	1	582	.	.	.	ID=PRO_0000183021;Note=Synapsin-2	
+Q92777	UniProtKB	Region	1	29	.	.	.	Note=A	
+Q92777	UniProtKB	Region	33	112	.	.	.	Note=B%3B linker	
+Q92777	UniProtKB	Region	113	420	.	.	.	Note=C%3B actin-binding and synaptic-vesicle binding	
+Q92777	UniProtKB	Region	421	457	.	.	.	Note=G%3B Pro-rich linker	
+Q92777	UniProtKB	Region	458	533	.	.	.	Note=H%3B Pro/Ser-rich linker	
+Q92777	UniProtKB	Region	534	582	.	.	.	Note=E	
+Q92777	UniProtKB	Compositional bias	34	42	.	.	.	Note=Poly-Pro	
+Q92777	UniProtKB	Compositional bias	486	496	.	.	.	Note=Poly-Ser	
+Q92777	UniProtKB	Compositional bias	512	516	.	.	.	Note=Poly-Ser	
+Q92777	UniProtKB	Modified residue	10	10	.	.	.	Note=Phosphoserine%3B by PKA and CaMK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63537	
+Q92777	UniProtKB	Modified residue	421	421	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q64332	
+Q92777	UniProtKB	Modified residue	425	425	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q64332	
+Q92777	UniProtKB	Alternative sequence	458	478	.	.	.	ID=VSP_006320;Note=In isoform IIb. GPGQPQGMQPPGKVLPPRRLP->CLQYILDCNGIAVGPKQVQAS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10565545,ECO:0000303|PubMed:8964517;Dbxref=PMID:10565545,PMID:8964517	
+Q92777	UniProtKB	Alternative sequence	479	582	.	.	.	ID=VSP_006321;Note=In isoform IIb. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10565545,ECO:0000303|PubMed:8964517;Dbxref=PMID:10565545,PMID:8964517	
+Q92777	UniProtKB	Natural variant	506	506	.	.	.	ID=VAR_059825;Note=T->A;Dbxref=dbSNP:rs794999	
+Q92777	UniProtKB	Sequence conflict	61	61	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92777	UniProtKB	Sequence conflict	61	61	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92777	UniProtKB	Sequence conflict	70	70	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

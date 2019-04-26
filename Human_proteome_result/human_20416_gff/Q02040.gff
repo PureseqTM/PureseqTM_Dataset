@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region Q02040 1 695
+Q02040	UniProtKB	Chain	1	695	.	.	.	ID=PRO_0000022692;Note=A-kinase anchor protein 17A	
+Q02040	UniProtKB	Domain	147	256	.	.	.	Note=RRM	
+Q02040	UniProtKB	Region	83	112	.	.	.	Note=PKA-RI and PKA-RII subunit binding domain	
+Q02040	UniProtKB	Region	425	454	.	.	.	Note=PKA-RI-alpha subunit binding domain	
+Q02040	UniProtKB	Compositional bias	587	695	.	.	.	Note=Arg-rich	
+Q02040	UniProtKB	Modified residue	537	537	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:21406692,PMID:23186163,PMID:24275569	
+Q02040	UniProtKB	Modified residue	633	633	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q02040	UniProtKB	Cross-link	118	118	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+Q02040	UniProtKB	Cross-link	118	118	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q02040	UniProtKB	Alternative sequence	385	445	.	.	.	ID=VSP_024947;Note=In isoform 3. AVKLREQEQKEEKLRLQQQEERRRLQEAELRRVEEEKERALGLQRKERELRERLLSILLSK->VGGSLCSRQPRPGCPQCPPLKCGRRHGAVSPPAAAVATKPALMPRMTAPSREGVALVCRSR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q02040	UniProtKB	Alternative sequence	385	385	.	.	.	ID=VSP_004490;Note=In isoform 2. A->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02040	UniProtKB	Alternative sequence	386	695	.	.	.	ID=VSP_004491;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02040	UniProtKB	Alternative sequence	446	695	.	.	.	ID=VSP_024948;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q02040	UniProtKB	Natural variant	194	194	.	.	.	ID=VAR_055353;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852504,PMID:15489334	
+Q02040	UniProtKB	Mutagenesis	438	439	.	.	.	Note=Abolishes binding to PKA-RI%3B when associated with 445-P-P-446. LL->PP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19840947;Dbxref=PMID:19840947	
+Q02040	UniProtKB	Mutagenesis	445	446	.	.	.	Note=Abolishes binding to PKA-RI%3B when associated with 438-P-P-439. KK->PP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19840947;Dbxref=PMID:19840947	
+Q02040	UniProtKB	Sequence conflict	443	443	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02040	UniProtKB	Sequence conflict	500	500	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02040	UniProtKB	Sequence conflict	500	500	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q02040	UniProtKB	Sequence conflict	502	502	.	.	.	Note=H->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

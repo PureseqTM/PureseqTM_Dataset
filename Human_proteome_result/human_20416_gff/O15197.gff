@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region O15197 1 1021
+O15197	UniProtKB	Signal peptide	1	31	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+O15197	UniProtKB	Chain	32	1021	.	.	.	ID=PRO_0000016837;Note=Ephrin type-B receptor 6	
+O15197	UniProtKB	Topological domain	32	594	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15197	UniProtKB	Transmembrane	595	615	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15197	UniProtKB	Topological domain	616	1021	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15197	UniProtKB	Domain	33	237	.	.	.	Note=Eph LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00883	
+O15197	UniProtKB	Domain	369	486	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+O15197	UniProtKB	Domain	487	582	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+O15197	UniProtKB	Domain	670	919	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15197	UniProtKB	Domain	948	1012	.	.	.	Note=SAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00184	
+O15197	UniProtKB	Nucleotide binding	676	684	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15197	UniProtKB	Motif	1019	1021	.	.	.	Note=PDZ-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15197	UniProtKB	Compositional bias	166	176	.	.	.	Note=Poly-Ser	
+O15197	UniProtKB	Compositional bias	219	366	.	.	.	Note=Cys-rich	
+O15197	UniProtKB	Compositional bias	881	884	.	.	.	Note=Poly-Pro	
+O15197	UniProtKB	Glycosylation	480	480	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15197	UniProtKB	Alternative sequence	16	292	.	.	.	ID=VSP_037496;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O15197	UniProtKB	Alternative sequence	487	540	.	.	.	ID=VSP_037497;Note=In isoform 3. VPSAVPVVHQVSRASNSITVSWPQPDQTNGNILDYQLRYYDQAEDESHSFTLTS->GELFSLAFRIPCLRSFEPPSLLLISSLVHPCRPPLKADPAPRDSYPHNNFPFAL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18425388;Dbxref=PMID:18425388	
+O15197	UniProtKB	Alternative sequence	541	1021	.	.	.	ID=VSP_037498;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18425388;Dbxref=PMID:18425388	
+O15197	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_019139;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|Ref.2;Dbxref=dbSNP:rs8177173,PMID:17344846	
+O15197	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_042190;Note=S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O15197	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_042191;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O15197	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_042192;Note=P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O15197	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_019140;Note=P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs8177143	
+O15197	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_042193;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55728646,PMID:17344846	
+O15197	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_019141;Note=S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|Ref.2;Dbxref=dbSNP:rs8177146,PMID:17344846	
+O15197	UniProtKB	Natural variant	332	332	.	.	.	ID=VAR_042194;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35189999,PMID:17344846	
+O15197	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_036091;Note=In a colorectal cancer sample%3B somatic mutation. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O15197	UniProtKB	Natural variant	499	499	.	.	.	ID=VAR_019142;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs8177175	
+O15197	UniProtKB	Natural variant	603	603	.	.	.	ID=VAR_036092;Note=In a colorectal cancer sample%3B somatic mutation. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O15197	UniProtKB	Natural variant	662	662	.	.	.	ID=VAR_042195;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35984674,PMID:17344846	
+O15197	UniProtKB	Natural variant	719	719	.	.	.	ID=VAR_036093;Note=In a colorectal cancer sample%3B somatic mutation. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O15197	UniProtKB	Natural variant	743	743	.	.	.	ID=VAR_042196;Note=In an ovarian mucinous carcinoma sample%3B somatic mutation. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O15197	UniProtKB	Natural variant	813	813	.	.	.	ID=VAR_042197;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O15197	UniProtKB	Natural variant	875	875	.	.	.	ID=VAR_042198;Note=In a glioblastoma multiforme sample%3B somatic mutation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+O15197	UniProtKB	Natural variant	930	930	.	.	.	ID=VAR_036094;Note=In a colorectal cancer sample%3B somatic mutation. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O15197	UniProtKB	Natural variant	993	993	.	.	.	ID=VAR_042199;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	

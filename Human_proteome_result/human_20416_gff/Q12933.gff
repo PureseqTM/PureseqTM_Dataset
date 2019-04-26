@@ -1,0 +1,65 @@
+##gff-version 3
+##sequence-region Q12933 1 501
+Q12933	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:19413330,PMID:20068231,PMID:21406692	
+Q12933	UniProtKB	Chain	2	501	.	.	.	ID=PRO_0000056399;Note=TNF receptor-associated factor 2	
+Q12933	UniProtKB	Domain	351	496	.	.	.	Note=MATH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00129	
+Q12933	UniProtKB	Zinc finger	34	73	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q12933	UniProtKB	Zinc finger	124	180	.	.	.	Note=TRAF-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00207	
+Q12933	UniProtKB	Zinc finger	177	233	.	.	.	Note=TRAF-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00207	
+Q12933	UniProtKB	Region	283	293	.	.	.	Note=Important for interaction with BIRC2 and BIRC3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q12933	UniProtKB	Coiled coil	299	348	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20385093;Dbxref=PMID:20385093	
+Q12933	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:19413330,PMID:20068231,PMID:21406692	
+Q12933	UniProtKB	Modified residue	5	5	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q12933	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+Q12933	UniProtKB	Modified residue	11	11	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:18981220;Dbxref=PMID:21406692,PMID:23186163,PMID:18981220	
+Q12933	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q12933	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphothreonine%3B by PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150425;Dbxref=PMID:19150425	
+Q12933	UniProtKB	Cross-link	31	31	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150425;Dbxref=PMID:19150425	
+Q12933	UniProtKB	Alternative sequence	53	63	.	.	.	ID=VSP_039687;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q12933	UniProtKB	Alternative sequence	122	122	.	.	.	ID=VSP_007401;Note=In isoform 2. E->EVKMPACGMVTEAPAVGSRPRSPSSYDLVLHVPLTGAEACLMSVEEETELLLR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q12933	UniProtKB	Alternative sequence	176	200	.	.	.	ID=VSP_039688;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q12933	UniProtKB	Mutagenesis	11	11	.	.	.	Note=Reduces global phosphorylation. Partial reduction of TNF-dependent activation of NF-kappa-B and activation of JNK. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18981220;Dbxref=PMID:18981220	
+Q12933	UniProtKB	Mutagenesis	11	11	.	.	.	Note=Slight increase of TNF-dependent activation of NF-kappa-B and activation of JNK. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18981220;Dbxref=PMID:18981220	
+Q12933	UniProtKB	Mutagenesis	31	31	.	.	.	Note=Abolishes 'Lys-63'-linked polyubiquitination. K->R	
+Q12933	UniProtKB	Mutagenesis	117	117	.	.	.	Note=Loss of phosphorylation site. Abolishes activation of NF-kappa-B. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150425;Dbxref=PMID:19150425	
+Q12933	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Strongly reduced interaction with BIRC3. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20385093;Dbxref=PMID:20385093	
+Q12933	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Strongly reduced interaction with BIRC3. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20385093;Dbxref=PMID:20385093	
+Q12933	UniProtKB	Mutagenesis	292	292	.	.	.	Note=Strongly reduced interaction with BIRC3. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20385093;Dbxref=PMID:20385093	
+Q12933	UniProtKB	Sequence conflict	205	310	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12933	UniProtKB	Sequence conflict	343	365	.	.	.	Note=LEMEASTYDGVFIWKISDFARKR->RPFQAQCGHRYCSFCLASILRKL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12933	UniProtKB	Helix	21	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	25	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	30	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Turn	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Beta strand	42	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Beta strand	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	55	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Turn	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	94	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Beta strand	103	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Beta strand	115	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	118	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Turn	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	130	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KNV	
+Q12933	UniProtKB	Helix	315	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CA9	
+Q12933	UniProtKB	Helix	335	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	350	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Helix	361	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	375	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D0J	
+Q12933	UniProtKB	Beta strand	381	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	389	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Helix	400	402	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Turn	403	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	406	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Helix	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	430	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	443	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Helix	454	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	460	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	467	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Helix	476	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Turn	482	484	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	
+Q12933	UniProtKB	Beta strand	490	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CZY	

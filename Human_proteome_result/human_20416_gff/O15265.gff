@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region O15265 1 892
+O15265	UniProtKB	Chain	1	892	.	.	.	ID=PRO_0000064759;Note=Ataxin-7	
+O15265	UniProtKB	Domain	334	401	.	.	.	Note=SCA7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00838	
+O15265	UniProtKB	Compositional bias	16	20	.	.	.	Note=Poly-Ala	
+O15265	UniProtKB	Compositional bias	23	28	.	.	.	Note=Poly-Ala	
+O15265	UniProtKB	Compositional bias	30	49	.	.	.	Note=Gln-rich	
+O15265	UniProtKB	Compositional bias	30	39	.	.	.	Note=Poly-Gln	
+O15265	UniProtKB	Compositional bias	40	65	.	.	.	Note=Pro-rich	
+O15265	UniProtKB	Compositional bias	40	45	.	.	.	Note=Poly-Pro	
+O15265	UniProtKB	Compositional bias	51	55	.	.	.	Note=Poly-Pro	
+O15265	UniProtKB	Compositional bias	171	219	.	.	.	Note=Ser-rich	
+O15265	UniProtKB	Compositional bias	171	174	.	.	.	Note=Poly-Ser	
+O15265	UniProtKB	Compositional bias	213	219	.	.	.	Note=Poly-Ser	
+O15265	UniProtKB	Compositional bias	402	486	.	.	.	Note=Pro-rich	
+O15265	UniProtKB	Compositional bias	640	851	.	.	.	Note=Ser-rich	
+O15265	UniProtKB	Compositional bias	647	654	.	.	.	Note=Poly-Ser	
+O15265	UniProtKB	Compositional bias	717	730	.	.	.	Note=Poly-Ser	
+O15265	UniProtKB	Compositional bias	840	845	.	.	.	Note=Poly-Ser	
+O15265	UniProtKB	Cross-link	257	257	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)%3B alternate	
+O15265	UniProtKB	Cross-link	257	257	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O15265	UniProtKB	Alternative sequence	1	166	.	.	.	ID=VSP_044456;Note=In isoform 3. MSERAADDVRGEPRRAAAAAGGAAAAAARQQQQQQQQQQPPPPQPQRQQHPPPPPRRTRPEDGGPGAASTSAAAMATVGERRPLPSPEVMLGQSWNLWVEASKLPGKDGTELDESFKEFGKNREVMGLCREDMPIFGFCPAHDDFYLVVCNDCNQVVKPQAFQSHY->MEGSKTPLQSSPSAQELKAPL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15265	UniProtKB	Alternative sequence	888	892	.	.	.	ID=VSP_007695;Note=In isoform b. PKARP->DISSPCLRTGISATSPQSPDLKSKGTSLTAENSTGRNNADTFEDKLHLHSALWTPRCL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15265	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_011823;Note=K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:9425224;Dbxref=dbSNP:rs1053338,PMID:14702039,PMID:9425224	
+O15265	UniProtKB	Natural variant	573	573	.	.	.	ID=VAR_053779;Note=I->V;Dbxref=dbSNP:rs3733124	
+O15265	UniProtKB	Natural variant	663	663	.	.	.	ID=VAR_011824;Note=P->S;Dbxref=dbSNP:rs1053340	
+O15265	UniProtKB	Natural variant	862	862	.	.	.	ID=VAR_020143;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:9425224;Dbxref=dbSNP:rs3774729,PMID:14702039,PMID:9425224	
+O15265	UniProtKB	Mutagenesis	257	257	.	.	.	Note=Almost completely abolishes sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19843541;Dbxref=PMID:19843541	
+O15265	UniProtKB	Mutagenesis	858	858	.	.	.	Note=No effect on sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19843541;Dbxref=PMID:19843541	
+O15265	UniProtKB	Sequence conflict	105	105	.	.	.	Note=P->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15265	UniProtKB	Sequence conflict	129	129	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15265	UniProtKB	Sequence conflict	888	892	.	.	.	Note=PKARP->VGNGL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15265	UniProtKB	Sequence conflict	888	892	.	.	.	Note=PKARP->VGNGL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15265	UniProtKB	Turn	343	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KKR	
+O15265	UniProtKB	Turn	352	354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KKR	
+O15265	UniProtKB	Helix	369	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KKR	
+O15265	UniProtKB	Beta strand	378	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KKR	
+O15265	UniProtKB	Helix	382	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KKR	

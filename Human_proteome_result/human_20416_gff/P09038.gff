@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region P09038 1 288
+P09038	UniProtKB	Propeptide	1	142	.	.	.	ID=PRO_0000008932;Note=Or 93%2C or 124%2C or 125%2C or 131%2C or 161	
+P09038	UniProtKB	Chain	143	288	.	.	.	ID=PRO_0000008933;Note=Fibroblast growth factor 2	
+P09038	UniProtKB	Region	261	277	.	.	.	Note=Heparin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09038	UniProtKB	Motif	179	181	.	.	.	Note=Cell attachment site%3B atypical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P09038	UniProtKB	Motif	221	223	.	.	.	Note=Cell attachment site%3B atypical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P09038	UniProtKB	Binding site	169	169	.	.	.	Note=Heparin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09038	UniProtKB	Site	261	261	.	.	.	Note=Important for interaction with integrin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Site	262	262	.	.	.	Note=Important for interaction with integrin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Site	267	267	.	.	.	Note=Important for interaction with integrin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Modified residue	108	108	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60487	
+P09038	UniProtKB	Modified residue	108	108	.	.	.	Note=Symmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60487	
+P09038	UniProtKB	Modified residue	110	110	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60487	
+P09038	UniProtKB	Modified residue	110	110	.	.	.	Note=Symmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60487	
+P09038	UniProtKB	Modified residue	112	112	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60487	
+P09038	UniProtKB	Modified residue	112	112	.	.	.	Note=Symmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60487	
+P09038	UniProtKB	Modified residue	215	215	.	.	.	Note=Phosphotyrosine%3B by TEC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20230531;Dbxref=PMID:20230531	
+P09038	UniProtKB	Cross-link	228	228	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+P09038	UniProtKB	Alternative sequence	1	133	.	.	.	ID=VSP_037383;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:19054851,ECO:0000303|PubMed:2538817;Dbxref=PMID:19054851,PMID:2538817	
+P09038	UniProtKB	Alternative sequence	1	92	.	.	.	ID=VSP_037384;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2538817;Dbxref=PMID:2538817	
+P09038	UniProtKB	Alternative sequence	1	78	.	.	.	ID=VSP_038236;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2538817;Dbxref=PMID:2538817	
+P09038	UniProtKB	Alternative sequence	79	79	.	.	.	ID=VSP_038237;Note=In isoform 2. L->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2538817;Dbxref=PMID:2538817	
+P09038	UniProtKB	Alternative sequence	93	93	.	.	.	ID=VSP_037385;Note=In isoform 4. L->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2538817;Dbxref=PMID:2538817	
+P09038	UniProtKB	Mutagenesis	181	181	.	.	.	Note=No effect on integrin binding. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Mutagenesis	186	186	.	.	.	Note=No effect on integrin binding. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Mutagenesis	188	188	.	.	.	Note=No effect on integrin binding. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Mutagenesis	261	262	.	.	.	Note=Abolishes binding to integrin ITGAV:ITGB3 and suppresses FGF2 signaling with loss of ERK1/2 activation and reduced ability to induce DNA synthesis%2C cell migration and angiogenesis. Acts as a potent antagonist of FGF2-mediated angiogenesis. KR->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Reduces binding to integrin ITGAV:ITGB3 and suppresses FGF2 signaling with reduced ERK1/2 activation and reduced ability to induce DNA synthesis%2C cell migration and angiogenesis. Acts as a potent antagonist of FGF2-mediated angiogenesis. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28302677;Dbxref=PMID:28302677	
+P09038	UniProtKB	Sequence conflict	25	25	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09038	UniProtKB	Sequence conflict	50	50	.	.	.	Note=H->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09038	UniProtKB	Sequence conflict	59	59	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09038	UniProtKB	Beta strand	136	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BLA	
+P09038	UniProtKB	Beta strand	151	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BLA	
+P09038	UniProtKB	Helix	156	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	163	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Turn	168	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	173	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	182	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Helix	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BFG	
+P09038	UniProtKB	Beta strand	195	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	204	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Turn	210	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	214	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1BLA	
+P09038	UniProtKB	Beta strand	224	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Helix	232	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	236	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Helix	242	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FGF	
+P09038	UniProtKB	Beta strand	246	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Helix	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Helix	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	
+P09038	UniProtKB	Beta strand	281	284	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4OEE	

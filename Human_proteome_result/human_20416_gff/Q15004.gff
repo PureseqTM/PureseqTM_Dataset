@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q15004 1 111
+Q15004	UniProtKB	Chain	1	111	.	.	.	ID=PRO_0000096684;Note=PCNA-associated factor	
+Q15004	UniProtKB	Motif	23	34	.	.	.	Note=D-box	
+Q15004	UniProtKB	Motif	62	72	.	.	.	Note=PIP-box	
+Q15004	UniProtKB	Motif	78	80	.	.	.	Note=KEN box	
+Q15004	UniProtKB	Motif	85	97	.	.	.	Note=Initiation motif	
+Q15004	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15004	UniProtKB	Modified residue	24	24	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CQX4	
+Q15004	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15004	UniProtKB	Modified residue	31	31	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21628590;Dbxref=PMID:21628590	
+Q15004	UniProtKB	Modified residue	72	72	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:21628590;Dbxref=PMID:20068231,PMID:23186163,PMID:21628590	
+Q15004	UniProtKB	Cross-link	15	15	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23000965;Dbxref=PMID:23000965	
+Q15004	UniProtKB	Cross-link	24	24	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23000965;Dbxref=PMID:23000965	
+Q15004	UniProtKB	Alternative sequence	43	111	.	.	.	ID=VSP_045659;Note=In isoform 2. AENKYAGGNPVCVRPTPKWQKGIGEFFRLSPKDSEKENQIPEEAGSSGLGKAKRKACPLQPDHTNDEKE->EHVLCNLITQMMKKNRTFSFIFE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q15004	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_051262;Note=E->K;Dbxref=dbSNP:rs11554313	
+Q15004	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Loss of monoubiquitination%3B when associated with R-24. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23000965;Dbxref=PMID:23000965	
+Q15004	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Loss of monoubiquitination%3B when associated with R-15. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23000965;Dbxref=PMID:23000965	
+Q15004	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Loss of binding to PCNA. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11313979;Dbxref=PMID:11313979	
+Q15004	UniProtKB	Mutagenesis	68	69	.	.	.	Note=Loss of binding to PCNA. FF->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21628590;Dbxref=PMID:21628590	
+Q15004	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Loss of binding to PCNA. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11313979;Dbxref=PMID:11313979	
+Q15004	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Stabilizes the protein in G1 by preventing association with the APC/C complex and degradation by the proteasome. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21628590;Dbxref=PMID:21628590	
+Q15004	UniProtKB	Mutagenesis	93	97	.	.	.	Note=Inhibits chain initiation by APC/C. KAKRK->AAAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21700221;Dbxref=PMID:21700221	
+Q15004	UniProtKB	Mutagenesis	93	97	.	.	.	Note=No effect on chain initiation by APC/C. KAKRK->RARRR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21700221;Dbxref=PMID:21700221	
+Q15004	UniProtKB	Helix	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4D2G	

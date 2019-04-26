@@ -1,0 +1,75 @@
+##gff-version 3
+##sequence-region Q01826 1 763
+Q01826	UniProtKB	Chain	1	763	.	.	.	ID=PRO_0000202398;Note=DNA-binding protein SATB1	
+Q01826	UniProtKB	DNA binding	361	448	.	.	.	Note=CUT 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00374	
+Q01826	UniProtKB	DNA binding	484	571	.	.	.	Note=CUT 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00374	
+Q01826	UniProtKB	DNA binding	645	704	.	.	.	Note=Homeobox;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00108	
+Q01826	UniProtKB	Region	90	204	.	.	.	Note=PDZ-like dimerization domain	
+Q01826	UniProtKB	Region	224	278	.	.	.	Note=Nuclear matrix targeting sequence (NMTS)	
+Q01826	UniProtKB	Region	400	410	.	.	.	Note=Matrix attachment region (MAR) DNA-binding	
+Q01826	UniProtKB	Motif	20	40	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15970696;Dbxref=PMID:15970696	
+Q01826	UniProtKB	Motif	139	143	.	.	.	Note=Protein interaction	
+Q01826	UniProtKB	Compositional bias	591	607	.	.	.	Note=Poly-Gln	
+Q01826	UniProtKB	Compositional bias	609	614	.	.	.	Note=Poly-Pro	
+Q01826	UniProtKB	Binding site	390	390	.	.	.	Note=Matrix attachment region (MAR) DNA	
+Q01826	UniProtKB	Binding site	425	425	.	.	.	Note=Matrix attachment region (MAR) DNA	
+Q01826	UniProtKB	Site	254	255	.	.	.	Note=Cleavage%3B by caspases	
+Q01826	UniProtKB	Modified residue	136	136	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630892;Dbxref=PMID:16630892	
+Q01826	UniProtKB	Modified residue	185	185	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630892;Dbxref=PMID:16630892	
+Q01826	UniProtKB	Modified residue	637	637	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60611	
+Q01826	UniProtKB	Cross-link	51	51	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q01826	UniProtKB	Cross-link	744	744	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18408014;Dbxref=PMID:18408014	
+Q01826	UniProtKB	Alternative sequence	592	592	.	.	.	ID=VSP_038296;Note=In isoform 2. I->IQSPSPTTLGKGESRGVFLPGLPTPAPWLGAAP;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q01826	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Loss of nuclear localization%2C cytoplasmic. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15970696;Dbxref=PMID:15970696	
+Q01826	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Loss of nuclear localization%2C cytoplasmic. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15970696;Dbxref=PMID:15970696	
+Q01826	UniProtKB	Mutagenesis	34	34	.	.	.	Note=Normal nuclear localization. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15970696;Dbxref=PMID:15970696	
+Q01826	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Normal nuclear localization. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15970696;Dbxref=PMID:15970696	
+Q01826	UniProtKB	Mutagenesis	136	136	.	.	.	Note=No acetylation. K->A%2CQ%2CR;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16630892,ECO:0000269|PubMed:19103759;Dbxref=PMID:16630892,PMID:19103759	
+Q01826	UniProtKB	Mutagenesis	185	185	.	.	.	Note=No phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630892;Dbxref=PMID:16630892	
+Q01826	UniProtKB	Mutagenesis	254	254	.	.	.	Note=CASP6-resistant. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11463840;Dbxref=PMID:11463840	
+Q01826	UniProtKB	Mutagenesis	373	373	.	.	.	Note=Slightly reduced MAR-DNA-binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	380	380	.	.	.	Note=Reduced MAR-DNA-binding. R->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	384	384	.	.	.	Note=Impaired MAR-DNA-binding. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	395	395	.	.	.	Note=Reduced MAR-DNA-binding. R->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	402	402	.	.	.	Note=Impaired MAR-DNA-binding. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17652321;Dbxref=PMID:17652321	
+Q01826	UniProtKB	Mutagenesis	403	403	.	.	.	Note=Impaired MAR-DNA-binding. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17652321;Dbxref=PMID:17652321	
+Q01826	UniProtKB	Mutagenesis	406	406	.	.	.	Note=Impaired MAR-DNA-binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	410	410	.	.	.	Note=Impaired MAR-DNA-binding. R->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	411	411	.	.	.	Note=Normal sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18408014;Dbxref=PMID:18408014	
+Q01826	UniProtKB	Mutagenesis	416	416	.	.	.	Note=Impaired MAR-DNA-binding. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	427	427	.	.	.	Note=Reduced MAR-DNA-binding. R->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	442	442	.	.	.	Note=Reduced MAR-DNA-binding. R->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	451	451	.	.	.	Note=Slightly reduced MAR-DNA-binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	475	475	.	.	.	Note=Reduced MAR-DNA-binding. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371359;Dbxref=PMID:16371359	
+Q01826	UniProtKB	Mutagenesis	486	486	.	.	.	Note=Normal sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18408014;Dbxref=PMID:18408014	
+Q01826	UniProtKB	Mutagenesis	646	646	.	.	.	Note=Reduced interaction with matrix attachment region (MAR) DNA%3B when associated with A-648. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9111059;Dbxref=PMID:9111059	
+Q01826	UniProtKB	Mutagenesis	648	648	.	.	.	Note=Reduced interaction with matrix attachment region (MAR) DNA%3B when associated with A-646. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9111059;Dbxref=PMID:9111059	
+Q01826	UniProtKB	Mutagenesis	693	695	.	.	.	Note=Reduced interaction with matrix attachment region (MAR) DNA. FQN->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9111059;Dbxref=PMID:9111059	
+Q01826	UniProtKB	Mutagenesis	720	720	.	.	.	Note=Normal sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18408014;Dbxref=PMID:18408014	
+Q01826	UniProtKB	Mutagenesis	744	744	.	.	.	Note=Loss of sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18408014;Dbxref=PMID:18408014	
+Q01826	UniProtKB	Beta strand	72	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Beta strand	92	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Helix	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Helix	110	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Helix	122	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Beta strand	129	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Helix	142	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Helix	153	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Turn	158	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Beta strand	164	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TUO	
+Q01826	UniProtKB	Helix	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Helix	186	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Turn	197	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Helix	202	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Beta strand	209	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Helix	213	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Helix	230	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NZL	
+Q01826	UniProtKB	Helix	375	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O4A	
+Q01826	UniProtKB	Helix	390	398	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O4A	
+Q01826	UniProtKB	Helix	402	411	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O4A	
+Q01826	UniProtKB	Helix	415	417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O49	
+Q01826	UniProtKB	Helix	420	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O4A	
+Q01826	UniProtKB	Helix	437	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O4A	
+Q01826	UniProtKB	Helix	653	665	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MW8	
+Q01826	UniProtKB	Helix	672	681	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MW8	
+Q01826	UniProtKB	Helix	687	702	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MW8	

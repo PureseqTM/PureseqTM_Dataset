@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q9NR82 1 932
+Q9NR82	UniProtKB	Chain	1	932	.	.	.	ID=PRO_0000054040;Note=Potassium voltage-gated channel subfamily KQT member 5	
+Q9NR82	UniProtKB	Topological domain	1	125	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Transmembrane	126	146	.	.	.	Note=Helical%3B Name%3DSegment S1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	147	156	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Transmembrane	157	177	.	.	.	Note=Helical%3B Name%3DSegment S2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	178	200	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Transmembrane	201	221	.	.	.	Note=Helical%3B Name%3DSegment S3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	222	229	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Transmembrane	230	252	.	.	.	Note=Helical%3B Voltage-sensor%3B Name%3DSegment S4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	253	266	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Transmembrane	267	287	.	.	.	Note=Helical%3B Name%3DSegment S5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	288	298	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Intramembrane	299	319	.	.	.	Note=Pore-forming%3B Name%3DSegment H5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	320	325	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Transmembrane	326	346	.	.	.	Note=Helical%3B Name%3DSegment S6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Topological domain	347	932	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NR82	UniProtKB	Motif	311	316	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NR82	UniProtKB	Modified residue	88	88	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JK45	
+Q9NR82	UniProtKB	Modified residue	447	447	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JK45	
+Q9NR82	UniProtKB	Modified residue	831	831	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NR82	UniProtKB	Alternative sequence	407	416	.	.	.	ID=VSP_001014;Note=In isoform 2. KKEQGEASSS->N;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10816588,ECO:0000303|PubMed:15489334;Dbxref=PMID:10816588,PMID:15489334	
+Q9NR82	UniProtKB	Alternative sequence	407	416	.	.	.	ID=VSP_001015;Note=In isoform 3. KKEQGEASSS->NKFCSNKQKLFRMYTSRKQS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10816588;Dbxref=PMID:10816588	
+Q9NR82	UniProtKB	Alternative sequence	408	416	.	.	.	ID=VSP_056730;Note=In isoform 7. KEQGEASSS->QNQQGESQSC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Alternative sequence	416	525	.	.	.	ID=VSP_045487;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NR82	UniProtKB	Alternative sequence	416	427	.	.	.	ID=VSP_022318;Note=In isoform 4. SQKLSFKERVRM->RFVISLLLHVCL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NR82	UniProtKB	Alternative sequence	416	416	.	.	.	ID=VSP_056731;Note=In isoform 6. S->SKFCSNKQKLFRMYTSRKQS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Alternative sequence	428	932	.	.	.	ID=VSP_022319;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NR82	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_079219;Note=In MRD46%3B decreased protein abundance%3B decreased potassium ion transmembrane transport%3B changed voltage-gated potassium channel activity%3B changed gating properties. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28669405;Dbxref=dbSNP:rs1135401955,PMID:28669405	
+Q9NR82	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_035772;Note=In a colorectal cancer sample%3B somatic mutation. W->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9NR82	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_035773;Note=In a colorectal cancer sample%3B somatic mutation. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1314919218,PMID:16959974	
+Q9NR82	UniProtKB	Natural variant	341	341	.	.	.	ID=VAR_079220;Note=In MRD46%3B decreased protein abundance%3B decreased potassium ion transmembrane transport%3B changed voltage-gated potassium channel activity%3B changed gating properties. L->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28669405;Dbxref=dbSNP:rs1135401956,PMID:28669405	
+Q9NR82	UniProtKB	Natural variant	369	369	.	.	.	ID=VAR_079221;Note=In MRD46%3B no effect on protein abundance%3B no effect on potassium ion transmembrane transport%3B increased voltage-gated potassium channel activity%3B changed gating properties resulting in a gain of function. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28669405;Dbxref=dbSNP:rs1135401958,PMID:28669405	
+Q9NR82	UniProtKB	Natural variant	429	429	.	.	.	ID=VAR_079222;Note=In MRD46%3B no effect on protein abundance%3B no effect on potassium ion transmembrane transport%3B changed voltage-gated potassium channel activity%3B changed gating properties. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28669405;Dbxref=dbSNP:rs1135401957,PMID:28669405	
+Q9NR82	UniProtKB	Sequence conflict	92	93	.	.	.	Note=KP->SR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Sequence conflict	109	109	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Sequence conflict	129	129	.	.	.	Note=Y->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Sequence conflict	727	727	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Sequence conflict	799	799	.	.	.	Note=T->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Sequence conflict	857	857	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Sequence conflict	909	909	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR82	UniProtKB	Helix	367	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B8Q	
+Q9NR82	UniProtKB	Helix	405	422	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B8Q	

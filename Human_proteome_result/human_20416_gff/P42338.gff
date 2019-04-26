@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P42338 1 1070
+P42338	UniProtKB	Chain	1	1070	.	.	.	ID=PRO_0000088787;Note=Phosphatidylinositol 4%2C5-bisphosphate 3-kinase catalytic subunit beta isoform	
+P42338	UniProtKB	Domain	26	115	.	.	.	Note=PI3K-ABD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00877	
+P42338	UniProtKB	Domain	194	285	.	.	.	Note=PI3K-RBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00879	
+P42338	UniProtKB	Domain	327	496	.	.	.	Note=C2 PI3K-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00880	
+P42338	UniProtKB	Domain	524	701	.	.	.	Note=PIK helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00878	
+P42338	UniProtKB	Domain	800	1067	.	.	.	Note=PI3K/PI4K;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00269	
+P42338	UniProtKB	Motif	410	418	.	.	.	Note=Nuclear localization signal	
+P42338	UniProtKB	Modified residue	324	324	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BTI9	
+P42338	UniProtKB	Modified residue	1070	1070	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12502714;Dbxref=PMID:12502714	
+P42338	UniProtKB	Natural variant	672	672	.	.	.	ID=VAR_050530;Note=Q->H;Dbxref=dbSNP:rs2230462	
+P42338	UniProtKB	Mutagenesis	342	342	.	.	.	Note=Enhanced inhibition by PIK3R1 leading to reduced lipid kinase activity and reduced oncogenicity. Does not modify regulation by GPCRs. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21030680;Dbxref=PMID:21030680	
+P42338	UniProtKB	Mutagenesis	805	805	.	.	.	Note=Loss of lipid kinase activity. May not affect insulin signaling and cell proliferation. Partially affects oncogene-induced trasformation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18594509;Dbxref=PMID:18594509	

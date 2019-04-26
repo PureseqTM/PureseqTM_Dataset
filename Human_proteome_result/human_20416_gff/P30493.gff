@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region P30493 1 362
+P30493	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30493	UniProtKB	Chain	25	362	.	.	.	ID=PRO_0000018858;Note=HLA class I histocompatibility antigen%2C B-55 alpha chain	
+P30493	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30493	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30493	UniProtKB	Topological domain	333	362	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30493	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P30493	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30493	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30493	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30493	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P30493	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30493	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30493	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30493	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_056410;Note=A->T;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21269460;Dbxref=dbSNP:rs1050529,PMID:21269460	
+P30493	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_016483;Note=In allele B*55:05. E->A	
+P30493	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_056411;Note=N->D;Dbxref=dbSNP:rs1050570	
+P30493	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_059489;Note=N->K;Dbxref=dbSNP:rs1065386	
+P30493	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_056412;Note=T->A;Dbxref=dbSNP:rs1050393	
+P30493	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_059490;Note=D->Y;Dbxref=dbSNP:rs1131215	
+P30493	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_016484;Note=In allele B*55:12. S->N;Dbxref=dbSNP:rs1050388	
+P30493	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_016698;Note=In allele B*55:04 and allele B*55:08%3B requires 2 nucleotide substitutions. W->L	
+P30493	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_016699;Note=In allele B*55:08. T->R	
+P30493	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_016700;Note=In allele B*55:04. T->S	
+P30493	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_016701;Note=In allele B*55:04 and allele B*55:08. L->V	
+P30493	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_016702;Note=In allele B*55:04 and allele B*55:08%3B requires 2 nucleotide substitutions. L->Y;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+P30493	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_016703;Note=In allele B*55:04 and allele B*55:08. S->R	
+P30493	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_016485;Note=In allele B*55:02%2C allele B*55:04%2C allele B*55:08 and allele B*55:12. E->V	
+P30493	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_016704;Note=In allele B*55:09. L->R	
+P30493	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_016705;Note=In allele B*55:09%3B requires 2 nucleotide substitutions. T->E	
+P30493	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_016706;Note=In allele B*55:08%3B requires 2 nucleotide substitutions. T->L	

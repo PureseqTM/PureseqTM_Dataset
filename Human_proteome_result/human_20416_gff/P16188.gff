@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region P16188 1 365
+P16188	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P16188	UniProtKB	Chain	25	365	.	.	.	ID=PRO_0000018822;Note=HLA class I histocompatibility antigen%2C A-30 alpha chain	
+P16188	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16188	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16188	UniProtKB	Topological domain	333	365	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P16188	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P16188	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P16188	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P16188	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P16188	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P16188	UniProtKB	Modified residue	343	343	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P16188	UniProtKB	Modified residue	344	344	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P16188	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18462	
+P16188	UniProtKB	Modified residue	350	350	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01892	
+P16188	UniProtKB	Modified residue	352	352	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P16188	UniProtKB	Modified residue	356	356	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P16188	UniProtKB	Modified residue	359	359	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P16188	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P16188	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P16188	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P16188	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_004366;Note=In allele A*30:02%2C allele A*30:04 and allele A*30:08. H->Q	
+P16188	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_010284;Note=In allele A*30:08. S->Y	
+P16188	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_016653;Note=In allele A*30:06. T->A	
+P16188	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_004367;Note=In allele A*30:03. R->G;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21269460,ECO:0000244|PubMed:25944712;Dbxref=PMID:21269460,PMID:25944712	
+P16188	UniProtKB	Natural variant	86	86	.	.	.	ID=VAR_016738;Note=In allele A*30:07. Q->E	
+P16188	UniProtKB	Natural variant	89	90	.	.	.	ID=VAR_016739;Note=In allele A*30:07. RN->GK	
+P16188	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_056271;Note=R->G;Dbxref=dbSNP:rs199474430	
+P16188	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_004368;Note=In allele A*30:02%2C allele A*30:03%2C allele A*30:04%2C allele A*30:06 and allele A*30:07. Q->H;Dbxref=dbSNP:rs78306866	
+P16188	UniProtKB	Natural variant	100	101	.	.	.	ID=VAR_004369;Note=In allele A*30:02%2C allele A*30:03%2C allele A*30:04%2C allele A*30:06 and allele A*30:07. VD->EN	
+P16188	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_056272;Note=D->N;Dbxref=dbSNP:rs1136688	
+P16188	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_056273;Note=I->M;Dbxref=dbSNP:rs1136695	
+P16188	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_056274;Note=S->P;Dbxref=dbSNP:rs1136700	
+P16188	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_056275;Note=G->W;Dbxref=dbSNP:rs1136702	
+P16188	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_056276;Note=F->L;Dbxref=dbSNP:rs1059488	
+P16188	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_056277;Note=N->K;Dbxref=dbSNP:rs1059509	
+P16188	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_056278;Note=I->T;Dbxref=dbSNP:rs1059516	
+P16188	UniProtKB	Natural variant	175	176	.	.	.	ID=VAR_004370;Note=In allele A*30:04 and allele A*30:06. RW->HV	
+P16188	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_004371;Note=In allele A*30:02%2C allele A*30:03 and allele A*30:07. W->R	
+P16188	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_004372;Note=In allele A*30:04 and allele A*30:06. L->W	
+P16188	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_056279;Note=R->H;Dbxref=dbSNP:rs17185861	
+P16188	UniProtKB	Sequence conflict	33	33	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

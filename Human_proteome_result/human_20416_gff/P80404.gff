@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P80404 1 500
+P80404	UniProtKB	Transit peptide	1	28	.	.	.	Note=Mitochondrion	
+P80404	UniProtKB	Chain	29	500	.	.	.	ID=PRO_0000001249;Note=4-aminobutyrate aminotransferase%2C mitochondrial	
+P80404	UniProtKB	Region	164	165	.	.	.	Note=Pyridoxal phosphate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80147	
+P80404	UniProtKB	Metal binding	163	163	.	.	.	Note=Iron-sulfur (2Fe-2S)%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80147	
+P80404	UniProtKB	Metal binding	166	166	.	.	.	Note=Iron-sulfur (2Fe-2S)%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80147	
+P80404	UniProtKB	Binding site	220	220	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80147	
+P80404	UniProtKB	Binding site	381	381	.	.	.	Note=Pyridoxal phosphate%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80147	
+P80404	UniProtKB	Modified residue	231	231	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	252	252	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	252	252	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	279	279	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	318	318	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	357	357	.	.	.	Note=N6-(pyridoxal phosphate)lysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80147	
+P80404	UniProtKB	Modified residue	413	413	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	413	413	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	452	452	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Modified residue	470	470	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61922	
+P80404	UniProtKB	Disulfide bond	321	321	.	.	.	Note=Interchain	
+P80404	UniProtKB	Natural variant	56	56	.	.	.	ID=VAR_018979;Note=Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1731017,PMID:15489334	
+P80404	UniProtKB	Natural variant	220	220	.	.	.	ID=VAR_008883;Note=In GABATD%3B 25%25 reduction in activity. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10407778;Dbxref=dbSNP:rs121434578,PMID:10407778	
+P80404	UniProtKB	Mutagenesis	321	321	.	.	.	Note=Loss of activity. C->M%2CS%2CA%2CG%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15528998;Dbxref=PMID:15528998	
+P80404	UniProtKB	Sequence conflict	17	17	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	109	109	.	.	.	Note=H->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	113	113	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	132	132	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	155	171	.	.	.	Note=MSQLITMACGSCSNENA->CPSSSPWPACPAPMKTT;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	191	191	.	.	.	Note=Q->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	204	204	.	.	.	Note=G->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	216	216	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	247	247	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	268	268	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	320	320	.	.	.	Note=G->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P80404	UniProtKB	Sequence conflict	366	366	.	.	.	Note=H->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

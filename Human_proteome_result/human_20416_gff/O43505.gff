@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region O43505 1 415
+O43505	UniProtKB	Chain	1	415	.	.	.	ID=PRO_0000080555;Note=Beta-1%2C4-glucuronyltransferase 1	
+O43505	UniProtKB	Topological domain	1	8	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43505	UniProtKB	Transmembrane	9	36	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43505	UniProtKB	Topological domain	37	415	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43505	UniProtKB	Metal binding	227	227	.	.	.	Note=Manganese;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25279699;Dbxref=PMID:25279699	
+O43505	UniProtKB	Metal binding	229	229	.	.	.	Note=Manganese;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25279699;Dbxref=PMID:25279699	
+O43505	UniProtKB	Glycosylation	204	204	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43505	UniProtKB	Glycosylation	300	300	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43505	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_025019;Note=T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs35429253	
+O43505	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_069989;Note=In MDDGA13. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23359570;Dbxref=dbSNP:rs397509397,PMID:23359570	
+O43505	UniProtKB	Natural variant	406	406	.	.	.	ID=VAR_069990;Note=In MDDGA13. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23359570;Dbxref=dbSNP:rs397509396,PMID:23359570	
+O43505	UniProtKB	Mutagenesis	155	155	.	.	.	Note=In Mut3%3B mislocalization to the endoplasmic reticulum. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25279699;Dbxref=PMID:25279699	
+O43505	UniProtKB	Mutagenesis	227	229	.	.	.	Note=In Mut2%3B mislocalization to the endoplasmic reticulum. DVD->NVN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25279699;Dbxref=PMID:25279699	

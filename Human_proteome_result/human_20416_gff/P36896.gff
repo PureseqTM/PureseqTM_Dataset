@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P36896 1 505
+P36896	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36896	UniProtKB	Chain	24	505	.	.	.	ID=PRO_0000024417;Note=Activin receptor type-1B	
+P36896	UniProtKB	Topological domain	24	126	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36896	UniProtKB	Transmembrane	127	149	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36896	UniProtKB	Topological domain	150	505	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36896	UniProtKB	Domain	177	206	.	.	.	Note=GS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00585	
+P36896	UniProtKB	Domain	207	497	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P36896	UniProtKB	Nucleotide binding	213	221	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P36896	UniProtKB	Active site	335	335	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+P36896	UniProtKB	Binding site	234	234	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P36896	UniProtKB	Modified residue	380	380	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12112843;Dbxref=PMID:12112843	
+P36896	UniProtKB	Glycosylation	43	43	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36896	UniProtKB	Alternative sequence	1	52	.	.	.	ID=VSP_041841;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P36896	UniProtKB	Alternative sequence	271	271	.	.	.	ID=VSP_041842;Note=In isoform 4. D->ADCSFLTLPWEVVMVSAAPKLRSLRLQYKGGRGRARFLFPLN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P36896	UniProtKB	Alternative sequence	422	505	.	.	.	ID=VSP_004953;Note=In isoform 3. VHEEYQLPYYDLVPSDPSIEEMRKVVCDQKLRPNIPNWWQSYEALRVMGKMMRECWYANGAARLTALRIKKTLSQLSVQEDVKI->TFLFCLCSYLPFQDAGSPKAVLLPPFFLQPVGCLLPEPESSFKVAIKGVEVAVLRVRLFFRDQFVE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8058741;Dbxref=PMID:8058741	
+P36896	UniProtKB	Alternative sequence	465	505	.	.	.	ID=VSP_004954;Note=In isoform 2. ALRVMGKMMRECWYANGAARLTALRIKKTLSQLSVQEDVKI->VRSWPPAAFPSA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8058741;Dbxref=PMID:8058741	
+P36896	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_041406;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34488074,PMID:17344846	
+P36896	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_011716;Note=L->V;Dbxref=dbSNP:rs928906	
+P36896	UniProtKB	Mutagenesis	40	40	.	.	.	Note=Increases binding to activin. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665502;Dbxref=PMID:12665502	
+P36896	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Decreases binding to activin. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665502;Dbxref=PMID:12665502	
+P36896	UniProtKB	Mutagenesis	73	73	.	.	.	Note=Increases binding to activin. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665502;Dbxref=PMID:12665502	
+P36896	UniProtKB	Mutagenesis	75	75	.	.	.	Note=Decreases binding to activin. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665502;Dbxref=PMID:12665502	
+P36896	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Decreases binding to activin. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665502;Dbxref=PMID:12665502	
+P36896	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Leads to constitutive activation. T->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8622651;Dbxref=PMID:8622651	
+P36896	UniProtKB	Sequence conflict	56	56	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P36896	UniProtKB	Sequence conflict	56	56	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P36896	UniProtKB	Sequence conflict	222	223	.	.	.	Note=WR->MA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P36896	UniProtKB	Sequence conflict	222	223	.	.	.	Note=WR->MA;Ontology_term=ECO:0000305;evidence=ECO:0000305	

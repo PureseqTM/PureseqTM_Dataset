@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region O94992 1 359
+O94992	UniProtKB	Chain	1	359	.	.	.	ID=PRO_0000305263;Note=Protein HEXIM1	
+O94992	UniProtKB	Region	150	177	.	.	.	Note=Basic region%3B mediates nuclear localization and interaction with 7SK snRNA and NR3C1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15941832;Dbxref=PMID:15941832	
+O94992	UniProtKB	Region	202	205	.	.	.	Note=Interaction with P-TEFb	
+O94992	UniProtKB	Region	210	250	.	.	.	Note=Autoinhibitory acidic region%3B in absence of 7SK snRNA interacts with the basic region preventing interaction with P-TEFb and modulating subcellular localization	
+O94992	UniProtKB	Region	286	314	.	.	.	Note=Mediates interaction with CCNT1	
+O94992	UniProtKB	Region	310	355	.	.	.	Note=Required for inhibition of ESR1-dependent transcription	
+O94992	UniProtKB	Coiled coil	283	349	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94992	UniProtKB	Modified residue	97	97	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+O94992	UniProtKB	Modified residue	98	98	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+O94992	UniProtKB	Modified residue	233	233	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231	
+O94992	UniProtKB	Modified residue	236	236	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231	
+O94992	UniProtKB	Modified residue	237	237	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231	
+O94992	UniProtKB	Modified residue	252	252	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692	
+O94992	UniProtKB	Modified residue	260	260	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R409	
+O94992	UniProtKB	Mutagenesis	152	155	.	.	.	Note=Abolishes interaction with 7SK snRNA. KHRR->ILAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15201869;Dbxref=PMID:15201869	
+O94992	UniProtKB	Mutagenesis	154	156	.	.	.	Note=Abolishes interaction with 7SK snRNA. RRR->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362050;Dbxref=PMID:16362050	
+O94992	UniProtKB	Mutagenesis	203	203	.	.	.	Note=Abolishes interaction with P-TEFb%3B when associated with D-205. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15201869;Dbxref=PMID:15201869	
+O94992	UniProtKB	Mutagenesis	205	205	.	.	.	Note=Abolishes interaction with P-TEFb. Same effect%3B when associated with D-203. T->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15201869;Dbxref=PMID:15201869	
+O94992	UniProtKB	Mutagenesis	208	208	.	.	.	Note=Partial loss of function. F->A%2CD%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15965233;Dbxref=PMID:15965233	
+O94992	UniProtKB	Mutagenesis	271	271	.	.	.	Note=Loss of function. Y->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15965233;Dbxref=PMID:15965233	
+O94992	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Loss of oligomerization%3B when associated with A-294%3B A-332 and A-339. Loss of function and interaction with P-TEFb%3B when associated with A-294. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16377779;Dbxref=PMID:16377779	
+O94992	UniProtKB	Mutagenesis	294	294	.	.	.	Note=Loss of oligomerization%3B when associated with A-287%3B A-332 and A-339. Loss of function and interaction with P-TEFb%3B when associated with A-287. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16377779;Dbxref=PMID:16377779	
+O94992	UniProtKB	Mutagenesis	332	332	.	.	.	Note=Loss of oligomerization%3B when associated with A-287%3B A-294 and A-339. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16377779;Dbxref=PMID:16377779	
+O94992	UniProtKB	Mutagenesis	339	339	.	.	.	Note=Loss of oligomerization%3B when associated with A-287%3B A-294 and A-332. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16377779;Dbxref=PMID:16377779	
+O94992	UniProtKB	Helix	268	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S9G	
+O94992	UniProtKB	Helix	284	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S9G	
+O94992	UniProtKB	Helix	319	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3S9G	

@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region Q06265 1 439
+Q06265	UniProtKB	Chain	1	439	.	.	.	ID=PRO_0000139971;Note=Exosome complex component RRP45	
+Q06265	UniProtKB	Region	1	268	.	.	.	Note=ARE binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16912217;Dbxref=PMID:16912217	
+Q06265	UniProtKB	Modified residue	65	65	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q06265	UniProtKB	Modified residue	297	297	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q06265	UniProtKB	Modified residue	306	306	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+Q06265	UniProtKB	Modified residue	346	346	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q06265	UniProtKB	Modified residue	392	392	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+Q06265	UniProtKB	Modified residue	394	394	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+Q06265	UniProtKB	Cross-link	297	297	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+Q06265	UniProtKB	Cross-link	297	297	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+Q06265	UniProtKB	Cross-link	419	419	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+Q06265	UniProtKB	Alternative sequence	1	84	.	.	.	ID=VSP_025555;Note=In isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:2007859,ECO:0000303|Ref.2;Dbxref=PMID:2007859	
+Q06265	UniProtKB	Alternative sequence	385	385	.	.	.	ID=VSP_025556;Note=In isoform 2 and isoform 4. Q->QELGFHHVGQTGLEFLTS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12788944,ECO:0000303|Ref.2;Dbxref=PMID:12788944	
+Q06265	UniProtKB	Natural variant	14	14	.	.	.	ID=VAR_081052;Note=In PCH1D%3B reduced EXOSC9 and exosome levels in patient cells. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29727687;Dbxref=dbSNP:rs139632595,PMID:29727687	
+Q06265	UniProtKB	Natural variant	161	439	.	.	.	ID=VAR_081053;Note=In PCH1D%3B reduced EXOSC9 and exosome levels in patient cells. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29727687;Dbxref=PMID:29727687	
+Q06265	UniProtKB	Natural variant	366	366	.	.	.	ID=VAR_051867;Note=I->V;Dbxref=dbSNP:rs1803183	
+Q06265	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_014924;Note=S->T;Dbxref=dbSNP:rs1051881	
+Q06265	UniProtKB	Mutagenesis	388	391	.	.	.	Note=Abolishes interaction with SETX. PIIL->EECP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105744;Dbxref=PMID:24105744	
+Q06265	UniProtKB	Mutagenesis	388	391	.	.	.	Note=Abolishes interaction with SETX. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105744;Dbxref=PMID:24105744	
+Q06265	UniProtKB	Mutagenesis	390	391	.	.	.	Note=Abolishes interaction with SETX. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105744;Dbxref=PMID:24105744	
+Q06265	UniProtKB	Mutagenesis	395	398	.	.	.	Note=Abolishes interaction with SETX. EEEE->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105744;Dbxref=PMID:24105744	
+Q06265	UniProtKB	Mutagenesis	395	398	.	.	.	Note=Abolishes interaction with SETX. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105744;Dbxref=PMID:24105744	
+Q06265	UniProtKB	Helix	8	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	24	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D6Q	
+Q06265	UniProtKB	Beta strand	36	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	45	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	54	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Turn	69	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	76	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Turn	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	92	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Helix	96	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Helix	101	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	118	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D6Q	
+Q06265	UniProtKB	Turn	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	128	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Helix	146	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	165	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D6Q	
+Q06265	UniProtKB	Beta strand	171	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D6Q	
+Q06265	UniProtKB	Helix	176	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	191	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Turn	200	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	203	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Helix	211	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	220	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Turn	227	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	230	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Helix	244	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	284	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D6Q	
+Q06265	UniProtKB	Helix	287	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	
+Q06265	UniProtKB	Beta strand	291	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NN6	

@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region P09936 1 223
+P09936	UniProtKB	Chain	1	220	.	.	.	ID=PRO_0000211055;Note=Ubiquitin carboxyl-terminal hydrolase isozyme L1	
+P09936	UniProtKB	Propeptide	221	223	.	.	.	ID=PRO_0000414311;Note=Removed in mature form;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09936	UniProtKB	Region	5	10	.	.	.	Note=Interaction with ubiquitin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20439756;Dbxref=PMID:20439756	
+P09936	UniProtKB	Region	211	216	.	.	.	Note=Interaction with ubiquitin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20439756;Dbxref=PMID:20439756	
+P09936	UniProtKB	Active site	90	90	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20439756;Dbxref=PMID:20439756	
+P09936	UniProtKB	Active site	161	161	.	.	.	Note=Proton donor;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20439756;Dbxref=PMID:20439756	
+P09936	UniProtKB	Site	1	1	.	.	.	Note=Susceptible to oxidation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722078;Dbxref=PMID:14722078	
+P09936	UniProtKB	Site	6	6	.	.	.	Note=Susceptible to oxidation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722078;Dbxref=PMID:14722078	
+P09936	UniProtKB	Site	12	12	.	.	.	Note=Susceptible to oxidation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722078;Dbxref=PMID:14722078	
+P09936	UniProtKB	Site	124	124	.	.	.	Note=Susceptible to oxidation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722078;Dbxref=PMID:14722078	
+P09936	UniProtKB	Site	176	176	.	.	.	Note=Important for enzyme activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8639624;Dbxref=PMID:8639624	
+P09936	UniProtKB	Site	179	179	.	.	.	Note=Susceptible to oxidation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722078;Dbxref=PMID:14722078	
+P09936	UniProtKB	Site	220	220	.	.	.	Note=Susceptible to oxidation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14722078;Dbxref=PMID:14722078	
+P09936	UniProtKB	Modified residue	125	125	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00981	
+P09936	UniProtKB	Lipidation	220	220	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19261853;Dbxref=PMID:19261853	
+P09936	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_070875;Note=In SPG79%3B has decreased binding to ubiquitin and significantly decreased hydrolase activity compared to wild-type. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23359680;Dbxref=dbSNP:rs397515634,PMID:23359680	
+P09936	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_015677;Note=Polymorphism%3B may be associated with reduced risk for sporadic Parkinson disease%3B it confers protection from oxidative stress when expressed at physiological levels in neuroblastoma cells and primary cortical neurons%3B loss of dimerization ability%3B impaired ligase activity. S->Y;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10203348,ECO:0000269|PubMed:11027850,ECO:0000269|PubMed:12408865,ECO:0000269|PubMed:12705903,ECO:0000269|PubMed:15048890,ECO:0000269|PubMed:16450370,ECO:0000269|PubMed:18411255,ECO:0000269|PubMed:21268678;Dbxref=dbSNP:rs5030732,PMID:10203348,PMID:11027850,PMID:12408865,PMID:12705903,PMID:15048890,PMID:16450370,PMID:18411255,PMID:21268678	
+P09936	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_015678;Note=In PARK5%3B impaired enzymatic hydrolase activity%3B has about a 50%25 reduction in catalytic activity compared to wild-type protein. I->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10454131,ECO:0000269|PubMed:12408865,ECO:0000269|PubMed:12705903,ECO:0000269|PubMed:23359680,ECO:0000269|PubMed:9774100;Dbxref=dbSNP:rs121917767,PMID:10454131,PMID:12408865,PMID:12705903,PMID:23359680,PMID:9774100	
+P09936	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_078119;Note=In SPG79%3B increased hydrolase activity%3B decreased protein abundance. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28007905;Dbxref=dbSNP:rs768996179,PMID:28007905	
+P09936	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_078120;Note=In SPG79%3B decreased protein abundance. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28007905;Dbxref=dbSNP:rs1057519600,PMID:28007905	
+P09936	UniProtKB	Mutagenesis	73	73	.	.	.	Note=No effect on enzymatic parameters. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8639624;Dbxref=PMID:8639624	
+P09936	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Abolishes enzymatic activity. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12705903,ECO:0000269|PubMed:20439756,ECO:0000269|PubMed:23359680,ECO:0000269|PubMed:8639624;Dbxref=PMID:12705903,PMID:20439756,PMID:23359680,PMID:8639624	
+P09936	UniProtKB	Mutagenesis	97	97	.	.	.	Note=2-fold increase in affinity for ubiquitin ethyl ester%2C slight reduction in enzymatic activity. H->Q%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8639624;Dbxref=PMID:8639624	
+P09936	UniProtKB	Mutagenesis	161	161	.	.	.	Note=10000-fold decrease in enzymatic activity%3B no change in affinity for ubiquitin ethyl ester. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8639624;Dbxref=PMID:8639624	
+P09936	UniProtKB	Mutagenesis	161	161	.	.	.	Note=Abolishes enzymatic activity. H->K%2CQ%2CN%2CY;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8639624;Dbxref=PMID:8639624	
+P09936	UniProtKB	Mutagenesis	176	176	.	.	.	Note=6-fold decrease in affinity for ubiquitin ethyl ester%3B 97.5%25 decrease in enzymatic activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8639624;Dbxref=PMID:8639624	
+P09936	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Almost complete loss of activity. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20439756;Dbxref=PMID:20439756	
+P09936	UniProtKB	Helix	10	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	22	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	39	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	46	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	57	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Turn	71	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LEN	
+P09936	UniProtKB	Helix	90	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Turn	101	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	113	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Turn	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	126	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	137	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	160	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	171	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	179	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Beta strand	183	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	193	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	
+P09936	UniProtKB	Helix	211	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LEN	
+P09936	UniProtKB	Beta strand	215	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JKJ	

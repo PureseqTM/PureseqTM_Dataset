@@ -1,0 +1,79 @@
+##gff-version 3
+##sequence-region P01112 1 189
+P01112	UniProtKB	Chain	1	186	.	.	.	ID=PRO_0000042996;Note=GTPase HRas	
+P01112	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.12	
+P01112	UniProtKB	Chain	2	186	.	.	.	ID=PRO_0000326476;Note=GTPase HRas%2C N-terminally processed	
+P01112	UniProtKB	Propeptide	187	189	.	.	.	ID=PRO_0000042997;Note=Removed in mature form	
+P01112	UniProtKB	Nucleotide binding	10	17	.	.	.	Note=GTP	
+P01112	UniProtKB	Nucleotide binding	57	61	.	.	.	Note=GTP	
+P01112	UniProtKB	Nucleotide binding	116	119	.	.	.	Note=GTP	
+P01112	UniProtKB	Region	166	185	.	.	.	Note=Hypervariable region	
+P01112	UniProtKB	Motif	32	40	.	.	.	Note=Effector region	
+P01112	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine%3B in GTPase HRas%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.12	
+P01112	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylthreonine%3B in GTPase HRas%2C N-terminally processed;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.12	
+P01112	UniProtKB	Modified residue	118	118	.	.	.	Note=S-nitrosocysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9020151;Dbxref=PMID:9020151	
+P01112	UniProtKB	Modified residue	186	186	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626715;Dbxref=PMID:8626715	
+P01112	UniProtKB	Lipidation	181	181	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15705808,ECO:0000269|PubMed:16000296,ECO:0000269|PubMed:2661017,ECO:0000269|PubMed:8626715;Dbxref=PMID:15705808,PMID:16000296,PMID:2661017,PMID:8626715	
+P01112	UniProtKB	Lipidation	184	184	.	.	.	Note=S-(15-deoxy-Delta12%2C14-prostaglandin J2-9-yl)cysteine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12684535;Dbxref=PMID:12684535	
+P01112	UniProtKB	Lipidation	184	184	.	.	.	Note=S-palmitoyl cysteine%3B alternate;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15705808,ECO:0000269|PubMed:16000296,ECO:0000269|PubMed:2661017,ECO:0000269|PubMed:8626715;Dbxref=PMID:15705808,PMID:16000296,PMID:2661017,PMID:8626715	
+P01112	UniProtKB	Lipidation	186	186	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626715;Dbxref=PMID:8626715	
+P01112	UniProtKB	Cross-link	170	170	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30442762;Dbxref=PMID:30442762	
+P01112	UniProtKB	Alternative sequence	152	189	.	.	.	ID=VSP_041597;Note=In isoform 2. VEDAFYTLVREIRQHKLRKLNPPDESGPGCMSCKCVLS->SRSGSSSSSGTLWDPPGPM;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14500341,ECO:0000303|PubMed:15489334;Dbxref=PMID:14500341,PMID:15489334	
+P01112	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_026106;Note=In CSTLO. G->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16170316,ECO:0000269|PubMed:16329078,ECO:0000269|PubMed:16443854;Dbxref=dbSNP:rs104894230,PMID:16170316,PMID:16329078,PMID:16443854	
+P01112	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_045975;Note=In CSTLO. G->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16443854,ECO:0000269|PubMed:18039947;Dbxref=dbSNP:rs104894229,PMID:16443854,PMID:18039947	
+P01112	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_068816;Note=In CSTLO%3B severe mutation. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18039947;Dbxref=dbSNP:rs104894230,PMID:18039947	
+P01112	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_045976;Note=In CSTLO. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16443854;Dbxref=PMID:16443854	
+P01112	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_006837;Note=In CSTLO and CMEMS%3B also found in patients with oral squamous cell carcinoma. G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1459726,ECO:0000269|PubMed:16170316,ECO:0000269|PubMed:16329078,ECO:0000269|PubMed:16443854,ECO:0000269|PubMed:17054105,ECO:0000269|PubMed:17412879;Dbxref=dbSNP:rs104894229,PMID:1459726,PMID:16170316,PMID:16329078,PMID:16443854,PMID:17054105,PMID:17412879	
+P01112	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_006836;Note=In CSTLO%2C bladder carcinoma and CMEMS%3B constitutively activated%3B interacts and recruits PLCE1 to plasma membrane. G->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11022048,ECO:0000269|PubMed:15546861,ECO:0000269|PubMed:16170316,ECO:0000269|PubMed:17412879;Dbxref=dbSNP:rs104894230,PMID:11022048,PMID:15546861,PMID:16170316,PMID:17412879	
+P01112	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_026107;Note=In CSTLO. G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16329078;Dbxref=dbSNP:rs104894228,PMID:16329078	
+P01112	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_026108;Note=In CSTLO. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16170316;Dbxref=dbSNP:rs104894226,PMID:16170316	
+P01112	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_068817;Note=In SFM%3B somatic mutation%3B shows constitutive activation of the MAPK and PI3K-AKT signaling pathways. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22683711;Dbxref=dbSNP:rs104894228,PMID:22683711	
+P01112	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_045977;Note=In CMEMS. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17412879;Dbxref=dbSNP:rs121917757,PMID:17412879	
+P01112	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_068818;Note=In CSTLO. E->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19995790;Dbxref=PMID:19995790	
+P01112	UniProtKB	Natural variant	58	58	.	.	.	ID=VAR_045978;Note=In CSTLO. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18247425;Dbxref=dbSNP:rs121917758,PMID:18247425	
+P01112	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_045979;Note=In NMTC2%3B somatic mutation%3B increases transformation of cultured cell lines. Q->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12727991,ECO:0000269|PubMed:18073111;Dbxref=dbSNP:rs28933406,PMID:12727991,PMID:18073111	
+P01112	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_006838;Note=In melanoma%3B strongly reduced GTP hydrolysis in the presence of RAF1%3B increases transformation of cultured cell lines. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18073111;Dbxref=dbSNP:rs121913233,PMID:18073111	
+P01112	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_045980;Note=In CMEMS. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17412879;Dbxref=dbSNP:rs121917756,PMID:17412879	
+P01112	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_078259;Note=Found in a patient with severe fetal hydrops and pleural effusion%3B unknown pathological significance%3B decreased activation of Ras protein signal transduction. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22821884;Dbxref=dbSNP:rs755322824,PMID:22821884	
+P01112	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_045981;Note=In CSTLO. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16443854;Dbxref=dbSNP:rs104894227,PMID:16443854	
+P01112	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_045982;Note=In CSTLO. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17054105;Dbxref=dbSNP:rs104894231,PMID:17054105	
+P01112	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_045983;Note=In CSTLO. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18247425;Dbxref=dbSNP:rs121917759,PMID:18247425	
+P01112	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Dominant negative. Prevents PLCE1 EGF-induced recruitment to plasma membrane. No effect on subcellular location of isoform 2. S->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11022048,ECO:0000269|PubMed:14500341;Dbxref=PMID:11022048,PMID:14500341	
+P01112	UniProtKB	Mutagenesis	26	26	.	.	.	Note=Loss of interaction with PLCE1%3B when associated with V-12. N->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	29	29	.	.	.	Note=No effect on interaction with PLCE1%3B when associated with V-12. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Loss of interaction and recruitment to plasma membrane of PLCE1%3B when associated with V-12. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	34	34	.	.	.	Note=No effect on interaction with PLCE1%3B when associated with V-12. P->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Loss of interaction with PLCE1%3B when associated with V-12. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	37	37	.	.	.	Note=No effect on interaction with PLCE1%3B when associated with V-12. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	38	38	.	.	.	Note=No effect on interaction with PLCE1%3B when associated with V-12. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	39	39	.	.	.	Note=No effect on interaction with PLCE1%3B when associated with V-12. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11022048;Dbxref=PMID:11022048	
+P01112	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Loss of GTPase activity and creation of an autophosphorylation site. A->T	
+P01112	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Moderately increased transformation of cultured cell lines. Q->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18073111;Dbxref=PMID:18073111	
+P01112	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Strongly increased transformation of cultured cell lines. Q->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18073111;Dbxref=PMID:18073111	
+P01112	UniProtKB	Mutagenesis	83	83	.	.	.	Note=GTP-binding activity reduced by factor of 30. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3088563;Dbxref=PMID:3088563	
+P01112	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Abolishes S-nitrosylation. No stimulation of guanine nucleotide exchange. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12740440,ECO:0000269|PubMed:9020151;Dbxref=PMID:12740440,PMID:9020151	
+P01112	UniProtKB	Mutagenesis	119	119	.	.	.	Note=Loss of GTP-binding activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3088563;Dbxref=PMID:3088563	
+P01112	UniProtKB	Mutagenesis	144	144	.	.	.	Note=GTP-binding activity reduced by factor of 25. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3088563;Dbxref=PMID:3088563	
+P01112	UniProtKB	Mutagenesis	164	165	.	.	.	Note=Loss of GTP-binding activity. RQ->AV;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3011420;Dbxref=PMID:3011420	
+P01112	UniProtKB	Mutagenesis	170	170	.	.	.	Note=Increased Ras signaling due to impaired ubiquitination. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30442762;Dbxref=PMID:30442762	
+P01112	UniProtKB	Mutagenesis	181	181	.	.	.	Note=Exclusively localized in Golgi. Non-specifically localized on all endomembranes%3B when associated with S-184. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15705808,ECO:0000269|PubMed:8626715;Dbxref=PMID:15705808,PMID:8626715	
+P01112	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Loss of S-(15-deoxy-Delta12%2C14-prostaglandin J2-9-yl)cysteine stimulation of Ras-GTPase activity. Mainly localized in Golgi. Non-specifically localized on all endomembranes%3B when associated with S-181. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12684535,ECO:0000269|PubMed:15705808,ECO:0000269|PubMed:8626715;Dbxref=PMID:12684535,PMID:15705808,PMID:8626715	
+P01112	UniProtKB	Beta strand	3	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	12	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6D55	
+P01112	UniProtKB	Helix	16	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	27	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XCM	
+P01112	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XD2	
+P01112	UniProtKB	Beta strand	38	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	49	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	60	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CLD	
+P01112	UniProtKB	Helix	66	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	76	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Turn	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CRP	
+P01112	UniProtKB	Helix	87	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6Q21	
+P01112	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CLD	
+P01112	UniProtKB	Helix	127	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Beta strand	141	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Turn	146	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	
+P01112	UniProtKB	Helix	152	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CE2	

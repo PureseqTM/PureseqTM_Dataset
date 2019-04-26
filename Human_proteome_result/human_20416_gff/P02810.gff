@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region P02810 1 166
+P02810	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15693058,ECO:0000269|PubMed:3196309,ECO:0000269|PubMed:3710693,ECO:0000269|PubMed:438215,ECO:0000269|PubMed:7228490,ECO:0000269|PubMed:7380845,ECO:0000269|Ref.11;Dbxref=PMID:15693058,PMID:3196309,PMID:3710693,PMID:438215,PMID:7228490,PMID:7380845	
+P02810	UniProtKB	Chain	17	166	.	.	.	ID=PRO_0000022137;Note=Salivary acidic proline-rich phosphoprotein 1/2	
+P02810	UniProtKB	Chain	17	122	.	.	.	ID=PRO_0000022138;Note=Salivary acidic proline-rich phosphoprotein 3/4	
+P02810	UniProtKB	Chain	123	166	.	.	.	ID=PRO_0000022139;Note=Peptide P-C	
+P02810	UniProtKB	Region	17	46	.	.	.	Note=Inhibits hydroxyapatite formation%2C binds to hydroxyapatite and calcium	
+P02810	UniProtKB	Modified residue	17	17	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3196309;Dbxref=PMID:3196309	
+P02810	UniProtKB	Modified residue	24	24	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10858503,ECO:0000269|PubMed:15693058,ECO:0000269|PubMed:26091039;Dbxref=PMID:10858503,PMID:15693058,PMID:26091039	
+P02810	UniProtKB	Modified residue	33	33	.	.	.	Note=Phosphoserine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15693058;Dbxref=PMID:15693058	
+P02810	UniProtKB	Modified residue	38	38	.	.	.	Note=Phosphoserine%3B by FAM20C%3B alternate;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10858503,ECO:0000269|PubMed:15693058,ECO:0000269|PubMed:20879038,ECO:0000269|PubMed:26091039;Dbxref=PMID:10858503,PMID:15693058,PMID:20879038,PMID:26091039	
+P02810	UniProtKB	Glycosylation	33	33	.	.	.	Note=O-linked (GlcA) serine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10858503;Dbxref=PMID:10858503	
+P02810	UniProtKB	Glycosylation	38	38	.	.	.	Note=O-linked (GlcA) serine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P02810	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_005563;Note=In allele PRH1-PIF%2C allele PRH1-PA and allele PRH1-DB. D->N;Dbxref=dbSNP:rs1130404	
+P02810	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_023240;Note=In allele PRH1-PA and allele PRH1-DB. I->L;Dbxref=dbSNP:rs2923234	
+P02810	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_005564;Note=In allele PRH2-1. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs1049112	
+P02810	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_023241;Note=In allele PRH1-DB. Q->QGGQQQQGPPPPQGKPQGPPQQ	
+P02810	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_023242;Note=In allele PRH1-PA%3B interferes with proteolytic cleavage at Arg-122. R->C	
+P02810	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_005565;Note=In allele PRH2-3. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10627138;Dbxref=dbSNP:rs74062407,PMID:10627138	
+P02810	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Decreased phosphorylation by FAM20C%3B when associated with A-38. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+P02810	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Decreased phosphorylation by FAM20C%3B when associated with A-24. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+P02810	UniProtKB	Sequence conflict	41	41	.	.	.	Note=F->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

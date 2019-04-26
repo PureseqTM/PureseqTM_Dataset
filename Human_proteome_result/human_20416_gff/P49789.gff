@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region P49789 1 147
+P49789	UniProtKB	Chain	1	147	.	.	.	ID=PRO_0000109789;Note=Bis(5'-adenosyl)-triphosphatase	
+P49789	UniProtKB	Domain	2	109	.	.	.	Note=HIT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00464	
+P49789	UniProtKB	Nucleotide binding	89	92	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5FIT,ECO:0000269|PubMed:9323207;Dbxref=PMID:9323207	
+P49789	UniProtKB	Motif	94	98	.	.	.	Note=Histidine triad motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00464	
+P49789	UniProtKB	Active site	96	96	.	.	.	Note=Tele-AMP-histidine intermediate;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15182206,ECO:0000269|PubMed:9323207;Dbxref=PMID:15182206,PMID:9323207	
+P49789	UniProtKB	Binding site	8	8	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3FIT,ECO:0000269|PubMed:9261067;Dbxref=PMID:9261067	
+P49789	UniProtKB	Binding site	27	27	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5FIT,ECO:0000269|PubMed:9323207;Dbxref=PMID:9323207	
+P49789	UniProtKB	Binding site	83	83	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5FIT,ECO:0000269|PubMed:9323207;Dbxref=PMID:9323207	
+P49789	UniProtKB	Binding site	98	98	.	.	.	Note=Substrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5FIT,ECO:0000269|PubMed:9323207;Dbxref=PMID:9323207	
+P49789	UniProtKB	Site	114	114	.	.	.	Note=Important for induction of apoptosis	
+P49789	UniProtKB	Modified residue	114	114	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15007172;Dbxref=PMID:15007172	
+P49789	UniProtKB	Modified residue	145	145	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15007172;Dbxref=PMID:15007172	
+P49789	UniProtKB	Mutagenesis	10	10	.	.	.	Note=Strongly reduces affinity for substrates and impairs apoptosis%3B when associated with W-25. I->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574506;Dbxref=PMID:12574506	
+P49789	UniProtKB	Mutagenesis	25	25	.	.	.	Note=Reduces affinity for substrates and impairs apoptosis. Strongly reduces affinity for substrates and impairs apoptosis%3B when associated with W-10. L->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574506;Dbxref=PMID:12574506	
+P49789	UniProtKB	Mutagenesis	35	35	.	.	.	Note=50%25 decrease in catalytic activity. No loss in substrate binding. H->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8794732;Dbxref=PMID:8794732	
+P49789	UniProtKB	Mutagenesis	94	94	.	.	.	Note=75%25 decrease in catalytic activity. No loss in substrate binding. H->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8794732;Dbxref=PMID:8794732	
+P49789	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Loss of catalytic activity. H->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12574506,ECO:0000269|PubMed:15182206,ECO:0000269|PubMed:8794732,ECO:0000269|PubMed:9576908;Dbxref=PMID:12574506,PMID:15182206,PMID:8794732,PMID:9576908	
+P49789	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Total loss of catalytic activity. Rescuable with free imidazole. H->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12574506,ECO:0000269|PubMed:15182206,ECO:0000269|PubMed:8794732,ECO:0000269|PubMed:9576908;Dbxref=PMID:12574506,PMID:15182206,PMID:8794732,PMID:9576908	
+P49789	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Total loss of catalytic activity. No loss in substrate binding. H->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12574506,ECO:0000269|PubMed:15182206,ECO:0000269|PubMed:8794732,ECO:0000269|PubMed:9576908;Dbxref=PMID:12574506,PMID:15182206,PMID:8794732,PMID:9576908	
+P49789	UniProtKB	Mutagenesis	98	98	.	.	.	Note=98%25 decrease in catalytic activity. H->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8794732;Dbxref=PMID:8794732	
+P49789	UniProtKB	Mutagenesis	114	114	.	.	.	Note=Impairs induction of apoptosis. Strongly reduced affinity for substrates. Y->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15007172,ECO:0000269|PubMed:16407838;Dbxref=PMID:15007172,PMID:16407838	
+P49789	UniProtKB	Mutagenesis	114	114	.	.	.	Note=Impairs induction of apoptosis. Reduces affinity for substrates. Y->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15007172,ECO:0000269|PubMed:16407838;Dbxref=PMID:15007172,PMID:16407838	
+P49789	UniProtKB	Mutagenesis	114	114	.	.	.	Note=Loss of phosphorylation by SRC. Impairs induction of apoptosis. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15007172,ECO:0000269|PubMed:16407838;Dbxref=PMID:15007172,PMID:16407838	
+P49789	UniProtKB	Mutagenesis	145	145	.	.	.	Note=No effect on phosphorylation by SRC. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15007172;Dbxref=PMID:15007172	
+P49789	UniProtKB	Sequence conflict	146	146	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49789	UniProtKB	Beta strand	3	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Helix	12	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	15	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	20	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	36	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Helix	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Helix	52	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	76	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Helix	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	92	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Beta strand	97	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	
+P49789	UniProtKB	Helix	132	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIT	

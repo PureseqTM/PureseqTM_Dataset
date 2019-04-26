@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q9Y572 1 518
+Q9Y572	UniProtKB	Chain	1	518	.	.	.	ID=PRO_0000086610;Note=Receptor-interacting serine/threonine-protein kinase 3	
+Q9Y572	UniProtKB	Domain	21	287	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9Y572	UniProtKB	Nucleotide binding	27	35	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9Y572	UniProtKB	Motif	450	466	.	.	.	Note=RIP homotypic interaction motif (RHIM)	
+Q9Y572	UniProtKB	Compositional bias	357	448	.	.	.	Note=Pro-rich	
+Q9Y572	UniProtKB	Active site	142	142	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22265413;Dbxref=PMID:22265413	
+Q9Y572	UniProtKB	Binding site	50	50	.	.	.	Note=ATP	
+Q9Y572	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Modified residue	164	164	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Modified residue	182	182	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Modified residue	199	199	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11734559,ECO:0000269|PubMed:19524512;Dbxref=PMID:11734559,PMID:19524512	
+Q9Y572	UniProtKB	Modified residue	227	227	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22265413,ECO:0000269|PubMed:29883609;Dbxref=PMID:22265413,PMID:29883609	
+Q9Y572	UniProtKB	Modified residue	252	252	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Modified residue	299	299	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Modified residue	333	333	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Modified residue	389	389	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Modified residue	401	401	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QZL0	
+Q9Y572	UniProtKB	Cross-link	363	363	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Alternative sequence	220	518	.	.	.	ID=VSP_035106;Note=In isoform 2. VELPTEPSLVYEAVCNRQNRPSLAELPQAGPETPGLEGLKELMQLCWSSEPKDRPSFQECLPKTDEVFQMVENNMNAAVSTVKDFLSQLRSSNRRFSIPESGQGGTEMDGFRRTIENQHSRNDVMVSEWLNKLNLEEPPSSVPKKCPSLTKRSRAQEEQVPQAWTAGTSSDSMAQPPQTPETSTFRNQMPSPTSTGTPSPGPRGNQGAERQGMNWSCRTPEPNPVTGRPLVNIYNCSGVQVGDNNYLTMQQTTALPTWGLAPSGKGRGLQHPPPVGSQEGPKDPEAWSRPQGWYNHSGK->CQPNHHSCTKQCATGRTGLHWLSCPKPGLRLPA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15896315;Dbxref=PMID:15896315	
+Q9Y572	UniProtKB	Alternative sequence	222	518	.	.	.	ID=VSP_035107;Note=In isoform 3. LPTEPSLVYEAVCNRQNRPSLAELPQAGPETPGLEGLKELMQLCWSSEPKDRPSFQECLPKTDEVFQMVENNMNAAVSTVKDFLSQLRSSNRRFSIPESGQGGTEMDGFRRTIENQHSRNDVMVSEWLNKLNLEEPPSSVPKKCPSLTKRSRAQEEQVPQAWTAGTSSDSMAQPPQTPETSTFRNQMPSPTSTGTPSPGPRGNQGAERQGMNWSCRTPEPNPVTGRPLVNIYNCSGVQVGDNNYLTMQQTTALPTWGLAPSGKGRGLQHPPPVGSQEGPKDPEAWSRPQGWYNHSGK->CKTLGGFWDP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15896315;Dbxref=PMID:14702039,PMID:15896315	
+Q9Y572	UniProtKB	Natural variant	260	260	.	.	.	ID=VAR_051664;Note=E->V;Dbxref=dbSNP:rs7153640	
+Q9Y572	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_041048;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34106261,PMID:17344846	
+Q9Y572	UniProtKB	Natural variant	492	492	.	.	.	ID=VAR_041049;Note=P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3212254,PMID:17344846	
+Q9Y572	UniProtKB	Mutagenesis	50	50	.	.	.	Note=Abolishes kinase activity. Loss of PGAM5- and MLKL-binding. No effect on RIPK1-binding. Loss of interaction with PELI1 and PELI1-mediated ubiquitination. No loss of STUB1-mediated ubiquitination. K->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10339433,ECO:0000269|PubMed:10358032,ECO:0000269|PubMed:22265414,ECO:0000269|PubMed:29883609;Dbxref=PMID:10339433,PMID:10358032,PMID:22265414,PMID:29883609	
+Q9Y572	UniProtKB	Mutagenesis	50	50	.	.	.	Note=Abolishes kinase activity. K->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10339433,ECO:0000269|PubMed:10358032,ECO:0000269|PubMed:22265414;Dbxref=PMID:10339433,PMID:10358032,PMID:22265414	
+Q9Y572	UniProtKB	Mutagenesis	142	142	.	.	.	Note=Abolishes kinase activity and ability to mediate necroptosis. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22265413;Dbxref=PMID:22265413	
+Q9Y572	UniProtKB	Mutagenesis	182	182	.	.	.	Note=Abolishes kinase activity. Loss of interaction with PELI1 and PELI1-mediated ubiquitination. No loss of interaction with STUB1 and STUB1-mediated ubiquitination. No loss of interaction with RIPK1. Loss of ability to mediate TNF-induced necroptosis. Loss of autophosphorylation at Ser-227. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Mutagenesis	182	182	.	.	.	Note=No loss of interaction with PELI1 and PELI1-mediated ubiquitination. No loss of interaction with RIPK1 and MLKL. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Loss of interaction with PELI1 and PELI1-mediated ubiquitination. Y->A%2CF;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Abolishes ability to mediate necroptosis. Partial loss of kinase activity. No loss of PELI1-mediated degradation. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22265413,ECO:0000269|PubMed:29883609;Dbxref=PMID:22265413,PMID:29883609	
+Q9Y572	UniProtKB	Mutagenesis	227	227	.	.	.	Note=No loss of PELI1-mediated degradation. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Mutagenesis	363	363	.	.	.	Note=Loss of PELI1-mediated ubiquitination. No loss of interaction with PELI1. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29883609;Dbxref=PMID:29883609	
+Q9Y572	UniProtKB	Sequence conflict	30	30	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y572	UniProtKB	Sequence conflict	150	150	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y572	UniProtKB	Sequence conflict	309	309	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y572	UniProtKB	Beta strand	450	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5V7Z	

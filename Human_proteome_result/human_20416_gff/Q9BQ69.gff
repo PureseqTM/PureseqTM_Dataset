@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q9BQ69 1 325
+Q9BQ69	UniProtKB	Chain	1	325	.	.	.	ID=PRO_0000084485;Note=ADP-ribose glycohydrolase MACROD1	
+Q9BQ69	UniProtKB	Domain	141	322	.	.	.	Note=Macro;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00490	
+Q9BQ69	UniProtKB	Region	159	161	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A1Z1Q3	
+Q9BQ69	UniProtKB	Region	172	174	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A1Z1Q3	
+Q9BQ69	UniProtKB	Region	179	184	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A1Z1Q3	
+Q9BQ69	UniProtKB	Region	267	273	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A1Z1Q3	
+Q9BQ69	UniProtKB	Binding site	306	306	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A1Z1Q3	
+Q9BQ69	UniProtKB	Site	100	100	.	.	.	Note=Breakpoint for translocation to form RUNX1-MACROD1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17532767;Dbxref=PMID:17532767	
+Q9BQ69	UniProtKB	Modified residue	96	96	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q922B1	
+Q9BQ69	UniProtKB	Modified residue	103	103	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q922B1	
+Q9BQ69	UniProtKB	Modified residue	129	129	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q922B1	
+Q9BQ69	UniProtKB	Modified residue	163	163	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q922B1	
+Q9BQ69	UniProtKB	Cross-link	138	138	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9BQ69	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Reduced enzyme activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21257746;Dbxref=PMID:21257746	
+Q9BQ69	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Reduced enzyme activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21257746;Dbxref=PMID:21257746	
+Q9BQ69	UniProtKB	Mutagenesis	171	171	.	.	.	Note=Reduced enzyme activity. No significant effect on affinity for substrate. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21257746;Dbxref=PMID:21257746	
+Q9BQ69	UniProtKB	Mutagenesis	174	174	.	.	.	Note=Slightly reduced ADP-ribosyl hydrolase activity%3B when associated with A-184. Reduces O-acetyl-ADP-ribose deacetylase activity by 93%25%3B when associated with A-184. No significant effect on affinity for substrate. N->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21257746,ECO:0000269|PubMed:23474712;Dbxref=PMID:21257746,PMID:23474712	
+Q9BQ69	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Slightly reduced ADP-ribosyl hydrolase activity%3B when associated with A-174. Reduces O-acetyl-ADP-ribose deacetylase activity by 93%25%3B when associated with A-174. No significant effect on affinity for substrate. D->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21257746,ECO:0000269|PubMed:23474712,ECO:0000269|PubMed:23474714;Dbxref=PMID:21257746,PMID:23474712,PMID:23474714	
+Q9BQ69	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Reduced enzyme activity. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21257746,ECO:0000269|PubMed:23474714;Dbxref=PMID:21257746,PMID:23474714	
+Q9BQ69	UniProtKB	Mutagenesis	268	268	.	.	.	Note=No significant effect on enzyme activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21257746;Dbxref=PMID:21257746	
+Q9BQ69	UniProtKB	Mutagenesis	270	270	.	.	.	Note=Loss of enzyme activity. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21257746,ECO:0000269|PubMed:23474712;Dbxref=PMID:21257746,PMID:23474712	
+Q9BQ69	UniProtKB	Helix	94	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	107	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	111	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	128	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	148	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Beta strand	154	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Beta strand	164	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	182	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	193	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Beta strand	210	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Beta strand	218	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	237	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Beta strand	261	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	276	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	295	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Beta strand	299	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	
+Q9BQ69	UniProtKB	Helix	308	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2X47	

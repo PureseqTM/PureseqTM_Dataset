@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region Q96FC9 1 970
+Q96FC9	UniProtKB	Chain	1	970	.	.	.	ID=PRO_0000055136;Note=ATP-dependent DNA helicase DDX11	
+Q96FC9	UniProtKB	Domain	9	445	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q96FC9	UniProtKB	Nucleotide binding	44	51	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q96FC9	UniProtKB	Motif	393	396	.	.	.	Note=DEAH box	
+Q96FC9	UniProtKB	Compositional bias	163	224	.	.	.	Note=Glu-rich	
+Q96FC9	UniProtKB	Metal binding	267	267	.	.	.	Note=Iron-sulfur (4Fe-4S);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96FC9	UniProtKB	Metal binding	285	285	.	.	.	Note=Iron-sulfur (4Fe-4S);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96FC9	UniProtKB	Metal binding	315	315	.	.	.	Note=Iron-sulfur (4Fe-4S);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96FC9	UniProtKB	Metal binding	350	350	.	.	.	Note=Iron-sulfur (4Fe-4S);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96FC9	UniProtKB	Modified residue	262	262	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96FC9	UniProtKB	Alternative sequence	1	26	.	.	.	ID=VSP_016860;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96FC9	UniProtKB	Alternative sequence	214	288	.	.	.	ID=VSP_016861;Note=In isoform 5. VDEDEDDLEEEHITKIYYCSRTHSQLAQFVHEVKKSPFGKDVRLVSLGSRQNLCVNEDVKSLGSVQLINDRCVDM->APSDATSSRHPPDASFPAALNFLQRTRPSSVLSEDLLMQRAVAKHPALLPWQMSSSPLRPGSEWMRMRMTWRKNT;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q96FC9	UniProtKB	Alternative sequence	289	970	.	.	.	ID=VSP_016862;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q96FC9	UniProtKB	Alternative sequence	685	734	.	.	.	ID=VSP_016863;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8798685;Dbxref=PMID:8798685	
+Q96FC9	UniProtKB	Alternative sequence	820	906	.	.	.	ID=VSP_016864;Note=In isoform 2%2C isoform 3 and isoform 4. SPRPGTPREGSGGEPVHEGRQPVHRQGHQAPEGFCQRSAPGPAICPAPCPGQAAGLDPSPCGGQSYLWPRHCCCAEVSPGEVGLFLM->PRAPGQAPPGKALVENLCMKAVNQSIGRAIRHQKDFASVVLLDQRYARPPVLAKLPAWIRARVEVKATFGPAIAAVQKFHREKSASS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8798685,ECO:0000303|PubMed:9013641,ECO:0000303|Ref.3;Dbxref=PMID:15489334,PMID:8798685,PMID:9013641	
+Q96FC9	UniProtKB	Alternative sequence	907	970	.	.	.	ID=VSP_016865;Note=In isoform 2%2C isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8798685,ECO:0000303|PubMed:9013641,ECO:0000303|Ref.3;Dbxref=PMID:15489334,PMID:8798685,PMID:9013641	
+Q96FC9	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_024808;Note=I->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8798685;Dbxref=PMID:8798685	
+Q96FC9	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_069099;Note=In WBRS%3B impairs the helicase activity by perturbing its DNA binding and DNA-dependent ATPase activity%3B reduces binding to rDNA promoter and promotion of rDNA transcription. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23033317,ECO:0000269|PubMed:26089203;Dbxref=dbSNP:rs201968272,PMID:23033317,PMID:26089203	
+Q96FC9	UniProtKB	Natural variant	567	567	.	.	.	ID=VAR_024809;Note=Q->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9013641,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2075322,PMID:9013641	
+Q96FC9	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_024810;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs17857386	
+Q96FC9	UniProtKB	Natural variant	856	856	.	.	.	ID=VAR_052175;Note=R->H;Dbxref=dbSNP:rs1046457	
+Q96FC9	UniProtKB	Natural variant	864	864	.	.	.	ID=VAR_052176;Note=C->R;Dbxref=dbSNP:rs3893679	
+Q96FC9	UniProtKB	Natural variant	951	951	.	.	.	ID=VAR_052177;Note=C->R;Dbxref=dbSNP:rs1046458	
+Q96FC9	UniProtKB	Natural variant	966	966	.	.	.	ID=VAR_052178;Note=W->C;Dbxref=dbSNP:rs14330	
+Q96FC9	UniProtKB	Mutagenesis	50	50	.	.	.	Note=Loss of both DNA-dependent ATPase and ATP-dependent helicase activities. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10648783,ECO:0000269|PubMed:18499658,ECO:0000269|PubMed:22102414;Dbxref=PMID:10648783,PMID:18499658,PMID:22102414	

@@ -1,0 +1,94 @@
+##gff-version 3
+##sequence-region Q13191 1 982
+Q13191	UniProtKB	Chain	1	982	.	.	.	ID=PRO_0000055860;Note=E3 ubiquitin-protein ligase CBL-B	
+Q13191	UniProtKB	Domain	35	343	.	.	.	Note=Cbl-PTB;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00839	
+Q13191	UniProtKB	Domain	931	970	.	.	.	Note=UBA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00212	
+Q13191	UniProtKB	Calcium binding	219	232	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00839	
+Q13191	UniProtKB	Zinc finger	373	412	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q13191	UniProtKB	Region	35	167	.	.	.	Note=4H	
+Q13191	UniProtKB	Region	168	240	.	.	.	Note=EF-hand-like	
+Q13191	UniProtKB	Region	241	343	.	.	.	Note=SH2-like	
+Q13191	UniProtKB	Region	344	372	.	.	.	Note=Linker	
+Q13191	UniProtKB	Region	543	568	.	.	.	Note=Interaction with VAV1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9399639;Dbxref=PMID:9399639	
+Q13191	UniProtKB	Region	891	927	.	.	.	Note=Interaction with SH3KBP1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12177062;Dbxref=PMID:12177062	
+Q13191	UniProtKB	Compositional bias	477	925	.	.	.	Note=Pro-rich	
+Q13191	UniProtKB	Binding site	286	286	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13191	UniProtKB	Modified residue	282	282	.	.	.	Note=Phosphoserine%3B by PKC/PRKCQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19549985;Dbxref=PMID:19549985	
+Q13191	UniProtKB	Modified residue	363	363	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20525694;Dbxref=PMID:20525694	
+Q13191	UniProtKB	Modified residue	476	476	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8K4S7	
+Q13191	UniProtKB	Modified residue	480	480	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3TTA7	
+Q13191	UniProtKB	Modified residue	484	484	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3TTA7	
+Q13191	UniProtKB	Modified residue	521	521	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q13191	UniProtKB	Modified residue	525	525	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q13191	UniProtKB	Modified residue	529	529	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q13191	UniProtKB	Modified residue	634	634	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8K4S7	
+Q13191	UniProtKB	Modified residue	665	665	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022120;Dbxref=PMID:10022120	
+Q13191	UniProtKB	Modified residue	709	709	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022120;Dbxref=PMID:10022120	
+Q13191	UniProtKB	Modified residue	889	889	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3TTA7	
+Q13191	UniProtKB	Alternative sequence	767	770	.	.	.	ID=VSP_005730;Note=In isoform Truncated 2. DVFD->TYRI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7784085;Dbxref=PMID:7784085	
+Q13191	UniProtKB	Alternative sequence	771	982	.	.	.	ID=VSP_005731;Note=In isoform Truncated 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7784085;Dbxref=PMID:7784085	
+Q13191	UniProtKB	Alternative sequence	811	982	.	.	.	ID=VSP_005729;Note=In isoform Truncated 1. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7784085;Dbxref=PMID:7784085	
+Q13191	UniProtKB	Natural variant	584	584	.	.	.	ID=VAR_025303;Note=R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17853100,PMID:15489334	
+Q13191	UniProtKB	Natural variant	883	883	.	.	.	ID=VAR_039241;Note=N->D;Dbxref=dbSNP:rs35835913	
+Q13191	UniProtKB	Mutagenesis	298	298	.	.	.	Note=Inhibits interaction with SYK. No effect on E3 activity. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10022120,ECO:0000269|PubMed:11087752;Dbxref=PMID:10022120,PMID:11087752	
+Q13191	UniProtKB	Mutagenesis	363	363	.	.	.	Note=Decreases affinity for E2 ubiquitin-conjugating enzymes. Y->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20525694;Dbxref=PMID:20525694	
+Q13191	UniProtKB	Mutagenesis	373	373	.	.	.	Note=Abolishes E3 activity but does not affect binding to substrates. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11087752,ECO:0000269|PubMed:11375397;Dbxref=PMID:11087752,PMID:11375397	
+Q13191	UniProtKB	Mutagenesis	665	665	.	.	.	Note=Slightly inhibits interaction with CRKL. Abolishes interaction with CRKL%3B when associated with F-709. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022120;Dbxref=PMID:10022120	
+Q13191	UniProtKB	Mutagenesis	709	709	.	.	.	Note=Inhibits interaction with CRKL. Abolishes interaction with CRKL%3B when associated with F-665. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022120;Dbxref=PMID:10022120	
+Q13191	UniProtKB	Mutagenesis	904	904	.	.	.	Note=No effect on interaction with CD2AP. Reduced interaction with SH3KBP1. Strongly reduced interaction with SH3KBP1%3B when associated with A-911. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16228008,ECO:0000269|PubMed:17020880;Dbxref=PMID:16228008,PMID:17020880	
+Q13191	UniProtKB	Mutagenesis	907	907	.	.	.	Note=No effect on interaction with SH3KBP1. Reduced interaction with CD2AP. Strongly reduced interaction with CD2AP%3B when associated with A-911. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17020880;Dbxref=PMID:17020880	
+Q13191	UniProtKB	Mutagenesis	911	911	.	.	.	Note=Reduced interaction with CD2AP and with SH3KBP1. Strongly reduced interaction with CD2AP%3B when associated with A-907. Strongly reduced interaction with SH3KBP1%3B when associated with A-904. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16228008,ECO:0000269|PubMed:17020880;Dbxref=PMID:16228008,PMID:17020880	
+Q13191	UniProtKB	Mutagenesis	937	937	.	.	.	Note=Loss of ubiquitin binding. Reduced levels of tyrosine phosphorylation. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17679095;Dbxref=PMID:17679095	
+Q13191	UniProtKB	Mutagenesis	940	940	.	.	.	Note=Loss of ubiquitin binding. Reduced levels of tyrosine phosphorylation. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17679095;Dbxref=PMID:17679095	
+Q13191	UniProtKB	Mutagenesis	943	944	.	.	.	Note=Abolishes interaction with ubiquitinated proteins. GY->AQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15273720;Dbxref=PMID:15273720	
+Q13191	UniProtKB	Mutagenesis	946	946	.	.	.	Note=Loss of ubiquitin binding. Reduced levels of tyrosine phosphorylation. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17679095;Dbxref=PMID:17679095	
+Q13191	UniProtKB	Mutagenesis	966	966	.	.	.	Note=Interferes with dimerization. Reduced E3 ubiquitin-protein ligase activity. Reduced levels of tyrosine phosphorylation. I->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17679095;Dbxref=PMID:17679095	
+Q13191	UniProtKB	Mutagenesis	967	967	.	.	.	Note=No effect on interaction with ubiquitinated proteins. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15273720;Dbxref=PMID:15273720	
+Q13191	UniProtKB	Sequence conflict	210	210	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13191	UniProtKB	Sequence conflict	210	210	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13191	UniProtKB	Sequence conflict	210	210	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13191	UniProtKB	Sequence conflict	911	911	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13191	UniProtKB	Helix	43	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	63	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	69	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	74	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	95	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	105	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	129	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	138	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	162	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	168	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	176	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	190	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	194	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	210	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	225	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	230	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	243	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	246	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	260	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VGO	
+Q13191	UniProtKB	Helix	266	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	274	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	282	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	289	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	295	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	306	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	312	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PFV	
+Q13191	UniProtKB	Helix	316	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	332	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VGO	
+Q13191	UniProtKB	Helix	342	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PFV	
+Q13191	UniProtKB	Beta strand	352	354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	357	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Turn	365	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	370	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Turn	374	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	377	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	383	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	394	402	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Turn	409	411	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	417	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Beta strand	422	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZNI	
+Q13191	UniProtKB	Helix	933	941	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OOA	
+Q13191	UniProtKB	Helix	946	955	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OOA	
+Q13191	UniProtKB	Turn	956	958	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OOA	
+Q13191	UniProtKB	Helix	960	970	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OOA	

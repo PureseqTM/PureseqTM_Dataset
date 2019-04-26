@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region P51168 1 640
+P51168	UniProtKB	Chain	1	640	.	.	.	ID=PRO_0000181268;Note=Amiloride-sensitive sodium channel subunit beta	
+P51168	UniProtKB	Topological domain	1	50	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P37089	
+P51168	UniProtKB	Transmembrane	51	71	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51168	UniProtKB	Topological domain	72	532	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P37089	
+P51168	UniProtKB	Transmembrane	533	553	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51168	UniProtKB	Topological domain	554	640	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P37089	
+P51168	UniProtKB	Modified residue	633	633	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WU38	
+P51168	UniProtKB	Modified residue	635	635	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WU38	
+P51168	UniProtKB	Glycosylation	260	260	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51168	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_007724;Note=In isoform 2. M->MLLHINPAYLFKLLHGFPPWIMPTDGNLGDKNFQMGKPGHREGATM;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.8	
+P51168	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_007127;Note=In PHA1B. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8589714;Dbxref=dbSNP:rs137852706,PMID:8589714	
+P51168	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_062401;Note=In BESC1. S->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16207733,ECO:0000269|PubMed:18507830;Dbxref=dbSNP:rs35731153,PMID:16207733,PMID:18507830	
+P51168	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_062402;Note=In BESC1%3B decreased channel activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16207733;Dbxref=dbSNP:rs137852709,PMID:16207733	
+P51168	UniProtKB	Natural variant	288	288	.	.	.	ID=VAR_062403;Note=In BESC1. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18507830;Dbxref=dbSNP:rs137852712,PMID:18507830	
+P51168	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_062404;Note=In BESC1%3B increased channel activity. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16207733;Dbxref=dbSNP:rs72654338,PMID:16207733	
+P51168	UniProtKB	Natural variant	311	311	.	.	.	ID=VAR_036480;Note=In a colorectal cancer sample%3B somatic mutation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs777888930,PMID:16959974	
+P51168	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_036481;Note=In a breast cancer sample%3B somatic mutation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P51168	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_015836;Note=A->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10404817,ECO:0000269|PubMed:7762608;Dbxref=PMID:10404817,PMID:7762608	
+P51168	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_062405;Note=In BESC1. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19017867;Dbxref=dbSNP:rs61759921,PMID:19017867	
+P51168	UniProtKB	Natural variant	369	369	.	.	.	ID=VAR_062406;Note=In BESC1. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18507830;Dbxref=dbSNP:rs137852711,PMID:18507830	
+P51168	UniProtKB	Natural variant	387	387	.	.	.	ID=VAR_036482;Note=In a breast cancer sample%3B somatic mutation. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P51168	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_015837;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674649;Dbxref=dbSNP:rs201330438,PMID:9674649	
+P51168	UniProtKB	Natural variant	442	442	.	.	.	ID=VAR_014891;Note=G->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19017867,ECO:0000269|PubMed:9674649;Dbxref=dbSNP:rs1799980,PMID:19017867,PMID:9674649	
+P51168	UniProtKB	Natural variant	539	539	.	.	.	ID=VAR_062407;Note=In BESC1%3B decreased channel activity. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16207733;Dbxref=dbSNP:rs137852710,PMID:16207733	
+P51168	UniProtKB	Natural variant	563	563	.	.	.	ID=VAR_026519;Note=Associated with hypertension in South African Black. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12714866;Dbxref=dbSNP:rs149868979,PMID:12714866	
+P51168	UniProtKB	Natural variant	589	589	.	.	.	ID=VAR_015838;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674649;Dbxref=dbSNP:rs61759926,PMID:9674649	
+P51168	UniProtKB	Natural variant	594	594	.	.	.	ID=VAR_014892;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674649;Dbxref=dbSNP:rs1799979,PMID:9674649	
+P51168	UniProtKB	Natural variant	597	597	.	.	.	ID=VAR_015839;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674649;Dbxref=dbSNP:rs140945152,PMID:9674649	
+P51168	UniProtKB	Natural variant	616	616	.	.	.	ID=VAR_007128;Note=In LIDLS1. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7550319,ECO:0000269|PubMed:8524790,ECO:0000269|PubMed:9794716;Dbxref=dbSNP:rs387906402,PMID:7550319,PMID:8524790,PMID:9794716	
+P51168	UniProtKB	Natural variant	616	616	.	.	.	ID=VAR_007129;Note=In LIDLS1. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9794716;Dbxref=PMID:9794716	
+P51168	UniProtKB	Natural variant	617	617	.	.	.	ID=VAR_026520;Note=In LIDLS1. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9626162;Dbxref=dbSNP:rs137852708,PMID:9626162	
+P51168	UniProtKB	Natural variant	618	618	.	.	.	ID=VAR_026521;Note=In LIDLS1. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15483078;Dbxref=dbSNP:rs137852705,PMID:15483078	
+P51168	UniProtKB	Natural variant	620	620	.	.	.	ID=VAR_026522;Note=In LIDLS1%3B constitutive channel activation. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8601645;Dbxref=dbSNP:rs137852707,PMID:8601645	
+P51168	UniProtKB	Natural variant	624	624	.	.	.	ID=VAR_015840;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674649;Dbxref=dbSNP:rs372132399,PMID:9674649	
+P51168	UniProtKB	Natural variant	632	632	.	.	.	ID=VAR_015841;Note=E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674649;Dbxref=PMID:9674649	
+P51168	UniProtKB	Sequence conflict	41	41	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51168	UniProtKB	Sequence conflict	314	314	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51168	UniProtKB	Sequence conflict	498	498	.	.	.	Note=Y->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

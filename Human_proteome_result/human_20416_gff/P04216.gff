@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region P04216 1 161
+P04216	UniProtKB	Signal peptide	1	19	.	.	.	.	
+P04216	UniProtKB	Chain	20	130	.	.	.	ID=PRO_0000014973;Note=Thy-1 membrane glycoprotein	
+P04216	UniProtKB	Propeptide	131	161	.	.	.	ID=PRO_0000014974;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P04216	UniProtKB	Domain	20	126	.	.	.	Note=Ig-like V-type	
+P04216	UniProtKB	Modified residue	20	20	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01831	
+P04216	UniProtKB	Modified residue	82	82	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01830	
+P04216	UniProtKB	Lipidation	130	130	.	.	.	Note=GPI-anchor amidated cysteine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P04216	UniProtKB	Glycosylation	42	42	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19349973;Dbxref=PMID:19349973	
+P04216	UniProtKB	Glycosylation	79	79	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P04216	UniProtKB	Glycosylation	119	119	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:19349973;Dbxref=PMID:19159218,PMID:19349973	
+P04216	UniProtKB	Glycosylation	139	139	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P04216	UniProtKB	Disulfide bond	28	130	.	.	.	Note=Alternate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P04216	UniProtKB	Disulfide bond	38	104	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P04216	UniProtKB	Sequence conflict	54	55	.	.	.	Note=LT->AP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04216	UniProtKB	Sequence conflict	85	85	.	.	.	Note=N->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

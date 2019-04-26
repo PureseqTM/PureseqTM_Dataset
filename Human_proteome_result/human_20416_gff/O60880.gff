@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region O60880 1 128
+O60880	UniProtKB	Chain	1	128	.	.	.	ID=PRO_0000097722;Note=SH2 domain-containing protein 1A	
+O60880	UniProtKB	Domain	6	104	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+O60880	UniProtKB	Region	67	92	.	.	.	Note=Interaction with FYN SH3 domain;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88890	
+O60880	UniProtKB	Modified residue	89	89	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O60880	UniProtKB	Alternative sequence	40	128	.	.	.	ID=VSP_004388;Note=In isoform E. VYCLCVLYHGYIYTYRVSQTETGSWSAETAPGVHKRYFRKIKNLISAFQKPDQGIVIPLQYPVEKKSSARSTQGTTGIREDPDVCLKAP->ITVTFIHTECPRQKQVLGVLSISEARSRHCNTSAVSS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60880	UniProtKB	Alternative sequence	47	128	.	.	.	ID=VSP_004387;Note=In isoform C. YHGYIYTYRVSQTETGSWSAETAPGVHKRYFRKIKNLISAFQKPDQGIVIPLQYPVEKKSSARSTQGTTGIREDPDVCLKAP->QHLGYIKDISGK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60880	UniProtKB	Alternative sequence	47	128	.	.	.	ID=VSP_004389;Note=In isoform F. YHGYIYTYRVSQTETGSWSAETAPGVHKRYFRKIKNLISAFQKPDQGIVIPLQYPVEKKSSARSTQGTTGIREDPDVCLKAP->ISEARSRHCNTSAVSS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60880	UniProtKB	Alternative sequence	68	128	.	.	.	ID=VSP_004386;Note=In isoform B. TAPGVHKRYFRKIKNLISAFQKPDQGIVIPLQYPVEKKSSARSTQGTTGIREDPDVCLKAP->HFRSQIKA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60880	UniProtKB	Alternative sequence	114	116	.	.	.	ID=VSP_004390;Note=In isoform D. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60880	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_048005;Note=In XLP1%3B reduced protein stability and reduced affinity for SLAMF1%2C decreases interaction with FYN. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424,ECO:0000269|PubMed:12458214;Dbxref=PMID:11049992,PMID:11477068,PMID:11823424,PMID:12458214	
+O60880	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_048006;Note=In XLP1. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493483;Dbxref=PMID:11493483	
+O60880	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_048007;Note=In XLP1%3B abolishes interaction with SLAMF1. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15841490;Dbxref=PMID:15841490	
+O60880	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_048008;Note=In XLP1. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493483;Dbxref=PMID:11493483	
+O60880	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_048009;Note=In XLP1%3B reduced protein stability. S->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424;Dbxref=PMID:11049992,PMID:11477068,PMID:11823424	
+O60880	UniProtKB	Natural variant	31	31	.	.	.	ID=VAR_048010;Note=In XLP1%3B reduced protein stability and reduced affinity for SLAMF1 and FYN. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:14674764;Dbxref=PMID:11049992,PMID:14674764	
+O60880	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_005612;Note=In XLP1. R->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10598819,ECO:0000269|PubMed:9771704;Dbxref=dbSNP:rs111033624,PMID:10598819,PMID:9771704	
+O60880	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_048011;Note=In XLP1. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493483;Dbxref=PMID:11493483	
+O60880	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_048012;Note=In XLP1%3B loss of interaction with CD84 and reduced affinity for SLAMF1. C->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:11477068;Dbxref=PMID:11049992,PMID:11477068	
+O60880	UniProtKB	Natural variant	49	49	.	.	.	ID=VAR_048013;Note=In XLP1. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11493483;Dbxref=PMID:11493483	
+O60880	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_048014;Note=In XLP1%3B loss of interaction with CD84%3B loss of interaction with non-phosphorylated SLAMF1. T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424;Dbxref=PMID:11049992,PMID:11477068,PMID:11823424	
+O60880	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_048015;Note=In XLP1%3B reduced protein stability and reduced affinity for SLAMF1 and FYN. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:14674764,ECO:0000269|PubMed:16720617;Dbxref=PMID:11049992,PMID:14674764,PMID:16720617	
+O60880	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_018307;Note=In XLP1%3B reduced affinity for SLAMF1 and FYN. R->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11034354,ECO:0000269|PubMed:14674764;Dbxref=dbSNP:rs111033630,PMID:11034354,PMID:14674764	
+O60880	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_048016;Note=In one XLP1 patient%3B unknown pathological significance. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14583885;Dbxref=PMID:14583885	
+O60880	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_005613;Note=In XLP1%3B loss of interaction with CD84%3B strongly reduced affinity for SLAMF1. T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424,ECO:0000269|PubMed:9771704;Dbxref=dbSNP:rs111033627,PMID:11477068,PMID:11823424,PMID:9771704	
+O60880	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_048017;Note=In XLP1%3B reduced protein stability. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16720617;Dbxref=PMID:16720617	
+O60880	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_048018;Note=In XLP1%3B reduced protein stability and reduced affinity for SLAMF1 and FYN. F->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:14674764,ECO:0000269|PubMed:16720617;Dbxref=PMID:11049992,PMID:14674764,PMID:16720617	
+O60880	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_048019;Note=In XLP1%3B reduced protein stability and strongly reduced affinity for SLAMF1%2C disrupts interaction with FYN. Q->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424,ECO:0000269|PubMed:12458214;Dbxref=PMID:11049992,PMID:11477068,PMID:11823424,PMID:12458214	
+O60880	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_005614;Note=In XLP1%3B reduced protein stability and reduced affinity for SLAMF1%2C decreases interaction with FYN. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11282995,ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424,ECO:0000269|PubMed:9771704;Dbxref=dbSNP:rs111033626,PMID:11282995,PMID:11477068,PMID:11823424,PMID:9771704	
+O60880	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_048020;Note=In XLP1%3B reduced protein stability and strongly reduced affinity for SLAMF1%2C decreases interaction with FYN. V->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11049992,ECO:0000269|PubMed:11477068,ECO:0000269|PubMed:11823424,ECO:0000269|PubMed:12458214;Dbxref=PMID:11049992,PMID:11477068,PMID:11823424,PMID:12458214	
+O60880	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Strongly reduced affinity for SLAMF1. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11823424;Dbxref=PMID:11823424	
+O60880	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Disrupts interaction with FYN. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12545174;Dbxref=PMID:12545174	
+O60880	UniProtKB	Beta strand	5	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KA6	
+O60880	UniProtKB	Helix	13	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	28	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	41	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	50	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Helix	80	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	
+O60880	UniProtKB	Beta strand	89	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D4T	

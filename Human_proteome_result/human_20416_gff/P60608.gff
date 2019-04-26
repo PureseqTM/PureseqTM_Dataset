@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region P60608 1 527
+P60608	UniProtKB	Chain	1	527	.	.	.	ID=PRO_0000008437;Note=Endogenous retrovirus group FC1 member 1 Env polyprotein	
+P60608	UniProtKB	Region	1	411	.	.	.	Note=Surface protein;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60608	UniProtKB	Region	412	527	.	.	.	Note=Transmembrane protein;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60608	UniProtKB	Region	412	432	.	.	.	Note=Fusion peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P60608	UniProtKB	Motif	280	283	.	.	.	Note=CXXC;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60608	UniProtKB	Motif	477	493	.	.	.	Note=CKS-17;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60608	UniProtKB	Motif	494	502	.	.	.	Note=CX6CC;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60608	UniProtKB	Site	411	412	.	.	.	Note=Ancestral cleavage site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P60608	UniProtKB	Disulfide bond	494	501	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	

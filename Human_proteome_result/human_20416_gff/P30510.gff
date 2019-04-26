@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P30510 1 366
+P30510	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30510	UniProtKB	Chain	25	366	.	.	.	ID=PRO_0000018877;Note=HLA class I histocompatibility antigen%2C Cw-14 alpha chain	
+P30510	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30510	UniProtKB	Transmembrane	309	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30510	UniProtKB	Topological domain	334	366	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30510	UniProtKB	Domain	209	297	.	.	.	Note=Ig-like C1-type	
+P30510	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30510	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30510	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30510	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P30510	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30510	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30510	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30510	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_016636;Note=In allele Cw*14:03. R->H	
+P30510	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_056493;Note=A->E;Dbxref=dbSNP:rs1050409	
+P30510	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_056494;Note=V->M;Dbxref=dbSNP:rs1065382	
+P30510	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_056495;Note=K->N;Dbxref=dbSNP:rs28626310	
+P30510	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_016637;Note=In allele Cw*14:04. T->A	
+P30510	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_016638;Note=In allele Cw*14:03. S->N	
+P30510	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_056496;Note=Y->H;Dbxref=dbSNP:rs2308574	
+P30510	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_056498;Note=E->K;Dbxref=dbSNP:rs1131103	
+P30510	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_056499;Note=V->M;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:25944712,ECO:0000269|PubMed:2787363;Dbxref=dbSNP:rs1050276,PMID:25944712,PMID:2787363	
+P30510	UniProtKB	Sequence conflict	16	16	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30510	UniProtKB	Sequence conflict	43	43	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30510	UniProtKB	Sequence conflict	202	202	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region P30501 1 366
+P30501	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30501	UniProtKB	Chain	25	366	.	.	.	ID=PRO_0000018869;Note=HLA class I histocompatibility antigen%2C Cw-2 alpha chain	
+P30501	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30501	UniProtKB	Transmembrane	309	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30501	UniProtKB	Topological domain	334	366	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30501	UniProtKB	Domain	209	297	.	.	.	Note=Ig-like C1-type	
+P30501	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30501	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30501	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30501	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P30501	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P30501	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30501	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30501	UniProtKB	Natural variant	5	5	.	.	.	ID=VAR_016556;Note=In allele Cw*02:02. E->A	
+P30501	UniProtKB	Natural variant	10	10	.	.	.	ID=VAR_016557;Note=In allele Cw*02:02. I->L	
+P30501	UniProtKB	Natural variant	73	74	.	.	.	ID=VAR_016558;Note=In allele Cw*02:02. GR->AP;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+P30501	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_016559;Note=In allele Cw*02:02. N->K	
+P30501	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_056459;Note=Y->H;Dbxref=dbSNP:rs2308574	
+P30501	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_016560;Note=In allele Cw*02:02. E->Q	
+P30501	UniProtKB	Natural variant	202	202	.	.	.	ID=VAR_016561;Note=In allele Cw*02:02. K->T	
+P30501	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_056460;Note=V->M;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=dbSNP:rs1050276,PMID:25944712	
+P30501	UniProtKB	Natural variant	364	364	.	.	.	ID=VAR_016562;Note=In allele Cw*02:02. S->C	

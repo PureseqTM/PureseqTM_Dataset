@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region P43121 1 646
+P43121	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8162602;Dbxref=PMID:8162602	
+P43121	UniProtKB	Chain	24	646	.	.	.	ID=PRO_0000014891;Note=Cell surface glycoprotein MUC18	
+P43121	UniProtKB	Topological domain	24	559	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Transmembrane	560	583	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Topological domain	584	646	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Domain	24	129	.	.	.	Note=Ig-like V-type 1	
+P43121	UniProtKB	Domain	139	242	.	.	.	Note=Ig-like V-type 2	
+P43121	UniProtKB	Domain	244	330	.	.	.	Note=Ig-like C2-type 1	
+P43121	UniProtKB	Domain	335	424	.	.	.	Note=Ig-like C2-type 2	
+P43121	UniProtKB	Domain	430	510	.	.	.	Note=Ig-like C2-type 3	
+P43121	UniProtKB	Modified residue	606	606	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R2Y2	
+P43121	UniProtKB	Modified residue	614	614	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231;Dbxref=PMID:18669648,PMID:20068231	
+P43121	UniProtKB	Modified residue	628	628	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P43121	UniProtKB	Glycosylation	56	56	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Glycosylation	418	418	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Glycosylation	449	449	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Glycosylation	467	467	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P43121	UniProtKB	Glycosylation	508	508	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Glycosylation	518	518	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Glycosylation	527	527	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Glycosylation	544	544	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43121	UniProtKB	Disulfide bond	48	116	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Disulfide bond	161	223	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Disulfide bond	272	320	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Disulfide bond	365	407	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Disulfide bond	452	499	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Alternative sequence	1	187	.	.	.	ID=VSP_016938;Note=In isoform 2. MGLPRLVCAFLLAACCCCPRVAGVPGEAEQPAPELVEVEVGSTALLKCGLSQSQGNLSHVDWFSVHKEKRTLIFRVRQGQGQSEPGEYEQRLSLQDRGATLALTQVTPQDERIFLCQGKRPRSQEYRIQLRVYKAPEEPNIQVNPLGIPVNSKEPEEVATCVGRNGYPIPQVIWYKNGRPLKEEKNR->MVYIVRQFLLYNVSGSVYLDQLIVLLTAKFSILRIAGSRVHHSPFSGHLDGCSFLSLQHSLHTSLDMSRHENVFLGLTLSSKSAGLKGFQLAFVPGLLQGTGGYLDGPLPTPVDNPRVGLEVGLRLSLPPLPPCPG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P43121	UniProtKB	Alternative sequence	549	646	.	.	.	ID=VSP_016939;Note=In isoform 2. ERKLPEPESRGVVIVAVIVCILVLAVLGAVLYFLYKKGKLPCRRSGKQEITLPPSRKSELVVEVKSDKLPEEMGLLQGSSGDKRAPGDQGEKYIDLRH->GKPGLAREQGCARASFLPCPSPESPVQKGE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P43121	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_049915;Note=E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs34587557	
+P43121	UniProtKB	Sequence conflict	322	324	.	.	.	Note=GLD->AWN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	322	324	.	.	.	Note=GLD->AWN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	383	383	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	383	383	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	383	383	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	424	425	.	.	.	Note=NV->KL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	424	425	.	.	.	Note=NV->KL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	606	606	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43121	UniProtKB	Sequence conflict	606	606	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

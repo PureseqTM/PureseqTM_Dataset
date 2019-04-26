@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region Q9Y4K3 1 522
+Q9Y4K3	UniProtKB	Chain	1	522	.	.	.	ID=PRO_0000056407;Note=TNF receptor-associated factor 6	
+Q9Y4K3	UniProtKB	Domain	350	499	.	.	.	Note=MATH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00129	
+Q9Y4K3	UniProtKB	Zinc finger	70	109	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q9Y4K3	UniProtKB	Zinc finger	150	202	.	.	.	Note=TRAF-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00207	
+Q9Y4K3	UniProtKB	Zinc finger	203	259	.	.	.	Note=TRAF-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00207	
+Q9Y4K3	UniProtKB	Region	1	354	.	.	.	Note=Interaction with TAX1BP1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10920205;Dbxref=PMID:10920205	
+Q9Y4K3	UniProtKB	Region	355	522	.	.	.	Note=Interaction with TANK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25861989;Dbxref=PMID:25861989	
+Q9Y4K3	UniProtKB	Coiled coil	288	348	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y4K3	UniProtKB	Cross-link	124	124	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)%3B alternate	
+Q9Y4K3	UniProtKB	Cross-link	124	124	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17135271;Dbxref=PMID:17135271	
+Q9Y4K3	UniProtKB	Cross-link	142	142	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18093978;Dbxref=PMID:18093978	
+Q9Y4K3	UniProtKB	Cross-link	453	453	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18093978;Dbxref=PMID:18093978	
+Q9Y4K3	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Loss of interaction with UBE2N. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Loss of ligase activity%2C autoubiquitination and signaling capacity. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17135271,ECO:0000269|PubMed:19465916;Dbxref=PMID:17135271,PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Loss of interaction with UBE2N. I->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	74	74	.	.	.	Note=Loss of interaction with UBE2N. L->E%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	88	88	.	.	.	Note=Loss of TRAF6 homodimerization and impaired polyubiquitin synthesis. Loss of TRAF6 homodimerization and impaired polyubiquitin synthesis%3B when associated with A-122. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Loss of TRAF6 homodimerization and impaired polyubiquitin synthesis. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Partially impaired polyubiquitin synthesis. F->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Partially impaired polyubiquitin synthesis. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	122	122	.	.	.	Note=Loss of TRAF6 homodimerization and partially impaired polyubiquitin synthesis. Loss of TRAF6 homodimerization and impaired polyubiquitin synthesis%3B when associated with A-88. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19465916;Dbxref=PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Loss of SUMO1-modification and c-myb-mediated transcriptional repressive activation. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17135271,ECO:0000269|PubMed:18093978,ECO:0000269|PubMed:19465916;Dbxref=PMID:17135271,PMID:18093978,PMID:19465916	
+Q9Y4K3	UniProtKB	Mutagenesis	142	142	.	.	.	Note=Loss of SUMO1-modification and c-myb-mediated transcriptional repressive activation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18093978;Dbxref=PMID:18093978	
+Q9Y4K3	UniProtKB	Mutagenesis	453	453	.	.	.	Note=Loss of SUMO1-modification and c-myb-mediated transcriptional repressive activation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18093978;Dbxref=PMID:18093978	
+Q9Y4K3	UniProtKB	Sequence conflict	12	12	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y4K3	UniProtKB	Beta strand	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Helix	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Turn	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Beta strand	78	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Turn	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ECI	
+Q9Y4K3	UniProtKB	Beta strand	88	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Helix	91	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Turn	106	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Helix	114	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Helix	121	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Beta strand	130	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Beta strand	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCU	
+Q9Y4K3	UniProtKB	Beta strand	142	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Helix	145	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Helix	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Beta strand	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCT	
+Q9Y4K3	UniProtKB	Beta strand	158	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Turn	163	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Beta strand	168	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Helix	171	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Helix	174	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Beta strand	186	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Turn	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Beta strand	195	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Helix	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Helix	201	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HCS	
+Q9Y4K3	UniProtKB	Beta strand	351	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Helix	360	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	373	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	380	385	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	388	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Turn	401	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	406	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Helix	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	428	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Helix	440	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB4	
+Q9Y4K3	UniProtKB	Beta strand	446	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Helix	457	459	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	463	466	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Beta strand	468	478	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Helix	479	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	
+Q9Y4K3	UniProtKB	Turn	484	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB5	
+Q9Y4K3	UniProtKB	Beta strand	492	500	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB6	

@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region O43699 1 453
+O43699	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Chain	27	453	.	.	.	ID=PRO_0000014946;Note=Sialic acid-binding Ig-like lectin 6	
+O43699	UniProtKB	Topological domain	27	347	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Transmembrane	348	368	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Topological domain	369	453	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Domain	28	123	.	.	.	Note=Ig-like V-type	
+O43699	UniProtKB	Domain	148	231	.	.	.	Note=Ig-like C2-type 1	
+O43699	UniProtKB	Domain	238	333	.	.	.	Note=Ig-like C2-type 2	
+O43699	UniProtKB	Motif	424	429	.	.	.	Note=ITIM motif	
+O43699	UniProtKB	Motif	444	449	.	.	.	Note=SLAM-like motif	
+O43699	UniProtKB	Binding site	122	122	.	.	.	Note=Sialic acid;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43699	UniProtKB	Glycosylation	103	103	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Glycosylation	149	149	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Glycosylation	163	163	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Glycosylation	233	233	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43699	UniProtKB	Disulfide bond	46	172	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O43699	UniProtKB	Disulfide bond	51	104	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O43699	UniProtKB	Disulfide bond	166	215	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O43699	UniProtKB	Disulfide bond	274	319	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+O43699	UniProtKB	Alternative sequence	23	58	.	.	.	ID=VSP_046070;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43699	UniProtKB	Alternative sequence	143	153	.	.	.	ID=VSP_035811;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O43699	UniProtKB	Alternative sequence	236	252	.	.	.	ID=VSP_035812;Note=In isoform 3 and isoform 6. YAPQKVAISIFQGNSAA->S;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O43699	UniProtKB	Alternative sequence	236	236	.	.	.	ID=VSP_045387;Note=In isoform 5. Y->WMLRRPPLSTPD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43699	UniProtKB	Alternative sequence	339	391	.	.	.	ID=VSP_002553;Note=In isoform 2 and isoform 4. KPEGRAGGVLGAVWGASITTLVFLCVCFIFRVKTRRKKAAQPVQNTDDVNPVM->SSAPVPDRHSFRPPC;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9465907;Dbxref=PMID:15489334,PMID:9465907	
+O43699	UniProtKB	Alternative sequence	371	453	.	.	.	ID=VSP_045388;Note=In isoform 5. KTRRKKAAQPVQNTDDVNPVMVSGSRGHQHQFQTGIVSDHPAEAGPISEDEQELHYAVLHFHKVQPQEPKVTDTEYSEIKIHK->ISTSSRQA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43699	UniProtKB	Alternative sequence	392	453	.	.	.	ID=VSP_002554;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9465907;Dbxref=PMID:15489334,PMID:9465907	
+O43699	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_014252;Note=L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs2305773,PMID:14702039	
+O43699	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_014253;Note=L->F;Dbxref=dbSNP:rs2005199	
+O43699	UniProtKB	Sequence conflict	6	6	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	6	6	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	137	138	.	.	.	Note=LS->IY;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	155	161	.	.	.	Note=TLESGHP->PGVWPS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	183	183	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	188	189	.	.	.	Note=TS->HL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	205	206	.	.	.	Note=RP->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43699	UniProtKB	Sequence conflict	389	389	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

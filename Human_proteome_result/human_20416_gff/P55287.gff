@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region P55287 1 796
+P55287	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Propeptide	23	53	.	.	.	ID=PRO_0000003785;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Chain	54	796	.	.	.	ID=PRO_0000003786;Note=Cadherin-11	
+P55287	UniProtKB	Topological domain	54	617	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Transmembrane	618	640	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Topological domain	641	796	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Domain	54	159	.	.	.	Note=Cadherin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55287	UniProtKB	Domain	160	268	.	.	.	Note=Cadherin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55287	UniProtKB	Domain	269	383	.	.	.	Note=Cadherin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55287	UniProtKB	Domain	384	486	.	.	.	Note=Cadherin 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55287	UniProtKB	Domain	487	612	.	.	.	Note=Cadherin 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+P55287	UniProtKB	Modified residue	788	788	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P55288	
+P55287	UniProtKB	Modified residue	791	791	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P55288	
+P55287	UniProtKB	Glycosylation	455	455	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Glycosylation	540	540	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55287	UniProtKB	Alternative sequence	632	693	.	.	.	ID=VSP_000640;Note=In isoform 2. VIVVLFVTLRRQKKEPLIVFEEEDVRENIITYDDEGGGEEDTEAFDIATLQNPDGINGFIPR->GCPSLMEPPSPREDMRLLYLGFQLMLFSYVKVNRRFCLLGVFIKLPFLYVVATESPTTLTSL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8163513;Dbxref=PMID:8163513	
+P55287	UniProtKB	Alternative sequence	694	796	.	.	.	ID=VSP_000641;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8163513;Dbxref=PMID:8163513	
+P55287	UniProtKB	Natural variant	232	796	.	.	.	ID=VAR_080481;Note=In ESWS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29271567;Dbxref=PMID:29271567	
+P55287	UniProtKB	Natural variant	255	255	.	.	.	ID=VAR_031945;Note=T->M;Dbxref=dbSNP:rs35195	
+P55287	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_031946;Note=M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8163513;Dbxref=dbSNP:rs1130821,PMID:8163513	
+P55287	UniProtKB	Natural variant	373	373	.	.	.	ID=VAR_031947;Note=S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:8163513;Dbxref=dbSNP:rs35213,PMID:14702039,PMID:8163513	
+P55287	UniProtKB	Sequence conflict	271	272	.	.	.	Note=SV->RL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55287	UniProtKB	Sequence conflict	271	272	.	.	.	Note=SV->RL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55287	UniProtKB	Sequence conflict	340	340	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55287	UniProtKB	Sequence conflict	340	340	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55287	UniProtKB	Sequence conflict	471	471	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55287	UniProtKB	Sequence conflict	471	471	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

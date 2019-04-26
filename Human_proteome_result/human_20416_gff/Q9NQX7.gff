@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q9NQX7 1 267
+Q9NQX7	UniProtKB	Chain	1	267	.	.	.	ID=PRO_0000154826;Note=Integral membrane protein 2C	
+Q9NQX7	UniProtKB	Peptide	243	267	.	.	.	ID=PRO_0000232645;Note=CT-BRI3	
+Q9NQX7	UniProtKB	Transmembrane	55	75	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NQX7	UniProtKB	Domain	136	230	.	.	.	Note=BRICHOS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00255	
+Q9NQX7	UniProtKB	Site	242	243	.	.	.	Note=Cleavage%3B by furin	
+Q9NQX7	UniProtKB	Modified residue	37	37	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5PQL7	
+Q9NQX7	UniProtKB	Glycosylation	169	169	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15606899;Dbxref=PMID:15606899	
+Q9NQX7	UniProtKB	Disulfide bond	163	222	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NQX7	UniProtKB	Alternative sequence	41	87	.	.	.	ID=VSP_013471;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9NQX7	UniProtKB	Alternative sequence	151	187	.	.	.	ID=VSP_013472;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NQX7	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_022111;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.1,ECO:0000269|Ref.7;Dbxref=dbSNP:rs2289235,PMID:14702039,PMID:15489334,PMID:17974005	
+Q9NQX7	UniProtKB	Mutagenesis	241	242	.	.	.	Note=Completely abrogates proteolytic processing. KR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15606899;Dbxref=PMID:15606899	
+Q9NQX7	UniProtKB	Sequence conflict	22	39	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQX7	UniProtKB	Sequence conflict	133	133	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NQX7	UniProtKB	Sequence conflict	205	205	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

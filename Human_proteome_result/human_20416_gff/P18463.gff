@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region P18463 1 362
+P18463	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P18463	UniProtKB	Chain	25	362	.	.	.	ID=PRO_0000018841;Note=HLA class I histocompatibility antigen%2C B-37 alpha chain	
+P18463	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18463	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18463	UniProtKB	Topological domain	333	362	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18463	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P18463	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P18463	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P18463	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P18463	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P18463	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18463	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P18463	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P18463	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_056344;Note=S->A;Dbxref=dbSNP:rs1131170	
+P18463	UniProtKB	Natural variant	36	36	.	.	.	ID=VAR_056345;Note=V->M;Dbxref=dbSNP:rs1050486	
+P18463	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_061404;Note=S->A;Dbxref=dbSNP:rs713031	
+P18463	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_061405;Note=S->P;Dbxref=dbSNP:rs713031	
+P18463	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_061406;Note=S->T;Dbxref=dbSNP:rs713031	
+P18463	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_056346;Note=A->T;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21269460;Dbxref=dbSNP:rs1050529,PMID:21269460	
+P18463	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_016408;Note=In allele B*37:05. T->N	
+P18463	UniProtKB	Natural variant	106	107	.	.	.	ID=VAR_016409;Note=In allele B*37:05. LR->RG	
+P18463	UniProtKB	Natural variant	195	195	.	.	.	ID=VAR_016410;Note=In allele B*37:04. Y->H	

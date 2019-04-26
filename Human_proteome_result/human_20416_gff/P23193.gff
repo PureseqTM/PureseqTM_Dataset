@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region P23193 1 301
+P23193	UniProtKB	Chain	1	301	.	.	.	ID=PRO_0000121446;Note=Transcription elongation factor A protein 1	
+P23193	UniProtKB	Domain	3	80	.	.	.	Note=TFIIS N-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00649	
+P23193	UniProtKB	Domain	140	256	.	.	.	Note=TFIIS central;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00651	
+P23193	UniProtKB	Zinc finger	259	299	.	.	.	Note=TFIIS-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00472	
+P23193	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378,ECO:0000269|Ref.9;Dbxref=PMID:19413330,PMID:22814378	
+P23193	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P23193	UniProtKB	Modified residue	81	81	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P23193	UniProtKB	Modified residue	97	97	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+P23193	UniProtKB	Modified residue	100	100	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+P23193	UniProtKB	Cross-link	55	55	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q15560	
+P23193	UniProtKB	Alternative sequence	22	42	.	.	.	ID=VSP_006409;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1708494;Dbxref=PMID:1708494	
+P23193	UniProtKB	Sequence conflict	127	127	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23193	UniProtKB	Sequence conflict	141	141	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23193	UniProtKB	Sequence conflict	205	205	.	.	.	Note=N->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23193	UniProtKB	Sequence conflict	237	237	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23193	UniProtKB	Sequence conflict	285	285	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23193	UniProtKB	Sequence conflict	300	300	.	.	.	Note=F->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23193	UniProtKB	Helix	139	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Helix	152	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Helix	157	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Helix	165	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Beta strand	182	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Helix	185	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Helix	204	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Helix	217	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Turn	225	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDQ	
+P23193	UniProtKB	Beta strand	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TFI	
+P23193	UniProtKB	Beta strand	271	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TFI	
+P23193	UniProtKB	Beta strand	278	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TFI	
+P23193	UniProtKB	Beta strand	286	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TFI	
+P23193	UniProtKB	Beta strand	297	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TFI	

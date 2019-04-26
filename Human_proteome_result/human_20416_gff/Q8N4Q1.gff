@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region Q8N4Q1 1 142
+Q8N4Q1	UniProtKB	Chain	1	142	.	.	.	ID=PRO_0000129165;Note=Mitochondrial intermembrane space import and assembly protein 40	
+Q8N4Q1	UniProtKB	Domain	61	105	.	.	.	Note=CHCH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q8N4Q1	UniProtKB	Motif	64	74	.	.	.	Note=Cx9C motif 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q8N4Q1	UniProtKB	Motif	87	97	.	.	.	Note=Cx9C motif 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q8N4Q1	UniProtKB	Compositional bias	108	117	.	.	.	Note=Asp/Glu-rich (acidic);Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N4Q1	UniProtKB	Disulfide bond	53	55	.	.	.	Note=Redox-active;Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:19182799,ECO:0000305|PubMed:26387864;Dbxref=PMID:19182799,PMID:26387864	
+Q8N4Q1	UniProtKB	Disulfide bond	64	97	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000255,ECO:0000305,ECO:0000305;evidence=ECO:0000244|PDB:2K3J,ECO:0000244|PDB:2L0Y,ECO:0000255|PROSITE-ProRule:PRU01150,ECO:0000305|PubMed:19182799,ECO:0000305|PubMed:21059946;Dbxref=PMID:19182799,PMID:21059946	
+Q8N4Q1	UniProtKB	Disulfide bond	74	87	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000255,ECO:0000305,ECO:0000305;evidence=ECO:0000244|PDB:2K3J,ECO:0000244|PDB:2L0Y,ECO:0000255|PROSITE-ProRule:PRU01150,ECO:0000305|PubMed:19182799,ECO:0000305|PubMed:21059946;Dbxref=PMID:19182799,PMID:21059946	
+Q8N4Q1	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_018433;Note=In isoform 2. MSYCRQ->MPVSYSSVTTRYYHRAGAE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N4Q1	UniProtKB	Mutagenesis	53	53	.	.	.	Note=Does not strongly affect import and stability of CHCHD4 in mitochondria%3B when associated with S-55. No effect on disulfide exchange with substrate proteins. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16185709,ECO:0000269|PubMed:19182799,ECO:0000269|PubMed:26387864;Dbxref=PMID:16185709,PMID:19182799,PMID:26387864	
+Q8N4Q1	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Does not strongly affect import and stability of CHCHD4 in mitochondria%3B when associated with S-53. Nearly abolishes disulfide exchange with substrate proteins. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16185709,ECO:0000269|PubMed:19182799;Dbxref=PMID:16185709,PMID:19182799	
+Q8N4Q1	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Affects import and stability of CHCHD4 in mitochondria%3B when associated with S-74. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16185709;Dbxref=PMID:16185709	
+Q8N4Q1	UniProtKB	Mutagenesis	74	74	.	.	.	Note=Affects import and stability of CHCHD4 in mitochondria%3B when associated with S-64. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16185709;Dbxref=PMID:16185709	
+Q8N4Q1	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Strongly affects import and stability of CHCHD4 in mitochondria%3B when associated with S-97. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16185709;Dbxref=PMID:16185709	
+Q8N4Q1	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Strongly affects import and stability of CHCHD4 in mitochondria%3B when associated with S-87. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16185709;Dbxref=PMID:16185709	
+Q8N4Q1	UniProtKB	Beta strand	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K3J	
+Q8N4Q1	UniProtKB	Helix	54	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K3J	
+Q8N4Q1	UniProtKB	Beta strand	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K3J	
+Q8N4Q1	UniProtKB	Helix	65	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K3J	
+Q8N4Q1	UniProtKB	Beta strand	80	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L0Y	
+Q8N4Q1	UniProtKB	Turn	83	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K3J	
+Q8N4Q1	UniProtKB	Helix	88	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K3J	

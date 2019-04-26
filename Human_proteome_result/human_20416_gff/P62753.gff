@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region P62753 1 249
+P62753	UniProtKB	Chain	1	249	.	.	.	ID=PRO_0000137312;Note=40S ribosomal protein S6	
+P62753	UniProtKB	Modified residue	137	137	.	.	.	Note=(3R)-3-hydroxyarginine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29563586;Dbxref=PMID:29563586	
+P62753	UniProtKB	Modified residue	148	148	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P62753	UniProtKB	Modified residue	211	211	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P62753	UniProtKB	Modified residue	235	235	.	.	.	Note=Phosphoserine%3B by RPS6KA1%2C RPS6KA3%2C DAPK1 and PASK;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17360704,ECO:0000269|PubMed:18974095,ECO:0000269|PubMed:21418524;Dbxref=PMID:18669648,PMID:23186163,PMID:17360704,PMID:18974095,PMID:21418524	
+P62753	UniProtKB	Modified residue	236	236	.	.	.	Note=Phosphoserine%3B by RPS6KA1%2C RPS6KA3%2C DAPK1 and PASK;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17360704,ECO:0000269|PubMed:18974095,ECO:0000269|PubMed:21418524;Dbxref=PMID:18669648,PMID:21406692,PMID:23186163,PMID:17360704,PMID:18974095,PMID:21418524	
+P62753	UniProtKB	Modified residue	240	240	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163	
+P62753	UniProtKB	Modified residue	242	242	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+P62753	UniProtKB	Modified residue	244	244	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P62753	UniProtKB	Modified residue	247	247	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P62753	UniProtKB	Cross-link	14	14	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P62753	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_025314;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852447,PMID:15489334	
+P62753	UniProtKB	Mutagenesis	137	137	.	.	.	Note=Abolishes hydroxylation by KDM8. R->X;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29563586;Dbxref=PMID:29563586	
+P62753	UniProtKB	Mutagenesis	235	236	.	.	.	Note=Abolishes phosphorylation by PASK. SS->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21418524;Dbxref=PMID:21418524	
+P62753	UniProtKB	Sequence conflict	23	23	.	.	.	Note=K->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P62753	UniProtKB	Sequence conflict	144	144	.	.	.	Note=L->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P62753	UniProtKB	Sequence conflict	155	156	.	.	.	Note=QY->EC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P62753	UniProtKB	Sequence conflict	168	168	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P62753	UniProtKB	Sequence conflict	196	196	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P62753	UniProtKB	Sequence conflict	219	219	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region P18827 1 310
+P18827	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18827	UniProtKB	Chain	23	310	.	.	.	ID=PRO_0000033499;Note=Syndecan-1	
+P18827	UniProtKB	Topological domain	23	254	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18827	UniProtKB	Transmembrane	255	275	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18827	UniProtKB	Topological domain	276	310	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18827	UniProtKB	Site	242	243	.	.	.	Note=Cleavage;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18827	UniProtKB	Modified residue	285	285	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P18827	UniProtKB	Glycosylation	37	37	.	.	.	Note=O-linked (Xyl...) (chondroitin sulfate) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18827	UniProtKB	Glycosylation	43	43	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P18827	UniProtKB	Glycosylation	45	45	.	.	.	Note=O-linked (Xyl...) (heparan sulfate) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18827	UniProtKB	Glycosylation	47	47	.	.	.	Note=O-linked (Xyl...) (heparan sulfate) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18827	UniProtKB	Glycosylation	206	206	.	.	.	Note=O-linked (Xyl...) (chondroitin sulfate) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18827	UniProtKB	Glycosylation	216	216	.	.	.	Note=O-linked (Xyl...) (chondroitin sulfate) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18827	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_052242;Note=T->M;Dbxref=dbSNP:rs2230922	
+P18827	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_052243;Note=L->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1339431,ECO:0000269|PubMed:15177497,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:2324102,ECO:0000269|PubMed:9050911,ECO:0000269|Ref.5;Dbxref=dbSNP:rs10205485,PMID:1339431,PMID:15177497,PMID:15489334,PMID:2324102,PMID:9050911	
+P18827	UniProtKB	Sequence conflict	19	19	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18827	UniProtKB	Sequence conflict	259	259	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18827	UniProtKB	Beta strand	305	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GVC	

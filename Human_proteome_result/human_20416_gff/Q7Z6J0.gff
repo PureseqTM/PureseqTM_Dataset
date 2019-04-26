@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q7Z6J0 1 888
+Q7Z6J0	UniProtKB	Chain	1	888	.	.	.	ID=PRO_0000334151;Note=E3 ubiquitin-protein ligase SH3RF1	
+Q7Z6J0	UniProtKB	Domain	134	193	.	.	.	Note=SH3 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q7Z6J0	UniProtKB	Domain	196	259	.	.	.	Note=SH3 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q7Z6J0	UniProtKB	Domain	445	506	.	.	.	Note=SH3 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q7Z6J0	UniProtKB	Domain	829	888	.	.	.	Note=SH3 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q7Z6J0	UniProtKB	Zinc finger	12	53	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q7Z6J0	UniProtKB	Region	292	362	.	.	.	Note=Interaction with RAC1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20696164;Dbxref=PMID:20696164	
+Q7Z6J0	UniProtKB	Region	440	543	.	.	.	Note=Interaction with AKT2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z6J0	UniProtKB	Compositional bias	397	403	.	.	.	Note=Poly-Pro	
+Q7Z6J0	UniProtKB	Compositional bias	417	424	.	.	.	Note=Poly-Ala	
+Q7Z6J0	UniProtKB	Compositional bias	657	662	.	.	.	Note=Poly-Ala	
+Q7Z6J0	UniProtKB	Modified residue	304	304	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17535800;Dbxref=PMID:20068231,PMID:23186163,PMID:17535800	
+Q7Z6J0	UniProtKB	Modified residue	532	532	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q7Z6J0	UniProtKB	Modified residue	735	735	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q69ZI1	
+Q7Z6J0	UniProtKB	Alternative sequence	394	441	.	.	.	ID=VSP_033622;Note=In isoform 2. TLNPPLPPPPLLAATVLASTPPGATAAAAAAGMGPRPMAGSTDQIAHL->APPPLLLLLEWDRGPWQDPLTRLHIYGRRLAPVCMLLYIHTLLGKRIN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q7Z6J0	UniProtKB	Alternative sequence	442	888	.	.	.	ID=VSP_033623;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q7Z6J0	UniProtKB	Natural variant	663	663	.	.	.	ID=VAR_043342;Note=P->S;Dbxref=dbSNP:rs3811813	
+Q7Z6J0	UniProtKB	Mutagenesis	14	14	.	.	.	Note=Loss of Ubl activity. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17420289;Dbxref=PMID:17420289	
+Q7Z6J0	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Significant reduction in autoubiquitination%3B when associated with A-30. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20696164;Dbxref=PMID:20696164	
+Q7Z6J0	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Significant reduction in autoubiquitination%3B when associated with A-28. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20696164;Dbxref=PMID:20696164	
+Q7Z6J0	UniProtKB	Mutagenesis	304	304	.	.	.	Note=Decreased level of phosphorylation and no change in the ability to induce apoptosis. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17535800;Dbxref=PMID:17535800	
+Q7Z6J0	UniProtKB	Mutagenesis	304	304	.	.	.	Note=Decreased level of phosphorylation and Rac-binding ability and important loss of the ability to induce apoptosis. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17535800;Dbxref=PMID:17535800	
+Q7Z6J0	UniProtKB	Mutagenesis	304	304	.	.	.	Note=Decreased Rac-binding ability. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17535800;Dbxref=PMID:17535800	

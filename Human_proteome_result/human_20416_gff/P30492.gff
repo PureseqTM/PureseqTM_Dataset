@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region P30492 1 362
+P30492	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30492	UniProtKB	Chain	25	362	.	.	.	ID=PRO_0000018857;Note=HLA class I histocompatibility antigen%2C B-54 alpha chain	
+P30492	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30492	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30492	UniProtKB	Topological domain	333	362	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30492	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P30492	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30492	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30492	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30492	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P30492	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30492	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30492	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30492	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_016534;Note=In allele B*54:02. Y->H	
+P30492	UniProtKB	Natural variant	35	36	.	.	.	ID=VAR_016535;Note=In allele B*54:02. AM->SV	
+P30492	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_056407;Note=N->D;Dbxref=dbSNP:rs1050570	
+P30492	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_059487;Note=N->K;Dbxref=dbSNP:rs1065386	
+P30492	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_056408;Note=T->A;Dbxref=dbSNP:rs1050393	
+P30492	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_059488;Note=D->Y;Dbxref=dbSNP:rs1131215	
+P30492	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_056409;Note=S->N;Dbxref=dbSNP:rs1050388	

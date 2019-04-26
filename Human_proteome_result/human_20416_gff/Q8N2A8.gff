@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q8N2A8 1 252
+Q8N2A8	UniProtKB	Chain	1	252	.	.	.	ID=PRO_0000325910;Note=Mitochondrial cardiolipin hydrolase	
+Q8N2A8	UniProtKB	Topological domain	1	4	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N2A8	UniProtKB	Transmembrane	5	27	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N2A8	UniProtKB	Topological domain	28	252	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N2A8	UniProtKB	Domain	151	178	.	.	.	Note=PLD phosphodiesterase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00153	
+Q8N2A8	UniProtKB	Zinc finger	45	78	.	.	.	Note=C3H1-type%3B atypical	
+Q8N2A8	UniProtKB	Region	1	39	.	.	.	Note=Required for mitochondrial localization	
+Q8N2A8	UniProtKB	Active site	156	156	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N2A8	UniProtKB	Active site	158	158	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00153	
+Q8N2A8	UniProtKB	Active site	163	163	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00153	
+Q8N2A8	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_039951;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17856924,PMID:15489334	
+Q8N2A8	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_039952;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11551966,PMID:15489334	
+Q8N2A8	UniProtKB	Mutagenesis	156	156	.	.	.	Note=Mitochondrial fragmentation. No apoptosis%2C no alterations of cell homeostasis. H->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17028579,ECO:0000269|PubMed:21397848;Dbxref=PMID:17028579,PMID:21397848	

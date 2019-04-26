@@ -1,0 +1,66 @@
+##gff-version 3
+##sequence-region Q59H18 1 835
+Q59H18	UniProtKB	Chain	1	835	.	.	.	ID=PRO_0000086757;Note=Serine/threonine-protein kinase TNNI3K	
+Q59H18	UniProtKB	Repeat	66	96	.	.	.	Note=ANK 1	
+Q59H18	UniProtKB	Repeat	100	129	.	.	.	Note=ANK 2	
+Q59H18	UniProtKB	Repeat	133	162	.	.	.	Note=ANK 3	
+Q59H18	UniProtKB	Repeat	166	195	.	.	.	Note=ANK 4	
+Q59H18	UniProtKB	Repeat	199	228	.	.	.	Note=ANK 5	
+Q59H18	UniProtKB	Repeat	234	263	.	.	.	Note=ANK 6	
+Q59H18	UniProtKB	Repeat	269	298	.	.	.	Note=ANK 7	
+Q59H18	UniProtKB	Repeat	304	335	.	.	.	Note=ANK 8	
+Q59H18	UniProtKB	Repeat	339	368	.	.	.	Note=ANK 9	
+Q59H18	UniProtKB	Repeat	381	410	.	.	.	Note=ANK 10	
+Q59H18	UniProtKB	Domain	463	723	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q59H18	UniProtKB	Nucleotide binding	469	477	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q59H18	UniProtKB	Coiled coil	21	51	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q59H18	UniProtKB	Compositional bias	733	746	.	.	.	Note=Poly-Ser	
+Q59H18	UniProtKB	Active site	588	588	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q59H18	UniProtKB	Binding site	490	490	.	.	.	Note=ATP	
+Q59H18	UniProtKB	Alternative sequence	1	13	.	.	.	ID=VSP_039403;Note=In isoform 1%2C isoform 3 and isoform 4. MGNYKSRPTQTCT->MAAARDPPEVSLREATQRKLRRFSELRGKLVARGEFWDIVAITAADEKQELAYNQQLSEKLKRKELPLGVQYHVFVDPAGAKIGNGGSTLCALQCLEKLYGDKWNSFTILLIHS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|Ref.3;Dbxref=PMID:15489334,PMID:17974005	
+Q59H18	UniProtKB	Alternative sequence	591	596	.	.	.	ID=VSP_051882;Note=In isoform 3. SHNILL->RYFFPK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q59H18	UniProtKB	Alternative sequence	597	835	.	.	.	ID=VSP_051883;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q59H18	UniProtKB	Alternative sequence	708	742	.	.	.	ID=VSP_051884;Note=In isoform 4. GRPEFSEVVMKLEECLCNIELMSPASSNSSGSLSP->AKSRPSHYPVSSVYTETLKKKNEDRFGMWIEYLRR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q59H18	UniProtKB	Alternative sequence	743	835	.	.	.	ID=VSP_051885;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q59H18	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_041223;Note=D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34874695,PMID:17344846	
+Q59H18	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_041224;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34521608,PMID:17344846	
+Q59H18	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_041225;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+Q59H18	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_041226;Note=In a colorectal adenocarcinoma sample%3B somatic mutation. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+Q59H18	UniProtKB	Natural variant	510	510	.	.	.	ID=VAR_041227;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34335537,PMID:17344846	
+Q59H18	UniProtKB	Natural variant	526	526	.	.	.	ID=VAR_072650;Note=In CCDD%3B the mutation results in decreased protein solubility%3B causes abnormal aggregation%3B markedly reduced protein expression is observed in the sarcoplasm and nuclei of patient cardiomyocytes. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24925317;Dbxref=dbSNP:rs606231469,PMID:24925317	
+Q59H18	UniProtKB	Natural variant	629	629	.	.	.	ID=VAR_035639;Note=In a colorectal cancer sample%3B somatic mutation. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q59H18	UniProtKB	Natural variant	637	637	.	.	.	ID=VAR_041228;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs2274260,PMID:17344846	
+Q59H18	UniProtKB	Natural variant	686	686	.	.	.	ID=VAR_041229;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3737564,PMID:17344846	
+Q59H18	UniProtKB	Natural variant	785	785	.	.	.	ID=VAR_038821;Note=A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs45578635	
+Q59H18	UniProtKB	Natural variant	798	798	.	.	.	ID=VAR_041230;Note=In a head %26 Neck squamous cell carcinoma sample%3B somatic mutation. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs201613442,PMID:17344846	
+Q59H18	UniProtKB	Natural variant	833	833	.	.	.	ID=VAR_038822;Note=D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs45614933	
+Q59H18	UniProtKB	Mutagenesis	490	490	.	.	.	Note=Loss of autophosphorylation activity. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12721663;Dbxref=PMID:12721663	
+Q59H18	UniProtKB	Sequence conflict	127	127	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q59H18	UniProtKB	Sequence conflict	250	250	.	.	.	Note=I->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q59H18	UniProtKB	Sequence conflict	367	367	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q59H18	UniProtKB	Sequence conflict	629	629	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q59H18	UniProtKB	Helix	442	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	454	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	460	462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	463	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	473	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	485	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	502	515	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	524	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	532	534	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	536	540	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	547	552	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	560	578	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	580	582	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	591	593	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	594	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Beta strand	602	604	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	628	630	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	633	636	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	637	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	645	660	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Turn	664	667	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	670	678	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	692	701	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	706	708	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	
+Q59H18	UniProtKB	Helix	712	725	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YFI	

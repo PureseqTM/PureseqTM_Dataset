@@ -1,0 +1,106 @@
+##gff-version 3
+##sequence-region Q15910 1 746
+Q15910	UniProtKB	Chain	1	746	.	.	.	ID=PRO_0000213992;Note=Histone-lysine N-methyltransferase EZH2	
+Q15910	UniProtKB	Domain	503	605	.	.	.	Note=CXC;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00970	
+Q15910	UniProtKB	Domain	612	727	.	.	.	Note=SET;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00190	
+Q15910	UniProtKB	Region	1	340	.	.	.	Note=Interaction with DNMT1%2C DNMT3A and DNMT3B	
+Q15910	UniProtKB	Region	39	68	.	.	.	Note=Interaction with EED;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15910	UniProtKB	Region	329	522	.	.	.	Note=Interaction with CDYL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22009739;Dbxref=PMID:22009739	
+Q15910	UniProtKB	Compositional bias	523	605	.	.	.	Note=Cys-rich	
+Q15910	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphoserine%3B by PKB/AKT1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16224021;Dbxref=PMID:16224021	
+Q15910	UniProtKB	Modified residue	76	76	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15910	UniProtKB	Modified residue	339	339	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15910	UniProtKB	Modified residue	345	345	.	.	.	Note=Phosphothreonine%3B by CDK1 and CDK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20935635;Dbxref=PMID:20935635	
+Q15910	UniProtKB	Modified residue	363	363	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15910	UniProtKB	Modified residue	366	366	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q15910	UniProtKB	Modified residue	367	367	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q15910	UniProtKB	Modified residue	487	487	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:16964243,PMID:17081983,PMID:18220336,PMID:18669648,PMID:18691976,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+Q15910	UniProtKB	Glycosylation	75	75	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24474760;Dbxref=PMID:24474760	
+Q15910	UniProtKB	Cross-link	634	634	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15910	UniProtKB	Alternative sequence	74	82	.	.	.	ID=VSP_038813;Note=In isoform 4 and isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15910	UniProtKB	Alternative sequence	83	121	.	.	.	ID=VSP_038814;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15910	UniProtKB	Alternative sequence	297	298	.	.	.	ID=VSP_038815;Note=In isoform 2. HP->HRKCNYS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q15910	UniProtKB	Alternative sequence	511	553	.	.	.	ID=VSP_038816;Note=In isoform 5. DGSSNHVYNYQPCDHPRQPCDSSCPCVIAQNFCEKFCQCSSEC->G;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15910	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_067595;Note=In WVS%3B decreased histone methyltransferase activity. P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22177091,ECO:0000269|PubMed:26694085;Dbxref=dbSNP:rs193921148,PMID:22177091,PMID:26694085	
+Q15910	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_078320;Note=In WVS%3B decreased histone methyltransferase activity. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26694085;Dbxref=PMID:26694085	
+Q15910	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_078321;Note=In WVS. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_067596;Note=In WVS%3B decreased histone methyltransferase activity. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22177091,ECO:0000269|PubMed:26694085;Dbxref=PMID:22177091,PMID:26694085	
+Q15910	UniProtKB	Natural variant	156	156	.	.	.	ID=VAR_078322;Note=In WVS. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_055795;Note=Polymorhism%3B decreased histone methyltransferase activity. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26694085;Dbxref=dbSNP:rs2302427,PMID:26694085	
+Q15910	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_078323;Note=In WVS. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	571	571	.	.	.	ID=VAR_078324;Note=Found in a patient with myelodysplastic syndrome and myelodysplastic-myeloproliferative neoplasms%3B somatic mutation%3B loss of histone methyltransferase activity. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20601953;Dbxref=PMID:20601953	
+Q15910	UniProtKB	Natural variant	621	621	.	.	.	ID=VAR_078325;Note=In WVS%3B unknown pathological significance. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=dbSNP:rs587783625,PMID:22190405	
+Q15910	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_067228;Note=In a patient with diffuse large B-cell lymphoma%3B somatic mutation%3B changed substrate preferences%3B prefers substrates with greater methylation H3K27me0<me1<me2. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20081860,ECO:0000269|PubMed:20601953,ECO:0000269|PubMed:22323599;Dbxref=PMID:20081860,PMID:20601953,PMID:22323599	
+Q15910	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_067229;Note=Found in a patient with follicular lymphoma%3B also in diffuse large B-cell lymphoma%3B somatic mutation%3B changed substrate preferences%3B prefers substrates with greater methylation H3K27me0<me1<me2. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20081860,ECO:0000269|PubMed:22323599;Dbxref=dbSNP:rs267601394,PMID:20081860,PMID:22323599	
+Q15910	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_067230;Note=Found in patients with follicular lymphoma%3B also in diffuse large B-cell lymphoma%3B somatic mutation%3B changed substrate preferences%3B prefers substrates with greater methylation H3K27me0<me1<me2. Y->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20081860,ECO:0000269|PubMed:22323599;Dbxref=dbSNP:rs267601395,PMID:20081860,PMID:22323599	
+Q15910	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_067231;Note=Found in patients with follicular lymphoma%3B also in diffuse large B-cell lymphoma%3B somatic mutation%3B changed substrate preferences%3B prefers substrates with greater methylation H3K27me0<me1<me2. Y->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20081860,ECO:0000269|PubMed:22323599;Dbxref=dbSNP:rs267601395,PMID:20081860,PMID:22323599	
+Q15910	UniProtKB	Natural variant	641	641	.	.	.	ID=VAR_067232;Note=Found in patients with follicular lymphoma%3B also in diffuse large B-cell lymphoma%3B somatic mutation. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20081860;Dbxref=dbSNP:rs267601394,PMID:20081860	
+Q15910	UniProtKB	Natural variant	658	658	.	.	.	ID=VAR_078326;Note=In WVS. Y->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	677	677	.	.	.	ID=VAR_078327;Note=Found in a patient with B-cell lymphoma%3B increased hypertrimethylation of H3K27%3B changed substrate preferences%3B confers biochemical activity independent of H3K27 methylation state. A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22323599;Dbxref=dbSNP:rs1057519833,PMID:22323599	
+Q15910	UniProtKB	Natural variant	677	677	.	.	.	ID=VAR_078328;Note=In WVS. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=dbSNP:rs397515547,PMID:22190405	
+Q15910	UniProtKB	Natural variant	679	679	.	.	.	ID=VAR_078329;Note=In WVS%3B decreased histone methyltransferase activity. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22190405,ECO:0000269|PubMed:26694085;Dbxref=dbSNP:rs587783626,PMID:22190405,PMID:26694085	
+Q15910	UniProtKB	Natural variant	685	685	.	.	.	ID=VAR_078330;Note=Found in a patient with myeloid disorders%3B somatic mutation%3B loss of histone methyltransferase activity. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20601953;Dbxref=PMID:20601953	
+Q15910	UniProtKB	Natural variant	685	685	.	.	.	ID=VAR_067233;Note=In a patient with chronic myelomonocytic leukemia. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21828135;Dbxref=PMID:21828135	
+Q15910	UniProtKB	Natural variant	689	689	.	.	.	ID=VAR_067597;Note=In WVS%3B decreased histone methyltransferase activity. H->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22177091,ECO:0000269|PubMed:26694085;Dbxref=dbSNP:rs193921147,PMID:22177091,PMID:26694085	
+Q15910	UniProtKB	Natural variant	690	690	.	.	.	ID=VAR_078331;Note=In WVS. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	726	726	.	.	.	ID=VAR_078332;Note=Found in a patient with chronic myelomonocytic leukemia%3B somatic mutation%3B loss of histone methyltransferase activity. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20601953;Dbxref=PMID:20601953	
+Q15910	UniProtKB	Natural variant	728	746	.	.	.	ID=VAR_078333;Note=In WVS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	736	736	.	.	.	ID=VAR_078334;Note=In WVS. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22190405;Dbxref=PMID:22190405	
+Q15910	UniProtKB	Natural variant	740	740	.	.	.	ID=VAR_078335;Note=In WVS%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23239504;Dbxref=dbSNP:rs397515548,PMID:23239504	
+Q15910	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Enhances methyltransferase activity towards 'Lys-27' of histone H3 and abrogates phosphorylation by PKB/AKT1. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16224021;Dbxref=PMID:16224021	
+Q15910	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Reduces methyltransferase activity towards 'Lys-27' of histone H3 and abrogates phosphorylation by PKB/AKT1. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16224021;Dbxref=PMID:16224021	
+Q15910	UniProtKB	Mutagenesis	75	75	.	.	.	Note=Reduced protein stability. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24474760;Dbxref=PMID:24474760	
+Q15910	UniProtKB	Mutagenesis	345	345	.	.	.	Note=Impaired CDK1- and CDK-2 mediated phosphorylation and subsequent gene silencing. Altered EZH2-mediated cell proliferation and migration. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20935635;Dbxref=PMID:20935635	
+Q15910	UniProtKB	Mutagenesis	588	588	.	.	.	Note=Strongly impairs methyltransferase activity towards 'Lys-27' of histone H3. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12435631;Dbxref=PMID:12435631	
+Q15910	UniProtKB	Mutagenesis	667	667	.	.	.	Note=Strongly decreases histone methyltransferase activity. F->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26694085;Dbxref=PMID:26694085	
+Q15910	UniProtKB	Mutagenesis	689	689	.	.	.	Note=Abrogates methyltransferase activity. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12435631,ECO:0000269|PubMed:18285464;Dbxref=PMID:12435631,PMID:18285464	
+Q15910	UniProtKB	Sequence conflict	39	39	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15910	UniProtKB	Sequence conflict	224	224	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15910	UniProtKB	Sequence conflict	724	724	.	.	.	Note=F->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15910	UniProtKB	Helix	44	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5U5T	
+Q15910	UniProtKB	Beta strand	82	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	94	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	126	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Turn	139	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	144	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Turn	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LS6	
+Q15910	UniProtKB	Helix	168	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	221	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Turn	232	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	237	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LS6	
+Q15910	UniProtKB	Helix	274	284	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Turn	287	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Turn	304	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	332	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	434	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	451	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	463	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	526	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Helix	535	538	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	563	565	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	568	571	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C24	
+Q15910	UniProtKB	Helix	572	575	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Turn	582	584	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	587	589	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	590	592	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LS6	
+Q15910	UniProtKB	Beta strand	594	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HYN	
+Q15910	UniProtKB	Beta strand	600	603	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Helix	605	608	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	614	618	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	620	630	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	637	640	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	643	647	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Helix	648	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	666	668	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	670	676	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Turn	678	680	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Helix	683	686	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	687	689	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	694	702	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	705	714	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MI0	
+Q15910	UniProtKB	Beta strand	721	723	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LS6	

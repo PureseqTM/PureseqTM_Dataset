@@ -1,0 +1,89 @@
+##gff-version 3
+##sequence-region Q9UH77 1 587
+Q9UH77	UniProtKB	Chain	1	587	.	.	.	ID=PRO_0000119103;Note=Kelch-like protein 3	
+Q9UH77	UniProtKB	Domain	50	117	.	.	.	Note=BTB;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00037	
+Q9UH77	UniProtKB	Domain	152	254	.	.	.	Note=BACK	
+Q9UH77	UniProtKB	Repeat	302	347	.	.	.	Note=Kelch 1	
+Q9UH77	UniProtKB	Repeat	348	394	.	.	.	Note=Kelch 2	
+Q9UH77	UniProtKB	Repeat	396	441	.	.	.	Note=Kelch 3	
+Q9UH77	UniProtKB	Repeat	442	490	.	.	.	Note=Kelch 4	
+Q9UH77	UniProtKB	Repeat	491	537	.	.	.	Note=Kelch 5	
+Q9UH77	UniProtKB	Repeat	539	585	.	.	.	Note=Kelch 6	
+Q9UH77	UniProtKB	Modified residue	10	10	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26435498;Dbxref=PMID:26435498	
+Q9UH77	UniProtKB	Modified residue	295	295	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26435498;Dbxref=PMID:26435498	
+Q9UH77	UniProtKB	Modified residue	375	375	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26435498;Dbxref=PMID:26435498	
+Q9UH77	UniProtKB	Modified residue	376	376	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26435498;Dbxref=PMID:26435498	
+Q9UH77	UniProtKB	Modified residue	433	433	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26435498,ECO:0000269|PubMed:27727489;Dbxref=PMID:26435498,PMID:27727489	
+Q9UH77	UniProtKB	Alternative sequence	1	82	.	.	.	ID=VSP_002817;Note=In isoform C. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10843806;Dbxref=PMID:10843806	
+Q9UH77	UniProtKB	Alternative sequence	1	32	.	.	.	ID=VSP_002816;Note=In isoform B. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10843806;Dbxref=PMID:10843806	
+Q9UH77	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_067501;Note=In PHA2D%3B impaired interaction with CUL3. A->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299,ECO:0000269|PubMed:23665031;Dbxref=dbSNP:rs199469623,PMID:22266938,PMID:23387299,PMID:23665031	
+Q9UH77	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_067502;Note=In PHA2D%3B impaired interaction with CUL3. M->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469624,PMID:22266938,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_067503;Note=In PHA2D%3B impaired interaction with CUL3. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469625,PMID:22266938,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	164	164	.	.	.	ID=VAR_067504;Note=In PHA2D%3B impaired interaction with CUL3%3B de novo mutation. C->F;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299,ECO:0000269|PubMed:23665031;Dbxref=dbSNP:rs199469626,PMID:22266938,PMID:23387299,PMID:23665031	
+Q9UH77	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_067505;Note=In PHA2D. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_067506;Note=In PHA2D%3B impaired interaction with WNK1. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299,ECO:0000269|PubMed:23665031,ECO:0000269|PubMed:28511177;Dbxref=dbSNP:rs199469627,PMID:22266938,PMID:23387299,PMID:23665031,PMID:28511177	
+Q9UH77	UniProtKB	Natural variant	322	322	.	.	.	ID=VAR_067507;Note=In PHA2D. F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469639,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_067508;Note=In PHA2D. R->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469640,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_067509;Note=In PHA2D%3B does not affect interaction with WNK1 or CUL3. A->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469628,PMID:22266938,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	361	361	.	.	.	ID=VAR_067510;Note=In PHA2D. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	362	362	.	.	.	ID=VAR_067511;Note=In PHA2D. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=dbSNP:rs200892557,PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	384	384	.	.	.	ID=VAR_067512;Note=In PHA2D%3B impaired interaction with WNK1. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469629,PMID:22266938,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	384	384	.	.	.	ID=VAR_067513;Note=In PHA2D. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=dbSNP:rs951676369,PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	387	387	.	.	.	ID=VAR_067514;Note=In PHA2D%3B abolished interaction with WNK1. L->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299,ECO:0000269|PubMed:23665031,ECO:0000269|PubMed:27780982;Dbxref=dbSNP:rs199469630,PMID:22266938,PMID:23387299,PMID:23665031,PMID:27780982	
+Q9UH77	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_067515;Note=In PHA2D. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=dbSNP:rs387907155,PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	410	410	.	.	.	ID=VAR_067516;Note=In PHA2D%3B impaired interaction with WNK1. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:22406640,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469641,PMID:22266938,PMID:22406640,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	426	426	.	.	.	ID=VAR_067517;Note=In PHA2D. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=dbSNP:rs387907156,PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	427	427	.	.	.	ID=VAR_067518;Note=In PHA2D. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469642,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	431	431	.	.	.	ID=VAR_067519;Note=In PHA2D. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469643,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	432	432	.	.	.	ID=VAR_067520;Note=In PHA2D%3B impaired interaction with WNK1. S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:22406640,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469631,PMID:22266938,PMID:22406640,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	433	433	.	.	.	ID=VAR_067521;Note=In PHA2D%3B decreased interaction with WNK4. S->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22406640,ECO:0000269|PubMed:26435498;Dbxref=PMID:22406640,PMID:26435498	
+Q9UH77	UniProtKB	Natural variant	433	433	.	.	.	ID=VAR_067522;Note=In PHA2D. S->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469632,PMID:22266938,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_067523;Note=Found in a patient with hypertension%3B unknown pathological significance. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs907779058,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	494	494	.	.	.	ID=VAR_067524;Note=In PHA2D%3B does not affect interaction with WNK1 or CUL3. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:23387299;Dbxref=dbSNP:rs199469633,PMID:22266938,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	498	498	.	.	.	ID=VAR_079630;Note=In PHA2D. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27026694;Dbxref=PMID:27026694	
+Q9UH77	UniProtKB	Natural variant	500	500	.	.	.	ID=VAR_067525;Note=In PHA2D. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22406640;Dbxref=dbSNP:rs746774345,PMID:22406640	
+Q9UH77	UniProtKB	Natural variant	501	501	.	.	.	ID=VAR_067526;Note=In PHA2D. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469634,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	528	528	.	.	.	ID=VAR_067527;Note=In PHA2D%3B impaired interaction with WNK1. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:22406640,ECO:0000269|PubMed:23387299,ECO:0000269|PubMed:23665031;Dbxref=dbSNP:rs199469635,PMID:22266938,PMID:22406640,PMID:23387299,PMID:23665031	
+Q9UH77	UniProtKB	Natural variant	528	528	.	.	.	ID=VAR_067528;Note=In PHA2D%3B dominant negative effect due to homodimer formation%3B impaired interaction with WNK1 and WNK4 and impaired ubiquitination of WNK4. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22266938,ECO:0000269|PubMed:22406640,ECO:0000269|PubMed:23387299,ECO:0000269|PubMed:23453970,ECO:0000269|PubMed:23576762,ECO:0000269|PubMed:28052936;Dbxref=dbSNP:rs199469636,PMID:22266938,PMID:22406640,PMID:23387299,PMID:23453970,PMID:23576762,PMID:28052936	
+Q9UH77	UniProtKB	Natural variant	529	529	.	.	.	ID=VAR_067529;Note=In PHA2D%3B impaired interaction with WNK1. N->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22406640,ECO:0000269|PubMed:23387299;Dbxref=PMID:22406640,PMID:23387299	
+Q9UH77	UniProtKB	Natural variant	553	553	.	.	.	ID=VAR_079631;Note=In PHA2D. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28511177;Dbxref=dbSNP:rs1367184898,PMID:28511177	
+Q9UH77	UniProtKB	Natural variant	557	557	.	.	.	ID=VAR_067530;Note=In PHA2D. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469645,PMID:22266938	
+Q9UH77	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_067531;Note=In PHA2D. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22266938;Dbxref=dbSNP:rs199469646,PMID:22266938	
+Q9UH77	UniProtKB	Mutagenesis	433	433	.	.	.	Note=Phosphomimetic mutant that shows decreased interaction with WNK4. S->E%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26435498;Dbxref=PMID:26435498	
+Q9UH77	UniProtKB	Sequence conflict	227	227	.	.	.	Note=T->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UH77	UniProtKB	Beta strand	301	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	309	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	317	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	322	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	326	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	337	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	341	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	348	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	357	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	369	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	373	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	388	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	395	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	404	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	411	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	416	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	420	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	435	439	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	442	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	451	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	460	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	465	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	469	472	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	484	488	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	491	495	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	507	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	512	514	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	517	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	531	535	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	538	542	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	545	550	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	554	558	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Turn	559	562	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	563	566	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	
+Q9UH77	UniProtKB	Beta strand	575	577	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NKP	
+Q9UH77	UniProtKB	Beta strand	579	584	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CH9	

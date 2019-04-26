@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region O75143 1 517
+O75143	UniProtKB	Chain	1	517	.	.	.	ID=PRO_0000050767;Note=Autophagy-related protein 13	
+O75143	UniProtKB	Region	127	134	.	.	.	Note=Important for interaction with ATG101;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26299944;Dbxref=PMID:26299944	
+O75143	UniProtKB	Motif	444	447	.	.	.	Note=LIR;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24290141;Dbxref=PMID:24290141	
+O75143	UniProtKB	Compositional bias	41	44	.	.	.	Note=Poly-Ser	
+O75143	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22814378;Dbxref=PMID:19413330,PMID:22814378	
+O75143	UniProtKB	Modified residue	355	355	.	.	.	Note=Phosphoserine%3B by ULK1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:21855797;Dbxref=PMID:23186163,PMID:24275569,PMID:21855797	
+O75143	UniProtKB	Modified residue	356	356	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O75143	UniProtKB	Modified residue	361	361	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O75143	UniProtKB	Alternative sequence	1	79	.	.	.	ID=VSP_044503;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75143	UniProtKB	Alternative sequence	262	262	.	.	.	ID=VSP_044640;Note=In isoform 5. S->SQCVFTVTKAHFQTPTPVVTDTLRVPMAGLAFSH;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+O75143	UniProtKB	Alternative sequence	263	299	.	.	.	ID=VSP_044504;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75143	UniProtKB	Alternative sequence	265	301	.	.	.	ID=VSP_002431;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O75143	UniProtKB	Alternative sequence	428	442	.	.	.	ID=VSP_002432;Note=In isoform 3. HSDGSSGGSSGNTHD->PCSWPLPCLLSPSTV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O75143	UniProtKB	Alternative sequence	443	517	.	.	.	ID=VSP_002433;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O75143	UniProtKB	Mutagenesis	127	127	.	.	.	Note=Abolishes interaction with ATG101%3B when associated with D-133. S->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26299944;Dbxref=PMID:26299944	
+O75143	UniProtKB	Mutagenesis	131	131	.	.	.	Note=Decreases interaction with ATG101%3B when associated with D-134. I->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26299944;Dbxref=PMID:26299944	
+O75143	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Abolishes interaction with ATG101%3B when associated with H-127. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26299944;Dbxref=PMID:26299944	
+O75143	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Decreases interaction with ATG101%3B when associated with D-131. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26299944;Dbxref=PMID:26299944	
+O75143	UniProtKB	Mutagenesis	444	444	.	.	.	Note=Decreases interaction with MAP1LC3A. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24290141;Dbxref=PMID:24290141	
+O75143	UniProtKB	Mutagenesis	447	447	.	.	.	Note=Decreases interaction with MAP1LC3A. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24290141;Dbxref=PMID:24290141	
+O75143	UniProtKB	Helix	12	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	33	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Helix	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XUY	
+O75143	UniProtKB	Helix	59	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	78	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	93	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	109	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XV3	
+O75143	UniProtKB	Helix	114	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Turn	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Helix	137	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	145	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Helix	162	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XV6	
+O75143	UniProtKB	Beta strand	169	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	
+O75143	UniProtKB	Beta strand	181	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5C50	

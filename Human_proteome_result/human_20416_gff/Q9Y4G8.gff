@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q9Y4G8 1 1499
+Q9Y4G8	UniProtKB	Chain	1	1499	.	.	.	ID=PRO_0000068865;Note=Rap guanine nucleotide exchange factor 2	
+Q9Y4G8	UniProtKB	Domain	267	380	.	.	.	Note=N-terminal Ras-GEF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00135	
+Q9Y4G8	UniProtKB	Domain	385	470	.	.	.	Note=PDZ;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00143,ECO:0000305	
+Q9Y4G8	UniProtKB	Domain	606	692	.	.	.	Note=Ras-associating;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00166	
+Q9Y4G8	UniProtKB	Domain	717	944	.	.	.	Note=Ras-GEF;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00168	
+Q9Y4G8	UniProtKB	Nucleotide binding	135	254	.	.	.	Note=cNMP	
+Q9Y4G8	UniProtKB	Compositional bias	1108	1166	.	.	.	Note=Ser-rich	
+Q9Y4G8	UniProtKB	Modified residue	501	501	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1M386	
+Q9Y4G8	UniProtKB	Modified residue	644	644	.	.	.	Note=Phosphothreonine%3B by PLK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1M386	
+Q9Y4G8	UniProtKB	Modified residue	806	806	.	.	.	Note=Phosphoserine%3B by PLK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1M386	
+Q9Y4G8	UniProtKB	Modified residue	930	930	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1M386	
+Q9Y4G8	UniProtKB	Modified residue	933	933	.	.	.	Note=Phosphoserine%3B by PLK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1M386	
+Q9Y4G8	UniProtKB	Modified residue	1022	1022	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q9Y4G8	UniProtKB	Modified residue	1080	1080	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y4G8	UniProtKB	Modified residue	1089	1089	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y4G8	UniProtKB	Modified residue	1095	1095	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y4G8	UniProtKB	Modified residue	1116	1116	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CHG7	
+Q9Y4G8	UniProtKB	Modified residue	1120	1120	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CHG7	
+Q9Y4G8	UniProtKB	Modified residue	1159	1159	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y4G8	UniProtKB	Modified residue	1176	1176	.	.	.	Note=Phosphoserine%3B by PLK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1M386	
+Q9Y4G8	UniProtKB	Mutagenesis	211	211	.	.	.	Note=Abolishes cAMP-binding. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10801446;Dbxref=PMID:10801446	
+Q9Y4G8	UniProtKB	Mutagenesis	215	215	.	.	.	Note=Does not abolish cAMP-binding. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10801446;Dbxref=PMID:10801446	
+Q9Y4G8	UniProtKB	Mutagenesis	396	399	.	.	.	Note=Loss of cell membrane targeting. PLPF->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10801446;Dbxref=PMID:10801446	
+Q9Y4G8	UniProtKB	Mutagenesis	606	626	.	.	.	Note=Abolishes interaction with RAP1A GTP-bound form and translocation from the cytoplasm to the perinuclear region. Does not abolish GEF activity on RAP1A. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11359771;Dbxref=PMID:11359771	
+Q9Y4G8	UniProtKB	Mutagenesis	898	898	.	.	.	Note=Does not inhibit interaction with NEDD4. Does not interact with HRAS. Reduces ubiquitination. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11598133;Dbxref=PMID:11598133	
+Q9Y4G8	UniProtKB	Mutagenesis	1406	1406	.	.	.	Note=Abolishes interaction with NEDD4 and NEDD4-induced ubiquitination and degradation%3B when associated with A-1428. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11598133;Dbxref=PMID:11598133	
+Q9Y4G8	UniProtKB	Mutagenesis	1428	1428	.	.	.	Note=Abolishes interaction with NEDD4 and NEDD4-induced ubiquitination and degradation%3B when associated with A-1406. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11598133;Dbxref=PMID:11598133	
+Q9Y4G8	UniProtKB	Mutagenesis	1497	1499	.	.	.	Note=No loss of cell membrane targeting. SAV->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10801446;Dbxref=PMID:10801446	

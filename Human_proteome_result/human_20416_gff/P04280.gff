@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P04280 1 392
+P04280	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1849422;Dbxref=PMID:1849422	
+P04280	UniProtKB	Chain	17	392	.	.	.	ID=PRO_0000022129;Note=Basic salivary proline-rich protein 1	
+P04280	UniProtKB	Chain	17	91	.	.	.	ID=PRO_0000372441;Note=Proline-rich peptide II-2	
+P04280	UniProtKB	Chain	275	392	.	.	.	ID=PRO_0000022130;Note=Basic peptide IB-6	
+P04280	UniProtKB	Chain	337	392	.	.	.	ID=PRO_0000022131;Note=Peptide P-H	
+P04280	UniProtKB	Repeat	53	72	.	.	.	Note=1	
+P04280	UniProtKB	Repeat	73	92	.	.	.	Note=2	
+P04280	UniProtKB	Repeat	93	112	.	.	.	Note=3	
+P04280	UniProtKB	Repeat	114	133	.	.	.	Note=4	
+P04280	UniProtKB	Repeat	134	153	.	.	.	Note=5	
+P04280	UniProtKB	Repeat	154	173	.	.	.	Note=6	
+P04280	UniProtKB	Repeat	175	194	.	.	.	Note=7	
+P04280	UniProtKB	Repeat	195	214	.	.	.	Note=8	
+P04280	UniProtKB	Repeat	215	234	.	.	.	Note=9	
+P04280	UniProtKB	Repeat	236	255	.	.	.	Note=10	
+P04280	UniProtKB	Repeat	256	275	.	.	.	Note=11	
+P04280	UniProtKB	Repeat	276	295	.	.	.	Note=12	
+P04280	UniProtKB	Repeat	297	316	.	.	.	Note=13	
+P04280	UniProtKB	Repeat	317	336	.	.	.	Note=14	
+P04280	UniProtKB	Repeat	338	357	.	.	.	Note=15	
+P04280	UniProtKB	Region	53	357	.	.	.	Note=15 X 20 AA approximate tandem repeats of P-P-G-K-P-Q-G-P-P-[PAQ]-Q-[GE]-[GD]-[NKS]-[KSQRN]-[PRQS]-[QS] [GPS]-[PQAR]-[PSR]	
+P04280	UniProtKB	Modified residue	17	17	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1849422,ECO:0000269|PubMed:20879038;Dbxref=PMID:1849422,PMID:20879038	
+P04280	UniProtKB	Modified residue	40	40	.	.	.	Note=Phosphoserine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Modified residue	92	92	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Modified residue	150	150	.	.	.	Note=Phosphoserine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Glycosylation	40	40	.	.	.	Note=O-linked (Hex) serine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Glycosylation	87	87	.	.	.	Note=O-linked (HexNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Glycosylation	150	150	.	.	.	Note=O-linked (Hex) serine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Glycosylation	330	330	.	.	.	Note=O-linked (HexNAc...) serine	
+P04280	UniProtKB	Natural variant	93	153	.	.	.	ID=VAR_019693;Note=In allele M. Missing	
+P04280	UniProtKB	Natural variant	106	319	.	.	.	ID=VAR_005562;Note=Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20879038;Dbxref=PMID:20879038	
+P04280	UniProtKB	Natural variant	106	299	.	.	.	ID=VAR_005561;Note=Missing	
+P04280	UniProtKB	Natural variant	134	255	.	.	.	ID=VAR_019694;Note=In allele S. Missing	
+P04280	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_080188;Note=S->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2851479,ECO:0000269|PubMed:2993301,ECO:0000269|PubMed:6089212,ECO:0000269|PubMed:8317492,ECO:0000269|PubMed:8422499;Dbxref=PMID:2851479,PMID:2993301,PMID:6089212,PMID:8317492,PMID:8422499	
+P04280	UniProtKB	Sequence conflict	18	33	.	.	.	Note=NLNEDVSQEESPSLIA->SCVGFYSVFLFSLCPL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	40	40	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	85	86	.	.	.	Note=DK->GKR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	128	128	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	216	217	.	.	.	Note=PG->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	271	271	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	274	274	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	278	278	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	307	307	.	.	.	Note=Q->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	326	326	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	330	330	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04280	UniProtKB	Sequence conflict	385	386	.	.	.	Note=GR->DK;Ontology_term=ECO:0000305;evidence=ECO:0000305	

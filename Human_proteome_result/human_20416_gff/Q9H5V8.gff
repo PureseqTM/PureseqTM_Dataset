@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q9H5V8 1 836
+Q9H5V8	UniProtKB	Signal peptide	1	29	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12660814,ECO:0000269|PubMed:16007225;Dbxref=PMID:12660814,PMID:16007225	
+Q9H5V8	UniProtKB	Chain	30	836	.	.	.	ID=PRO_0000226249;Note=CUB domain-containing protein 1	
+Q9H5V8	UniProtKB	Topological domain	30	667	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Transmembrane	668	688	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Topological domain	689	836	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Domain	417	544	.	.	.	Note=CUB	
+Q9H5V8	UniProtKB	Site	368	369	.	.	.	Note=Cleavage%3B by ST14/MT-SP1	
+Q9H5V8	UniProtKB	Modified residue	734	734	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14739293;Dbxref=PMID:14739293	
+Q9H5V8	UniProtKB	Glycosylation	39	39	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Glycosylation	122	122	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Glycosylation	180	180	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Glycosylation	205	205	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Glycosylation	270	270	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Glycosylation	310	310	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Glycosylation	386	386	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H5V8	UniProtKB	Disulfide bond	476	499	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H5V8	UniProtKB	Alternative sequence	1	187	.	.	.	ID=VSP_017432;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H5V8	UniProtKB	Alternative sequence	342	343	.	.	.	ID=VSP_017433;Note=In isoform 3. NK->SE;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:15489334;Dbxref=PMID:12975309,PMID:15489334	
+Q9H5V8	UniProtKB	Alternative sequence	344	836	.	.	.	ID=VSP_017434;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12975309,ECO:0000303|PubMed:15489334;Dbxref=PMID:12975309,PMID:15489334	
+Q9H5V8	UniProtKB	Natural variant	525	525	.	.	.	ID=VAR_025498;Note=Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12660814,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:14739293;Dbxref=dbSNP:rs3749191,PMID:12660814,PMID:14702039,PMID:14739293	
+Q9H5V8	UniProtKB	Natural variant	673	673	.	.	.	ID=VAR_055095;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs35428731,PMID:15489334	
+Q9H5V8	UniProtKB	Natural variant	709	709	.	.	.	ID=VAR_025499;Note=D->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11466621,ECO:0000269|PubMed:12660814,ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs9874077,PMID:11466621,PMID:12660814,PMID:14702039	
+Q9H5V8	UniProtKB	Mutagenesis	734	734	.	.	.	Note=Impaired association with SRC. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15851033;Dbxref=PMID:15851033	
+Q9H5V8	UniProtKB	Mutagenesis	762	762	.	.	.	Note=Impaired association with protein kinase PRKCG but not with SRC. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15851033;Dbxref=PMID:15851033	
+Q9H5V8	UniProtKB	Sequence conflict	252	252	.	.	.	Note=W->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H5V8	UniProtKB	Sequence conflict	284	284	.	.	.	Note=Y->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H5V8	UniProtKB	Sequence conflict	434	434	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H5V8	UniProtKB	Sequence conflict	466	466	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H5V8	UniProtKB	Sequence conflict	827	827	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H5V8	UniProtKB	Sequence conflict	827	827	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

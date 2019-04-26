@@ -1,0 +1,118 @@
+##gff-version 3
+##sequence-region P25189 1 248
+P25189	UniProtKB	Signal peptide	1	29	.	.	.	.	
+P25189	UniProtKB	Chain	30	248	.	.	.	ID=PRO_0000019300;Note=Myelin protein P0	
+P25189	UniProtKB	Topological domain	30	153	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25189	UniProtKB	Transmembrane	154	179	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25189	UniProtKB	Topological domain	180	248	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25189	UniProtKB	Domain	30	143	.	.	.	Note=Ig-like V-type	
+P25189	UniProtKB	Modified residue	210	210	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10522	
+P25189	UniProtKB	Modified residue	226	226	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27573	
+P25189	UniProtKB	Modified residue	228	228	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P27573	
+P25189	UniProtKB	Modified residue	233	233	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10522	
+P25189	UniProtKB	Modified residue	243	243	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P10522	
+P25189	UniProtKB	Glycosylation	122	122	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P25189	UniProtKB	Disulfide bond	50	127	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:21971831;Dbxref=PMID:21971831	
+P25189	UniProtKB	Alternative sequence	248	248	.	.	.	ID=VSP_045844;Note=In isoform L-MPZ. K->KRLAGRAGDRGLGVESAKGPKVMVIEMELRKDEQSPELRPAVKSPSRTSLKNALKNMMGLNSDK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25189	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_004500;Note=In CMT1B. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7694726;Dbxref=dbSNP:rs770546306,PMID:7694726	
+P25189	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_004501;Note=In CMT1B%3B severe. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10923043;Dbxref=PMID:10923043	
+P25189	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_004502;Note=In CMT1B. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8797476;Dbxref=PMID:8797476	
+P25189	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_015971;Note=In CMT1B and CMTDID. D->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10406984,ECO:0000269|PubMed:12477701;Dbxref=dbSNP:rs121913596,PMID:10406984,PMID:12477701	
+P25189	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_054393;Note=In CMT1B%3B slightly reduces intercellular adhesion%3B does not affect targeting to the cell membrane. H->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14711881,ECO:0000269|PubMed:18337304;Dbxref=dbSNP:rs371856018,PMID:14711881,PMID:18337304	
+P25189	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_031884;Note=In DSS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11596785;Dbxref=PMID:11596785	
+P25189	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_004503;Note=In CMT2I and CMT1B. S->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14711881,ECO:0000269|PubMed:9595994;Dbxref=dbSNP:rs121913598,PMID:14711881,PMID:9595994	
+P25189	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_054394;Note=In CMT1B. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14711881;Dbxref=PMID:14711881	
+P25189	UniProtKB	Natural variant	51	57	.	.	.	ID=VAR_054395;Note=In CMT1B%3B affects targeting to the cell membrane%3B reduces intercellular adhesion. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18337304;Dbxref=PMID:18337304	
+P25189	UniProtKB	Natural variant	51	51	.	.	.	ID=VAR_029971;Note=In CMT1B. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11437164;Dbxref=PMID:11437164	
+P25189	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_004504;Note=In CMT1B%3B severe. S->C	
+P25189	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_004505;Note=In CMT1B. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.40	
+P25189	UniProtKB	Natural variant	56	56	.	.	.	ID=VAR_054396;Note=In CMT2. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14871447;Dbxref=PMID:14871447	
+P25189	UniProtKB	Natural variant	58	58	.	.	.	ID=VAR_004506;Note=In CMT1B%3B moderate. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452099;Dbxref=PMID:9452099	
+P25189	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_029972;Note=In CMT2I. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14638973;Dbxref=dbSNP:rs121913604,PMID:14638973	
+P25189	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_031885;Note=In CMT2%3B unclassified. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10764043;Dbxref=dbSNP:rs786204119,PMID:10764043	
+P25189	UniProtKB	Natural variant	62	62	.	.	.	ID=VAR_015972;Note=In CMT1B. I->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10214757,ECO:0000269|PubMed:12477701;Dbxref=dbSNP:rs121913602,PMID:10214757,PMID:12477701	
+P25189	UniProtKB	Natural variant	62	62	.	.	.	ID=VAR_029973;Note=In CMT2I. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14638973;Dbxref=dbSNP:rs121913605,PMID:14638973	
+P25189	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_004508;Note=In DSS. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7506095;Dbxref=dbSNP:rs121913585,PMID:7506095	
+P25189	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_004509;Note=In CMT1B. S->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11438991,ECO:0000269|PubMed:8835320;Dbxref=dbSNP:rs121913585,PMID:11438991,PMID:8835320	
+P25189	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_004507;Note=In CMT1B. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12402337,ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:7693130;Dbxref=PMID:12402337,PMID:12477701,PMID:7693130	
+P25189	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_004510;Note=In CMT1B and DSS. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8630052;Dbxref=PMID:8630052	
+P25189	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_031886;Note=In CMT1B. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15036333;Dbxref=PMID:15036333	
+P25189	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_029974;Note=In CMT1B. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12402337;Dbxref=PMID:12402337	
+P25189	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_004511;Note=In CMT1B%3B severe/mild. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10923043,ECO:0000269|PubMed:12402337,ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:9452099;Dbxref=PMID:10923043,PMID:12402337,PMID:12477701,PMID:9452099	
+P25189	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_015973;Note=In CMT2J and CMT2I. D->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11080237,ECO:0000269|PubMed:12402337,ECO:0000269|PubMed:12477701;Dbxref=dbSNP:rs121913597,PMID:11080237,PMID:12402337,PMID:12477701	
+P25189	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_004512;Note=In CMT1B%3B severe. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10965800,ECO:0000269|PubMed:11437164,ECO:0000269|PubMed:11835375,ECO:0000269|PubMed:12497641,ECO:0000269|PubMed:7527371,ECO:0000269|PubMed:7550231,ECO:0000269|PubMed:9187667,ECO:0000269|PubMed:9633821;Dbxref=dbSNP:rs121913601,PMID:10965800,PMID:11437164,PMID:11835375,PMID:12497641,PMID:7527371,PMID:7550231,PMID:9187667,PMID:9633821	
+P25189	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_031887;Note=In CMT1B. S->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12707985;Dbxref=dbSNP:rs121913601,PMID:12707985	
+P25189	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_004513;Note=In CMT1B and CMT2I%3B severe%3B reduces intercellular adhesion%3B does not affect targeting to the cell membrane. H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:18337304,ECO:0000269|PubMed:8990016;Dbxref=dbSNP:rs121913594,PMID:12477701,PMID:18337304,PMID:8990016	
+P25189	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_031888;Note=In CMT%3B associated with F-113. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11801400;Dbxref=dbSNP:rs281865123,PMID:11801400	
+P25189	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_004514;Note=In CMT1B and DSS. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11835375,ECO:0000269|PubMed:12402337,ECO:0000269|PubMed:7505151,ECO:0000269|PubMed:9633821;Dbxref=PMID:11835375,PMID:12402337,PMID:7505151,PMID:9633821	
+P25189	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_015974;Note=In CMT2I%3B patient carrying also Met-92 and Met-162. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11835375;Dbxref=dbSNP:rs267607244,PMID:11835375	
+P25189	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_004515;Note=In CMT1B. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7693129;Dbxref=dbSNP:rs121913584,PMID:7693129	
+P25189	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_015975;Note=In CMT2I%3B patient carrying also Asn-89 and Met-162. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11835375;Dbxref=dbSNP:rs267607245,PMID:11835375	
+P25189	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_004516;Note=In CMT1B. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:9217235;Dbxref=dbSNP:rs1060503418,PMID:12477701,PMID:9217235	
+P25189	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_004517;Note=In CMT1B. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7504284,ECO:0000269|PubMed:7693129;Dbxref=dbSNP:rs121913583,PMID:7504284,PMID:7693129	
+P25189	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_029975;Note=In CMT2J. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15326256;Dbxref=dbSNP:rs121913606,PMID:15326256	
+P25189	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_004518;Note=In CMT1B and DSS%3B severe. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11438991,ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:8797476,ECO:0000269|PubMed:8816708,ECO:0000269|PubMed:9187667;Dbxref=dbSNP:rs121913590,PMID:11438991,PMID:12477701,PMID:8797476,PMID:8816708,PMID:9187667	
+P25189	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_004519;Note=In CMT1B. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10737979,ECO:0000269|PubMed:11437164,ECO:0000269|PubMed:12221176,ECO:0000269|PubMed:14711881,ECO:0000269|PubMed:7688964,ECO:0000269|PubMed:8797476;Dbxref=dbSNP:rs121913589,PMID:10737979,PMID:11437164,PMID:12221176,PMID:14711881,PMID:7688964,PMID:8797476	
+P25189	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_004520;Note=In CMT1B. R->P;Dbxref=dbSNP:rs121913589	
+P25189	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_004521;Note=In CMT1B. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8816708;Dbxref=PMID:8816708	
+P25189	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_004522;Note=In CMT1B. I->T	
+P25189	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_004523;Note=In CMT1B. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7550231;Dbxref=PMID:7550231	
+P25189	UniProtKB	Natural variant	103	103	.	.	.	ID=VAR_015976;Note=In CMT1B. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11445635;Dbxref=dbSNP:rs121913600,PMID:11445635	
+P25189	UniProtKB	Natural variant	109	109	.	.	.	ID=VAR_031889;Note=In CMT1B. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10545037;Dbxref=dbSNP:rs1060503420,PMID:10545037	
+P25189	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_029976;Note=In DSS. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12497641;Dbxref=PMID:12497641	
+P25189	UniProtKB	Natural variant	112	112	.	.	.	ID=VAR_004524;Note=In CMT1B%3B severe. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452099;Dbxref=PMID:9452099	
+P25189	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_031890;Note=In CMT%3B unclassified%3B associated with Y-81. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11801400;Dbxref=dbSNP:rs281865126,PMID:11801400	
+P25189	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_029977;Note=In CMT2. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12402337;Dbxref=PMID:12402337	
+P25189	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_004525;Note=In DSS%3B associated on the same allele as His-116 and Asn-128 in one patient. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222756;Dbxref=dbSNP:rs267607241,PMID:9222756	
+P25189	UniProtKB	Natural variant	116	116	.	.	.	ID=VAR_004526;Note=In DSS%3B associated on the same allele as Thr-114 and Asn-128 in one patient. N->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222756;Dbxref=dbSNP:rs267607242,PMID:9222756	
+P25189	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_004527;Note=In DSS. D->DFY;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452055;Dbxref=PMID:9452055	
+P25189	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_021609;Note=In CMT2I. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15241803;Dbxref=PMID:15241803	
+P25189	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_031891;Note=In CMT2%3B unclassified. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10764043;Dbxref=dbSNP:rs879254038,PMID:10764043	
+P25189	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_004528;Note=In CMT1B%3B loss of glycosylation site. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8844219;Dbxref=PMID:8844219	
+P25189	UniProtKB	Natural variant	123	123	.	.	.	ID=VAR_015977;Note=In DSS and CMT1B. G->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11835375,ECO:0000269|PubMed:14711881;Dbxref=PMID:11835375,PMID:14711881	
+P25189	UniProtKB	Natural variant	124	125	.	.	.	ID=VAR_004530;Note=In DSS. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11438991,ECO:0000269|PubMed:9452091;Dbxref=PMID:11438991,PMID:9452091	
+P25189	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_029978;Note=In CHN. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15184631;Dbxref=dbSNP:rs121913595,PMID:15184631	
+P25189	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_004529;Note=In CMT1B%2C CMT2I and CMT2J%3B CMTJ2 patients present Adie pupil%3B slightly reduces intercellular adhesion%3B does not affect targeting to the cell membrane%3B affects glycosylation. T->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10071056,ECO:0000269|PubMed:10329755,ECO:0000269|PubMed:10923043,ECO:0000269|PubMed:11080237,ECO:0000269|PubMed:11438991,ECO:0000269|PubMed:12402337,ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:15159512,ECO:0000269|PubMed:16775239,ECO:0000269|PubMed:18337304,ECO:0000269|PubMed:9452091;Dbxref=dbSNP:rs121913595,PMID:10071056,PMID:10329755,PMID:10923043,PMID:11080237,PMID:11438991,PMID:12402337,PMID:12477701,PMID:15159512,PMID:16775239,PMID:18337304,PMID:9452091	
+P25189	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_004531;Note=In DSS. C->Y	
+P25189	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_004532;Note=In CMT1B. D->E	
+P25189	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_004533;Note=In DSS%3B associated on the same allele as Thr-114 and His-116 in one patient. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222756;Dbxref=dbSNP:rs267607243,PMID:9222756	
+P25189	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_004534;Note=In CMT1B%2C CMT2I and DSS. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10923043,ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:14711881,ECO:0000269|PubMed:8797476;Dbxref=dbSNP:rs281865127,PMID:10923043,PMID:12477701,PMID:14711881,PMID:8797476	
+P25189	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_015978;Note=In ROULS. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10553995;Dbxref=dbSNP:rs121913599,PMID:10553995	
+P25189	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_004535;Note=In CMT1B%3B moderate. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452099;Dbxref=PMID:9452099	
+P25189	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_004536;Note=In CMT1B. D->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10737979,ECO:0000269|PubMed:7530774;Dbxref=PMID:10737979,PMID:7530774	
+P25189	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_029979;Note=In CMT1B. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10737979;Dbxref=PMID:10737979	
+P25189	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_004537;Note=In CMT1B. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7527371;Dbxref=PMID:7527371	
+P25189	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_004538;Note=In CMT1B and DSS. I->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8797476;Dbxref=dbSNP:rs879253858,PMID:8797476	
+P25189	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_004539;Note=In CMT1B. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10737979,ECO:0000269|PubMed:8664899;Dbxref=dbSNP:rs121913587,PMID:10737979,PMID:8664899	
+P25189	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_015979;Note=In DSS. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11835375;Dbxref=PMID:11835375	
+P25189	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_004540;Note=In CMT1B. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8664899;Dbxref=dbSNP:rs121913588,PMID:8664899	
+P25189	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_029980;Note=In CMT1B. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10737979;Dbxref=PMID:10737979	
+P25189	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_029981;Note=In CMT1B. T->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10737979;Dbxref=PMID:10737979	
+P25189	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_029982;Note=In CMT1B. S->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12207932,ECO:0000269|PubMed:14711881;Dbxref=dbSNP:rs572010627,PMID:12207932,PMID:14711881	
+P25189	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_004541;Note=In CMT1B. T->M;Dbxref=dbSNP:rs750724650	
+P25189	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_029983;Note=In CMT1B. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12845552;Dbxref=dbSNP:rs121913603,PMID:12845552	
+P25189	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_029984;Note=In CMT1B. V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12477701;Dbxref=PMID:12477701	
+P25189	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_015980;Note=In CMT2I%3B patient carrying also Asn-89 and Met-92. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11835375;Dbxref=dbSNP:rs267607246,PMID:11835375	
+P25189	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_004542;Note=In CMT1B. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12207932,ECO:0000269|PubMed:12402337;Dbxref=dbSNP:rs281865128,PMID:12207932,PMID:12402337	
+P25189	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_004543;Note=In CMT1B and DSS%3B severe. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452099;Dbxref=PMID:9452099	
+P25189	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_004544;Note=In CMT2I and DSS. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12477701,ECO:0000269|PubMed:7506095;Dbxref=dbSNP:rs121913586,PMID:12477701,PMID:7506095	
+P25189	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_029985;Note=In CMT1B. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12402337;Dbxref=PMID:12402337	
+P25189	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_029986;Note=In CMT1B%3B referred to as 'T216ER'. T->ER	
+P25189	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_031892;Note=In DSS. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11596785;Dbxref=PMID:11596785	
+P25189	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_054397;Note=In CMT1B%3B also in two asymptomatic individuals from the same family. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16488608;Dbxref=dbSNP:rs267607247,PMID:16488608	
+P25189	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_054398;Note=In CMT1B. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14711881;Dbxref=PMID:14711881	
+P25189	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_021610;Note=In CMT2I. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15241803;Dbxref=PMID:15241803	
+P25189	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_029987;Note=In CMT1B. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12207932;Dbxref=PMID:12207932	
+P25189	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_004545;Note=R->L;Dbxref=dbSNP:rs749722729	
+P25189	UniProtKB	Beta strand	36	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	63	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	77	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	86	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Turn	94	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Helix	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Helix	119	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	123	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	
+P25189	UniProtKB	Beta strand	134	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OAI	

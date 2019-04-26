@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q96SN8 1 1893
+Q96SN8	UniProtKB	Chain	1	1893	.	.	.	ID=PRO_0000089835;Note=CDK5 regulatory subunit-associated protein 2	
+Q96SN8	UniProtKB	Region	58	196	.	.	.	Note=Interaction with NCKAP5L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26485573;Dbxref=PMID:26485573	
+Q96SN8	UniProtKB	Region	926	1208	.	.	.	Note=Interaction with MAPRE1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19553473;Dbxref=PMID:19553473	
+Q96SN8	UniProtKB	Region	1726	1893	.	.	.	Note=Interaction with PCNT and AKAP9;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20466722;Dbxref=PMID:20466722	
+Q96SN8	UniProtKB	Region	1726	1768	.	.	.	Note=Interaction with CDK5R1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96SN8	UniProtKB	Region	1861	1870	.	.	.	Note=Required for centrosomal attachment%2C Golgi localization and CALM1 interaction	
+Q96SN8	UniProtKB	Modified residue	547	547	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q96SN8	UniProtKB	Modified residue	1001	1001	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q96SN8	UniProtKB	Modified residue	1238	1238	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+Q96SN8	UniProtKB	Modified residue	1490	1490	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96SN8	UniProtKB	Modified residue	1663	1663	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JLH5	
+Q96SN8	UniProtKB	Modified residue	1666	1666	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JLH5	
+Q96SN8	UniProtKB	Modified residue	1893	1893	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q96SN8	UniProtKB	Alternative sequence	702	733	.	.	.	ID=VSP_007563;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q96SN8	UniProtKB	Alternative sequence	1009	1049	.	.	.	ID=VSP_007564;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96SN8	UniProtKB	Alternative sequence	1576	1654	.	.	.	ID=VSP_007565;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10997877,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005;Dbxref=PMID:10997877,PMID:14702039,PMID:17974005	
+Q96SN8	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_056831;Note=A->P;Dbxref=dbSNP:rs13287734	
+Q96SN8	UniProtKB	Natural variant	289	289	.	.	.	ID=VAR_017443;Note=E->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10997877,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs4836822,PMID:10997877,PMID:17974005	
+Q96SN8	UniProtKB	Natural variant	1045	1045	.	.	.	ID=VAR_032426;Note=R->T;Dbxref=dbSNP:rs3780679	
+Q96SN8	UniProtKB	Natural variant	1330	1330	.	.	.	ID=VAR_059616;Note=N->I;Dbxref=dbSNP:rs7875294	
+Q96SN8	UniProtKB	Natural variant	1540	1540	.	.	.	ID=VAR_017444;Note=V->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs4837768,PMID:14702039,PMID:17974005	
+Q96SN8	UniProtKB	Natural variant	1607	1607	.	.	.	ID=VAR_056832;Note=R->S;Dbxref=dbSNP:rs16909747	
+Q96SN8	UniProtKB	Mutagenesis	938	939	.	.	.	Note=Loss of interaction with MAPRE1. LP->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19553473;Dbxref=PMID:19553473	
+Q96SN8	UniProtKB	Mutagenesis	1865	1865	.	.	.	Note=No effect on centrosomal attachment%2C Golgi localization and loss of interaction with CALM1%3B when associated with A-1869. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20466722;Dbxref=PMID:20466722	
+Q96SN8	UniProtKB	Mutagenesis	1869	1869	.	.	.	Note=No effect on centrosomal attachment%2C Golgi localization and loss of interaction to CALM1%3B when associated with A-1865. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20466722;Dbxref=PMID:20466722	
+Q96SN8	UniProtKB	Sequence conflict	27	27	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	43	43	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	292	292	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	414	414	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	1254	1254	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	1458	1458	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	1483	1483	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	1550	1550	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SN8	UniProtKB	Sequence conflict	1838	1838	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

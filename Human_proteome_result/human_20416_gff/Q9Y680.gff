@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q9Y680 1 222
+Q9Y680	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y680	UniProtKB	Chain	24	222	.	.	.	ID=PRO_0000025513;Note=Peptidyl-prolyl cis-trans isomerase FKBP7	
+Q9Y680	UniProtKB	Domain	53	145	.	.	.	Note=PPIase FKBP-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00277	
+Q9Y680	UniProtKB	Domain	145	180	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y680	UniProtKB	Domain	189	222	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y680	UniProtKB	Calcium binding	158	169	.	.	.	Note=1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y680	UniProtKB	Calcium binding	202	213	.	.	.	Note=2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y680	UniProtKB	Motif	219	222	.	.	.	Note=Retention in the endoplasmic reticulum;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10138	
+Q9Y680	UniProtKB	Glycosylation	45	45	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y680	UniProtKB	Alternative sequence	125	127	.	.	.	ID=VSP_059387;Note=In isoform 1. AEG->GST;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10931946;Dbxref=PMID:10931946	
+Q9Y680	UniProtKB	Alternative sequence	125	125	.	.	.	ID=VSP_041018;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q9Y680	UniProtKB	Alternative sequence	128	222	.	.	.	ID=VSP_059388;Note=In isoform 1. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10931946;Dbxref=PMID:10931946	
+Q9Y680	UniProtKB	Sequence conflict	124	124	.	.	.	Note=Y->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y680	UniProtKB	Sequence conflict	200	200	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	

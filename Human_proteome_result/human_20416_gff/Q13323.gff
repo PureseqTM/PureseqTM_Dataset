@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region Q13323 1 160
+Q13323	UniProtKB	Chain	1	160	.	.	.	ID=PRO_0000143100;Note=Bcl-2-interacting killer	
+Q13323	UniProtKB	Transmembrane	136	156	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13323	UniProtKB	Region	137	158	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13323	UniProtKB	Motif	57	71	.	.	.	Note=BH3	
+Q13323	UniProtKB	Site	153	154	.	.	.	Note=Cleavage%3B by RHBDL4/RHBDD1;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13323	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_029179;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.7;Dbxref=dbSNP:rs4988415	
+Q13323	UniProtKB	Natural variant	26	26	.	.	.	ID=VAR_048420;Note=T->I;Dbxref=dbSNP:rs11090143	
+Q13323	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_029180;Note=L->P;Dbxref=dbSNP:rs11574527	
+Q13323	UniProtKB	Mutagenesis	153	154	.	.	.	Note=Inhibits RHBDL4/RHBDD1-induced cleavage. GG->FF;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18953687;Dbxref=PMID:18953687	

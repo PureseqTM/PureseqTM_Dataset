@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q9Y336 1 463
+Q9Y336	UniProtKB	Signal peptide	1	17	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Chain	18	463	.	.	.	ID=PRO_0000014949;Note=Sialic acid-binding Ig-like lectin 9	
+Q9Y336	UniProtKB	Topological domain	18	348	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Transmembrane	349	369	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Topological domain	370	463	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Domain	20	140	.	.	.	Note=Ig-like V-type	
+Q9Y336	UniProtKB	Domain	146	229	.	.	.	Note=Ig-like C2-type 1	
+Q9Y336	UniProtKB	Domain	236	336	.	.	.	Note=Ig-like C2-type 2	
+Q9Y336	UniProtKB	Motif	431	436	.	.	.	Note=ITIM motif	
+Q9Y336	UniProtKB	Motif	454	459	.	.	.	Note=SLAM-like motif	
+Q9Y336	UniProtKB	Binding site	120	120	.	.	.	Note=Sialic acid;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y336	UniProtKB	Glycosylation	101	101	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	138	138	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	161	161	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	225	225	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	231	231	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	238	238	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	256	256	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Glycosylation	334	334	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y336	UniProtKB	Disulfide bond	36	170	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y336	UniProtKB	Disulfide bond	41	102	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y336	UniProtKB	Disulfide bond	164	213	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y336	UniProtKB	Disulfide bond	272	320	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9Y336	UniProtKB	Alternative sequence	402	463	.	.	.	ID=VSP_054106;Note=In isoform 2. GPLTEPWAEDSPPDQPPPASARSSVGEGELQYASLSFQMVKPWDSRGQEATDTEYSEIKIHR->ILNHFIGFPTFLGLGFEFLLNLRDLCCHPDSEFYVYHFSHFRLIKNIAGEIVWSLEGKILWLLDVSDFFHWFFLICVG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y336	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_014254;Note=K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2075803,PMID:15489334	
+Q9Y336	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_014255;Note=S->N;Dbxref=dbSNP:rs200658	
+Q9Y336	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_033621;Note=K->Q;Dbxref=dbSNP:rs16988910	
+Q9Y336	UniProtKB	Natural variant	147	147	.	.	.	ID=VAR_014256;Note=N->K;Dbxref=dbSNP:rs273687	
+Q9Y336	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_014257;Note=A->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2258983,PMID:15489334	
+Q9Y336	UniProtKB	Natural variant	316	316	.	.	.	ID=VAR_014258;Note=A->D;Dbxref=dbSNP:rs273688	
+Q9Y336	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_033622;Note=V->A;Dbxref=dbSNP:rs273690	
+Q9Y336	UniProtKB	Mutagenesis	120	120	.	.	.	Note=Loss of sialic acid binding. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10801860;Dbxref=PMID:10801860	
+Q9Y336	UniProtKB	Sequence conflict	269	269	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

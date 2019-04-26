@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region Q86UR1 1 476
+Q86UR1	UniProtKB	Chain	1	476	.	.	.	ID=PRO_0000314609;Note=NADPH oxidase activator 1	
+Q86UR1	UniProtKB	Repeat	7	38	.	.	.	Note=TPR 1	
+Q86UR1	UniProtKB	Repeat	39	71	.	.	.	Note=TPR 2	
+Q86UR1	UniProtKB	Repeat	73	105	.	.	.	Note=TPR 3	
+Q86UR1	UniProtKB	Repeat	122	155	.	.	.	Note=TPR 4	
+Q86UR1	UniProtKB	Domain	315	395	.	.	.	Note=PB1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01081	
+Q86UR1	UniProtKB	Domain	399	458	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q86UR1	UniProtKB	Region	1	224	.	.	.	Note=Mediates interaction with RAC1	
+Q86UR1	UniProtKB	Modified residue	172	172	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+Q86UR1	UniProtKB	Modified residue	461	461	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+Q86UR1	UniProtKB	Alternative sequence	168	223	.	.	.	ID=VSP_030335;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17602954;Dbxref=PMID:17602954	
+Q86UR1	UniProtKB	Alternative sequence	431	431	.	.	.	ID=VSP_030336;Note=In isoform 2 and isoform 3. E->EEPDVPLA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17602954;Dbxref=PMID:15489334,PMID:17602954	
+Q86UR1	UniProtKB	Natural variant	274	476	.	.	.	ID=VAR_037985;Note=Found in a truncated form isolated from Caco-2 cells treated with butyrate. Missing	
+Q86UR1	UniProtKB	Natural variant	286	286	.	.	.	ID=VAR_037986;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17602954;Dbxref=dbSNP:rs34155071,PMID:17602954	
+Q86UR1	UniProtKB	Mutagenesis	34	34	.	.	.	Note=Partial loss of function. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17602954;Dbxref=PMID:17602954	
+Q86UR1	UniProtKB	Mutagenesis	37	37	.	.	.	Note=Partial loss of function. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17602954;Dbxref=PMID:17602954	
+Q86UR1	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Loss of function and loss of interaction with RAC1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16636067;Dbxref=PMID:16636067	
+Q86UR1	UniProtKB	Mutagenesis	103	103	.	.	.	Note=Loss of function and loss of interaction with RAC1. Loss of localization to membranes. R->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12716910,ECO:0000269|PubMed:16636067,ECO:0000269|PubMed:16762923;Dbxref=PMID:12716910,PMID:16636067,PMID:16762923	
+Q86UR1	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Loss of phosphorylation. Loss of interaction with YHAWZ%3B when associated with A-461. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+Q86UR1	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Constitutively interacts with YWHAZ%3B when associated with E-461. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+Q86UR1	UniProtKB	Mutagenesis	205	205	.	.	.	Note=Unable to activate NOX2. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15181005;Dbxref=PMID:15181005	
+Q86UR1	UniProtKB	Mutagenesis	436	436	.	.	.	Note=Loss of interaction with NOXO1 and NCF1. Loss of localization to membranes. Partial loss of function. W->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12716910,ECO:0000269|PubMed:16762923,ECO:0000269|PubMed:17602954;Dbxref=PMID:12716910,PMID:16762923,PMID:17602954	
+Q86UR1	UniProtKB	Mutagenesis	461	461	.	.	.	Note=Loss of phosphorylation. Loss of interaction with YHAWZ%3B when associated with A-172. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+Q86UR1	UniProtKB	Mutagenesis	461	461	.	.	.	Note=Constitutively interacts with YWHAZ%3B when associated with E-172. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17913709;Dbxref=PMID:17913709	
+Q86UR1	UniProtKB	Sequence conflict	51	51	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	56	56	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	73	73	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	142	142	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	261	261	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	277	277	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	278	278	.	.	.	Note=Q->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	320	320	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	329	329	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	345	346	.	.	.	Note=LP->FL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	354	354	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	409	409	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86UR1	UniProtKB	Sequence conflict	441	441	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

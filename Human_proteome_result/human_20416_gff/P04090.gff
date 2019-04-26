@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P04090 1 185
+P04090	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1572287;Dbxref=PMID:1572287	
+P04090	UniProtKB	Peptide	25	53	.	.	.	ID=PRO_0000016079;Note=Relaxin B chain	
+P04090	UniProtKB	Propeptide	56	157	.	.	.	ID=PRO_0000016080;Note=Connecting peptide	
+P04090	UniProtKB	Peptide	162	185	.	.	.	ID=PRO_0000016081;Note=Relaxin A chain	
+P04090	UniProtKB	Modified residue	162	162	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2076464;Dbxref=PMID:2076464	
+P04090	UniProtKB	Disulfide bond	35	172	.	.	.	Note=Interchain (between B and A chains)	
+P04090	UniProtKB	Disulfide bond	47	185	.	.	.	Note=Interchain (between B and A chains)	
+P04090	UniProtKB	Disulfide bond	171	176	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2040595;Dbxref=PMID:2040595	
+P04090	UniProtKB	Alternative sequence	71	117	.	.	.	ID=VSP_002711;Note=In isoform 2. EIVPSFINKDTETINMMSEFVANLPQELKLTLSEMQPALPQLQQHVP->GDFIQTVSLGISPDGGKALRTGSCFTREFLGALSKLCHPSSTKIQKP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04090	UniProtKB	Alternative sequence	118	185	.	.	.	ID=VSP_002712;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04090	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_050007;Note=V->F;Dbxref=dbSNP:rs2020050	
+P04090	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_034444;Note=M->K;Dbxref=dbSNP:rs618066	
+P04090	UniProtKB	Helix	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6RLX	
+P04090	UniProtKB	Helix	36	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6RLX	
+P04090	UniProtKB	Helix	163	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6RLX	
+P04090	UniProtKB	Helix	178	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6RLX	

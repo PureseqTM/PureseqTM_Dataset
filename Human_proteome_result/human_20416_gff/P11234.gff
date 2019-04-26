@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region P11234 1 206
+P11234	UniProtKB	Chain	1	203	.	.	.	ID=PRO_0000082698;Note=Ras-related protein Ral-B	
+P11234	UniProtKB	Propeptide	204	206	.	.	.	ID=PRO_0000281349;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11234	UniProtKB	Nucleotide binding	21	29	.	.	.	Note=GTP	
+P11234	UniProtKB	Nucleotide binding	68	72	.	.	.	Note=GTP	
+P11234	UniProtKB	Nucleotide binding	128	131	.	.	.	Note=GTP	
+P11234	UniProtKB	Nucleotide binding	158	160	.	.	.	Note=GTP	
+P11234	UniProtKB	Motif	43	51	.	.	.	Note=Effector region	
+P11234	UniProtKB	Modified residue	203	203	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P11234	UniProtKB	Lipidation	203	203	.	.	.	Note=S-geranylgeranyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17875936;Dbxref=PMID:17875936	
+P11234	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_055843;Note=In isoform 2. M->MKQRQSALQWVICVSQPQKTSEM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P11234	UniProtKB	Alternative sequence	36	37	.	.	.	ID=VSP_055844;Note=In isoform 3. YD->NVSKSLAYDKKKYTANKKVEGIL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P11234	UniProtKB	Mutagenesis	1	11	.	.	.	Note=No effect on cytokinesis. Impaired cytokinesis%2C as shown by increased number of binucleate cells%3B when associated with V-23. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18756269;Dbxref=PMID:18756269	
+P11234	UniProtKB	Mutagenesis	23	23	.	.	.	Note=Impaired cytokinesis%2C as shown by increased number of binucleate cells. Impaired cytokinesis%3B when associated with 1-M--S-11 or N-49. No effect on cytokinesis%3B when associated with R-38%2C W-48 or E-49. No effect on interaction with EXOC2 and EXOC8. Decreased interaction with EXOC2 and EXOC8%3B when associated with R-38 or W-48. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18756269;Dbxref=PMID:18756269	
+P11234	UniProtKB	Mutagenesis	38	38	.	.	.	Note=No effect on cytokinesis. No effect on cytokinesis%3B when associated with V-23. Decreased interaction with EXOC2 and EXOC8%3B when associated with V-23. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18756269;Dbxref=PMID:18756269	
+P11234	UniProtKB	Mutagenesis	46	46	.	.	.	Note=Reduces the binding affinity to EXOC2 effector. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19166349;Dbxref=PMID:19166349	
+P11234	UniProtKB	Mutagenesis	46	46	.	.	.	Note=Reduces the binding affinity to EXOC2 effector. T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19166349;Dbxref=PMID:19166349	
+P11234	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Impaired abscission%2C the last step of cytokinesis%2C as shown by the accumulation of bridged cells. No effect on cytokinesis%3B when associated with V-23. Decreased interaction with EXOC2 and EXOC8%3B when associated with V-23. A->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18756269;Dbxref=PMID:18756269	
+P11234	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Impaired abscission%2C the last step of cytokinesis. No effect on cytokinesis%3B when associated with V-23. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18756269;Dbxref=PMID:18756269	
+P11234	UniProtKB	Mutagenesis	49	49	.	.	.	Note=No effect on cytokinesis. Impaired cytokinesis%2C as shown by increased number of binucleate cells%3B when associated with V-23. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18756269;Dbxref=PMID:18756269	
+P11234	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Loss of GTPase activity. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19166349;Dbxref=PMID:19166349	
+P11234	UniProtKB	Mutagenesis	203	203	.	.	.	Note=Loss of geranylgeranylation and membrane localization. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17875936;Dbxref=PMID:17875936	
+P11234	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Converts geranyl-geranylation to farnesylation. No effect on membrane localization. Confers resistance to GGTI-induced pancreatic cancer cell apoptosis%2C but not to GGTI-dependent inhibition of anchorage-independent proliferation. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17875936;Dbxref=PMID:17875936	
+P11234	UniProtKB	Turn	10	12	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KWI	
+P11234	UniProtKB	Beta strand	14	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Helix	27	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Beta strand	51	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Beta strand	61	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Beta strand	74	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Helix	78	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Beta strand	87	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Helix	98	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Beta strand	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KWI	
+P11234	UniProtKB	Beta strand	123	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Helix	140	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Turn	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Beta strand	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Turn	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Helix	165	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	
+P11234	UniProtKB	Turn	180	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KE5	

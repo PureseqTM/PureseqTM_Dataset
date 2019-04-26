@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region Q92968 1 403
+Q92968	UniProtKB	Chain	1	403	.	.	.	ID=PRO_0000058323;Note=Peroxisomal membrane protein PEX13	
+Q92968	UniProtKB	Topological domain	1	226	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92968	UniProtKB	Transmembrane	227	251	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92968	UniProtKB	Topological domain	252	403	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92968	UniProtKB	Domain	272	336	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q92968	UniProtKB	Region	145	233	.	.	.	Note=Targeting to peroxisomes	
+Q92968	UniProtKB	Region	175	196	.	.	.	Note=Interaction with PEX19	
+Q92968	UniProtKB	Compositional bias	5	11	.	.	.	Note=Poly-Pro	
+Q92968	UniProtKB	Modified residue	354	354	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9D0K1	
+Q92968	UniProtKB	Natural variant	326	326	.	.	.	ID=VAR_009306;Note=In PBD11B%3B neonatal adrenoleukodystrophy. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10332040,ECO:0000269|PubMed:10441568;Dbxref=dbSNP:rs61752115,PMID:10332040,PMID:10441568	

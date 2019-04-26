@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region P30556 1 359
+P30556	UniProtKB	Chain	1	359	.	.	.	ID=PRO_0000069153;Note=Type-1 angiotensin II receptor	
+P30556	UniProtKB	Topological domain	1	27	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	28	52	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	53	64	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	65	87	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	88	102	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	103	124	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	125	142	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	143	162	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	163	192	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	193	214	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	215	240	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	241	262	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	263	275	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Transmembrane	276	296	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Topological domain	297	359	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Lipidation	355	355	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Glycosylation	4	4	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19139490;Dbxref=PMID:19139490	
+P30556	UniProtKB	Glycosylation	176	176	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Glycosylation	188	188	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30556	UniProtKB	Disulfide bond	101	180	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P30556	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_029206;Note=A->T;Dbxref=dbSNP:rs12721226	
+P30556	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_070375;Note=L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852013,PMID:15489334	
+P30556	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_029207;Note=A->S;Dbxref=dbSNP:rs12721225	
+P30556	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_035086;Note=In RTD. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16116425;Dbxref=dbSNP:rs104893677,PMID:16116425	
+P30556	UniProtKB	Natural variant	289	289	.	.	.	ID=VAR_011847;Note=C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8135787;Dbxref=dbSNP:rs1064533,PMID:8135787	
+P30556	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_011848;Note=T->P;Dbxref=dbSNP:rs1801021	
+P30556	UniProtKB	Natural variant	341	341	.	.	.	ID=VAR_070376;Note=P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852012,PMID:15489334	
+P30556	UniProtKB	Sequence conflict	187	187	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30556	UniProtKB	Sequence conflict	204	205	.	.	.	Note=FL->SC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30556	UniProtKB	Sequence conflict	232	232	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30556	UniProtKB	Sequence conflict	240	240	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30556	UniProtKB	Sequence conflict	268	268	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30556	UniProtKB	Sequence conflict	311	313	.	.	.	Note=RYF->KDI;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30556	UniProtKB	Beta strand	17	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	27	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Turn	56	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	62	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	82	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	98	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	142	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	161	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Beta strand	167	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Beta strand	178	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	191	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	198	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	205	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	236	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Beta strand	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YAY	
+P30556	UniProtKB	Helix	274	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	294	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZUD	
+P30556	UniProtKB	Helix	306	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YAY	

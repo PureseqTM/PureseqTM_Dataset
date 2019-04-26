@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q13190 1 355
+Q13190	UniProtKB	Chain	1	355	.	.	.	ID=PRO_0000210205;Note=Syntaxin-5	
+Q13190	UniProtKB	Topological domain	1	333	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13190	UniProtKB	Transmembrane	334	354	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13190	UniProtKB	Topological domain	355	355	.	.	.	Note=Vesicular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13190	UniProtKB	Domain	263	325	.	.	.	Note=t-SNARE coiled-coil homology;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00202	
+Q13190	UniProtKB	Coiled coil	287	318	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13190	UniProtKB	Motif	245	247	.	.	.	Note=IxM motif%3B signal for cargo packaging into COPII-coated vesicles;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18843296;Dbxref=PMID:18843296	
+Q13190	UniProtKB	Alternative sequence	1	54	.	.	.	ID=VSP_020119;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9188044,ECO:0000303|Ref.4;Dbxref=PMID:14702039,PMID:15489334,PMID:9188044	
+Q13190	UniProtKB	Alternative sequence	303	355	.	.	.	ID=VSP_020120;Note=In isoform 3 and isoform 4. RIDENVLGAQLDVEAAHSEILKYFQSVTSNRWLMVKIFLILIVFFIIFVVFLA->SVLLFPLLPALSPGSTRTC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13190	UniProtKB	Natural variant	51	51	.	.	.	ID=VAR_052248;Note=P->L;Dbxref=dbSNP:rs3802945	
+Q13190	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_052249;Note=Q->H;Dbxref=dbSNP:rs11231241	
+Q13190	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_035642;Note=In a breast cancer sample%3B somatic mutation. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q13190	UniProtKB	Mutagenesis	245	245	.	.	.	Note=Loss of interaction with SEC24C. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18843296;Dbxref=PMID:18843296	
+Q13190	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Loss of interaction with SEC24C. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18843296;Dbxref=PMID:18843296	
+Q13190	UniProtKB	Beta strand	243	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EFO	

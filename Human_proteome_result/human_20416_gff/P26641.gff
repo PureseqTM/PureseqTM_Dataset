@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region P26641 1 437
+P26641	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|PubMed:12665801,ECO:0000269|Ref.7;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:12665801	
+P26641	UniProtKB	Chain	2	437	.	.	.	ID=PRO_0000208813;Note=Elongation factor 1-gamma	
+P26641	UniProtKB	Domain	2	87	.	.	.	Note=GST N-terminal	
+P26641	UniProtKB	Domain	88	216	.	.	.	Note=GST C-terminal	
+P26641	UniProtKB	Domain	276	437	.	.	.	Note=EF-1-gamma C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00519	
+P26641	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|Ref.7;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378	
+P26641	UniProtKB	Modified residue	147	147	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P26641	UniProtKB	Modified residue	212	212	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9D8N0	
+P26641	UniProtKB	Modified residue	401	401	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9D8N0	
+P26641	UniProtKB	Modified residue	434	434	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P26641	UniProtKB	Modified residue	434	434	.	.	.	Note=N6-malonyllysine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21908771;Dbxref=PMID:21908771	
+P26641	UniProtKB	Cross-link	253	253	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+P26641	UniProtKB	Cross-link	285	285	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P26641	UniProtKB	Alternative sequence	1	4	.	.	.	ID=VSP_056204;Note=In isoform 2. MAAG->MAERWVAPAVLRRARFASTFFLSPQIYAHKDGDLRSAFFILSFKRGEFIPFLNW;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P26641	UniProtKB	Sequence conflict	102	102	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P26641	UniProtKB	Beta strand	3	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	13	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Beta strand	28	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Turn	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Turn	40	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	47	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Beta strand	58	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	72	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	82	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	89	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	107	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	125	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Turn	146	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Beta strand	150	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	159	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	178	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	185	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	198	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JPO	
+P26641	UniProtKB	Helix	279	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	290	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	306	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Turn	316	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Beta strand	320	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	329	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	338	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	349	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	353	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Beta strand	356	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Beta strand	361	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Beta strand	370	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	384	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	388	390	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	394	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Helix	408	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	
+P26641	UniProtKB	Turn	424	426	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PBU	

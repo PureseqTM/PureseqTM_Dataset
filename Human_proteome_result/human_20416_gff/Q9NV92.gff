@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q9NV92 1 336
+Q9NV92	UniProtKB	Chain	1	336	.	.	.	ID=PRO_0000096794;Note=NEDD4 family-interacting protein 2	
+Q9NV92	UniProtKB	Topological domain	1	231	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Transmembrane	232	252	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Topological domain	253	257	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Transmembrane	258	278	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Topological domain	279	287	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Transmembrane	288	308	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Topological domain	309	336	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NV92	UniProtKB	Region	148	151	.	.	.	Note=Interaction with NEDD4;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NV92	UniProtKB	Motif	148	151	.	.	.	Note=PPxY motif 1	
+Q9NV92	UniProtKB	Motif	174	177	.	.	.	Note=PPxY motif 2	
+Q9NV92	UniProtKB	Motif	184	186	.	.	.	Note=PPxY motif 3	
+Q9NV92	UniProtKB	Site	186	186	.	.	.	Note=Not phosphorylated by SRC	
+Q9NV92	UniProtKB	Modified residue	151	151	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534535;Dbxref=PMID:20534535	
+Q9NV92	UniProtKB	Modified residue	167	167	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534535;Dbxref=PMID:20534535	
+Q9NV92	UniProtKB	Modified residue	171	171	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534535;Dbxref=PMID:20534535	
+Q9NV92	UniProtKB	Modified residue	177	177	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534535;Dbxref=PMID:20534535	
+Q9NV92	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_061687;Note=P->S;Dbxref=dbSNP:rs55887763	
+Q9NV92	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_023414;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10574461,ECO:0000269|PubMed:12761501,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11549502,PMID:10574461,PMID:12761501,PMID:15489334	
+Q9NV92	UniProtKB	Mutagenesis	150	151	.	.	.	Note=Loss of E3 ubiquitin-protein ligase activation%3B when associated with 175-P--G-177 AND 184-P--G-186. Greatly decreases NEDD4-binding%3B when associated with 175-P--G-177 and 184-P--G-186. No effect on PTEN-binding%3B when associated with 175-P--G-177 AND 184-P--G-186. PY->AG	
+Q9NV92	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Loss of NDFIP2 phosphorylation by SRC. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20534535;Dbxref=PMID:20534535	
+Q9NV92	UniProtKB	Mutagenesis	176	177	.	.	.	Note=Loss of E3 ubiquitin-protein ligase activation%3B when associated with 149-P--G-151 AND 184-P--G-186. Greatly decreases NEDD4-binding%3B when associated with 149-P-G-151 AND 184-P--G-186. No effect on PTEN-binding%3B when associated with 149-P--G-151 AND 184-P--G-186. PY->AG	
+Q9NV92	UniProtKB	Mutagenesis	185	186	.	.	.	Note=Loss of E3 ubiquitin-protein ligase activation%3B when associated with 149-P--G-151 AND 175-P--G-177. Greatly decreases NEDD4-binding%3B when associated with 149-P--G-151 AND 175-P--G-177. No effect on PTEN-binding%3B when associated with 149-P--G-151 AND 175-P--G-177. TY->AG	

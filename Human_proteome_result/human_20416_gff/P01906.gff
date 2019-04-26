@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P01906 1 255
+P01906	UniProtKB	Signal peptide	1	23	.	.	.	.	
+P01906	UniProtKB	Chain	24	255	.	.	.	ID=PRO_0000018973;Note=HLA class II histocompatibility antigen%2C DQ alpha 2 chain	
+P01906	UniProtKB	Topological domain	24	217	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01906	UniProtKB	Transmembrane	218	240	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01906	UniProtKB	Topological domain	241	255	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01906	UniProtKB	Domain	113	205	.	.	.	Note=Ig-like C1-type	
+P01906	UniProtKB	Region	24	110	.	.	.	Note=Alpha-1	
+P01906	UniProtKB	Region	111	204	.	.	.	Note=Alpha-2	
+P01906	UniProtKB	Region	205	217	.	.	.	Note=Connecting peptide	
+P01906	UniProtKB	Glycosylation	104	104	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01906	UniProtKB	Glycosylation	144	144	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01906	UniProtKB	Disulfide bond	133	189	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01906	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_033431;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14574404;Dbxref=dbSNP:rs9276436,PMID:14574404	
+P01906	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_050392;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14574404;Dbxref=dbSNP:rs2071800,PMID:14574404	
+P01906	UniProtKB	Sequence conflict	84	84	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01906	UniProtKB	Sequence conflict	101	101	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01906	UniProtKB	Sequence conflict	101	101	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,85 @@
+##gff-version 3
+##sequence-region P14923 1 745
+P14923	UniProtKB	Chain	1	745	.	.	.	ID=PRO_0000064278;Note=Junction plakoglobin	
+P14923	UniProtKB	Repeat	132	171	.	.	.	Note=ARM 1	
+P14923	UniProtKB	Repeat	172	215	.	.	.	Note=ARM 2	
+P14923	UniProtKB	Repeat	216	255	.	.	.	Note=ARM 3	
+P14923	UniProtKB	Repeat	258	297	.	.	.	Note=ARM 4	
+P14923	UniProtKB	Repeat	298	341	.	.	.	Note=ARM 5	
+P14923	UniProtKB	Repeat	342	381	.	.	.	Note=ARM 6	
+P14923	UniProtKB	Repeat	383	420	.	.	.	Note=ARM 7	
+P14923	UniProtKB	Repeat	423	464	.	.	.	Note=ARM 8	
+P14923	UniProtKB	Repeat	470	510	.	.	.	Note=ARM 9	
+P14923	UniProtKB	Repeat	512	551	.	.	.	Note=ARM 10	
+P14923	UniProtKB	Repeat	574	613	.	.	.	Note=ARM 11	
+P14923	UniProtKB	Repeat	615	661	.	.	.	Note=ARM 12	
+P14923	UniProtKB	Region	132	297	.	.	.	Note=Interaction with DSC1 and DSG1	
+P14923	UniProtKB	Region	574	661	.	.	.	Note=Interaction with DSC1	
+P14923	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:22223895,ECO:0000269|Ref.8;Dbxref=PMID:22223895	
+P14923	UniProtKB	Modified residue	99	99	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P14923	UniProtKB	Modified residue	125	125	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P14923	UniProtKB	Modified residue	182	182	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:24275569	
+P14923	UniProtKB	Modified residue	665	665	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231;Dbxref=PMID:17081983,PMID:20068231	
+P14923	UniProtKB	Modified residue	730	730	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P14923	UniProtKB	Glycosylation	14	14	.	.	.	Note=O-linked (GlcNAc) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_065698;Note=In ARVD12. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20031617;Dbxref=dbSNP:rs570878629,PMID:20031617	
+P14923	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_037803;Note=In ARVD12%3B affects the structure and distribution of mechanical and electrical cell junctions. S->SS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17924338;Dbxref=PMID:17924338	
+P14923	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_065699;Note=R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19863551,ECO:0000269|PubMed:20031617;Dbxref=dbSNP:rs41283425,PMID:19863551,PMID:20031617	
+P14923	UniProtKB	Natural variant	648	648	.	.	.	ID=VAR_065700;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20031617;Dbxref=dbSNP:rs143043662,PMID:20031617	
+P14923	UniProtKB	Natural variant	697	697	.	.	.	ID=VAR_037804;Note=M->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10902626,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:19863551,ECO:0000269|PubMed:20031617,ECO:0000269|Ref.4,ECO:0000269|Ref.6;Dbxref=dbSNP:rs1126821,PMID:10902626,PMID:15489334,PMID:19863551,PMID:20031617	
+P14923	UniProtKB	Mutagenesis	14	14	.	.	.	Note=Abolishes glycosylation. Does not affect binding to CDH1%2C DSC1 or DSG1. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Reduces glycosylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Does not affect glycosylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Does not affect glycosylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Does not affect glycosylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Does not affect glycosylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12847106;Dbxref=PMID:12847106	
+P14923	UniProtKB	Sequence conflict	91	91	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P14923	UniProtKB	Sequence conflict	264	270	.	.	.	Note=VRLADGL->CAGRRA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P14923	UniProtKB	Helix	127	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	133	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	144	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	156	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	173	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	183	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	199	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	216	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	227	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	234	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	240	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	260	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	269	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	274	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	282	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	300	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	311	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	325	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	344	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	353	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	359	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	366	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	390	397	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Turn	398	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	405	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Turn	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	423	429	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Turn	430	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	434	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	449	462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Beta strand	464	466	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	469	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Turn	478	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	481	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	488	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	495	508	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	512	514	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	515	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	523	543	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	556	570	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	574	582	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	586	592	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	598	611	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	615	623	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Turn	624	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	627	633	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	639	651	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	
+P14923	UniProtKB	Helix	662	667	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IFQ	

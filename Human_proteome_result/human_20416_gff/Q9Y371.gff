@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q9Y371 1 365
+Q9Y371	UniProtKB	Chain	1	365	.	.	.	ID=PRO_0000146753;Note=Endophilin-B1	
+Q9Y371	UniProtKB	Domain	27	261	.	.	.	Note=BAR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00361	
+Q9Y371	UniProtKB	Domain	305	365	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q9Y371	UniProtKB	Region	1	37	.	.	.	Note=Required for membrane binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21068542;Dbxref=PMID:21068542	
+Q9Y371	UniProtKB	Region	1	30	.	.	.	Note=Membrane-binding amphipathic helix	
+Q9Y371	UniProtKB	Coiled coil	155	195	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y371	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9Y371	UniProtKB	Modified residue	145	145	.	.	.	Note=Phosphothreonine%3B by CDK5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21499257;Dbxref=PMID:21499257	
+Q9Y371	UniProtKB	Alternative sequence	1	100	.	.	.	ID=VSP_044895;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y371	UniProtKB	Alternative sequence	190	190	.	.	.	ID=VSP_009276;Note=In isoform 2. S->SQLNSARLEGDNIMIWAEEVTK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12456676;Dbxref=PMID:12456676	
+Q9Y371	UniProtKB	Mutagenesis	8	8	.	.	.	Note=Abolishes interaction with BAX. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11161816;Dbxref=PMID:11161816	
+Q9Y371	UniProtKB	Mutagenesis	145	145	.	.	.	Note=Reduced CDK5-mediated phosphorylation and impaired dimerization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21499257;Dbxref=PMID:21499257	
+Q9Y371	UniProtKB	Mutagenesis	145	145	.	.	.	Note=Spontaneous dimerization. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21499257;Dbxref=PMID:21499257	

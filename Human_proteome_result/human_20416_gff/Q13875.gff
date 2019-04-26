@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region Q13875 1 183
+Q13875	UniProtKB	Chain	1	183	.	.	.	ID=PRO_0000281025;Note=Myelin-associated oligodendrocyte basic protein	
+Q13875	UniProtKB	Repeat	97	106	.	.	.	Note=1	
+Q13875	UniProtKB	Repeat	107	116	.	.	.	Note=2	
+Q13875	UniProtKB	Repeat	117	126	.	.	.	Note=3	
+Q13875	UniProtKB	Repeat	127	136	.	.	.	Note=4	
+Q13875	UniProtKB	Region	97	136	.	.	.	Note=4 X 10 AA tandem repeats of P-R-S-P-P-R-S-E-R-Q	
+Q13875	UniProtKB	Compositional bias	77	168	.	.	.	Note=Pro-rich	
+Q13875	UniProtKB	Modified residue	99	99	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63327	
+Q13875	UniProtKB	Modified residue	109	109	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63327	
+Q13875	UniProtKB	Alternative sequence	68	68	.	.	.	ID=VSP_055152;Note=In isoform 4. T->TSSCQRRLSSRGEPWLPPPASFGPL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13875	UniProtKB	Alternative sequence	70	81	.	.	.	ID=VSP_023933;Note=In isoform 3. TSRRAKSPQRPK->LKRKIRPTPKKK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13875	UniProtKB	Alternative sequence	82	183	.	.	.	ID=VSP_023934;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q13875	UniProtKB	Alternative sequence	183	183	.	.	.	ID=VSP_023935;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:7989345;Dbxref=PMID:14702039,PMID:7989345	
+Q13875	UniProtKB	Sequence conflict	28	28	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13875	UniProtKB	Sequence conflict	40	40	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13875	UniProtKB	Sequence conflict	76	76	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

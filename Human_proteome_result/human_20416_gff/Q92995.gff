@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q92995 1 863
+Q92995	UniProtKB	Chain	1	863	.	.	.	ID=PRO_0000080635;Note=Ubiquitin carboxyl-terminal hydrolase 13	
+Q92995	UniProtKB	Domain	336	861	.	.	.	Note=USP	
+Q92995	UniProtKB	Domain	652	693	.	.	.	Note=UBA 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00212	
+Q92995	UniProtKB	Domain	727	767	.	.	.	Note=UBA 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00212	
+Q92995	UniProtKB	Zinc finger	209	281	.	.	.	Note=UBP-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00502	
+Q92995	UniProtKB	Active site	345	345	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92995	UniProtKB	Active site	823	823	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10092,ECO:0000255|PROSITE-ProRule:PRU10093	
+Q92995	UniProtKB	Modified residue	114	114	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q92995	UniProtKB	Modified residue	122	122	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:19690332,PMID:21406692	
+Q92995	UniProtKB	Cross-link	311	311	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q92995	UniProtKB	Cross-link	405	405	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q92995	UniProtKB	Alternative sequence	1	65	.	.	.	ID=VSP_043954;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92995	UniProtKB	Mutagenesis	221	221	.	.	.	Note=Does not abolish ability to stabilize SIAH2. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Mutagenesis	233	233	.	.	.	Note=Does not abolish ability to stabilize SIAH2. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Mutagenesis	273	273	.	.	.	Note=Impairs ability to stabilize SIAH2. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Mutagenesis	345	345	.	.	.	Note=Abolishes deubiquitinating activity. Does not abolish ability to stabilize SIAH2. Does not abolish ability to stabilize SIAH2%3B when associated with A-814 and A-823. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21659512,ECO:0000269|PubMed:21811243;Dbxref=PMID:21659512,PMID:21811243	
+Q92995	UniProtKB	Mutagenesis	664	664	.	.	.	Note=Impairs ability to stabilize SIAH2. Abolishes ability to stabilize SIAH2%3B when associated with E-739. M->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Mutagenesis	739	739	.	.	.	Note=Impairs ability to stabilize SIAH2. Abolishes ability to stabilize SIAH2%3B when associated with E-664. M->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Mutagenesis	814	814	.	.	.	Note=Does not abolish ability to stabilize SIAH2%3B when associated with A-345 and A-823. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Mutagenesis	823	823	.	.	.	Note=Does not abolish ability to stabilize SIAH2%3B when associated with A-345 and A-814. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21659512;Dbxref=PMID:21659512	
+Q92995	UniProtKB	Sequence conflict	96	96	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92995	UniProtKB	Sequence conflict	293	293	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92995	UniProtKB	Sequence conflict	305	305	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92995	UniProtKB	Sequence conflict	325	325	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92995	UniProtKB	Sequence conflict	338	338	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92995	UniProtKB	Turn	191	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Beta strand	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Beta strand	217	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Turn	224	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Beta strand	229	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Helix	244	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Beta strand	256	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Beta strand	269	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Turn	273	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Beta strand	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Helix	284	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Helix	296	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L80	
+Q92995	UniProtKB	Helix	656	662	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Helix	669	678	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Helix	683	692	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Helix	693	695	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Beta strand	697	700	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Beta strand	710	714	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Helix	730	739	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Helix	743	753	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	
+Q92995	UniProtKB	Helix	757	765	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LBC	

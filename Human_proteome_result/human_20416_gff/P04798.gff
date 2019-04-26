@@ -1,0 +1,74 @@
+##gff-version 3
+##sequence-region P04798 1 512
+P04798	UniProtKB	Chain	1	512	.	.	.	ID=PRO_0000051627;Note=Cytochrome P450 1A1	
+P04798	UniProtKB	Region	29	40	.	.	.	Note=Mitochondrial targeting signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00185	
+P04798	UniProtKB	Metal binding	457	457	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23508959;Dbxref=PMID:23508959	
+P04798	UniProtKB	Binding site	224	224	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23508959;Dbxref=PMID:23508959	
+P04798	UniProtKB	Glycosylation	67	67	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P04798	UniProtKB	Alternative sequence	1	261	.	.	.	ID=VSP_053363;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P04798	UniProtKB	Alternative sequence	189	189	.	.	.	ID=VSP_053364;Note=In isoform 2. Y->T;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P04798	UniProtKB	Alternative sequence	190	512	.	.	.	ID=VSP_053365;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P04798	UniProtKB	Alternative sequence	419	512	.	.	.	ID=VSP_053366;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P04798	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_023194;Note=G->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15469410,ECO:0000269|PubMed:15643613,ECO:0000269|Ref.6;Dbxref=dbSNP:rs4646422,PMID:15469410,PMID:15643613	
+P04798	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_033817;Note=M->V;Dbxref=dbSNP:rs35035798	
+P04798	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_023195;Note=I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15469410,ECO:0000269|PubMed:15643613;Dbxref=dbSNP:rs17861094,PMID:15469410,PMID:15643613	
+P04798	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_024706;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469410;Dbxref=dbSNP:rs2229150,PMID:15469410	
+P04798	UniProtKB	Natural variant	173	173	.	.	.	ID=VAR_024707;Note=T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469410;Dbxref=dbSNP:rs28399427,PMID:15469410	
+P04798	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_009280;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10739168;Dbxref=dbSNP:rs34260157,PMID:10739168	
+P04798	UniProtKB	Natural variant	286	286	.	.	.	ID=VAR_020122;Note=I->T;Dbxref=dbSNP:rs4987133	
+P04798	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_016937;Note=In allele CYP1A1*6. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11295847;Dbxref=dbSNP:rs56313657,PMID:11295847	
+P04798	UniProtKB	Natural variant	448	448	.	.	.	ID=VAR_016938;Note=In allele CYP1A1*8. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15618738;Dbxref=dbSNP:rs72547509,PMID:15618738	
+P04798	UniProtKB	Natural variant	461	461	.	.	.	ID=VAR_008342;Note=In allele CYP1A1*4. T->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15469410,ECO:0000269|PubMed:15643613,ECO:0000269|PubMed:8895751;Dbxref=dbSNP:rs1799814,PMID:15469410,PMID:15643613,PMID:8895751	
+P04798	UniProtKB	Natural variant	462	462	.	.	.	ID=VAR_001243;Note=In allele CYP1A1*2B and allele CYP1A1*2C. I->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15643613,ECO:0000269|PubMed:1722803;Dbxref=dbSNP:rs1048943,PMID:15643613,PMID:1722803	
+P04798	UniProtKB	Natural variant	464	464	.	.	.	ID=VAR_016939;Note=In allele CYP1A1*9. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15618738;Dbxref=dbSNP:rs41279188,PMID:15618738	
+P04798	UniProtKB	Natural variant	464	464	.	.	.	ID=VAR_016940;Note=In allele CYP1A1*5. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11295847;Dbxref=dbSNP:rs41279188,PMID:11295847	
+P04798	UniProtKB	Natural variant	470	470	.	.	.	ID=VAR_033818;Note=F->V;Dbxref=dbSNP:rs36121583	
+P04798	UniProtKB	Natural variant	477	477	.	.	.	ID=VAR_016941;Note=In allele CYP1A1*10. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15618738,ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs56240201,PMID:15618738,PMID:16959974	
+P04798	UniProtKB	Natural variant	482	482	.	.	.	ID=VAR_024708;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469410;Dbxref=dbSNP:rs28399429,PMID:15469410	
+P04798	UniProtKB	Natural variant	492	492	.	.	.	ID=VAR_016942;Note=In allele CYP1A1*11. P->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15469410,ECO:0000269|PubMed:15618738;Dbxref=dbSNP:rs28399430,PMID:15469410,PMID:15618738	
+P04798	UniProtKB	Sequence conflict	26	26	.	.	.	Note=I->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04798	UniProtKB	Sequence conflict	235	235	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04798	UniProtKB	Sequence conflict	381	381	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04798	UniProtKB	Turn	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	52	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	59	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	72	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	81	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	89	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Turn	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	110	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Turn	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	129	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	154	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DWM	
+P04798	UniProtKB	Helix	158	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	186	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	212	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	219	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	224	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	233	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	238	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	246	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	281	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	300	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	304	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	310	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	337	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	353	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DWN	
+P04798	UniProtKB	Helix	359	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	366	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	394	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	399	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	406	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	411	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Turn	418	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	429	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	435	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	441	444	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	453	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Helix	460	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	478	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	495	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	
+P04798	UniProtKB	Beta strand	506	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4I8V	

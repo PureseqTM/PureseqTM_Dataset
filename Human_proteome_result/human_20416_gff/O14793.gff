@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region O14793 1 375
+O14793	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14793	UniProtKB	Propeptide	24	266	.	.	.	ID=PRO_0000033950;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14793	UniProtKB	Chain	267	375	.	.	.	ID=PRO_0000033951;Note=Growth/differentiation factor 8	
+O14793	UniProtKB	Site	98	99	.	.	.	Note=Cleavage;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08689	
+O14793	UniProtKB	Glycosylation	71	71	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14793	UniProtKB	Disulfide bond	272	282	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5F3B,ECO:0000244|PDB:5F3H,ECO:0000269|PubMed:27625211;Dbxref=PMID:27625211	
+O14793	UniProtKB	Disulfide bond	281	340	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5F3B,ECO:0000244|PDB:5F3H,ECO:0000269|PubMed:27625211;Dbxref=PMID:27625211	
+O14793	UniProtKB	Disulfide bond	309	372	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5F3B,ECO:0000244|PDB:5F3H,ECO:0000269|PubMed:27625211;Dbxref=PMID:27625211	
+O14793	UniProtKB	Disulfide bond	313	374	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5F3B,ECO:0000244|PDB:5F3H,ECO:0000269|PubMed:27625211;Dbxref=PMID:27625211	
+O14793	UniProtKB	Disulfide bond	339	339	.	.	.	Note=Interchain;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5F3B,ECO:0000244|PDB:5F3H,ECO:0000269|PubMed:27625211;Dbxref=PMID:27625211	
+O14793	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_014475;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17186467;Dbxref=dbSNP:rs1805085,PMID:17186467	
+O14793	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_014476;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17186467;Dbxref=dbSNP:rs1805086,PMID:17186467	
+O14793	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_052575;Note=I->T;Dbxref=dbSNP:rs34780010	
+O14793	UniProtKB	Natural variant	371	371	.	.	.	ID=VAR_052576;Note=R->G;Dbxref=dbSNP:rs16823988	
+O14793	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Decreases SMAD3 protein signal transduction%3B when associated with L-268. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	268	268	.	.	.	Note=Decreases SMAD3 protein signal transduction%3B when associated with N-267. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	312	312	.	.	.	Note=Slightly decreased SMAD3 protein signal transduction. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	315	315	.	.	.	Note=Increases SMAD3 protein signal transduction%3B when associated with M-316 and M-318. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	316	316	.	.	.	Note=Increases SMAD3 protein signal transduction%3B when associated with Y-315 and M-318. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	318	318	.	.	.	Note=Increases SMAD3 protein signal transduction%3B when associated with Y-315 and M-316. L->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	328	328	.	.	.	Note=Increases SMAD3 protein signal transduction. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	355	355	.	.	.	Note=Increases SMAD3 protein signal transduction%3B when associated with Q-357. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	357	357	.	.	.	Note=Increases SMAD3 protein signal transduction%3B when associated with D-355. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Mutagenesis	366	366	.	.	.	Note=Increases SMAD3 protein signal transduction. A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28257634;Dbxref=PMID:28257634	
+O14793	UniProtKB	Helix	47	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Helix	74	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Helix	85	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	114	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Helix	148	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	151	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	167	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	185	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	202	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Helix	209	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Turn	217	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	223	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	252	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NTU	
+O14793	UniProtKB	Beta strand	280	284	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	287	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Helix	290	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	298	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	302	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	308	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Helix	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Helix	321	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	335	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	340	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	
+O14793	UniProtKB	Beta strand	359	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5F3B	

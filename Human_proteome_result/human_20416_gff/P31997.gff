@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region P31997 1 349
+P31997	UniProtKB	Signal peptide	1	34	.	.	.	.	
+P31997	UniProtKB	Chain	35	320	.	.	.	ID=PRO_0000014572;Note=Carcinoembryonic antigen-related cell adhesion molecule 8	
+P31997	UniProtKB	Propeptide	321	349	.	.	.	ID=PRO_0000014573;Note=Removed in mature form	
+P31997	UniProtKB	Domain	35	142	.	.	.	Note=Ig-like V-type;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255,ECO:0000305|PubMed:2208113;Dbxref=PMID:2208113	
+P31997	UniProtKB	Domain	145	232	.	.	.	Note=Ig-like C2-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P31997	UniProtKB	Domain	237	319	.	.	.	Note=Ig-like C2-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P31997	UniProtKB	Lipidation	320	320	.	.	.	Note=GPI-anchor amidated aspartate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2208113;Dbxref=PMID:2208113	
+P31997	UniProtKB	Glycosylation	104	104	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	111	111	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	115	115	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	152	152	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	173	173	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	197	197	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	224	224	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	256	256	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	274	274	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Glycosylation	288	288	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00498,ECO:0000269|PubMed:16740002;Dbxref=PMID:16740002	
+P31997	UniProtKB	Glycosylation	309	309	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00498	
+P31997	UniProtKB	Disulfide bond	167	215	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P31997	UniProtKB	Disulfide bond	259	299	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P31997	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_049849;Note=G->V;Dbxref=dbSNP:rs28367882	
+P31997	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_049850;Note=A->V;Dbxref=dbSNP:rs35221575	
+P31997	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_011721;Note=R->K;Dbxref=dbSNP:rs1041997	
+P31997	UniProtKB	Natural variant	322	322	.	.	.	ID=VAR_049851;Note=L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2306228;Dbxref=dbSNP:rs1126458,PMID:2306228	
+P31997	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_049852;Note=I->M;Dbxref=dbSNP:rs8103051	
+P31997	UniProtKB	Mutagenesis	40	45	.	.	.	Note=No effect on heterophilic cell adhesion. AVPSNA->STPFNV;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	61	63	.	.	.	Note=No effect on heterophilic cell adhesion. DPR->NRI;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	66	66	.	.	.	Note=Inhibits heterophilic cell adhesion. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	72	75	.	.	.	Note=No effect on heterophilic cell adhesion. TVDA->RVDG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Does not affect the monomeric structure. Loss of heterodimerization with CEACAM6. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26483485;Dbxref=PMID:26483485	
+P31997	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Inhibits heterophilic cell adhesion. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	85	89	.	.	.	Note=No effect on heterophilic cell adhesion. SNQQI->GTQQA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	97	97	.	.	.	Note=No effect on heterophilic cell adhesion. N->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11590190;Dbxref=PMID:11590190	
+P31997	UniProtKB	Mutagenesis	123	123	.	.	.	Note=Does not affect the monomeric structure. Decreases heterodimerization with CEACAM6. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26483485;Dbxref=PMID:26483485	
+P31997	UniProtKB	Mutagenesis	129	129	.	.	.	Note=Does not affect the monomeric structure. Loss of heterodimerization with CEACAM6. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26483485;Dbxref=PMID:26483485	
+P31997	UniProtKB	Beta strand	37	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	51	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	64	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Helix	75	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	78	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Turn	84	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	88	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Helix	114	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Beta strand	118	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	
+P31997	UniProtKB	Turn	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DKS	
+P31997	UniProtKB	Beta strand	131	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y88	

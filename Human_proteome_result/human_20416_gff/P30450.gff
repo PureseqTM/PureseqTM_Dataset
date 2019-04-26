@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region P30450 1 365
+P30450	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30450	UniProtKB	Chain	25	365	.	.	.	ID=PRO_0000018820;Note=HLA class I histocompatibility antigen%2C A-26 alpha chain	
+P30450	UniProtKB	Topological domain	25	308	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30450	UniProtKB	Transmembrane	309	332	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30450	UniProtKB	Topological domain	333	365	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30450	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P30450	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30450	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30450	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30450	UniProtKB	Region	299	308	.	.	.	Note=Connecting peptide	
+P30450	UniProtKB	Modified residue	343	343	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Modified residue	344	344	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Modified residue	345	345	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Modified residue	350	350	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01892	
+P30450	UniProtKB	Modified residue	352	352	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Modified residue	356	356	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Modified residue	359	359	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P30450	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30450	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30450	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30450	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_016341;Note=In allele A*26:15. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.12;Dbxref=dbSNP:rs3173429	
+P30450	UniProtKB	Natural variant	86	87	.	.	.	ID=VAR_016342;Note=In allele A*26:07. RN->GE;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8795143,ECO:0000269|Ref.13;Dbxref=PMID:8795143	
+P30450	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_050321;Note=R->G;Dbxref=dbSNP:rs199474430	
+P30450	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_016343;Note=In allele A*26:07. N->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8795143,ECO:0000269|Ref.13;Dbxref=dbSNP:rs199474436,PMID:8795143	
+P30450	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_050322;Note=H->Q;Dbxref=dbSNP:rs78306866	
+P30450	UniProtKB	Natural variant	98	101	.	.	.	ID=VAR_004362;Note=In allele A*26:03. DRAN->HRVD;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:21269460,ECO:0000244|PubMed:25944712,ECO:0000269|PubMed:8026990,ECO:0000269|PubMed:8838351;Dbxref=PMID:21269460,PMID:25944712,PMID:8026990,PMID:8838351	
+P30450	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_016344;Note=In allele A*26:05. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs1071742	
+P30450	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_050323;Note=N->D;Dbxref=dbSNP:rs1136688	
+P30450	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_050324;Note=P->S;Dbxref=dbSNP:rs1136700	
+P30450	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_050325;Note=G->W;Dbxref=dbSNP:rs1136702	
+P30450	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_050326;Note=F->L;Dbxref=dbSNP:rs1059488	
+P30450	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_004364;Note=In allele A*26:02. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8026990,ECO:0000269|PubMed:8475492;Dbxref=dbSNP:rs3173419,PMID:8026990,PMID:8475492	
+P30450	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_050327;Note=N->K;Dbxref=dbSNP:rs1059509	
+P30450	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_050328;Note=I->T;Dbxref=dbSNP:rs1059516	
+P30450	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_050329;Note=R->H;Dbxref=dbSNP:rs1059520	
+P30450	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_016345;Note=In allele A*26:12. E->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11098929,ECO:0000269|PubMed:11260503;Dbxref=dbSNP:rs9256983,PMID:11098929,PMID:11260503	
+P30450	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_016346;Note=In allele A*26:08%3B requires 2 nucleotide substitutions. W->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8896181,ECO:0000269|Ref.9;Dbxref=PMID:8896181	
+P30450	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_050330;Note=W->R;Dbxref=dbSNP:rs9260155	
+P30450	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_050331;Note=E->D;Dbxref=dbSNP:rs1059542	
+P30450	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_004363;Note=In allele A*26:04. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8026990;Dbxref=dbSNP:rs3129017,PMID:8026990	
+P30450	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_014603;Note=I->V;Dbxref=dbSNP:rs1136949	
+P30450	UniProtKB	Sequence conflict	153	153	.	.	.	Note=D->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30450	UniProtKB	Sequence conflict	160	160	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

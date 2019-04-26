@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region P20594 1 1047
+P20594	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Chain	23	1047	.	.	.	ID=PRO_0000012364;Note=Atrial natriuretic peptide receptor 2	
+P20594	UniProtKB	Topological domain	23	458	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Transmembrane	459	478	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Topological domain	479	1047	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Domain	513	786	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P20594	UniProtKB	Domain	861	991	.	.	.	Note=Guanylate cyclase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00099	
+P20594	UniProtKB	Modified residue	513	513	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20977274;Dbxref=PMID:20977274	
+P20594	UniProtKB	Modified residue	516	516	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20977274;Dbxref=PMID:20977274	
+P20594	UniProtKB	Modified residue	518	518	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20977274;Dbxref=PMID:20977274	
+P20594	UniProtKB	Modified residue	522	522	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P16066	
+P20594	UniProtKB	Modified residue	523	523	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20977274;Dbxref=PMID:20977274	
+P20594	UniProtKB	Modified residue	526	526	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20977274;Dbxref=PMID:20977274	
+P20594	UniProtKB	Modified residue	529	529	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20977274;Dbxref=PMID:20977274	
+P20594	UniProtKB	Glycosylation	24	24	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Glycosylation	35	35	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Glycosylation	161	161	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Glycosylation	195	195	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Glycosylation	244	244	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Glycosylation	277	277	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Glycosylation	349	349	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20594	UniProtKB	Disulfide bond	75	101	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20594	UniProtKB	Disulfide bond	439	439	.	.	.	Note=Interchain;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20594	UniProtKB	Disulfide bond	448	448	.	.	.	Note=Interchain;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20594	UniProtKB	Alternative sequence	964	1047	.	.	.	ID=VSP_001810;Note=In isoform Short. PVCAGVVGLKMPRYCLFGDTVNTASRMESNGQALKIHVSSTTKDALDELGCFQLELRGDVEMKGKGKMRTYWLLGERKGPPGLL->KADSHSSPSLHLSQTLPTCFFSKGQSVLGLLA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10073597;Dbxref=PMID:10073597	
+P20594	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_022583;Note=In AMDM. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=dbSNP:rs28931581,PMID:15146390	
+P20594	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_074678;Note=In SNSK%3B loss of C-type natriuretic peptide-induced signaling%3B dominant negative effect%3B loss of localization to the plasma membrane. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24001744;Dbxref=dbSNP:rs796065355,PMID:24001744	
+P20594	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_074679;Note=In SNSK%3B loss of C-type natriuretic peptide-induced signaling%3B dominant negative effect%3B retained in the endoplasmic reticulum. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24471569;Dbxref=dbSNP:rs758478717,PMID:24471569	
+P20594	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_022584;Note=In AMDM%3B markedly deficient activity. W->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=dbSNP:rs28931582,PMID:15146390	
+P20594	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_022585;Note=In AMDM. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=dbSNP:rs28929479,PMID:15146390	
+P20594	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_074680;Note=Rare polymorphism%3B does not affect C-type natriuretic peptide-induced signaling. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24471569;Dbxref=dbSNP:rs768423636,PMID:24471569	
+P20594	UniProtKB	Natural variant	232	232	.	.	.	ID=VAR_042219;Note=M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55747238,PMID:17344846	
+P20594	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_074681;Note=In SNSK%3B loss of C-type natriuretic peptide-induced signaling%3B dominant negative effect%3B loss of localization to the plasma membrane. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24001744;Dbxref=dbSNP:rs139036657,PMID:24001744	
+P20594	UniProtKB	Natural variant	297	297	.	.	.	ID=VAR_022586;Note=In AMDM%3B markedly deficient activity. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=dbSNP:rs1313765432,PMID:15146390	
+P20594	UniProtKB	Natural variant	338	338	.	.	.	ID=VAR_022587;Note=In AMDM. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=PMID:15146390	
+P20594	UniProtKB	Natural variant	409	409	.	.	.	ID=VAR_022588;Note=In AMDM. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=PMID:15146390	
+P20594	UniProtKB	Natural variant	413	413	.	.	.	ID=VAR_022589;Note=In AMDM%3B markedly deficient activity. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=PMID:15146390	
+P20594	UniProtKB	Natural variant	417	417	.	.	.	ID=VAR_074682;Note=In SNSK%3B loss of C-type natriuretic peptide-induced signaling%3B dominant negative effect%3B no effect on cell surface expression. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24471569;Dbxref=dbSNP:rs796065356,PMID:24471569	
+P20594	UniProtKB	Natural variant	488	488	.	.	.	ID=VAR_071875;Note=In ECDM%3B mutant and wild-type alleles have similar expression levels%3B the mutation results in increased guanylate cyclase activity. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24259409;Dbxref=dbSNP:rs587777597,PMID:24259409	
+P20594	UniProtKB	Natural variant	655	655	.	.	.	ID=VAR_071876;Note=In ECDM%3B the mutation results in increased guanylate cyclase activity. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24057292;Dbxref=dbSNP:rs587777596,PMID:24057292	
+P20594	UniProtKB	Natural variant	658	658	.	.	.	ID=VAR_076481;Note=In AMDM%3B no effect on subcellular location%3B changed glycosylation%3B no effect on C-type natriuretic peptide binding%3B decreased guanylate cyclase activity%3B loss of natriuretic peptide receptor activity%3B dominant negative effect. L->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17652215,ECO:0000269|PubMed:26980729;Dbxref=dbSNP:rs1314542724,PMID:17652215,PMID:26980729	
+P20594	UniProtKB	Natural variant	708	708	.	.	.	ID=VAR_022590;Note=In AMDM%3B no effect on subcellular location%3B changed glycosylation%3B no effect on C-type natriuretic peptide binding%3B decreased guanylate cyclase activity. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15146390,ECO:0000269|PubMed:26980729;Dbxref=dbSNP:rs1305337032,PMID:15146390,PMID:26980729	
+P20594	UniProtKB	Natural variant	771	771	.	.	.	ID=VAR_011968;Note=Q->E;Dbxref=dbSNP:rs5816	
+P20594	UniProtKB	Natural variant	776	776	.	.	.	ID=VAR_022591;Note=In AMDM%3B no effect on subcellular location%3B changed glycosylation%3B no effect on C-type natriuretic peptide binding%3B decreased guanylate cyclase activity. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15146390,ECO:0000269|PubMed:26980729;Dbxref=dbSNP:rs1303913631,PMID:15146390,PMID:26980729	
+P20594	UniProtKB	Natural variant	819	819	.	.	.	ID=VAR_074683;Note=In SNSK%3B loss of C-type natriuretic peptide-induced signaling%3B dominant negative effect%3B no effect on cell surface expression. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24001744;Dbxref=dbSNP:rs766256429,PMID:24001744	
+P20594	UniProtKB	Natural variant	882	882	.	.	.	ID=VAR_042220;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55700371,PMID:17344846	
+P20594	UniProtKB	Natural variant	882	882	.	.	.	ID=VAR_071877;Note=In ECDM%3B the mutation results in higher guanylate cyclase activity%3B causes a 15-fold increase in basal Vmax%3B has higher affinity for GTP than wild-type in the presence of NPPC%3B might lead to a structural change that locks the enzyme in a conformation mimicking the ATP-bound state. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22870295,ECO:0000269|PubMed:23827346;Dbxref=PMID:22870295,PMID:23827346	
+P20594	UniProtKB	Natural variant	957	957	.	.	.	ID=VAR_022592;Note=In AMDM. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146390;Dbxref=dbSNP:rs370158184,PMID:15146390	
+P20594	UniProtKB	Natural variant	959	959	.	.	.	ID=VAR_022593;Note=In AMDM%3B no effect on subcellular location%3B changed glycosylation%3B no effect on C-type natriuretic peptide binding%3B decreased guanylate cyclase activity. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15146390,ECO:0000269|PubMed:26980729;Dbxref=PMID:15146390,PMID:26980729	
+P20594	UniProtKB	Mutagenesis	24	24	.	.	.	Note=Decreased glycosylation. Decreased guanylate cyclase activity. N->D%2CQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26980729;Dbxref=PMID:26980729	
+P20594	UniProtKB	Sequence conflict	755	755	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

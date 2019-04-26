@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region P01375 1 233
+P01375	UniProtKB	Chain	1	233	.	.	.	ID=PRO_0000034423;Note=Tumor necrosis factor%2C membrane form	
+P01375	UniProtKB	Chain	1	39	.	.	.	ID=PRO_0000417231;Note=Intracellular domain 1	
+P01375	UniProtKB	Chain	1	35	.	.	.	ID=PRO_0000417232;Note=Intracellular domain 2	
+P01375	UniProtKB	Chain	77	233	.	.	.	ID=PRO_0000034424;Note=Tumor necrosis factor%2C soluble form;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3856324;Dbxref=PMID:3856324	
+P01375	UniProtKB	Topological domain	1	35	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01375	UniProtKB	Transmembrane	36	56	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01375	UniProtKB	Topological domain	57	233	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01375	UniProtKB	Site	35	36	.	.	.	Note=Cleavage%3B by SPPL2A or SPPL2B	
+P01375	UniProtKB	Site	39	40	.	.	.	Note=Cleavage%3B by SPPL2A or SPPL2B	
+P01375	UniProtKB	Site	49	50	.	.	.	Note=Cleavage%3B by SPPL2A or SPPL2B	
+P01375	UniProtKB	Site	51	52	.	.	.	Note=Cleavage%3B by SPPL2A or SPPL2B	
+P01375	UniProtKB	Site	76	77	.	.	.	Note=Cleavage%3B by ADAM17	
+P01375	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01375	UniProtKB	Lipidation	19	19	.	.	.	Note=N6-myristoyl lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1402651;Dbxref=PMID:1402651	
+P01375	UniProtKB	Lipidation	20	20	.	.	.	Note=N6-myristoyl lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1402651;Dbxref=PMID:1402651	
+P01375	UniProtKB	Glycosylation	80	80	.	.	.	Note=O-linked (GalNAc...) serine%3B in soluble form;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8631363;Dbxref=PMID:8631363	
+P01375	UniProtKB	Disulfide bond	145	177	.	.	.	.	
+P01375	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_019378;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13;Dbxref=dbSNP:rs4645843	
+P01375	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_011927;Note=A->T;Dbxref=dbSNP:rs1800620	
+P01375	UniProtKB	Mutagenesis	105	105	.	.	.	Note=Low activity. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Mutagenesis	108	108	.	.	.	Note=Biologically inactive. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Biologically inactive. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Biologically inactive. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Mutagenesis	162	162	.	.	.	Note=Biologically inactive. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Biologically inactive. V->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Mutagenesis	222	222	.	.	.	Note=Biologically inactive. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2009860;Dbxref=PMID:2009860	
+P01375	UniProtKB	Sequence conflict	63	63	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01375	UniProtKB	Sequence conflict	84	86	.	.	.	Note=PSD->VNR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01375	UniProtKB	Sequence conflict	183	183	.	.	.	Note=E->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01375	UniProtKB	Beta strand	89	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	96	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M2I	
+P01375	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZJC	
+P01375	UniProtKB	Beta strand	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M2J	
+P01375	UniProtKB	Beta strand	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	128	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	146	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2ZPX	
+P01375	UniProtKB	Beta strand	152	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	166	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	177	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1A8M	
+P01375	UniProtKB	Beta strand	182	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TSV	
+P01375	UniProtKB	Beta strand	189	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	207	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Helix	215	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	
+P01375	UniProtKB	Beta strand	221	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IT8	
+P01375	UniProtKB	Beta strand	225	232	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UUI	

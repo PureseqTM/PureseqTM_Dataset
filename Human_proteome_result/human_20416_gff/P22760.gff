@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P22760 1 399
+P22760	UniProtKB	Chain	1	399	.	.	.	ID=PRO_0000071542;Note=Arylacetamide deacetylase	
+P22760	UniProtKB	Topological domain	1	5	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22760	UniProtKB	Transmembrane	6	23	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22760	UniProtKB	Topological domain	24	399	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22760	UniProtKB	Motif	111	113	.	.	.	Note=Involved in the stabilization of the negatively charged intermediate by the formation of the oxyanion hole;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5NUF3	
+P22760	UniProtKB	Active site	189	189	.	.	.	Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q8BLF1,ECO:0000255|PROSITE-ProRule:PRU10038	
+P22760	UniProtKB	Active site	343	343	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BLF1	
+P22760	UniProtKB	Active site	373	373	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BLF1	
+P22760	UniProtKB	Glycosylation	78	78	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:24125761;Dbxref=PMID:19159218,PMID:24125761	
+P22760	UniProtKB	Glycosylation	282	282	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:24125761;Dbxref=PMID:19159218,PMID:24125761	
+P22760	UniProtKB	Disulfide bond	116	340	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22760	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_014798;Note=In alleles AADAC*2 and AADAC*3%3B mildly decreased enzyme activity. V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12721789,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:22415931,ECO:0000269|PubMed:8063807,ECO:0000269|Ref.4;Dbxref=dbSNP:rs1803155,PMID:12721789,PMID:14702039,PMID:22415931,PMID:8063807	
+P22760	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_070543;Note=In allele AADAC*3%3B decreased enzyme activity. L->LQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22415931;Dbxref=PMID:22415931	
+P22760	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Abolishes glycosylation at this site and causes moderate decrease in activity. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24125761;Dbxref=PMID:24125761	
+P22760	UniProtKB	Mutagenesis	282	282	.	.	.	Note=Abolishes glycosylation at this site and causes substantial decrease in activity and reduced substrate affinity. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24125761;Dbxref=PMID:24125761	
+P22760	UniProtKB	Sequence conflict	3	3	.	.	.	Note=R->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22760	UniProtKB	Sequence conflict	55	57	.	.	.	Note=LHH->VHI;Ontology_term=ECO:0000305;evidence=ECO:0000305	

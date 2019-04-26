@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region Q9Y282 1 383
+Q9Y282	UniProtKB	Chain	1	383	.	.	.	ID=PRO_0000097640;Note=Endoplasmic reticulum-Golgi intermediate compartment protein 3	
+Q9Y282	UniProtKB	Topological domain	1	25	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y282	UniProtKB	Transmembrane	26	46	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y282	UniProtKB	Topological domain	47	341	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y282	UniProtKB	Transmembrane	342	362	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y282	UniProtKB	Topological domain	363	383	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y282	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712;Dbxref=PMID:22814378,PMID:25944712	
+Q9Y282	UniProtKB	Modified residue	116	116	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y282	UniProtKB	Glycosylation	241	241	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+Q9Y282	UniProtKB	Glycosylation	266	266	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y282	UniProtKB	Alternative sequence	229	230	.	.	.	ID=VSP_008652;Note=In isoform 2. VH->GE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12747765;Dbxref=PMID:12747765	
+Q9Y282	UniProtKB	Alternative sequence	229	229	.	.	.	ID=VSP_019208;Note=In isoform 3. V->VHAVEI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y282	UniProtKB	Alternative sequence	231	383	.	.	.	ID=VSP_008653;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12747765;Dbxref=PMID:12747765	
+Q9Y282	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_048939;Note=I->L;Dbxref=dbSNP:rs35505616	
+Q9Y282	UniProtKB	Natural variant	297	297	.	.	.	ID=VAR_036553;Note=In a colorectal cancer sample%3B somatic mutation. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9Y282	UniProtKB	Sequence conflict	239	239	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

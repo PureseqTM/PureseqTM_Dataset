@@ -1,0 +1,127 @@
+##gff-version 3
+##sequence-region O75923 1 2080
+O75923	UniProtKB	Chain	1	2080	.	.	.	ID=PRO_0000057879;Note=Dysferlin	
+O75923	UniProtKB	Topological domain	1	2046	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75923	UniProtKB	Transmembrane	2047	2067	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75923	UniProtKB	Topological domain	2068	2080	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75923	UniProtKB	Domain	1	85	.	.	.	Note=C2 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Domain	207	302	.	.	.	Note=C2 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Domain	366	479	.	.	.	Note=C2 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Domain	1139	1244	.	.	.	Note=C2 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Domain	1336	1423	.	.	.	Note=C2 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Domain	1565	1663	.	.	.	Note=C2 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Domain	1813	1926	.	.	.	Note=C2 7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+O75923	UniProtKB	Compositional bias	1038	1097	.	.	.	Note=Arg-rich	
+O75923	UniProtKB	Metal binding	18	18	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24239457;Dbxref=PMID:24239457	
+O75923	UniProtKB	Metal binding	19	19	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24239457;Dbxref=PMID:24239457	
+O75923	UniProtKB	Metal binding	21	21	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24239457;Dbxref=PMID:24239457	
+O75923	UniProtKB	Metal binding	40	40	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24239457;Dbxref=PMID:24239457	
+O75923	UniProtKB	Modified residue	166	166	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O75923	UniProtKB	Alternative sequence	1	29	.	.	.	ID=VSP_035924;Note=In isoform 8%2C isoform 9%2C isoform 10%2C isoform 11%2C isoform 12%2C isoform 13 and isoform 14. MLRVFILYAENVHTPDTDISDAYCSAVFA->MLCCLLVRASNLPSAKKDRRSDPVASLTFR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:16896923,ECO:0000303|PubMed:19221801;Dbxref=PMID:16896923,PMID:19221801	
+O75923	UniProtKB	Alternative sequence	152	152	.	.	.	ID=VSP_035925;Note=In isoform 2%2C isoform 5%2C isoform 7%2C isoform 8%2C isoform 11 and isoform 13. A->AGGGQSRAETWSLLSDSTMDTRYSGKKWPAPT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19221801;Dbxref=PMID:19221801	
+O75923	UniProtKB	Alternative sequence	494	508	.	.	.	ID=VSP_035926;Note=In isoform 3%2C isoform 5%2C isoform 6%2C isoform 7%2C isoform 9%2C isoform 11%2C isoform 12%2C isoform 13 and isoform 15. EEPAGAVKPSKASDL->V;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:19221801,ECO:0000303|Ref.7;Dbxref=PMID:19221801	
+O75923	UniProtKB	Alternative sequence	1470	1470	.	.	.	ID=VSP_035927;Note=In isoform 4%2C isoform 6%2C isoform 7%2C isoform 10%2C isoform 12 and isoform 13. Q->QLADGLSSLAPTNTASPPSSPH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19221801;Dbxref=PMID:19221801	
+O75923	UniProtKB	Alternative sequence	1934	1968	.	.	.	ID=VSP_035928;Note=In isoform 15. KPAKTAKKCSLDQLDDAFHPEWFVSLFEQKTVKGW->SSASSSRPPRPDCPARVGRQTDGPAHTPRVANMEL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+O75923	UniProtKB	Alternative sequence	1969	2080	.	.	.	ID=VSP_035929;Note=In isoform 15. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+O75923	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_057834;Note=In LGMDR2. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_057835;Note=In MMD1 and LGMDR2%3B Reduces calcium-sensitive phospholipid binding and interaction with AHNAK and AHNAK2. V->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11134403,ECO:0000269|PubMed:11959863,ECO:0000269|PubMed:17185750;Dbxref=dbSNP:rs121908957,PMID:11134403,PMID:11959863,PMID:17185750	
+O75923	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_057836;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs772008300,PMID:18853459	
+O75923	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_057837;Note=In LGMDR2. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs200970855,PMID:18853459	
+O75923	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_024853;Note=In MMD1 and LGMDR2%3B also found in patients with isolated hyperCKemia. A->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:16100712,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs34999029,PMID:16010686,PMID:16100712,PMID:18853459	
+O75923	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_024854;Note=L->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs13407355,PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	234	234	.	.	.	ID=VAR_057838;Note=In LGMDR2. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs141497053,PMID:18853459	
+O75923	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_024855;Note=Found in patients with isolated hyperCKemia. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs149827237,PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_024856;Note=In pseudometabolic myopathy. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	284	284	.	.	.	ID=VAR_057839;Note=In LGMDR2. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_024857;Note=In MMD1. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs1258728780,PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_057840;Note=In LGMDR2 and proximodistal myopathy. G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16705711,ECO:0000269|PubMed:18306167,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs121908963,PMID:16705711,PMID:18306167,PMID:18853459	
+O75923	UniProtKB	Natural variant	299	299	.	.	.	ID=VAR_057841;Note=In MMD1. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18306167;Dbxref=dbSNP:rs121908963,PMID:18306167	
+O75923	UniProtKB	Natural variant	335	335	.	.	.	ID=VAR_057842;Note=G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_057843;Note=In proximodistal myopathy. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs766891289,PMID:18853459	
+O75923	UniProtKB	Natural variant	374	374	.	.	.	ID=VAR_057844;Note=In MMD1%3B unknown pathological significance. V->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16100712,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs150724610,PMID:16100712,PMID:18853459	
+O75923	UniProtKB	Natural variant	386	390	.	.	.	ID=VAR_057845;Note=In MMD1. FRAED->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	389	389	.	.	.	ID=VAR_057846;Note=In MMD1. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15515206;Dbxref=PMID:15515206	
+O75923	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_057847;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs886042389,PMID:18853459	
+O75923	UniProtKB	Natural variant	426	426	.	.	.	ID=VAR_057848;Note=In MMD1. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs886042093,PMID:18853459	
+O75923	UniProtKB	Natural variant	426	426	.	.	.	ID=VAR_057849;Note=In MMD1. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15477515;Dbxref=PMID:15477515	
+O75923	UniProtKB	Natural variant	456	456	.	.	.	ID=VAR_024858;Note=In MMD1. C->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	519	519	.	.	.	ID=VAR_057850;Note=In MMD1. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17287450;Dbxref=dbSNP:rs121908962,PMID:17287450	
+O75923	UniProtKB	Natural variant	555	555	.	.	.	ID=VAR_024859;Note=In LGMDR2 and MMD1%3B also found in patients with isolated hyperCKemia. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs377735262,PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	618	618	.	.	.	ID=VAR_057851;Note=In MMD1 and LGMDR2. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15469449,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs201049092,PMID:15469449,PMID:18853459	
+O75923	UniProtKB	Natural variant	621	621	.	.	.	ID=VAR_057852;Note=In LGMDR2. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100712;Dbxref=dbSNP:rs886043900,PMID:16100712	
+O75923	UniProtKB	Natural variant	625	625	.	.	.	ID=VAR_057853;Note=In LGMDR2. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17287450;Dbxref=dbSNP:rs121908960,PMID:17287450	
+O75923	UniProtKB	Natural variant	731	731	.	.	.	ID=VAR_057854;Note=In LGMDR2. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	791	791	.	.	.	ID=VAR_012308;Note=In MMD1 and LGMDR2. P->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10196377,ECO:0000269|PubMed:16996541;Dbxref=dbSNP:rs121908956,PMID:10196377,PMID:16996541	
+O75923	UniProtKB	Natural variant	819	819	.	.	.	ID=VAR_057855;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs748636047,PMID:18853459	
+O75923	UniProtKB	Natural variant	834	834	.	.	.	ID=VAR_049055;Note=I->V;Dbxref=dbSNP:rs34671418	
+O75923	UniProtKB	Natural variant	930	930	.	.	.	ID=VAR_057856;Note=In LGMDR2%3B unknown pathological significance. W->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16996541,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs727503910,PMID:16996541,PMID:18853459	
+O75923	UniProtKB	Natural variant	959	959	.	.	.	ID=VAR_024860;Note=In MMD1 and LGMDR2. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14678801,ECO:0000269|PubMed:16100712;Dbxref=dbSNP:rs202218890,PMID:14678801,PMID:16100712	
+O75923	UniProtKB	Natural variant	999	999	.	.	.	ID=VAR_057857;Note=In MMD1. W->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12796534,ECO:0000269|Ref.28;Dbxref=dbSNP:rs28937581,PMID:12796534	
+O75923	UniProtKB	Natural variant	1022	1022	.	.	.	ID=VAR_024861;Note=In LGMDR2%3B unknown pathological significance. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14678801,ECO:0000269|PubMed:15469449,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs34211915,PMID:14678801,PMID:15469449,PMID:18853459	
+O75923	UniProtKB	Natural variant	1029	1029	.	.	.	ID=VAR_057858;Note=In MMD1. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	1038	1038	.	.	.	ID=VAR_024862;Note=In LGMDR2. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14678801,ECO:0000269|PubMed:16100712,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs150877497,PMID:14678801,PMID:16100712,PMID:18853459	
+O75923	UniProtKB	Natural variant	1041	1041	.	.	.	ID=VAR_057859;Note=In MMD1. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469449;Dbxref=dbSNP:rs144598063,PMID:15469449	
+O75923	UniProtKB	Natural variant	1046	1046	.	.	.	ID=VAR_024863;Note=In MMD1%3B dbNP:28939700. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468312,ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs121908958,PMID:11468312,PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	1065	1065	.	.	.	ID=VAR_024864;Note=E->EAE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16996541;Dbxref=PMID:16996541	
+O75923	UniProtKB	Natural variant	1072	1072	.	.	.	ID=VAR_049056;Note=A->P;Dbxref=dbSNP:rs34660230	
+O75923	UniProtKB	Natural variant	1096	1096	.	.	.	ID=VAR_061170;Note=R->H;Dbxref=dbSNP:rs59915619	
+O75923	UniProtKB	Natural variant	1208	1208	.	.	.	ID=VAR_024865;Note=In LGMDR2. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16010686;Dbxref=dbSNP:rs148858485,PMID:16010686	
+O75923	UniProtKB	Natural variant	1228	1228	.	.	.	ID=VAR_057860;Note=In LGMDR2. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	1242	1242	.	.	.	ID=VAR_020308;Note=R->H;Dbxref=dbSNP:rs2303603	
+O75923	UniProtKB	Natural variant	1276	1276	.	.	.	ID=VAR_024866;Note=In proximodistal myopathy. L->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	1298	1298	.	.	.	ID=VAR_012309;Note=In MMD1 and LGMDR2. I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9731526;Dbxref=dbSNP:rs121908954,PMID:9731526	
+O75923	UniProtKB	Natural variant	1325	1325	.	.	.	ID=VAR_035893;Note=In a breast cancer sample%3B somatic mutation. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O75923	UniProtKB	Natural variant	1325	1325	.	.	.	ID=VAR_057861;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs145401010,PMID:18853459	
+O75923	UniProtKB	Natural variant	1331	1331	.	.	.	ID=VAR_024867;Note=R->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14678801,ECO:0000269|PubMed:16010686;Dbxref=dbSNP:rs61742872,PMID:14678801,PMID:16010686	
+O75923	UniProtKB	Natural variant	1335	1335	.	.	.	ID=VAR_024868;Note=In MMD1 and LGMDR2. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14678801,ECO:0000269|PubMed:15469449,ECO:0000269|PubMed:16100712;Dbxref=dbSNP:rs758993965,PMID:14678801,PMID:15469449,PMID:16100712	
+O75923	UniProtKB	Natural variant	1341	1341	.	.	.	ID=VAR_057862;Note=In LGMDR2. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16705711;Dbxref=dbSNP:rs757917335,PMID:16705711	
+O75923	UniProtKB	Natural variant	1349	1349	.	.	.	ID=VAR_035894;Note=In a breast cancer sample%3B somatic mutation. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O75923	UniProtKB	Natural variant	1351	1351	.	.	.	ID=VAR_024869;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16010686;Dbxref=dbSNP:rs139529811,PMID:16010686	
+O75923	UniProtKB	Natural variant	1361	1361	.	.	.	ID=VAR_057863;Note=In MMD1. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469449;Dbxref=dbSNP:rs776472879,PMID:15469449	
+O75923	UniProtKB	Natural variant	1505	1505	.	.	.	ID=VAR_057864;Note=In LGMDR2. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469449;Dbxref=dbSNP:rs757820496,PMID:15469449	
+O75923	UniProtKB	Natural variant	1526	1526	.	.	.	ID=VAR_057865;Note=In LGMDR2. K->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs76086153,PMID:18853459	
+O75923	UniProtKB	Natural variant	1543	1543	.	.	.	ID=VAR_057866;Note=In LGMDR2. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	1581	1581	.	.	.	ID=VAR_057867;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12796534;Dbxref=dbSNP:rs185596534,PMID:12796534	
+O75923	UniProtKB	Natural variant	1662	1662	.	.	.	ID=VAR_057868;Note=In MMD1. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15469449;Dbxref=PMID:15469449	
+O75923	UniProtKB	Natural variant	1678	1678	.	.	.	ID=VAR_057869;Note=Found in patients with isolated hyperCKemia. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100712;Dbxref=dbSNP:rs753279446,PMID:16100712	
+O75923	UniProtKB	Natural variant	1679	1679	.	.	.	ID=VAR_057870;Note=In MMD1. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12796534;Dbxref=PMID:12796534	
+O75923	UniProtKB	Natural variant	1693	1693	.	.	.	ID=VAR_024870;Note=In MMD1. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs779987458,PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	1693	1693	.	.	.	ID=VAR_057871;Note=In MMD1. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100712;Dbxref=dbSNP:rs863225021,PMID:16100712	
+O75923	UniProtKB	Natural variant	1734	1734	.	.	.	ID=VAR_057872;Note=In LGMDR2. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17287450;Dbxref=dbSNP:rs121908961,PMID:17287450	
+O75923	UniProtKB	Natural variant	1748	1748	.	.	.	ID=VAR_024871;Note=In proximodistal myopathy. E->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16010686,ECO:0000269|PubMed:18853459;Dbxref=PMID:16010686,PMID:18853459	
+O75923	UniProtKB	Natural variant	1768	1768	.	.	.	ID=VAR_057873;Note=In LGMDR2 and proximodistal myopathy%3B unknown pathological significance. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16996541,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs746243052,PMID:16996541,PMID:18853459	
+O75923	UniProtKB	Natural variant	1837	1837	.	.	.	ID=VAR_057874;Note=In MMD1. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16100712,ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs398123794,PMID:16100712,PMID:18853459	
+O75923	UniProtKB	Natural variant	1842	1842	.	.	.	ID=VAR_057875;Note=In MMD1. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15116377;Dbxref=PMID:15116377	
+O75923	UniProtKB	Natural variant	1857	1857	.	.	.	ID=VAR_012310;Note=In MMD1. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9731526;Dbxref=dbSNP:rs199601326,PMID:9731526	
+O75923	UniProtKB	Natural variant	1922	1922	.	.	.	ID=VAR_057876;Note=In MMD1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15116377;Dbxref=PMID:15116377	
+O75923	UniProtKB	Natural variant	1938	1939	.	.	.	ID=VAR_057877;Note=In MMD1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	1942	1942	.	.	.	ID=VAR_057878;Note=In MMD1. C->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16100712;Dbxref=PMID:16100712	
+O75923	UniProtKB	Natural variant	1967	1967	.	.	.	ID=VAR_057879;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=PMID:18853459	
+O75923	UniProtKB	Natural variant	1970	1970	.	.	.	ID=VAR_057880;Note=In LGMDR2. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18853459;Dbxref=dbSNP:rs1057521141,PMID:18853459	
+O75923	UniProtKB	Natural variant	2000	2000	.	.	.	ID=VAR_024872;Note=In MMD1. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11468312;Dbxref=dbSNP:rs115407852,PMID:11468312	
+O75923	UniProtKB	Natural variant	2042	2042	.	.	.	ID=VAR_012311;Note=In MMD1%2C LGMDR2 and proximodistal myopathy. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16100712,ECO:0000269|PubMed:16996541,ECO:0000269|PubMed:18853459,ECO:0000269|PubMed:9731526;Dbxref=dbSNP:rs121908955,PMID:16100712,PMID:16996541,PMID:18853459,PMID:9731526	
+O75923	UniProtKB	Natural variant	2068	2068	.	.	.	ID=VAR_057881;Note=In MMD1. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15477515;Dbxref=dbSNP:rs149732545,PMID:15477515	
+O75923	UniProtKB	Mutagenesis	16	16	.	.	.	Note=Fails to bind calcium. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24461013;Dbxref=PMID:24461013	
+O75923	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Fails to bind calcium. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24461013;Dbxref=PMID:24461013	
+O75923	UniProtKB	Mutagenesis	71	71	.	.	.	Note=Fails to bind calcium. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24461013;Dbxref=PMID:24461013	
+O75923	UniProtKB	Mutagenesis	79	79	.	.	.	Note=Moderately increased calcium affinity. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24461013;Dbxref=PMID:24461013	
+O75923	UniProtKB	Mutagenesis	80	80	.	.	.	Note=Reduced calcium affinity. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24461013;Dbxref=PMID:24461013	
+O75923	UniProtKB	Beta strand	1	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	22	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	31	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	45	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	64	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	79	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Helix	89	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	98	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	112	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IQH	
+O75923	UniProtKB	Beta strand	946	958	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Beta strand	966	973	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Helix	983	985	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Beta strand	996	998	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Beta strand	1000	1002	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAI	
+O75923	UniProtKB	Beta strand	1011	1015	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Beta strand	1021	1023	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Beta strand	1028	1030	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	
+O75923	UniProtKB	Beta strand	1037	1049	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAH	

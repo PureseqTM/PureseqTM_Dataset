@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region O95196 1 566
+O95196	UniProtKB	Signal peptide	1	30	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95196	UniProtKB	Chain	31	566	.	.	.	ID=PRO_0000042151;Note=Chondroitin sulfate proteoglycan 5	
+O95196	UniProtKB	Topological domain	31	423	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95196	UniProtKB	Transmembrane	424	444	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95196	UniProtKB	Topological domain	445	566	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95196	UniProtKB	Domain	371	413	.	.	.	Note=EGF-like	
+O95196	UniProtKB	Region	264	301	.	.	.	Note=Interaction with TNC and TNR;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95196	UniProtKB	Region	442	460	.	.	.	Note=Interaction with GOPC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12885772;Dbxref=PMID:12885772	
+O95196	UniProtKB	Modified residue	467	467	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q71M36	
+O95196	UniProtKB	Modified residue	475	475	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q71M36	
+O95196	UniProtKB	Modified residue	483	483	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q71M36	
+O95196	UniProtKB	Modified residue	543	543	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q71M36	
+O95196	UniProtKB	Glycosylation	57	57	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95196	UniProtKB	Glycosylation	117	117	.	.	.	Note=O-linked (Xyl...) (chondroitin sulfate) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95196	UniProtKB	Glycosylation	165	165	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23234360;Dbxref=PMID:23234360	
+O95196	UniProtKB	Disulfide bond	374	387	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95196	UniProtKB	Disulfide bond	381	397	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95196	UniProtKB	Disulfide bond	399	412	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95196	UniProtKB	Alternative sequence	1	138	.	.	.	ID=VSP_015760;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+O95196	UniProtKB	Alternative sequence	487	513	.	.	.	ID=VSP_015761;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9950058,ECO:0000303|Ref.2;Dbxref=PMID:9950058	
+O95196	UniProtKB	Natural variant	188	188	.	.	.	ID=VAR_055089;Note=G->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9950058,ECO:0000269|Ref.2;Dbxref=dbSNP:rs3732530,PMID:9950058	
+O95196	UniProtKB	Natural variant	417	417	.	.	.	ID=VAR_055090;Note=T->P;Dbxref=dbSNP:rs34016925	

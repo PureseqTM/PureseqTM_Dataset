@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q9NPC4 1 353
+Q9NPC4	UniProtKB	Chain	1	353	.	.	.	ID=PRO_0000080578;Note=Lactosylceramide 4-alpha-galactosyltransferase	
+Q9NPC4	UniProtKB	Topological domain	1	22	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPC4	UniProtKB	Transmembrane	23	43	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPC4	UniProtKB	Topological domain	44	353	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPC4	UniProtKB	Motif	192	194	.	.	.	Note=DXD motif;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NPC4	UniProtKB	Glycosylation	121	121	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPC4	UniProtKB	Glycosylation	203	203	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPC4	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_014296;Note=M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10747952,ECO:0000269|PubMed:10993874,ECO:0000269|Ref.4;Dbxref=dbSNP:rs11541159,PMID:10747952,PMID:10993874	
+Q9NPC4	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_017507;Note=In p individuals. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11896312;Dbxref=PMID:11896312	
+Q9NPC4	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_022320;Note=Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs28915383	
+Q9NPC4	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_014297;Note=In p individuals%3B complete loss of activity. M->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10747952,ECO:0000269|PubMed:10993874;Dbxref=dbSNP:rs74315453,PMID:10747952,PMID:10993874	
+Q9NPC4	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_017508;Note=In p individuals%3B partial loss of activity. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10993874;Dbxref=dbSNP:rs28940572,PMID:10993874	
+Q9NPC4	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_080910;Note=In individuals with NOR polyagglutination syndrome%3B causes the synthesis of both Gal(alpha1-4)Gal and Gal(alpha1-4)GalNAc moieties. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22965229;Dbxref=dbSNP:rs397514502,PMID:22965229	
+Q9NPC4	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_017509;Note=In p individuals%3B complete loss of activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10993874;Dbxref=dbSNP:rs28940571,PMID:10993874	

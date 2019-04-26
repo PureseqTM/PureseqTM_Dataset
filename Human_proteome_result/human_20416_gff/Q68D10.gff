@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region Q68D10 1 685
+Q68D10	UniProtKB	Chain	1	685	.	.	.	ID=PRO_0000315736;Note=Protein SPT2 homolog	
+Q68D10	UniProtKB	Region	1	570	.	.	.	Note=Important for interaction with DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23378026;Dbxref=PMID:23378026	
+Q68D10	UniProtKB	Region	571	685	.	.	.	Note=Important for interaction with histones;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23378026;Dbxref=PMID:23378026	
+Q68D10	UniProtKB	Coiled coil	45	81	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q68D10	UniProtKB	Coiled coil	123	148	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q68D10	UniProtKB	Coiled coil	645	685	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q68D10	UniProtKB	Compositional bias	278	552	.	.	.	Note=Ser-rich	
+Q68D10	UniProtKB	Compositional bias	591	595	.	.	.	Note=Poly-Asp	
+Q68D10	UniProtKB	Modified residue	278	278	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q68D10	UniProtKB	Modified residue	471	471	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q68D10	UniProtKB	Modified residue	582	582	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q68D10	UniProtKB	Modified residue	599	599	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q68D10	UniProtKB	Cross-link	37	37	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q68D10	UniProtKB	Cross-link	187	187	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q68D10	UniProtKB	Alternative sequence	106	106	.	.	.	ID=VSP_030688;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q68D10	UniProtKB	Alternative sequence	323	685	.	.	.	ID=VSP_030689;Note=In isoform 3. SVPKTSASRTQKSAVEHKAKKSLSHPSHSRPGPMVTPHNKAKSPGVRQPGSSSSSAPGQPSTGVARPTVSSGPVPRRQNGSSSSGPERSISGSKKPTNDSNPSRRTVSGTCGPGQPASSSGGPGRPISGSVSSARPLGSSRGPGRPVSSPHELRRPVSGLGPPGRSVSGPGRSISGSIPAGRTVSNSVPGRPVSSLGPGQTVSSSGPTIKPKCTVVSETISSKNIISRSSNGQMNGMKPPLSGYRAAQGPQRLPFPTGYKRQREYEEEDDDDDEYDSEMEDFIEDEGEPQEEISKHIREIFGYDRKKYKDESDYALRYMESSWKEQQKEEAKSLRLGMQEDLEEMRREEEEMQRRRAKKLKRR->KHVWKENKYMKRDWLFYFQCIEYIRLLFIF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q68D10	UniProtKB	Alternative sequence	648	659	.	.	.	ID=VSP_030690;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q68D10	UniProtKB	Natural variant	317	317	.	.	.	ID=VAR_038298;Note=S->F;Dbxref=dbSNP:rs12795406	
+Q68D10	UniProtKB	Natural variant	447	447	.	.	.	ID=VAR_038299;Note=R->Q;Dbxref=dbSNP:rs16935599	
+Q68D10	UniProtKB	Natural variant	617	617	.	.	.	ID=VAR_038300;Note=K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs35411689,PMID:15489334,PMID:17974005	
+Q68D10	UniProtKB	Mutagenesis	641	641	.	.	.	Note=Strongly reduces affinity for histones. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26109053;Dbxref=PMID:26109053	
+Q68D10	UniProtKB	Mutagenesis	651	652	.	.	.	Note=Strongly reduces affinity for histones. EE->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26109053;Dbxref=PMID:26109053	
+Q68D10	UniProtKB	Mutagenesis	658	659	.	.	.	Note=Strongly reduces affinity for histones. LG->AN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26109053;Dbxref=PMID:26109053	
+Q68D10	UniProtKB	Mutagenesis	662	663	.	.	.	Note=Strongly reduces affinity for histones. ED->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26109053;Dbxref=PMID:26109053	
+Q68D10	UniProtKB	Sequence conflict	29	29	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q68D10	UniProtKB	Sequence conflict	30	30	.	.	.	Note=P->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q68D10	UniProtKB	Sequence conflict	73	73	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q68D10	UniProtKB	Sequence conflict	122	122	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q68D10	UniProtKB	Helix	614	623	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BS7	
+Q68D10	UniProtKB	Helix	636	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BS7	
+Q68D10	UniProtKB	Helix	645	674	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BS7	

@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q8NET5 1 270
+Q8NET5	UniProtKB	Signal peptide	1	42	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NET5	UniProtKB	Chain	43	270	.	.	.	ID=PRO_0000015046;Note=NFAT activation molecule 1	
+Q8NET5	UniProtKB	Topological domain	43	163	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NET5	UniProtKB	Transmembrane	164	184	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NET5	UniProtKB	Topological domain	185	270	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NET5	UniProtKB	Domain	50	150	.	.	.	Note=Ig-like V-type	
+Q8NET5	UniProtKB	Domain	209	237	.	.	.	Note=ITAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+Q8NET5	UniProtKB	Modified residue	220	220	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NET5	UniProtKB	Modified residue	231	231	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NET5	UniProtKB	Glycosylation	107	107	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NET5	UniProtKB	Disulfide bond	65	114	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8NET5	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_049964;Note=H->Y;Dbxref=dbSNP:rs34296033	
+Q8NET5	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_049965;Note=N->K;Dbxref=dbSNP:rs17003048	
+Q8NET5	UniProtKB	Mutagenesis	220	220	.	.	.	Note=Abolishes the ITAM-mediated-activating activity. Y->A%2CF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12615919,ECO:0000269|PubMed:15143214;Dbxref=PMID:12615919,PMID:15143214	
+Q8NET5	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Abolishes the ITAM-mediated-activating activity. Y->A%2CF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12615919,ECO:0000269|PubMed:15143214;Dbxref=PMID:12615919,PMID:15143214	

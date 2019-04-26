@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P27105 1 288
+P27105	UniProtKB	Chain	1	288	.	.	.	ID=PRO_0000094027;Note=Erythrocyte band 7 integral membrane protein	
+P27105	UniProtKB	Topological domain	1	25	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P27105	UniProtKB	Intramembrane	26	54	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P27105	UniProtKB	Topological domain	55	288	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P27105	UniProtKB	Region	265	273	.	.	.	Note=Required for homooligomerization	
+P27105	UniProtKB	Region	267	269	.	.	.	Note=Required for lipid raft association	
+P27105	UniProtKB	Region	273	287	.	.	.	Note=Interaction with LANCL1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9512664;Dbxref=PMID:9512664	
+P27105	UniProtKB	Modified residue	10	10	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:8373790;Dbxref=PMID:23186163,PMID:8373790	
+P27105	UniProtKB	Modified residue	18	18	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P27105	UniProtKB	Modified residue	161	161	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P54116	
+P27105	UniProtKB	Modified residue	244	244	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:24275569	
+P27105	UniProtKB	Lipidation	30	30	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10338112;Dbxref=PMID:10338112	
+P27105	UniProtKB	Lipidation	87	87	.	.	.	Note=S-palmitoyl cysteine%3B partial;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10338112;Dbxref=PMID:10338112	
+P27105	UniProtKB	Alternative sequence	55	219	.	.	.	ID=VSP_044669;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P27105	UniProtKB	Mutagenesis	182	182	.	.	.	Note=No effect on oligomerization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16766530;Dbxref=PMID:16766530	
+P27105	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Complete loss of oligomerization. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16766530;Dbxref=PMID:16766530	
+P27105	UniProtKB	Mutagenesis	252	252	.	.	.	Note=Complete loss of oligomerization. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16766530;Dbxref=PMID:16766530	
+P27105	UniProtKB	Mutagenesis	263	263	.	.	.	Note=Reduced oligomerization and lipid raft association. K->A	
+P27105	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Reduced oligomerization and lipid raft association. N->A	
+P27105	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Oligomerization reduced to 18%25. Reduced lipid raft association. S->A	
+P27105	UniProtKB	Mutagenesis	266	266	.	.	.	Note=Complete loss of oligomerization. Reduced lipid raft association. T->A	
+P27105	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Complete loss of oligomerization and lipid raft association. I->A	
+P27105	UniProtKB	Mutagenesis	268	268	.	.	.	Note=Complete loss of oligomerization and lipid raft association. V->A	
+P27105	UniProtKB	Mutagenesis	269	269	.	.	.	Note=Complete loss of oligomerization and lipid raft association. F->A	
+P27105	UniProtKB	Mutagenesis	270	270	.	.	.	Note=Complete loss of oligomerization. No effect on lipid raft association. P->A	
+P27105	UniProtKB	Mutagenesis	271	271	.	.	.	Note=Complete loss of oligomerization. Reduced lipid raft association. L->A	
+P27105	UniProtKB	Mutagenesis	272	272	.	.	.	Note=Oligomerization reduced to 18%25. Reduced lipid raft association. P->A	
+P27105	UniProtKB	Mutagenesis	273	273	.	.	.	Note=Complete loss of oligomerization. Reduced lipid raft association. I->A	
+P27105	UniProtKB	Mutagenesis	274	274	.	.	.	Note=Reduced oligomerization and lipid raft association. D->A	
+P27105	UniProtKB	Mutagenesis	275	275	.	.	.	Note=Reduced oligomerization and lipid raft association. M->A	
+P27105	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Reduced oligomerization and lipid raft association. L->A	
+P27105	UniProtKB	Sequence conflict	6	6	.	.	.	Note=H->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P27105	UniProtKB	Sequence conflict	244	244	.	.	.	Note=S->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	

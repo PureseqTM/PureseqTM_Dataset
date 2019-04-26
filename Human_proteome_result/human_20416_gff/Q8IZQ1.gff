@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q8IZQ1 1 3526
+Q8IZQ1	UniProtKB	Chain	1	3526	.	.	.	ID=PRO_0000242693;Note=WD repeat and FYVE domain-containing protein 3	
+Q8IZQ1	UniProtKB	Domain	2531	2656	.	.	.	Note=BEACH-type PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01119	
+Q8IZQ1	UniProtKB	Domain	2683	2976	.	.	.	Note=BEACH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00026	
+Q8IZQ1	UniProtKB	Repeat	3077	3115	.	.	.	Note=WD 1	
+Q8IZQ1	UniProtKB	Repeat	3125	3164	.	.	.	Note=WD 2	
+Q8IZQ1	UniProtKB	Repeat	3167	3206	.	.	.	Note=WD 3	
+Q8IZQ1	UniProtKB	Repeat	3210	3254	.	.	.	Note=WD 4	
+Q8IZQ1	UniProtKB	Repeat	3408	3447	.	.	.	Note=WD 5	
+Q8IZQ1	UniProtKB	Zinc finger	3454	3514	.	.	.	Note=FYVE-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00091	
+Q8IZQ1	UniProtKB	Region	2285	2981	.	.	.	Note=Sufficient for localization to p62 bodies/ALIS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20168092;Dbxref=PMID:20168092	
+Q8IZQ1	UniProtKB	Region	2586	3526	.	.	.	Note=Interaction with SQSTM1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20168092;Dbxref=PMID:20168092	
+Q8IZQ1	UniProtKB	Region	2981	3526	.	.	.	Note=Interaction with ATG5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20417604;Dbxref=PMID:20417604	
+Q8IZQ1	UniProtKB	Region	3313	3363	.	.	.	Note=Interaction with GABARAP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Motif	3346	3349	.	.	.	Note=LC3-interacting region (LIR);Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Compositional bias	472	475	.	.	.	Note=Poly-Ser	
+Q8IZQ1	UniProtKB	Compositional bias	2516	2519	.	.	.	Note=Poly-Glu	
+Q8IZQ1	UniProtKB	Modified residue	1942	1942	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6VNB8	
+Q8IZQ1	UniProtKB	Modified residue	2278	2278	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IZQ1	UniProtKB	Modified residue	2492	2492	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6VNB8	
+Q8IZQ1	UniProtKB	Modified residue	3335	3335	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6VNB8	
+Q8IZQ1	UniProtKB	Modified residue	3339	3339	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IZQ1	UniProtKB	Alternative sequence	2408	2424	.	.	.	ID=VSP_019475;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8IZQ1	UniProtKB	Natural variant	2637	2637	.	.	.	ID=VAR_079130;Note=In MCPH18%3B increased cellular DVL3 protein levels as compared to the wild-type protein and loss of attenuation of Wnt signaling%3B when expressed in Drosophila%2C causes brain anomalies. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27008544;Dbxref=PMID:27008544	
+Q8IZQ1	UniProtKB	Natural variant	3032	3032	.	.	.	ID=VAR_026864;Note=I->V;Dbxref=dbSNP:rs17368018	
+Q8IZQ1	UniProtKB	Mutagenesis	3343	3343	.	.	.	Note=Decreased interaction with GABARAP%2C no effect on interaction with MAP1LC3B%3B when associated with A-3344 and A-3351. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Mutagenesis	3344	3344	.	.	.	Note=Decreased interaction with GABARAP%2C no effect on interaction with MAP1LC3B%3B when associated with A-3343 and A-3351. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Mutagenesis	3346	3346	.	.	.	Note=Abolishes interaction with GABARAP and MAP1LC3C. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Mutagenesis	3347	3347	.	.	.	Note=Decreases interaction with GABARAP and MAP1LC3C. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Mutagenesis	3348	3348	.	.	.	Note=Decreases interaction with GABARAP and MAP1LC3C. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Mutagenesis	3349	3349	.	.	.	Note=Decreases interaction with GABARAP and MAP1LC3C. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Mutagenesis	3351	3351	.	.	.	Note=Decreased interaction with GABARAP%2C no effect on interaction with MAP1LC3B%3B when associated with A-3343 and A-3344. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24668264;Dbxref=PMID:24668264	
+Q8IZQ1	UniProtKB	Sequence conflict	2944	2944	.	.	.	Note=N->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IZQ1	UniProtKB	Sequence conflict	3396	3396	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IZQ1	UniProtKB	Beta strand	3346	3348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3WIM	

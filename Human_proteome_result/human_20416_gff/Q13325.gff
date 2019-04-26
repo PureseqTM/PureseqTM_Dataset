@@ -1,0 +1,92 @@
+##gff-version 3
+##sequence-region Q13325 1 482
+Q13325	UniProtKB	Chain	1	482	.	.	.	ID=PRO_0000106351;Note=Interferon-induced protein with tetratricopeptide repeats 5	
+Q13325	UniProtKB	Repeat	51	84	.	.	.	Note=TPR 1	
+Q13325	UniProtKB	Repeat	94	127	.	.	.	Note=TPR 2	
+Q13325	UniProtKB	Repeat	138	173	.	.	.	Note=TPR 3	
+Q13325	UniProtKB	Repeat	181	214	.	.	.	Note=TPR 4	
+Q13325	UniProtKB	Repeat	249	282	.	.	.	Note=TPR 5	
+Q13325	UniProtKB	Repeat	338	371	.	.	.	Note=TPR 6	
+Q13325	UniProtKB	Repeat	376	410	.	.	.	Note=TPR 7	
+Q13325	UniProtKB	Repeat	435	468	.	.	.	Note=TPR 8	
+Q13325	UniProtKB	Region	254	260	.	.	.	Note=Interaction with the 5'-triphosphate group of PPP-RNA	
+Q13325	UniProtKB	Site	33	33	.	.	.	Note=Interaction with PPP-RNA	
+Q13325	UniProtKB	Site	37	37	.	.	.	Note=Interaction with PPP-RNA	
+Q13325	UniProtKB	Site	41	41	.	.	.	Note=Interaction with PPP-RNA	
+Q13325	UniProtKB	Site	150	150	.	.	.	Note=Interaction with PPP-RNA	
+Q13325	UniProtKB	Site	186	186	.	.	.	Note=Interaction with PPP-RNA	
+Q13325	UniProtKB	Site	250	250	.	.	.	Note=Interaction with PPP-RNA	
+Q13325	UniProtKB	Site	288	288	.	.	.	Note=Interaction with the 5'-triphosphate group of PPP-RNA	
+Q13325	UniProtKB	Alternative sequence	158	205	.	.	.	ID=VSP_056412;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13325	UniProtKB	Mutagenesis	33	33	.	.	.	Note=No effect on RNA-binding but changes size profile of RNA bound. Reduces PPP-RNA-binding. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	37	37	.	.	.	Note=No effect on RNA-binding but changes size profile of RNA bound. T->A%2CV;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25092312;Dbxref=PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	37	37	.	.	.	Note=Abolishes PPP-RNA-binding. T->V	
+Q13325	UniProtKB	Mutagenesis	41	41	.	.	.	Note=No effect on RNA-binding but changes size profile of RNA bound. Abolishes PPP-RNA-binding. Q->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Inhibits RNA-binding. K->A%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25092312;Dbxref=PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	150	150	.	.	.	Note=Abolishes PPP-RNA-binding. K->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23334420;Dbxref=PMID:23334420	
+Q13325	UniProtKB	Mutagenesis	150	150	.	.	.	Note=Inhibits RNA-binding. K->N%2CE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25092312;Dbxref=PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	150	150	.	.	.	Note=Reduces RNA-binding. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25092312;Dbxref=PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	156	156	.	.	.	Note=No effect on RNA-binding. Reduces PPP-RNA-binding. Y->F%2CA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	185	186	.	.	.	Note=Reduces binding to RNA and DNA. YR->AE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	186	186	.	.	.	Note=Abolishes RNA-binding. R->H%2CA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	250	250	.	.	.	Note=No effect on RNA-binding but changes size profile of RNA bound. Abolishes PPP-RNA-binding. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	253	254	.	.	.	Note=Reduces binding to RNA and DNA. RY->EA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	253	253	.	.	.	Note=Abolishes RNA-binding. R->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Abolishes RNA-binding. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	257	257	.	.	.	Note=Reduces binding to RNA and DNA. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	260	260	.	.	.	Note=Abolishes PPP-RNA-binding. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23334420;Dbxref=PMID:23334420	
+Q13325	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Strongly reduces binding to dsDNA. No effect on ssRNA binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Reduces PPP-RNA-binding. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23334420;Dbxref=PMID:23334420	
+Q13325	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Abolishes RNA-binding. Q->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23334420,ECO:0000269|PubMed:25092312;Dbxref=PMID:23334420,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	291	291	.	.	.	Note=No effect RNA-binding. L->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23317505,ECO:0000269|PubMed:25092312;Dbxref=PMID:23317505,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	294	294	.	.	.	Note=Strongly reduces binding to dsDNA. No effect on ssRNA binding. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	302	302	.	.	.	Note=Reduces RNA-binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23317505;Dbxref=PMID:23317505	
+Q13325	UniProtKB	Mutagenesis	307	307	.	.	.	Note=Reduces RNA-binding. 25 fold reduction in tRNA-binding. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23317505,ECO:0000269|PubMed:25092312;Dbxref=PMID:23317505,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Reduces RNA-binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23317505;Dbxref=PMID:23317505	
+Q13325	UniProtKB	Mutagenesis	334	334	.	.	.	Note=No effect on RNA-binding but changes size profile of RNA bound. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25092312;Dbxref=PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	337	339	.	.	.	Note=Reduces binding to RNA and DNA. FAF->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	337	337	.	.	.	Note=Abolishes PPP-RNA-binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23334420;Dbxref=PMID:23334420	
+Q13325	UniProtKB	Mutagenesis	339	339	.	.	.	Note=Reduces RNA-binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25092312;Dbxref=PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	384	384	.	.	.	Note=Reduces binding to RNA and DNA and impairs antiviral activity%3B when associated with E-415. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	388	389	.	.	.	Note=Reduces RNA-binding. FH->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23317505;Dbxref=PMID:23317505	
+Q13325	UniProtKB	Mutagenesis	415	415	.	.	.	Note=Reduces RNA-binding. 25 fold reduction in tRNA-binding. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23317505,ECO:0000269|PubMed:25092312;Dbxref=PMID:23317505,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	415	415	.	.	.	Note=Reduces binding to RNA and DNA and impairs antiviral activity%3B when associated with E-384. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	422	426	.	.	.	Note=Reduces binding to RNA and DNA. KLSTK->ELSTE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23774268;Dbxref=PMID:23774268	
+Q13325	UniProtKB	Mutagenesis	422	422	.	.	.	Note=Reduced RNA-binding. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23317505,ECO:0000269|PubMed:25092312;Dbxref=PMID:23317505,PMID:25092312	
+Q13325	UniProtKB	Mutagenesis	426	426	.	.	.	Note=Reduces RNA-binding. 5 fold reduction in tRNA-binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23317505;Dbxref=PMID:23317505	
+Q13325	UniProtKB	Sequence conflict	215	215	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13325	UniProtKB	Sequence conflict	449	449	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13325	UniProtKB	Helix	3	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	19	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	26	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	31	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Beta strand	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOQ	
+Q13325	UniProtKB	Helix	50	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	67	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	94	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	110	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Beta strand	130	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	138	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	156	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	174	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Beta strand	193	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	201	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	215	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	231	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	249	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	265	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	283	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Turn	304	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	310	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	338	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	354	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	372	388	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	393	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Beta strand	408	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	413	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	435	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	451	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	
+Q13325	UniProtKB	Helix	469	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HOR	

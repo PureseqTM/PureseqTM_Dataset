@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region P60953 1 191
+P60953	UniProtKB	Chain	1	188	.	.	.	ID=PRO_0000030425;Note=Cell division control protein 42 homolog	
+P60953	UniProtKB	Propeptide	189	191	.	.	.	ID=PRO_0000030426;Note=Removed in mature form	
+P60953	UniProtKB	Nucleotide binding	10	17	.	.	.	Note=GTP	
+P60953	UniProtKB	Nucleotide binding	57	61	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P60953	UniProtKB	Nucleotide binding	115	118	.	.	.	Note=GTP	
+P60953	UniProtKB	Motif	32	40	.	.	.	Note=Effector region;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P60953	UniProtKB	Modified residue	32	32	.	.	.	Note=O-AMP-tyrosine%3B by Haemophilus IbpA%3B alternate;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19362538,ECO:0000269|PubMed:20622875;Dbxref=PMID:19362538,PMID:20622875	
+P60953	UniProtKB	Modified residue	35	35	.	.	.	Note=O-AMP-threonine%3B by Vibrio VopS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19039103;Dbxref=PMID:19039103	
+P60953	UniProtKB	Modified residue	64	64	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14506284;Dbxref=PMID:14506284	
+P60953	UniProtKB	Modified residue	188	188	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1DOA,ECO:0000269|PubMed:10676816;Dbxref=PMID:10676816	
+P60953	UniProtKB	Lipidation	188	188	.	.	.	Note=S-geranylgeranyl cysteine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1DOA,ECO:0000269|PubMed:10676816;Dbxref=PMID:10676816	
+P60953	UniProtKB	Glycosylation	32	32	.	.	.	Note=O-linked (GlcNAc) tyrosine%3B by Photorhabdus PAU_02230%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24141704;Dbxref=PMID:24141704	
+P60953	UniProtKB	Alternative sequence	163	163	.	.	.	ID=VSP_040583;Note=In isoform 1. K->R;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:2122236,ECO:0000303|Ref.3,ECO:0000303|Ref.4;Dbxref=PMID:2122236	
+P60953	UniProtKB	Alternative sequence	182	191	.	.	.	ID=VSP_040584;Note=In isoform 1. PKKSRRCVLL->TQPKRKCCIF;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:2122236,ECO:0000303|Ref.3,ECO:0000303|Ref.4;Dbxref=PMID:2122236	
+P60953	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_076337;Note=In TKS. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26386261,ECO:0000269|PubMed:26708094;Dbxref=dbSNP:rs864309721,PMID:26386261,PMID:26708094	
+P60953	UniProtKB	Mutagenesis	12	12	.	.	.	Note=Constitutively active. Interacts with PARD6 proteins. Does not inhibit filopodia formation. No effect on NR3C2 transcriptional activity. G->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10954424,ECO:0000269|PubMed:14978216,ECO:0000269|PubMed:19029984;Dbxref=PMID:10954424,PMID:14978216,PMID:19029984	
+P60953	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Constitutively inactive. Does not interact with PARD6 proteins. Inhibits filopodia formation. No effect on NR3C2 transcriptional activity. T->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11260256,ECO:0000269|PubMed:14978216,ECO:0000269|PubMed:19029984;Dbxref=PMID:11260256,PMID:14978216,PMID:19029984	
+P60953	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Abolishes AMPylation by Haemophilus IbpA. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19362538;Dbxref=PMID:19362538	
+P60953	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Constitutively active. Interacts with PARD6 proteins. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11260256;Dbxref=PMID:11260256	
+P60953	UniProtKB	Beta strand	2	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Beta strand	12	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UPL	
+P60953	UniProtKB	Helix	16	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	29	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VHL	
+P60953	UniProtKB	Beta strand	36	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Beta strand	49	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Turn	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	68	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Beta strand	72	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3QBV	
+P60953	UniProtKB	Beta strand	76	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	87	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	97	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Beta strand	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WMN	
+P60953	UniProtKB	Beta strand	110	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	117	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	123	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Turn	131	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Helix	139	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Beta strand	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Turn	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Turn	162	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KB0	
+P60953	UniProtKB	Helix	165	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NGR	
+P60953	UniProtKB	Beta strand	179	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NF3	
+P60953	UniProtKB	Turn	184	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NF3	

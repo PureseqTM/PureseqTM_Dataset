@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P10415 1 239
+P10415	UniProtKB	Chain	1	239	.	.	.	ID=PRO_0000143048;Note=Apoptosis regulator Bcl-2	
+P10415	UniProtKB	Transmembrane	212	233	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10415	UniProtKB	Motif	10	30	.	.	.	Note=BH4	
+P10415	UniProtKB	Motif	93	107	.	.	.	Note=BH3	
+P10415	UniProtKB	Motif	136	155	.	.	.	Note=BH1	
+P10415	UniProtKB	Motif	187	202	.	.	.	Note=BH2	
+P10415	UniProtKB	Site	34	35	.	.	.	Note=Cleavage%3B by caspase-3	
+P10415	UniProtKB	Modified residue	69	69	.	.	.	Note=Phosphothreonine%3B by MAPK8;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18570871;Dbxref=PMID:18570871	
+P10415	UniProtKB	Modified residue	70	70	.	.	.	Note=Phosphoserine%3B by MAPK8 and PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18570871;Dbxref=PMID:18570871	
+P10415	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine%3B by MAPK8;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18570871;Dbxref=PMID:18570871	
+P10415	UniProtKB	Alternative sequence	196	239	.	.	.	ID=VSP_000512;Note=In isoform Beta. DAFVELYGPSMRPLFDFSWLSLKTLLSLALVGACITLGAYLGHK->VGALGDVSLG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:3523487;Dbxref=PMID:3523487	
+P10415	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_000827;Note=T->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2834197,ECO:0000269|PubMed:3285301;Dbxref=PMID:2834197,PMID:3285301	
+P10415	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_014716;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs1800477	
+P10415	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_000828;Note=In non-Hodgkin lymphoma%3B somatic mutation. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1339299;Dbxref=PMID:1339299	
+P10415	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_000829;Note=In non-Hodgkin lymphoma%3B somatic mutation. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1339299;Dbxref=PMID:1339299	
+P10415	UniProtKB	Mutagenesis	34	34	.	.	.	Note=Abolishes cleavage by caspase-3. D->A	
+P10415	UniProtKB	Mutagenesis	64	64	.	.	.	Note=No effect on cleavage by caspase-3. D->A	
+P10415	UniProtKB	Mutagenesis	138	141	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity. FRDG->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	144	144	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity%3B when associated with A-145 and A146. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	145	145	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity. No effect on NLRP1-induced IL1B release%2C nor on homodimerization. Loss of BAX-binding and of anti-apoptotic activity%3B when associated with A-145 and A146. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17418785,ECO:0000269|PubMed:8183370;Dbxref=PMID:17418785,PMID:8183370	
+P10415	UniProtKB	Mutagenesis	145	145	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity. No effect on homodimerization. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17418785,ECO:0000269|PubMed:8183370;Dbxref=PMID:17418785,PMID:8183370	
+P10415	UniProtKB	Mutagenesis	146	146	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity%3B when associated with A-144 and A145. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity. No effect on homodimerization. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	190	190	.	.	.	Note=Partial loss of BAX-binding and 50%25 decrease in anti-apoptotic activity%3B when associated with A-191 and A-192. No effect on homodimerization%3B when associated with L-190 and A-191. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	191	191	.	.	.	Note=No effect on BAX-binding%2C nor on anti-apoptotic activity. Partial loss of BAX-binding and 50%25 decrease in anti-apoptotic activity%3B when associated with L-190 and A-192. No effect on homodimerization%3B when associated with L-190 and A-191. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	192	192	.	.	.	Note=Partial loss of BAX-binding and 50%25 decrease in anti-apoptotic activity%3B when associated with L-190 and A-191. No effect on homodimerization%3B when associated with L-190 and A-191. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	194	197	.	.	.	Note=Loss of BAX-binding and of anti-apoptotic activity. May also affect protein stability. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Mutagenesis	200	200	.	.	.	Note=Partial loss of BAX-binding and 50%25 decrease in anti-apoptotic activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8183370;Dbxref=PMID:8183370	
+P10415	UniProtKB	Sequence conflict	48	48	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10415	UniProtKB	Sequence conflict	59	59	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10415	UniProtKB	Sequence conflict	96	96	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10415	UniProtKB	Sequence conflict	110	110	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10415	UniProtKB	Sequence conflict	117	117	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10415	UniProtKB	Sequence conflict	129	129	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10415	UniProtKB	Helix	11	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	63	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VAX	
+P10415	UniProtKB	Helix	93	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	109	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Turn	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	126	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	144	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	169	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	186	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	194	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GL8	
+P10415	UniProtKB	Helix	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5VAX	

@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region P28065 1 219
+P28065	UniProtKB	Propeptide	1	20	.	.	.	ID=PRO_0000026619;Note=Removed in mature form	
+P28065	UniProtKB	Chain	21	219	.	.	.	ID=PRO_0000026620;Note=Proteasome subunit beta type-9	
+P28065	UniProtKB	Active site	21	21	.	.	.	Note=Nucleophile	
+P28065	UniProtKB	Site	20	21	.	.	.	Note=Cleavage%3B by autolysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35955	
+P28065	UniProtKB	Modified residue	53	53	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P28065	UniProtKB	Modified residue	109	109	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P28065	UniProtKB	Alternative sequence	4	13	.	.	.	ID=VSP_005288;Note=In isoform LMP2.S. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7829535;Dbxref=PMID:7829535	
+P28065	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_051551;Note=G->E;Dbxref=dbSNP:rs35100697	
+P28065	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_051552;Note=V->I;Dbxref=dbSNP:rs241419	
+P28065	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_013578;Note=R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10924276,ECO:0000269|PubMed:1922385;Dbxref=dbSNP:rs17587,PMID:10924276,PMID:1922385	
+P28065	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_075258;Note=In PRAAS3%3B digenic inheritance%3B patient also carries a mutation in PSMB4%3B patients' cells show reduction of proteasome content and cysteine-type endopeptidase activity of the proteasome. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26524591;Dbxref=dbSNP:rs369359789,PMID:26524591	
+P28065	UniProtKB	Natural variant	173	173	.	.	.	ID=VAR_051553;Note=R->C;Dbxref=dbSNP:rs17213861	
+P28065	UniProtKB	Mutagenesis	20	20	.	.	.	Note=Impairs correct processing at the consensus site. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9003765;Dbxref=PMID:9003765	
+P28065	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Impairs correct processing at the consensus site. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9003765;Dbxref=PMID:9003765	
+P28065	UniProtKB	Mutagenesis	53	53	.	.	.	Note=Impairs correct processing at the consensus site. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9003765;Dbxref=PMID:9003765	

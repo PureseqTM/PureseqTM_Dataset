@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region P06127 1 495
+P06127	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P06127	UniProtKB	Chain	25	495	.	.	.	ID=PRO_0000033222;Note=T-cell surface glycoprotein CD5	
+P06127	UniProtKB	Topological domain	25	372	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P06127	UniProtKB	Transmembrane	373	402	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P06127	UniProtKB	Topological domain	403	495	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P06127	UniProtKB	Domain	35	133	.	.	.	Note=SRCR 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00196	
+P06127	UniProtKB	Domain	159	268	.	.	.	Note=SRCR 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00196	
+P06127	UniProtKB	Domain	276	368	.	.	.	Note=SRCR 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00196	
+P06127	UniProtKB	Modified residue	439	439	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:12522270,ECO:0000244|PubMed:15144186;Dbxref=PMID:12522270,PMID:15144186	
+P06127	UniProtKB	Modified residue	453	453	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P06127	UniProtKB	Modified residue	460	460	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:12522270;Dbxref=PMID:12522270	
+P06127	UniProtKB	Modified residue	483	483	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P06127	UniProtKB	Modified residue	485	485	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P06127	UniProtKB	Glycosylation	116	116	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P06127	UniProtKB	Glycosylation	241	241	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P06127	UniProtKB	Disulfide bond	44	86	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	60	125	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	81	132	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	107	117	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	201	267	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00196	
+P06127	UniProtKB	Disulfide bond	244	250	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00196	
+P06127	UniProtKB	Disulfide bond	285	321	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	301	360	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	316	367	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Disulfide bond	342	350	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00196,ECO:0000269|PubMed:18339402;Dbxref=PMID:18339402	
+P06127	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_020411;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs2241002,PMID:14702039	
+P06127	UniProtKB	Natural variant	461	461	.	.	.	ID=VAR_024649;Note=H->R;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:12522270,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:3093892,ECO:0000269|PubMed:8740779,ECO:0000269|Ref.3;Dbxref=dbSNP:rs637186,PMID:12522270,PMID:14702039,PMID:15489334,PMID:3093892,PMID:8740779	
+P06127	UniProtKB	Natural variant	471	471	.	.	.	ID=VAR_058203;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:3093892,ECO:0000269|PubMed:8740779,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2229177,PMID:15489334,PMID:3093892,PMID:8740779	
+P06127	UniProtKB	Sequence conflict	289	289	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06127	UniProtKB	Beta strand	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	39	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	45	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	55	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Helix	75	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JP0	
+P06127	UniProtKB	Helix	78	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	90	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Turn	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	104	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	126	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JOP	
+P06127	UniProtKB	Beta strand	275	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	286	295	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	298	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Helix	310	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	323	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	339	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	344	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Helix	347	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	354	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	
+P06127	UniProtKB	Beta strand	362	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JA4	

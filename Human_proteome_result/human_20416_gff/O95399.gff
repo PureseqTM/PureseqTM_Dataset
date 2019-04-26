@@ -1,0 +1,9 @@
+##gff-version 3
+##sequence-region O95399 1 124
+O95399	UniProtKB	Signal peptide	1	20	.	.	.	.	
+O95399	UniProtKB	Propeptide	21	110	.	.	.	ID=PRO_0000036346	
+O95399	UniProtKB	Peptide	114	124	.	.	.	ID=PRO_0000036347;Note=Urotensin-2	
+O95399	UniProtKB	Disulfide bond	118	123	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95399	UniProtKB	Alternative sequence	1	27	.	.	.	ID=VSP_013638;Note=In isoform 2. MYKLASCCLLFIGFLNPLLSLPLLDSR->METNVFHLMLCVTSARTHKSTSLCFGHFNSYPSLPLIHDLLL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10499587;Dbxref=PMID:10499587	
+O95399	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_053734;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12975309;Dbxref=dbSNP:rs34305100,PMID:12975309	
+O95399	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_029313;Note=S->N;Dbxref=dbSNP:rs2890565	

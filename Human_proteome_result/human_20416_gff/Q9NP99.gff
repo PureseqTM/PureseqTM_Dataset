@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q9NP99 1 234
+Q9NP99	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Chain	21	234	.	.	.	ID=PRO_0000014986;Note=Triggering receptor expressed on myeloid cells 1	
+Q9NP99	UniProtKB	Topological domain	21	205	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Transmembrane	206	226	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Topological domain	227	234	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Domain	26	134	.	.	.	Note=Ig-like V-type	
+Q9NP99	UniProtKB	Glycosylation	146	146	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Glycosylation	191	191	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Glycosylation	194	194	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP99	UniProtKB	Disulfide bond	41	113	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:1Q8M,ECO:0000244|PDB:1SMO,ECO:0000269|PubMed:14656437,ECO:0000269|PubMed:15351648;Dbxref=PMID:14656437,PMID:15351648	
+Q9NP99	UniProtKB	Alternative sequence	138	150	.	.	.	ID=VSP_010790;Note=In isoform 2. SGTPGSNENSTQN->RCSTLSFSWLVDS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11922939,ECO:0000303|PubMed:14702039,ECO:0000303|Ref.3;Dbxref=PMID:11922939,PMID:14702039	
+Q9NP99	UniProtKB	Alternative sequence	151	234	.	.	.	ID=VSP_010791;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11922939,ECO:0000303|PubMed:14702039,ECO:0000303|Ref.3;Dbxref=PMID:11922939,PMID:14702039	
+Q9NP99	UniProtKB	Alternative sequence	201	234	.	.	.	ID=VSP_053939;Note=In isoform 3. VPVFNIVILLAGGFLSKSLVFSVLFAVTLRSFVP->YSFQVPGPLVWTLSPLFPSLCAERM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP99	UniProtKB	Natural variant	25	25	.	.	.	ID=VAR_019333;Note=T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.7;Dbxref=dbSNP:rs2234237	
+Q9NP99	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_035525;Note=In a breast cancer sample%3B somatic mutation. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9NP99	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_049949;Note=K->T;Dbxref=dbSNP:rs34727391	
+Q9NP99	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_033624;Note=F->L;Dbxref=dbSNP:rs2234245	
+Q9NP99	UniProtKB	Sequence conflict	35	35	.	.	.	Note=Q->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP99	UniProtKB	Beta strand	22	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	37	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Helix	45	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	53	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Turn	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q8M	
+Q9NP99	UniProtKB	Beta strand	65	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	80	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	85	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Turn	91	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	95	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Helix	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	109	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	
+Q9NP99	UniProtKB	Beta strand	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q8M	
+Q9NP99	UniProtKB	Beta strand	128	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SMO	

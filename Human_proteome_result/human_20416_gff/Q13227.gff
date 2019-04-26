@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q13227 1 327
+Q13227	UniProtKB	Chain	1	327	.	.	.	ID=PRO_0000087565;Note=G protein pathway suppressor 2	
+Q13227	UniProtKB	Region	61	94	.	.	.	Note=interaction with SUMO;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159957;Dbxref=PMID:20159957	
+Q13227	UniProtKB	Coiled coil	14	109	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13227	UniProtKB	Compositional bias	32	35	.	.	.	Note=Poly-Glu	
+Q13227	UniProtKB	Modified residue	312	312	.	.	.	Note=Asymmetric dimethylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+Q13227	UniProtKB	Modified residue	323	323	.	.	.	Note=Asymmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:24129315,ECO:0000269|PubMed:19917673;Dbxref=PMID:24129315,PMID:19917673	
+Q13227	UniProtKB	Modified residue	323	323	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Cross-link	45	45	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24943844;Dbxref=PMID:24943844	
+Q13227	UniProtKB	Cross-link	71	71	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24943844;Dbxref=PMID:24943844	
+Q13227	UniProtKB	Alternative sequence	301	327	.	.	.	ID=VSP_057012;Note=In isoform 2. SGFAATSQPGPRLPFIQHSQNPRFYHK->TAP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13227	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_021972;Note=T->A;Dbxref=dbSNP:rs2292065	
+Q13227	UniProtKB	Mutagenesis	19	22	.	.	.	Note=Abolishes interaction with TBL1X. HRHI->AEHA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21240272;Dbxref=PMID:21240272	
+Q13227	UniProtKB	Mutagenesis	45	45	.	.	.	Note=Abolishes sumoylation%3B when associated with R-71. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24943844;Dbxref=PMID:24943844	
+Q13227	UniProtKB	Mutagenesis	61	94	.	.	.	Note=Abolishes interaction with sumoylated NR1H2 and NR5A2 proteins. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159957;Dbxref=PMID:20159957	
+Q13227	UniProtKB	Mutagenesis	69	70	.	.	.	Note=Weakly affects interaction with sumoylated NR1H2 and NR5A2 proteins. IL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159957;Dbxref=PMID:20159957	
+Q13227	UniProtKB	Mutagenesis	71	71	.	.	.	Note=Abolishes sumoylation%3B when associated with R-45. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24943844;Dbxref=PMID:24943844	
+Q13227	UniProtKB	Mutagenesis	76	79	.	.	.	Note=Weakly affects interaction with sumoylated NR1H2 and NR5A2 proteins. LLAL->RRAR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159957;Dbxref=PMID:20159957	
+Q13227	UniProtKB	Mutagenesis	86	90	.	.	.	Note=Weakly affects interaction with sumoylated NR1H2 and NR5A2 proteins. LFLQL->RFRQR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159957;Dbxref=PMID:20159957	
+Q13227	UniProtKB	Mutagenesis	319	319	.	.	.	Note=Does not affect methylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Mutagenesis	320	320	.	.	.	Note=Does not affect methylation. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Mutagenesis	321	321	.	.	.	Note=Strongly decreases methylation. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Mutagenesis	322	322	.	.	.	Note=Strongly decreases methylation. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Mutagenesis	324	324	.	.	.	Note=Abolishes methylation. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Mutagenesis	325	325	.	.	.	Note=Abolishes methylation. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Mutagenesis	327	327	.	.	.	Note=Decreases methylation. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19917673;Dbxref=PMID:19917673	
+Q13227	UniProtKB	Helix	57	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L5G	

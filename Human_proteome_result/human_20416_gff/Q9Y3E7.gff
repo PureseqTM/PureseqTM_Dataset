@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q9Y3E7 1 222
+Q9Y3E7	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y3E7	UniProtKB	Chain	2	222	.	.	.	ID=PRO_0000211479;Note=Charged multivesicular body protein 3	
+Q9Y3E7	UniProtKB	Region	2	113	.	.	.	Note=Intramolecular interaction with C-terminus	
+Q9Y3E7	UniProtKB	Region	59	64	.	.	.	Note=Important for autoinhibitory function	
+Q9Y3E7	UniProtKB	Region	151	222	.	.	.	Note=Interaction with VPS4A	
+Q9Y3E7	UniProtKB	Region	151	220	.	.	.	Note=Intramolecular interaction with N-terminus	
+Q9Y3E7	UniProtKB	Region	168	169	.	.	.	Note=Important for autoinhibitory function	
+Q9Y3E7	UniProtKB	Region	203	207	.	.	.	Note=Interaction with STAMBP	
+Q9Y3E7	UniProtKB	Region	221	222	.	.	.	Note=Interaction with STAMBP	
+Q9Y3E7	UniProtKB	Coiled coil	22	54	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y3E7	UniProtKB	Coiled coil	141	222	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y3E7	UniProtKB	Motif	201	211	.	.	.	Note=MIT-interacting motif	
+Q9Y3E7	UniProtKB	Binding site	216	216	.	.	.	Note=STAMBP	
+Q9Y3E7	UniProtKB	Site	48	48	.	.	.	Note=Important for autoinhibitory function	
+Q9Y3E7	UniProtKB	Modified residue	200	200	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+Q9Y3E7	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y3E7	UniProtKB	Cross-link	179	179	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)	
+Q9Y3E7	UniProtKB	Alternative sequence	1	66	.	.	.	ID=VSP_041076;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17331679;Dbxref=PMID:14702039,PMID:17331679	
+Q9Y3E7	UniProtKB	Alternative sequence	1	15	.	.	.	ID=VSP_042124;Note=In isoform 3. MGLFGKTQEKPPKEL->MEGELYSALKEEEASESVSSTNFSGEMHFYELVEDTKDGIWLVQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y3E7	UniProtKB	Alternative sequence	74	113	.	.	.	ID=VSP_042125;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3E7	UniProtKB	Mutagenesis	24	25	.	.	.	Note=Impairs HIV-1 release%3B when associated with S-28. RK->SA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740483;Dbxref=PMID:16740483	
+Q9Y3E7	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Impairs HIV-1 release%3B when associated with 24-S-A-25. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740483;Dbxref=PMID:16740483	
+Q9Y3E7	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Induces assembly with CHMP2A into helical tubes in vitro%3B when associated with D-64. Enhances inhibition of HIV-1 budding in vivo%3B when associated with D-168 and D-169. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19525971;Dbxref=PMID:19525971	
+Q9Y3E7	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Abolishes dimerization%3B when associated with N-56%3B E-59 and 62-D-E-63. K->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740483;Dbxref=PMID:16740483	
+Q9Y3E7	UniProtKB	Mutagenesis	56	56	.	.	.	Note=Abolishes dimerization%3B when associated with S-54%3B E-59 and 62-D-E-63. Q->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740483;Dbxref=PMID:16740483	
+Q9Y3E7	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Abolishes interaction with CHMP2A and assembly into helical tubes in vitro%3B when associated with D-62%3B D-168 and D-169. V->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16740483,ECO:0000269|PubMed:19525971;Dbxref=PMID:16740483,PMID:19525971	
+Q9Y3E7	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Abolishes dimerization%3B when associated with S-54%3B N-56 and 62-D-E-63. V->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16740483,ECO:0000269|PubMed:19525971;Dbxref=PMID:16740483,PMID:19525971	
+Q9Y3E7	UniProtKB	Mutagenesis	62	63	.	.	.	Note=Abolishes dimerization%3B when associated with S-54%3B N-56 and E-59. VL->DE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740483;Dbxref=PMID:16740483	
+Q9Y3E7	UniProtKB	Mutagenesis	62	62	.	.	.	Note=Abolishes interaction with CHMP2A and assembly into helical tubes in vitro%3B when associated with D-59%3B D-168 and D-169. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19525971;Dbxref=PMID:19525971	
+Q9Y3E7	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Induces assembly with CHMP2A into helical tubes in vitro%3B when associated with D-48. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19525971;Dbxref=PMID:19525971	
+Q9Y3E7	UniProtKB	Mutagenesis	78	79	.	.	.	Note=Abolishes dimerization. YA->AE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740483;Dbxref=PMID:16740483	
+Q9Y3E7	UniProtKB	Mutagenesis	168	169	.	.	.	Note=Induces assembly with CHMP2A into helical tubes in vitro and slightly enhances inhibition of HIV-1 budding in vivo. Abolishes interaction with CHMP2A and assembly into helical tubes in vitro%3B when associated with D-59 and D-62. IL->DD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19525971;Dbxref=PMID:19525971	
+Q9Y3E7	UniProtKB	Mutagenesis	179	222	.	.	.	Note=Membrane association%3B releases autoinhibition. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17547705;Dbxref=PMID:17547705	
+Q9Y3E7	UniProtKB	Mutagenesis	216	217	.	.	.	Note=Abolishes interaction with VPS4A and STAMBP. RL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17146056;Dbxref=PMID:17146056	
+Q9Y3E7	UniProtKB	Mutagenesis	221	222	.	.	.	Note=Abolishes interaction with VPS4A and STAMBP. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17146056;Dbxref=PMID:17146056	
+Q9Y3E7	UniProtKB	Mutagenesis	222	222	.	.	.	Note=Impairs interaction with VPS4A and STAMBP. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17146056;Dbxref=PMID:17146056	
+Q9Y3E7	UniProtKB	Sequence conflict	208	208	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3E7	UniProtKB	Helix	15	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Helix	57	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Helix	109	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Turn	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Beta strand	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Helix	125	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Helix	164	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Beta strand	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GD5	
+Q9Y3E7	UniProtKB	Helix	201	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XZE	

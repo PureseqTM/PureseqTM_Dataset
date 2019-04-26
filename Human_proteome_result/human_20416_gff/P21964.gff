@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region P21964 1 271
+P21964	UniProtKB	Chain	1	271	.	.	.	ID=PRO_0000020971;Note=Catechol O-methyltransferase	
+P21964	UniProtKB	Topological domain	1	6	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21964	UniProtKB	Transmembrane	7	26	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21964	UniProtKB	Topological domain	27	271	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21964	UniProtKB	Region	167	170	.	.	.	Note=S-adenosyl-L-methionine binding	
+P21964	UniProtKB	Metal binding	191	191	.	.	.	Note=Magnesium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Metal binding	219	219	.	.	.	Note=Magnesium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Metal binding	220	220	.	.	.	Note=Magnesium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Binding site	92	92	.	.	.	Note=S-adenosyl-L-methionine%3B via amide nitrogen;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01019,ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Binding site	114	114	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01019	
+P21964	UniProtKB	Binding site	122	122	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01019,ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Binding site	140	140	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01019,ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Binding site	141	141	.	.	.	Note=S-adenosyl-L-methionine%3B via amide nitrogen;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01019	
+P21964	UniProtKB	Binding site	169	169	.	.	.	Note=S-adenosyl-L-methionine%3B via amide nitrogen;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01019	
+P21964	UniProtKB	Binding site	191	191	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01019,ECO:0000269|PubMed:18486144;Dbxref=PMID:18486144	
+P21964	UniProtKB	Binding site	194	194	.	.	.	Note=Substrate	
+P21964	UniProtKB	Binding site	220	220	.	.	.	Note=Substrate	
+P21964	UniProtKB	Binding site	249	249	.	.	.	Note=Substrate	
+P21964	UniProtKB	Modified residue	267	267	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P22734	
+P21964	UniProtKB	Alternative sequence	1	50	.	.	.	ID=VSP_018778;Note=In isoform Soluble. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21964	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_013925;Note=C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:1847521;Dbxref=dbSNP:rs6270,PMID:10391209,PMID:1847521	
+P21964	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_013926;Note=Correlated with reduced enzyme activity%3B associated with increased risk for schizophrenia. A->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:15645182,ECO:0000269|Ref.8;Dbxref=dbSNP:rs6267,PMID:10391209,PMID:15645182	
+P21964	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_020274;Note=A->T;Dbxref=dbSNP:rs5031015	
+P21964	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_020275;Note=A->V;Dbxref=dbSNP:rs4986871	
+P21964	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_005139;Note=In allele COMT*2%3B associated with low enzyme activity and thermolability%3B may increase the tendency to develop high blood pressure and abdominal obesity. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15461802,ECO:0000269|PubMed:18442637,ECO:0000269|PubMed:18474266,ECO:0000269|PubMed:8807664,ECO:0000269|Ref.10,ECO:0000269|Ref.8;Dbxref=dbSNP:rs4680,PMID:15461802,PMID:18442637,PMID:18474266,PMID:8807664	
+P21964	UniProtKB	Sequence conflict	245	245	.	.	.	Note=Q->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21964	UniProtKB	Helix	55	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	72	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	93	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	110	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PYJ	
+P21964	UniProtKB	Helix	121	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	135	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	143	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	162	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	169	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	173	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	176	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	185	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	194	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	197	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	210	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	221	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Helix	227	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	239	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	
+P21964	UniProtKB	Beta strand	251	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BWY	

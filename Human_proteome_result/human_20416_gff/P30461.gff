@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region P30461 1 362
+P30461	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30461	UniProtKB	Chain	25	362	.	.	.	ID=PRO_0000018835;Note=HLA class I histocompatibility antigen%2C B-13 alpha chain	
+P30461	UniProtKB	Topological domain	25	309	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30461	UniProtKB	Transmembrane	310	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30461	UniProtKB	Topological domain	334	362	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30461	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P30461	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30461	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30461	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30461	UniProtKB	Region	299	309	.	.	.	Note=Connecting peptide	
+P30461	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30461	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30461	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P30461	UniProtKB	Natural variant	118	119	.	.	.	ID=VAR_016357;Note=In allele B*13:01. TW->II	
+P30461	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_016358;Note=In allele B*13:01. T->R	
+P30461	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_016360;Note=In allele B*13:04. N->D	
+P30461	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_016361;Note=In allele B*13:04. L->S	
+P30461	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_016362;Note=In allele B*13:03 and allele B*13:04%3B requires 2 nucleotide substitutions. L->R;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+P30461	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_016359;Note=In allele B*13:08. Y->C	
+P30461	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_016363;Note=In allele B*13:03 and allele B*13:04%3B requires 2 nucleotide substitutions. E->L	
+P30461	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_056330;Note=V->I;Dbxref=dbSNP:rs1131500	
+P30461	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_056331;Note=A->T;Dbxref=dbSNP:rs1051488	
+P30461	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_061397;Note=C->S;Dbxref=dbSNP:rs2308655	
+P30461	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_061398;Note=C->Y;Dbxref=dbSNP:rs2308655	

@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region Q9NR22 1 394
+Q9NR22	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16051612,ECO:0000269|PubMed:26876602;Dbxref=PMID:16051612,PMID:26876602	
+Q9NR22	UniProtKB	Chain	2	394	.	.	.	ID=PRO_0000212329;Note=Protein arginine N-methyltransferase 8	
+Q9NR22	UniProtKB	Domain	73	394	.	.	.	Note=SAM-dependent MTase PRMT-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01015	
+Q9NR22	UniProtKB	Region	119	122	.	.	.	Note=S-adenosyl-L-methionine binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305,ECO:0000305;evidence=ECO:0000244|PDB:4X41,ECO:0000244|PDB:5DST,ECO:0000305|PubMed:26529540,ECO:0000305|PubMed:26876602;Dbxref=PMID:26529540,PMID:26876602	
+Q9NR22	UniProtKB	Motif	29	42	.	.	.	Note=SH3-binding 1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17925405;Dbxref=PMID:17925405	
+Q9NR22	UniProtKB	Motif	53	58	.	.	.	Note=SH3-binding 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17925405;Dbxref=PMID:17925405	
+Q9NR22	UniProtKB	Active site	185	185	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63009	
+Q9NR22	UniProtKB	Active site	194	194	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63009	
+Q9NR22	UniProtKB	Binding site	86	86	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63009	
+Q9NR22	UniProtKB	Binding site	95	95	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305,ECO:0000305;evidence=ECO:0000244|PDB:4X41,ECO:0000244|PDB:5DST,ECO:0000305|PubMed:26529540,ECO:0000305|PubMed:26876602;Dbxref=PMID:26529540,PMID:26876602	
+Q9NR22	UniProtKB	Binding site	119	119	.	.	.	Note=S-adenosyl-L-methionine%3B via carbonyl oxygen;Ontology_term=ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5DST,ECO:0000305|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Binding site	141	141	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000305,ECO:0000305;evidence=ECO:0000244|PDB:4X41,ECO:0000244|PDB:5DST,ECO:0000305|PubMed:26529540,ECO:0000305|PubMed:26876602;Dbxref=PMID:26529540,PMID:26876602	
+Q9NR22	UniProtKB	Binding site	170	170	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:5DST,ECO:0000305|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Modified residue	58	58	.	.	.	Note=Omega-N-methylarginine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17925405;Dbxref=PMID:17925405	
+Q9NR22	UniProtKB	Modified residue	73	73	.	.	.	Note=Asymmetric dimethylarginine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17925405;Dbxref=PMID:17925405	
+Q9NR22	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16051612,ECO:0000269|PubMed:26876602;Dbxref=PMID:16051612,PMID:26876602	
+Q9NR22	UniProtKB	Alternative sequence	1	25	.	.	.	ID=VSP_037466;Note=In isoform 2. MGMKHSSRCLLLRRKMAENAAESTE->MESLASDGFKLKEVSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NR22	UniProtKB	Mutagenesis	2	2	.	.	.	Note=Loss of cell membrane localization. G->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17925405,ECO:0000269|PubMed:26876602;Dbxref=PMID:17925405,PMID:26876602	
+Q9NR22	UniProtKB	Mutagenesis	273	273	.	.	.	Note=No effect on homodimerization but decreased homooligomerization%3B when associated with A-295 and A-349. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Mutagenesis	295	295	.	.	.	Note=No effect on homodimerization but decreased homooligomerization%3B when associated with A-273 and A-349. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Mutagenesis	303	303	.	.	.	Note=Decreases homooligomerization and cell membrane localization. No effect on homodimerization%2C S-adenosyl-L-methionine binding and EWS protein methylation. No effect on homodimerization but loss of homooligomerization and cell membrane localization%3B when associated with A-345 and A-382. No effect on S-adenosyl-L-methionine binding but reduced EWS protein methylation%3B when associated with A-345 and A-382. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Mutagenesis	345	345	.	.	.	Note=No effect on homooligomerization. No effect on S-adenosyl-L-methionine binding and EWS protein methylation. No effect on homodimerization but loss of homooligomerization and cell membrane localization%3B when associated with A-303 and A-382. No effect on S-adenosyl-L-methionine binding but reduced EWS protein methylation%3B when associated with A-303 and A-382. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Mutagenesis	349	349	.	.	.	Note=No effect on homodimerization but decreased homooligomerization%3B when associated with A-273 and A-295. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Mutagenesis	382	382	.	.	.	Note=No effect on homooligomerization. No effect on S-adenosyl-L-methionine binding and EWS protein methylation. No effect on homodimerization but loss of homooligomerization and cell membrane localization%3B when associated with A-303 and A-345. No effect on S-adenosyl-L-methionine binding but reduced EWS protein methylation%3B when associated with A-303 and A-345. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q9NR22	UniProtKB	Sequence conflict	150	150	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NR22	UniProtKB	Helix	83	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	93	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	107	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	114	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	124	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	135	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	145	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Turn	159	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	162	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Turn	169	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	179	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Turn	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	197	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	208	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	218	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	229	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	237	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	248	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	259	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	273	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Turn	280	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Helix	285	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	289	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	300	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	322	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	337	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	353	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	364	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4X41	
+Q9NR22	UniProtKB	Beta strand	369	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	
+Q9NR22	UniProtKB	Beta strand	384	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5DST	

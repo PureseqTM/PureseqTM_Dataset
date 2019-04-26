@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q96GX9 1 242
+Q96GX9	UniProtKB	Chain	1	242	.	.	.	ID=PRO_0000239022;Note=Methylthioribulose-1-phosphate dehydratase	
+Q96GX9	UniProtKB	Active site	139	139	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03116,ECO:0000269|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Metal binding	115	115	.	.	.	Note=Zinc%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000305;evidence=ECO:0000244|PDB:4M6R,ECO:0000255|HAMAP-Rule:MF_03116,ECO:0000305|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Metal binding	117	117	.	.	.	Note=Zinc%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000305;evidence=ECO:0000244|PDB:4M6R,ECO:0000255|HAMAP-Rule:MF_03116,ECO:0000305|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Metal binding	195	195	.	.	.	Note=Zinc%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000305;evidence=ECO:0000244|PDB:4M6R,ECO:0000255|HAMAP-Rule:MF_03116,ECO:0000305|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Binding site	97	97	.	.	.	Note=Substrate;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|HAMAP-Rule:MF_03116,ECO:0000305|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+Q96GX9	UniProtKB	Alternative sequence	1	53	.	.	.	ID=VSP_044403;Note=In isoform 2. MSGCDAREGDCCSRRCGAQDKEHPRYLIPELCKQFYHLGWVTGTGGGISLKHG->MLGRETVVPGDAARS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96GX9	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_026575;Note=R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2956114,PMID:14702039,PMID:15489334	
+Q96GX9	UniProtKB	Natural variant	23	23	.	.	.	ID=VAR_026576;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17850326,PMID:15489334	
+Q96GX9	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_026577;Note=C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1977420,PMID:14702039,PMID:15489334	
+Q96GX9	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_026578;Note=M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17850327,PMID:15489334	
+Q96GX9	UniProtKB	Mutagenesis	84	84	.	.	.	Note=Does not affect ability of cells to grow in media where methionine is replaced by 5-methylthioadenosine%3B when associated with A%2CD-87 and A%2CD-89. S->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23285211;Dbxref=PMID:23285211	
+Q96GX9	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Does not affect ability of cells to grow in media where methionine is replaced by 5-methylthioadenosine%3B when associated with A%2CD-84 and A%2CD-89. S->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23285211;Dbxref=PMID:23285211	
+Q96GX9	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Does not affect ability of cells to grow in media where methionine is replaced by 5-methylthioadenosine%3B when associated with A%2CD-84 and A%2CD-87. S->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23285211;Dbxref=PMID:23285211	
+Q96GX9	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Mildly reduced enzyme activity. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Acts as a dominant negative mutant%3B unable to use 5'-methylthioadenosine as source of methionine. Does not affect the ability to bind CASP1 and to inhibit cell death induced by CASP9 overexpression. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22837397;Dbxref=PMID:22837397	
+Q96GX9	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Almost complete loss of enzyme activity. Abolishes protection against pyroptosis. No effect on anti-apoptotic activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Mutagenesis	115	115	.	.	.	Note=Almost complete loss of enzyme activity. Abolishes protection against pyroptosis. No effect on anti-apoptotic activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Mutagenesis	115	115	.	.	.	Note=Impaired ability of cells to grow in media where methionine is replaced by 5-methylthioadenosine%3B when associated with A-117 and A-195. Unable to inhibit both CASP1 and CASP9 mediated cell death. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22837397,ECO:0000269|PubMed:23285211;Dbxref=PMID:22837397,PMID:23285211	
+Q96GX9	UniProtKB	Mutagenesis	117	117	.	.	.	Note=Impaired ability of cells to grow in media where methionine is replaced by 5-methylthioadenosine%3B when associated with A-115 and A-195. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23285211;Dbxref=PMID:23285211	
+Q96GX9	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Almost complete loss of enzyme activity. Abolishes protection against pyroptosis. No effect on anti-apoptotic activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24367089;Dbxref=PMID:24367089	
+Q96GX9	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Impaired ability of cells to grow in media where methionine is replaced by 5-methylthioadenosine%3B when associated with 87-A--A-89. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23285211;Dbxref=PMID:23285211	
+Q96GX9	UniProtKB	Sequence conflict	7	7	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96GX9	UniProtKB	Sequence conflict	172	172	.	.	.	Note=D->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96GX9	UniProtKB	Helix	24	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	47	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	55	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	70	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	82	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	88	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	98	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	119	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	130	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	139	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Turn	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	157	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	170	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	188	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Turn	193	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Beta strand	196	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	
+Q96GX9	UniProtKB	Helix	204	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6R	

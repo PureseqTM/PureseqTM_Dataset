@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q53H12 1 422
+Q53H12	UniProtKB	Chain	1	422	.	.	.	ID=PRO_0000252380;Note=Acylglycerol kinase%2C mitochondrial	
+Q53H12	UniProtKB	Domain	58	199	.	.	.	Note=DAGKc;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00783	
+Q53H12	UniProtKB	Region	15	31	.	.	.	Note=Hydrophobic;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53H12	UniProtKB	Modified residue	6	6	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q53H12	UniProtKB	Alternative sequence	48	65	.	.	.	ID=VSP_020925;Note=In isoform 2. VFGNQLIPPNAQVKKATV->HYQDESRWEPTLSRTPGS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q53H12	UniProtKB	Alternative sequence	66	422	.	.	.	ID=VSP_020926;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q53H12	UniProtKB	Natural variant	3	3	.	.	.	ID=VAR_027848;Note=V->M;Dbxref=dbSNP:rs10262855	
+Q53H12	UniProtKB	Natural variant	137	422	.	.	.	ID=VAR_079050;Note=In MTDPS10. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25208612;Dbxref=PMID:25208612	
+Q53H12	UniProtKB	Natural variant	291	422	.	.	.	ID=VAR_079051;Note=In MTDPS10. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25208612;Dbxref=PMID:25208612	
+Q53H12	UniProtKB	Natural variant	327	422	.	.	.	ID=VAR_079052;Note=In MTDPS10. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23266196;Dbxref=PMID:23266196	
+Q53H12	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Abolishes lipid kinase activity. Does not affect ability to associate with the TIM22 complex and mediate import of transmembrane proteins into the mitochondrial inner membrane. G->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15939762,ECO:0000269|PubMed:28712724,ECO:0000269|PubMed:28712726;Dbxref=PMID:15939762,PMID:28712724,PMID:28712726	
+Q53H12	UniProtKB	Sequence conflict	94	94	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

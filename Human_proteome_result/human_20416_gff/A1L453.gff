@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region A1L453 1 326
+A1L453	UniProtKB	Signal peptide	1	32	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+A1L453	UniProtKB	Propeptide	33	59	.	.	.	ID=PRO_0000328820;Note=Activation peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+A1L453	UniProtKB	Chain	60	326	.	.	.	ID=PRO_0000328821;Note=Serine protease 38	
+A1L453	UniProtKB	Domain	60	293	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+A1L453	UniProtKB	Active site	100	100	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+A1L453	UniProtKB	Active site	150	150	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+A1L453	UniProtKB	Active site	245	245	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+A1L453	UniProtKB	Glycosylation	125	125	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+A1L453	UniProtKB	Disulfide bond	85	101	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+A1L453	UniProtKB	Disulfide bond	183	251	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+A1L453	UniProtKB	Disulfide bond	214	230	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+A1L453	UniProtKB	Disulfide bond	241	269	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+A1L453	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_042531;Note=M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs9426581,PMID:15489334	
+A1L453	UniProtKB	Sequence conflict	123	123	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

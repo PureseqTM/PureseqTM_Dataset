@@ -1,0 +1,88 @@
+##gff-version 3
+##sequence-region P51648 1 485
+P51648	UniProtKB	Chain	1	485	.	.	.	ID=PRO_0000056473;Note=Fatty aldehyde dehydrogenase	
+P51648	UniProtKB	Topological domain	1	463	.	.	.	Note=Cytoplasmic	
+P51648	UniProtKB	Transmembrane	464	484	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51648	UniProtKB	Nucleotide binding	185	190	.	.	.	Note=NAD;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51648	UniProtKB	Active site	207	207	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10007,ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Active site	241	241	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10008,ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Modified residue	293	293	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P51648	UniProtKB	Alternative sequence	482	485	.	.	.	ID=VSP_001283;Note=In isoform 2. AEYY->KYQAVLRRKALLIFLVVHRLRWSSKQR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9027499;Dbxref=PMID:15489334,PMID:9027499	
+P51648	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_017510;Note=In SLS%3B severe loss of activity. I->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=PMID:10577908	
+P51648	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_017511;Note=In SLS%3B severe loss of activity. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547556,PMID:10577908	
+P51648	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_002249;Note=In SLS%3B severe loss of activity. L->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10577908,ECO:0000269|PubMed:9829906;Dbxref=dbSNP:rs72547558,PMID:10577908,PMID:9829906	
+P51648	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_017512;Note=In SLS%3B severe loss of activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547559,PMID:10577908	
+P51648	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_017513;Note=In SLS%3B severe loss of activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547560,PMID:10577908	
+P51648	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_017514;Note=In SLS%3B severe loss of activity. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547562,PMID:10577908	
+P51648	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_017515;Note=In SLS%3B severe loss of activity. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=PMID:10577908	
+P51648	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_017516;Note=In SLS%3B severe loss of activity. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547563,PMID:10577908	
+P51648	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_002250;Note=In SLS%3B 4%25 of activity. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8528251;Dbxref=dbSNP:rs72547564,PMID:8528251	
+P51648	UniProtKB	Natural variant	226	226	.	.	.	ID=VAR_002251;Note=In SLS. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9829906;Dbxref=dbSNP:rs72547565,PMID:9829906	
+P51648	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_017517;Note=In SLS%3B severe loss of activity. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547566,PMID:10577908	
+P51648	UniProtKB	Natural variant	237	237	.	.	.	ID=VAR_017518;Note=In SLS%3B severe loss of activity. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547567,PMID:10577908	
+P51648	UniProtKB	Natural variant	245	245	.	.	.	ID=VAR_002252;Note=In SLS%3B severe loss of activity%3B originally thought to be a neutral polymorphism. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10577908,ECO:0000269|PubMed:9829906;Dbxref=dbSNP:rs72547568,PMID:10577908,PMID:9829906	
+P51648	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_017519;Note=In SLS%3B mild reduction of activity%3B the underlying nucleotide substitution affects transcript stability. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547569,PMID:10577908	
+P51648	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_017520;Note=In SLS%3B severe loss of activity. Y->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547570,PMID:10577908	
+P51648	UniProtKB	Natural variant	314	315	.	.	.	ID=VAR_002253;Note=In SLS%3B 8%25 of activity. AP->GAKSTVGA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8528251;Dbxref=PMID:8528251	
+P51648	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_002254;Note=In SLS%3B common mutation in Europeans%3B severe loss of enzymatic activity. P->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10577908,ECO:0000269|PubMed:9254849,ECO:0000269|PubMed:9829906;Dbxref=dbSNP:rs72547571,PMID:10577908,PMID:9254849,PMID:9829906	
+P51648	UniProtKB	Natural variant	328	328	.	.	.	ID=VAR_017521;Note=In SLS. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547572,PMID:10577908	
+P51648	UniProtKB	Natural variant	365	365	.	.	.	ID=VAR_002255;Note=In SLS%3B severe loss of activity. S->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10577908,ECO:0000269|PubMed:9829906;Dbxref=dbSNP:rs72547573,PMID:10577908,PMID:9829906	
+P51648	UniProtKB	Natural variant	386	386	.	.	.	ID=VAR_017522;Note=In SLS. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10792573;Dbxref=dbSNP:rs72547575,PMID:10792573	
+P51648	UniProtKB	Natural variant	406	406	.	.	.	ID=VAR_017523;Note=In SLS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=PMID:10577908	
+P51648	UniProtKB	Natural variant	411	411	.	.	.	ID=VAR_017524;Note=In SLS%3B severe loss of activity. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=PMID:10577908	
+P51648	UniProtKB	Natural variant	412	412	.	.	.	ID=VAR_002256;Note=In SLS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9829906;Dbxref=dbSNP:rs778115541,PMID:9829906	
+P51648	UniProtKB	Natural variant	415	415	.	.	.	ID=VAR_017525;Note=In SLS%3B severe loss of activity. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=PMID:10577908	
+P51648	UniProtKB	Natural variant	419	419	.	.	.	ID=VAR_017526;Note=In SLS%3B severe loss of activity. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs72547576,PMID:10577908	
+P51648	UniProtKB	Natural variant	423	423	.	.	.	ID=VAR_017527;Note=In SLS%3B severe loss of activity. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs768290318,PMID:10577908	
+P51648	UniProtKB	Natural variant	447	447	.	.	.	ID=VAR_017528;Note=In SLS%3B severe loss of activity. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10577908;Dbxref=dbSNP:rs67939114,PMID:10577908	
+P51648	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Loss of enzyme activity. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Loss of enzyme activity. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Mutagenesis	241	241	.	.	.	Note=Loss of enzyme activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Mutagenesis	331	331	.	.	.	Note=Loss of enzyme activity. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Mutagenesis	410	410	.	.	.	Note=Decreased enzyme activity with dodecanal and hexadecanal. No effect on enzyme activity with octanal. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Mutagenesis	445	485	.	.	.	Note=Decreased enzyme activity with dodecanal. Strongly decreased enzyme activity with hexadecanal. No effect on enzyme activity with octanal. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25047030;Dbxref=PMID:25047030	
+P51648	UniProtKB	Helix	1	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Turn	14	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	20	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	38	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	53	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	61	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Turn	88	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	93	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	103	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	111	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	116	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	131	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	141	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Turn	157	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	167	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	179	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	187	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	204	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	213	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	218	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	222	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	235	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	246	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	251	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	254	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	273	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	285	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Turn	294	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	300	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Turn	308	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	316	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	326	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	334	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	345	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	359	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	368	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	381	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	390	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	403	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	413	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	420	427	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	433	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Beta strand	440	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	
+P51648	UniProtKB	Helix	445	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QGK	

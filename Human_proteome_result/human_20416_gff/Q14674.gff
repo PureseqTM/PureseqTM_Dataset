@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q14674 1 2120
+Q14674	UniProtKB	Chain	1	2120	.	.	.	ID=PRO_0000205900;Note=Separin	
+Q14674	UniProtKB	Domain	1945	2040	.	.	.	Note=Peptidase C50	
+Q14674	UniProtKB	Active site	2029	2029	.	.	.	.	
+Q14674	UniProtKB	Site	1506	1507	.	.	.	Note=Cleavage%3B by autolysis	
+Q14674	UniProtKB	Site	1535	1536	.	.	.	Note=Cleavage%3B by autolysis	
+Q14674	UniProtKB	Modified residue	1126	1126	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11747808;Dbxref=PMID:11747808	
+Q14674	UniProtKB	Modified residue	1396	1396	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332;Dbxref=PMID:18669648,PMID:19690332	
+Q14674	UniProtKB	Modified residue	1399	1399	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332;Dbxref=PMID:18669648,PMID:19690332	
+Q14674	UniProtKB	Modified residue	1508	1508	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q14674	UniProtKB	Alternative sequence	1	325	.	.	.	ID=VSP_009361;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8724849;Dbxref=PMID:8724849	
+Q14674	UniProtKB	Natural variant	614	614	.	.	.	ID=VAR_057703;Note=S->R;Dbxref=dbSNP:rs1318648	
+Q14674	UniProtKB	Natural variant	699	699	.	.	.	ID=VAR_057704;Note=R->Q;Dbxref=dbSNP:rs34424268	
+Q14674	UniProtKB	Natural variant	1136	1136	.	.	.	ID=VAR_057705;Note=I->V;Dbxref=dbSNP:rs34130634	
+Q14674	UniProtKB	Natural variant	1157	1157	.	.	.	ID=VAR_057706;Note=T->A;Dbxref=dbSNP:rs35428211	
+Q14674	UniProtKB	Natural variant	1237	1237	.	.	.	ID=VAR_057707;Note=Q->H;Dbxref=dbSNP:rs34396464	
+Q14674	UniProtKB	Natural variant	1435	1435	.	.	.	ID=VAR_057708;Note=K->M;Dbxref=dbSNP:rs1110719	
+Q14674	UniProtKB	Mutagenesis	1126	1126	.	.	.	Note=Abolishes phosphorylation at this site%2C as well as the negative regulation due to phosphorylation. S->A	
+Q14674	UniProtKB	Mutagenesis	1483	1486	.	.	.	Note=Abolishes autocleavage%3B when associated with R-1178%3B E-1181%3B R-1207 and E-1210. Does not affect the protease function. EIMR->RIME;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12194817;Dbxref=PMID:12194817	
+Q14674	UniProtKB	Mutagenesis	1486	1486	.	.	.	Note=Abolishes autocleavage%3B when associated with A-1181 and A-1210. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12297314;Dbxref=PMID:12297314	
+Q14674	UniProtKB	Mutagenesis	1503	1506	.	.	.	Note=Does not affect autocleavage. Does not affect the protease function. EILR->RILE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12194817;Dbxref=PMID:12194817	
+Q14674	UniProtKB	Mutagenesis	1506	1506	.	.	.	Note=Abolishes autocleavage%3B when associated with A-1161 and A-1210. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12297314;Dbxref=PMID:12297314	
+Q14674	UniProtKB	Mutagenesis	1532	1535	.	.	.	Note=Strongly reduces autocleavage at this site%2C but enhances autocleavage at site 1. Does not affect the protease function. ELLR->RLLE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12194817;Dbxref=PMID:12194817	
+Q14674	UniProtKB	Mutagenesis	1535	1535	.	.	.	Note=Abolishes autocleavage%3B when associated with A-1161 and A-1281. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12297314;Dbxref=PMID:12297314	
+Q14674	UniProtKB	Mutagenesis	2029	2029	.	.	.	Note=Abolishes protease activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12194817;Dbxref=PMID:12194817	
+Q14674	UniProtKB	Sequence conflict	25	25	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	116	116	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	693	693	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	693	693	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	1329	1329	.	.	.	Note=R->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	1329	1329	.	.	.	Note=R->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	1561	1561	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	1561	1561	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	2037	2037	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14674	UniProtKB	Sequence conflict	2037	2037	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

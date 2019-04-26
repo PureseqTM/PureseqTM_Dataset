@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region O75569 1 313
+O75569	UniProtKB	Chain	1	313	.	.	.	ID=PRO_0000223609;Note=Interferon-inducible double-stranded RNA-dependent protein kinase activator A	
+O75569	UniProtKB	Domain	34	101	.	.	.	Note=DRBM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00266	
+O75569	UniProtKB	Domain	126	194	.	.	.	Note=DRBM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00266	
+O75569	UniProtKB	Domain	240	308	.	.	.	Note=DRBM 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00266	
+O75569	UniProtKB	Region	1	103	.	.	.	Note=Sufficient for self-association and interaction with TARBP2	
+O75569	UniProtKB	Region	102	195	.	.	.	Note=Sufficient for self-association and interaction with TARBP2	
+O75569	UniProtKB	Region	195	313	.	.	.	Note=Sufficient for self-association and interaction with TARBP2	
+O75569	UniProtKB	Modified residue	18	18	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163	
+O75569	UniProtKB	Modified residue	167	167	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O75569	UniProtKB	Modified residue	246	246	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Modified residue	287	287	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Alternative sequence	1	25	.	.	.	ID=VSP_017282;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+O75569	UniProtKB	Alternative sequence	1	21	.	.	.	ID=VSP_017283;Note=In isoform 2. MSQSRHRAEAPPLEREDSGTF->MQSTPFCGFC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11230166;Dbxref=PMID:11230166	
+O75569	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_046213;Note=In DYT16. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18243799;Dbxref=dbSNP:rs121434410,PMID:18243799	
+O75569	UniProtKB	Mutagenesis	18	18	.	.	.	Note=No effect on apoptosis induction under conditions of stress. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	18	18	.	.	.	Note=Does not induce apoptosis. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	246	246	.	.	.	Note=Abrogates apoptosis induction under conditions of stress and binding to EIF2AK2. Prevents activation of EIF2AK2 in stressed cells%3B when associated with A-287. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	246	246	.	.	.	Note=Induces activation of EIF2AK2 and apoptosis in unstressed cells%3B when associated with D-287. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	260	260	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	271	271	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	279	279	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. Prevents activation of EIF2AK2 in stressed cells%3B when associated with A-246. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Induces activation of EIF2AK2 and apoptosis in unstressed cells%3B when associated with D-246. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Abrogates apoptosis induction under conditions of stress. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16982605;Dbxref=PMID:16982605	
+O75569	UniProtKB	Mutagenesis	298	299	.	.	.	Note=Abrogates interaction with DICER1 but does not affect interaction with AGO2. AA->KK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16424907;Dbxref=PMID:16424907	
+O75569	UniProtKB	Sequence conflict	282	282	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75569	UniProtKB	Helix	35	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DIX	
+O75569	UniProtKB	Beta strand	51	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DIX	
+O75569	UniProtKB	Beta strand	60	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DIX	
+O75569	UniProtKB	Beta strand	65	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DIX	
+O75569	UniProtKB	Beta strand	75	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DIX	
+O75569	UniProtKB	Helix	86	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DIX	

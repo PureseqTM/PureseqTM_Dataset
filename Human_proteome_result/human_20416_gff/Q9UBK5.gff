@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q9UBK5 1 93
+Q9UBK5	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBK5	UniProtKB	Chain	19	93	.	.	.	ID=PRO_0000330287;Note=Hematopoietic cell signal transducer	
+Q9UBK5	UniProtKB	Topological domain	19	48	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBK5	UniProtKB	Transmembrane	49	69	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBK5	UniProtKB	Topological domain	70	93	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBK5	UniProtKB	Region	86	89	.	.	.	Note=PIK3R1 binding site	
+Q9UBK5	UniProtKB	Region	86	88	.	.	.	Note=GRB2 binding site	
+Q9UBK5	UniProtKB	Modified residue	86	86	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16582911;Dbxref=PMID:16582911	
+Q9UBK5	UniProtKB	Alternative sequence	81	81	.	.	.	ID=VSP_033022;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10426994,ECO:0000303|PubMed:12975309;Dbxref=PMID:10426994,PMID:12975309	
+Q9UBK5	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Abolishes stable interaction with KLRK1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10426994;Dbxref=PMID:10426994	
+Q9UBK5	UniProtKB	Mutagenesis	88	88	.	.	.	Note=Abrogates cell killing and interaction with GRB2. No effect on interaction with PIK3R1. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16582911;Dbxref=PMID:16582911	
+Q9UBK5	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Abrogates cell killing and interaction with PIK3R1. No effect on interaction with GRB2. M->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16582911;Dbxref=PMID:16582911	

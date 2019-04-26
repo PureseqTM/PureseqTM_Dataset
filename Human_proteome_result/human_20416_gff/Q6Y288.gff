@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region Q6Y288 1 498
+Q6Y288	UniProtKB	Chain	1	498	.	.	.	ID=PRO_0000252399;Note=Beta-1%2C3-glucosyltransferase	
+Q6Y288	UniProtKB	Topological domain	1	6	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6Y288	UniProtKB	Transmembrane	7	27	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6Y288	UniProtKB	Topological domain	28	498	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6Y288	UniProtKB	Motif	495	498	.	.	.	Note=Prevents secretion from ER	
+Q6Y288	UniProtKB	Glycosylation	336	336	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6Y288	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_027849;Note=E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12943678,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:16899492,ECO:0000269|Ref.5;Dbxref=dbSNP:rs1041073,PMID:12943678,PMID:14702039,PMID:16899492	
+Q6Y288	UniProtKB	Mutagenesis	495	498	.	.	.	Note=Abolishes endoplasmic reticulum localization. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16899492;Dbxref=PMID:16899492	
+Q6Y288	UniProtKB	Sequence conflict	284	284	.	.	.	Note=I->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	

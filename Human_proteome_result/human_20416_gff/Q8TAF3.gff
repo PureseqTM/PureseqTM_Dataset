@@ -1,0 +1,104 @@
+##gff-version 3
+##sequence-region Q8TAF3 1 677
+Q8TAF3	UniProtKB	Chain	1	677	.	.	.	ID=PRO_0000051399;Note=WD repeat-containing protein 48	
+Q8TAF3	UniProtKB	Repeat	28	67	.	.	.	Note=WD 1	
+Q8TAF3	UniProtKB	Repeat	73	112	.	.	.	Note=WD 2	
+Q8TAF3	UniProtKB	Repeat	115	154	.	.	.	Note=WD 3	
+Q8TAF3	UniProtKB	Repeat	166	205	.	.	.	Note=WD 4	
+Q8TAF3	UniProtKB	Repeat	208	247	.	.	.	Note=WD 5	
+Q8TAF3	UniProtKB	Repeat	250	289	.	.	.	Note=WD 6	
+Q8TAF3	UniProtKB	Repeat	292	334	.	.	.	Note=WD 7	
+Q8TAF3	UniProtKB	Repeat	358	397	.	.	.	Note=WD 8	
+Q8TAF3	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BH57	
+Q8TAF3	UniProtKB	Modified residue	214	214	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q8TAF3	UniProtKB	Modified residue	578	578	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BH57	
+Q8TAF3	UniProtKB	Modified residue	613	613	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q8TAF3	UniProtKB	Alternative sequence	1	558	.	.	.	ID=VSP_016776;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q8TAF3	UniProtKB	Alternative sequence	1	90	.	.	.	ID=VSP_037623;Note=In isoform 4. MAAHHRQNTAGRRKVQVSYVIRDEVEKYNRNGVNALQLDPALNRLFTAGRDSIIRIWSVNQHKQDPYIASMEHHTDWVNDIVLCCNGKTL->MECQSAQV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8TAF3	UniProtKB	Alternative sequence	16	223	.	.	.	ID=VSP_037624;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8TAF3	UniProtKB	Alternative sequence	91	99	.	.	.	ID=VSP_037625;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8TAF3	UniProtKB	Alternative sequence	325	391	.	.	.	ID=VSP_037626;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8TAF3	UniProtKB	Alternative sequence	645	645	.	.	.	ID=VSP_016777;Note=In isoform 2. D->DQV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q8TAF3	UniProtKB	Natural variant	628	628	.	.	.	ID=VAR_077846;Note=Found in a patient with spastic paraplegia%3B unknown pathological significance. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24482476;Dbxref=PMID:24482476	
+Q8TAF3	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Impaired binding to USP12%3B when associated with Ala-256. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27373336;Dbxref=PMID:27373336	
+Q8TAF3	UniProtKB	Mutagenesis	119	119	.	.	.	Note=Impaired binding to USP12%3B when associated with Ala-172. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27373336;Dbxref=PMID:27373336	
+Q8TAF3	UniProtKB	Mutagenesis	170	170	.	.	.	Note=Strongly reduces interaction with USP46 and abolishes stimulation of USP46 enzyme activity. S->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26388029;Dbxref=PMID:26388029	
+Q8TAF3	UniProtKB	Mutagenesis	172	172	.	.	.	Note=Impaired binding to USP12%3B when associated with Ala-119. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27373336;Dbxref=PMID:27373336	
+Q8TAF3	UniProtKB	Mutagenesis	214	214	.	.	.	Note=Strongly reduces interaction with USP12 or USP46 and abolishes stimulation of their enzyme activity%3B when associated with A-256 and D-272. K->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26388029,ECO:0000269|PubMed:27650958;Dbxref=PMID:26388029,PMID:27650958	
+Q8TAF3	UniProtKB	Mutagenesis	256	256	.	.	.	Note=Strongly reduces interaction with USP12 or USP46 and abolishes stimulation of their enzyme activity%3B when associated with E-214 and D-272. Impaired binding to USP12%3B when associated with Ala-77. W->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26388029,ECO:0000269|PubMed:27373336,ECO:0000269|PubMed:27650958;Dbxref=PMID:26388029,PMID:27373336,PMID:27650958	
+Q8TAF3	UniProtKB	Mutagenesis	272	272	.	.	.	Note=Strongly reduces interaction with USP12 or USP46 and abolishes stimulation of their enzyme activity%3B when associated with E-214 and A-256. R->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26388029,ECO:0000269|PubMed:27650958;Dbxref=PMID:26388029,PMID:27650958	
+Q8TAF3	UniProtKB	Mutagenesis	580	580	.	.	.	Note=Impaired binding to PHLPP1. Defective in stabilizing PHLPP1. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24145035;Dbxref=PMID:24145035	
+Q8TAF3	UniProtKB	Sequence conflict	161	161	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TAF3	UniProtKB	Sequence conflict	286	286	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TAF3	UniProtKB	Sequence conflict	319	319	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TAF3	UniProtKB	Sequence conflict	328	328	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TAF3	UniProtKB	Sequence conflict	585	585	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TAF3	UniProtKB	Beta strand	15	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	28	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CVL	
+Q8TAF3	UniProtKB	Beta strand	33	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	44	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	54	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	67	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	78	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	85	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	89	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	99	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	104	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	108	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	120	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	131	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	141	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	146	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	158	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	162	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L8E	
+Q8TAF3	UniProtKB	Beta strand	171	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	183	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	191	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	197	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	202	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	213	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	222	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	234	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	239	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	243	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	255	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	266	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	275	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	287	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	297	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	305	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	310	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	321	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	329	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CVL	
+Q8TAF3	UniProtKB	Beta strand	354	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	363	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	372	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	384	388	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	389	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	393	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	403	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	421	423	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	427	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	435	439	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	442	444	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	445	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	453	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L8E	
+Q8TAF3	UniProtKB	Beta strand	459	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	462	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Turn	471	473	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	475	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	514	522	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	524	529	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	530	534	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	536	545	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	548	554	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	564	571	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	583	588	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	593	603	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	631	638	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	639	643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Helix	654	660	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	
+Q8TAF3	UniProtKB	Beta strand	664	674	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5K1A	

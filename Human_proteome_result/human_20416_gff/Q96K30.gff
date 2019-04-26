@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region Q96K30 1 269
+Q96K30	UniProtKB	Chain	1	269	.	.	.	ID=PRO_0000294429;Note=RBPJ-interacting and tubulin-associated protein 1	
+Q96K30	UniProtKB	Region	128	156	.	.	.	Note=Interaction with RBPJ/RBPSUH;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21102556;Dbxref=PMID:21102556	
+Q96K30	UniProtKB	Region	156	269	.	.	.	Note=Interaction with tubulin	
+Q96K30	UniProtKB	Motif	5	17	.	.	.	Note=Nuclear export signal	
+Q96K30	UniProtKB	Motif	92	108	.	.	.	Note=Nuclear localization signal	
+Q96K30	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_055649;Note=In isoform 3. M->MLREPRKQGLAGRAHLLSPGTTGSM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96K30	UniProtKB	Alternative sequence	161	177	.	.	.	ID=VSP_026636;Note=In isoform 2. LRAIHPAGPSKTEPGPA->VPPTQMGLRISGLPRQG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96K30	UniProtKB	Alternative sequence	178	269	.	.	.	ID=VSP_026637;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96K30	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_050865;Note=S->W;Dbxref=dbSNP:rs16942601	
+Q96K30	UniProtKB	Natural variant	220	220	.	.	.	ID=VAR_033175;Note=T->K;Dbxref=dbSNP:rs34831139	
+Q96K30	UniProtKB	Mutagenesis	7	7	.	.	.	Note=Results in nuclear accumulation%3B when associated with A-12 and A-15. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21102556;Dbxref=PMID:21102556	
+Q96K30	UniProtKB	Mutagenesis	12	12	.	.	.	Note=Results in nuclear accumulation%3B when associated with A-7 and A-15. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21102556;Dbxref=PMID:21102556	
+Q96K30	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Results in nuclear accumulation%3B when associated with A-7 and A-12. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21102556;Dbxref=PMID:21102556	
+Q96K30	UniProtKB	Mutagenesis	95	97	.	.	.	Note=Abolishes nuclear localization. RKK->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21102556;Dbxref=PMID:21102556	
+Q96K30	UniProtKB	Sequence conflict	73	73	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96K30	UniProtKB	Sequence conflict	217	217	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96K30	UniProtKB	Beta strand	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EG6	

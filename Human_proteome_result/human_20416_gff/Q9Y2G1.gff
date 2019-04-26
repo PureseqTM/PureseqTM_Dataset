@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region Q9Y2G1 1 1151
+Q9Y2G1	UniProtKB	Chain	1	1151	.	.	.	ID=PRO_0000318919;Note=Myelin regulatory factor	
+Q9Y2G1	UniProtKB	Chain	1	586	.	.	.	ID=PRO_0000424310;Note=Myelin regulatory factor%2C N-terminal;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Chain	587	1151	.	.	.	ID=PRO_0000424311;Note=Myelin regulatory factor%2C C-terminal;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Topological domain	1	768	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Transmembrane	769	789	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Topological domain	790	1151	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Domain	587	696	.	.	.	Note=Peptidase S74;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01025	
+Q9Y2G1	UniProtKB	DNA binding	250	541	.	.	.	Note=NDT80;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00850	
+Q9Y2G1	UniProtKB	Coiled coil	680	711	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Motif	254	257	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Motif	491	494	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Compositional bias	77	330	.	.	.	Note=Pro-rich	
+Q9Y2G1	UniProtKB	Site	586	587	.	.	.	Note=Cleavage%3B by autolysis;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01025,ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Modified residue	123	123	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9Y2G1	UniProtKB	Glycosylation	919	919	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Glycosylation	1043	1043	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Glycosylation	1065	1065	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Glycosylation	1129	1129	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y2G1	UniProtKB	Alternative sequence	1	15	.	.	.	ID=VSP_031300;Note=In isoform 2. MEVVDETEALQRFFE->MHWLPA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10828591;Dbxref=PMID:10828591	
+Q9Y2G1	UniProtKB	Alternative sequence	803	829	.	.	.	ID=VSP_031301;Note=In isoform 2. SFAVSTSCLLALLRPQPPGGSEALCPW->R;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10828591;Dbxref=PMID:10828591	
+Q9Y2G1	UniProtKB	Alternative sequence	1006	1010	.	.	.	ID=VSP_031302;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10828591;Dbxref=PMID:10828591	
+Q9Y2G1	UniProtKB	Natural variant	403	403	.	.	.	ID=VAR_081183;Note=In MMERV. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29265453;Dbxref=PMID:29265453	
+Q9Y2G1	UniProtKB	Natural variant	723	723	.	.	.	ID=VAR_038907;Note=A->T;Dbxref=dbSNP:rs34038946	
+Q9Y2G1	UniProtKB	Mutagenesis	454	454	.	.	.	Note=Decreased affinity for DNA. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29729323;Dbxref=PMID:29729323	
+Q9Y2G1	UniProtKB	Mutagenesis	478	478	.	.	.	Note=Decreased affinity for DNA. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29729323;Dbxref=PMID:29729323	
+Q9Y2G1	UniProtKB	Mutagenesis	530	530	.	.	.	Note=Decreased affinity for DNA. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29729323;Dbxref=PMID:29729323	
+Q9Y2G1	UniProtKB	Mutagenesis	587	587	.	.	.	Note=Prevents autocatalytic cleavage and generation of Myelin regulatory factor%2C N-terminal part. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Mutagenesis	588	588	.	.	.	Note=Reduces autocatalytic cleavage and generation of Myelin regulatory factor%2C N-terminal part. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Mutagenesis	592	592	.	.	.	Note=Prevents autocatalytic cleavage and generation of Myelin regulatory factor%2C N-terminal part. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Mutagenesis	608	608	.	.	.	Note=Does not affect autocatalytic cleavage. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Mutagenesis	635	635	.	.	.	Note=Reduces autocatalytic cleavage and generation of Myelin regulatory factor%2C N-terminal part. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Mutagenesis	688	688	.	.	.	Note=Does not affect autocatalytic cleavage. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Mutagenesis	699	699	.	.	.	Note=Prevents autocatalytic cleavage and generation of Myelin regulatory factor%2C N-terminal part. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23966832;Dbxref=PMID:23966832	
+Q9Y2G1	UniProtKB	Sequence conflict	478	484	.	.	.	Note=RLHFSET->GGCIQRD;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G1	UniProtKB	Sequence conflict	606	606	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G1	UniProtKB	Sequence conflict	657	658	.	.	.	Note=FA->LP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2G1	UniProtKB	Turn	346	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	353	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Helix	358	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	363	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	376	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	386	388	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Turn	389	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	393	397	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	402	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	416	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	422	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	428	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	440	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	447	450	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	456	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	462	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	470	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	491	494	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ZHU	
+Q9Y2G1	UniProtKB	Beta strand	502	512	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	515	524	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	
+Q9Y2G1	UniProtKB	Beta strand	527	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YHU	

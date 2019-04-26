@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q9Y6Q6 1 616
+Q9Y6Q6	UniProtKB	Signal peptide	1	29	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6Q6	UniProtKB	Chain	30	616	.	.	.	ID=PRO_0000034585;Note=Tumor necrosis factor receptor superfamily member 11A	
+Q9Y6Q6	UniProtKB	Topological domain	30	212	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6Q6	UniProtKB	Transmembrane	213	233	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6Q6	UniProtKB	Topological domain	234	616	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6Q6	UniProtKB	Repeat	34	68	.	.	.	Note=TNFR-Cys 1	
+Q9Y6Q6	UniProtKB	Repeat	71	112	.	.	.	Note=TNFR-Cys 2	
+Q9Y6Q6	UniProtKB	Repeat	114	151	.	.	.	Note=TNFR-Cys 3	
+Q9Y6Q6	UniProtKB	Repeat	154	194	.	.	.	Note=TNFR-Cys 4	
+Q9Y6Q6	UniProtKB	Metal binding	133	133	.	.	.	Note=Sodium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y6Q6	UniProtKB	Metal binding	134	134	.	.	.	Note=Sodium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y6Q6	UniProtKB	Metal binding	160	160	.	.	.	Note=Sodium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y6Q6	UniProtKB	Modified residue	580	580	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y6Q6	UniProtKB	Glycosylation	105	105	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6Q6	UniProtKB	Glycosylation	174	174	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y6Q6	UniProtKB	Disulfide bond	34	46	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	47	60	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	50	68	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	71	86	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	92	112	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	114	127	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	124	126	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	133	151	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	154	169	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Disulfide bond	175	194	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00206	
+Q9Y6Q6	UniProtKB	Alternative sequence	143	157	.	.	.	ID=VSP_054179;Note=In isoform RANK-e5a. LQLNKDTVCKPCLAG->C;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:23664977;Dbxref=PMID:23664977	
+Q9Y6Q6	UniProtKB	Alternative sequence	206	522	.	.	.	ID=VSP_046901;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.3,ECO:0000303|Ref.4	
+Q9Y6Q6	UniProtKB	Alternative sequence	244	522	.	.	.	ID=VSP_054180;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9Y6Q6	UniProtKB	Alternative sequence	263	263	.	.	.	ID=VSP_054181;Note=In isoform 4. S->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9Y6Q6	UniProtKB	Alternative sequence	264	616	.	.	.	ID=VSP_054182;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9Y6Q6	UniProtKB	Alternative sequence	523	616	.	.	.	ID=VSP_054183;Note=In isoform 5. GNVTGNSNSTFISSGQVMNFKGDIIVVYVSQTSQEGAAAAAEPMGRPVQEETLARRDSFAGNGPRFPDPCGGPEGLREPEKASRPVQEQGGAKA->D;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q9Y6Q6	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_011516;Note=In PDB2. L->LALLLLCALL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10615125;Dbxref=PMID:10615125	
+Q9Y6Q6	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_011517;Note=In FEO. L->LLLCALL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10615125;Dbxref=PMID:10615125	
+Q9Y6Q6	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_046788;Note=In OPTB7%3B two patients with osteoclast-poor osteopetrosis. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18606301;Dbxref=dbSNP:rs121908659,PMID:18606301	
+Q9Y6Q6	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_046789;Note=In OPTB7%3B a patient with osteoclast-poor osteopetrosis. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18606301;Dbxref=dbSNP:rs121908657,PMID:18606301	
+Q9Y6Q6	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_046790;Note=H->Y;Dbxref=dbSNP:rs35211496	
+Q9Y6Q6	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_046791;Note=In OPTB7%3B two siblings with osteoclast-poor osteopetrosis. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18606301;Dbxref=dbSNP:rs121908655,PMID:18606301	
+Q9Y6Q6	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_046792;Note=In OPTB7%3B two patients with osteoclast-poor osteopetrosis. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18606301;Dbxref=dbSNP:rs121908656,PMID:18606301	
+Q9Y6Q6	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_011518;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10615125;Dbxref=dbSNP:rs1805034,PMID:10615125	
+Q9Y6Q6	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_046793;Note=In OPTB7%3B one patient with osteoclast-poor osteopetrosis. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18606301;Dbxref=dbSNP:rs121908658,PMID:18606301	
+Q9Y6Q6	UniProtKB	Beta strand	345	348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LB5	

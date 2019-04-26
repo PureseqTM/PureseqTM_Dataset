@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q92629 1 289
+Q92629	UniProtKB	Chain	1	289	.	.	.	ID=PRO_0000175245;Note=Delta-sarcoglycan	
+Q92629	UniProtKB	Topological domain	1	35	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Transmembrane	36	56	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Topological domain	57	289	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Glycosylation	60	60	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Glycosylation	108	108	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Glycosylation	284	284	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Disulfide bond	263	288	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Disulfide bond	265	281	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92629	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_039245;Note=In isoform 2 and isoform 3. M->MM;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8842738,ECO:0000303|PubMed:8943294;Dbxref=PMID:14702039,PMID:15489334,PMID:8842738,PMID:8943294	
+Q92629	UniProtKB	Alternative sequence	233	255	.	.	.	ID=VSP_039246;Note=In isoform 3. IKLDAAKIRLPRLPHGSYTPTGT->VRDEKDRSSKSYSFNRPTLPITG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8943294;Dbxref=PMID:8943294	
+Q92629	UniProtKB	Alternative sequence	256	289	.	.	.	ID=VSP_039247;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8943294;Dbxref=PMID:8943294	
+Q92629	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_010429;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8842738;Dbxref=dbSNP:rs45559835,PMID:8842738	
+Q92629	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_013181;Note=In CMD1L. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10974018;Dbxref=dbSNP:rs121909298,PMID:10974018	
+Q92629	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_010396;Note=In LGMDR6. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9832045;Dbxref=dbSNP:rs121909297,PMID:9832045	

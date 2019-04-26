@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q9NZC2 1 230
+Q9NZC2	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NZC2	UniProtKB	Chain	19	230	.	.	.	ID=PRO_0000014987;Note=Triggering receptor expressed on myeloid cells 2	
+Q9NZC2	UniProtKB	Topological domain	19	174	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NZC2	UniProtKB	Transmembrane	175	195	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NZC2	UniProtKB	Topological domain	196	230	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NZC2	UniProtKB	Domain	29	112	.	.	.	Note=Ig-like V-type	
+Q9NZC2	UniProtKB	Glycosylation	20	20	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NZC2	UniProtKB	Glycosylation	79	79	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5ELI,ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Disulfide bond	36	110	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5ELI,ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Disulfide bond	51	60	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5ELI,ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Alternative sequence	162	230	.	.	.	ID=VSP_010792;Note=In isoform 2. SLLEGEIPFPPTSILLLLACIFLIKILAASALWAAAWHGQKPGTHPPSELDCGHDPGYQLQTLPGLRDT->AERHVKEDDGRKSPGEVPPGTSPACILATWPPGLLVLLWQETTLPEHCFSWTLEAGTG;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q9NZC2	UniProtKB	Alternative sequence	162	230	.	.	.	ID=VSP_010793;Note=In isoform 3. SLLEGEIPFPPTSILLLLACIFLIKILAASALWAAAWHGQKPGTHPPSELDCGHDPGYQLQTLPGLRDT->PSQGSHLPSCLSKEPLGRRNPLPTHFHPSPPGLHLSHQDSSSQRPLGCSLAWTEARDTSTQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NZC2	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_061329;Note=Does not change protein structure%3B changes protein stability%3B increases binding to THP-1 cells. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=dbSNP:rs2234253,PMID:27995897	
+Q9NZC2	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_061330;Note=T->R;Dbxref=dbSNP:rs2234253	
+Q9NZC2	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_019334;Note=In PLOSL. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12080485;Dbxref=dbSNP:rs28939079,PMID:12080485	
+Q9NZC2	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_033625;Note=Polymorphism%3B may be associated with an increased risk for late-onset Alzheimer disease. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27067662;Dbxref=dbSNP:rs2234255,PMID:27067662	
+Q9NZC2	UniProtKB	Natural variant	186	186	.	.	.	ID=VAR_019335;Note=In PLOSL. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12080485;Dbxref=dbSNP:rs28937876,PMID:12080485	
+Q9NZC2	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_077696;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27067662;Dbxref=dbSNP:rs150277350,PMID:27067662	
+Q9NZC2	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_033626;Note=L->P;Dbxref=dbSNP:rs2234256	
+Q9NZC2	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Increases protein aggregation%3B decreases cell membrane localization%3B protein is secreted. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	47	47	.	.	.	Note=Decreases binding to NA2 and THP-1 cells%3B induces small conformational change%3B no change in thermal stability%3B no effect on cell membrane localization. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	62	62	.	.	.	Note=Does not change protein structure%3B no change in thermal stability%3B no effect on cell membrane localization. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	66	66	.	.	.	Note=Increases protein aggregation%3B decreases cell membrane localization%3B protein is secreted. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	68	68	.	.	.	Note=No effect on cell membrane localization. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	76	76	.	.	.	Note=Decreases binding to THP-1 cells. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Decreases binding to THP-1 cells. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	87	87	.	.	.	Note=No effect on cell membrane localization. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Increases protein aggregation%3B decreases cell membrane localization%3B protein is secreted. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27995897;Dbxref=PMID:27995897	
+Q9NZC2	UniProtKB	Beta strand	21	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	32	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Turn	40	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	48	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Turn	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	60	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Helix	69	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6B8O	
+Q9NZC2	UniProtKB	Beta strand	83	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Turn	88	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	92	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Helix	102	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	106	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	
+Q9NZC2	UniProtKB	Beta strand	117	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UD8	

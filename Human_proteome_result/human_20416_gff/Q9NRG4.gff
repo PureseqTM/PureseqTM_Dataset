@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region Q9NRG4 1 433
+Q9NRG4	UniProtKB	Chain	1	433	.	.	.	ID=PRO_0000218309;Note=N-lysine methyltransferase SMYD2	
+Q9NRG4	UniProtKB	Domain	7	241	.	.	.	Note=SET;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00190	
+Q9NRG4	UniProtKB	Zinc finger	52	90	.	.	.	Note=MYND-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00134	
+Q9NRG4	UniProtKB	Region	17	19	.	.	.	Note=S-adenosyl-L-methionine binding	
+Q9NRG4	UniProtKB	Region	183	185	.	.	.	Note=Peptide substrate binding	
+Q9NRG4	UniProtKB	Region	206	207	.	.	.	Note=S-adenosyl-L-methionine binding	
+Q9NRG4	UniProtKB	Region	258	260	.	.	.	Note=S-adenosyl-L-methionine binding	
+Q9NRG4	UniProtKB	Binding site	137	137	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00190,ECO:0000269|PubMed:21724641;Dbxref=PMID:21724641	
+Q9NRG4	UniProtKB	Binding site	240	240	.	.	.	Note=Peptide substrate%3B via carbonyl oxygen	
+Q9NRG4	UniProtKB	Modified residue	283	283	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NRG4	UniProtKB	Alternative sequence	273	433	.	.	.	ID=VSP_056005;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9NRG4	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_023442;Note=G->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.1;Dbxref=dbSNP:rs1134647,PMID:14702039,PMID:15489334	
+Q9NRG4	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_052991;Note=I->M;Dbxref=dbSNP:rs11120301	
+Q9NRG4	UniProtKB	Mutagenesis	187	187	.	.	.	Note=Abolishes methyltransferase activity on p53/TP53. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	189	189	.	.	.	Note=Strongly reduces methyltransferase activity on p53/TP53. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	190	190	.	.	.	Note=Strongly reduces methyltransferase activity on p53/TP53. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Abolishes methyltransferase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17108971;Dbxref=PMID:17108971	
+Q9NRG4	UniProtKB	Mutagenesis	240	240	.	.	.	Note=Abolishes methyltransferase activity. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20870719,ECO:0000269|PubMed:21782458;Dbxref=PMID:20870719,PMID:21782458	
+Q9NRG4	UniProtKB	Mutagenesis	245	245	.	.	.	Note=Strongly reduces methyltransferase activity on p53/TP53. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	252	252	.	.	.	Note=Slightly reduces methyltransferase activity on p53/TP53. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	253	253	.	.	.	Note=No effect on methyltransferase activity on p53/TP53. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	306	306	.	.	.	Note=No effect on methyltransferase activity on p53/TP53. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	374	374	.	.	.	Note=Abolishes methyltransferase activity on p53/TP53. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	429	429	.	.	.	Note=Reduces methyltransferase activity on p53/TP53. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Mutagenesis	431	431	.	.	.	Note=Strongly reduces methyltransferase activity on p53/TP53. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21880715;Dbxref=PMID:21880715	
+Q9NRG4	UniProtKB	Helix	1	4	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5V3H	
+Q9NRG4	UniProtKB	Turn	5	8	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5V3H	
+Q9NRG4	UniProtKB	Beta strand	9	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Turn	15	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	18	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	32	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	39	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Turn	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CBX	
+Q9NRG4	UniProtKB	Turn	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Turn	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	72	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	76	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Turn	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	90	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	104	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CBX	
+Q9NRG4	UniProtKB	Beta strand	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RIB	
+Q9NRG4	UniProtKB	Helix	131	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	143	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	169	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	184	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	193	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	200	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ARF	
+Q9NRG4	UniProtKB	Beta strand	212	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	221	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Beta strand	235	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CBY	
+Q9NRG4	UniProtKB	Beta strand	243	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KJL	
+Q9NRG4	UniProtKB	Helix	247	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	265	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	273	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	288	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Turn	309	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5ARF	
+Q9NRG4	UniProtKB	Helix	318	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	337	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	356	373	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	379	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Helix	398	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	
+Q9NRG4	UniProtKB	Turn	416	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KJL	
+Q9NRG4	UniProtKB	Helix	421	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WUY	

@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P80303 1 420
+P80303	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000244,ECO:0000255;evidence=ECO:0000244|PubMed:25944712,ECO:0000255;Dbxref=PMID:25944712	
+P80303	UniProtKB	Chain	25	420	.	.	.	ID=PRO_0000004165;Note=Nucleobindin-2	
+P80303	UniProtKB	Chain	25	106	.	.	.	ID=PRO_0000419819;Note=Nesfatin-1	
+P80303	UniProtKB	Domain	241	276	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P80303	UniProtKB	Domain	293	328	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P80303	UniProtKB	DNA binding	171	223	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P80303	UniProtKB	Calcium binding	254	265	.	.	.	Note=1	
+P80303	UniProtKB	Calcium binding	306	317	.	.	.	Note=2	
+P80303	UniProtKB	Region	213	420	.	.	.	Note=Binds to necdin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P80303	UniProtKB	Compositional bias	282	293	.	.	.	Note=Asp/Glu-rich (acidic)	
+P80303	UniProtKB	Modified residue	257	257	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P80303	UniProtKB	Modified residue	332	332	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P80303	UniProtKB	Alternative sequence	419	420	.	.	.	ID=VSP_036450;Note=In isoform 2. HI->RV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P80303	UniProtKB	Natural variant	338	338	.	.	.	ID=VAR_024399;Note=Q->E;Dbxref=dbSNP:rs757081	
+P80303	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_020923;Note=Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12087473,ECO:0000269|PubMed:14702039;Dbxref=PMID:12087473,PMID:14702039	
+P80303	UniProtKB	Sequence conflict	150	150	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,8 @@
+##gff-version 3
+##sequence-region P83859 1 136
+P83859	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P83859	UniProtKB	Propeptide	19	90	.	.	.	ID=PRO_0000010086;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255,ECO:0000305	
+P83859	UniProtKB	Peptide	91	133	.	.	.	ID=PRO_0000010087;Note=QRF-amide;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P83859	UniProtKB	Modified residue	91	91	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:P83860,ECO:0000305	
+P83859	UniProtKB	Modified residue	133	133	.	.	.	Note=Phenylalanine amide;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P83859	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_049184;Note=L->H;Dbxref=dbSNP:rs12340616	

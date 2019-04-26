@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#---- to evaluate the prediction results, please type the following command -----#
+xx=6418_nonTP
+for method in purestm phobius philius topcons
+do
+	rm -f ${xx}_${method}_reso
+	for i in `cat ${xx}_list`
+	do
+		../../util/TM2_to_Evaluation ${xx}_truth/$i.top ${xx}_${method}/$i.top 2 >> ${xx}_${method}_reso
+	done
+done
+

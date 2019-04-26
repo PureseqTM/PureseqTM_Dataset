@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P30048 1 256
+P30048	UniProtKB	Transit peptide	1	61	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+P30048	UniProtKB	Chain	62	256	.	.	.	ID=PRO_0000023782;Note=Thioredoxin-dependent peroxide reductase%2C mitochondrial	
+P30048	UniProtKB	Domain	63	221	.	.	.	Note=Thioredoxin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+P30048	UniProtKB	Active site	108	108	.	.	.	Note=Cysteine sulfenic acid (-SOH) intermediate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35705	
+P30048	UniProtKB	Modified residue	83	83	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20108	
+P30048	UniProtKB	Modified residue	91	91	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P30048	UniProtKB	Modified residue	91	91	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20108	
+P30048	UniProtKB	Modified residue	146	146	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21850687;Dbxref=PMID:21850687	
+P30048	UniProtKB	Disulfide bond	108	108	.	.	.	Note=Interchain (with C-229)%3B in linked form;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35705	
+P30048	UniProtKB	Disulfide bond	229	229	.	.	.	Note=Interchain (with C-108)%3B in linked form;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35705	
+P30048	UniProtKB	Alternative sequence	51	68	.	.	.	ID=VSP_054050;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30048	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_025052;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs34698541	
+P30048	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_059546;Note=R->Q;Dbxref=dbSNP:rs11554902	
+P30048	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_025053;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs36064375	
+P30048	UniProtKB	Natural variant	234	234	.	.	.	ID=VAR_025054;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs35697338	
+P30048	UniProtKB	Mutagenesis	146	146	.	.	.	Note=Impairs phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21850687;Dbxref=PMID:21850687	
+P30048	UniProtKB	Sequence conflict	31	31	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30048	UniProtKB	Beta strand	73	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	81	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	87	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	93	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	107	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	119	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Turn	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	127	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	137	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	148	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	157	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	164	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5JCG	
+P30048	UniProtKB	Helix	167	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Turn	177	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	184	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Beta strand	193	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	209	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	
+P30048	UniProtKB	Helix	244	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UCX	

@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region Q96PC5 1 1412
+Q96PC5	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Chain	20	1412	.	.	.	ID=PRO_0000019031;Note=Melanoma inhibitory activity protein 2	
+Q96PC5	UniProtKB	Topological domain	20	605	.	.	.	Note=Lumenal;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Intramembrane	606	626	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Topological domain	627	646	.	.	.	Note=Lumenal;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Transmembrane	647	667	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Topological domain	668	1412	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Domain	39	101	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q96PC5	UniProtKB	Region	669	1258	.	.	.	Note=Mediates interaction with MIA3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21525241;Dbxref=PMID:21525241	
+Q96PC5	UniProtKB	Region	1259	1412	.	.	.	Note=Proline-rich domain (PRD)%3B mediates interaction with the COPII coat subunits SEC23A and SEC23B;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21525241,ECO:0000269|PubMed:27551091;Dbxref=PMID:21525241,PMID:27551091	
+Q96PC5	UniProtKB	Coiled coil	725	850	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Coiled coil	948	1102	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Compositional bias	1297	1408	.	.	.	Note=Pro-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00015	
+Q96PC5	UniProtKB	Glycosylation	59	59	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Glycosylation	368	368	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PC5	UniProtKB	Alternative sequence	1	688	.	.	.	ID=VSP_060003;Note=In isoform 10 and isoform 12. Missing	
+Q96PC5	UniProtKB	Alternative sequence	1	637	.	.	.	ID=VSP_060004;Note=In isoform 4 and isoform 8. Missing	
+Q96PC5	UniProtKB	Alternative sequence	1	620	.	.	.	ID=VSP_060005;Note=In isoform 5 and isoform 13. Missing	
+Q96PC5	UniProtKB	Alternative sequence	1	608	.	.	.	ID=VSP_060006;Note=In isoform 6%2C isoform 7%2C isoform 9 and isoform 11. Missing	
+Q96PC5	UniProtKB	Alternative sequence	609	628	.	.	.	ID=VSP_060007;Note=In isoform 6%2C isoform 7%2C isoform 9 and isoform 11. QIDVYDFMNSAFSPIVILTE->MEEPGVTPQPYLGLLLEELR	
+Q96PC5	UniProtKB	Alternative sequence	621	629	.	.	.	ID=VSP_060008;Note=In isoform 5 and isoform 13. SPIVILTER->MELKSPEEE	
+Q96PC5	UniProtKB	Alternative sequence	631	654	.	.	.	ID=VSP_058472;Note=In isoform 2. VAALPEGMRPDSNLYGFPWELVIC->SLPFKPFAIILPILLNIRVATKYV	
+Q96PC5	UniProtKB	Alternative sequence	655	1412	.	.	.	ID=VSP_058473;Note=In isoform 2. Missing	
+Q96PC5	UniProtKB	Alternative sequence	711	736	.	.	.	ID=VSP_060009;Note=In isoform 5. Missing	
+Q96PC5	UniProtKB	Alternative sequence	736	736	.	.	.	ID=VSP_060010;Note=In isoform 11 and isoform 12. E->EVENQM	
+Q96PC5	UniProtKB	Alternative sequence	1123	1165	.	.	.	ID=VSP_060011;Note=In isoform 4 and isoform 7. Missing	
+Q96PC5	UniProtKB	Alternative sequence	1255	1325	.	.	.	ID=VSP_060012;Note=In isoform 5. Missing	
+Q96PC5	UniProtKB	Alternative sequence	1333	1355	.	.	.	ID=VSP_060013;Note=In isoform 5. Missing	
+Q96PC5	UniProtKB	Alternative sequence	1358	1379	.	.	.	ID=VSP_060014;Note=In isoform 9. MRNVYPPRGFPPYLPPRPGFFP->SARSPPGAGAPASGRGLGGPQK	
+Q96PC5	UniProtKB	Alternative sequence	1380	1412	.	.	.	ID=VSP_060015;Note=In isoform 9. Missing	
+Q96PC5	UniProtKB	Natural variant	437	437	.	.	.	ID=VAR_036460;Note=In a breast cancer sample%3B somatic mutation. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q96PC5	UniProtKB	Natural variant	813	813	.	.	.	ID=VAR_047891;Note=K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855896,PMID:15489334	
+Q96PC5	UniProtKB	Natural variant	858	858	.	.	.	ID=VAR_047892;Note=K->E;Dbxref=dbSNP:rs10162564	
+Q96PC5	UniProtKB	Natural variant	968	968	.	.	.	ID=VAR_047893;Note=E->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12839582,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:17974005,ECO:0000269|PubMed:9356211;Dbxref=dbSNP:rs1950952,PMID:12839582,PMID:14702039,PMID:17974005,PMID:9356211	
+Q96PC5	UniProtKB	Natural variant	983	983	.	.	.	ID=VAR_047894;Note=N->S;Dbxref=dbSNP:rs17109109	
+Q96PC5	UniProtKB	Natural variant	1307	1307	.	.	.	ID=VAR_047895;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9356211;Dbxref=dbSNP:rs1140952,PMID:14702039,PMID:15489334,PMID:9356211	
+Q96PC5	UniProtKB	Natural variant	1346	1346	.	.	.	ID=VAR_047896;Note=G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12839582,ECO:0000269|PubMed:17974005,ECO:0000269|PubMed:9356211;Dbxref=dbSNP:rs1060878,PMID:12839582,PMID:17974005,PMID:9356211	
+Q96PC5	UniProtKB	Mutagenesis	679	679	.	.	.	Note=No effect on interaction with PERB. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27170179;Dbxref=PMID:27170179	
+Q96PC5	UniProtKB	Mutagenesis	697	697	.	.	.	Note=Loss of interaction with PERB. Unable to recruit PERB to the endoplasmic reticulum exit sites. Loss of function in collagen VII transport. No effect on interaction with MIA3. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27170179;Dbxref=PMID:27170179	
+Q96PC5	UniProtKB	Mutagenesis	705	705	.	.	.	Note=Decreased interaction with PERB. No effect on interaction with MIA3. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27170179;Dbxref=PMID:27170179	
+Q96PC5	UniProtKB	Mutagenesis	720	720	.	.	.	Note=No effect on interaction with PERB. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27170179;Dbxref=PMID:27170179	
+Q96PC5	UniProtKB	Sequence conflict	83	83	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	698	698	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	753	753	.	.	.	Note=I->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	803	803	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	803	803	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	806	806	.	.	.	Note=Q->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	1154	1154	.	.	.	Note=R->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	1197	1197	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	1202	1202	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	1212	1212	.	.	.	Note=R->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PC5	UniProtKB	Sequence conflict	1384	1384	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

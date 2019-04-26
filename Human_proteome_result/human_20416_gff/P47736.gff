@@ -1,0 +1,56 @@
+##gff-version 3
+##sequence-region P47736 1 663
+P47736	UniProtKB	Chain	1	663	.	.	.	ID=PRO_0000056743;Note=Rap1 GTPase-activating protein 1	
+P47736	UniProtKB	Domain	1	17	.	.	.	Note=GoLoco;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00097	
+P47736	UniProtKB	Domain	181	397	.	.	.	Note=Rap-GAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00165	
+P47736	UniProtKB	Modified residue	441	441	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P47736	UniProtKB	Modified residue	484	484	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+P47736	UniProtKB	Modified residue	499	499	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+P47736	UniProtKB	Modified residue	515	515	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P47736	UniProtKB	Modified residue	541	541	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A2ALS5	
+P47736	UniProtKB	Modified residue	542	542	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A2ALS5	
+P47736	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_040260;Note=In isoform 3. M->MAQLRPAVPPGRPRRGSLPAGASWQNTDLFEM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10476970;Dbxref=PMID:10476970	
+P47736	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_047025;Note=In isoform 4. M->MSGRKRSFTFGAYGGVDKSFTSRRSVWRSDGQNQHFPQALDLSRVNLVPSYTPSLYPKNTDLFEM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P47736	UniProtKB	Alternative sequence	280	280	.	.	.	ID=VSP_040261;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10476970;Dbxref=PMID:10476970	
+P47736	UniProtKB	Alternative sequence	476	476	.	.	.	ID=VSP_035256;Note=In isoform 2. I->ISLLIPGKSASRFGRRGSAIGIGTVEE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9455484;Dbxref=PMID:9455484	
+P47736	UniProtKB	Alternative sequence	626	633	.	.	.	ID=VSP_035257;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9455484;Dbxref=PMID:9455484	
+P47736	UniProtKB	Natural variant	107	107	.	.	.	ID=VAR_047792;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1904317;Dbxref=dbSNP:rs2275363,PMID:1904317	
+P47736	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_035547;Note=In a breast cancer sample%3B somatic mutation. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P47736	UniProtKB	Natural variant	609	609	.	.	.	ID=VAR_035548;Note=In a breast cancer sample%3B somatic mutation. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs147394161,PMID:16959974	
+P47736	UniProtKB	Mutagenesis	100	100	.	.	.	Note=Impaired dimerization%3B when associated with E-173. F->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	173	173	.	.	.	Note=Impaired dimerization%3B when associated with E-100. L->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Reduces GTPase activation. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Abolishes GTPase activation. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Reduces GTPase activation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Abolishes GTPase activation. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Abolishes GTPase activation. N->A%2CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Abolishes GTPase activation. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Mutagenesis	388	388	.	.	.	Note=Reduces GTPase activation. R->A%2CP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15141215;Dbxref=PMID:15141215	
+P47736	UniProtKB	Sequence conflict	304	304	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P47736	UniProtKB	Helix	85	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	89	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Turn	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	100	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Turn	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	110	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	124	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	137	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	153	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	177	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	192	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	207	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	218	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	228	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	245	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	252	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	263	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	282	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	292	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	316	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	327	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BRW	
+P47736	UniProtKB	Beta strand	331	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Beta strand	354	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	359	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	
+P47736	UniProtKB	Helix	380	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SRQ	

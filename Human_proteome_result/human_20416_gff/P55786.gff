@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P55786 1 919
+P55786	UniProtKB	Chain	1	919	.	.	.	ID=PRO_0000095116;Note=Puromycin-sensitive aminopeptidase	
+P55786	UniProtKB	Region	316	320	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55786	UniProtKB	Motif	726	730	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55786	UniProtKB	Active site	353	353	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P55786	UniProtKB	Metal binding	352	352	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P55786	UniProtKB	Metal binding	356	356	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P55786	UniProtKB	Metal binding	375	375	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P55786	UniProtKB	Binding site	180	180	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55786	UniProtKB	Site	438	438	.	.	.	Note=Transition state stabilizer;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55786	UniProtKB	Modified residue	464	464	.	.	.	Note=Nitrated tyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q11011	
+P55786	UniProtKB	Alternative sequence	1	44	.	.	.	ID=VSP_056446;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P55786	UniProtKB	Alternative sequence	181	216	.	.	.	ID=VSP_056447;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P55786	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Reduces catalytic activity by 25%2C000-fold to 100%2C000-fold. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12729622;Dbxref=PMID:12729622	
+P55786	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Reduces catalytic activity by 5%2C000-fold to 15%2C000-fold. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12729622;Dbxref=PMID:12729622	
+P55786	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Reduces catalytic activity by 300%2C000-fold to 500%2C000-fold. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12729622;Dbxref=PMID:12729622	
+P55786	UniProtKB	Mutagenesis	438	438	.	.	.	Note=Reduces catalytic activity by 1%2C000-fold to 2%2C500-fold. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12729622;Dbxref=PMID:12729622	
+P55786	UniProtKB	Sequence conflict	184	184	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

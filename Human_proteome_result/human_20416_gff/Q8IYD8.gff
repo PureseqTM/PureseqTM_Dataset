@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region Q8IYD8 1 2048
+Q8IYD8	UniProtKB	Chain	1	2048	.	.	.	ID=PRO_0000055176;Note=Fanconi anemia group M protein	
+Q8IYD8	UniProtKB	Domain	98	266	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q8IYD8	UniProtKB	Domain	452	627	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+Q8IYD8	UniProtKB	Nucleotide binding	111	118	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q8IYD8	UniProtKB	Region	661	800	.	.	.	Note=Interaction with CENPS/CENPSX;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20347428;Dbxref=PMID:20347428	
+Q8IYD8	UniProtKB	Region	1727	2048	.	.	.	Note=Interaction with FAAP24;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17289582;Dbxref=PMID:17289582	
+Q8IYD8	UniProtKB	Motif	214	217	.	.	.	Note=DEAH box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q8IYD8	UniProtKB	Modified residue	34	34	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IYD8	UniProtKB	Modified residue	1673	1673	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IYD8	UniProtKB	Modified residue	1674	1674	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IYD8	UniProtKB	Alternative sequence	228	253	.	.	.	ID=VSP_054504;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IYD8	UniProtKB	Alternative sequence	669	669	.	.	.	ID=VSP_015989;Note=In isoform 2. M->K;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8IYD8	UniProtKB	Alternative sequence	670	2048	.	.	.	ID=VSP_015990;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8IYD8	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_023697;Note=S->F;Dbxref=dbSNP:rs10138997	
+Q8IYD8	UniProtKB	Natural variant	208	208	.	.	.	ID=VAR_061827;Note=I->M;Dbxref=dbSNP:rs45547534	
+Q8IYD8	UniProtKB	Natural variant	878	878	.	.	.	ID=VAR_023698;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997877;Dbxref=dbSNP:rs1367580,PMID:10997877	
+Q8IYD8	UniProtKB	Natural variant	1701	2048	.	.	.	ID=VAR_081138;Note=In POF15 and SPGF28%3B loss-of-function mutation resulting in impaired FANCD2 monoubiquitination in response to DNA damage. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:29231814,ECO:0000269|PubMed:30075111;Dbxref=PMID:29231814,PMID:30075111	
+Q8IYD8	UniProtKB	Natural variant	1812	1812	.	.	.	ID=VAR_023699;Note=P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997877;Dbxref=dbSNP:rs3736772,PMID:10997877	
+Q8IYD8	UniProtKB	Natural variant	1931	2048	.	.	.	ID=VAR_081139;Note=In SPGF28%3B unknown pathological significance. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30075111;Dbxref=PMID:30075111	
+Q8IYD8	UniProtKB	Mutagenesis	116	116	.	.	.	Note=Reduces ATPase activity. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16116434;Dbxref=PMID:16116434	
+Q8IYD8	UniProtKB	Mutagenesis	117	117	.	.	.	Note=Abolishes ATPase activity. Loss of DNA branch migration activity%2C even in the presence of CENPS/CENPX. Loss of cross-linker resistance. No effect on FAAP24-binding%2C nor on FANCD2 and FANCI monoubiquitination. K->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16116422,ECO:0000269|PubMed:17289582,ECO:0000269|PubMed:19423727,ECO:0000269|PubMed:20347429;Dbxref=PMID:16116422,PMID:17289582,PMID:19423727,PMID:20347429	
+Q8IYD8	UniProtKB	Sequence conflict	68	68	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IYD8	UniProtKB	Sequence conflict	1460	1460	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IYD8	UniProtKB	Helix	682	691	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Beta strand	698	700	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DRB	
+Q8IYD8	UniProtKB	Beta strand	702	704	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Turn	711	713	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DRB	
+Q8IYD8	UniProtKB	Beta strand	728	730	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Helix	737	739	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Beta strand	747	749	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Helix	753	768	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Helix	776	781	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Helix	782	784	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Helix	787	789	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4E45	
+Q8IYD8	UniProtKB	Beta strand	1819	1823	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1826	1829	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1831	1838	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Beta strand	1844	1848	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Beta strand	1854	1856	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M6W	
+Q8IYD8	UniProtKB	Beta strand	1858	1867	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1868	1872	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1877	1888	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Beta strand	1892	1899	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1916	1927	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Beta strand	1931	1937	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1938	1954	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1970	1977	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1984	1993	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	1997	2001	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	2005	2012	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	2016	2027	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	
+Q8IYD8	UniProtKB	Helix	2032	2034	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXO	

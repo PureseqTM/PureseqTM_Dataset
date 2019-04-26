@@ -1,0 +1,97 @@
+##gff-version 3
+##sequence-region P20591 1 662
+P20591	UniProtKB	Chain	1	662	.	.	.	ID=PRO_0000382943;Note=Interferon-induced GTP-binding protein Mx1	
+P20591	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B alternate;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2607176,ECO:0000269|Ref.10;Dbxref=PMID:2607176	
+P20591	UniProtKB	Chain	2	662	.	.	.	ID=PRO_0000206592;Note=Interferon-induced GTP-binding protein Mx1%2C N-terminally processed	
+P20591	UniProtKB	Domain	67	340	.	.	.	Note=Dynamin-type G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+P20591	UniProtKB	Domain	574	662	.	.	.	Note=GED;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00720	
+P20591	UniProtKB	Nucleotide binding	77	84	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20591	UniProtKB	Nucleotide binding	178	182	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20591	UniProtKB	Nucleotide binding	247	250	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20591	UniProtKB	Region	77	84	.	.	.	Note=G1 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+P20591	UniProtKB	Region	102	104	.	.	.	Note=G2 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+P20591	UniProtKB	Region	178	181	.	.	.	Note=G3 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+P20591	UniProtKB	Region	247	250	.	.	.	Note=G4 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+P20591	UniProtKB	Region	279	282	.	.	.	Note=G5 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+P20591	UniProtKB	Region	341	366	.	.	.	Note=Bundle signaling element (BSE)	
+P20591	UniProtKB	Region	366	533	.	.	.	Note=Middle domain	
+P20591	UniProtKB	Region	367	632	.	.	.	Note=Stalk	
+P20591	UniProtKB	Region	554	557	.	.	.	Note=Critical for lipid-binding	
+P20591	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine%3B in Interferon-induced GTP-binding protein Mx1%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9	
+P20591	UniProtKB	Alternative sequence	425	662	.	.	.	ID=VSP_042904;Note=In isoform 2. GHKILSRKIQKFENQYRGRELPGFVNYRTFETIVKQQIKALEEPAVDMLHTVTDMVRLAFTDVSIKNFEEFFNLHRTAKSKIEDIRAEQEREGEKLIRLHFQMEQIVYCQDQVYRGALQKVREKELEEEKKKKSWDFGAFQSSSATDSSMEEIFQHLMAYHQEASKRISSHIPLIIQFFMLQTYGQQLQKAMLQLLQDKDTYSWLLKERSDTSDKRKFLKERLARLTQARRRLAQFPG->GGQQAHLQPHPFDHPVLHAPDVRPAASEGHAAAPAGQGHLQLAPEGAERHQRQAEVPEGAACTADAGSAPACPVPRLTTLCPAP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:20603636;Dbxref=PMID:20603636	
+P20591	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_058010;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10830953,ECO:0000269|PubMed:10942113,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:2154602,ECO:0000269|PubMed:2481229;Dbxref=dbSNP:rs469390,PMID:10830953,PMID:10942113,PMID:14702039,PMID:15489334,PMID:2154602,PMID:2481229	
+P20591	UniProtKB	Natural variant	381	381	.	.	.	ID=VAR_034116;Note=A->V;Dbxref=dbSNP:rs34717738	
+P20591	UniProtKB	Natural variant	611	611	.	.	.	ID=VAR_034117;Note=Q->H;Dbxref=dbSNP:rs2230454	
+P20591	UniProtKB	Mutagenesis	81	81	.	.	.	Note=No effect on GTP-binding%2C nor on viral infection. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8411374;Dbxref=PMID:8411374	
+P20591	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Loss of GTP-binding. Loss of potentiation of TRPC6 activity. Loss of protection against viral infection. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15757897,ECO:0000269|PubMed:8411374;Dbxref=PMID:15757897,PMID:8411374	
+P20591	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Loss of GTP-binding. Loss of protection against viral infection. K->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15757897,ECO:0000269|PubMed:8411374;Dbxref=PMID:15757897,PMID:8411374	
+P20591	UniProtKB	Mutagenesis	103	103	.	.	.	Note=Loss of GTP-binding. Loss of potentiation of TRPC6 activity. Loss of protection against viral infection. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15757897,ECO:0000269|PubMed:9060610;Dbxref=PMID:15757897,PMID:9060610	
+P20591	UniProtKB	Mutagenesis	554	554	.	.	.	Note=Strong liposome-binding reduction. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21900240;Dbxref=PMID:21900240	
+P20591	UniProtKB	Mutagenesis	555	555	.	.	.	Note=Strong liposome-binding reduction. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21900240;Dbxref=PMID:21900240	
+P20591	UniProtKB	Mutagenesis	556	556	.	.	.	Note=Strong liposome-binding reduction. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21900240;Dbxref=PMID:21900240	
+P20591	UniProtKB	Mutagenesis	557	557	.	.	.	Note=Strong liposome-binding reduction. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21900240;Dbxref=PMID:21900240	
+P20591	UniProtKB	Mutagenesis	612	612	.	.	.	Note=Loss of GTP-hydrolysis. No effect on GTP-binding%2C nor on potentiation of TRPC6 activity. L->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15757897;Dbxref=PMID:15757897	
+P20591	UniProtKB	Mutagenesis	632	632	.	.	.	Note=Reduced antiviral activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21962493;Dbxref=PMID:21962493	
+P20591	UniProtKB	Mutagenesis	640	640	.	.	.	Note=Fails to sequester viral nucleoproteins%2C no antiviral activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21962493;Dbxref=PMID:21962493	
+P20591	UniProtKB	Mutagenesis	645	645	.	.	.	Note=Loss of antiviral activity towards CCHFV and LACV. E->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11880649,ECO:0000269|PubMed:15047845;Dbxref=PMID:11880649,PMID:15047845	
+P20591	UniProtKB	Sequence conflict	164	164	.	.	.	Note=L->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20591	UniProtKB	Sequence conflict	250	250	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20591	UniProtKB	Sequence conflict	297	297	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20591	UniProtKB	Sequence conflict	299	299	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20591	UniProtKB	Sequence conflict	582	582	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20591	UniProtKB	Turn	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	50	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	72	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	83	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4S	
+P20591	UniProtKB	Beta strand	107	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	115	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4S	
+P20591	UniProtKB	Beta strand	121	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	129	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	136	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	139	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4S	
+P20591	UniProtKB	Beta strand	162	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	173	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	195	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Beta strand	208	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SZR	
+P20591	UniProtKB	Beta strand	211	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Turn	223	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	227	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Beta strand	239	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4S	
+P20591	UniProtKB	Beta strand	252	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SZR	
+P20591	UniProtKB	Helix	257	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Beta strand	275	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	283	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	292	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Turn	307	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	310	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	320	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GTM	
+P20591	UniProtKB	Helix	367	390	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJB	
+P20591	UniProtKB	Helix	403	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJB	
+P20591	UniProtKB	Beta strand	444	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SZR	
+P20591	UniProtKB	Helix	449	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	454	462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	463	465	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SZR	
+P20591	UniProtKB	Beta strand	467	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	479	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	483	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	495	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	504	506	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	513	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Beta strand	523	525	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	543	546	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	551	561	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	564	566	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4T	
+P20591	UniProtKB	Turn	568	570	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	571	575	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	581	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	599	601	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Turn	602	604	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	605	621	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Helix	623	625	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJB	
+P20591	UniProtKB	Helix	626	629	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LJB	
+P20591	UniProtKB	Helix	635	658	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	
+P20591	UniProtKB	Turn	659	661	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P4U	

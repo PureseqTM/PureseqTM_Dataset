@@ -1,0 +1,77 @@
+##gff-version 3
+##sequence-region Q9UK17 1 655
+Q9UK17	UniProtKB	Chain	1	655	.	.	.	ID=PRO_0000054068;Note=Potassium voltage-gated channel subfamily D member 3	
+Q9UK17	UniProtKB	Topological domain	1	181	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Transmembrane	182	202	.	.	.	Note=Helical%3B Name%3DSegment S1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Transmembrane	222	242	.	.	.	Note=Helical%3B Name%3DSegment S2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Topological domain	243	256	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Transmembrane	257	277	.	.	.	Note=Helical%3B Name%3DSegment S3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Transmembrane	287	307	.	.	.	Note=Helical%3B Voltage-sensor%3B Name%3DSegment S4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Topological domain	308	320	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Transmembrane	321	341	.	.	.	Note=Helical%3B Name%3DSegment S5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Intramembrane	360	380	.	.	.	Note=Pore-forming%3B Name%3DSegment H5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Transmembrane	382	402	.	.	.	Note=Helical%3B Name%3DSegment S6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Topological domain	403	655	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK17	UniProtKB	Region	2	20	.	.	.	Note=Interaction with KCNIP2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UK17	UniProtKB	Region	472	487	.	.	.	Note=Mediates dendritic targeting;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UK17	UniProtKB	Motif	367	372	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UK17	UniProtKB	Metal binding	104	104	.	.	.	Note=Zinc	
+Q9UK17	UniProtKB	Metal binding	131	131	.	.	.	Note=Zinc	
+Q9UK17	UniProtKB	Metal binding	132	132	.	.	.	Note=Zinc	
+Q9UK17	UniProtKB	Modified residue	153	153	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z0V1	
+Q9UK17	UniProtKB	Modified residue	459	459	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z0V1	
+Q9UK17	UniProtKB	Modified residue	569	569	.	.	.	Note=Phosphoserine%3B by CaMK2D;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62897	
+Q9UK17	UniProtKB	Modified residue	585	585	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z0V1	
+Q9UK17	UniProtKB	Alternative sequence	488	506	.	.	.	ID=VSP_008826;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10200233,ECO:0000303|PubMed:10729221,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9843794;Dbxref=PMID:10200233,PMID:10729221,PMID:15489334,PMID:9843794	
+Q9UK17	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_035775;Note=In a colorectal cancer sample%3B somatic mutation. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs1349469134,PMID:16959974	
+Q9UK17	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_070785;Note=In SCA19%3B results in reduced channel activity consistent with impaired cell surface expression of the mutant protein. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280837;Dbxref=PMID:23280837	
+Q9UK17	UniProtKB	Natural variant	338	338	.	.	.	ID=VAR_070786;Note=In SCA19. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280837;Dbxref=PMID:23280837	
+Q9UK17	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_070787;Note=In SCA19. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280837;Dbxref=dbSNP:rs797045634,PMID:23280837	
+Q9UK17	UniProtKB	Natural variant	352	352	.	.	.	ID=VAR_070788;Note=In SCA19%3B loss of channel activity. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280838;Dbxref=dbSNP:rs397515476,PMID:23280838	
+Q9UK17	UniProtKB	Natural variant	373	373	.	.	.	ID=VAR_070789;Note=In SCA19%3B unknown pathological significance%3B causes reduced channel activity. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280838;Dbxref=dbSNP:rs397515477,PMID:23280838	
+Q9UK17	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_070790;Note=In SCA19. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280837;Dbxref=PMID:23280837	
+Q9UK17	UniProtKB	Natural variant	384	384	.	.	.	ID=VAR_079709;Note=In SCA19. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28895081;Dbxref=PMID:28895081	
+Q9UK17	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_070791;Note=In SCA19%3B unknown pathological significance%3B results in impaired cell surface expression. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23280838;Dbxref=dbSNP:rs397515478,PMID:23280838	
+Q9UK17	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_067694;Note=In BRGDA9%3B unknown pathological significance%3B gain of function mutation. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22457051;Dbxref=dbSNP:rs786205867,PMID:22457051	
+Q9UK17	UniProtKB	Natural variant	450	450	.	.	.	ID=VAR_073831;Note=In BRGDA9%3B unknown pathological significance%3B gain of function mutation. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21349352;Dbxref=dbSNP:rs150401343,PMID:21349352	
+Q9UK17	UniProtKB	Natural variant	530	530	.	.	.	ID=VAR_067695;Note=In BRGDA9%3B unknown pathological significance%3B does not affect the electrophysiological properties of the channel. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22457051;Dbxref=PMID:22457051	
+Q9UK17	UniProtKB	Natural variant	600	600	.	.	.	ID=VAR_067696;Note=In BRGDA9%3B unknown pathological significance%3B gain of function mutation. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21349352,ECO:0000269|PubMed:22457051;Dbxref=dbSNP:rs149344567,PMID:21349352,PMID:22457051	
+Q9UK17	UniProtKB	Sequence conflict	239	239	.	.	.	Note=V->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	239	239	.	.	.	Note=V->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	239	239	.	.	.	Note=V->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	375	375	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	375	375	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	375	375	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	408	408	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	408	408	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	452	452	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	452	452	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	531	531	.	.	.	Note=T->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	531	531	.	.	.	Note=T->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	564	564	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	564	564	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	646	646	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	646	646	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	646	646	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	646	646	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	654	654	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	654	654	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	654	654	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Sequence conflict	654	654	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK17	UniProtKB	Helix	9	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Turn	15	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Beta strand	20	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Helix	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Beta strand	41	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Beta strand	49	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Helix	55	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Turn	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Helix	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Beta strand	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Beta strand	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Beta strand	81	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Helix	88	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Beta strand	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2NZ0	
+Q9UK17	UniProtKB	Helix	111	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Helix	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	
+Q9UK17	UniProtKB	Helix	130	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S1G	

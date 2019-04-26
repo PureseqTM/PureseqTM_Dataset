@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region Q86WA6 1 291
+Q86WA6	UniProtKB	Signal peptide	1	37	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12732646;Dbxref=PMID:12732646	
+Q86WA6	UniProtKB	Chain	38	291	.	.	.	ID=PRO_0000017841;Note=Valacyclovir hydrolase	
+Q86WA6	UniProtKB	Domain	62	181	.	.	.	Note=AB hydrolase-1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q86WA6	UniProtKB	Active site	139	139	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256025;Dbxref=PMID:18256025	
+Q86WA6	UniProtKB	Active site	244	244	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10037,ECO:0000269|PubMed:18256025;Dbxref=PMID:18256025	
+Q86WA6	UniProtKB	Active site	272	272	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10037,ECO:0000269|PubMed:18256025;Dbxref=PMID:18256025	
+Q86WA6	UniProtKB	Site	140	140	.	.	.	Note=Binding of alpha-amino group of substrate	
+Q86WA6	UniProtKB	Modified residue	86	86	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	119	119	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	126	126	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q86WA6	UniProtKB	Modified residue	126	126	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	184	184	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	191	191	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	191	191	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	217	217	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	243	243	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	260	260	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	260	260	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	271	271	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Modified residue	271	271	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R164	
+Q86WA6	UniProtKB	Alternative sequence	1	36	.	.	.	ID=VSP_009115;Note=In isoform 2. MVAVLGGRGVLRLRLLLSALKPGIHVPRAGPAAAFG->MPRNLLYSLLSSHLSPHFS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:7759552;Dbxref=PMID:15489334,PMID:7759552	
+Q86WA6	UniProtKB	Mutagenesis	139	139	.	.	.	Note=<0.1%25 of wild type activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256025;Dbxref=PMID:18256025	
+Q86WA6	UniProtKB	Mutagenesis	244	244	.	.	.	Note=<0.1%25 of wild type activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256025;Dbxref=PMID:18256025	
+Q86WA6	UniProtKB	Mutagenesis	272	272	.	.	.	Note=Complete loss of activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256025;Dbxref=PMID:18256025	
+Q86WA6	UniProtKB	Sequence conflict	182	182	.	.	.	Note=V->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86WA6	UniProtKB	Sequence conflict	261	261	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86WA6	UniProtKB	Beta strand	40	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	49	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	60	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	73	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	78	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Turn	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	89	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	113	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	131	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	140	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Turn	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	156	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	170	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	182	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	187	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	199	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	215	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	223	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	226	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	236	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	245	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	249	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Beta strand	263	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	274	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	
+Q86WA6	UniProtKB	Helix	279	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OCG	

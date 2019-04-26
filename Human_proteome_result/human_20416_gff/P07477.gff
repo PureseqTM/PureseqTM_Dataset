@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region P07477 1 247
+P07477	UniProtKB	Signal peptide	1	15	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2598466,ECO:0000269|PubMed:7945238;Dbxref=PMID:2598466,PMID:7945238	
+P07477	UniProtKB	Propeptide	16	23	.	.	.	ID=PRO_0000028197;Note=Activation peptide	
+P07477	UniProtKB	Chain	24	247	.	.	.	ID=PRO_0000028198;Note=Trypsin-1	
+P07477	UniProtKB	Chain	24	122	.	.	.	ID=PRO_0000313570;Note=Alpha-trypsin chain 1	
+P07477	UniProtKB	Chain	123	247	.	.	.	ID=PRO_0000313571;Note=Alpha-trypsin chain 2	
+P07477	UniProtKB	Domain	24	244	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P07477	UniProtKB	Active site	63	63	.	.	.	Note=Charge relay system	
+P07477	UniProtKB	Active site	107	107	.	.	.	Note=Charge relay system	
+P07477	UniProtKB	Active site	200	200	.	.	.	Note=Charge relay system	
+P07477	UniProtKB	Metal binding	75	75	.	.	.	Note=Calcium	
+P07477	UniProtKB	Metal binding	77	77	.	.	.	Note=Calcium%3B via carbonyl oxygen	
+P07477	UniProtKB	Metal binding	80	80	.	.	.	Note=Calcium%3B via carbonyl oxygen	
+P07477	UniProtKB	Metal binding	85	85	.	.	.	Note=Calcium	
+P07477	UniProtKB	Site	194	194	.	.	.	Note=Required for specificity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07477	UniProtKB	Modified residue	154	154	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:17087724,ECO:0000305|PubMed:25010489;Dbxref=PMID:17087724,PMID:25010489	
+P07477	UniProtKB	Disulfide bond	30	160	.	.	.	.	
+P07477	UniProtKB	Disulfide bond	48	64	.	.	.	.	
+P07477	UniProtKB	Disulfide bond	139	206	.	.	.	.	
+P07477	UniProtKB	Disulfide bond	171	185	.	.	.	.	
+P07477	UniProtKB	Disulfide bond	196	220	.	.	.	.	
+P07477	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_011693;Note=In PCTT%3B disrupts signal sequence cleavage site. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10381903;Dbxref=dbSNP:rs202003805,PMID:10381903	
+P07477	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_011652;Note=In PCTT%3B increased rate of activation. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10930381;Dbxref=dbSNP:rs397507442,PMID:10930381	
+P07477	UniProtKB	Natural variant	23	23	.	.	.	ID=VAR_011653;Note=In PCTT%3B increased rate of activation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10204851;Dbxref=dbSNP:rs111033567,PMID:10204851	
+P07477	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_006720;Note=In PCTT. N->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11866271,ECO:0000269|PubMed:15776435,ECO:0000269|PubMed:9322498,ECO:0000269|PubMed:9633818;Dbxref=dbSNP:rs111033566,PMID:11866271,PMID:15776435,PMID:9322498,PMID:9633818	
+P07477	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_012712;Note=In PCTT. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11788572;Dbxref=dbSNP:rs111033566,PMID:11788572	
+P07477	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_037908;Note=In PCTT%3B associated with Ile-29%3B the double mutant shows increased autocatalytic activation which is solely due to the Ile-29 mutation. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15776435;Dbxref=dbSNP:rs144422014,PMID:15776435	
+P07477	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_037909;Note=In PCTT%3B Lys-79 trypsin activates anionic trypsinogen PRSS2 2-fold while the common pancreatitis-associated mutants His-122 or Ile-29 have no such effect. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14695529;Dbxref=dbSNP:rs111033564,PMID:14695529	
+P07477	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_011654;Note=In PCTT. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11866271;Dbxref=PMID:11866271	
+P07477	UniProtKB	Natural variant	116	116	.	.	.	ID=VAR_011655;Note=In PCTT. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11866271;Dbxref=dbSNP:rs387906698,PMID:11866271	
+P07477	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_012713;Note=In PCTT%3B suppresses an autocleavage site. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11788572;Dbxref=dbSNP:rs111033568,PMID:11788572	
+P07477	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_006721;Note=In PCTT%3B suppresses an autocleavage site which is probably part of a fail-safe mechanism by which trypsin%2C which is activated within the pancreas%2C may be inactivated%3B loss of this cleavage site would permit autodigestion resulting in pancreatitis. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10381903,ECO:0000269|PubMed:11073545,ECO:0000269|PubMed:11866271,ECO:0000269|PubMed:8841182,ECO:0000269|PubMed:9322498;Dbxref=dbSNP:rs267606982,PMID:10381903,PMID:11073545,PMID:11866271,PMID:8841182,PMID:9322498	
+P07477	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_036299;Note=In a colorectal cancer sample%3B somatic mutation. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs117497341,PMID:16959974	
+P07477	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_011656;Note=In PCTT. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11866271;Dbxref=PMID:11866271	
+P07477	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Lack of sulfation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17087724;Dbxref=PMID:17087724	
+P07477	UniProtKB	Sequence conflict	4	4	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07477	UniProtKB	Beta strand	38	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	57	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Helix	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Turn	78	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FXY	
+P07477	UniProtKB	Beta strand	86	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Turn	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	109	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	138	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	159	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Helix	168	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Turn	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	183	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TRN	
+P07477	UniProtKB	Beta strand	203	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	209	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	218	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Beta strand	227	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Helix	232	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	
+P07477	UniProtKB	Helix	236	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RA3	

@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region O15169 1 862
+O15169	UniProtKB	Chain	1	862	.	.	.	ID=PRO_0000220888;Note=Axin-1	
+O15169	UniProtKB	Domain	88	211	.	.	.	Note=RGS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00171	
+O15169	UniProtKB	Domain	780	862	.	.	.	Note=DIX;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00069	
+O15169	UniProtKB	Region	209	338	.	.	.	Note=Interaction with TP53;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15169	UniProtKB	Region	348	433	.	.	.	Note=Interaction with GSK3B;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15169	UniProtKB	Region	434	502	.	.	.	Note=Interaction with CTNNB1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15169	UniProtKB	Region	507	757	.	.	.	Note=Interaction with RNF111;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16601693;Dbxref=PMID:16601693	
+O15169	UniProtKB	Region	575	789	.	.	.	Note=Interaction with PPP2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9920888;Dbxref=PMID:9920888	
+O15169	UniProtKB	Region	677	752	.	.	.	Note=Interaction with HIPK2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15169	UniProtKB	Motif	20	29	.	.	.	Note=Tankyrase-binding motif	
+O15169	UniProtKB	Modified residue	75	75	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17318175;Dbxref=PMID:17318175	
+O15169	UniProtKB	Modified residue	77	77	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17318175;Dbxref=PMID:23186163,PMID:17318175	
+O15169	UniProtKB	Modified residue	217	217	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17318175;Dbxref=PMID:17318175	
+O15169	UniProtKB	Modified residue	469	469	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17318175;Dbxref=PMID:17318175	
+O15169	UniProtKB	Modified residue	481	481	.	.	.	Note=Phosphothreonine%3B by GSK3-beta;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35625	
+O15169	UniProtKB	Modified residue	486	486	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O15169	UniProtKB	Modified residue	493	493	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35625	
+O15169	UniProtKB	Modified residue	511	511	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O15169	UniProtKB	Modified residue	581	581	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O15169	UniProtKB	Cross-link	857	857	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15169	UniProtKB	Cross-link	860	860	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15169	UniProtKB	Alternative sequence	730	765	.	.	.	ID=VSP_019398;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O15169	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_015589;Note=In HCC. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12101426;Dbxref=PMID:12101426	
+O15169	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_015590;Note=In HCC. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12101426;Dbxref=dbSNP:rs779951904,PMID:12101426	
+O15169	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_015591;Note=In HCC. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12101426;Dbxref=dbSNP:rs116350678,PMID:12101426	
+O15169	UniProtKB	Natural variant	650	650	.	.	.	ID=VAR_015592;Note=In HCC%3B also found in hepatoblastoma. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12101426;Dbxref=dbSNP:rs117208012,PMID:12101426	
+O15169	UniProtKB	Natural variant	841	841	.	.	.	ID=VAR_015593;Note=In hepatoblastoma. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12101426;Dbxref=dbSNP:rs34015754,PMID:12101426	
+O15169	UniProtKB	Sequence conflict	360	360	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15169	UniProtKB	Sequence conflict	451	455	.	.	.	Note=CVDMG->LCWTWA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15169	UniProtKB	Sequence conflict	482	482	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15169	UniProtKB	Helix	81	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	89	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	96	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Turn	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	112	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	131	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EMU	
+O15169	UniProtKB	Helix	134	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	155	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	162	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Turn	179	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	183	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	197	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Helix	205	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Turn	209	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DK8	
+O15169	UniProtKB	Beta strand	379	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WZZ	
+O15169	UniProtKB	Helix	385	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NM3	

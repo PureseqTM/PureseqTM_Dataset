@@ -1,0 +1,10 @@
+##gff-version 3
+##sequence-region P22466 1 123
+P22466	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22466	UniProtKB	Propeptide	20	30	.	.	.	ID=PRO_0000010448	
+P22466	UniProtKB	Peptide	33	62	.	.	.	ID=PRO_0000010449;Note=Galanin	
+P22466	UniProtKB	Peptide	65	123	.	.	.	ID=PRO_0000010450;Note=Galanin message-associated peptide	
+P22466	UniProtKB	Modified residue	116	116	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22466	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:14997482;Dbxref=PMID:21406692,PMID:14997482	
+P22466	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_049121;Note=A->V;Dbxref=dbSNP:rs34725707	
+P22466	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_074671;Note=In ETL8%3B decreased affinity for GALR2%3B but no effect on affinity for GALR1 and GALR3%3B decreased activity in GALR2-mediated signaling%3B dominant-negative that inhibits GALR1-mediated signaling. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25691535;Dbxref=dbSNP:rs1057517661,PMID:25691535	

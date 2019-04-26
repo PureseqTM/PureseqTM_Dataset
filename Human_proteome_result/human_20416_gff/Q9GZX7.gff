@@ -1,0 +1,56 @@
+##gff-version 3
+##sequence-region Q9GZX7 1 198
+Q9GZX7	UniProtKB	Chain	1	198	.	.	.	ID=PRO_0000171687;Note=Single-stranded DNA cytosine deaminase	
+Q9GZX7	UniProtKB	Domain	23	129	.	.	.	Note=CMP/dCMP-type deaminase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01083	
+Q9GZX7	UniProtKB	Region	2	26	.	.	.	Note=Interaction with SUPT6H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21518874;Dbxref=PMID:21518874	
+Q9GZX7	UniProtKB	Region	39	42	.	.	.	Note=Important for interaction with CTNNBL1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18722174;Dbxref=PMID:18722174	
+Q9GZX7	UniProtKB	Region	88	116	.	.	.	Note=Required for interaction with RNF126;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23277564;Dbxref=PMID:23277564	
+Q9GZX7	UniProtKB	Motif	1	30	.	.	.	Note=Bipartite nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14769937;Dbxref=PMID:14769937	
+Q9GZX7	UniProtKB	Motif	183	198	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14769937;Dbxref=PMID:14769937	
+Q9GZX7	UniProtKB	Active site	58	58	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P0ABF6	
+Q9GZX7	UniProtKB	Metal binding	56	56	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27258794;Dbxref=PMID:27258794	
+Q9GZX7	UniProtKB	Metal binding	87	87	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27258794;Dbxref=PMID:27258794	
+Q9GZX7	UniProtKB	Metal binding	90	90	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27258794;Dbxref=PMID:27258794	
+Q9GZX7	UniProtKB	Modified residue	27	27	.	.	.	Note=Phosphothreonine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16387847;Dbxref=PMID:16387847	
+Q9GZX7	UniProtKB	Modified residue	38	38	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16387847,ECO:0000269|PubMed:18722174;Dbxref=PMID:16387847,PMID:18722174	
+Q9GZX7	UniProtKB	Alternative sequence	143	152	.	.	.	ID=VSP_047803;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q9GZX7	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_077563;Note=In HIGM2. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23803409;Dbxref=PMID:23803409	
+Q9GZX7	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_013774;Note=In HIGM2%3B completely abolishes nuclear import and interaction with CTNNBL1%2C diminishes interaction with KPNA1 and abolishes immunoglobulin class switching. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11007475,ECO:0000269|PubMed:14962793,ECO:0000269|PubMed:21385873;Dbxref=dbSNP:rs104894324,PMID:11007475,PMID:14962793,PMID:21385873	
+Q9GZX7	UniProtKB	Natural variant	25	25	.	.	.	ID=VAR_014091;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11544457;Dbxref=dbSNP:rs1404944797,PMID:11544457	
+Q9GZX7	UniProtKB	Natural variant	31	31	.	.	.	ID=VAR_077564;Note=In HIGM2. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26545377;Dbxref=PMID:26545377	
+Q9GZX7	UniProtKB	Natural variant	56	56	.	.	.	ID=VAR_077565;Note=In HIGM2%3B unknown pathological significance%3B loss of mutagenic activity. H->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14962793,ECO:0000269|PubMed:27716525;Dbxref=PMID:14962793,PMID:27716525	
+Q9GZX7	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_013775;Note=In HIGM2. W->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11007475,ECO:0000269|PubMed:14962793;Dbxref=dbSNP:rs104894320,PMID:11007475,PMID:14962793	
+Q9GZX7	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_077566;Note=In HIGM2%3B unknown pathological significance. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14962793;Dbxref=dbSNP:rs762590894,PMID:14962793	
+Q9GZX7	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_013776;Note=In HIGM2. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11007475,ECO:0000269|PubMed:14962793;Dbxref=dbSNP:rs104894321,PMID:11007475,PMID:14962793	
+Q9GZX7	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_077567;Note=In HIGM2%3B slightly decreased mutagenic activity. H->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26545377,ECO:0000269|PubMed:27716525;Dbxref=PMID:26545377,PMID:27716525	
+Q9GZX7	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_013777;Note=In HIGM2. M->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11007475,ECO:0000269|PubMed:14962793;Dbxref=dbSNP:rs104894322,PMID:11007475,PMID:14962793	
+Q9GZX7	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_013778;Note=In HIGM2. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11007475,ECO:0000269|PubMed:14962793;Dbxref=dbSNP:rs104894327,PMID:11007475,PMID:14962793	
+Q9GZX7	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_077568;Note=In HIGM2%3B unknown pathological significance. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14962793;Dbxref=PMID:14962793	
+Q9GZX7	UniProtKB	Mutagenesis	10	10	.	.	.	Note=Little effect on nuclear import%3B when associated with A-193. No effect on CTNNBL1 binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Mutagenesis	18	18	.	.	.	Note=Greatly impaired nuclear import%3B when associated with V-19 and A-193. Reduced interaction with both CTNNBL1 and KPNA1%2C and abolishes immunoglobulin class switching%3B when associated with V-19. V->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Greatly impaired nuclear import%3B when associated with S-18 and A-193. Reduced interaction with both CTNNBL1 and KPNA1%2C and abolishes immunoglobulin class switching%3B when associated with S-18. R->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Mutagenesis	20	20	.	.	.	Note=Impaired nuclear import%3B when associated with A-193. No effect on CTNNBL1 binding. W->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Loss of phosphorylation. No effect on cytidine deaminase activity. Impaired class-switch recombination activity. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16387847,ECO:0000269|PubMed:21659520;Dbxref=PMID:16387847,PMID:21659520	
+Q9GZX7	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Phosphomimetic mutant which shows loss of cytidine deaminase activity and impaired class-switch recombination activity. T->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16387847,ECO:0000269|PubMed:21659520;Dbxref=PMID:16387847,PMID:21659520	
+Q9GZX7	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Loss of phosphorylation. Impaired class-switch recombination activity. No effect on interaction with CTNNBL1. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16387847,ECO:0000269|PubMed:18722174;Dbxref=PMID:16387847,PMID:18722174	
+Q9GZX7	UniProtKB	Mutagenesis	38	38	.	.	.	Note=No effect on interaction with CTNNBL1. S->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16387847,ECO:0000269|PubMed:18722174;Dbxref=PMID:16387847,PMID:18722174	
+Q9GZX7	UniProtKB	Mutagenesis	39	42	.	.	.	Note=Greatly reduced interaction with CTNNBL1 but no effect on subcellular location%2C enzyme activity%2C ability to oligomerize nor on phosphorylation at Ser-38. Diminished antibody diversification. ATSF->GGQV;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18722174;Dbxref=PMID:18722174	
+Q9GZX7	UniProtKB	Mutagenesis	50	50	.	.	.	Note=Some reduced nuclear import%3B when associated with A-193. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Greatly reduced nuclear import%3B when associated with A-193. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Mutagenesis	193	193	.	.	.	Note=Completely abolishes nuclear import%3B when associated with W-24 or D-112. Little affect on nuclear import%3B when associated with A-10. Greatly impaired nuclear import%3B when associated with K-20 or G-50. Almost completely abolishes nuclear import%3B when associated with S-18 and V-19. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21385873;Dbxref=PMID:21385873	
+Q9GZX7	UniProtKB	Sequence conflict	119	119	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9GZX7	UniProtKB	Helix	8	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W1C	
+Q9GZX7	UniProtKB	Beta strand	18	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0U	
+Q9GZX7	UniProtKB	Beta strand	28	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Beta strand	36	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Beta strand	43	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Helix	57	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Beta strand	72	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Beta strand	76	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Helix	88	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Beta strand	104	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Turn	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Helix	122	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Beta strand	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Helix	141	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	
+Q9GZX7	UniProtKB	Helix	165	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0R	

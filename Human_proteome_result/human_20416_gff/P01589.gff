@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P01589 1 272
+P01589	UniProtKB	Signal peptide	1	21	.	.	.	.	
+P01589	UniProtKB	Chain	22	272	.	.	.	ID=PRO_0000011024;Note=Interleukin-2 receptor subunit alpha	
+P01589	UniProtKB	Topological domain	22	240	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01589	UniProtKB	Transmembrane	241	259	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01589	UniProtKB	Topological domain	260	272	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01589	UniProtKB	Domain	22	84	.	.	.	Note=Sushi 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P01589	UniProtKB	Domain	123	186	.	.	.	Note=Sushi 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+P01589	UniProtKB	Glycosylation	70	70	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3134887;Dbxref=PMID:3134887	
+P01589	UniProtKB	Glycosylation	89	89	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3134887;Dbxref=PMID:3134887	
+P01589	UniProtKB	Glycosylation	218	218	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3134887;Dbxref=PMID:3134887	
+P01589	UniProtKB	Glycosylation	224	224	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3134887;Dbxref=PMID:3134887	
+P01589	UniProtKB	Glycosylation	229	229	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3134887;Dbxref=PMID:3134887	
+P01589	UniProtKB	Glycosylation	237	237	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3134887;Dbxref=PMID:3134887	
+P01589	UniProtKB	Disulfide bond	24	168	.	.	.	.	
+P01589	UniProtKB	Disulfide bond	49	80	.	.	.	.	
+P01589	UniProtKB	Disulfide bond	51	82	.	.	.	.	
+P01589	UniProtKB	Disulfide bond	67	125	.	.	.	.	
+P01589	UniProtKB	Disulfide bond	152	184	.	.	.	.	
+P01589	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_074641;Note=In IMD41. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24116927;Dbxref=dbSNP:rs796051888,PMID:24116927	
+P01589	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_074642;Note=In IMD41%3B the receptor does not localize to the plasma membrane. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23416241;Dbxref=dbSNP:rs796051887,PMID:23416241	
+P01589	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_019280;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs12722712	
+P01589	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	63	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	74	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NFP	
+P01589	UniProtKB	Beta strand	82	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	135	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3IU3	
+P01589	UniProtKB	Beta strand	143	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NFP	
+P01589	UniProtKB	Beta strand	147	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	157	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	164	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	172	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Z92	
+P01589	UniProtKB	Beta strand	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	
+P01589	UniProtKB	Beta strand	182	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5I	

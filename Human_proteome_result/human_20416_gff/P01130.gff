@@ -1,0 +1,386 @@
+##gff-version 3
+##sequence-region P01130 1 860
+P01130	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01131	
+P01130	UniProtKB	Chain	22	860	.	.	.	ID=PRO_0000017312;Note=Low-density lipoprotein receptor	
+P01130	UniProtKB	Topological domain	22	788	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01131	
+P01130	UniProtKB	Transmembrane	789	810	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01130	UniProtKB	Topological domain	811	860	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22509010;Dbxref=PMID:22509010	
+P01130	UniProtKB	Domain	25	65	.	.	.	Note=LDL-receptor class A 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	66	106	.	.	.	Note=LDL-receptor class A 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	107	145	.	.	.	Note=LDL-receptor class A 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	146	186	.	.	.	Note=LDL-receptor class A 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	195	233	.	.	.	Note=LDL-receptor class A 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	234	272	.	.	.	Note=LDL-receptor class A 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	274	313	.	.	.	Note=LDL-receptor class A 7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P01130	UniProtKB	Domain	314	353	.	.	.	Note=EGF-like 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P01130	UniProtKB	Domain	354	393	.	.	.	Note=EGF-like 2%3B calcium-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P01130	UniProtKB	Repeat	397	438	.	.	.	Note=LDL-receptor class B 1	
+P01130	UniProtKB	Repeat	439	485	.	.	.	Note=LDL-receptor class B 2	
+P01130	UniProtKB	Repeat	486	528	.	.	.	Note=LDL-receptor class B 3	
+P01130	UniProtKB	Repeat	529	572	.	.	.	Note=LDL-receptor class B 4	
+P01130	UniProtKB	Repeat	573	615	.	.	.	Note=LDL-receptor class B 5	
+P01130	UniProtKB	Repeat	616	658	.	.	.	Note=LDL-receptor class B 6	
+P01130	UniProtKB	Domain	663	712	.	.	.	Note=EGF-like 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P01130	UniProtKB	Region	721	768	.	.	.	Note=Clustered O-linked oligosaccharides	
+P01130	UniProtKB	Region	811	860	.	.	.	Note=Required for MYLIP-triggered down-regulation of LDLR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Motif	823	828	.	.	.	Note=NPXY motif;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22509010;Dbxref=PMID:22509010	
+P01130	UniProtKB	Modified residue	724	724	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35952	
+P01130	UniProtKB	Glycosylation	97	97	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01130	UniProtKB	Glycosylation	156	156	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Glycosylation	272	272	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Glycosylation	515	515	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01130	UniProtKB	Glycosylation	657	657	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12754519,ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19159218;Dbxref=PMID:12754519,PMID:16335952,PMID:19159218	
+P01130	UniProtKB	Disulfide bond	27	39	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	34	52	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	46	63	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	68	82	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	75	95	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	89	104	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	109	121	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P01130	UniProtKB	Disulfide bond	116	134	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	128	143	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	148	160	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	155	173	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	167	184	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	197	209	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	204	222	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	216	231	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	236	248	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	243	261	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	255	270	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	276	289	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	284	302	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	296	313	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	318	329	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	325	338	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	340	352	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	358	368	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	364	377	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	379	392	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	667	681	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	677	696	.	.	.	.	
+P01130	UniProtKB	Disulfide bond	698	711	.	.	.	.	
+P01130	UniProtKB	Alternative sequence	35	155	.	.	.	ID=VSP_047413;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P01130	UniProtKB	Alternative sequence	64	105	.	.	.	ID=VSP_043595;Note=In isoform 4. LSVTCKSGDFSCGGRVNRCIPQFWRCDGQVDCDNGSDEQGCP->S;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P01130	UniProtKB	Alternative sequence	105	272	.	.	.	ID=VSP_055014;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P01130	UniProtKB	Alternative sequence	106	232	.	.	.	ID=VSP_043053;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P01130	UniProtKB	Alternative sequence	273	273	.	.	.	ID=VSP_055015;Note=In isoform 3. V->L;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P01130	UniProtKB	Alternative sequence	663	713	.	.	.	ID=VSP_043054;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P01130	UniProtKB	Alternative sequence	850	851	.	.	.	ID=VSP_045525;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+P01130	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_011862;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs5931,PMID:10391209	
+P01130	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_005304;Note=In FH%3B San Francisco. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs2228671,PMID:9259195	
+P01130	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_013949;Note=In FH%3B Japanese patient. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11298688;Dbxref=dbSNP:rs121908041,PMID:11298688	
+P01130	UniProtKB	Natural variant	47	48	.	.	.	ID=VAR_005305;Note=In FH%3B Cape Town-1%3B retards receptor transport from the endoplasmic reticulum to the cell surface. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10882754,ECO:0000269|PubMed:3263645;Dbxref=PMID:10882754,PMID:3263645	
+P01130	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_007979;Note=In FH%3B German patient. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10090484;Dbxref=dbSNP:rs137853960,PMID:10090484	
+P01130	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_072827;Note=In FH%3B unknown pathological significance. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs137853960,PMID:17347910	
+P01130	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_005306;Note=In Paris-4. C->Y;Dbxref=dbSNP:rs879254418	
+P01130	UniProtKB	Natural variant	56	56	.	.	.	ID=VAR_007980;Note=In FH. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9104431;Dbxref=dbSNP:rs878854026,PMID:9104431	
+P01130	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_005307;Note=In FH. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs370860696,PMID:9259195	
+P01130	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_005308;Note=In FH%3B French Canadian-4. W->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:2318961,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs121908025,PMID:10532689,PMID:2318961,PMID:9259195	
+P01130	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_005309;Note=In FH. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs875989894,PMID:17142622,PMID:9259195	
+P01130	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_005310;Note=In FH%3B London-4. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs771019366,PMID:9259195	
+P01130	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_005311;Note=In FH. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs749038326,PMID:9259195	
+P01130	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_005312;Note=In FH%3B Durban-1. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8347689;Dbxref=dbSNP:rs749038326,PMID:8347689	
+P01130	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_005313;Note=In FH%3B Spanish patient. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10206683;Dbxref=dbSNP:rs774467219,PMID:10206683	
+P01130	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_005314;Note=In FH%3B Spanish patient. C->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10206683;Dbxref=dbSNP:rs879254456,PMID:10206683	
+P01130	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_005315;Note=In FH%3B Lancashire%3B 6%25 of American English. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs144172724,PMID:17142622,PMID:9259195	
+P01130	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_059375;Note=P->S;Dbxref=dbSNP:rs13306510	
+P01130	UniProtKB	Natural variant	109	109	.	.	.	ID=VAR_005316;Note=In Munster-1. C->R;Dbxref=dbSNP:rs140807148	
+P01130	UniProtKB	Natural variant	116	116	.	.	.	ID=VAR_005317;Note=In FH%3B does not affect receptor expression at the cell surface%3B results in reduced LDL binding%3B results in reduced LDL uptake and internalization. C->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10206683,ECO:0000269|PubMed:25545329;Dbxref=dbSNP:rs879254482,PMID:10206683,PMID:25545329	
+P01130	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_062371;Note=In FH. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs879254514,PMID:10978268	
+P01130	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_062372;Note=In FH. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs879254515,PMID:10978268	
+P01130	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_065780;Note=Found in a patient with hypercholesterolemia. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21418584;Dbxref=dbSNP:rs879254517,PMID:21418584	
+P01130	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_005318;Note=In FH%3B Philippines/Durban-2/Japan. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:7583548,ECO:0000269|PubMed:8347689;Dbxref=dbSNP:rs748944640,PMID:10532689,PMID:7583548,PMID:8347689	
+P01130	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_072828;Note=In FH. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs875989901,PMID:11462246	
+P01130	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_072829;Note=In FH. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs879254526,PMID:11462246	
+P01130	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_005319;Note=In Germany. C->G;Dbxref=dbSNP:rs879254535	
+P01130	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_072830;Note=In FH%3B results in defective LDL binding%3B does not affect receptor expression at the cell surface. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19318025,ECO:0000269|PubMed:25378237;Dbxref=dbSNP:rs879254536,PMID:19318025,PMID:25378237	
+P01130	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_005320;Note=In FH%3B unknown pathological significance. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs879254541,PMID:24529145,PMID:9259195	
+P01130	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_072831;Note=In FH%3B unknown pathological significance. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs879254549,PMID:24529145	
+P01130	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_005321;Note=In FH%3B Sephardic/Safed%3B 10%25 of the Sephardic Jews. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8462973;Dbxref=dbSNP:rs200727689,PMID:8462973	
+P01130	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_005322;Note=In FH%3B does not affect receptor expression at the cell surface%3B results in reduced LDL binding%3B results in reduced LDL uptake and internalization. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25545329,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs200727689,PMID:25545329,PMID:9259195	
+P01130	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_005323;Note=In FH. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8740918;Dbxref=dbSNP:rs200727689,PMID:8740918	
+P01130	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_013950;Note=May contribute to familial hypercholesterolemia. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10882754;Dbxref=dbSNP:rs879254554,PMID:10882754	
+P01130	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_072832;Note=In FH%3B does not affect receptor expression at the cell surface%3B results in reduced LDL binding%3B results in reduced LDL uptake and internalization. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:25545329;Dbxref=dbSNP:rs879254554,PMID:10532689,PMID:25545329	
+P01130	UniProtKB	Natural variant	173	173	.	.	.	ID=VAR_005324;Note=In Greece-1. C->R;Dbxref=dbSNP:rs879254558	
+P01130	UniProtKB	Natural variant	173	173	.	.	.	ID=VAR_005325;Note=In FH. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452094;Dbxref=dbSNP:rs769318035,PMID:9452094	
+P01130	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_005326;Note=In FH%3B Afrikaner-3%3B 5-10%25 of Afrikaners. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2569482;Dbxref=dbSNP:rs121908033,PMID:2569482	
+P01130	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_007981;Note=In FH. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9104431;Dbxref=dbSNP:rs121908033,PMID:9104431	
+P01130	UniProtKB	Natural variant	177	177	.	.	.	ID=VAR_005327;Note=In FH%3B Puerto Rico. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10206683,ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:9259195,ECO:0000269|PubMed:9654205;Dbxref=dbSNP:rs121908026,PMID:10206683,PMID:24529145,PMID:9259195,PMID:9654205	
+P01130	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_072833;Note=In FH. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs879254571,PMID:11462246	
+P01130	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_013951;Note=In FH%3B Glasco. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:9678702;Dbxref=dbSNP:rs121908039,PMID:24529145,PMID:9678702	
+P01130	UniProtKB	Natural variant	197	197	.	.	.	ID=VAR_005328;Note=In Shreveport. C->F;Dbxref=dbSNP:rs376459828	
+P01130	UniProtKB	Natural variant	197	197	.	.	.	ID=VAR_005330;Note=In FH%3B British patient. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9026534;Dbxref=dbSNP:rs730882085,PMID:9026534	
+P01130	UniProtKB	Natural variant	197	197	.	.	.	ID=VAR_005329;Note=In El Salvador-1. C->Y;Dbxref=dbSNP:rs376459828	
+P01130	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_065781;Note=Found in a patient with hypercholesterolemia. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21418584;Dbxref=dbSNP:rs879254589,PMID:21418584	
+P01130	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_072834;Note=In FH%3B unknown pathological significance. H->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs879254603,PMID:17347910	
+P01130	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_005331;Note=In FH%3B Piscataway/Lithuania. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:1867200,ECO:0000269|PubMed:9654205;Dbxref=PMID:17142622,PMID:1867200,PMID:9654205	
+P01130	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_005332;Note=In FH%3B Padova. D->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10206683,ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:17347910,ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:7649546,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs373822756,PMID:10206683,PMID:17142622,PMID:17347910,PMID:24529145,PMID:7649546,PMID:9259195	
+P01130	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_007982;Note=In FH%3B German patient. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10090484,ECO:0000269|PubMed:17142622;Dbxref=dbSNP:rs875989906,PMID:10090484,PMID:17142622	
+P01130	UniProtKB	Natural variant	221	221	.	.	.	ID=VAR_005333;Note=In FH%3B Cologne patient. D->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10206683,ECO:0000269|PubMed:7649546;Dbxref=dbSNP:rs875989906,PMID:10206683,PMID:7649546	
+P01130	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_062373;Note=In FH. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs730882086,PMID:10978268	
+P01130	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_005335;Note=In Italy-2. D->G;Dbxref=dbSNP:rs879254630	
+P01130	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_005334;Note=In Portugal. D->N;Dbxref=dbSNP:rs387906303	
+P01130	UniProtKB	Natural variant	224	224	.	.	.	ID=VAR_005336;Note=In FH%3B Cologne patient. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7649546;Dbxref=dbSNP:rs879254630,PMID:7649546	
+P01130	UniProtKB	Natural variant	226	226	.	.	.	ID=VAR_005337;Note=In Miami-1. S->P;Dbxref=dbSNP:rs879254635	
+P01130	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_005338;Note=In FH%3B Afrikaner-1/Maine%3B 65-70%25 of Afrikaner Americans. D->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2569482,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs121908028,PMID:2569482,PMID:9259195	
+P01130	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_005339;Note=In Chieti-3. E->CK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10660340;Dbxref=PMID:10660340	
+P01130	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_005341;Note=In FH%3B French Canadian-3/Mexico%3B 2%25 of French Canadians. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2318961,ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs121908029,PMID:2318961,PMID:24529145	
+P01130	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_005340;Note=In FH%3B Tulsa-2. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs121908029,PMID:24529145	
+P01130	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_005342;Note=In FH%3B Norwegian patient. C->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8664907;Dbxref=dbSNP:rs746091400,PMID:8664907	
+P01130	UniProtKB	Natural variant	240	240	.	.	.	ID=VAR_005343;Note=In Charlotte. E->K;Dbxref=dbSNP:rs768563000	
+P01130	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_072835;Note=In FH%3B unknown pathological significance. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10532689;Dbxref=dbSNP:rs879254659,PMID:10532689	
+P01130	UniProtKB	Natural variant	248	248	.	.	.	ID=VAR_005344;Note=In Bretagne-1. C->F;Dbxref=dbSNP:rs879254663	
+P01130	UniProtKB	Natural variant	248	248	.	.	.	ID=VAR_005345;Note=In FH%3B British patient. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9026534;Dbxref=dbSNP:rs879254663,PMID:9026534	
+P01130	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_013952;Note=May contribute to familial hypercholesterolemia. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10882754;Dbxref=dbSNP:rs150673992,PMID:10882754	
+P01130	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_062374;Note=In FH. Q->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10978268,ECO:0000269|PubMed:19319977;Dbxref=dbSNP:rs879254667,PMID:10978268,PMID:19319977	
+P01130	UniProtKB	Natural variant	255	255	.	.	.	ID=VAR_065782;Note=Found in a patient with hypercholesterolemia. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21418584;Dbxref=dbSNP:rs879254668,PMID:21418584	
+P01130	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_005346;Note=In Nevers. D->G;Dbxref=dbSNP:rs879254670	
+P01130	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_072836;Note=Polymorphism%3B does not affect receptor expression at the cell surface%3B does not affect LDL binding%3B does not affect LDL uptake and internalization. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11462246,ECO:0000269|PubMed:25545329;Dbxref=dbSNP:rs200990725,PMID:11462246,PMID:25545329	
+P01130	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_013953;Note=In FH%3B rare mutation%3B strongly reduced receptor activity. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10422803;Dbxref=dbSNP:rs121908040,PMID:10422803	
+P01130	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_005347;Note=In FH%3B Cincinnati-1%3B unknown pathological significance. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs139043155,PMID:17347910	
+P01130	UniProtKB	Natural variant	270	270	.	.	.	ID=VAR_005348;Note=In Miami-2. C->Y;Dbxref=dbSNP:rs879254683	
+P01130	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_062375;Note=In FH. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs879254692,PMID:10978268	
+P01130	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_072837;Note=In FH%3B unknown pathological significance. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs146651743,PMID:24529145	
+P01130	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_005349;Note=In FH%3B Syrian patient. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.71;Dbxref=dbSNP:rs730882089	
+P01130	UniProtKB	Natural variant	277	277	.	.	.	ID=VAR_005350;Note=In FH%3B patients from Sweden and La Havana%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10206683,ECO:0000269|PubMed:17347910,ECO:0000269|PubMed:7635461,ECO:0000269|PubMed:7649549;Dbxref=dbSNP:rs148698650,PMID:10206683,PMID:17347910,PMID:7635461,PMID:7649549	
+P01130	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_072838;Note=In FH%3B unknown pathological significance. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs730882091,PMID:24529145	
+P01130	UniProtKB	Natural variant	286	286	.	.	.	ID=VAR_005351;Note=In FH%3B Greece-2%3B unknown pathological significance. S->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17347910,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs140241383,PMID:17347910,PMID:9259195	
+P01130	UniProtKB	Natural variant	288	288	.	.	.	ID=VAR_007983;Note=In FH%3B German patient. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10090484;Dbxref=dbSNP:rs368657165,PMID:10090484	
+P01130	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_072839;Note=In FH%3B does not affect receptor expression at the cell surface%3B results in reduced LDL binding%3B results in reduced LDL uptake and internalization. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19318025,ECO:0000269|PubMed:25545329;Dbxref=dbSNP:rs767618089,PMID:19318025,PMID:25545329	
+P01130	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_005352;Note=In FH%3B Greek patient. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9026534;Dbxref=dbSNP:rs879254714,PMID:9026534	
+P01130	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_072840;Note=In FH%3B does not affect receptor expression at the cell surface%3B results in reduced LDL binding%3B results in reduced LDL uptake and internalization. D->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19318025,ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:25545329;Dbxref=dbSNP:rs879254714,PMID:19318025,PMID:24529145,PMID:25545329	
+P01130	UniProtKB	Natural variant	302	302	.	.	.	ID=VAR_005354;Note=In FH%3B Iraki patient. C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9026534;Dbxref=dbSNP:rs879254716,PMID:9026534	
+P01130	UniProtKB	Natural variant	302	302	.	.	.	ID=VAR_005353;Note=In FH%3B Spanish patient. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10206683;Dbxref=dbSNP:rs879254715,PMID:10206683	
+P01130	UniProtKB	Natural variant	304	304	.	.	.	ID=VAR_005356;Note=In Baltimore-1. D->E;Dbxref=dbSNP:rs875989909	
+P01130	UniProtKB	Natural variant	304	304	.	.	.	ID=VAR_005355;Note=In Denver-2. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21418584;Dbxref=dbSNP:rs121908030,PMID:21418584	
+P01130	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_005357;Note=In FH%3B Amsterdam%3B unknown pathological significance. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10532689;Dbxref=dbSNP:rs11547917,PMID:10532689	
+P01130	UniProtKB	Natural variant	313	313	.	.	.	ID=VAR_005358;Note=In FH. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs875989911,dbSNP:rs875989910,PMID:9259195	
+P01130	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_072841;Note=In FH%3B unknown pathological significance. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs72658858,PMID:17347910	
+P01130	UniProtKB	Natural variant	318	318	.	.	.	ID=VAR_005360;Note=In FH%3B Trieste. C->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:8168830;Dbxref=dbSNP:rs879254739,PMID:24529145,PMID:8168830	
+P01130	UniProtKB	Natural variant	318	318	.	.	.	ID=VAR_062376;Note=In FH. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs879254738,PMID:10978268	
+P01130	UniProtKB	Natural variant	318	318	.	.	.	ID=VAR_005359;Note=In Mexico-1%3B leads to a defect in the intracellular transport of the receptor. C->Y;Dbxref=dbSNP:rs879254739	
+P01130	UniProtKB	Natural variant	326	326	.	.	.	ID=VAR_072842;Note=In FH%3B unknown pathological significance. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs879254747,PMID:24529145	
+P01130	UniProtKB	Natural variant	327	327	.	.	.	ID=VAR_005361;Note=In FH. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs747507019,PMID:9259195	
+P01130	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_067196;Note=In FH. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22160468;Dbxref=dbSNP:rs761954844,PMID:22160468	
+P01130	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_005362;Note=In FH%3B Chinese patient. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452118;Dbxref=dbSNP:rs761954844,PMID:9452118	
+P01130	UniProtKB	Natural variant	335	335	.	.	.	ID=VAR_005363;Note=In Paris-6. G->S;Dbxref=dbSNP:rs544453230	
+P01130	UniProtKB	Natural variant	338	338	.	.	.	ID=VAR_005364;Note=In FH%3B Japanese patients. C->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10447263,ECO:0000269|PubMed:7583548;Dbxref=dbSNP:rs879254753,PMID:10447263,PMID:7583548	
+P01130	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_005365;Note=In New York-1. D->E;Dbxref=dbSNP:rs780563386	
+P01130	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_005366;Note=In FH%3B unknown pathological significance. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs139361635,PMID:9259195	
+P01130	UniProtKB	Natural variant	343	343	.	.	.	ID=VAR_005367;Note=In FH%3B Picardie%3B unknown pathological significance. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs730882096,PMID:24529145	
+P01130	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_005368;Note=In FH. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9026534,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs875989914,PMID:9026534,PMID:9259195	
+P01130	UniProtKB	Natural variant	352	352	.	.	.	ID=VAR_072843;Note=In FH%3B unknown pathological significance. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs879254769,PMID:17347910	
+P01130	UniProtKB	Natural variant	352	352	.	.	.	ID=VAR_005369;Note=In Mexico-2. C->Y;Dbxref=dbSNP:rs193922566	
+P01130	UniProtKB	Natural variant	354	354	.	.	.	ID=VAR_005370;Note=In Munster-2. D->G;Dbxref=dbSNP:rs755449669	
+P01130	UniProtKB	Natural variant	354	354	.	.	.	ID=VAR_005371;Note=In Oklahoma. D->V;Dbxref=dbSNP:rs755449669	
+P01130	UniProtKB	Natural variant	356	356	.	.	.	ID=VAR_007984;Note=In FH. D->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19319977,ECO:0000269|PubMed:9104431;Dbxref=dbSNP:rs767767730,PMID:19319977,PMID:9104431	
+P01130	UniProtKB	Natural variant	357	357	.	.	.	ID=VAR_005372;Note=In Paris-7. E->K;Dbxref=dbSNP:rs879254781	
+P01130	UniProtKB	Natural variant	358	358	.	.	.	ID=VAR_062377;Note=In FH. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:19319977;Dbxref=dbSNP:rs875989915,PMID:17142622,PMID:19319977	
+P01130	UniProtKB	Natural variant	364	364	.	.	.	ID=VAR_005373;Note=In Mexico-3. C->R;Dbxref=dbSNP:rs879254787	
+P01130	UniProtKB	Natural variant	366	366	.	.	.	ID=VAR_007985;Note=In FH. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8740918;Dbxref=dbSNP:rs746982741,PMID:8740918	
+P01130	UniProtKB	Natural variant	368	368	.	.	.	ID=VAR_005374;Note=In FH%3B French Canadian patient. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452094;Dbxref=dbSNP:rs879254791,PMID:9452094	
+P01130	UniProtKB	Natural variant	368	368	.	.	.	ID=VAR_072844;Note=In FH%3B unknown pathological significance. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs768430352,PMID:24529145	
+P01130	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_062378;Note=In FH. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs879254792,PMID:10978268	
+P01130	UniProtKB	Natural variant	373	373	.	.	.	ID=VAR_072845;Note=In FH%3B unknown pathological significance. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs879254797,PMID:24529145	
+P01130	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_005375;Note=In Naples-1. C->R;Dbxref=dbSNP:rs879254803	
+P01130	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_007986;Note=In FH. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9852677;Dbxref=dbSNP:rs879254804,PMID:9852677	
+P01130	UniProtKB	Natural variant	391	391	.	.	.	ID=VAR_024519;Note=A->T;Dbxref=dbSNP:rs11669576	
+P01130	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_005376;Note=In FH. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs875989918,PMID:9259195	
+P01130	UniProtKB	Natural variant	401	401	.	.	.	ID=VAR_005377;Note=In Pori. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7573037;Dbxref=dbSNP:rs121908038,PMID:7573037	
+P01130	UniProtKB	Natural variant	401	401	.	.	.	ID=VAR_007987;Note=In FH. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9104431;Dbxref=dbSNP:rs146200173,PMID:9104431	
+P01130	UniProtKB	Natural variant	403	403	.	.	.	ID=VAR_008995;Note=In FH%3B Japanese patient. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10447263;Dbxref=dbSNP:rs879254831,PMID:10447263	
+P01130	UniProtKB	Natural variant	404	404	.	.	.	ID=VAR_072846;Note=In FH%3B unknown pathological significance. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10532689;Dbxref=dbSNP:rs879254834,PMID:10532689	
+P01130	UniProtKB	Natural variant	406	406	.	.	.	ID=VAR_013954;Note=May contribute to familial hypercholesterolemia. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10882754;Dbxref=dbSNP:rs552422789,PMID:10882754	
+P01130	UniProtKB	Natural variant	406	406	.	.	.	ID=VAR_072847;Note=In FH%3B unknown pathological significance. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs121908043,PMID:24529145	
+P01130	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_005378;Note=In FH%3B Algeria-1%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10882754,ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs137943601,PMID:10882754,PMID:17347910	
+P01130	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_005379;Note=In FH%3B Chinese patient. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452118;Dbxref=dbSNP:rs748554592,PMID:9452118	
+P01130	UniProtKB	Natural variant	415	415	.	.	.	ID=VAR_062379;Note=In FH. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs879254845,PMID:10978268	
+P01130	UniProtKB	Natural variant	416	416	.	.	.	ID=VAR_005380;Note=In FH%3B German patient. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9452095;Dbxref=dbSNP:rs773658037,PMID:9452095	
+P01130	UniProtKB	Natural variant	416	416	.	.	.	ID=VAR_005381;Note=In FH%3B results in reduced receptor expression at the cell surface due to defective receptor recycling. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19318025,ECO:0000269|PubMed:25378237,ECO:0000269|PubMed:9104431,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs570942190,PMID:19318025,PMID:25378237,PMID:9104431,PMID:9259195	
+P01130	UniProtKB	Natural variant	423	423	.	.	.	ID=VAR_005382;Note=In FH%3B Swedish patient. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7635461;Dbxref=dbSNP:rs879254849,PMID:7635461	
+P01130	UniProtKB	Natural variant	429	429	.	.	.	ID=VAR_005383;Note=In FH%3B Afrikaner-2%3B 20-30%25 of Afrikaners and 2%25 of FH Dutch. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:2569482,ECO:0000269|PubMed:7649549,ECO:0000269|PubMed:9452095,ECO:0000269|PubMed:9452118;Dbxref=dbSNP:rs28942078,PMID:24529145,PMID:2569482,PMID:7649549,PMID:9452095,PMID:9452118	
+P01130	UniProtKB	Natural variant	431	431	.	.	.	ID=VAR_005384;Note=In FH%3B Algeria-2%3B unknown pathological significance. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10447263,ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs28942079,PMID:10447263,PMID:17347910	
+P01130	UniProtKB	Natural variant	432	432	.	.	.	ID=VAR_007988;Note=In FH%3B German patient. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10090484;Dbxref=dbSNP:rs730882100,PMID:10090484	
+P01130	UniProtKB	Natural variant	433	433	.	.	.	ID=VAR_005385;Note=In FH%3B Osaka-3. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1446662;Dbxref=dbSNP:rs121908036,PMID:1446662	
+P01130	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_005386;Note=In FH%3B Algeria-3%3B unknown pathological significance. T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10206683;Dbxref=dbSNP:rs745343524,PMID:10206683	
+P01130	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_005388;Note=In Rouen. I->M;Dbxref=dbSNP:rs5933	
+P01130	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_005387;Note=In Russia-1. I->N;Dbxref=dbSNP:rs879254862	
+P01130	UniProtKB	Natural variant	442	442	.	.	.	ID=VAR_072848;Note=In FH%3B unknown pathological significance. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs879254863,PMID:17347910	
+P01130	UniProtKB	Natural variant	443	443	.	.	.	ID=VAR_005389;Note=In North Platt. W->C;Dbxref=dbSNP:rs879254867	
+P01130	UniProtKB	Natural variant	451	451	.	.	.	ID=VAR_062380;Note=In FH. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10980548,ECO:0000269|PubMed:19319977;Dbxref=dbSNP:rs879254874,PMID:10980548,PMID:19319977	
+P01130	UniProtKB	Natural variant	454	454	.	.	.	ID=VAR_072849;Note=In FH%3B results in reduced receptor expression at the cell surface due to defective receptor recycling. T->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19318025,ECO:0000269|PubMed:25378237;Dbxref=dbSNP:rs879254879,PMID:19318025,PMID:25378237	
+P01130	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_011863;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs5932,PMID:10391209	
+P01130	UniProtKB	Natural variant	471	471	.	.	.	ID=VAR_065783;Note=Found in a patient with hypercholesterolemia. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21418584;Dbxref=dbSNP:rs879254891,PMID:21418584	
+P01130	UniProtKB	Natural variant	478	478	.	.	.	ID=VAR_005390;Note=In New York-2. G->R;Dbxref=dbSNP:rs144614838	
+P01130	UniProtKB	Natural variant	479	479	.	.	.	ID=VAR_062381;Note=In FH. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17142622;Dbxref=dbSNP:rs879254900,PMID:17142622	
+P01130	UniProtKB	Natural variant	482	482	.	.	.	ID=VAR_005391;Note=In FH. D->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs139624145,PMID:17142622,PMID:9259195	
+P01130	UniProtKB	Natural variant	483	483	.	.	.	ID=VAR_005392;Note=In FH. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs879254905,PMID:9259195	
+P01130	UniProtKB	Natural variant	485	485	.	.	.	ID=VAR_005394;Note=In Milan. H->R;Dbxref=dbSNP:rs879254906	
+P01130	UniProtKB	Natural variant	487	487	.	.	.	ID=VAR_005393;Note=In FH%3B Norwegian patient. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7635482;Dbxref=PMID:7635482	
+P01130	UniProtKB	Natural variant	492	492	.	.	.	ID=VAR_072850;Note=In FH%3B unknown pathological significance. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs373646964,PMID:24529145	
+P01130	UniProtKB	Natural variant	523	523	.	.	.	ID=VAR_005395;Note=In FH%3B Kuwait. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs28942080,PMID:17347910	
+P01130	UniProtKB	Natural variant	526	526	.	.	.	ID=VAR_005396;Note=In FH%3B Cincinnati-3%3B unknown pathological significance. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs730882106,PMID:9259195	
+P01130	UniProtKB	Natural variant	546	546	.	.	.	ID=VAR_005397;Note=In Saint Omer%3B retention in the ER. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=dbSNP:rs28942081,PMID:19520913	
+P01130	UniProtKB	Natural variant	549	549	.	.	.	ID=VAR_005398;Note=In FH%3B Genoa. G->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs28941776,PMID:24529145,PMID:9259195	
+P01130	UniProtKB	Natural variant	564	564	.	.	.	ID=VAR_005399;Note=In FH. N->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10090484,ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:7550239,ECO:0000269|PubMed:9143924;Dbxref=dbSNP:rs397509365,PMID:10090484,PMID:10532689,PMID:24529145,PMID:7550239,PMID:9143924	
+P01130	UniProtKB	Natural variant	564	564	.	.	.	ID=VAR_005400;Note=In FH%3B Sicily. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9654205;Dbxref=dbSNP:rs758194385,PMID:9654205	
+P01130	UniProtKB	Natural variant	565	565	.	.	.	ID=VAR_005401;Note=In Naples-2. G->V;Dbxref=dbSNP:rs28942082	
+P01130	UniProtKB	Natural variant	568	568	.	.	.	ID=VAR_008996;Note=In FH%3B Japanese patient. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10447263;Dbxref=dbSNP:rs746959386,PMID:10447263	
+P01130	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_072851;Note=In FH. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs185098634,PMID:11462246	
+P01130	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_072852;Note=In FH%3B unknown pathological significance. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs777188764,PMID:24529145	
+P01130	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_072853;Note=In FH%3B results in loss of receptor expression at the cell surface. W->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17347910,ECO:0000269|PubMed:25378237;Dbxref=dbSNP:rs879255000,PMID:17347910,PMID:25378237	
+P01130	UniProtKB	Natural variant	577	577	.	.	.	ID=VAR_072854;Note=In FH%3B unknown pathological significance. W->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10532689;Dbxref=dbSNP:rs138947766,PMID:10532689	
+P01130	UniProtKB	Natural variant	579	579	.	.	.	ID=VAR_005402;Note=In FH%3B Cincinnati-4%3B less than 2%25 receptor activity. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:7635461;Dbxref=dbSNP:rs875989929,PMID:10532689,PMID:7635461	
+P01130	UniProtKB	Natural variant	579	579	.	.	.	ID=VAR_062382;Note=In FH. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10978268;Dbxref=dbSNP:rs875989929,PMID:10978268	
+P01130	UniProtKB	Natural variant	585	585	.	.	.	ID=VAR_072855;Note=In FH%3B unknown pathological significance. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17347910;Dbxref=dbSNP:rs879255012,PMID:17347910	
+P01130	UniProtKB	Natural variant	592	592	.	.	.	ID=VAR_005403;Note=In FH%3B Sicily. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9654205;Dbxref=dbSNP:rs137929307,PMID:9654205	
+P01130	UniProtKB	Natural variant	595	595	.	.	.	ID=VAR_072856;Note=In FH%3B unknown pathological significance. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs373371572,PMID:24529145	
+P01130	UniProtKB	Natural variant	599	599	.	.	.	ID=VAR_005404;Note=In London-5. L->S;Dbxref=dbSNP:rs879255025	
+P01130	UniProtKB	Natural variant	601	601	.	.	.	ID=VAR_072857;Note=In FH%3B unknown pathological significance. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs753707206,PMID:24529145	
+P01130	UniProtKB	Natural variant	608	608	.	.	.	ID=VAR_007989;Note=In FH. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9852677;Dbxref=dbSNP:rs879255034,PMID:9852677	
+P01130	UniProtKB	Natural variant	633	633	.	.	.	ID=VAR_005405;Note=In FH. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs746118995,PMID:9259195	
+P01130	UniProtKB	Natural variant	639	639	.	.	.	ID=VAR_072858;Note=In FH. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs794728584,PMID:11462246	
+P01130	UniProtKB	Natural variant	649	649	.	.	.	ID=VAR_005406;Note=In FH. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs879255081,PMID:9259195	
+P01130	UniProtKB	Natural variant	667	667	.	.	.	ID=VAR_005407;Note=In FH%3B French Canadian-2%3B 5%25 of French Canadians. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10206683,ECO:0000269|PubMed:2318961;Dbxref=dbSNP:rs28942083,PMID:10206683,PMID:2318961	
+P01130	UniProtKB	Natural variant	677	677	.	.	.	ID=VAR_005408;Note=In FH%3B New York-3. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17142622;Dbxref=dbSNP:rs775092314,PMID:17142622	
+P01130	UniProtKB	Natural variant	682	682	.	.	.	ID=VAR_005409;Note=In Issoire. L->P;Dbxref=dbSNP:rs879255119	
+P01130	UniProtKB	Natural variant	685	685	.	.	.	ID=VAR_005410;Note=In FH%3B Gujerat/Zambia/Belgian/Dutch/Sweden/Japan. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1464748,ECO:0000269|PubMed:17142622,ECO:0000269|PubMed:17347910,ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:2726768,ECO:0000269|PubMed:7583548,ECO:0000269|PubMed:9254862;Dbxref=dbSNP:rs28942084,PMID:1464748,PMID:17142622,PMID:17347910,PMID:24529145,PMID:2726768,PMID:7583548,PMID:9254862	
+P01130	UniProtKB	Natural variant	699	699	.	.	.	ID=VAR_013955;Note=In FH%3B unknown pathological significance. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10882754,ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs201573863,PMID:10882754,PMID:24529145	
+P01130	UniProtKB	Natural variant	700	700	.	.	.	ID=VAR_005412;Note=In FH%3B Spanish patient. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10206683;Dbxref=dbSNP:rs759858813,PMID:10206683	
+P01130	UniProtKB	Natural variant	714	714	.	.	.	ID=VAR_008997;Note=In FH%3B Japanese patient. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10447263;Dbxref=dbSNP:rs869320652,PMID:10447263	
+P01130	UniProtKB	Natural variant	726	726	.	.	.	ID=VAR_005413;Note=In FH%3B Paris-9%3B unknown pathological significance. T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:9259195;Dbxref=dbSNP:rs45508991,PMID:10532689,PMID:9259195	
+P01130	UniProtKB	Natural variant	742	742	.	.	.	ID=VAR_072859;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs767546791,PMID:11462246	
+P01130	UniProtKB	Natural variant	792	792	.	.	.	ID=VAR_005414;Note=In Russia-2. I->F;Dbxref=dbSNP:rs761123215	
+P01130	UniProtKB	Natural variant	797	797	.	.	.	ID=VAR_005415;Note=In FH%3B La Havana patient. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24529145,ECO:0000269|PubMed:7649549;Dbxref=dbSNP:rs750518671,PMID:24529145,PMID:7649549	
+P01130	UniProtKB	Natural variant	799	801	.	.	.	ID=VAR_005416;Note=In FH%3B Danish patient. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9143924;Dbxref=PMID:9143924	
+P01130	UniProtKB	Natural variant	806	806	.	.	.	ID=VAR_072860;Note=In FH%3B unknown pathological significance. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11462246;Dbxref=dbSNP:rs879255208,PMID:11462246	
+P01130	UniProtKB	Natural variant	814	814	.	.	.	ID=VAR_011864;Note=In FH%3B unknown pathological significance. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:10882754,ECO:0000269|PubMed:24529145;Dbxref=dbSNP:rs5928,PMID:10391209,PMID:10882754,PMID:24529145	
+P01130	UniProtKB	Natural variant	820	822	.	.	.	ID=VAR_005417;Note=In FH. Missing	
+P01130	UniProtKB	Natural variant	825	825	.	.	.	ID=VAR_072861;Note=In FH%3B does not affect receptor expression at the cell surface%3B does not affect LDL binding%3B results in impaired LDL uptake and internalization. N->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10532689,ECO:0000269|PubMed:25378237;Dbxref=dbSNP:rs374045590,PMID:10532689,PMID:25378237	
+P01130	UniProtKB	Natural variant	826	826	.	.	.	ID=VAR_062383;Note=In FH. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19319977;Dbxref=PMID:19319977	
+P01130	UniProtKB	Natural variant	827	827	.	.	.	ID=VAR_005418;Note=In New York-5. V->I;Dbxref=dbSNP:rs137853964	
+P01130	UniProtKB	Natural variant	828	828	.	.	.	ID=VAR_005419;Note=In FH%3B J.D.Bari/Syria%3B 2-fold decreased affinity for LDLRAP1. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22509010,ECO:0000269|PubMed:3955657;Dbxref=dbSNP:rs28942085,PMID:22509010,PMID:3955657	
+P01130	UniProtKB	Natural variant	844	844	.	.	.	ID=VAR_005420;Note=In Turku. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7573037;Dbxref=dbSNP:rs121908037,PMID:7573037	
+P01130	UniProtKB	Mutagenesis	811	811	.	.	.	Note=No change. No change%3B when associated with R-816 and R-830. Insensitive to MYLIP-triggered degradation%3B when associated with R-816%3B R-830 and A-839. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Mutagenesis	816	816	.	.	.	Note=No change. No change%3B when associated with R-830. No change%3B when associated with R-811 and R-830. Insensitive to MYLIP-triggered degradation%3B when associated with R-830 and A-839. Insensitive to MYLIP-triggered degradation%3B when associated with R-811%3B R-830 and A-839. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Mutagenesis	821	821	.	.	.	Note=3-fold decreased affinity for LDLRAP1. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22509010;Dbxref=PMID:22509010	
+P01130	UniProtKB	Mutagenesis	821	821	.	.	.	Note=10-fold decreased affinity for LDLRAP1. I->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22509010;Dbxref=PMID:22509010	
+P01130	UniProtKB	Mutagenesis	828	828	.	.	.	Note=Abolishes interaction with ARRB2. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12944399;Dbxref=PMID:12944399	
+P01130	UniProtKB	Mutagenesis	829	829	.	.	.	Note=Decreased affinity for LDLRAP1. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22509010;Dbxref=PMID:22509010	
+P01130	UniProtKB	Mutagenesis	830	830	.	.	.	Note=No change. No change%3B when associated with R-816. No change%3B when associated with R-811 and R-816. Insensitive to MYLIP-triggered degradation%3B when associated with A-839. Insensitive to MYLIP-triggered degradation%3B when associated with R-816 and A-839. Insensitive to MYLIP-triggered degradation%3B when associated with R-811%3B R-816 and A-839. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Mutagenesis	839	839	.	.	.	Note=No change. Insensitive to MYLIP-triggered degradation%3B when associated with R-830. Insensitive to MYLIP-triggered degradation%3B when associated with R-816 and R-830. Insensitive to MYLIP-triggered degradation%3B when associated with R-811%3B R-816 and R-830. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19520913;Dbxref=PMID:19520913	
+P01130	UniProtKB	Mutagenesis	854	854	.	.	.	Note=No effect on receptor internalization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12944399;Dbxref=PMID:12944399	
+P01130	UniProtKB	Mutagenesis	854	854	.	.	.	Note=Enhances interaction with ARRB2 and receptor internalization. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12944399;Dbxref=PMID:12944399	
+P01130	UniProtKB	Sequence conflict	31	31	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01130	UniProtKB	Beta strand	29	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Beta strand	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Beta strand	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LDL	
+P01130	UniProtKB	Turn	42	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Beta strand	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Beta strand	51	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Helix	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Turn	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LDL	
+P01130	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OYL	
+P01130	UniProtKB	Beta strand	70	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1LDR	
+P01130	UniProtKB	Beta strand	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OYL	
+P01130	UniProtKB	Helix	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OYL	
+P01130	UniProtKB	Beta strand	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OYL	
+P01130	UniProtKB	Beta strand	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F5Y	
+P01130	UniProtKB	Helix	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OYL	
+P01130	UniProtKB	Beta strand	102	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5OYL	
+P01130	UniProtKB	Beta strand	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Beta strand	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Helix	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Beta strand	129	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Turn	138	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Helix	143	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Beta strand	148	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Beta strand	152	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Turn	156	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Beta strand	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Helix	163	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Beta strand	168	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Beta strand	173	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Helix	177	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Helix	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FCW	
+P01130	UniProtKB	Turn	189	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Beta strand	201	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Turn	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Beta strand	208	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Helix	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AJJ	
+P01130	UniProtKB	Beta strand	217	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AJJ	
+P01130	UniProtKB	Beta strand	222	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGP	
+P01130	UniProtKB	Helix	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AJJ	
+P01130	UniProtKB	Beta strand	241	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D2J	
+P01130	UniProtKB	Turn	244	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D2J	
+P01130	UniProtKB	Beta strand	247	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D2J	
+P01130	UniProtKB	Helix	251	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D2J	
+P01130	UniProtKB	Beta strand	254	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D2J	
+P01130	UniProtKB	Beta strand	260	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1D2J	
+P01130	UniProtKB	Helix	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F8Z	
+P01130	UniProtKB	Beta strand	268	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1F8Z	
+P01130	UniProtKB	Beta strand	281	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XFE	
+P01130	UniProtKB	Beta strand	289	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XFE	
+P01130	UniProtKB	Turn	293	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XFE	
+P01130	UniProtKB	Beta strand	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XFE	
+P01130	UniProtKB	Turn	310	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XFE	
+P01130	UniProtKB	Helix	317	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Helix	321	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Beta strand	326	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Beta strand	333	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Beta strand	337	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Beta strand	341	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HZ8	
+P01130	UniProtKB	Beta strand	345	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Turn	348	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Beta strand	351	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W2N	
+P01130	UniProtKB	Helix	357	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HJ7	
+P01130	UniProtKB	Beta strand	363	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HJ7	
+P01130	UniProtKB	Beta strand	372	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5B	
+P01130	UniProtKB	Beta strand	376	378	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HJ7	
+P01130	UniProtKB	Beta strand	381	385	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HZ8	
+P01130	UniProtKB	Turn	387	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5B	
+P01130	UniProtKB	Beta strand	392	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HZ8	
+P01130	UniProtKB	Beta strand	400	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	406	413	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	420	423	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	427	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	436	439	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	440	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	446	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	450	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	466	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	478	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	483	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	487	492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	493	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	497	502	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	505	513	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	519	525	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	526	529	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	530	535	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	537	539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	541	546	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	552	556	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	563	569	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	570	573	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	574	579	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	580	583	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	584	589	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	596	600	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	602	605	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	606	614	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	617	622	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	623	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	627	632	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Turn	633	635	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	640	643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	652	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Helix	657	659	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	668	672	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Helix	673	676	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	678	683	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	693	697	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IJQ	
+P01130	UniProtKB	Beta strand	708	713	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5B	
+P01130	UniProtKB	Beta strand	821	824	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SO6	
+P01130	UniProtKB	Turn	826	829	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SO6	

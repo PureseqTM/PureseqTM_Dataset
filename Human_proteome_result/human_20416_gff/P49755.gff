@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region P49755 1 219
+P49755	UniProtKB	Signal peptide	1	31	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:25944712,ECO:0000269|PubMed:19892738;Dbxref=PMID:25944712,PMID:19892738	
+P49755	UniProtKB	Chain	32	219	.	.	.	ID=PRO_0000010399;Note=Transmembrane emp24 domain-containing protein 10	
+P49755	UniProtKB	Topological domain	32	185	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49755	UniProtKB	Transmembrane	186	206	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49755	UniProtKB	Topological domain	207	219	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49755	UniProtKB	Domain	41	193	.	.	.	Note=GOLD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00096	
+P49755	UniProtKB	Region	1	142	.	.	.	Note=Required for interaction with STX17;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21545355;Dbxref=PMID:21545355	
+P49755	UniProtKB	Region	147	178	.	.	.	Note=Required for TMED10 and TMED2 cis-Golgi network localization	
+P49755	UniProtKB	Region	204	219	.	.	.	Note=Interaction with COPG1	
+P49755	UniProtKB	Region	207	219	.	.	.	Note=Interaction with ARF1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11726511;Dbxref=PMID:11726511	
+P49755	UniProtKB	Motif	211	219	.	.	.	Note=COPI vesicle coat-binding	
+P49755	UniProtKB	Motif	211	212	.	.	.	Note=COPII vesicle coat-binding	
+P49755	UniProtKB	Modified residue	171	171	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63584	
+P49755	UniProtKB	Modified residue	171	171	.	.	.	Note=Omega-N-methylated arginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49755	UniProtKB	Modified residue	176	176	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63584	
+P49755	UniProtKB	Modified residue	176	176	.	.	.	Note=Omega-N-methylated arginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49755	UniProtKB	Glycosylation	179	179	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49755	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_012051;Note=S->Y;Dbxref=dbSNP:rs4929	
+P49755	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_049111;Note=R->G;Dbxref=dbSNP:rs17103066	
+P49755	UniProtKB	Mutagenesis	211	212	.	.	.	Note=Disrupts interaction with COPG1 and association with coatomer%3B when associated with 215-A-A-216. FF->AA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10761932,ECO:0000269|PubMed:11056392,ECO:0000269|PubMed:9472029;Dbxref=PMID:10761932,PMID:11056392,PMID:9472029	
+P49755	UniProtKB	Mutagenesis	211	212	.	.	.	Note=No decrease in binding to COPG1. Disrupts interaction with SEC23A. FF->AA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10761932,ECO:0000269|PubMed:11056392,ECO:0000269|PubMed:9472029;Dbxref=PMID:10761932,PMID:11056392,PMID:9472029	
+P49755	UniProtKB	Mutagenesis	215	216	.	.	.	Note=Disrupts interaction with COPG1 and association with coatomer%3B when associated with 211-A-A-212. KK->AA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10761932,ECO:0000269|PubMed:11056392,ECO:0000269|PubMed:9472029;Dbxref=PMID:10761932,PMID:11056392,PMID:9472029	
+P49755	UniProtKB	Mutagenesis	215	216	.	.	.	Note=Significant reduction in binding to COPG1. KK->AA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10761932,ECO:0000269|PubMed:11056392,ECO:0000269|PubMed:9472029;Dbxref=PMID:10761932,PMID:11056392,PMID:9472029	
+P49755	UniProtKB	Sequence conflict	75	75	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

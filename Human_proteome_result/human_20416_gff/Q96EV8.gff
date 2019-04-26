@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q96EV8 1 351
+Q96EV8	UniProtKB	Chain	1	351	.	.	.	ID=PRO_0000191001;Note=Dysbindin	
+Q96EV8	UniProtKB	Region	173	331	.	.	.	Note=Dysbindin	
+Q96EV8	UniProtKB	Coiled coil	88	181	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96EV8	UniProtKB	Motif	243	256	.	.	.	Note=Nuclear export signal	
+Q96EV8	UniProtKB	Modified residue	11	11	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96EV8	UniProtKB	Modified residue	316	316	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:24275569	
+Q96EV8	UniProtKB	Modified residue	321	321	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:24275569	
+Q96EV8	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91WZ8	
+Q96EV8	UniProtKB	Alternative sequence	1	81	.	.	.	ID=VSP_046062;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96EV8	UniProtKB	Alternative sequence	272	351	.	.	.	ID=VSP_009023;Note=In isoform 2. PESSTCQNEITLQVPNPSELRAKPPSSSSTCTDSATRDISEGGESPVVQSDEEEVQVDTALATSHTDREATPDGGEDSDS->RVDKLALAEPGQYRCHSPPKVRRENHLPVTYA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11230166,ECO:0000303|PubMed:14702039;Dbxref=PMID:11230166,PMID:14702039	
+Q96EV8	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_053069;Note=G->D;Dbxref=dbSNP:rs16876589	
+Q96EV8	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_029644;Note=P->S;Dbxref=dbSNP:rs17470454	
+Q96EV8	UniProtKB	Mutagenesis	215	215	.	.	.	Note=Reduced interaction with AP3M1. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19428785;Dbxref=PMID:19428785	
+Q96EV8	UniProtKB	Mutagenesis	243	256	.	.	.	Note=Abolishes cytoplasmic location. Increased expression of SYN1. LMDISDQEALDVFL->AMDASDQEAADVFA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20921223;Dbxref=PMID:20921223	
+Q96EV8	UniProtKB	Sequence conflict	242	242	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

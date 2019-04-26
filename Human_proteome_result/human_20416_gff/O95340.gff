@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region O95340 1 614
+O95340	UniProtKB	Chain	1	614	.	.	.	ID=PRO_0000105961;Note=Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2	
+O95340	UniProtKB	Nucleotide binding	52	57	.	.	.	Note=ATP 1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2AX4,ECO:0000269|Ref.12	
+O95340	UniProtKB	Nucleotide binding	409	412	.	.	.	Note=ATP 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Nucleotide binding	511	515	.	.	.	Note=ATP 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Region	1	215	.	.	.	Note=Adenylyl-sulfate kinase;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95340	UniProtKB	Region	79	82	.	.	.	Note=Adenylyl sulfate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Region	96	99	.	.	.	Note=Adenylyl sulfate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Region	122	123	.	.	.	Note=Adenylyl sulfate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Region	174	175	.	.	.	Note=Adenylyl sulfate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Region	224	614	.	.	.	Note=Sulfate adenylyltransferase;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95340	UniProtKB	Binding site	91	91	.	.	.	Note=Adenylyl sulfate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Binding site	161	161	.	.	.	Note=Adenylyl sulfate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Binding site	197	197	.	.	.	Note=ATP 1%3B via carbonyl oxygen;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2AX4,ECO:0000269|Ref.12	
+O95340	UniProtKB	Binding site	553	553	.	.	.	Note=ATP 2%3B via amide nitrogen and carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O43252	
+O95340	UniProtKB	Alternative sequence	288	288	.	.	.	ID=VSP_001259;Note=In isoform B. D->DGMALP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10559207,ECO:0000303|Ref.6;Dbxref=PMID:10559207	
+O95340	UniProtKB	Natural variant	10	10	.	.	.	ID=VAR_029136;Note=Significant decrease of activity. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11773860;Dbxref=dbSNP:rs17173698,PMID:11773860	
+O95340	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_073026;Note=In BCYM4%3B reduces strongly PAPS synthase activity. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23824674;Dbxref=PMID:23824674	
+O95340	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_063049;Note=In BCYM4%3B patient with premature pubarche and hyperandrogenism%3B results in partial loss of activity%3B increases ubiquitin-dependent protein instability. T->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19474428,ECO:0000269|PubMed:25594860;Dbxref=dbSNP:rs121908951,PMID:19474428,PMID:25594860	
+O95340	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_073027;Note=In BCYM4%3B reduces strongly PAPS synthase activity. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23824674;Dbxref=PMID:23824674	
+O95340	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_073028;Note=Polymorphism%3B similar PAPS synthase activity as the wild-type. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23824674;Dbxref=dbSNP:rs774709274,PMID:23824674	
+O95340	UniProtKB	Natural variant	270	270	.	.	.	ID=VAR_073029;Note=In BCYM4%3B increases ubiquitin-dependent protein instability. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25594860;Dbxref=dbSNP:rs138943074,PMID:25594860	
+O95340	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_029137;Note=M->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11773860;Dbxref=dbSNP:rs45624631,PMID:11773860	
+O95340	UniProtKB	Natural variant	291	291	.	.	.	ID=VAR_022077;Note=Significant decrease of activity. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11773860;Dbxref=dbSNP:rs45467596,PMID:11773860	
+O95340	UniProtKB	Natural variant	432	432	.	.	.	ID=VAR_029138;Note=R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11773860;Dbxref=dbSNP:rs17129133,PMID:11773860	
+O95340	UniProtKB	Sequence conflict	166	166	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95340	UniProtKB	Sequence conflict	361	361	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95340	UniProtKB	Sequence conflict	426	426	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95340	UniProtKB	Sequence conflict	567	567	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95340	UniProtKB	Helix	27	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	43	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	55	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	73	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	78	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Turn	82	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	93	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	116	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	126	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	143	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	152	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	163	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Turn	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Beta strand	189	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	
+O95340	UniProtKB	Helix	199	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AX4	

@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q30167 1 266
+Q30167	UniProtKB	Signal peptide	1	29	.	.	.	.	
+Q30167	UniProtKB	Chain	30	266	.	.	.	ID=PRO_0000018954;Note=HLA class II histocompatibility antigen%2C DRB1-10 beta chain	
+Q30167	UniProtKB	Topological domain	30	227	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q30167	UniProtKB	Transmembrane	228	250	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q30167	UniProtKB	Topological domain	251	266	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q30167	UniProtKB	Domain	126	216	.	.	.	Note=Ig-like C1-type	
+Q30167	UniProtKB	Region	30	124	.	.	.	Note=Beta-1	
+Q30167	UniProtKB	Region	125	227	.	.	.	Note=Beta-2	
+Q30167	UniProtKB	Glycosylation	48	48	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q30167	UniProtKB	Disulfide bond	44	108	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q30167	UniProtKB	Disulfide bond	146	202	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q30167	UniProtKB	Cross-link	254	254	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20039	
+Q30167	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_056541;Note=T->R;Dbxref=dbSNP:rs9269744	
+Q30167	UniProtKB	Sequence conflict	180	180	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,183 @@
+##gff-version 3
+##sequence-region P07902 1 379
+P07902	UniProtKB	Chain	1	379	.	.	.	ID=PRO_0000169882;Note=Galactose-1-phosphate uridylyltransferase	
+P07902	UniProtKB	Region	97	98	.	.	.	Note=UDP-alpha-D-glucose binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Region	334	337	.	.	.	Note=UDP-alpha-D-glucose binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Region	339	340	.	.	.	Note=UDP-alpha-D-glucose binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Active site	186	186	.	.	.	Note=Tele-UMP-histidine intermediate;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU10033,ECO:0000269|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Metal binding	75	75	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10033	
+P07902	UniProtKB	Metal binding	184	184	.	.	.	Note=Zinc 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10033	
+P07902	UniProtKB	Metal binding	202	202	.	.	.	Note=Zinc 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Metal binding	301	301	.	.	.	Note=Zinc 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Metal binding	319	319	.	.	.	Note=Zinc 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Metal binding	321	321	.	.	.	Note=Zinc 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Binding site	81	81	.	.	.	Note=UDP-alpha-D-glucose%3B via amide nitrogen;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Binding site	173	173	.	.	.	Note=UDP-alpha-D-glucose%3B shared with dimeric partner;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Binding site	188	188	.	.	.	Note=UDP-alpha-D-glucose;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27005423;Dbxref=PMID:27005423	
+P07902	UniProtKB	Alternative sequence	1	17	.	.	.	ID=VSP_045604;Note=In isoform 2. MSRSGTDPQQRQQASEA->MTLSTLCVLGPSEPTES;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P07902	UniProtKB	Alternative sequence	18	126	.	.	.	ID=VSP_045605;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P07902	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_068531;Note=In GALCT. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11919338;Dbxref=dbSNP:rs111033637,PMID:11919338	
+P07902	UniProtKB	Natural variant	23	23	.	.	.	ID=VAR_068532;Note=In GALCT. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11754113;Dbxref=dbSNP:rs111033635,PMID:11754113	
+P07902	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_068533;Note=In GALCT. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17041746;Dbxref=dbSNP:rs111033636,PMID:17041746	
+P07902	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_002548;Note=In GALCT. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222760;Dbxref=dbSNP:rs111033636,PMID:9222760	
+P07902	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_002549;Note=In GALCT%3B mild. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222760;Dbxref=dbSNP:rs111033644,PMID:9222760	
+P07902	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_068534;Note=In GALCT. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17041746;Dbxref=dbSNP:rs111033829,PMID:17041746	
+P07902	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_072793;Note=In GALCT. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=PMID:25592817	
+P07902	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_068535;Note=In GALCT%3B affects protein stability. Y->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22461411,ECO:0000269|PubMed:25592817;Dbxref=dbSNP:rs111033836,PMID:22461411,PMID:25592817	
+P07902	UniProtKB	Natural variant	38	38	.	.	.	ID=VAR_002550;Note=In GALCT. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222760;Dbxref=dbSNP:rs111033646,PMID:9222760	
+P07902	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_002551;Note=In GALCT. V->L;Dbxref=dbSNP:rs111033647	
+P07902	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_002552;Note=In GALCT%3B reduced enzyme activity. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2011574;Dbxref=dbSNP:rs111033647,PMID:2011574	
+P07902	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_008042;Note=In GALCT. S->L;Dbxref=dbSNP:rs111033652	
+P07902	UniProtKB	Natural variant	51	51	.	.	.	ID=VAR_002553;Note=In GALCT. R->L;Dbxref=dbSNP:rs111033648	
+P07902	UniProtKB	Natural variant	51	51	.	.	.	ID=VAR_023328;Note=In GALCT. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15841485;Dbxref=dbSNP:rs111033648,PMID:15841485	
+P07902	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_002554;Note=In GALCT. G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8741038;Dbxref=dbSNP:rs111033654,PMID:8741038	
+P07902	UniProtKB	Natural variant	62	62	.	.	.	ID=VAR_002555;Note=L->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2011574;Dbxref=dbSNP:rs1800461,PMID:2011574	
+P07902	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_002556;Note=In GALCT. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8598637;Dbxref=dbSNP:rs111033658,PMID:8598637	
+P07902	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_002557;Note=In GALCT%3B reduced enzyme activity. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1610789;Dbxref=dbSNP:rs111033663,PMID:1610789	
+P07902	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_002558;Note=In GALCT. A->T;Dbxref=dbSNP:rs111033665	
+P07902	UniProtKB	Natural variant	83	83	.	.	.	ID=VAR_072794;Note=In GALCT. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=PMID:25592817	
+P07902	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_068824;Note=In GALCT. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs111033666,PMID:23022339	
+P07902	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_002559;Note=In GALCT. N->S;Dbxref=dbSNP:rs111033669	
+P07902	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_002560;Note=In GALCT. D->N;Dbxref=dbSNP:rs111033670	
+P07902	UniProtKB	Natural variant	103	103	.	.	.	ID=VAR_068825;Note=In GALCT. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs367543252,PMID:23022339	
+P07902	UniProtKB	Natural variant	112	112	.	.	.	ID=VAR_068536;Note=In GALCT. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18956253;Dbxref=PMID:18956253	
+P07902	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_002561;Note=In GALCT. D->N;Dbxref=dbSNP:rs111033677	
+P07902	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_002562;Note=In GALCT. H->L;Dbxref=dbSNP:rs111033678	
+P07902	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_002563;Note=In GALCT. F->S;Dbxref=dbSNP:rs111033679	
+P07902	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_002564;Note=In GALCT. Q->H;Dbxref=dbSNP:rs111033673	
+P07902	UniProtKB	Natural variant	123	123	.	.	.	ID=VAR_002565;Note=In GALCT. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222760;Dbxref=dbSNP:rs111033674,PMID:9222760	
+P07902	UniProtKB	Natural variant	123	123	.	.	.	ID=VAR_002566;Note=In GALCT. R->Q;Dbxref=dbSNP:rs111033675	
+P07902	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_002567;Note=In GALCT. V->A;Dbxref=dbSNP:rs111033680	
+P07902	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_002568;Note=In GALCT. K->E;Dbxref=dbSNP:rs111033682	
+P07902	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_008043;Note=In GALCT. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11919338;Dbxref=dbSNP:rs111033683,PMID:11919338	
+P07902	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_002569;Note=In GALCT. C->Y;Dbxref=dbSNP:rs367543255	
+P07902	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_068537;Note=In GALCT%3B affects protein stability. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs367543256,PMID:22461411	
+P07902	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_002570;Note=In GALCT. H->Y;Dbxref=dbSNP:rs111033688	
+P07902	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_002571;Note=In GALCT%3B frequent mutation in African Americans%3B about 5%25 of normal galactose uridylyltransferase activity. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11754113,ECO:0000269|PubMed:1610789,ECO:0000269|PubMed:22461411,ECO:0000269|PubMed:25614870,ECO:0000269|PubMed:7887417;Dbxref=dbSNP:rs111033690,PMID:11754113,PMID:1610789,PMID:22461411,PMID:25614870,PMID:7887417	
+P07902	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_023329;Note=In GALCT. S->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15841485;Dbxref=dbSNP:rs111033690,PMID:15841485	
+P07902	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_002572;Note=In GALCT%3B mild. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11754113;Dbxref=dbSNP:rs111033686,PMID:11754113	
+P07902	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_002573;Note=In GALCT. L->P;Dbxref=dbSNP:rs111033687	
+P07902	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_002574;Note=In GALCT%3B 4%25 of normal activity. M->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10220154,ECO:0000269|PubMed:2011574;Dbxref=dbSNP:rs111033695,PMID:10220154,PMID:2011574	
+P07902	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_072795;Note=In GALCT. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=dbSNP:rs111033695,PMID:25592817	
+P07902	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_002575;Note=In GALCT. M->V;Dbxref=dbSNP:rs111033692	
+P07902	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_002576;Note=In GALCT. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222760;Dbxref=dbSNP:rs111033697,PMID:9222760	
+P07902	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_002577;Note=In GALCT. R->G;Dbxref=dbSNP:rs111033693	
+P07902	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_002578;Note=In GALCT. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25614870;Dbxref=dbSNP:rs111033694,PMID:25614870	
+P07902	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_002579;Note=In GALCT%3B unstable protein. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1373122;Dbxref=dbSNP:rs111033693,PMID:1373122	
+P07902	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_002580;Note=In GALCT. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8956044;Dbxref=dbSNP:rs111033699,PMID:8956044	
+P07902	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_002581;Note=In GALCT%3B approximately 3%25 of normal activity. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7887417;Dbxref=dbSNP:rs111033701,PMID:7887417	
+P07902	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_002582;Note=In GALCT. W->G;Dbxref=dbSNP:rs111033702	
+P07902	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_068826;Note=In GALCT. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs367543257,PMID:23022339	
+P07902	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_008044;Note=In GALCT. W->R;Dbxref=dbSNP:rs111033708	
+P07902	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_068538;Note=In GALCT%3B loss of activity. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs367543258,PMID:22461411	
+P07902	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_068539;Note=In GALCT%3B loss of activity. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033839,PMID:22461411	
+P07902	UniProtKB	Natural variant	171	171	.	.	.	ID=VAR_002583;Note=In GALCT%3B reduced enzyme activity. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1610789,ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs111033715,PMID:1610789,PMID:23022339	
+P07902	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_072796;Note=In GALCT%3B reduces strongly galactose uridylyltransferase activity. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25614870;Dbxref=dbSNP:rs111033718,PMID:25614870	
+P07902	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_002584;Note=In GALCT. G->D;Dbxref=dbSNP:rs111033720	
+P07902	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_068540;Note=In GALCT. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17041746;Dbxref=dbSNP:rs111033828,PMID:17041746	
+P07902	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_068827;Note=In GALCT. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs367543259,PMID:23022339	
+P07902	UniProtKB	Natural variant	183	183	.	.	.	ID=VAR_002585;Note=In GALCT. P->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8869397,ECO:0000269|PubMed:8956044;Dbxref=dbSNP:rs111033721,PMID:8869397,PMID:8956044	
+P07902	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_002586;Note=In GALCT. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11754113;Dbxref=dbSNP:rs111033717,PMID:11754113	
+P07902	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_068541;Note=In GALCT%3B loss of activity. P->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17876724,ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033722,PMID:17876724,PMID:22461411	
+P07902	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_068828;Note=In GALCT. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs111033722,PMID:23022339	
+P07902	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_068542;Note=In GALCT. P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17041746,ECO:0000269|PubMed:25614870;Dbxref=dbSNP:rs111033826,PMID:17041746,PMID:25614870	
+P07902	UniProtKB	Natural variant	188	188	.	.	.	ID=VAR_002587;Note=In GALCT%3B most common mutation%3B accounts for approximately 70%25 of GALCT alleles tested%3B 10%25 of normal galactose uridylyltransferase activity%3B impairs protein folding. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11754113,ECO:0000269|PubMed:1427861,ECO:0000269|PubMed:18956253,ECO:0000269|PubMed:1897530,ECO:0000269|PubMed:22461411,ECO:0000269|PubMed:23022339,ECO:0000269|PubMed:25592817,ECO:0000269|PubMed:25614870,ECO:0000269|PubMed:27005423,ECO:0000269|PubMed:7887417,ECO:0000269|PubMed:8956044;Dbxref=dbSNP:rs75391579,PMID:11754113,PMID:1427861,PMID:18956253,PMID:1897530,PMID:22461411,PMID:23022339,PMID:25592817,PMID:25614870,PMID:27005423,PMID:7887417,PMID:8956044	
+P07902	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_068543;Note=In GALCT. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17041746;Dbxref=dbSNP:rs111033830,PMID:17041746	
+P07902	UniProtKB	Natural variant	192	192	.	.	.	ID=VAR_002588;Note=In GALCT. S->N;Dbxref=dbSNP:rs111033734	
+P07902	UniProtKB	Natural variant	194	194	.	.	.	ID=VAR_002589;Note=In GALCT. F->L;Dbxref=dbSNP:rs111033726	
+P07902	UniProtKB	Natural variant	195	195	.	.	.	ID=VAR_002590;Note=In GALCT%3B no enzymatic activity. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11754113,ECO:0000269|PubMed:1373122;Dbxref=dbSNP:rs111033728,PMID:11754113,PMID:1373122	
+P07902	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_002591;Note=In GALCT. I->M;Dbxref=dbSNP:rs111033729	
+P07902	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_002592;Note=In GALCT. I->T;Dbxref=dbSNP:rs1483461355	
+P07902	UniProtKB	Natural variant	199	199	.	.	.	ID=VAR_002593;Note=In GALCT. A->T;Dbxref=dbSNP:rs111033730	
+P07902	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_068544;Note=In GALCT%3B 2-fold decrease in activity. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17876724,ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033739,PMID:17876724,PMID:22461411	
+P07902	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_002594;Note=In GALCT. R->H;Dbxref=dbSNP:rs111033735	
+P07902	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_002595;Note=In GALCT. E->K;Dbxref=dbSNP:rs111033736	
+P07902	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_008045;Note=In GALCT. R->P;Dbxref=dbSNP:rs111033740	
+P07902	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_002596;Note=In GALCT. Y->C;Dbxref=dbSNP:rs111033744	
+P07902	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_002597;Note=In GALCT. Y->S;Dbxref=dbSNP:rs111033744	
+P07902	UniProtKB	Natural variant	212	212	.	.	.	ID=VAR_002598;Note=In GALCT. Q->H	
+P07902	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_002599;Note=In GALCT. L->P;Dbxref=dbSNP:rs111033741	
+P07902	UniProtKB	Natural variant	220	220	.	.	.	ID=VAR_068545;Note=In GALCT%3B 3-fold decrease in activity. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17876724,ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033747,PMID:17876724,PMID:22461411	
+P07902	UniProtKB	Natural variant	223	223	.	.	.	ID=VAR_068546;Note=In GALCT%3B 3-fold decrease in activity. R->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17876724,ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033750,PMID:17876724,PMID:22461411	
+P07902	UniProtKB	Natural variant	226	226	.	.	.	ID=VAR_002600;Note=In GALCT. L->P;Dbxref=dbSNP:rs111033752	
+P07902	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_068547;Note=In GALCT%3B results in no detectable protein in the soluble fraction. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033846,PMID:22461411	
+P07902	UniProtKB	Natural variant	229	229	.	.	.	ID=VAR_023330;Note=In GALCT. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15841485;Dbxref=dbSNP:rs111033753,PMID:15841485	
+P07902	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_072797;Note=In GALCT. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25614870;Dbxref=dbSNP:rs111033749,PMID:25614870	
+P07902	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_002601;Note=In GALCT%3B 15%25 of normal activity. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25614870,ECO:0000269|PubMed:7550229;Dbxref=dbSNP:rs111033754,PMID:25614870,PMID:7550229	
+P07902	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_072798;Note=In GALCT. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=PMID:25592817	
+P07902	UniProtKB	Natural variant	249	249	.	.	.	ID=VAR_002602;Note=In GALCT. W->R;Dbxref=dbSNP:rs111033757	
+P07902	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_002603;Note=In GALCT. Y->C;Dbxref=dbSNP:rs111033755	
+P07902	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_002604;Note=In GALCT. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11754113;Dbxref=dbSNP:rs111033755,PMID:11754113	
+P07902	UniProtKB	Natural variant	252	252	.	.	.	ID=VAR_023331;Note=In GALCT. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15841485;Dbxref=dbSNP:rs111033769,PMID:15841485	
+P07902	UniProtKB	Natural variant	258	258	.	.	.	ID=VAR_002605;Note=In GALCT. R->C;Dbxref=dbSNP:rs368166217	
+P07902	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_068548;Note=In GALCT%3B loss of activity. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs886042070,PMID:22461411	
+P07902	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_002606;Note=In GALCT%3B mild. R->W;Dbxref=dbSNP:rs786204763	
+P07902	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_002607;Note=In GALCT. R->P;Dbxref=dbSNP:rs111033763	
+P07902	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_008046;Note=In GALCT. Missing	
+P07902	UniProtKB	Natural variant	265	265	.	.	.	ID=VAR_068549;Note=In GALCT. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17041746;Dbxref=dbSNP:rs111033764,PMID:17041746	
+P07902	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_072799;Note=In GALCT. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=PMID:25592817	
+P07902	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_072800;Note=In GALCT. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=PMID:25592817	
+P07902	UniProtKB	Natural variant	271	271	.	.	.	ID=VAR_072801;Note=In GALCT. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25592817;Dbxref=dbSNP:rs1262475195,PMID:25592817	
+P07902	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_008047;Note=In GALCT. R->G;Dbxref=dbSNP:rs111033766	
+P07902	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_068550;Note=In GALCT%3B 18-fold decrease in activity. I->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17876724,ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033778,PMID:17876724,PMID:22461411	
+P07902	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_002608;Note=In GALCT. L->V;Dbxref=dbSNP:rs111033772	
+P07902	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_002609;Note=In GALCT%3B severe%3B 25-40%25 of the European population%3B impairs protein folding%3B nearly abolishes enzyme activity. K->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10220154,ECO:0000269|PubMed:11754113,ECO:0000269|PubMed:25592817,ECO:0000269|PubMed:25614870,ECO:0000269|PubMed:27005423;Dbxref=dbSNP:rs111033773,PMID:10220154,PMID:11754113,PMID:25592817,PMID:25614870,PMID:27005423	
+P07902	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_068829;Note=In GALCT. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs367543263,PMID:23022339	
+P07902	UniProtKB	Natural variant	289	289	.	.	.	ID=VAR_068551;Note=In GALCT%3B 3-fold decrease in activity. L->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17876724,ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033774,PMID:17876724,PMID:22461411	
+P07902	UniProtKB	Natural variant	289	289	.	.	.	ID=VAR_002610;Note=In GALCT. L->R;Dbxref=dbSNP:rs111033775	
+P07902	UniProtKB	Natural variant	291	291	.	.	.	ID=VAR_002611;Note=In GALCT. E->K;Dbxref=dbSNP:rs111033780	
+P07902	UniProtKB	Natural variant	291	291	.	.	.	ID=VAR_068552;Note=In GALCT%3B 2-fold decrease in activity. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033841,PMID:22461411	
+P07902	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_008048;Note=In GALCT. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10220154;Dbxref=dbSNP:rs111033781,PMID:10220154	
+P07902	UniProtKB	Natural variant	308	308	.	.	.	ID=VAR_002612;Note=In GALCT. E->K;Dbxref=dbSNP:rs111033784	
+P07902	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_002613;Note=In GALCT%3B allele Duarte%3B exists as allelic variants Duarte-1 and Duarte-2%3B Duarte-1 has normal or increased activity%3B Duarte-2 has activity reduced to about 35-45%25 of normal. N->D;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11754113,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:18956253,ECO:0000269|PubMed:2011574,ECO:0000269|PubMed:23022339,ECO:0000269|PubMed:25592817,ECO:0000269|PubMed:25614870,ECO:0000269|PubMed:7550229,ECO:0000269|PubMed:8112740,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2070074,PMID:11754113,PMID:15489334,PMID:18956253,PMID:2011574,PMID:23022339,PMID:25592817,PMID:25614870,PMID:7550229,PMID:8112740	
+P07902	UniProtKB	Natural variant	317	317	.	.	.	ID=VAR_002614;Note=In GALCT. Q->H;Dbxref=dbSNP:rs111033787	
+P07902	UniProtKB	Natural variant	317	317	.	.	.	ID=VAR_002615;Note=In GALCT. Q->R;Dbxref=dbSNP:rs111033786	
+P07902	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_002616;Note=In GALCT. H->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23022339,ECO:0000269|PubMed:8499924,ECO:0000269|PubMed:8956044;Dbxref=dbSNP:rs111033792,PMID:23022339,PMID:8499924,PMID:8956044	
+P07902	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_002617;Note=In GALCT. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10220154;Dbxref=dbSNP:rs111033795,PMID:10220154	
+P07902	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_002618;Note=In GALCT. Y->D;Dbxref=dbSNP:rs111033796	
+P07902	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_002619;Note=In GALCT. Y->H;Dbxref=dbSNP:rs111033796	
+P07902	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_002620;Note=In GALCT. P->S;Dbxref=dbSNP:rs111033798	
+P07902	UniProtKB	Natural variant	325	325	.	.	.	ID=VAR_002621;Note=In GALCT. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9222760;Dbxref=dbSNP:rs111033794,PMID:9222760	
+P07902	UniProtKB	Natural variant	327	327	.	.	.	ID=VAR_068553;Note=In GALCT%3B results in no detectable protein in the soluble fraction. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461411;Dbxref=dbSNP:rs111033832,PMID:22461411	
+P07902	UniProtKB	Natural variant	328	328	.	.	.	ID=VAR_002622;Note=In GALCT. R->H;Dbxref=dbSNP:rs111033802	
+P07902	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_002623;Note=In GALCT. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8741038;Dbxref=dbSNP:rs111033803,PMID:8741038	
+P07902	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_002624;Note=In GALCT%3B mild. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8598637;Dbxref=dbSNP:rs111033804,PMID:8598637	
+P07902	UniProtKB	Natural variant	333	333	.	.	.	ID=VAR_002625;Note=In GALCT. R->G;Dbxref=dbSNP:rs111033800	
+P07902	UniProtKB	Natural variant	333	333	.	.	.	ID=VAR_068830;Note=In GALCT. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022339;Dbxref=dbSNP:rs111033808,PMID:23022339	
+P07902	UniProtKB	Natural variant	333	333	.	.	.	ID=VAR_002626;Note=In GALCT. R->Q;Dbxref=dbSNP:rs111033808	
+P07902	UniProtKB	Natural variant	333	333	.	.	.	ID=VAR_002627;Note=In GALCT%3B no enzymatic activity. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1897530,ECO:0000269|PubMed:25592817,ECO:0000269|PubMed:7550229;Dbxref=dbSNP:rs111033800,PMID:1897530,PMID:25592817,PMID:7550229	
+P07902	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_002628;Note=In GALCT. K->R;Dbxref=dbSNP:rs111033809	
+P07902	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_002629;Note=In GALCT. M->L;Dbxref=dbSNP:rs111033810	
+P07902	UniProtKB	Natural variant	342	342	.	.	.	ID=VAR_068554;Note=In GALCT. L->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11919338;Dbxref=dbSNP:rs111033812,PMID:11919338	
+P07902	UniProtKB	Natural variant	344	344	.	.	.	ID=VAR_002630;Note=In GALCT. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11754113;Dbxref=dbSNP:rs111033814,PMID:11754113	
+P07902	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_068555;Note=In GALCT. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11754113;Dbxref=dbSNP:rs111033815,PMID:11754113	
+P07902	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_002631;Note=In GALCT%3B mild. T->A;Dbxref=dbSNP:rs111033817	
+P07902	UniProtKB	Sequence conflict	258	259	.	.	.	Note=RR->VG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07902	UniProtKB	Sequence conflict	335	335	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07902	UniProtKB	Turn	26	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5IN3	
+P07902	UniProtKB	Beta strand	31	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Turn	36	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	40	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	93	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	111	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	124	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	139	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	144	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	166	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	184	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	197	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	217	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	232	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	237	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	253	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	269	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	296	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	319	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	328	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	339	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Beta strand	345	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	
+P07902	UniProtKB	Helix	351	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GQD	

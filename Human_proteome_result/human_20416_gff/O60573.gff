@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region O60573 1 245
+O60573	UniProtKB	Chain	1	245	.	.	.	ID=PRO_0000193664;Note=Eukaryotic translation initiation factor 4E type 2	
+O60573	UniProtKB	Region	54	57	.	.	.	Note=EIF4EBP1/2/3 binding	
+O60573	UniProtKB	Region	78	79	.	.	.	Note=7-methylguanosine-containing mRNA cap binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60573	UniProtKB	Region	95	99	.	.	.	Note=EIF4EBP1/2/3 binding	
+O60573	UniProtKB	Region	124	125	.	.	.	Note=7-methylguanosine-containing mRNA cap binding	
+O60573	UniProtKB	Region	150	157	.	.	.	Note=EIF4EBP1/2/3 binding	
+O60573	UniProtKB	Region	174	179	.	.	.	Note=7-methylguanosine-containing mRNA cap binding	
+O60573	UniProtKB	Region	222	224	.	.	.	Note=7-methylguanosine-containing mRNA cap binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60573	UniProtKB	Binding site	110	110	.	.	.	Note=7-methylguanosine-containing mRNA cap	
+O60573	UniProtKB	Modified residue	13	13	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O60573	UniProtKB	Modified residue	134	134	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O60573	UniProtKB	Cross-link	134	134	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ISG15)%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17289916;Dbxref=PMID:17289916	
+O60573	UniProtKB	Cross-link	222	222	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ISG15);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17289916;Dbxref=PMID:17289916	
+O60573	UniProtKB	Alternative sequence	223	234	.	.	.	ID=VSP_054783;Note=In isoform 2. MPGRLGPQRLLF->DNSSFRNTKITL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60573	UniProtKB	Alternative sequence	235	245	.	.	.	ID=VSP_054784;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60573	UniProtKB	Mutagenesis	63	63	.	.	.	Note=Unable to bind capped mRNA. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	95	95	.	.	.	Note=Ability to bind capped mRNA reduced to 40%25 of wild-type. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	121	121	.	.	.	Note=Does not affect ubiquitination by ARIH1%3B when associated with R-130%3B R-134 and R-222. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25624349;Dbxref=PMID:25624349	
+O60573	UniProtKB	Mutagenesis	124	126	.	.	.	Note=Unable to bind capped mRNA. WED->FAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Ability to bind capped mRNA reduced to less than 10%25 of wild-type. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Ability to bind capped mRNA reduced to 13%25 of wild-type. W->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Ability to bind capped mRNA reduced to less than 10%25 of wild-type. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Slight reduction in ability to bind capped mRNA. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	130	130	.	.	.	Note=Does not affect ubiquitination by ARIH1%3B when associated with R-121%3B R-134 and R-222. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25624349;Dbxref=PMID:25624349	
+O60573	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Does not affect ubiquitination by ARIH1%3B when associated with R-121%3B R-130 and R-222. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25624349;Dbxref=PMID:25624349	
+O60573	UniProtKB	Mutagenesis	135	135	.	.	.	Note=Unable to bind capped mRNA. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	148	148	.	.	.	Note=Unable to bind capped mRNA. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Ability to bind capped mRNA reduced to less than 10%25 of wild-type. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Unable to bind capped mRNA. W->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9582349;Dbxref=PMID:9582349	
+O60573	UniProtKB	Mutagenesis	222	222	.	.	.	Note=Does not affect ubiquitination by ARIH1%3B when associated with R-121%3B R-130 and R-134. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25624349;Dbxref=PMID:25624349	
+O60573	UniProtKB	Sequence conflict	1	27	.	.	.	Note=MNNKFDALKDDDSGDHDQNEENSTQKD->MMTVGTMIRMKKTAHRKI;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60573	UniProtKB	Beta strand	55	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Helix	75	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Beta strand	82	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Helix	91	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Helix	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Beta strand	109	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Turn	127	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Beta strand	133	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Helix	144	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Turn	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XLN	
+O60573	UniProtKB	Beta strand	166	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Beta strand	178	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Helix	190	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Beta strand	212	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	
+O60573	UniProtKB	Helix	217	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JGB	

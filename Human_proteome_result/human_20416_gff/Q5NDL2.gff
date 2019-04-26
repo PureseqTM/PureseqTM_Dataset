@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q5NDL2 1 527
+Q5NDL2	UniProtKB	Signal peptide	1	17	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q5NDL2	UniProtKB	Chain	18	527	.	.	.	ID=PRO_0000301970;Note=EGF domain-specific O-linked N-acetylglucosamine transferase	
+Q5NDL2	UniProtKB	Motif	295	297	.	.	.	Note=Required for optimal activity	
+Q5NDL2	UniProtKB	Motif	524	527	.	.	.	Note=Prevents secretion from ER;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10138	
+Q5NDL2	UniProtKB	Glycosylation	354	354	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q5NDL2	UniProtKB	Alternative sequence	208	208	.	.	.	ID=VSP_027897;Note=In isoform 2. F->C;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q5NDL2	UniProtKB	Alternative sequence	209	527	.	.	.	ID=VSP_027898;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q5NDL2	UniProtKB	Alternative sequence	278	361	.	.	.	ID=VSP_027899;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q5NDL2	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_070090;Note=In AOS4. W->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23522784;Dbxref=dbSNP:rs587776993,PMID:23522784	
+Q5NDL2	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_070091;Note=In AOS4. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23522784;Dbxref=dbSNP:rs587776995,PMID:23522784	
+Q5NDL2	UniProtKB	Mutagenesis	295	297	.	.	.	Note=Partial loss of activity. DYD->AYA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23671640;Dbxref=PMID:23671640	
+Q5NDL2	UniProtKB	Sequence conflict	199	199	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5NDL2	UniProtKB	Sequence conflict	247	247	.	.	.	Note=Y->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5NDL2	UniProtKB	Sequence conflict	287	287	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region O15516 1 846
+O15516	UniProtKB	Chain	1	846	.	.	.	ID=PRO_0000127163;Note=Circadian locomoter output cycles protein kaput	
+O15516	UniProtKB	Domain	34	84	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+O15516	UniProtKB	Domain	107	177	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O15516	UniProtKB	Domain	262	332	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O15516	UniProtKB	Domain	336	379	.	.	.	Note=PAC	
+O15516	UniProtKB	Region	371	845	.	.	.	Note=Interaction with NR3C1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Region	450	570	.	.	.	Note=Interaction with SIRT1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Region	514	564	.	.	.	Note=Implicated in the circadian rhythmicity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15516	UniProtKB	Motif	32	47	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Compositional bias	744	760	.	.	.	Note=Gln-rich	
+O15516	UniProtKB	Compositional bias	819	828	.	.	.	Note=Poly-Gln	
+O15516	UniProtKB	Site	39	39	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Site	43	43	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Site	47	47	.	.	.	Note=Interaction with E-box DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Site	84	84	.	.	.	Note=Important for interaction with ARNTL/BMAL1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Modified residue	38	38	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Modified residue	42	42	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Modified residue	408	408	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Modified residue	427	427	.	.	.	Note=Phosphoserine%3B by GSK3-beta;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Modified residue	431	431	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Modified residue	451	451	.	.	.	Note=Phosphothreonine%3B by CDK5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24235147;Dbxref=PMID:24235147	
+O15516	UniProtKB	Modified residue	461	461	.	.	.	Note=Phosphothreonine%3B by CDK5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24235147;Dbxref=PMID:24235147	
+O15516	UniProtKB	Cross-link	67	67	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Cross-link	842	842	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08785	
+O15516	UniProtKB	Natural variant	208	208	.	.	.	ID=VAR_040061;Note=S->C;Dbxref=dbSNP:rs34897046	
+O15516	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_040062;Note=E->K;Dbxref=dbSNP:rs1056478	
+O15516	UniProtKB	Natural variant	395	395	.	.	.	ID=VAR_029076;Note=L->I;Dbxref=dbSNP:rs6855837	
+O15516	UniProtKB	Natural variant	542	542	.	.	.	ID=VAR_029077;Note=H->R;Dbxref=dbSNP:rs3762836	
+O15516	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Phosphomimetic mutant with no effect on DNA binding or CLOCK-ARNTL/BMAL1 transcriptional activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Phosphomimetic mutant with no effect on DNA binding or CLOCK-ARNTL/BMAL1 transcriptional activity. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Mutagenesis	50	50	.	.	.	Note=No effect on ARNTL/BMAL1 binding. F->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Mutagenesis	84	84	.	.	.	Note=Impaired ARNTL/BMAL1 binding. H->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23229515;Dbxref=PMID:23229515	
+O15516	UniProtKB	Mutagenesis	116	116	.	.	.	Note=3-fold increase in PER1 reporter activity by CLOCK-ARNTL/BMAL1. Some reduction of CRY1 inhibition of CLOCK-ARNTL/BMAL1 transcriptional activity%3B when associated with K-367 and L-601. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O15516	UniProtKB	Mutagenesis	332	332	.	.	.	Note=3-fold increase in PER1 reporter activity by CLOCK-ARNTL/BMAL1. Some reduction of CRY1 inhibition of CLOCK-ARNTL/BMAL1 transcriptional activity%3B when associated with L-840. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O15516	UniProtKB	Mutagenesis	360	360	.	.	.	Note=3-fold increase in PER1 reporter activity by CLOCK-ARNTL/BMAL1. Some reduction of CRY1 inhibition of CLOCK-ARNTL/BMAL1 transcriptional activity. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O15516	UniProtKB	Mutagenesis	367	367	.	.	.	Note=3-fold increase in PER1 reporter activity by CLOCK-ARNTL/BMAL1. Some reduction of CRY1 inhibition CLOCK-ARNTL/BMAL1 transcriptional activity%3B when associated with E-116 and L-601. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O15516	UniProtKB	Mutagenesis	451	451	.	.	.	Note=Significant loss in phosphorylation. T->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24235147;Dbxref=PMID:24235147	
+O15516	UniProtKB	Mutagenesis	461	461	.	.	.	Note=Significant loss in phosphorylation. T->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24235147;Dbxref=PMID:24235147	
+O15516	UniProtKB	Mutagenesis	601	601	.	.	.	Note=3-fold increase in PER1 reporter activity by CLOCK-ARNTL/BMAL1. Some reduction of CRY1 inhibition of CLOCK-ARNTL/BMAL1 transcriptional activity%3B when associated with K-116 and K-367. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O15516	UniProtKB	Mutagenesis	840	840	.	.	.	Note=3-fold increase in PER1 reporter activity by CLOCK-ARNTL/BMAL1. Some reduction of CRY1 inhibition of CLOCK-ARNTL/BMAL1 transcriptional activity%3B when associated with E-332. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16474406;Dbxref=PMID:16474406	
+O15516	UniProtKB	Sequence conflict	440	440	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15516	UniProtKB	Helix	33	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H10	
+O15516	UniProtKB	Beta strand	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H10	
+O15516	UniProtKB	Helix	70	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4H10	

@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region P42701 1 662
+P42701	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Chain	24	662	.	.	.	ID=PRO_0000010917;Note=Interleukin-12 receptor subunit beta-1	
+P42701	UniProtKB	Topological domain	24	545	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Transmembrane	546	570	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Topological domain	571	662	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Domain	46	136	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P42701	UniProtKB	Domain	142	234	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P42701	UniProtKB	Domain	237	337	.	.	.	Note=Fibronectin type-III 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P42701	UniProtKB	Domain	338	444	.	.	.	Note=Fibronectin type-III 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P42701	UniProtKB	Domain	448	542	.	.	.	Note=Fibronectin type-III 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P42701	UniProtKB	Motif	222	226	.	.	.	Note=WSXWS motif	
+P42701	UniProtKB	Motif	577	585	.	.	.	Note=Box 1 motif	
+P42701	UniProtKB	Glycosylation	121	121	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Glycosylation	329	329	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Glycosylation	346	346	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Glycosylation	352	352	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Glycosylation	442	442	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Glycosylation	456	456	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P42701	UniProtKB	Disulfide bond	52	62	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42701	UniProtKB	Alternative sequence	341	422	.	.	.	ID=VSP_037043;Note=In isoform 3. EPVALNISVGTNGTTMYWPARAQSMTYCIEWQPVGQDGGLATCSLTAPQDPDPAGMATYSWSRESGAMGQEKCYYITIFASA->DGMISAHCNLRLPDSRDSPASASRVAGITGICHHTRLILYF;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P42701	UniProtKB	Alternative sequence	423	662	.	.	.	ID=VSP_037044;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P42701	UniProtKB	Alternative sequence	659	662	.	.	.	ID=VSP_001715;Note=In isoform 2. KAKM->DR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:7911493;Dbxref=PMID:15489334,PMID:7911493	
+P42701	UniProtKB	Natural variant	3	3	.	.	.	ID=VAR_021281;Note=P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs17884651	
+P42701	UniProtKB	Natural variant	47	47	.	.	.	ID=VAR_021282;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs17887176	
+P42701	UniProtKB	Natural variant	156	156	.	.	.	ID=VAR_021283;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11575926	
+P42701	UniProtKB	Natural variant	213	213	.	.	.	ID=VAR_015577;Note=In IMD30. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11424023;Dbxref=dbSNP:rs121434494,PMID:11424023	
+P42701	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_021284;Note=Q->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.3;Dbxref=dbSNP:rs11575934,PMID:15489334	
+P42701	UniProtKB	Natural variant	339	339	.	.	.	ID=VAR_021285;Note=H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs17884957	
+P42701	UniProtKB	Natural variant	365	365	.	.	.	ID=VAR_011986;Note=M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs375947	
+P42701	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_011987;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs401502	

@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P06702 1 114
+P06702	UniProtKB	Chain	1	114	.	.	.	ID=PRO_0000143997;Note=Protein S100-A9	
+P06702	UniProtKB	Domain	12	47	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P06702	UniProtKB	Domain	54	89	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P06702	UniProtKB	Calcium binding	23	36	.	.	.	Note=1%3B low affinity	
+P06702	UniProtKB	Calcium binding	67	78	.	.	.	Note=2%3B high affinity;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Metal binding	20	20	.	.	.	Note=Zinc;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Metal binding	30	30	.	.	.	Note=Zinc;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Metal binding	91	91	.	.	.	Note=Zinc;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Metal binding	95	95	.	.	.	Note=Zinc;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Modified residue	2	2	.	.	.	Note=Blocked amino end (Thr)	
+P06702	UniProtKB	Modified residue	3	3	.	.	.	Note=S-nitrosocysteine%3B transient;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25417112;Dbxref=PMID:25417112	
+P06702	UniProtKB	Modified residue	105	105	.	.	.	Note=Pros-methylhistidine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P50116	
+P06702	UniProtKB	Modified residue	113	113	.	.	.	Note=Phosphothreonine%3B by MAPK14;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:18318008,ECO:0000244|PubMed:19367720,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:15331440,ECO:0000269|PubMed:15905572,ECO:0000269|PubMed:2478889;Dbxref=PMID:18318008,PMID:19367720,PMID:20068231,PMID:24275569,PMID:15331440,PMID:15905572,PMID:2478889	
+P06702	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_013008;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4	
+P06702	UniProtKB	Mutagenesis	3	3	.	.	.	Note=Disrupts interaction with NOS2 and inhibits LDL(ox)-induced GAPDH S-nitrosylation%3B no effect on interaction with S100A8. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25417112;Dbxref=PMID:25417112	
+P06702	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Loss of resistance to bacterial invasion%3B when associated with Q-78. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19122197;Dbxref=PMID:19122197	
+P06702	UniProtKB	Mutagenesis	63	63	.	.	.	Note=Loss of antifungal activity. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19087201;Dbxref=PMID:19087201	
+P06702	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Loss of resistance to bacterial invasion%3B when associated with Q-36. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19122197;Dbxref=PMID:19122197	
+P06702	UniProtKB	Mutagenesis	81	81	.	.	.	Note=No effect on antifungal activity. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19087201;Dbxref=PMID:19087201	
+P06702	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Loss of antifungal activity. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19087201;Dbxref=PMID:19087201	
+P06702	UniProtKB	Sequence conflict	6	6	.	.	.	Note=S->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Sequence conflict	25	25	.	.	.	Note=K->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Sequence conflict	28	28	.	.	.	Note=H->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06702	UniProtKB	Helix	7	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Beta strand	25	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Helix	34	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Turn	45	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Helix	50	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Helix	56	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Beta strand	71	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Helix	76	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Turn	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4GGF	
+P06702	UniProtKB	Turn	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I8N	

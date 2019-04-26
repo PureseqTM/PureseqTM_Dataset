@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q86VF5 1 341
+Q86VF5	UniProtKB	Chain	1	341	.	.	.	ID=PRO_0000249067;Note=2-acylglycerol O-acyltransferase 3	
+Q86VF5	UniProtKB	Transmembrane	29	49	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q86VF5	UniProtKB	Transmembrane	50	70	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q86VF5	UniProtKB	Transmembrane	137	157	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q86VF5	UniProtKB	Glycosylation	126	126	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q86VF5	UniProtKB	Alternative sequence	224	281	.	.	.	ID=VSP_020361;Note=In isoform 2. ASLVPVYSFGENDIFRLKAFATGSWQHWCQLTFKKLMGFSPCIFWGRGLFSATSWGLL->GPPHPRPPAPPPHRGGSQSLSRPLHDGPGAALRGAQGKLWGPRFHLPHLHLGLAAAFR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86VF5	UniProtKB	Alternative sequence	282	341	.	.	.	ID=VSP_020362;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86VF5	UniProtKB	Alternative sequence	291	341	.	.	.	ID=VSP_020363;Note=In isoform 3. VGRPIPVPQRLHPTEEEVNHYHALYMTALEQLFEEHKESCGVPASTCLTFI->GECPPPGGRPPAAAWASGIPRPPVSLSLQWAAPSPSPSASTPPRRKSITITPST;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86VF5	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Reduces 60%25 2-acylglycerol O-acyltransferase activity. No effect on diacylglycerol O-acyltransferase activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27184406;Dbxref=PMID:27184406	
+Q86VF5	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Catalitically inactive. No 2-acylglycerol O-acyltransferase neither diacylglycerol O-acyltransferase activities. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27184406;Dbxref=PMID:27184406	
+Q86VF5	UniProtKB	Sequence conflict	265	265	.	.	.	Note=C->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	

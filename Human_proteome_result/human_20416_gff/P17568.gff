@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region P17568 1 137
+P17568	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed	
+P17568	UniProtKB	Chain	2	137	.	.	.	ID=PRO_0000118811;Note=NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7	
+P17568	UniProtKB	Domain	56	98	.	.	.	Note=CHCH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+P17568	UniProtKB	Motif	59	69	.	.	.	Note=Cx9C motif 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+P17568	UniProtKB	Motif	80	90	.	.	.	Note=Cx9C motif 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+P17568	UniProtKB	Modified residue	73	73	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CR61	
+P17568	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P17568	UniProtKB	Disulfide bond	59	90	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+P17568	UniProtKB	Disulfide bond	69	80	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+P17568	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_050591;Note=R->G;Dbxref=dbSNP:rs3752220	

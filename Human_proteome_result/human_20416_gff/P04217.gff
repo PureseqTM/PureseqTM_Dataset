@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P04217 1 495
+P04217	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3458201;Dbxref=PMID:3458201	
+P04217	UniProtKB	Chain	22	495	.	.	.	ID=PRO_0000014502;Note=Alpha-1B-glycoprotein	
+P04217	UniProtKB	Domain	22	113	.	.	.	Note=Ig-like V-type 1	
+P04217	UniProtKB	Domain	114	206	.	.	.	Note=Ig-like V-type 2	
+P04217	UniProtKB	Domain	207	299	.	.	.	Note=Ig-like V-type 3	
+P04217	UniProtKB	Domain	300	397	.	.	.	Note=Ig-like V-type 4	
+P04217	UniProtKB	Domain	398	495	.	.	.	Note=Ig-like V-type 5	
+P04217	UniProtKB	Glycosylation	44	44	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14760718,ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19838169,ECO:0000269|PubMed:3458201;Dbxref=PMID:14760718,PMID:16335952,PMID:19838169,PMID:3458201	
+P04217	UniProtKB	Glycosylation	179	179	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14760718,ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:3458201;Dbxref=PMID:14760718,PMID:16335952,PMID:3458201	
+P04217	UniProtKB	Glycosylation	363	363	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:3458201;Dbxref=PMID:16335952,PMID:3458201	
+P04217	UniProtKB	Glycosylation	371	371	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:3458201;Dbxref=PMID:16335952,PMID:3458201	
+P04217	UniProtKB	Disulfide bond	49	93	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:3458201;Dbxref=PMID:3458201	
+P04217	UniProtKB	Disulfide bond	139	182	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:3458201;Dbxref=PMID:3458201	
+P04217	UniProtKB	Disulfide bond	232	279	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:3458201;Dbxref=PMID:3458201	
+P04217	UniProtKB	Disulfide bond	325	374	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:3458201;Dbxref=PMID:3458201	
+P04217	UniProtKB	Disulfide bond	423	470	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:3458201;Dbxref=PMID:3458201	
+P04217	UniProtKB	Alternative sequence	1	122	.	.	.	ID=VSP_040323;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P04217	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_018369;Note=H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:3458201,ECO:0000269|Ref.2;Dbxref=dbSNP:rs893184,PMID:14702039,PMID:3458201	
+P04217	UniProtKB	Natural variant	395	395	.	.	.	ID=VAR_018370;Note=H->R;Dbxref=dbSNP:rs2241788	
+P04217	UniProtKB	Sequence conflict	105	105	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04217	UniProtKB	Sequence conflict	127	127	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04217	UniProtKB	Sequence conflict	146	146	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04217	UniProtKB	Sequence conflict	304	304	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04217	UniProtKB	Sequence conflict	413	413	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04217	UniProtKB	Sequence conflict	446	447	.	.	.	Note=VR->IP;Ontology_term=ECO:0000305;evidence=ECO:0000305	

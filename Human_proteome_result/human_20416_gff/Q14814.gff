@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region Q14814 1 521
+Q14814	UniProtKB	Chain	1	521	.	.	.	ID=PRO_0000199435;Note=Myocyte-specific enhancer factor 2D	
+Q14814	UniProtKB	Domain	3	57	.	.	.	Note=MADS-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00251	
+Q14814	UniProtKB	DNA binding	58	86	.	.	.	Note=Mef2-type;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14814	UniProtKB	Region	286	292	.	.	.	Note=Beta domain	
+Q14814	UniProtKB	Compositional bias	3	31	.	.	.	Note=Arg/Lys-rich (basic)	
+Q14814	UniProtKB	Compositional bias	252	255	.	.	.	Note=Poly-Pro	
+Q14814	UniProtKB	Compositional bias	365	404	.	.	.	Note=Gln/Pro-rich	
+Q14814	UniProtKB	Compositional bias	451	456	.	.	.	Note=Poly-Pro	
+Q14814	UniProtKB	Site	288	289	.	.	.	Note=Cleavage;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14814	UniProtKB	Modified residue	98	98	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63943	
+Q14814	UniProtKB	Modified residue	106	106	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63943	
+Q14814	UniProtKB	Modified residue	110	110	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63943	
+Q14814	UniProtKB	Modified residue	121	121	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:10617605;Dbxref=PMID:23186163,PMID:10617605	
+Q14814	UniProtKB	Modified residue	180	180	.	.	.	Note=Phosphoserine%3B by MAPK7;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:10849446;Dbxref=PMID:16964243,PMID:18691976,PMID:20068231,PMID:23186163,PMID:10849446	
+Q14814	UniProtKB	Modified residue	190	190	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63943	
+Q14814	UniProtKB	Modified residue	231	231	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q14814	UniProtKB	Modified residue	245	245	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q14814	UniProtKB	Modified residue	251	251	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+Q14814	UniProtKB	Modified residue	439	439	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16166628;Dbxref=PMID:16166628	
+Q14814	UniProtKB	Modified residue	444	444	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12691662,ECO:0000269|PubMed:15888658,ECO:0000269|PubMed:16356933;Dbxref=PMID:12691662,PMID:15888658,PMID:16356933	
+Q14814	UniProtKB	Cross-link	439	439	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)%3B alternate	
+Q14814	UniProtKB	Alternative sequence	87	132	.	.	.	ID=VSP_006251;Note=In isoform MEF2D0B and isoform MEF2D00. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8269842;Dbxref=PMID:8269842	
+Q14814	UniProtKB	Alternative sequence	87	132	.	.	.	ID=VSP_006250;Note=In isoform MEF2DA'B and isoform MEF2DA'0. TLRKKGFNGCDSPEPDGEDSLEQSPLLEDKYRRASEELDGLFRRYG->ALHKKHRECESPEVDEVFALTPQTEEKYKKIDEEFDKMMQSYRLA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8269842;Dbxref=PMID:8269842	
+Q14814	UniProtKB	Alternative sequence	286	292	.	.	.	ID=VSP_006252;Note=In isoform MEF2DA0%2C isoform MEF2DA'0 and isoform MEF2D00. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8269842;Dbxref=PMID:15489334,PMID:8269842	
+Q14814	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_022155;Note=P->S;Dbxref=dbSNP:rs2274315	
+Q14814	UniProtKB	Mutagenesis	180	180	.	.	.	Note=Abolishes MAPK7- and EGF-mediated transcriptional activation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10849446;Dbxref=PMID:10849446	
+Q14814	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Same transcriptional activity as for isoforms with beta domain. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15834131;Dbxref=PMID:15834131	
+Q14814	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Abolishes transcriptional activity%3B when associated with N-288 and N-291. E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15834131;Dbxref=PMID:15834131	
+Q14814	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Abolishes cleavage by caspase 7. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11904443,ECO:0000269|PubMed:15834131;Dbxref=PMID:11904443,PMID:15834131	
+Q14814	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Abolishes transcriptional activity%3B when associated with Q-287 and N-291. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11904443,ECO:0000269|PubMed:15834131;Dbxref=PMID:11904443,PMID:15834131	
+Q14814	UniProtKB	Mutagenesis	289	289	.	.	.	Note=Same transcriptional activity as for isoforms with beta domain. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15834131;Dbxref=PMID:15834131	
+Q14814	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Abolishes transcriptional activity%3B when associated with Q-287 and N-288. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15834131;Dbxref=PMID:15834131	
+Q14814	UniProtKB	Mutagenesis	437	437	.	.	.	Note=No effect on MAPK7- or EGF-mediated transcriptional activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10849446;Dbxref=PMID:10849446	
+Q14814	UniProtKB	Mutagenesis	438	438	.	.	.	Note=Abolishes K-439 sumoylation. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16166628;Dbxref=PMID:16166628	
+Q14814	UniProtKB	Mutagenesis	439	439	.	.	.	Note=Abolishes sumoylation and acetylation. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16166628,ECO:0000269|PubMed:16356933;Dbxref=PMID:16166628,PMID:16356933	
+Q14814	UniProtKB	Mutagenesis	444	444	.	.	.	Note=Abolishes K-439 sumoylation. Reduced neurotoxin-induced apoptosis of neuronal cells. More resistant to degradation. S->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12691662,ECO:0000269|PubMed:15888658,ECO:0000269|PubMed:16356933;Dbxref=PMID:12691662,PMID:15888658,PMID:16356933	
+Q14814	UniProtKB	Mutagenesis	444	444	.	.	.	Note=No effect on K-439 sumoylation. S->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12691662,ECO:0000269|PubMed:15888658,ECO:0000269|PubMed:16356933;Dbxref=PMID:12691662,PMID:15888658,PMID:16356933	

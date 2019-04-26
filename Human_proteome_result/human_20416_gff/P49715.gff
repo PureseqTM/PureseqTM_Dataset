@@ -1,0 +1,45 @@
+##gff-version 3
+##sequence-region P49715 1 358
+P49715	UniProtKB	Chain	1	358	.	.	.	ID=PRO_0000076613;Note=CCAAT/enhancer-binding protein alpha	
+P49715	UniProtKB	Domain	282	345	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P49715	UniProtKB	DNA binding	285	300	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P05554	
+P49715	UniProtKB	Region	1	70	.	.	.	Note=Required to repress E2F1:TFDP1-mediated transcription%2C to inhibit cell cycle and to induce adipocyte differentiation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P05554	
+P49715	UniProtKB	Region	54	72	.	.	.	Note=Required for interaction with TRIB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Region	128	204	.	.	.	Note=Required to induce adipocyte differentiation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P05554	
+P49715	UniProtKB	Region	182	198	.	.	.	Note=Required to functionally cooperate with SREBF1 in promoter activation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53566	
+P49715	UniProtKB	Region	244	358	.	.	.	Note=Interaction with FOXO1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53566	
+P49715	UniProtKB	Region	286	313	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P49715	UniProtKB	Region	317	345	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P49715	UniProtKB	Compositional bias	99	104	.	.	.	Note=Poly-Gly	
+P49715	UniProtKB	Compositional bias	183	189	.	.	.	Note=Poly-Pro	
+P49715	UniProtKB	Modified residue	161	161	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P49715	UniProtKB	Modified residue	190	190	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15107404;Dbxref=PMID:15107404	
+P49715	UniProtKB	Modified residue	226	226	.	.	.	Note=Phosphothreonine%3B by GSK3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53566	
+P49715	UniProtKB	Modified residue	230	230	.	.	.	Note=Phosphothreonine%3B by GSK3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53566	
+P49715	UniProtKB	Modified residue	234	234	.	.	.	Note=Phosphoserine%3B by GSK3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P53566	
+P49715	UniProtKB	Cross-link	161	161	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+P49715	UniProtKB	Alternative sequence	1	119	.	.	.	ID=VSP_057547;Note=In isoform 3. Missing	
+P49715	UniProtKB	Alternative sequence	1	14	.	.	.	ID=VSP_057548;Note=In isoform 2. Missing	
+P49715	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_057607;Note=In isoform 4. M->MRGRGRAGSPGGRRRRPAQAGGRRGSPCRENSNSPM	
+P49715	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_072677;Note=In AML%3B no effect on expression%3B no effect on DNA-binding or transactivation activity. H->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11242107;Dbxref=dbSNP:rs28931590,PMID:11242107	
+P49715	UniProtKB	Natural variant	312	312	.	.	.	ID=VAR_072678;Note=In AML%3B nuclear%3B no effect on expression%3B loss of DNA-binding and transactivation activity. Q->QK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11242107;Dbxref=PMID:11242107	
+P49715	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Decreased interaction with TRIB1. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	57	57	.	.	.	Note=No effect on interaction with TRIB1. E->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	58	58	.	.	.	Note=No effect on interaction with TRIB1. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Decreased interaction with TRIB1. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Decreased interaction with TRIB1. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	62	62	.	.	.	Note=Decreased interaction with TRIB1. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	63	63	.	.	.	Note=No effect on interaction with TRIB1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Decreased interaction with TRIB1. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	65	65	.	.	.	Note=No effect on interaction with TRIB1. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	67	67	.	.	.	Note=Decreased interaction with TRIB1. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	67	67	.	.	.	Note=No effect on interaction with TRIB1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Decreased interaction with TRIB1. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Mutagenesis	69	69	.	.	.	Note=No effect on interaction with TRIB1. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26455797;Dbxref=PMID:26455797	
+P49715	UniProtKB	Sequence conflict	40	41	.	.	.	Note=AQ->PK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49715	UniProtKB	Sequence conflict	95	98	.	.	.	Note=VGPT->WAH;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49715	UniProtKB	Sequence conflict	241	241	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49715	UniProtKB	Sequence conflict	248	250	.	.	.	Note=GPG->ALA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49715	UniProtKB	Sequence conflict	269	269	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49715	UniProtKB	Helix	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DC0	
+P49715	UniProtKB	Helix	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6DC0	

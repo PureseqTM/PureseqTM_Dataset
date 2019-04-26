@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q12934 1 665
+Q12934	UniProtKB	Chain	1	665	.	.	.	ID=PRO_0000063847;Note=Filensin	
+Q12934	UniProtKB	Domain	40	320	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+Q12934	UniProtKB	Region	1	40	.	.	.	Note=Head	
+Q12934	UniProtKB	Region	41	75	.	.	.	Note=Coil 1A	
+Q12934	UniProtKB	Region	76	84	.	.	.	Note=Linker 1	
+Q12934	UniProtKB	Region	85	184	.	.	.	Note=Coil 1B	
+Q12934	UniProtKB	Region	185	201	.	.	.	Note=Linker 12	
+Q12934	UniProtKB	Region	202	320	.	.	.	Note=Coil 2	
+Q12934	UniProtKB	Region	321	665	.	.	.	Note=Tail	
+Q12934	UniProtKB	Modified residue	5	5	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12934	UniProtKB	Alternative sequence	1	139	.	.	.	ID=VSP_055064;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12934	UniProtKB	Alternative sequence	1	125	.	.	.	ID=VSP_024921;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q12934	UniProtKB	Alternative sequence	126	126	.	.	.	ID=VSP_024922;Note=In isoform 2. K->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q12934	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_024492;Note=G->S;Dbxref=dbSNP:rs6080719	
+Q12934	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_078861;Note=In CTRCT33. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24379646;Dbxref=PMID:24379646	
+Q12934	UniProtKB	Natural variant	656	656	.	.	.	ID=VAR_036683;Note=D->E;Dbxref=dbSNP:rs16999317	
+Q12934	UniProtKB	Sequence conflict	96	96	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12934	UniProtKB	Sequence conflict	176	177	.	.	.	Note=HK->TR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12934	UniProtKB	Sequence conflict	248	248	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12934	UniProtKB	Sequence conflict	398	398	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12934	UniProtKB	Sequence conflict	568	568	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

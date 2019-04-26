@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q9BSI4 1 451
+Q9BSI4	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9BSI4	UniProtKB	Chain	2	451	.	.	.	ID=PRO_0000072541;Note=TERF1-interacting nuclear factor 2	
+Q9BSI4	UniProtKB	Motif	256	278	.	.	.	Note=TBM	
+Q9BSI4	UniProtKB	Motif	262	268	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BSI4	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9BSI4	UniProtKB	Modified residue	295	295	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q9BSI4	UniProtKB	Cross-link	302	302	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9BSI4	UniProtKB	Cross-link	306	306	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9BSI4	UniProtKB	Cross-link	341	341	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9BSI4	UniProtKB	Cross-link	353	353	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q9BSI4	UniProtKB	Alternative sequence	134	137	.	.	.	ID=VSP_003987;Note=In isoform 3. ELEQ->VRLV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BSI4	UniProtKB	Alternative sequence	138	451	.	.	.	ID=VSP_003988;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BSI4	UniProtKB	Alternative sequence	355	451	.	.	.	ID=VSP_003989;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10581025;Dbxref=PMID:10581025	
+Q9BSI4	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_051423;Note=A->T;Dbxref=dbSNP:rs35653076	
+Q9BSI4	UniProtKB	Natural variant	237	237	.	.	.	ID=VAR_051424;Note=G->D;Dbxref=dbSNP:rs17102313	
+Q9BSI4	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_051425;Note=P->S;Dbxref=dbSNP:rs17102311	
+Q9BSI4	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_043914;Note=In DKCA3. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18252230;Dbxref=dbSNP:rs121918543,PMID:18252230	
+Q9BSI4	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_043915;Note=In DKCA3 and DKCA5. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18252230;Dbxref=dbSNP:rs121918544,PMID:18252230	
+Q9BSI4	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_043916;Note=In DKCA3. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18252230;Dbxref=dbSNP:rs121918545,PMID:18252230	
+Q9BSI4	UniProtKB	Mutagenesis	258	258	.	.	.	Note=Abolishes interaction with TERF1. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18202258;Dbxref=PMID:18202258	
+Q9BSI4	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Does not effect interaction with TERF1. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18202258;Dbxref=PMID:18202258	
+Q9BSI4	UniProtKB	Sequence conflict	44	44	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BSI4	UniProtKB	Sequence conflict	67	67	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BSI4	UniProtKB	Sequence conflict	302	302	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BSI4	UniProtKB	Sequence conflict	323	332	.	.	.	Note=ASTGKSKSPC->PSNGKYKGPY;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BSI4	UniProtKB	Helix	8	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	28	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	31	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	51	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	76	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	101	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	128	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	141	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	169	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Helix	187	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XYF	
+Q9BSI4	UniProtKB	Beta strand	263	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BQO	

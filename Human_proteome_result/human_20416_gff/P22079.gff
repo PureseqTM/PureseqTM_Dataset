@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P22079 1 712
+P22079	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22079	UniProtKB	Propeptide	27	80	.	.	.	ID=PRO_0000023649;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:10715594;Dbxref=PMID:10715594	
+P22079	UniProtKB	Chain	81	712	.	.	.	ID=PRO_0000023650;Note=Lactoperoxidase;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:10715594;Dbxref=PMID:10715594	
+P22079	UniProtKB	Active site	226	226	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Metal binding	227	227	.	.	.	Note=Calcium;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Metal binding	301	301	.	.	.	Note=Calcium;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Metal binding	303	303	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Metal binding	305	305	.	.	.	Note=Calcium;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Metal binding	307	307	.	.	.	Note=Calcium;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Metal binding	468	468	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Binding site	225	225	.	.	.	Note=Heme (covalent%3B via 2 links);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22079	UniProtKB	Binding site	375	375	.	.	.	Note=Heme (covalent%3B via 2 links);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22079	UniProtKB	Site	372	372	.	.	.	Note=Transition state stabilizer;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Modified residue	315	315	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80025	
+P22079	UniProtKB	Modified residue	482	482	.	.	.	Note=Nitrated tyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P11678	
+P22079	UniProtKB	Glycosylation	106	106	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22079	UniProtKB	Glycosylation	212	212	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16740002;Dbxref=PMID:16740002	
+P22079	UniProtKB	Glycosylation	322	322	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22079	UniProtKB	Glycosylation	358	358	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16740002,ECO:0000269|PubMed:18780401;Dbxref=PMID:16740002,PMID:18780401	
+P22079	UniProtKB	Disulfide bond	132	145	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Disulfide bond	246	256	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Disulfide bond	250	274	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Disulfide bond	354	365	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Disulfide bond	573	630	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Disulfide bond	671	696	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P22079	UniProtKB	Alternative sequence	26	108	.	.	.	ID=VSP_044473;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22079	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_018809;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs8178318	
+P22079	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_018810;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs8178338	
+P22079	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_018811;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs8178355	
+P22079	UniProtKB	Natural variant	421	421	.	.	.	ID=VAR_018812;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19059195,ECO:0000269|PubMed:2222811,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2301870,PMID:19059195,PMID:2222811	
+P22079	UniProtKB	Natural variant	514	514	.	.	.	ID=VAR_018813;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs8178401	
+P22079	UniProtKB	Natural variant	614	614	.	.	.	ID=VAR_018814;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs8178408	
+P22079	UniProtKB	Natural variant	700	700	.	.	.	ID=VAR_018815;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs8178412	
+P22079	UniProtKB	Sequence conflict	255	255	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22079	UniProtKB	Sequence conflict	678	678	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	

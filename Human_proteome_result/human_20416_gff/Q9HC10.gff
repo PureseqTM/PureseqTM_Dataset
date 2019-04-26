@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region Q9HC10 1 1997
+Q9HC10	UniProtKB	Chain	1	1997	.	.	.	ID=PRO_0000057881;Note=Otoferlin	
+Q9HC10	UniProtKB	Topological domain	1	1963	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HC10	UniProtKB	Transmembrane	1964	1984	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HC10	UniProtKB	Topological domain	1985	1997	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HC10	UniProtKB	Domain	241	338	.	.	.	Note=C2 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q9HC10	UniProtKB	Domain	404	514	.	.	.	Note=C2 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q9HC10	UniProtKB	Domain	947	1052	.	.	.	Note=C2 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q9HC10	UniProtKB	Domain	1479	1577	.	.	.	Note=C2 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q9HC10	UniProtKB	Coiled coil	792	821	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9HC10	UniProtKB	Compositional bias	1303	1310	.	.	.	Note=Poly-Lys	
+Q9HC10	UniProtKB	Compositional bias	1314	1320	.	.	.	Note=Poly-Glu	
+Q9HC10	UniProtKB	Compositional bias	1965	1983	.	.	.	Note=Poly-Leu	
+Q9HC10	UniProtKB	Alternative sequence	1	747	.	.	.	ID=VSP_001507;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10192385,ECO:0000303|PubMed:10903124;Dbxref=PMID:10192385,PMID:10903124	
+Q9HC10	UniProtKB	Alternative sequence	1	690	.	.	.	ID=VSP_001509;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10903124;Dbxref=PMID:10903124	
+Q9HC10	UniProtKB	Alternative sequence	691	738	.	.	.	ID=VSP_001510;Note=In isoform 3. MRPQVTDRNYFHLPYLERKPCIYIKSWWPDQRRRLYNANIMDHIADKL->MMTDTQDGPSESSQIMRSLTPLINREEAFGEAGEAGLWPSITHTPDSQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10903124;Dbxref=PMID:10903124	
+Q9HC10	UniProtKB	Alternative sequence	1245	1264	.	.	.	ID=VSP_001508;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10192385,ECO:0000303|PubMed:10903124;Dbxref=PMID:10192385,PMID:10903124	
+Q9HC10	UniProtKB	Alternative sequence	1943	1997	.	.	.	ID=VSP_001511;Note=In isoform 2 and isoform 5. SFIWFLNPLKSARYFLWHTYRWLLLKLLLLLLLLLLLALFLYSVPGYLVKKILGA->AFVWFLNPLKSIKYLICTRYKWLIIKIVLALLGLLMLGLFLYSLPGYMVKKLLGA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10903124,ECO:0000303|PubMed:14702039;Dbxref=PMID:10903124,PMID:14702039	
+Q9HC10	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_032226;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs1879761,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_032227;Note=R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12114484,ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs13031859,PMID:12114484,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	255	255	.	.	.	ID=VAR_046003;Note=In AUNB1. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18381613;Dbxref=dbSNP:rs397515611,PMID:18381613	
+Q9HC10	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_032228;Note=In DFNB9. P->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12127154,ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356585,PMID:12127154,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	515	515	.	.	.	ID=VAR_032229;Note=In DFNB9 and AUNB1%3B temperature sensitive AUNB1 phenotype with severe hearing loss during febrile illness. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12127154,ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356586,PMID:12127154,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_032230;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs55676840,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	773	773	.	.	.	ID=VAR_032231;Note=R->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12114484,ECO:0000269|PubMed:16371502;Dbxref=PMID:12114484,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	794	794	.	.	.	ID=VAR_032232;Note=In DFNB9. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356592,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	818	818	.	.	.	ID=VAR_028028;Note=R->W;Dbxref=dbSNP:rs2272070	
+Q9HC10	UniProtKB	Natural variant	822	822	.	.	.	ID=VAR_032233;Note=R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16283880,ECO:0000269|PubMed:16371502,ECO:0000269|PubMed:27535533;Dbxref=dbSNP:rs80356570,PMID:16283880,PMID:16371502,PMID:27535533	
+Q9HC10	UniProtKB	Natural variant	964	964	.	.	.	ID=VAR_046004;Note=In AUNB1. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18381613;Dbxref=dbSNP:rs201329629,PMID:18381613	
+Q9HC10	UniProtKB	Natural variant	1011	1011	.	.	.	ID=VAR_032234;Note=In AUNB1 and DFNB9. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16097006,ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356596,PMID:16097006,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1083	1083	.	.	.	ID=VAR_032235;Note=A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356574,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1138	1138	.	.	.	ID=VAR_046005;Note=In AUNB1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18381613;Dbxref=dbSNP:rs397515599,PMID:18381613	
+Q9HC10	UniProtKB	Natural variant	1157	1157	.	.	.	ID=VAR_032236;Note=In DFNB9. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16371502,ECO:0000269|PubMed:26437881;Dbxref=dbSNP:rs56054534,PMID:16371502,PMID:26437881	
+Q9HC10	UniProtKB	Natural variant	1236	1236	.	.	.	ID=VAR_046006;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18381613;Dbxref=PMID:18381613	
+Q9HC10	UniProtKB	Natural variant	1322	1322	.	.	.	ID=VAR_032237;Note=D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356576,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1323	1323	.	.	.	ID=VAR_035895;Note=In a breast cancer sample%3B somatic mutation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs546115388,PMID:16959974	
+Q9HC10	UniProtKB	Natural variant	1547	1547	.	.	.	ID=VAR_035896;Note=In a breast cancer sample%3B somatic mutation. I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9HC10	UniProtKB	Natural variant	1625	1625	.	.	.	ID=VAR_032238;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356579,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1646	1646	.	.	.	ID=VAR_028029;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs17005371,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1680	1680	.	.	.	ID=VAR_028030;Note=R->H;Dbxref=dbSNP:rs11893228	
+Q9HC10	UniProtKB	Natural variant	1688	1688	.	.	.	ID=VAR_046007;Note=T->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18381613;Dbxref=PMID:18381613	
+Q9HC10	UniProtKB	Natural variant	1795	1795	.	.	.	ID=VAR_046008;Note=In AUNB1. F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18381613;Dbxref=dbSNP:rs397515606,PMID:18381613	
+Q9HC10	UniProtKB	Natural variant	1825	1825	.	.	.	ID=VAR_032239;Note=In DFNB9. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs28937591,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1886	1886	.	.	.	ID=VAR_049057;Note=V->A;Dbxref=dbSNP:rs45442103	
+Q9HC10	UniProtKB	Natural variant	1888	1888	.	.	.	ID=VAR_032240;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356583,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1939	1939	.	.	.	ID=VAR_032241;Note=In AUNB1. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356605,PMID:16371502	
+Q9HC10	UniProtKB	Natural variant	1987	1987	.	.	.	ID=VAR_032242;Note=In AUNB1. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16371502;Dbxref=dbSNP:rs80356606,PMID:16371502	
+Q9HC10	UniProtKB	Sequence conflict	1088	1088	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC10	UniProtKB	Sequence conflict	1088	1088	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC10	UniProtKB	Sequence conflict	1088	1088	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC10	UniProtKB	Sequence conflict	1787	1787	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

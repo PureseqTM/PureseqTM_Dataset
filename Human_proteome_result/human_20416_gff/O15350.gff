@@ -1,0 +1,73 @@
+##gff-version 3
+##sequence-region O15350 1 636
+O15350	UniProtKB	Chain	1	636	.	.	.	ID=PRO_0000185728;Note=Tumor protein p73	
+O15350	UniProtKB	Domain	485	551	.	.	.	Note=SAM	
+O15350	UniProtKB	Region	1	46	.	.	.	Note=Transactivation;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15350	UniProtKB	Region	131	310	.	.	.	Note=DNA-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15350	UniProtKB	Region	345	386	.	.	.	Note=Oligomerization;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15350	UniProtKB	Region	345	380	.	.	.	Note=Interaction with HIPK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11925430;Dbxref=PMID:11925430	
+O15350	UniProtKB	Motif	483	487	.	.	.	Note=PPxY motif	
+O15350	UniProtKB	Compositional bias	1	55	.	.	.	Note=Asp/Glu-rich (acidic)	
+O15350	UniProtKB	Compositional bias	168	171	.	.	.	Note=Poly-Pro	
+O15350	UniProtKB	Compositional bias	391	394	.	.	.	Note=Poly-Gln	
+O15350	UniProtKB	Compositional bias	483	486	.	.	.	Note=Poly-Pro	
+O15350	UniProtKB	Metal binding	194	194	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15350	UniProtKB	Metal binding	197	197	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15350	UniProtKB	Metal binding	258	258	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15350	UniProtKB	Metal binding	262	262	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15350	UniProtKB	Modified residue	27	27	.	.	.	Note=Phosphothreonine%3B by PLK1;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18174154,ECO:0000269|PubMed:18418051;Dbxref=PMID:18174154,PMID:18418051	
+O15350	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphotyrosine%3B by SRC and HCK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17535448;Dbxref=PMID:17535448	
+O15350	UniProtKB	Modified residue	99	99	.	.	.	Note=Phosphotyrosine%3B by ABL1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391251;Dbxref=PMID:10391251	
+O15350	UniProtKB	Cross-link	627	627	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)%3B in isoform Alpha;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10961991;Dbxref=PMID:10961991	
+O15350	UniProtKB	Cross-link	627	627	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O15350	UniProtKB	Alternative sequence	1	71	.	.	.	ID=VSP_045082;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15350	UniProtKB	Alternative sequence	1	62	.	.	.	ID=VSP_014368;Note=In isoform dN-Alpha%2C isoform dN-Beta%2C isoform dN-Gamma and isoform 11. MAQSTATSPDGGTTFEHLWSSLEPDSTYFDLPQSSRGNNEVVGGTDSSMDVFHLEGMTTSVM->MLYVGDPARHLAT;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11753569,ECO:0000303|PubMed:14702039,ECO:0000303|Ref.7;Dbxref=PMID:11753569,PMID:14702039	
+O15350	UniProtKB	Alternative sequence	400	636	.	.	.	ID=VSP_053809;Note=In isoform 11. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O15350	UniProtKB	Alternative sequence	400	526	.	.	.	ID=VSP_053810;Note=In isoform 12. SHLQPPSYGPVLSPMNKVHGGMNKLPSVNQLVGQPPPHSSAATPNLGPVGPGMLNNHGHAVPANGEMSSSHSAQSMVSGSHCTPPPPYHADPSLVSFLTGLGCPNCIEYFTSQGLQSIYHLQNLTIE->PRDAQQPWPRSASQRRDEQQPQRPVHGLGVPLHSATPLPRRPQPRQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15350	UniProtKB	Alternative sequence	400	495	.	.	.	ID=VSP_006546;Note=In isoform Zeta. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10381648;Dbxref=PMID:10381648	
+O15350	UniProtKB	Alternative sequence	400	476	.	.	.	ID=VSP_006540;Note=In isoform Gamma and isoform dN-Gamma. SHLQPPSYGPVLSPMNKVHGGMNKLPSVNQLVGQPPPHSSAATPNLGPVGPGMLNNHGHAVPANGEMSSSHSAQSMV->PRDAQQPWPRSASQQRRDEQQPQRPVHGLGVPLHSATPLPRRPQPRQFFNRIGVSKLHRVFHLPRVTEHLPPAEPDH;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11753569,ECO:0000303|PubMed:9802988;Dbxref=PMID:11753569,PMID:9802988	
+O15350	UniProtKB	Alternative sequence	400	445	.	.	.	ID=VSP_006544;Note=In isoform Epsilon. SHLQPPSYGPVLSPMNKVHGGMNKLPSVNQLVGQPPPHSSAATPNL->PRDAQQPWPRSASQQRRDEQQPQRPVHGLGVPLHSATPLPRRPQPR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10381648;Dbxref=PMID:10381648	
+O15350	UniProtKB	Alternative sequence	400	403	.	.	.	ID=VSP_006542;Note=In isoform Delta. SHLQ->TWGP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9802988;Dbxref=PMID:9802988	
+O15350	UniProtKB	Alternative sequence	404	636	.	.	.	ID=VSP_006543;Note=In isoform Delta. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9802988;Dbxref=PMID:9802988	
+O15350	UniProtKB	Alternative sequence	446	526	.	.	.	ID=VSP_006545;Note=In isoform Epsilon. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10381648;Dbxref=PMID:10381648	
+O15350	UniProtKB	Alternative sequence	477	636	.	.	.	ID=VSP_006541;Note=In isoform Gamma and isoform dN-Gamma. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11753569,ECO:0000303|PubMed:9802988;Dbxref=PMID:11753569,PMID:9802988	
+O15350	UniProtKB	Alternative sequence	495	636	.	.	.	ID=VSP_006539;Note=In isoform Beta and isoform dN-Beta. SFLTGLGCPNCIEYFTSQGLQSIYHLQNLTIEDLGALKIPEQYRMTIWRGLQDLKQGHDYSTAQQLLRSSNAATISIGGSGELQRQRVMEAVHFRVRHTITIPNRGGPGGGPDEWADFGFDLPDCKARKQPIKEEFTEAEIH->RTWGP;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11753569,ECO:0000303|PubMed:9288759,ECO:0000303|Ref.7;Dbxref=PMID:11753569,PMID:9288759	
+O15350	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Impaired phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18174154;Dbxref=PMID:18174154	
+O15350	UniProtKB	Mutagenesis	99	99	.	.	.	Note=Impaired phosphorylation of isoform beta by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391251;Dbxref=PMID:10391251	
+O15350	UniProtKB	Mutagenesis	487	487	.	.	.	Note=Loss of interaction with WWOX. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15070730;Dbxref=PMID:15070730	
+O15350	UniProtKB	Mutagenesis	627	627	.	.	.	Note=Strongly diminishes sumoylation but does not affect transcriptional activity. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10961991;Dbxref=PMID:10961991	
+O15350	UniProtKB	Helix	15	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MPS	
+O15350	UniProtKB	Turn	123	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	128	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	136	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4G82	
+O15350	UniProtKB	Beta strand	141	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Turn	146	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	150	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	157	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	174	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Turn	184	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Helix	195	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Turn	202	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	214	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	224	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Turn	229	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	234	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	250	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Helix	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Turn	263	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A63	
+O15350	UniProtKB	Beta strand	271	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	280	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VD1	
+O15350	UniProtKB	Beta strand	284	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Helix	298	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XWC	
+O15350	UniProtKB	Beta strand	354	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HOB	
+O15350	UniProtKB	Helix	362	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HOB	
+O15350	UniProtKB	Helix	378	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HOB	
+O15350	UniProtKB	Helix	383	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HOB	
+O15350	UniProtKB	Helix	493	499	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	
+O15350	UniProtKB	Turn	503	505	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1COK	
+O15350	UniProtKB	Helix	506	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	
+O15350	UniProtKB	Turn	511	513	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	
+O15350	UniProtKB	Helix	517	521	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	
+O15350	UniProtKB	Helix	525	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	
+O15350	UniProtKB	Turn	535	537	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	
+O15350	UniProtKB	Helix	538	547	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DXS	

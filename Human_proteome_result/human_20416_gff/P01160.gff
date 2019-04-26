@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P01160 1 153
+P01160	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P24259	
+P01160	UniProtKB	Propeptide	26	123	.	.	.	ID=PRO_0000001493;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01160	UniProtKB	Peptide	124	151	.	.	.	ID=PRO_0000001494;Note=Atrial natriuretic factor;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10880574,ECO:0000269|PubMed:6230082;Dbxref=PMID:10880574,PMID:6230082	
+P01160	UniProtKB	Site	123	124	.	.	.	Note=Cleavage%3B by CORIN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10880574;Dbxref=PMID:10880574	
+P01160	UniProtKB	Site	130	131	.	.	.	Note=Cleavage%3B by MME;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2972276;Dbxref=PMID:2972276	
+P01160	UniProtKB	Disulfide bond	130	146	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16870210;Dbxref=PMID:16870210	
+P01160	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_014579;Note=V->M;Dbxref=dbSNP:rs5063	
+P01160	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_071307;Note=In ATRST2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23275345;Dbxref=PMID:23275345	
+P01160	UniProtKB	Natural variant	152	153	.	.	.	ID=VAR_000594;Note=In allele 2. Missing	
+P01160	UniProtKB	Mutagenesis	123	123	.	.	.	Note=Loss of cleavage by CORIN. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10880574;Dbxref=PMID:10880574	
+P01160	UniProtKB	Sequence conflict	65	65	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01160	UniProtKB	Beta strand	139	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YK0	

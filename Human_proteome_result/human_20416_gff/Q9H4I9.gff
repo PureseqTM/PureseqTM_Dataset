@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q9H4I9 1 107
+Q9H4I9	UniProtKB	Transit peptide	1	52	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27642048;Dbxref=PMID:27642048	
+Q9H4I9	UniProtKB	Chain	53	107	.	.	.	ID=PRO_0000296320;Note=Essential MCU regulator%2C mitochondrial	
+Q9H4I9	UniProtKB	Topological domain	53	64	.	.	.	Note=Mitochondrial matrix;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:27099988,ECO:0000305|PubMed:27642048;Dbxref=PMID:27099988,PMID:27642048	
+Q9H4I9	UniProtKB	Transmembrane	65	84	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H4I9	UniProtKB	Topological domain	85	107	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:27099988,ECO:0000305|PubMed:27642048;Dbxref=PMID:27099988,PMID:27642048	
+Q9H4I9	UniProtKB	Region	1	52	.	.	.	Note=Interaction with MAIP1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27642048;Dbxref=PMID:27642048	
+Q9H4I9	UniProtKB	Motif	81	85	.	.	.	Note=GXXXX[G/A/S];Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27099988;Dbxref=PMID:27099988	
+Q9H4I9	UniProtKB	Compositional bias	102	107	.	.	.	Note=Poly-Asp;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H4I9	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_034628;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852210,PMID:15489334	
+Q9H4I9	UniProtKB	Mutagenesis	81	81	.	.	.	Note=Abolishes calcium uptake into mitochondria. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27099988;Dbxref=PMID:27099988	
+Q9H4I9	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Abolishes calcium uptake into mitochondria. S->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27099988;Dbxref=PMID:27099988	
+Q9H4I9	UniProtKB	Mutagenesis	101	107	.	.	.	Note=Abolishes regulation of calcium uptake into mitochondria. EDDDDDD->QNNNNNN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26774479;Dbxref=PMID:26774479	

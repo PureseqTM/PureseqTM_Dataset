@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region P13987 1 128
+P13987	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:25944712,ECO:0000269|PubMed:9054419;Dbxref=PMID:25944712,PMID:9054419	
+P13987	UniProtKB	Chain	26	102	.	.	.	ID=PRO_0000036108;Note=CD59 glycoprotein	
+P13987	UniProtKB	Propeptide	103	128	.	.	.	ID=PRO_0000036109;Note=Removed in mature form;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9054419;Dbxref=PMID:9054419	
+P13987	UniProtKB	Domain	26	108	.	.	.	Note=UPAR/Ly6	
+P13987	UniProtKB	Lipidation	102	102	.	.	.	Note=GPI-anchor amidated asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17566972,ECO:0000269|PubMed:8276756;Dbxref=PMID:17566972,PMID:8276756	
+P13987	UniProtKB	Glycosylation	43	43	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18780401,ECO:0000269|PubMed:8670172;Dbxref=PMID:18780401,PMID:8670172	
+P13987	UniProtKB	Glycosylation	66	66	.	.	.	Note=N-linked (Glc) (glycation) lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805801;Dbxref=PMID:10805801	
+P13987	UniProtKB	Glycosylation	76	76	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13987	UniProtKB	Glycosylation	77	77	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P13987	UniProtKB	Disulfide bond	28	51	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8276756;Dbxref=PMID:8276756	
+P13987	UniProtKB	Disulfide bond	31	38	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8276756;Dbxref=PMID:8276756	
+P13987	UniProtKB	Disulfide bond	44	64	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8276756;Dbxref=PMID:8276756	
+P13987	UniProtKB	Disulfide bond	70	88	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8276756;Dbxref=PMID:8276756	
+P13987	UniProtKB	Disulfide bond	89	94	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8276756;Dbxref=PMID:8276756	
+P13987	UniProtKB	Alternative sequence	103	128	.	.	.	ID=VSP_060064;Note=In isoform 2. GGTSLSEKTVLLLVTPFLAAAWSLHP->DTFLKALKDEKLQGLKTKQPGKKSASLS	
+P13987	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_070124;Note=In HACD59. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23149847;Dbxref=dbSNP:rs397514767,PMID:23149847	
+P13987	UniProtKB	Mutagenesis	29	29	.	.	.	Note=No loss of function. Y->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	33	33	.	.	.	Note=No loss of function. N->R%2CQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	37	37	.	.	.	Note=No loss of function. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Some loss of function. Some lysis. F->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Loss of function. Lysis. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	58	58	.	.	.	Note=No loss of function. L->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	63	63	.	.	.	Note=No loss of function. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Complete loss of function. Lysis. W->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	66	66	.	.	.	Note=No loss of function. K->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805801;Dbxref=PMID:10805801	
+P13987	UniProtKB	Mutagenesis	66	66	.	.	.	Note=Loss of glycation mediated inactivation. K->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805801;Dbxref=PMID:10805801	
+P13987	UniProtKB	Mutagenesis	67	67	.	.	.	Note=No loss of function. F->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	69	69	.	.	.	Note=Loss of glycation mediated inactivation. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805801;Dbxref=PMID:10805801	
+P13987	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Almost complete loss of function. Lysis. F->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Loss of function. Lysis. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	79	79	.	.	.	Note=No loss of function. L->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	81	81	.	.	.	Note=Almost complete loss of function. Lysis. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	82	82	.	.	.	Note=No loss of function. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Mutagenesis	87	87	.	.	.	Note=No loss of function. Y->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9053451;Dbxref=PMID:9053451	
+P13987	UniProtKB	Beta strand	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Beta strand	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ERG	
+P13987	UniProtKB	Beta strand	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Beta strand	50	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Beta strand	59	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Helix	67	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Helix	72	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Beta strand	85	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	
+P13987	UniProtKB	Beta strand	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CDR	
+P13987	UniProtKB	Helix	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2J8B	

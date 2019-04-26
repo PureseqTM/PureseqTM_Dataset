@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q8WYA1 1 636
+Q8WYA1	UniProtKB	Chain	1	636	.	.	.	ID=PRO_0000273631;Note=Aryl hydrocarbon receptor nuclear translocator-like protein 2	
+Q8WYA1	UniProtKB	Domain	107	160	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+Q8WYA1	UniProtKB	Domain	178	250	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q8WYA1	UniProtKB	Domain	357	427	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q8WYA1	UniProtKB	Domain	432	475	.	.	.	Note=PAC	
+Q8WYA1	UniProtKB	Region	46	258	.	.	.	Note=Interaction with PER2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q2VPD4	
+Q8WYA1	UniProtKB	Motif	49	54	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+Q8WYA1	UniProtKB	Motif	177	187	.	.	.	Note=Nuclear export signal 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+Q8WYA1	UniProtKB	Motif	392	400	.	.	.	Note=Nuclear export signal 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+Q8WYA1	UniProtKB	Cross-link	287	287	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2 and SUMO3);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTL8	
+Q8WYA1	UniProtKB	Cross-link	294	294	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q8WYA1	UniProtKB	Alternative sequence	1	37	.	.	.	ID=VSP_022580;Note=In isoform 6%2C isoform 7 and isoform 8. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10864977,ECO:0000303|PubMed:10964693;Dbxref=PMID:10864977,PMID:10964693	
+Q8WYA1	UniProtKB	Alternative sequence	11	11	.	.	.	ID=VSP_022585;Note=In isoform 3 and isoform 9. G->GEVAGGEATAPG;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11554928,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11554928,PMID:14702039,PMID:15489334	
+Q8WYA1	UniProtKB	Alternative sequence	61	61	.	.	.	ID=VSP_022582;Note=In isoform 8. Q->H;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10864977;Dbxref=PMID:10864977	
+Q8WYA1	UniProtKB	Alternative sequence	62	95	.	.	.	ID=VSP_022581;Note=In isoform 3%2C isoform 4%2C isoform 5%2C isoform 6 and isoform 9. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10964693,ECO:0000303|PubMed:11018023,ECO:0000303|PubMed:11554928,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:10964693,PMID:11018023,PMID:11554928,PMID:14702039,PMID:15489334	
+Q8WYA1	UniProtKB	Alternative sequence	62	74	.	.	.	ID=VSP_022583;Note=In isoform 8. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10864977;Dbxref=PMID:10864977	
+Q8WYA1	UniProtKB	Alternative sequence	96	109	.	.	.	ID=VSP_022584;Note=In isoform 2%2C isoform 3%2C isoform 4%2C isoform 6%2C isoform 7%2C isoform 8 and isoform 9. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10864977,ECO:0000303|PubMed:10964693,ECO:0000303|PubMed:11554928,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:10864977,PMID:10964693,PMID:11554928,PMID:14702039,PMID:15489334	
+Q8WYA1	UniProtKB	Alternative sequence	556	635	.	.	.	ID=VSP_044773;Note=In isoform 9. MSNKELFPPSPSEMGELEATRQNQSTVAVHSHEPLLSDGAQLDFDALCDNDDTAMAAFMNYLEAEGGLGDPGDFSDIQWT->VMVHSWISMPYVTMMTQPWLH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8WYA1	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_030158;Note=N->S;Dbxref=dbSNP:rs1037921	
+Q8WYA1	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_030159;Note=A->V;Dbxref=dbSNP:rs11049005	
+Q8WYA1	UniProtKB	Sequence conflict	41	41	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	173	173	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	257	257	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	257	257	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	276	276	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	276	276	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	304	304	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	324	324	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Sequence conflict	527	527	.	.	.	Note=L->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8WYA1	UniProtKB	Beta strand	368	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	379	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Helix	387	391	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Turn	396	398	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Turn	404	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	410	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Helix	413	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	426	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	430	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	440	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	444	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	458	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	
+Q8WYA1	UniProtKB	Beta strand	462	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KDK	

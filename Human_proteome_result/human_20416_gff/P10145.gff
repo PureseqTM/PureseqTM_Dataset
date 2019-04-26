@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P10145 1 99
+P10145	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2145175,ECO:0000269|PubMed:2523801,ECO:0000269|PubMed:2648135;Dbxref=PMID:2145175,PMID:2523801,PMID:2648135	
+P10145	UniProtKB	Chain	21	99	.	.	.	ID=PRO_0000005126;Note=MDNCF-a	
+P10145	UniProtKB	Chain	23	99	.	.	.	ID=PRO_0000005127;Note=Interleukin-8	
+P10145	UniProtKB	Chain	27	99	.	.	.	ID=PRO_0000041948;Note=IL-8(5-77)	
+P10145	UniProtKB	Chain	28	99	.	.	.	ID=PRO_0000005128;Note=IL-8(6-77)	
+P10145	UniProtKB	Chain	29	99	.	.	.	ID=PRO_0000005129;Note=IL-8(7-77)	
+P10145	UniProtKB	Chain	30	99	.	.	.	ID=PRO_0000005130;Note=IL-8(8-77)	
+P10145	UniProtKB	Chain	31	99	.	.	.	ID=PRO_0000005131;Note=IL-8(9-77)	
+P10145	UniProtKB	Site	27	28	.	.	.	Note=Cleavage%3B by thrombin;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10145	UniProtKB	Site	28	29	.	.	.	Note=Cleavage%3B by MMP9	
+P10145	UniProtKB	Modified residue	27	27	.	.	.	Note=Citrulline;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18710930,ECO:0000269|PubMed:19608678;Dbxref=PMID:18710930,PMID:19608678	
+P10145	UniProtKB	Disulfide bond	34	61	.	.	.	.	
+P10145	UniProtKB	Disulfide bond	36	77	.	.	.	.	
+P10145	UniProtKB	Sequence conflict	53	53	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10145	UniProtKB	Beta strand	37	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ROD	
+P10145	UniProtKB	Helix	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XDX	
+P10145	UniProtKB	Beta strand	49	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XDX	
+P10145	UniProtKB	Beta strand	58	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ICW	
+P10145	UniProtKB	Beta strand	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XDX	
+P10145	UniProtKB	Beta strand	65	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XDX	
+P10145	UniProtKB	Turn	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1IKL	
+P10145	UniProtKB	Beta strand	75	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XDX	
+P10145	UniProtKB	Helix	83	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XDX	

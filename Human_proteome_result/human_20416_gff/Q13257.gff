@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region Q13257 1 205
+Q13257	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.12	
+Q13257	UniProtKB	Chain	2	205	.	.	.	ID=PRO_0000126117;Note=Mitotic spindle assembly checkpoint protein MAD2A	
+Q13257	UniProtKB	Domain	14	197	.	.	.	Note=HORMA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00109	
+Q13257	UniProtKB	Region	195	205	.	.	.	Note=Required for assuming the closed conformation and for interaction with CDC20	
+Q13257	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.12	
+Q13257	UniProtKB	Modified residue	6	6	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13257	UniProtKB	Modified residue	130	130	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13257	UniProtKB	Modified residue	170	170	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Modified residue	178	178	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Modified residue	185	185	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13257	UniProtKB	Modified residue	195	195	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12574116;Dbxref=PMID:23186163,PMID:12574116	
+Q13257	UniProtKB	Alternative sequence	74	90	.	.	.	ID=VSP_047644;Note=In isoform 2. DWLYKCSVQKLVVVISN->VHPEKSLRKLSRMKSVQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.6;Dbxref=PMID:14702039	
+Q13257	UniProtKB	Alternative sequence	91	205	.	.	.	ID=VSP_047645;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.6;Dbxref=PMID:14702039	
+Q13257	UniProtKB	Mutagenesis	13	13	.	.	.	Note=Leads to formation the closed conformation and homodimerization. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	75	75	.	.	.	Note=Prevents interaction with CDC20 and leads to formation of the closed conformation%3B when associated with A-133. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Prevents aggregation and promotes formation of monomeric protein that slowly interconverts between the open and closed conformation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12006501;Dbxref=PMID:12006501	
+Q13257	UniProtKB	Mutagenesis	153	153	.	.	.	Note=Leads to formation of the closed conformation%3B when associated with A-133. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	156	156	.	.	.	Note=Leads to formation of the closed conformation%3B when associated with A-133. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	170	170	.	.	.	Note=Reduces phosphorylation on serine residues%3B when associated with A-178. Abolishes phosphorylation on serine residues%3B when associated with A-178 and A-195. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Mutagenesis	170	170	.	.	.	Note=Abolishes interaction with MAD1L1 and reduces interaction with CDC20%3B when associated with D-178 and D-195. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Mutagenesis	178	178	.	.	.	Note=Reduces phosphorylation on serine residues%3B when associated with A-170. Abolishes phosphorylation on serine residues%3B when associated with A-170 and A-195. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Mutagenesis	178	178	.	.	.	Note=Abolishes interaction with MAD1L1 and reduces interaction with CDC20%3B when associated with D-170 and D-195. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Mutagenesis	186	186	.	.	.	Note=Prevents formation of the closed conformation and interaction with CDC20%3B when associated with A-133. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Prevents formation of the closed conformation and interaction with CDC20%3B when associated with A-133. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	191	191	.	.	.	Note=Prevents formation of the closed conformation and interaction with CDC20%3B when associated with A-133. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Abolishes phosphorylation on serine residues%3B when associated with A-170 and A-178. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Abolishes interaction with MAD1L1 and reduces interaction with CDC20%3B when associated with D-170 and D-178. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574116;Dbxref=PMID:12574116	
+Q13257	UniProtKB	Mutagenesis	197	197	.	.	.	Note=Prevents formation of the closed conformation and interaction with CDC20%3B when associated with A-133. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Mutagenesis	199	199	.	.	.	Note=Prevents formation of the closed conformation and interaction with CDC20%3B when associated with A-133. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18318601;Dbxref=PMID:18318601	
+Q13257	UniProtKB	Sequence conflict	16	16	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13257	UniProtKB	Sequence conflict	190	190	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13257	UniProtKB	Beta strand	2	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	7	9	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S2H	
+Q13257	UniProtKB	Helix	13	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Helix	40	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	43	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	51	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Helix	59	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	78	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DUJ	
+Q13257	UniProtKB	Beta strand	81	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Turn	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	96	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Helix	108	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q13257	UniProtKB	Beta strand	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S2H	
+Q13257	UniProtKB	Helix	121	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	149	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Helix	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QYF	
+Q13257	UniProtKB	Beta strand	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GO4	
+Q13257	UniProtKB	Beta strand	173	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V64	
+Q13257	UniProtKB	Beta strand	177	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	
+Q13257	UniProtKB	Beta strand	189	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VFX	

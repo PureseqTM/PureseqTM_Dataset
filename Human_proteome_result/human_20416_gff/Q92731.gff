@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region Q92731 1 530
+Q92731	UniProtKB	Chain	1	530	.	.	.	ID=PRO_0000053642;Note=Estrogen receptor beta	
+Q92731	UniProtKB	Domain	264	498	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+Q92731	UniProtKB	DNA binding	149	214	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+Q92731	UniProtKB	Zinc finger	149	169	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+Q92731	UniProtKB	Zinc finger	185	209	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+Q92731	UniProtKB	Region	1	148	.	.	.	Note=Modulating	
+Q92731	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15862947;Dbxref=PMID:15862947	
+Q92731	UniProtKB	Modified residue	105	105	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15862947;Dbxref=PMID:15862947	
+Q92731	UniProtKB	Alternative sequence	319	409	.	.	.	ID=VSP_003685;Note=In isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.13	
+Q92731	UniProtKB	Alternative sequence	319	323	.	.	.	ID=VSP_003684;Note=In isoform 3. FVELS->MRGNA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9685228;Dbxref=PMID:15489334,PMID:9685228	
+Q92731	UniProtKB	Alternative sequence	324	530	.	.	.	ID=VSP_003686;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9685228;Dbxref=PMID:15489334,PMID:9685228	
+Q92731	UniProtKB	Alternative sequence	365	375	.	.	.	ID=VSP_003687;Note=In isoform 8. DEGKCVEGILE->YVPSGHSDPGC;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.13	
+Q92731	UniProtKB	Alternative sequence	376	530	.	.	.	ID=VSP_003688;Note=In isoform 8. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.13	
+Q92731	UniProtKB	Alternative sequence	469	530	.	.	.	ID=VSP_003689;Note=In isoform 2. SNKGMEHLLNMKCKNVVPVYDLLLEMLNAHVLRGCKSSITGSECSPAEDSKSKEGSQNPQSQ->RAEKASQTLTSFGMKMETLLPEATMEQ;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9636657,ECO:0000303|PubMed:9671811;Dbxref=PMID:14702039,PMID:9636657,PMID:9671811	
+Q92731	UniProtKB	Alternative sequence	469	530	.	.	.	ID=VSP_003690;Note=In isoform 4. SNKGMEHLLNMKCKNVVPVYDLLLEMLNAHVLRGCKSSITGSECSPAEDSKSKEGSQNPQSQ->SSLSLSWRLFMLREASCHGVRQTPGGAHMSVSRSRSFEACQQPRE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9636657;Dbxref=PMID:9636657	
+Q92731	UniProtKB	Alternative sequence	469	530	.	.	.	ID=VSP_003691;Note=In isoform 5. SNKGMEHLLNMKCKNVVPVYDLLLEMLNAHVLRGCKSSITGSECSPAEDSKSKEGSQNPQSQ->RWGEKQFIHLKLS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:16938840,ECO:0000303|PubMed:9636657;Dbxref=PMID:16938840,PMID:9636657	
+Q92731	UniProtKB	Alternative sequence	469	530	.	.	.	ID=VSP_003692;Note=In isoform 6. SNKGMEHLLNMKCKNVVPVYDLLLEMLNAHVLRGCKSSITGSECSPAEDSKSKEGSQNPQSQ->RYAP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:16938840,ECO:0000303|PubMed:9636657;Dbxref=PMID:16938840,PMID:9636657	
+Q92731	UniProtKB	Alternative sequence	469	474	.	.	.	ID=VSP_055746;Note=In isoform 9. SNKGME->RSCVYK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92731	UniProtKB	Alternative sequence	475	530	.	.	.	ID=VSP_055747;Note=In isoform 9. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92731	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Enhances repression by activated ErbB2/ErbB3%3B when associated with A-105. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15862947;Dbxref=PMID:15862947	
+Q92731	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Abolishes repression by activated ErbB2/ErbB3%3B when associated with D-105. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15862947;Dbxref=PMID:15862947	
+Q92731	UniProtKB	Mutagenesis	105	105	.	.	.	Note=Enhances repression by activated ErbB2/ErbB3%3B when associated with A-87. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15862947;Dbxref=PMID:15862947	
+Q92731	UniProtKB	Mutagenesis	105	105	.	.	.	Note=Abolishes repression by activated ErbB2/ErbB3%3B when associated with D-87. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15862947;Dbxref=PMID:15862947	
+Q92731	UniProtKB	Helix	257	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L2J	
+Q92731	UniProtKB	Helix	261	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FSZ	
+Q92731	UniProtKB	Helix	265	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Beta strand	286	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FSZ	
+Q92731	UniProtKB	Helix	291	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Helix	319	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Helix	324	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Beta strand	348	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L2J	
+Q92731	UniProtKB	Beta strand	353	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Beta strand	359	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Helix	364	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Helix	373	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Helix	394	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Beta strand	407	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NDE	
+Q92731	UniProtKB	Helix	411	413	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QKM	
+Q92731	UniProtKB	Helix	417	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1L2J	
+Q92731	UniProtKB	Helix	421	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Turn	443	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U3Q	
+Q92731	UniProtKB	Helix	448	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Beta strand	484	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5TOA	
+Q92731	UniProtKB	Helix	489	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3OLL	
+Q92731	UniProtKB	Helix	498	501	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZI1	

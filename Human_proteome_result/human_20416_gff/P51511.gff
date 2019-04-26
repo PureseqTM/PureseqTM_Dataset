@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P51511 1 669
+P51511	UniProtKB	Signal peptide	1	41	.	.	.	Note=Or 45;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51511	UniProtKB	Propeptide	42	131	.	.	.	ID=PRO_0000028808;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51511	UniProtKB	Chain	132	669	.	.	.	ID=PRO_0000028809;Note=Matrix metalloproteinase-15	
+P51511	UniProtKB	Topological domain	132	625	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51511	UniProtKB	Transmembrane	626	646	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51511	UniProtKB	Topological domain	647	669	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51511	UniProtKB	Repeat	367	415	.	.	.	Note=Hemopexin 1	
+P51511	UniProtKB	Repeat	416	461	.	.	.	Note=Hemopexin 2	
+P51511	UniProtKB	Repeat	463	511	.	.	.	Note=Hemopexin 3	
+P51511	UniProtKB	Repeat	512	559	.	.	.	Note=Hemopexin 4	
+P51511	UniProtKB	Motif	109	116	.	.	.	Note=Cysteine switch;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51511	UniProtKB	Compositional bias	331	340	.	.	.	Note=Poly-Pro	
+P51511	UniProtKB	Active site	260	260	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P51511	UniProtKB	Metal binding	111	111	.	.	.	Note=Zinc%3B in inhibited form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51511	UniProtKB	Metal binding	259	259	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P51511	UniProtKB	Metal binding	263	263	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P51511	UniProtKB	Metal binding	269	269	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10095	
+P51511	UniProtKB	Modified residue	589	589	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:24275569;Dbxref=PMID:18691976,PMID:24275569	
+P51511	UniProtKB	Glycosylation	150	150	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51511	UniProtKB	Disulfide bond	370	559	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51511	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_030523;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs41340745	
+P51511	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_030524;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs41335851	
+P51511	UniProtKB	Natural variant	596	596	.	.	.	ID=VAR_030525;Note=D->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16959974,ECO:0000269|Ref.2;Dbxref=dbSNP:rs41504346,PMID:16959974	
+P51511	UniProtKB	Natural variant	609	609	.	.	.	ID=VAR_020055;Note=G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9119382,ECO:0000269|Ref.2;Dbxref=dbSNP:rs3743563,PMID:9119382	
+P51511	UniProtKB	Natural variant	622	622	.	.	.	ID=VAR_030526;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs41434246	

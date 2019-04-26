@@ -1,0 +1,67 @@
+##gff-version 3
+##sequence-region P08319 1 380
+P08319	UniProtKB	Chain	1	380	.	.	.	ID=PRO_0000160681;Note=Alcohol dehydrogenase 4	
+P08319	UniProtKB	Nucleotide binding	48	49	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Nucleotide binding	205	210	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Nucleotide binding	298	300	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Nucleotide binding	323	325	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Metal binding	47	47	.	.	.	Note=Zinc 1%3B catalytic	
+P08319	UniProtKB	Metal binding	69	69	.	.	.	Note=Zinc 1%3B catalytic	
+P08319	UniProtKB	Metal binding	99	99	.	.	.	Note=Zinc 2	
+P08319	UniProtKB	Metal binding	102	102	.	.	.	Note=Zinc 2	
+P08319	UniProtKB	Metal binding	105	105	.	.	.	Note=Zinc 2	
+P08319	UniProtKB	Metal binding	113	113	.	.	.	Note=Zinc 2	
+P08319	UniProtKB	Metal binding	180	180	.	.	.	Note=Zinc 1%3B catalytic	
+P08319	UniProtKB	Binding site	229	229	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Binding site	234	234	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Binding site	375	375	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+P08319	UniProtKB	Modified residue	121	121	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P08319	UniProtKB	Modified residue	278	278	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P08319	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_036788;Note=In isoform 2. MGTKGK->MLVRGPHFELQRCKTHLFSSNYLTQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P08319	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_023461;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1126671,PMID:14702039,PMID:15489334	
+P08319	UniProtKB	Natural variant	318	318	.	.	.	ID=VAR_023462;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs29001219	
+P08319	UniProtKB	Natural variant	374	374	.	.	.	ID=VAR_023463;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1126673,PMID:14702039,PMID:15489334	
+P08319	UniProtKB	Sequence conflict	52	52	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08319	UniProtKB	Sequence conflict	52	52	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08319	UniProtKB	Sequence conflict	380	380	.	.	.	Note=F->FGRCQEQFRILSD;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08319	UniProtKB	Beta strand	8	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	23	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	36	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	48	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	63	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	70	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	100	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Turn	103	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	141	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Turn	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	152	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	162	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	172	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	176	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	181	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Turn	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	200	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	208	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	223	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	232	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	235	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	244	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	256	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	268	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	278	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Turn	290	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	293	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	307	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	311	315	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	318	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	325	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	330	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	349	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	352	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	358	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Helix	361	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	
+P08319	UniProtKB	Beta strand	374	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3COS	

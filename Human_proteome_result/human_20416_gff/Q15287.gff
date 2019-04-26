@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q15287 1 305
+Q15287	UniProtKB	Chain	1	305	.	.	.	ID=PRO_0000081816;Note=RNA-binding protein with serine-rich domain 1	
+Q15287	UniProtKB	Domain	161	240	.	.	.	Note=RRM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q15287	UniProtKB	Region	1	220	.	.	.	Note=Necessary for interaction with the cleaved p110 isoform of CDC2L1	
+Q15287	UniProtKB	Region	1	161	.	.	.	Note=Necessary for interaction with SRP54%2C nuclear localization and exon-skipping;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729963;Dbxref=PMID:14729963	
+Q15287	UniProtKB	Region	69	121	.	.	.	Note=Necessary for interactions with UPF2 and UPF3B and UPF2-dependent NMD	
+Q15287	UniProtKB	Region	156	242	.	.	.	Note=Necessary for interaction with PNN and exon-skipping	
+Q15287	UniProtKB	Region	159	244	.	.	.	Note=Interaction with SAP18 and ACIN1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20966198;Dbxref=PMID:20966198	
+Q15287	UniProtKB	Region	238	305	.	.	.	Note=Necessary for interaction with TRA2B%2C nuclear localization and exon-skipping;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729963;Dbxref=PMID:14729963	
+Q15287	UniProtKB	Compositional bias	7	64	.	.	.	Note=Lys-rich	
+Q15287	UniProtKB	Compositional bias	67	141	.	.	.	Note=Ser-rich	
+Q15287	UniProtKB	Compositional bias	128	154	.	.	.	Note=Arg-rich	
+Q15287	UniProtKB	Compositional bias	241	298	.	.	.	Note=Arg/Pro-rich	
+Q15287	UniProtKB	Modified residue	53	53	.	.	.	Note=Phosphoserine%3B by CK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15684395;Dbxref=PMID:15684395	
+Q15287	UniProtKB	Modified residue	155	155	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q15287	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q15287	UniProtKB	Modified residue	161	161	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q15287	UniProtKB	Modified residue	218	218	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q15287	UniProtKB	Cross-link	7	7	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15287	UniProtKB	Cross-link	15	15	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15287	UniProtKB	Alternative sequence	2	24	.	.	.	ID=VSP_016243;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.3;Dbxref=PMID:14702039	
+Q15287	UniProtKB	Alternative sequence	69	82	.	.	.	ID=VSP_037601;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15287	UniProtKB	Mutagenesis	53	53	.	.	.	Note=Abolishes phosphorylation by CSNK2A1 and partially reduces splicing stimulation. Does not abolish interaction with CSNK2A1 and subcellular localization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15684395;Dbxref=PMID:15684395	
+Q15287	UniProtKB	Mutagenesis	53	53	.	.	.	Note=Partially reduces splicing stimulation. Does not abolish interaction with CSNK2A1 and subcellular localization. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15684395;Dbxref=PMID:15684395	
+Q15287	UniProtKB	Mutagenesis	171	171	.	.	.	Note=Impairs interaction with SAP18. N->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22388736;Dbxref=PMID:22388736	
+Q15287	UniProtKB	Mutagenesis	205	205	.	.	.	Note=Abolishes exon-skipping. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729963;Dbxref=PMID:14729963	
+Q15287	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Abolishes exon-skipping. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729963;Dbxref=PMID:14729963	
+Q15287	UniProtKB	Sequence conflict	32	32	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15287	UniProtKB	Sequence conflict	66	66	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15287	UniProtKB	Sequence conflict	249	249	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15287	UniProtKB	Beta strand	162	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	
+Q15287	UniProtKB	Helix	174	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	
+Q15287	UniProtKB	Beta strand	187	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	
+Q15287	UniProtKB	Beta strand	198	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	
+Q15287	UniProtKB	Beta strand	204	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	
+Q15287	UniProtKB	Helix	213	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	
+Q15287	UniProtKB	Beta strand	234	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4A8X	

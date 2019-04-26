@@ -1,0 +1,54 @@
+##gff-version 3
+##sequence-region Q9NYZ4 1 499
+Q9NYZ4	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Chain	17	499	.	.	.	ID=PRO_0000014948;Note=Sialic acid-binding Ig-like lectin 8	
+Q9NYZ4	UniProtKB	Topological domain	17	363	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Transmembrane	364	384	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Topological domain	385	499	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Domain	40	123	.	.	.	Note=Ig-like V-type	
+Q9NYZ4	UniProtKB	Domain	157	240	.	.	.	Note=Ig-like C2-type 1	
+Q9NYZ4	UniProtKB	Domain	246	344	.	.	.	Note=Ig-like C2-type 2	
+Q9NYZ4	UniProtKB	Region	72	75	.	.	.	Note=Carbohydrate binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2N7B,ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Region	134	138	.	.	.	Note=Carbohydrate binding;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2N7B,ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Motif	445	450	.	.	.	Note=ITIM motif	
+Q9NYZ4	UniProtKB	Motif	468	473	.	.	.	Note=SLAM-like motif	
+Q9NYZ4	UniProtKB	Binding site	23	23	.	.	.	Note=Carbohydrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2N7B,ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Binding site	125	125	.	.	.	Note=Carbohydrate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:2N7B,ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Site	125	125	.	.	.	Note=Indispensable role in 6'-sulfo sialyl-Lewis X;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Glycosylation	172	172	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Glycosylation	249	249	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Glycosylation	267	267	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NYZ4	UniProtKB	Disulfide bond	42	181	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9NYZ4	UniProtKB	Disulfide bond	47	107	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:2N7A,ECO:0000244|PDB:2N7B,ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Disulfide bond	175	224	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9NYZ4	UniProtKB	Disulfide bond	283	328	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9NYZ4	UniProtKB	Alternative sequence	152	245	.	.	.	ID=VSP_002559;Note=In isoform 2. ALTHRPDILILGTLESGHSRNLTCSVPWACKQGTPPMISWIGASVSSPGPTTARSSVLTLTPKPQDHGTSLTCQVTLPGTGVTTTSTVRLDVSY->D;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q9NYZ4	UniProtKB	Alternative sequence	416	499	.	.	.	ID=VSP_002560;Note=In isoform 3. GPLTESWKDGNPLKKPPPAVAPSSGEEGELHYATLSFHKVKPQDPQGQEATDSEYSEIKIHKRETAETQACLRNHNPSSKEVRG->VSDVGFSTPSIQPGHL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10625619,ECO:0000303|PubMed:10856141;Dbxref=PMID:10625619,PMID:10856141	
+Q9NYZ4	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_021487;Note=S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs10409962,PMID:15489334	
+Q9NYZ4	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_064751;Note=Found in a renal cell carcinoma sample%3B somatic mutation. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21248752;Dbxref=PMID:21248752	
+Q9NYZ4	UniProtKB	Natural variant	388	388	.	.	.	ID=VAR_049930;Note=R->G;Dbxref=dbSNP:rs3829659	
+Q9NYZ4	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Strongly impaired binding to 6'-sulfo sialyl-Lewis X. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Mutagenesis	74	74	.	.	.	Note=Modestly affected binding to 6'-sulfo sialyl-Lewis X. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Mutagenesis	75	75	.	.	.	Note=Modestly affected binding to 6'-sulfo sialyl-Lewis X. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Abolishes binding to 6'-sulfo sialyl-Lewis X. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Mutagenesis	132	132	.	.	.	Note=Strongly impaired binding to 6'-sulfo sialyl-Lewis X. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Strongly impaired binding to 6'-sulfo sialyl-Lewis X. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Mutagenesis	138	138	.	.	.	Note=Minor effects on binding to 6'-sulfo sialyl-Lewis X. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27357658;Dbxref=PMID:27357658	
+Q9NYZ4	UniProtKB	Helix	18	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Turn	23	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	28	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	33	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	47	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	62	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Turn	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Turn	90	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	96	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Helix	102	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	109	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Helix	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	120	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	131	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	146	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	
+Q9NYZ4	UniProtKB	Beta strand	153	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7A	

@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q06643 1 244
+Q06643	UniProtKB	Chain	1	244	.	.	.	ID=PRO_0000185486;Note=Lymphotoxin-beta	
+Q06643	UniProtKB	Topological domain	1	18	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q06643	UniProtKB	Transmembrane	19	48	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q06643	UniProtKB	Topological domain	49	244	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q06643	UniProtKB	Glycosylation	222	222	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q06643	UniProtKB	Alternative sequence	53	77	.	.	.	ID=VSP_006441;Note=In isoform 2. GLVTETADPGAQAQQGLGFQKLPEE->GLGFRSCQRRSQKQISAPGSQLPTS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9299492;Dbxref=PMID:14702039,PMID:15489334,PMID:9299492	
+Q06643	UniProtKB	Alternative sequence	78	244	.	.	.	ID=VSP_006442;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9299492;Dbxref=PMID:14702039,PMID:15489334,PMID:9299492	
+Q06643	UniProtKB	Natural variant	70	70	.	.	.	ID=VAR_013025;Note=G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs3093554	
+Q06643	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_016331;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.7;Dbxref=dbSNP:rs4647186	
+Q06643	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_016332;Note=L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.7;Dbxref=dbSNP:rs4647187	
+Q06643	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_013026;Note=A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs3093555	
+Q06643	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_029145;Note=A->D;Dbxref=dbSNP:rs2229699	
+Q06643	UniProtKB	Sequence conflict	60	69	.	.	.	Note=DPGAQAQQGL->GLSAPGSGRT;Ontology_term=ECO:0000305;evidence=ECO:0000305	

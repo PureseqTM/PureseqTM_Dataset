@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P0C869 1 781
+P0C869	UniProtKB	Chain	1	781	.	.	.	ID=PRO_0000247021;Note=Cytosolic phospholipase A2 beta	
+P0C869	UniProtKB	Domain	1	97	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+P0C869	UniProtKB	Domain	246	781	.	.	.	Note=PLA2c;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00555	
+P0C869	UniProtKB	Active site	335	335	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0C869	UniProtKB	Active site	615	615	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0C869	UniProtKB	Alternative sequence	1	299	.	.	.	ID=VSP_019871;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P0C869	UniProtKB	Alternative sequence	1	3	.	.	.	ID=VSP_039387;Note=In isoform 2%2C isoform 3 and isoform 5. MAV->MAEAALEAVRSELREFPAAARELCVPLAVPYLDKPPTPLHFYRDWVCPNRPCIIRNALQHWPALQKWSLPYFRATVGSTEVSVAVTPDGYADAVRGDRFMMPAERRLPLSFVLDVLEGRAQHPGVLYVQKQCSNLPSELPQLLPDLESHVPWASEALGKMPDAVNFWLGEAAAVTSLHKDHYENLYCVVSGEKHFLFHPPSDRPFIPYELYTPATYQLTEEGTFKVVDEEAMEK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10085124,ECO:0000303|PubMed:10358058,ECO:0000303|PubMed:16617059;Dbxref=PMID:10085124,PMID:10358058,PMID:16617059	
+P0C869	UniProtKB	Alternative sequence	641	765	.	.	.	ID=VSP_039388;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16617059;Dbxref=PMID:16617059	
+P0C869	UniProtKB	Alternative sequence	650	662	.	.	.	ID=VSP_039389;Note=In isoform 2. QLQLLGRFCQEQG->GSGGHPRRRQLGR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16617059;Dbxref=PMID:16617059	
+P0C869	UniProtKB	Alternative sequence	663	781	.	.	.	ID=VSP_039390;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16617059;Dbxref=PMID:16617059	
+P0C869	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_027047;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs3816533,PMID:14702039	
+P0C869	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_027048;Note=M->I;Dbxref=dbSNP:rs2290552	
+P0C869	UniProtKB	Natural variant	391	391	.	.	.	ID=VAR_034365;Note=R->H;Dbxref=dbSNP:rs34807597	
+P0C869	UniProtKB	Natural variant	591	591	.	.	.	ID=VAR_060082;Note=T->I;Dbxref=dbSNP:rs36126315	
+P0C869	UniProtKB	Mutagenesis	335	335	.	.	.	Note=Abolishes enzyme activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+P0C869	UniProtKB	Mutagenesis	417	417	.	.	.	Note=No effect. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+P0C869	UniProtKB	Mutagenesis	615	615	.	.	.	Note=Abolishes enzyme activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+P0C869	UniProtKB	Mutagenesis	632	632	.	.	.	Note=Abolishes enzyme activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+P0C869	UniProtKB	Sequence conflict	138	138	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C869	UniProtKB	Sequence conflict	162	162	.	.	.	Note=Q->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C869	UniProtKB	Sequence conflict	162	162	.	.	.	Note=Q->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C869	UniProtKB	Sequence conflict	438	438	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C869	UniProtKB	Sequence conflict	517	517	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C869	UniProtKB	Sequence conflict	575	575	.	.	.	Note=R->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C869	UniProtKB	Sequence conflict	723	723	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	

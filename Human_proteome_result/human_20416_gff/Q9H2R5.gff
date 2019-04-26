@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q9H2R5 1 256
+Q9H2R5	UniProtKB	Signal peptide	1	16	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H2R5	UniProtKB	Propeptide	17	21	.	.	.	ID=PRO_0000027960;Note=Activation peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H2R5	UniProtKB	Chain	22	256	.	.	.	ID=PRO_0000027961;Note=Kallikrein-15	
+Q9H2R5	UniProtKB	Domain	22	254	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q9H2R5	UniProtKB	Active site	62	62	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H2R5	UniProtKB	Active site	106	106	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H2R5	UniProtKB	Active site	209	209	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H2R5	UniProtKB	Glycosylation	171	171	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H2R5	UniProtKB	Glycosylation	232	232	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H2R5	UniProtKB	Disulfide bond	47	63	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q9H2R5	UniProtKB	Disulfide bond	138	215	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q9H2R5	UniProtKB	Disulfide bond	180	194	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q9H2R5	UniProtKB	Disulfide bond	205	230	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+Q9H2R5	UniProtKB	Alternative sequence	15	15	.	.	.	ID=VSP_054621;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9H2R5	UniProtKB	Alternative sequence	122	256	.	.	.	ID=VSP_005405;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H2R5	UniProtKB	Alternative sequence	122	206	.	.	.	ID=VSP_005404;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H2R5	UniProtKB	Alternative sequence	161	161	.	.	.	ID=VSP_005406;Note=In isoform 3. V->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H2R5	UniProtKB	Alternative sequence	162	256	.	.	.	ID=VSP_005407;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H2R5	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_020179;Note=P->L;Dbxref=dbSNP:rs3212805	
+Q9H2R5	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_036298;Note=In a breast cancer sample%3B somatic mutation. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9H2R5	UniProtKB	Sequence conflict	147	160	.	.	.	Note=SHNEPGTAGSPRSQ->PLSSP;Ontology_term=ECO:0000305;evidence=ECO:0000305	

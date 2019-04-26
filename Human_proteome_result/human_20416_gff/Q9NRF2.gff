@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q9NRF2 1 756
+Q9NRF2	UniProtKB	Chain	1	756	.	.	.	ID=PRO_0000323593;Note=SH2B adapter protein 1	
+Q9NRF2	UniProtKB	Domain	267	376	.	.	.	Note=PH	
+Q9NRF2	UniProtKB	Domain	527	625	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q9NRF2	UniProtKB	Region	1	555	.	.	.	Note=Interaction with JAK2 (low-affinity binding%3B independent of JAK2 phosphorylation);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRF2	UniProtKB	Region	24	85	.	.	.	Note=Required for self-association	
+Q9NRF2	UniProtKB	Region	85	196	.	.	.	Note=Interaction with RAC1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRF2	UniProtKB	Region	100	243	.	.	.	Note=Required for NGF signaling;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRF2	UniProtKB	Region	224	233	.	.	.	Note=Required for nuclear localization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRF2	UniProtKB	Modified residue	88	88	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91ZM2	
+Q9NRF2	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:18669648;Dbxref=PMID:18220336,PMID:18669648	
+Q9NRF2	UniProtKB	Modified residue	270	270	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+Q9NRF2	UniProtKB	Modified residue	417	417	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91ZM2	
+Q9NRF2	UniProtKB	Modified residue	420	420	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91ZM2	
+Q9NRF2	UniProtKB	Modified residue	439	439	.	.	.	Note=Phosphotyrosine%3B by JAK1%2C JAK2 and PDGFR;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62985	
+Q9NRF2	UniProtKB	Modified residue	494	494	.	.	.	Note=Phosphotyrosine%3B by JAK1%2C JAK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62985	
+Q9NRF2	UniProtKB	Alternative sequence	633	756	.	.	.	ID=VSP_032027;Note=In isoform 2. EPTTSHDPPQPPEPPSWTDPPQPGAEEASRAPEVAAAAAAAAKERQEKEKAGGGGVPEELVPVVELVPVVELEEAIAPGSEAQGAGSGGDAGVPPMVQLQQSPLGGDGEEGGHPRAINNQYSFV->GREQAGSHAGVCEGDGCHPDASCTLMPFGASDCVTDHLP;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10718198,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:15767667,ECO:0000303|PubMed:17974005;Dbxref=PMID:10718198,PMID:14702039,PMID:15489334,PMID:15767667,PMID:17974005	
+Q9NRF2	UniProtKB	Alternative sequence	633	756	.	.	.	ID=VSP_032028;Note=In isoform 3. EPTTSHDPPQPPEPPSWTDPPQPGAEEASRAPEVAAAAAAAAKERQEKEKAGGGGVPEELVPVVELVPVVELEEAIAPGSEAQGAGSGGDAGVPPMVQLQQSPLGGDGEEGGHPRAINNQYSFV->GEQSRSAGEEVPVHPRSEAGSRLGAMRGCAREMDATPMPPAPSCPSERVTV;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15767667,ECO:0000303|PubMed:17974005;Dbxref=PMID:15767667,PMID:17974005	
+Q9NRF2	UniProtKB	Natural variant	484	484	.	.	.	ID=VAR_039550;Note=T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15767667,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs7498665,PMID:15767667,PMID:17974005	
+Q9NRF2	UniProtKB	Natural variant	541	541	.	.	.	ID=VAR_039551;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10718198;Dbxref=dbSNP:rs17850682,PMID:10718198	
+Q9NRF2	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. F->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	34	34	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	41	41	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	72	72	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Mutagenesis	555	555	.	.	.	Note=Abolishes self-association and interaction with INSR and IGF1R. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15767667;Dbxref=PMID:15767667	
+Q9NRF2	UniProtKB	Sequence conflict	197	197	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NRF2	UniProtKB	Sequence conflict	519	519	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NRF2	UniProtKB	Helix	522	524	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	528	531	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Helix	534	542	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Helix	545	548	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	551	556	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	558	560	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	564	570	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	573	581	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	587	589	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	592	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Helix	597	606	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	
+Q9NRF2	UniProtKB	Beta strand	614	616	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W3R	

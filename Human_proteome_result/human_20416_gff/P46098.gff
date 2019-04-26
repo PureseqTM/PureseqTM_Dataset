@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P46098 1 478
+P46098	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Chain	24	478	.	.	.	ID=PRO_0000000408;Note=5-hydroxytryptamine receptor 3A	
+P46098	UniProtKB	Topological domain	24	241	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Transmembrane	242	268	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Topological domain	269	273	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Transmembrane	274	292	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Topological domain	293	302	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Transmembrane	303	321	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Topological domain	322	455	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Transmembrane	456	475	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Topological domain	476	478	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Region	414	450	.	.	.	Note=HA-stretch	
+P46098	UniProtKB	Glycosylation	28	28	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Glycosylation	104	104	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Glycosylation	170	170	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Glycosylation	186	186	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P46098	UniProtKB	Disulfide bond	157	171	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P46098	UniProtKB	Alternative sequence	1	22	.	.	.	ID=VSP_042214;Note=In isoform 3. MLLWVQQALLALLLPTLLAQGE->MHRSFLQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P46098	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_043484;Note=In isoform 4 and isoform 5. M->MLGKLAM;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15028279,ECO:0000303|Ref.6;Dbxref=PMID:15028279	
+P46098	UniProtKB	Alternative sequence	306	306	.	.	.	ID=VSP_000078;Note=In isoform 2 and isoform 5. G->GKAPPGSRAQSGEKPAPSHLLHVSLASALGCTG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15028279,ECO:0000303|PubMed:9928262;Dbxref=PMID:15028279,PMID:9928262	
+P46098	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_037398;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15293096;Dbxref=dbSNP:rs117793058,PMID:15293096	
+P46098	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_037399;Note=S->N;Dbxref=dbSNP:rs4938063	
+P46098	UniProtKB	Natural variant	344	344	.	.	.	ID=VAR_037400;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16487942;Dbxref=dbSNP:rs35815285,PMID:16487942	
+P46098	UniProtKB	Natural variant	391	391	.	.	.	ID=VAR_037401;Note=P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16487942;Dbxref=PMID:16487942	
+P46098	UniProtKB	Natural variant	409	409	.	.	.	ID=VAR_037402;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16487942;Dbxref=dbSNP:rs183698487,PMID:16487942	
+P46098	UniProtKB	Mutagenesis	178	178	.	.	.	Note=Abolished ligand binding to the heteromeric receptor. W->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17392525;Dbxref=PMID:17392525	
+P46098	UniProtKB	Mutagenesis	432	432	.	.	.	Note=Little effect on conductance. Massive increase of conductance%3B when associated with D-436 and A-440. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12867984;Dbxref=PMID:12867984	
+P46098	UniProtKB	Mutagenesis	436	436	.	.	.	Note=Increased conductance. Massive increase of conductance%3B when associated with Q-432 and A-440. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12867984;Dbxref=PMID:12867984	
+P46098	UniProtKB	Mutagenesis	440	440	.	.	.	Note=Increased conductance. Massive increase of conductance%3B when associated with Q-432 and D-436. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12867984;Dbxref=PMID:12867984	
+P46098	UniProtKB	Sequence conflict	46	46	.	.	.	Note=R->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P46098	UniProtKB	Sequence conflict	125	125	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P46098	UniProtKB	Sequence conflict	321	321	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P46098	UniProtKB	Sequence conflict	386	386	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

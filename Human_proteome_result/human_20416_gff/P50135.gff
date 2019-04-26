@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region P50135 1 292
+P50135	UniProtKB	Chain	1	292	.	.	.	ID=PRO_0000084021;Note=Histamine N-methyltransferase	
+P50135	UniProtKB	Binding site	28	28	.	.	.	Note=Substrate	
+P50135	UniProtKB	Binding site	60	60	.	.	.	Note=S-adenosyl-L-methionine%3B via carbonyl oxygen	
+P50135	UniProtKB	Binding site	89	89	.	.	.	Note=S-adenosyl-L-methionine	
+P50135	UniProtKB	Binding site	94	94	.	.	.	Note=S-adenosyl-L-methionine	
+P50135	UniProtKB	Binding site	120	120	.	.	.	Note=S-adenosyl-L-methionine%3B via amide nitrogen	
+P50135	UniProtKB	Binding site	142	142	.	.	.	Note=S-adenosyl-L-methionine%3B via carbonyl oxygen	
+P50135	UniProtKB	Binding site	283	283	.	.	.	Note=Substrate	
+P50135	UniProtKB	Alternative sequence	47	51	.	.	.	ID=VSP_043482;Note=In isoform 3. IGDTK->YQNCC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P50135	UniProtKB	Alternative sequence	52	292	.	.	.	ID=VSP_043483;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P50135	UniProtKB	Alternative sequence	64	292	.	.	.	ID=VSP_042027;Note=In isoform 2. GEIDLQILSKVQAQYPGVCINNEVVEPSAEQIAKYKELVAKTSNLENVKFAWHKETSSEYQSRMLEKKELQKWDFIHMIQMLYYVKDIPATLKFFHSLLGTNAKMLIIVVSGSSGWDKLWKKYGSRFPQDDLCQYITSDDLTQMLDNLGLKYECYDLLSTMDISDCFIDGNENGDLLWDFLTETCNFNATAPPDLRAELGKDLQEPEFSAKKEGKVLFNNTLSFIVIEA->DCLIRGSSRVLKRNSCFILCSTRQKDKPGMRIHDERSSELPFGAARLESKSAFPSFLVSFILF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14667820;Dbxref=PMID:14667820	
+P50135	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_076312;Note=In MRT51%3B no effect on protein abundance%3B no effect on protein localization to the cytoplasm%3B decreased thermal stability%3B decreased ligand affinity for S-adenosyl-L-methionine%3B loss of histamine N-methyltransferase activity. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26206890;Dbxref=dbSNP:rs758252808,PMID:26206890	
+P50135	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_010252;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10803682,ECO:0000269|PubMed:9547362;Dbxref=dbSNP:rs11558538,PMID:10803682,PMID:9547362	
+P50135	UniProtKB	Natural variant	208	208	.	.	.	ID=VAR_076313;Note=In MRT51%3B loss of protein solubility%3B increased aggregation in the cytoplasm. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26206890;Dbxref=dbSNP:rs745756308,PMID:26206890	
+P50135	UniProtKB	Sequence conflict	199	199	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50135	UniProtKB	Sequence conflict	234	234	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50135	UniProtKB	Helix	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	12	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	28	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	44	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Turn	47	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	52	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	65	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	82	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	92	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	120	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Turn	129	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	136	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	145	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	151	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	162	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOW	
+P50135	UniProtKB	Helix	178	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	187	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	201	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	215	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	223	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	227	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	235	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	247	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	250	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Helix	256	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Turn	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	272	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	278	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	
+P50135	UniProtKB	Beta strand	285	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AOT	

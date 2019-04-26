@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region Q13901 1 141
+Q13901	UniProtKB	Chain	1	141	.	.	.	ID=PRO_0000316300;Note=Nuclear nucleic acid-binding protein C1D	
+Q13901	UniProtKB	Region	1	100	.	.	.	Note=Required for transcriptional repression;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13901	UniProtKB	Region	50	100	.	.	.	Note=Interaction with NR1D1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13901	UniProtKB	Region	100	141	.	.	.	Note=Interaction with NCOR1 and NCOR2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13901	UniProtKB	Cross-link	119	119	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25772364,PMID:28112733	
+Q13901	UniProtKB	Cross-link	126	126	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13901	UniProtKB	Cross-link	132	132	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q13901	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_053990;Note=S->P;Dbxref=dbSNP:rs10444	
+Q13901	UniProtKB	Sequence conflict	76	76	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q99426 1 244
+Q99426	UniProtKB	Chain	1	244	.	.	.	ID=PRO_0000083534;Note=Tubulin-folding cofactor B	
+Q99426	UniProtKB	Domain	183	225	.	.	.	Note=CAP-Gly;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00045	
+Q99426	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22223895;Dbxref=PMID:22223895	
+Q99426	UniProtKB	Modified residue	65	65	.	.	.	Note=Phosphoserine%3B by PAK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15831477;Dbxref=PMID:15831477	
+Q99426	UniProtKB	Modified residue	98	98	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:15144186,ECO:0000244|PubMed:15592455;Dbxref=PMID:15144186,PMID:15592455	
+Q99426	UniProtKB	Modified residue	110	110	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:23186163;Dbxref=PMID:17525332,PMID:23186163	
+Q99426	UniProtKB	Modified residue	128	128	.	.	.	Note=Phosphoserine%3B by PAK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15831477;Dbxref=PMID:15831477	
+Q99426	UniProtKB	Modified residue	219	219	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q99426	UniProtKB	Alternative sequence	1	51	.	.	.	ID=VSP_055521;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q99426	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Reduced phosphorylation by PAK1. Reduced microtubule polymerization and loss of phosphorylation by PAK1%3B when associated with A-128. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15831477;Dbxref=PMID:15831477	
+Q99426	UniProtKB	Mutagenesis	128	128	.	.	.	Note=Reduced phosphorylation by PAK1. Reduced microtubule polymerization and loss of phosphorylation by PAK1%3B when associated with A-65. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15831477;Dbxref=PMID:15831477	
+Q99426	UniProtKB	Sequence conflict	128	128	.	.	.	Note=S->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P01111 1 189
+P01111	UniProtKB	Chain	1	186	.	.	.	ID=PRO_0000043006;Note=GTPase NRas	
+P01111	UniProtKB	Propeptide	187	189	.	.	.	ID=PRO_0000043007;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P01111	UniProtKB	Nucleotide binding	10	18	.	.	.	Note=GTP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.22	
+P01111	UniProtKB	Nucleotide binding	29	30	.	.	.	Note=GTP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.22	
+P01111	UniProtKB	Nucleotide binding	57	61	.	.	.	Note=GTP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01111	UniProtKB	Nucleotide binding	116	119	.	.	.	Note=GTP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.22	
+P01111	UniProtKB	Region	166	185	.	.	.	Note=Hypervariable region	
+P01111	UniProtKB	Motif	32	40	.	.	.	Note=Effector region	
+P01111	UniProtKB	Modified residue	186	186	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P01111	UniProtKB	Lipidation	181	181	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16000296,ECO:0000269|PubMed:2661017,ECO:0000269|PubMed:26701913;Dbxref=PMID:16000296,PMID:2661017,PMID:26701913	
+P01111	UniProtKB	Lipidation	186	186	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2661017;Dbxref=PMID:2661017	
+P01111	UniProtKB	Cross-link	170	170	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:30442762;Dbxref=PMID:30442762	
+P01111	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_021194;Note=In leukemia. G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2998510;Dbxref=dbSNP:rs121913250,PMID:2998510	
+P01111	UniProtKB	Natural variant	12	12	.	.	.	ID=VAR_071129;Note=In KNEN and JMML. G->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17332249,ECO:0000269|PubMed:22499344;Dbxref=dbSNP:rs121913237,PMID:17332249,PMID:22499344	
+P01111	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_063084;Note=In RALD and JMML. G->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17332249,ECO:0000269|PubMed:17517660;Dbxref=dbSNP:rs121434596,PMID:17332249,PMID:17517660	
+P01111	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_006845;Note=In CMNS and colorectal cancer%3B somatic mutation. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18633438,ECO:0000269|PubMed:3102434;Dbxref=dbSNP:rs121434595,PMID:18633438,PMID:3102434	
+P01111	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_071130;Note=In KNEN. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22499344;Dbxref=dbSNP:rs397514553,PMID:22499344	
+P01111	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_063085;Note=In NS6%3B hypermorphic mutation. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19966803;Dbxref=dbSNP:rs267606921,PMID:19966803	
+P01111	UniProtKB	Natural variant	60	60	.	.	.	ID=VAR_063086;Note=In NS6%3B hypermorphic mutation. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19966803;Dbxref=dbSNP:rs267606920,PMID:19966803	
+P01111	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_006846;Note=In CMNS and NCMS%3B somatic mutation. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23392294;Dbxref=dbSNP:rs121913254,PMID:23392294	
+P01111	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_006847;Note=In CMNS%2C NCMS%2C KNEN and NMTC2%3B also found in lung carcinoma cell and melanoma. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12727991,ECO:0000269|PubMed:18633438,ECO:0000269|PubMed:22499344,ECO:0000269|PubMed:23392294,ECO:0000269|PubMed:3276402;Dbxref=dbSNP:rs11554290,PMID:12727991,PMID:18633438,PMID:22499344,PMID:23392294,PMID:3276402	
+P01111	UniProtKB	Mutagenesis	164	164	.	.	.	Note=Loss of GTP-binding activity. R->A	
+P01111	UniProtKB	Mutagenesis	181	181	.	.	.	Note=Loss of plasma membrane localization. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26701913;Dbxref=PMID:26701913	
+P01111	UniProtKB	Beta strand	2	9	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Helix	16	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Beta strand	38	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Beta strand	49	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Helix	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UHV	
+P01111	UniProtKB	Helix	65	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UHV	
+P01111	UniProtKB	Turn	72	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UHV	
+P01111	UniProtKB	Beta strand	76	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Helix	87	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Helix	127	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Beta strand	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Turn	146	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	
+P01111	UniProtKB	Helix	152	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3CON	

@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q9NRY6 1 295
+Q9NRY6	UniProtKB	Chain	1	295	.	.	.	ID=PRO_0000100789;Note=Phospholipid scramblase 3	
+Q9NRY6	UniProtKB	Topological domain	1	265	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRY6	UniProtKB	Transmembrane	266	282	.	.	.	Note=Helical;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRY6	UniProtKB	Topological domain	283	295	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRY6	UniProtKB	Region	1	57	.	.	.	Note=Proline-rich domain (PRD);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NRY6	UniProtKB	Motif	7	15	.	.	.	Note=SH3-binding 1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRY6	UniProtKB	Motif	15	18	.	.	.	Note=PPxY motif;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRY6	UniProtKB	Motif	21	27	.	.	.	Note=SH3-binding 2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRY6	UniProtKB	Motif	65	70	.	.	.	Note=SH3-binding 3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NRY6	UniProtKB	Compositional bias	12	19	.	.	.	Note=Poly-Pro	
+Q9NRY6	UniProtKB	Compositional bias	158	165	.	.	.	Note=Cys-rich	
+Q9NRY6	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphothreonine%3B by PKC/PRKCD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17226776;Dbxref=PMID:17226776	
+Q9NRY6	UniProtKB	Lipidation	162	162	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O15162	
+Q9NRY6	UniProtKB	Lipidation	163	163	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O15162	
+Q9NRY6	UniProtKB	Lipidation	165	165	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O15162	
+Q9NRY6	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_015568;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10930526,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4;Dbxref=dbSNP:rs3744549,PMID:10930526,PMID:14702039,PMID:15489334	
+Q9NRY6	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Fails to enhance apoptosis mediated by PRKCD activators. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17226776;Dbxref=PMID:17226776	
+Q9NRY6	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Promotes apoptosis%2C more potent in lipid flippase activity. T->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17226776;Dbxref=PMID:17226776	
+Q9NRY6	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Reduces interaction with PDCD6. Abolishes interaction with PDCD6%3B when associated with A-52. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256029;Dbxref=PMID:18256029	
+Q9NRY6	UniProtKB	Mutagenesis	49	49	.	.	.	Note=No effect on the interaction with PDCD6. F->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256029;Dbxref=PMID:18256029	
+Q9NRY6	UniProtKB	Mutagenesis	49	49	.	.	.	Note=Reduces interaction with PDCD6. F->Y%2CL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256029;Dbxref=PMID:18256029	
+Q9NRY6	UniProtKB	Mutagenesis	52	52	.	.	.	Note=Abolishes interaction with PDCD6%3B when associated with A-49. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18256029;Dbxref=PMID:18256029	
+Q9NRY6	UniProtKB	Sequence conflict	149	149	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

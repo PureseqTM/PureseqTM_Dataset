@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region P18846 1 271
+P18846	UniProtKB	Chain	1	271	.	.	.	ID=PRO_0000076575;Note=Cyclic AMP-dependent transcription factor ATF-1	
+P18846	UniProtKB	Domain	31	90	.	.	.	Note=KID;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00312	
+P18846	UniProtKB	Domain	213	271	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18846	UniProtKB	Region	215	239	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18846	UniProtKB	Region	241	262	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18846	UniProtKB	Site	110	110	.	.	.	Note=Breakpoint for translocation to form chimeric EWSR1/ATF1 protein	
+P18846	UniProtKB	Site	112	112	.	.	.	Note=Breakpoint for translocation to form chimeric FUS/ATF1 protein	
+P18846	UniProtKB	Modified residue	63	63	.	.	.	Note=Phosphoserine%3B by CaMK1%2C CDK3%2C RPS6KA4 and RPS6KA5;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:18794154,ECO:0000305|PubMed:8621702;Dbxref=PMID:18794154,PMID:8621702	
+P18846	UniProtKB	Modified residue	198	198	.	.	.	Note=Phosphoserine%3B by HIPK2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000255|PROSITE-ProRule:PRU00312,ECO:0000269|PubMed:20980392;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163,PMID:20980392	
+P18846	UniProtKB	Cross-link	208	208	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P18846	UniProtKB	Cross-link	215	215	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P18846	UniProtKB	Alternative sequence	1	135	.	.	.	ID=VSP_055559;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P18846	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_024382;Note=P->A;Dbxref=dbSNP:rs2230674	
+P18846	UniProtKB	Mutagenesis	63	63	.	.	.	Note=Impaired CDK3-mediated phosphorylation and altered transactivation and transcriptional activities. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18794154;Dbxref=PMID:18794154	
+P18846	UniProtKB	Sequence conflict	55	55	.	.	.	Note=H->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18846	UniProtKB	Sequence conflict	227	227	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	

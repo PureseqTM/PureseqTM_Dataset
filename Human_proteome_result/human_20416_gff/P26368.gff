@@ -1,0 +1,66 @@
+##gff-version 3
+##sequence-region P26368 1 475
+P26368	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|Ref.4;Dbxref=PMID:19413330,PMID:20068231,PMID:22223895,PMID:22814378	
+P26368	UniProtKB	Chain	2	475	.	.	.	ID=PRO_0000081988;Note=Splicing factor U2AF 65 kDa subunit	
+P26368	UniProtKB	Domain	149	231	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+P26368	UniProtKB	Domain	259	337	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+P26368	UniProtKB	Domain	385	466	.	.	.	Note=RRM 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+P26368	UniProtKB	Region	2	93	.	.	.	Note=Required for interaction with PRPF19;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21536736;Dbxref=PMID:21536736	
+P26368	UniProtKB	Region	17	47	.	.	.	Note=Necessary and sufficient to stimulate pre-mRNAs 3'-end cleavage in a CFIm complex-dependent manner;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17024186;Dbxref=PMID:17024186	
+P26368	UniProtKB	Compositional bias	27	62	.	.	.	Note=Arg/Ser-rich (RS domain)	
+P26368	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|Ref.4;Dbxref=PMID:19413330,PMID:20068231,PMID:22223895,PMID:22814378	
+P26368	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:20068231,PMID:21406692,PMID:23186163	
+P26368	UniProtKB	Modified residue	15	15	.	.	.	Note=5-hydroxylysine%3B by JMJD6%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19574390;Dbxref=PMID:19574390	
+P26368	UniProtKB	Modified residue	70	70	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P26368	UniProtKB	Modified residue	79	79	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:23186163,PMID:24275569	
+P26368	UniProtKB	Modified residue	276	276	.	.	.	Note=5-hydroxylysine%3B by JMJD6;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19574390;Dbxref=PMID:19574390	
+P26368	UniProtKB	Modified residue	294	294	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P26368	UniProtKB	Cross-link	15	15	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P26368	UniProtKB	Cross-link	70	70	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+P26368	UniProtKB	Alternative sequence	345	348	.	.	.	ID=VSP_035414;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P26368	UniProtKB	Mutagenesis	92	92	.	.	.	Note=Decreases affinity for UAF1 by 3 orders of magnitude. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11551507;Dbxref=PMID:11551507	
+P26368	UniProtKB	Mutagenesis	96	96	.	.	.	Note=Decreases affinity for UAF1 by 2 orders of magnitude. P->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11551507;Dbxref=PMID:11551507	
+P26368	UniProtKB	Mutagenesis	104	104	.	.	.	Note=Decreases affinity for UAF1 by 2 orders of magnitude. P->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11551507;Dbxref=PMID:11551507	
+P26368	UniProtKB	Mutagenesis	387	388	.	.	.	Note=Reduces interaction with SF1. EE->RR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12718882;Dbxref=PMID:12718882	
+P26368	UniProtKB	Mutagenesis	391	394	.	.	.	Note=Reduces interaction with SF1. DDEE->AAAA	
+P26368	UniProtKB	Mutagenesis	391	394	.	.	.	Note=Reduces interaction with SF1. DDEE->RRKK	
+P26368	UniProtKB	Mutagenesis	396	397	.	.	.	Note=No effect. EE->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12718882;Dbxref=PMID:12718882	
+P26368	UniProtKB	Mutagenesis	396	397	.	.	.	Note=Reduces interaction with SF1. EE->GA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12718882;Dbxref=PMID:12718882	
+P26368	UniProtKB	Mutagenesis	396	397	.	.	.	Note=Reduces interaction with SF1. EE->KK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12718882;Dbxref=PMID:12718882	
+P26368	UniProtKB	Mutagenesis	454	454	.	.	.	Note=Reduces interaction with SF1. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12718882;Dbxref=PMID:12718882	
+P26368	UniProtKB	Helix	104	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1JMT	
+P26368	UniProtKB	Helix	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EV3	
+P26368	UniProtKB	Beta strand	150	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Helix	162	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Beta strand	180	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Beta strand	185	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Turn	193	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EV3	
+P26368	UniProtKB	Beta strand	197	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Helix	205	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Helix	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Beta strand	219	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U2F	
+P26368	UniProtKB	Beta strand	225	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0G	
+P26368	UniProtKB	Beta strand	238	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YH0	
+P26368	UniProtKB	Beta strand	244	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YH1	
+P26368	UniProtKB	Beta strand	260	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Helix	272	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Beta strand	281	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2U2F	
+P26368	UniProtKB	Beta strand	285	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Turn	294	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Beta strand	299	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Helix	310	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Beta strand	326	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2U2F	
+P26368	UniProtKB	Beta strand	331	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5W0H	
+P26368	UniProtKB	Helix	335	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EV3	
+P26368	UniProtKB	Beta strand	376	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Helix	386	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Helix	392	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Turn	407	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O0P	
+P26368	UniProtKB	Beta strand	414	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Turn	422	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Turn	427	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Beta strand	431	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Helix	439	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Beta strand	454	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1O0P	
+P26368	UniProtKB	Beta strand	460	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	
+P26368	UniProtKB	Helix	466	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4FXW	

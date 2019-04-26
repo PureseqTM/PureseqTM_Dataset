@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region P01135 1 160
+P01135	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01135	UniProtKB	Chain	24	160	.	.	.	ID=PRO_0000302744;Note=Protransforming growth factor alpha	
+P01135	UniProtKB	Propeptide	24	39	.	.	.	ID=PRO_0000007752;Note=Removed in mature form	
+P01135	UniProtKB	Chain	40	89	.	.	.	ID=PRO_0000007753;Note=Transforming growth factor alpha	
+P01135	UniProtKB	Propeptide	90	160	.	.	.	ID=PRO_0000007754;Note=Removed in mature form	
+P01135	UniProtKB	Topological domain	24	98	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01135	UniProtKB	Transmembrane	99	124	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01135	UniProtKB	Topological domain	125	160	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01135	UniProtKB	Domain	43	83	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P01135	UniProtKB	Lipidation	153	153	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8910478;Dbxref=PMID:8910478	
+P01135	UniProtKB	Lipidation	154	154	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8910478;Dbxref=PMID:8910478	
+P01135	UniProtKB	Glycosylation	25	25	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P01135	UniProtKB	Disulfide bond	47	60	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:1632509;Dbxref=PMID:1632509	
+P01135	UniProtKB	Disulfide bond	55	71	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:1632509;Dbxref=PMID:1632509	
+P01135	UniProtKB	Disulfide bond	73	82	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:1632509;Dbxref=PMID:1632509	
+P01135	UniProtKB	Alternative sequence	32	32	.	.	.	ID=VSP_038369;Note=In isoform 2%2C isoform 3 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10523832,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.7;Dbxref=PMID:10523832,PMID:15489334	
+P01135	UniProtKB	Alternative sequence	159	160	.	.	.	ID=VSP_038370;Note=In isoform 3. VV->ATLG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10523832;Dbxref=PMID:10523832	
+P01135	UniProtKB	Alternative sequence	159	160	.	.	.	ID=VSP_038371;Note=In isoform 4 and isoform 5. VV->GCRLY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10523832;Dbxref=PMID:10523832	
+P01135	UniProtKB	Natural variant	109	109	.	.	.	ID=VAR_024271;Note=V->M;Dbxref=dbSNP:rs11466259	
+P01135	UniProtKB	Sequence conflict	58	58	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01135	UniProtKB	Sequence conflict	65	65	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01135	UniProtKB	Sequence conflict	159	159	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01135	UniProtKB	Beta strand	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MOX	
+P01135	UniProtKB	Helix	51	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YUF	
+P01135	UniProtKB	Beta strand	58	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MOX	
+P01135	UniProtKB	Turn	64	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MOX	
+P01135	UniProtKB	Beta strand	68	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MOX	
+P01135	UniProtKB	Beta strand	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1MOX	
+P01135	UniProtKB	Beta strand	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KN5	

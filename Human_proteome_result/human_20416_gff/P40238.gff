@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P40238 1 635
+P40238	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Chain	26	635	.	.	.	ID=PRO_0000010987;Note=Thrombopoietin receptor	
+P40238	UniProtKB	Topological domain	26	491	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Transmembrane	492	513	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Topological domain	514	635	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Domain	172	281	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P40238	UniProtKB	Domain	392	486	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P40238	UniProtKB	Motif	474	478	.	.	.	Note=WSXWS motif	
+P40238	UniProtKB	Motif	528	536	.	.	.	Note=Box 1 motif	
+P40238	UniProtKB	Compositional bias	335	338	.	.	.	Note=Poly-Glu	
+P40238	UniProtKB	Compositional bias	508	513	.	.	.	Note=Poly-Leu	
+P40238	UniProtKB	Glycosylation	117	117	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Glycosylation	178	178	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Glycosylation	298	298	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Glycosylation	358	358	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P40238	UniProtKB	Disulfide bond	40	50	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P40238	UniProtKB	Disulfide bond	77	93	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P40238	UniProtKB	Disulfide bond	291	301	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P40238	UniProtKB	Disulfide bond	323	334	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P40238	UniProtKB	Cross-link	553	553	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19880496;Dbxref=PMID:19880496	
+P40238	UniProtKB	Cross-link	573	573	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)	
+P40238	UniProtKB	Alternative sequence	523	579	.	.	.	ID=VSP_001734;Note=In isoform 2. RLRHALWPSLPDLHRVLGQYLRDTAALSPPKATVSDTCEEVEPSLLEILPKSSERTP->YRPRQAGDWRWTRWSRTCKQAFLVRSVTPDLRPPPVRTYGFALPARHLWDSPRLLTL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1608974;Dbxref=PMID:1608974	
+P40238	UniProtKB	Alternative sequence	580	635	.	.	.	ID=VSP_001735;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:1608974;Dbxref=PMID:1608974	
+P40238	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_049173;Note=Functional polymorphism associated with thrombocytosis%3B results in altered MPL expression. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15269348;Dbxref=dbSNP:rs17292650,PMID:15269348	
+P40238	UniProtKB	Natural variant	58	58	.	.	.	ID=VAR_011988;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6087,PMID:10391209	
+P40238	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_073030;Note=In CAMT. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=dbSNP:rs763568293,PMID:16470591	
+P40238	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_073031;Note=In CAMT%3B loss of function%3B loss of membrane localization%2C impaired glycosylation. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16470591,ECO:0000269|PubMed:25538044;Dbxref=dbSNP:rs28928907,PMID:16470591,PMID:25538044	
+P40238	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_073032;Note=In CAMT%3B loss of function. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16470591,ECO:0000269|PubMed:25538044;Dbxref=dbSNP:rs1196161699,PMID:16470591,PMID:25538044	
+P40238	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_073033;Note=In THCYT2%3B gain of function%3B loss of membrane localization%2C impaired glycosylation. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25538044;Dbxref=dbSNP:rs750046020,PMID:25538044	
+P40238	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_049174;Note=V->M;Dbxref=dbSNP:rs12731981	
+P40238	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_073034;Note=In CAMT. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=dbSNP:rs764904424,PMID:16470591	
+P40238	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_073035;Note=In CAMT. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=dbSNP:rs758428763,PMID:16470591	
+P40238	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_011989;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6088,PMID:10391209	
+P40238	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_073036;Note=In CAMT. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=PMID:16470591	
+P40238	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_073037;Note=In CAMT. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=dbSNP:rs28928908,PMID:16470591	
+P40238	UniProtKB	Natural variant	435	435	.	.	.	ID=VAR_073038;Note=In CAMT. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=dbSNP:rs1006158872,PMID:16470591	
+P40238	UniProtKB	Natural variant	505	505	.	.	.	ID=VAR_067559;Note=In THCYT2%3B activating mutation%3B induces MPL autonomous dimerization and signal activation in the absence of the ligand. S->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14764528,ECO:0000269|PubMed:19483125;Dbxref=dbSNP:rs121913614,PMID:14764528,PMID:19483125	
+P40238	UniProtKB	Natural variant	515	515	.	.	.	ID=VAR_067560;Note=In MMM%3B somatic mutation%3B requires 2 nucleotide substitutions. W->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16868251;Dbxref=dbSNP:rs121913616,PMID:16868251	
+P40238	UniProtKB	Natural variant	515	515	.	.	.	ID=VAR_067561;Note=In THCYT2 and MMM%3B somatic mutation in myelofibrosis with myeloid metaplasia%3B results in cytokine-independent growth and thrombopoietin hypersensitivity%3B results in constitutive activation of JAK-STAT signaling pathway. W->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16834459,ECO:0000269|PubMed:23441089;Dbxref=dbSNP:rs121913615,PMID:16834459,PMID:23441089	
+P40238	UniProtKB	Natural variant	594	594	.	.	.	ID=VAR_073039;Note=In CAMT. L->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16470591;Dbxref=dbSNP:rs1448812001,PMID:16470591	

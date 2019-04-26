@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region O95760 1 270
+O95760	UniProtKB	Chain	1	270	.	.	.	ID=PRO_0000096790;Note=Interleukin-33	
+O95760	UniProtKB	Propeptide	1	94	.	.	.	ID=PRO_0000430083;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22307629;Dbxref=PMID:22307629	
+O95760	UniProtKB	Chain	95	270	.	.	.	ID=PRO_0000430084;Note=Interleukin-33 (95-270)	
+O95760	UniProtKB	Chain	99	270	.	.	.	ID=PRO_0000430085;Note=Interleukin-33 (99-270)	
+O95760	UniProtKB	Chain	109	270	.	.	.	ID=PRO_0000430086;Note=Interleukin-33 (109-270)	
+O95760	UniProtKB	Region	1	65	.	.	.	Note=Homeodomain-like HTH domain	
+O95760	UniProtKB	Region	66	111	.	.	.	Note=Interaction with RELA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95760	UniProtKB	Site	94	95	.	.	.	Note=Cleavage%3B by CTSG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22307629;Dbxref=PMID:22307629	
+O95760	UniProtKB	Site	98	99	.	.	.	Note=Cleavage%3B by ELANE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22307629;Dbxref=PMID:22307629	
+O95760	UniProtKB	Site	108	109	.	.	.	Note=Cleavage%3B by CTSG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22307629;Dbxref=PMID:22307629	
+O95760	UniProtKB	Alternative sequence	31	157	.	.	.	ID=VSP_045440;Note=In isoform 4. KSQQKAKEVCPMYFMKLRSGLMIKKEACYFRRETTKRPSLKTGRKHKRHLVLAACQQQSTVECFAFGISGVQKYTRALHDSSITGISPITEYLASLSTYNDQSITFALEDESYEIYVEDLKKDEKKD->N;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O95760	UniProtKB	Alternative sequence	72	113	.	.	.	ID=VSP_044948;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21454686;Dbxref=PMID:21454686	
+O95760	UniProtKB	Alternative sequence	115	156	.	.	.	ID=VSP_042728;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O95760	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_049576;Note=I->M;Dbxref=dbSNP:rs16924241	
+O95760	UniProtKB	Mutagenesis	144	144	.	.	.	Note=Decreases affinity for IL1RL1. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23980170;Dbxref=PMID:23980170	
+O95760	UniProtKB	Mutagenesis	148	148	.	.	.	Note=7-fold decrease in affinity for IL1RL1. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23980170;Dbxref=PMID:23980170	
+O95760	UniProtKB	Mutagenesis	149	149	.	.	.	Note=Almost abolishes binding to IL1RL1. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23980170;Dbxref=PMID:23980170	
+O95760	UniProtKB	Mutagenesis	165	165	.	.	.	Note=8-fold decrease in affinity for IL1RL1. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23980170;Dbxref=PMID:23980170	
+O95760	UniProtKB	Mutagenesis	244	244	.	.	.	Note=Decreases affinity for IL1RL1. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23980170;Dbxref=PMID:23980170	
+O95760	UniProtKB	Sequence conflict	139	139	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95760	UniProtKB	Beta strand	112	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KLL	
+O95760	UniProtKB	Beta strand	119	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Turn	129	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KLL	
+O95760	UniProtKB	Beta strand	133	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	140	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	158	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Turn	170	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KLL	
+O95760	UniProtKB	Beta strand	180	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	193	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Turn	198	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	202	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Helix	214	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	218	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	228	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	238	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Beta strand	246	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	
+O95760	UniProtKB	Helix	261	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KLL	
+O95760	UniProtKB	Beta strand	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KC3	

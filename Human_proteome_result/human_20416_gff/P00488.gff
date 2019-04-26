@@ -1,0 +1,117 @@
+##gff-version 3
+##sequence-region P00488 1 732
+P00488	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:2877456,ECO:0000305|PubMed:4811064;Dbxref=PMID:2877456,PMID:4811064	
+P00488	UniProtKB	Propeptide	2	38	.	.	.	ID=PRO_0000033646;Note=Activation peptide	
+P00488	UniProtKB	Chain	39	732	.	.	.	ID=PRO_0000033647;Note=Coagulation factor XIII A chain	
+P00488	UniProtKB	Active site	315	315	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7913750;Dbxref=PMID:7913750	
+P00488	UniProtKB	Active site	374	374	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7913750;Dbxref=PMID:7913750	
+P00488	UniProtKB	Active site	397	397	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7913750;Dbxref=PMID:7913750	
+P00488	UniProtKB	Metal binding	437	437	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9988734;Dbxref=PMID:9988734	
+P00488	UniProtKB	Metal binding	439	439	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9988734;Dbxref=PMID:9988734	
+P00488	UniProtKB	Metal binding	486	486	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9988734;Dbxref=PMID:9988734	
+P00488	UniProtKB	Metal binding	491	491	.	.	.	Note=Calcium;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9988734;Dbxref=PMID:9988734	
+P00488	UniProtKB	Site	38	39	.	.	.	Note=Cleavage%3B by thrombin%3B to produce active factor XIII-A	
+P00488	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:2877456;Dbxref=PMID:2877456	
+P00488	UniProtKB	Glycosylation	614	614	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P00488	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_013927;Note=Higher specific activity. V->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:9763561,ECO:0000269|Ref.5;Dbxref=dbSNP:rs5985,PMID:10391209,PMID:9763561	
+P00488	UniProtKB	Natural variant	38	38	.	.	.	ID=VAR_077619;Note=In FA13AD%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B no effect on fibrin alpha chain and gamma chain cross-linking activity%3B decreased clot fiber thickness. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27363989;Dbxref=dbSNP:rs759324596,PMID:27363989	
+P00488	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_020910;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5	
+P00488	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_074280;Note=In FA13AD%3B mild%3B no effect on intracellular protein abundance%3B no effect on protein-glutamine gamma-glutamyltransferase activity%3B no effect on alpha-2-antiplasmin to fibrin cross-linking activity%3B loss of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_077620;Note=In FA13AD%3B decreased intracellular protein abundance%3B decreased protein-glutamine gamma-glutamyltransferase activity%3B no effect on alpha-2-antiplasmin to fibrin cross-linking activity%3B loss of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20179087,ECO:0000269|PubMed:27363989;Dbxref=PMID:20179087,PMID:27363989	
+P00488	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_074281;Note=In FA13AD%3B mild%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B decreased rate of fibrin gamma chain cross-linking activity%3B decreased rate of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_020911;Note=Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3024477	
+P00488	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_074282;Note=In FA13AD. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24286209;Dbxref=PMID:24286209	
+P00488	UniProtKB	Natural variant	290	290	.	.	.	ID=VAR_077621;Note=In FA13AD%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B loss of alpha-2-antiplasmin to fibrin cross-linking activity%3B loss of fibrin gamma chain cross-linking activity%3B decreased rate of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. P->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20179087,ECO:0000269|PubMed:27363989;Dbxref=PMID:20179087,PMID:27363989	
+P00488	UniProtKB	Natural variant	343	343	.	.	.	ID=VAR_074283;Note=In FA13AD%3B mild%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B loss of fibrin gamma chain cross-linking activity%3B decreased rate of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. H->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	347	347	.	.	.	ID=VAR_074284;Note=In FA13AD%3B unknown pathological significance. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24329762;Dbxref=PMID:24329762	
+P00488	UniProtKB	Natural variant	376	376	.	.	.	ID=VAR_074285;Note=In FA13AD%3B unknown pathological significance. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24329762;Dbxref=PMID:24329762	
+P00488	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_074286;Note=In FA13AD%3B unknown pathological significance. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24329762;Dbxref=PMID:24329762	
+P00488	UniProtKB	Natural variant	416	416	.	.	.	ID=VAR_074287;Note=In FA13AD%3B mild%3B no effect on intracellular protein abundance%3B no effect on protein-glutamine gamma-glutamyltransferase activity%3B no effect on alpha-2-antiplasmin to fibrin cross-linking activity%3B no effect on fibrin alpha chain and gamma chain cross-linking activity%3B decreased clot fiber thickness. Q->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	530	530	.	.	.	ID=VAR_074288;Note=In FA13AD%3B mild%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B loss of fibrin gamma chain cross-linking activity%3B decreased clot fiber thickness. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	541	541	.	.	.	ID=VAR_077622;Note=In FA13AD%3B decreased intracellular protein abundance%3B no effect on protein-glutamine gamma-glutamyltransferase activity%3B no effect on alpha-2-antiplasmin to fibrin cross-linking activity%3B no effect on fibrin alpha chain and gamma chain cross-linking activity%3B decreased clot fiber thickness. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20179087,ECO:0000269|PubMed:27363989;Dbxref=PMID:20179087,PMID:27363989	
+P00488	UniProtKB	Natural variant	551	551	.	.	.	ID=VAR_013928;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs5984,PMID:10391209	
+P00488	UniProtKB	Natural variant	565	565	.	.	.	ID=VAR_007471;Note=In allele F13A*1A%2C allele F13A*2A and allele F13*(2)A. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:2901091,ECO:0000269|Ref.5;Dbxref=dbSNP:rs5982,PMID:10391209,PMID:2901091	
+P00488	UniProtKB	Natural variant	589	589	.	.	.	ID=VAR_013929;Note=L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs5983,PMID:10391209	
+P00488	UniProtKB	Natural variant	593	593	.	.	.	ID=VAR_077623;Note=In FA13AD%3B no effect on intracellular protein abundance%3B increased protein-glutamine gamma-glutamyltransferase activity%3B no effect on alpha-2-antiplasmin to fibrin cross-linking activity%3B no effect on fibrin alpha chain and gamma chain cross-linking activity%3B decreased clot fiber thickness. G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20179087,ECO:0000269|PubMed:27363989;Dbxref=PMID:20179087,PMID:27363989	
+P00488	UniProtKB	Natural variant	602	602	.	.	.	ID=VAR_074289;Note=In FA13AD%3B mild%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B loss of alpha-2-antiplasmin to fibrin cross-linking activity%3B decreased rate of fibrin gamma chain cross-linking activity%3B loss of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. Q->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	612	612	.	.	.	ID=VAR_077624;Note=In FA13AD%3B decreased intracellular protein abundance%3B decreased protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B no effect on fibrin alpha chain and gamma chain cross-linking activity%3B decreased clot fiber thickness. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20179087,ECO:0000269|PubMed:27363989;Dbxref=PMID:20179087,PMID:27363989	
+P00488	UniProtKB	Natural variant	650	650	.	.	.	ID=VAR_060545;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852475,PMID:15489334	
+P00488	UniProtKB	Natural variant	651	651	.	.	.	ID=VAR_007472;Note=In allele F13A*2A and allele F13A*2B. V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:3026437,ECO:0000269|Ref.5;Dbxref=dbSNP:rs5987,PMID:10391209,PMID:3026437	
+P00488	UniProtKB	Natural variant	652	652	.	.	.	ID=VAR_007473;Note=In allele F13A*1A and allele F13A*1B. Q->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:14574404,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4,ECO:0000269|Ref.5;Dbxref=dbSNP:rs5988,PMID:10391209,PMID:14574404,PMID:15489334	
+P00488	UniProtKB	Natural variant	669	669	.	.	.	ID=VAR_077625;Note=In FA13AD%3B decreased intracellular protein abundance%3B decreased protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B decreased rate of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. D->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20179087,ECO:0000269|PubMed:27363989;Dbxref=PMID:20179087,PMID:27363989	
+P00488	UniProtKB	Natural variant	682	682	.	.	.	ID=VAR_007474;Note=In FA13AD. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1353995;Dbxref=PMID:1353995	
+P00488	UniProtKB	Natural variant	704	704	.	.	.	ID=VAR_074290;Note=In FA13AD%3B mild%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B decreased rate of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Natural variant	716	716	.	.	.	ID=VAR_074291;Note=In FA13AD%3B mild%3B decreased intracellular protein abundance%3B loss of protein-glutamine gamma-glutamyltransferase activity%3B decreased alpha-2-antiplasmin to fibrin cross-linking activity%3B decreased rate of fibrin gamma chain cross-linking activity%3B decreased rate of fibrin alpha chain cross-linking activity%3B decreased clot fiber thickness. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24889649,ECO:0000269|PubMed:27363989;Dbxref=PMID:24889649,PMID:27363989	
+P00488	UniProtKB	Sequence conflict	36	36	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P00488	UniProtKB	Sequence conflict	89	89	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P00488	UniProtKB	Beta strand	29	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	48	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	60	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	68	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GGU	
+P00488	UniProtKB	Beta strand	74	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	81	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Turn	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	100	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	116	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	132	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	142	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	156	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	169	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	177	179	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	181	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	199	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	210	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	220	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	235	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	250	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	256	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Turn	270	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	275	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	290	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	297	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	310	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	315	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	333	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	345	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	359	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Turn	363	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	369	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	384	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GGY	
+P00488	UniProtKB	Beta strand	392	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	402	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	406	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EVU	
+P00488	UniProtKB	Helix	415	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	425	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	429	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	439	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Turn	447	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FIE	
+P00488	UniProtKB	Beta strand	451	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	464	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	470	473	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EX0	
+P00488	UniProtKB	Beta strand	475	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	479	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	489	501	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	519	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	534	542	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	544	546	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	548	559	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	561	563	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5MHO	
+P00488	UniProtKB	Beta strand	565	578	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	580	590	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	592	595	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Helix	596	598	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	604	613	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Turn	614	617	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	618	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	633	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	647	654	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	657	659	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	661	670	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Turn	671	673	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	674	684	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	689	696	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	702	711	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	
+P00488	UniProtKB	Beta strand	713	727	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4KTY	

@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region P55345 1 433
+P55345	UniProtKB	Chain	1	433	.	.	.	ID=PRO_0000212324;Note=Protein arginine N-methyltransferase 2	
+P55345	UniProtKB	Domain	30	89	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+P55345	UniProtKB	Domain	99	432	.	.	.	Note=SAM-dependent MTase PRMT-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01015	
+P55345	UniProtKB	Region	1	277	.	.	.	Note=Interaction with ESR1	
+P55345	UniProtKB	Region	83	207	.	.	.	Note=Interaction with RB1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Region	133	275	.	.	.	Note=Interaction with ESR1	
+P55345	UniProtKB	Active site	211	211	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Active site	220	220	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Binding site	112	112	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Binding site	121	121	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Binding site	145	145	.	.	.	Note=S-adenosyl-L-methionine%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Binding site	168	168	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Binding site	197	197	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55345	UniProtKB	Modified residue	61	61	.	.	.	Note=Asymmetric dimethylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P55345	UniProtKB	Modified residue	72	72	.	.	.	Note=Asymmetric dimethylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P55345	UniProtKB	Alternative sequence	219	433	.	.	.	ID=VSP_042680;Note=In isoform 2. FEFMIESILYARDAWLKEDGVIWPTMAALHLVPCSADKDYRSKVLFWDNAYEFNLSALKSLAVKEFFSKPKYNHILKPEDCLSEPCTILQLDMRTVQISDLETLRGELRFDIRKAGTLHGFTAWFSVHFQSLQEGQPPQVLSTGPFHPTTHWKQTLFMMDDPVPVHTGDVVTGSVVLQRNPVWRRHMSVALSWAVTSRQDPTSQKVGEKVFPIWR->AAPLLSCRILPCTCASGPLHVLLACCLPLPCTCASVPLHVLLACCLPVLRAPQPSGLHLSWPIFLL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9110174;Dbxref=PMID:9110174	
+P55345	UniProtKB	Alternative sequence	219	423	.	.	.	ID=VSP_054927;Note=In isoform PRMT2Gamma. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22093364;Dbxref=PMID:22093364	
+P55345	UniProtKB	Alternative sequence	219	320	.	.	.	ID=VSP_043381;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P55345	UniProtKB	Alternative sequence	219	301	.	.	.	ID=VSP_054928;Note=In isoform PRMT2Beta. FEFMIESILYARDAWLKEDGVIWPTMAALHLVPCSADKDYRSKVLFWDNAYEFNLSALKSLAVKEFFSKPKYNHILKPEDCLS->HHTLEADAVHDGRPSPCPYRRRGHGFSCVAEKPSVEKAHVCGSELGCHFQTRPHISKSWRKSLPHLEMTVDALFGKQCAYLEG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22093364;Dbxref=PMID:22093364	
+P55345	UniProtKB	Alternative sequence	278	433	.	.	.	ID=VSP_054929;Note=In isoform PRMT2L2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21820040;Dbxref=PMID:21820040	
+P55345	UniProtKB	Alternative sequence	278	289	.	.	.	ID=VSP_054930;Note=In isoform PRMT2Alpha. SLAVKEFFSKPK->LEKKSSPSGDDS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22093364;Dbxref=PMID:22093364	
+P55345	UniProtKB	Alternative sequence	290	433	.	.	.	ID=VSP_054931;Note=In isoform PRMT2Alpha. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22093364;Dbxref=PMID:22093364	
+P55345	UniProtKB	Alternative sequence	302	433	.	.	.	ID=VSP_054932;Note=In isoform PRMT2Beta. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:22093364;Dbxref=PMID:22093364	
+P55345	UniProtKB	Sequence conflict	256	260	.	.	.	Note=KDYRS->RIIVA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55345	UniProtKB	Sequence conflict	402	402	.	.	.	Note=R->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P55345	UniProtKB	Beta strand	34	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X2P	
+P55345	UniProtKB	Beta strand	56	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X2P	
+P55345	UniProtKB	Beta strand	64	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X2P	
+P55345	UniProtKB	Beta strand	77	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X2P	

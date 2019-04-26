@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region Q16849 1 979
+Q16849	UniProtKB	Signal peptide	1	34	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q16849	UniProtKB	Chain	35	979	.	.	.	ID=PRO_0000025451;Note=Receptor-type tyrosine-protein phosphatase-like N	
+Q16849	UniProtKB	Chain	35	448	.	.	.	ID=PRO_0000438079;Note=ICA512-N-terminal fragment;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:P56722,ECO:0000305|PubMed:26836020;Dbxref=PMID:26836020	
+Q16849	UniProtKB	Chain	449	979	.	.	.	ID=PRO_0000438080;Note=ICA512-transmembrane fragment;Ontology_term=ECO:0000250,ECO:0000305;evidence=ECO:0000250|UniProtKB:P56722,ECO:0000305|PubMed:26836020;Dbxref=PMID:26836020	
+Q16849	UniProtKB	Chain	659	979	.	.	.	ID=PRO_0000438081;Note=ICA512-cleaved cytosolic fragment;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:15596545,ECO:0000305|PubMed:26836020;Dbxref=PMID:15596545,PMID:26836020	
+Q16849	UniProtKB	Topological domain	35	575	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16849	UniProtKB	Transmembrane	576	600	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16849	UniProtKB	Topological domain	601	979	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16849	UniProtKB	Domain	709	969	.	.	.	Note=Tyrosine-protein phosphatase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00160	
+Q16849	UniProtKB	Region	35	131	.	.	.	Note=RESP18 homology domain	
+Q16849	UniProtKB	Region	449	575	.	.	.	Note=Sufficient for dimerization of proICA512;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25561468;Dbxref=PMID:25561468	
+Q16849	UniProtKB	Region	601	732	.	.	.	Note=Sufficient for dimerization of proICA512;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P80560	
+Q16849	UniProtKB	Site	448	449	.	.	.	Note=Cleavage;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P56722	
+Q16849	UniProtKB	Modified residue	308	308	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60673	
+Q16849	UniProtKB	Glycosylation	441	441	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22171320,ECO:0000269|PubMed:23234360;Dbxref=PMID:22171320,PMID:23234360	
+Q16849	UniProtKB	Glycosylation	506	506	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255,ECO:0000269|PubMed:25561468;Dbxref=PMID:25561468	
+Q16849	UniProtKB	Glycosylation	524	524	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255,ECO:0000269|PubMed:25561468;Dbxref=PMID:25561468	
+Q16849	UniProtKB	Disulfide bond	40	40	.	.	.	Note=Interchain (with C-40 or C-47)%3B in multimeric form;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26836020;Dbxref=PMID:26836020	
+Q16849	UniProtKB	Disulfide bond	47	47	.	.	.	Note=Interchain (with C-40 or C-47)%3B in multimeric form;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26836020;Dbxref=PMID:26836020	
+Q16849	UniProtKB	Disulfide bond	53	62	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26836020;Dbxref=PMID:26836020	
+Q16849	UniProtKB	Cross-link	754	754	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16622421;Dbxref=PMID:16622421	
+Q16849	UniProtKB	Alternative sequence	1	90	.	.	.	ID=VSP_045867;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q16849	UniProtKB	Alternative sequence	479	508	.	.	.	ID=VSP_043654;Note=In isoform 2. KPLSLAAGVKLLEILAEHVHMSSGSFINIS->N;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q16849	UniProtKB	Natural variant	419	419	.	.	.	ID=VAR_051762;Note=S->R;Dbxref=dbSNP:rs35314717	
+Q16849	UniProtKB	Mutagenesis	506	506	.	.	.	Note=Reduces N-glycosylation. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25561468;Dbxref=PMID:25561468	
+Q16849	UniProtKB	Mutagenesis	524	524	.	.	.	Note=Reduces N-glycosylation. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25561468;Dbxref=PMID:25561468	
+Q16849	UniProtKB	Mutagenesis	553	553	.	.	.	Note=Impairs normal processing and leads to retention in the endoplasmic reticulum and degradation. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25561468;Dbxref=PMID:25561468	
+Q16849	UniProtKB	Sequence conflict	673	673	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16849	UniProtKB	Beta strand	471	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Helix	483	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Helix	501	503	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Beta strand	504	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Beta strand	513	518	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Helix	527	536	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Helix	538	545	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Beta strand	549	555	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2QT7	
+Q16849	UniProtKB	Helix	692	704	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	706	717	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	727	730	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Turn	732	734	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	735	737	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	755	757	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	766	770	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	780	783	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	788	790	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	791	801	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	805	808	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	812	814	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	826	832	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	835	844	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	846	858	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Turn	859	861	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	864	872	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	877	880	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	885	896	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	905	908	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Beta strand	910	913	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	914	930	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	938	946	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	
+Q16849	UniProtKB	Helix	956	975	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2I1Y	

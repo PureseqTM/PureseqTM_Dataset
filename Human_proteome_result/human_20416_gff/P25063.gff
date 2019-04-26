@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region P25063 1 80
+P25063	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25063	UniProtKB	Peptide	27	59	.	.	.	ID=PRO_0000020893;Note=Signal transducer CD24	
+P25063	UniProtKB	Propeptide	60	80	.	.	.	ID=PRO_0000020894;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25063	UniProtKB	Lipidation	59	59	.	.	.	Note=GPI-anchor amidated glycine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25063	UniProtKB	Glycosylation	36	36	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25063	UniProtKB	Glycosylation	52	52	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P25063	UniProtKB	Alternative sequence	1	23	.	.	.	ID=VSP_059359;Note=In isoform 2. MGRAMVARLGLGLLLLALLLPTQ->MVGRFCPESPPGFVRVAATSAVSLDPPSGEPRPGCGYPGPRSAASRVYGCTAPARETGGWAWETLAGAGAKK	
+P25063	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_031576;Note=S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7959762;Dbxref=PMID:7959762	
+P25063	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_016156;Note=May be associated with an increased risk for multiple sclerosis%3B homozygous patients express higher levels of CD24 on peripheral blood T-cells than homozygous controls. A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1327504,ECO:0000269|PubMed:14657362,ECO:0000269|PubMed:7736776;Dbxref=dbSNP:rs878859113,PMID:1327504,PMID:14657362,PMID:7736776	
+P25063	UniProtKB	Sequence conflict	12	12	.	.	.	Note=G->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25063	UniProtKB	Sequence conflict	27	28	.	.	.	Note=SE->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

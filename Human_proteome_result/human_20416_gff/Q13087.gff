@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q13087 1 525
+Q13087	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13087	UniProtKB	Chain	22	525	.	.	.	ID=PRO_0000034222;Note=Protein disulfide-isomerase A2	
+Q13087	UniProtKB	Domain	27	152	.	.	.	Note=Thioredoxin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q13087	UniProtKB	Domain	367	496	.	.	.	Note=Thioredoxin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q13087	UniProtKB	Motif	522	525	.	.	.	Note=Prevents secretion from ER;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10138	
+Q13087	UniProtKB	Active site	71	71	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Active site	74	74	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Active site	418	418	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Active site	421	421	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Site	72	72	.	.	.	Note=Contributes to redox potential value;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Site	73	73	.	.	.	Note=Contributes to redox potential value;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Site	138	138	.	.	.	Note=Lowers pKa of C-terminal Cys of first active site;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Site	419	419	.	.	.	Note=Contributes to redox potential value;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Site	420	420	.	.	.	Note=Contributes to redox potential value;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Site	482	482	.	.	.	Note=Lowers pKa of C-terminal Cys of second active site;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13087	UniProtKB	Glycosylation	127	127	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23167757;Dbxref=PMID:23167757	
+Q13087	UniProtKB	Glycosylation	284	284	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23167757;Dbxref=PMID:23167757	
+Q13087	UniProtKB	Glycosylation	516	516	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23167757;Dbxref=PMID:23167757	
+Q13087	UniProtKB	Disulfide bond	18	18	.	.	.	Note=Interchain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150607;Dbxref=PMID:19150607	
+Q13087	UniProtKB	Disulfide bond	71	74	.	.	.	Note=Redox-active;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q13087	UniProtKB	Disulfide bond	418	421	.	.	.	Note=Redox-active;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q13087	UniProtKB	Alternative sequence	181	183	.	.	.	ID=VSP_039292;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13087	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_048087;Note=P->S;Dbxref=dbSNP:rs45455191	
+Q13087	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_048088;Note=T->R;Dbxref=dbSNP:rs45614840	
+Q13087	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_048089;Note=E->K;Dbxref=dbSNP:rs419949	
+Q13087	UniProtKB	Natural variant	286	286	.	.	.	ID=VAR_048090;Note=T->M;Dbxref=dbSNP:rs2685127	
+Q13087	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_048091;Note=P->A;Dbxref=dbSNP:rs45529833	
+Q13087	UniProtKB	Natural variant	388	388	.	.	.	ID=VAR_048092;Note=R->Q;Dbxref=dbSNP:rs400037	
+Q13087	UniProtKB	Natural variant	502	502	.	.	.	ID=VAR_048093;Note=P->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:8561901,ECO:0000269|Ref.1;Dbxref=dbSNP:rs1048786,PMID:15489334,PMID:8561901	
+Q13087	UniProtKB	Mutagenesis	18	18	.	.	.	Note=Impairs interchain disulfide bridge formation. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150607;Dbxref=PMID:19150607	
+Q13087	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Increases formation of a highly stable disulfide-bonded PDIA2 dimer. N->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23167757;Dbxref=PMID:23167757	
+Q13087	UniProtKB	Mutagenesis	364	364	.	.	.	Note=No effect on interchain disulfide bridge formation. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19150607;Dbxref=PMID:19150607	
+Q13087	UniProtKB	Sequence conflict	96	96	.	.	.	Note=T->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13087	UniProtKB	Sequence conflict	484	484	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

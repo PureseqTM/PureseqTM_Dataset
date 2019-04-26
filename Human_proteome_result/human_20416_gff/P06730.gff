@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P06730 1 217
+P06730	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000269|PubMed:17036047;Dbxref=PMID:19413330,PMID:17036047	
+P06730	UniProtKB	Chain	2	217	.	.	.	ID=PRO_0000193634;Note=Eukaryotic translation initiation factor 4E	
+P06730	UniProtKB	Region	37	40	.	.	.	Note=EIF4EBP1/2/3 binding	
+P06730	UniProtKB	Region	56	57	.	.	.	Note=7-methylguanosine-containing mRNA cap binding	
+P06730	UniProtKB	Region	73	77	.	.	.	Note=EIF4EBP1/2/3 binding	
+P06730	UniProtKB	Region	102	103	.	.	.	Note=7-methylguanosine-containing mRNA cap binding	
+P06730	UniProtKB	Region	132	139	.	.	.	Note=EIF4EBP1/2/3 binding	
+P06730	UniProtKB	Region	157	162	.	.	.	Note=7-methylguanosine-containing mRNA cap binding	
+P06730	UniProtKB	Region	205	207	.	.	.	Note=7-methylguanosine-containing mRNA cap binding	
+P06730	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P06730	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P06730	UniProtKB	Modified residue	209	209	.	.	.	Note=Phosphoserine%3B by PKC and MKNK2;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11154262,ECO:0000269|PubMed:7665584,ECO:0000269|PubMed:7782323;Dbxref=PMID:11154262,PMID:7665584,PMID:7782323	
+P06730	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_043591;Note=In isoform 3. MATVEP->MLDLTSRGQVGTSRRMAEAACSAHFL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P06730	UniProtKB	Alternative sequence	133	133	.	.	.	ID=VSP_042014;Note=In isoform 2. T->TRWDLAMLPRLVSNFWPQVILPLQPPKVLELQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16341674;Dbxref=PMID:16341674	
+P06730	UniProtKB	Mutagenesis	53	53	.	.	.	Note=No effect on phosphorylation level nor incorporation into eIF4F complex. S->A%2CD;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7590282,ECO:0000269|PubMed:8505316;Dbxref=PMID:7590282,PMID:8505316	
+P06730	UniProtKB	Mutagenesis	73	73	.	.	.	Note=Abolishes binding to EIF4EBP1. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22578813;Dbxref=PMID:22578813	
+P06730	UniProtKB	Mutagenesis	102	102	.	.	.	Note=Decrease in mRNA cap binding%3B when associated with A-105. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1672854;Dbxref=PMID:1672854	
+P06730	UniProtKB	Mutagenesis	103	103	.	.	.	Note=No effect. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1672854;Dbxref=PMID:1672854	
+P06730	UniProtKB	Mutagenesis	104	104	.	.	.	Note=No effect. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1672854;Dbxref=PMID:1672854	
+P06730	UniProtKB	Mutagenesis	105	105	.	.	.	Note=Decrease in mRNA cap binding%3B when associated with L-102. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1672854;Dbxref=PMID:1672854	
+P06730	UniProtKB	Mutagenesis	119	119	.	.	.	Note=Higher affinity for EIF4G1. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17036047;Dbxref=PMID:17036047	
+P06730	UniProtKB	Sequence conflict	127	127	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P06730	UniProtKB	Helix	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EI3	
+P06730	UniProtKB	Beta strand	38	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	51	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5GW6	
+P06730	UniProtKB	Helix	56	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	60	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Helix	69	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	89	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2GPQ	
+P06730	UniProtKB	Turn	105	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	111	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Helix	119	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Turn	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Helix	126	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Turn	139	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Helix	143	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	149	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	162	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Helix	173	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TQC	
+P06730	UniProtKB	Beta strand	196	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Helix	200	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	205	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AM7	
+P06730	UniProtKB	Turn	208	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	
+P06730	UniProtKB	Beta strand	214	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TPW	

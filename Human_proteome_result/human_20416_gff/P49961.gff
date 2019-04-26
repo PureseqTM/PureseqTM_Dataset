@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P49961 1 510
+P49961	UniProtKB	Chain	1	510	.	.	.	ID=PRO_0000209902;Note=Ectonucleoside triphosphate diphosphohydrolase 1	
+P49961	UniProtKB	Topological domain	1	16	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Transmembrane	17	37	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Topological domain	38	478	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Transmembrane	479	499	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Topological domain	500	510	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Active site	174	174	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49961	UniProtKB	Lipidation	13	13	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:10636909;Dbxref=PMID:10636909	
+P49961	UniProtKB	Glycosylation	73	73	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P49961	UniProtKB	Glycosylation	227	227	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Glycosylation	292	292	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P49961	UniProtKB	Glycosylation	334	334	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Glycosylation	371	371	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Glycosylation	457	457	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49961	UniProtKB	Disulfide bond	84	108	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49961	UniProtKB	Disulfide bond	255	301	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49961	UniProtKB	Disulfide bond	282	325	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49961	UniProtKB	Disulfide bond	338	343	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49961	UniProtKB	Disulfide bond	390	413	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49961	UniProtKB	Alternative sequence	1	138	.	.	.	ID=VSP_044284;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P49961	UniProtKB	Alternative sequence	1	108	.	.	.	ID=VSP_044283;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P49961	UniProtKB	Alternative sequence	1	5	.	.	.	ID=VSP_046050;Note=In isoform 6. MEDTK->MGREELFLTFSFSSGFQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P49961	UniProtKB	Alternative sequence	1	4	.	.	.	ID=VSP_003607;Note=In isoform 2 and isoform 3. MEDT->MKGTKDLTSQQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10405171;Dbxref=PMID:10405171	
+P49961	UniProtKB	Alternative sequence	272	299	.	.	.	ID=VSP_003608;Note=In isoform 3. VASNEILRDPCFHPGYKKVVNVSDLYKT->ASITQSRPAPFTSAPPAPTSCCFLFQIQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10405171;Dbxref=PMID:10405171	
+P49961	UniProtKB	Alternative sequence	300	510	.	.	.	ID=VSP_003609;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10405171;Dbxref=PMID:10405171	
+P49961	UniProtKB	Natural variant	210	210	.	.	.	ID=VAR_071082;Note=In SPG64. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24482476;Dbxref=PMID:24482476	
+P49961	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_022099;Note=V->I;Dbxref=dbSNP:rs3793744	
+P49961	UniProtKB	Sequence conflict	57	58	.	.	.	Note=SS->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49961	UniProtKB	Sequence conflict	162	162	.	.	.	Note=D->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49961	UniProtKB	Sequence conflict	208	208	.	.	.	Note=T->TGET;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49961	UniProtKB	Sequence conflict	248	248	.	.	.	Note=V->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49961	UniProtKB	Sequence conflict	481	481	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

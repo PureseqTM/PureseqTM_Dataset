@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q9UP65 1 541
+Q9UP65	UniProtKB	Chain	1	538	.	.	.	ID=PRO_0000022995;Note=Cytosolic phospholipase A2 gamma	
+Q9UP65	UniProtKB	Propeptide	539	541	.	.	.	ID=PRO_0000022996;Note=Removed in mature form	
+Q9UP65	UniProtKB	Domain	1	541	.	.	.	Note=PLA2c;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00555	
+Q9UP65	UniProtKB	Active site	82	82	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:10085124;Dbxref=PMID:10085124	
+Q9UP65	UniProtKB	Active site	385	385	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:10085124;Dbxref=PMID:10085124	
+Q9UP65	UniProtKB	Modified residue	337	337	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q9UP65	UniProtKB	Modified residue	538	538	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:14529291,ECO:0000305|PubMed:9705332;Dbxref=PMID:14529291,PMID:9705332	
+Q9UP65	UniProtKB	Lipidation	538	538	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:14529291,ECO:0000305|PubMed:9705332;Dbxref=PMID:14529291,PMID:9705332	
+Q9UP65	UniProtKB	Alternative sequence	1	13	.	.	.	ID=VSP_045849;Note=In isoform 3. MGSSEVSIIPGLQ->MRTRPRPRLRRTENFLTAVHHGK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UP65	UniProtKB	Alternative sequence	528	541	.	.	.	ID=VSP_045850;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UP65	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_018761;Note=E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564522	
+Q9UP65	UniProtKB	Natural variant	38	38	.	.	.	ID=VAR_018420;Note=A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs2307279	
+Q9UP65	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_018762;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564532	
+Q9UP65	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_018763;Note=V->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564534	
+Q9UP65	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_018421;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2303744,PMID:14702039	
+Q9UP65	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_018764;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs2307282	
+Q9UP65	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_018765;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564538	
+Q9UP65	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_018422;Note=S->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10085124,ECO:0000269|PubMed:14702039,ECO:0000269|Ref.3,ECO:0000269|Ref.5;Dbxref=dbSNP:rs156631,PMID:10085124,PMID:14702039	
+Q9UP65	UniProtKB	Natural variant	226	226	.	.	.	ID=VAR_018766;Note=T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564541	
+Q9UP65	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_018767;Note=T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564620	
+Q9UP65	UniProtKB	Natural variant	411	411	.	.	.	ID=VAR_018768;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs11564638	
+Q9UP65	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_018423;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9;Dbxref=dbSNP:rs191276960	
+Q9UP65	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Abolishes enzyme activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+Q9UP65	UniProtKB	Mutagenesis	82	82	.	.	.	Note=Abolishes enzyme activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+Q9UP65	UniProtKB	Mutagenesis	385	385	.	.	.	Note=Abolishes enzyme activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+Q9UP65	UniProtKB	Mutagenesis	402	402	.	.	.	Note=Abolishes enzyme activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10085124;Dbxref=PMID:10085124	
+Q9UP65	UniProtKB	Mutagenesis	538	539	.	.	.	Note=Loss of prenylation. CC->SS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9705332;Dbxref=PMID:9705332	
+Q9UP65	UniProtKB	Sequence conflict	24	24	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UP65	UniProtKB	Sequence conflict	465	465	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UP65	UniProtKB	Sequence conflict	480	480	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

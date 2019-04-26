@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q8TCT1 1 267
+Q8TCT1	UniProtKB	Chain	1	267	.	.	.	ID=PRO_0000068829;Note=Phosphoethanolamine/phosphocholine phosphatase	
+Q8TCT1	UniProtKB	Active site	32	32	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCT1	UniProtKB	Active site	34	34	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8TCT1	UniProtKB	Metal binding	32	32	.	.	.	Note=Magnesium;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCT1	UniProtKB	Metal binding	34	34	.	.	.	Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8TCT1	UniProtKB	Metal binding	203	203	.	.	.	Note=Magnesium;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCT1	UniProtKB	Binding site	43	43	.	.	.	Note=Substrate;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCT1	UniProtKB	Binding site	123	123	.	.	.	Note=Substrate;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8TCT1	UniProtKB	Alternative sequence	1	15	.	.	.	ID=VSP_040624;Note=In isoform 2. MSGCFPVSGLRCLSR->MCQRLWPANQPLPGGLLPRPLSLAPSSSSSCCSPPCSQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18471996;Dbxref=PMID:18471996	
+Q8TCT1	UniProtKB	Alternative sequence	1	15	.	.	.	ID=VSP_045709;Note=In isoform 3. MSGCFPVSGLRCLSR->MCQRLWPWPANQPLPGGLLPRPLSLAPSSSSSCCSPPCSQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8TCT1	UniProtKB	Mutagenesis	32	32	.	.	.	Note=Abolishes phosphatase activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16054448;Dbxref=PMID:16054448	
+Q8TCT1	UniProtKB	Mutagenesis	43	43	.	.	.	Note=Strongly reduces reactivity toward PEA and PCho substrates. Abolishes phosphatase activity%3B when associated with N-123. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16054448;Dbxref=PMID:16054448	
+Q8TCT1	UniProtKB	Mutagenesis	123	123	.	.	.	Note=Strongly reduces reactivity toward PEA and PCho substrates. Abolishes phosphatase activity%3B when associated with N-43. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16054448;Dbxref=PMID:16054448	
+Q8TCT1	UniProtKB	Mutagenesis	203	203	.	.	.	Note=Abolishes phosphatase activity. D->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16054448;Dbxref=PMID:16054448	

@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q99759 1 626
+Q99759	UniProtKB	Chain	1	626	.	.	.	ID=PRO_0000086245;Note=Mitogen-activated protein kinase kinase kinase 3	
+Q99759	UniProtKB	Domain	44	123	.	.	.	Note=PB1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01081	
+Q99759	UniProtKB	Domain	362	622	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q99759	UniProtKB	Nucleotide binding	368	376	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q99759	UniProtKB	Active site	489	489	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q99759	UniProtKB	Binding site	391	391	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q99759	UniProtKB	Modified residue	147	147	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61084	
+Q99759	UniProtKB	Modified residue	166	166	.	.	.	Note=Phosphoserine%3B by SGK1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12761204;Dbxref=PMID:23186163,PMID:12761204	
+Q99759	UniProtKB	Modified residue	250	250	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:23186163;Dbxref=PMID:18691976,PMID:19369195,PMID:23186163	
+Q99759	UniProtKB	Modified residue	312	312	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99759	UniProtKB	Modified residue	337	337	.	.	.	Note=Phosphoserine%3B by SGK1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12761204;Dbxref=PMID:18691976,PMID:19369195,PMID:19690332,PMID:23186163,PMID:12761204	
+Q99759	UniProtKB	Modified residue	340	340	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18691976,PMID:19369195,PMID:19690332,PMID:23186163	
+Q99759	UniProtKB	Alternative sequence	42	42	.	.	.	ID=VSP_035967;Note=In isoform 2. Q->QKKHNSSSSALLNSPTVTTSSCAGASEKKKFL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q99759	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_040685;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs36109904,PMID:17344846	
+Q99759	UniProtKB	Natural variant	325	325	.	.	.	ID=VAR_037275;Note=A->G;Dbxref=dbSNP:rs34042309	
+Q99759	UniProtKB	Natural variant	435	435	.	.	.	ID=VAR_037276;Note=A->G;Dbxref=dbSNP:rs9910858	
+Q99759	UniProtKB	Sequence conflict	135	135	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99759	UniProtKB	Helix	3	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YL6	
+Q99759	UniProtKB	Turn	28	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Beta strand	45	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Beta strand	54	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Helix	66	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Beta strand	82	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Helix	88	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y5O	
+Q99759	UniProtKB	Beta strand	91	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Helix	97	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	
+Q99759	UniProtKB	Turn	111	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JRH	
+Q99759	UniProtKB	Beta strand	115	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2C60	

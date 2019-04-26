@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P20309 1 590
+P20309	UniProtKB	Chain	1	590	.	.	.	ID=PRO_0000069029;Note=Muscarinic acetylcholine receptor M3	
+P20309	UniProtKB	Topological domain	1	67	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	68	91	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	92	104	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	105	130	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	131	142	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	143	164	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	165	184	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	185	206	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	207	229	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	230	252	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	253	491	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	492	514	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	515	526	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Transmembrane	527	546	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Topological domain	547	590	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Region	148	152	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Region	507	530	.	.	.	Note=Agonist binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P20309	UniProtKB	Motif	275	281	.	.	.	Note=Basolateral sorting signal	
+P20309	UniProtKB	Modified residue	385	385	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ERZ3	
+P20309	UniProtKB	Glycosylation	5	5	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20309	UniProtKB	Glycosylation	6	6	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20309	UniProtKB	Glycosylation	15	15	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20309	UniProtKB	Glycosylation	41	41	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20309	UniProtKB	Glycosylation	48	48	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P20309	UniProtKB	Disulfide bond	141	221	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P20309	UniProtKB	Disulfide bond	517	520	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P20309	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_033461;Note=V->I;Dbxref=dbSNP:rs2067481	
+P20309	UniProtKB	Natural variant	431	431	.	.	.	ID=VAR_049368;Note=L->P;Dbxref=dbSNP:rs16839102	
+P20309	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Loss of basolateral sorting. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15870063;Dbxref=PMID:15870063	
+P20309	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Loss of basolateral sorting. No effect on basolateral sorting%3B when associated with L-280 and L-281. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15870063;Dbxref=PMID:15870063	
+P20309	UniProtKB	Mutagenesis	280	280	.	.	.	Note=Loss of basolateral sorting. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15870063;Dbxref=PMID:15870063	
+P20309	UniProtKB	Mutagenesis	280	280	.	.	.	Note=No effect on basolateral sorting. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15870063;Dbxref=PMID:15870063	
+P20309	UniProtKB	Mutagenesis	281	281	.	.	.	Note=Loss of basolateral sorting. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15870063;Dbxref=PMID:15870063	
+P20309	UniProtKB	Mutagenesis	281	281	.	.	.	Note=No effect on basolateral sorting. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15870063;Dbxref=PMID:15870063	
+P20309	UniProtKB	Sequence conflict	382	384	.	.	.	Note=KLP->RLS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P20309	UniProtKB	Beta strand	280	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CSA	

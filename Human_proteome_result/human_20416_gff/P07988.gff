@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P07988 1 381
+P07988	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P07988	UniProtKB	Propeptide	25	200	.	.	.	ID=PRO_0000031647	
+P07988	UniProtKB	Chain	201	279	.	.	.	ID=PRO_0000031648;Note=Pulmonary surfactant-associated protein B	
+P07988	UniProtKB	Propeptide	280	381	.	.	.	ID=PRO_0000031649	
+P07988	UniProtKB	Domain	25	65	.	.	.	Note=Saposin A-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00414	
+P07988	UniProtKB	Domain	65	147	.	.	.	Note=Saposin B-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Domain	204	281	.	.	.	Note=Saposin B-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Domain	295	370	.	.	.	Note=Saposin B-type 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Glycosylation	129	129	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Glycosylation	311	311	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Disulfide bond	69	143	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Disulfide bond	72	137	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Disulfide bond	100	112	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Disulfide bond	208	277	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00415,ECO:0000269|PubMed:1568474;Dbxref=PMID:1568474	
+P07988	UniProtKB	Disulfide bond	211	271	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00415,ECO:0000269|PubMed:1568474;Dbxref=PMID:1568474	
+P07988	UniProtKB	Disulfide bond	235	246	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00415,ECO:0000269|PubMed:1568474;Dbxref=PMID:1568474	
+P07988	UniProtKB	Disulfide bond	248	248	.	.	.	Note=Interchain;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00415,ECO:0000269|PubMed:1568474;Dbxref=PMID:1568474	
+P07988	UniProtKB	Disulfide bond	299	366	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Disulfide bond	302	360	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Disulfide bond	325	335	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00415	
+P07988	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_006948;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11076040,ECO:0000269|Ref.3;Dbxref=dbSNP:rs1130866,PMID:11076040	
+P07988	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_013099;Note=L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs3024801	
+P07988	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_006950;Note=Requires 2 nucleotide substitutions. A->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1568474;Dbxref=PMID:1568474	
+P07988	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_006949;Note=Requires 2 nucleotide substitutions. A->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2924687,ECO:0000269|PubMed:3035561;Dbxref=PMID:2924687,PMID:3035561	
+P07988	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_036856;Note=In SMDP1. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7491219;Dbxref=dbSNP:rs137853202,PMID:7491219	
+P07988	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_013100;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs3024809	
+P07988	UniProtKB	Sequence conflict	178	178	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07988	UniProtKB	Sequence conflict	318	318	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07988	UniProtKB	Helix	213	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1KMR	
+P07988	UniProtKB	Helix	260	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2M0H	
+P07988	UniProtKB	Beta strand	265	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG3	
+P07988	UniProtKB	Helix	269	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RG3	

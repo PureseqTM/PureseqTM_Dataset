@@ -1,0 +1,85 @@
+##gff-version 3
+##sequence-region O00754 1 1011
+O00754	UniProtKB	Signal peptide	1	49	.	.	.	.	
+O00754	UniProtKB	Chain	50	1011	.	.	.	ID=PRO_0000012069;Note=Lysosomal alpha-mannosidase	
+O00754	UniProtKB	Chain	50	345	.	.	.	ID=PRO_0000012070;Note=Lysosomal alpha-mannosidase A peptide	
+O00754	UniProtKB	Chain	346	429	.	.	.	ID=PRO_0000012071;Note=Lysosomal alpha-mannosidase B peptide	
+O00754	UniProtKB	Chain	430	601	.	.	.	ID=PRO_0000012072;Note=Lysosomal alpha-mannosidase C peptide	
+O00754	UniProtKB	Chain	602	882	.	.	.	ID=PRO_0000012073;Note=Lysosomal alpha-mannosidase D peptide	
+O00754	UniProtKB	Chain	883	1011	.	.	.	ID=PRO_0000012074;Note=Lysosomal alpha-mannosidase E peptide	
+O00754	UniProtKB	Active site	196	196	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Metal binding	72	72	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Metal binding	74	74	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Metal binding	196	196	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Metal binding	446	446	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Glycosylation	133	133	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	310	310	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	367	367	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+O00754	UniProtKB	Glycosylation	497	497	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	645	645	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	651	651	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	692	692	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	766	766	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+O00754	UniProtKB	Glycosylation	832	832	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Glycosylation	930	930	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12754519;Dbxref=PMID:12754519	
+O00754	UniProtKB	Glycosylation	989	989	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O00754	UniProtKB	Disulfide bond	55	358	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Disulfide bond	268	273	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Disulfide bond	412	472	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Disulfide bond	493	501	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00754	UniProtKB	Alternative sequence	343	343	.	.	.	ID=VSP_047391;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00754	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_068034;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621975,PMID:22161967	
+O00754	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_003338;Note=In MANSA%3B type II. H->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9158146,ECO:0000269|PubMed:9758606;Dbxref=dbSNP:rs387906261,PMID:9158146,PMID:9758606	
+O00754	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_068035;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs746702002,PMID:22161967	
+O00754	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_068036;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs754036398,PMID:22161967	
+O00754	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_068037;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs794727484,PMID:22161967	
+O00754	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_068038;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621976,PMID:22161967	
+O00754	UniProtKB	Natural variant	197	197	.	.	.	ID=VAR_068039;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621977,PMID:22161967	
+O00754	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_026412;Note=In MANSA%3B no residual enzyme activity. H->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15712269,ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621978,PMID:15712269,PMID:22161967	
+O00754	UniProtKB	Natural variant	200	200	.	.	.	ID=VAR_068040;Note=In MANSA%3B reduced enzyme activity. H->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs772108001,PMID:22161967	
+O00754	UniProtKB	Natural variant	202	202	.	.	.	ID=VAR_068041;Note=In MANSA%3B reduced enzyme activity. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621979,PMID:22161967	
+O00754	UniProtKB	Natural variant	229	229	.	.	.	ID=VAR_068042;Note=In MANSA%3B reduced enzyme activity. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs763257568,PMID:22161967	
+O00754	UniProtKB	Natural variant	248	248	.	.	.	ID=VAR_068043;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs117843968,PMID:22161967	
+O00754	UniProtKB	Natural variant	250	250	.	.	.	ID=VAR_049209;Note=A->S;Dbxref=dbSNP:rs3745650	
+O00754	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_068044;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs746808159,PMID:22161967	
+O00754	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_003339;Note=L->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22161967,ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs1054486,PMID:22161967,PMID:9915946	
+O00754	UniProtKB	Natural variant	282	282	.	.	.	ID=VAR_068045;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs45576136,PMID:22161967	
+O00754	UniProtKB	Natural variant	312	312	.	.	.	ID=VAR_003340;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22161967,ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs1054487,PMID:22161967,PMID:9915946	
+O00754	UniProtKB	Natural variant	318	318	.	.	.	ID=VAR_068046;Note=In MANSA%3B reduced enzyme activity. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs774034389,PMID:22161967	
+O00754	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_003341;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22161967,ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs1133330,PMID:22161967,PMID:9915946	
+O00754	UniProtKB	Natural variant	339	342	.	.	.	ID=VAR_068047;Note=In MANSA. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=PMID:22161967	
+O00754	UniProtKB	Natural variant	352	352	.	.	.	ID=VAR_068048;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621980,PMID:22161967	
+O00754	UniProtKB	Natural variant	355	355	.	.	.	ID=VAR_003342;Note=In MANSA. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs864621992,PMID:9915946	
+O00754	UniProtKB	Natural variant	356	356	.	.	.	ID=VAR_003343;Note=In MANSA%3B type I. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9758606;Dbxref=dbSNP:rs121434333,PMID:9758606	
+O00754	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_068049;Note=In MANSA%3B reduced enzyme activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621981,PMID:22161967	
+O00754	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_068050;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621982,PMID:22161967	
+O00754	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_003344;Note=In MANSA%3B unknown pathological significance. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22161967,ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs370760999,PMID:22161967,PMID:9915946	
+O00754	UniProtKB	Natural variant	413	413	.	.	.	ID=VAR_003345;Note=N->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22161967,ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs35836657,PMID:22161967,PMID:9915946	
+O00754	UniProtKB	Natural variant	420	420	.	.	.	ID=VAR_068051;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs772853856,PMID:22161967	
+O00754	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_068052;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621983,PMID:22161967	
+O00754	UniProtKB	Natural variant	451	451	.	.	.	ID=VAR_068053;Note=In MANSA%3B reduced enzyme activity. G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs368899357,PMID:22161967	
+O00754	UniProtKB	Natural variant	453	453	.	.	.	ID=VAR_068054;Note=In MANSA%3B reduced enzyme activity. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621984,PMID:22161967	
+O00754	UniProtKB	Natural variant	453	453	.	.	.	ID=VAR_026413;Note=In MANSA. S->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12718372,ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621984,PMID:12718372,PMID:22161967	
+O00754	UniProtKB	Natural variant	457	457	.	.	.	ID=VAR_068055;Note=In MANSA%3B reduced enzyme activity. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621985,PMID:22161967	
+O00754	UniProtKB	Natural variant	481	481	.	.	.	ID=VAR_049210;Note=A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs34544747,PMID:22161967	
+O00754	UniProtKB	Natural variant	501	501	.	.	.	ID=VAR_068056;Note=In MANSA%3B reduced enzyme activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs747721968,PMID:22161967	
+O00754	UniProtKB	Natural variant	565	565	.	.	.	ID=VAR_068057;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621986,PMID:22161967	
+O00754	UniProtKB	Natural variant	669	669	.	.	.	ID=VAR_068058;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs75029862,PMID:22161967	
+O00754	UniProtKB	Natural variant	714	714	.	.	.	ID=VAR_003346;Note=In MANSA. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs864621993,PMID:9915946	
+O00754	UniProtKB	Natural variant	745	745	.	.	.	ID=VAR_068059;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621987,PMID:22161967	
+O00754	UniProtKB	Natural variant	750	750	.	.	.	ID=VAR_003347;Note=In MANSA%3B type II. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9758606;Dbxref=dbSNP:rs80338680,PMID:9758606	
+O00754	UniProtKB	Natural variant	800	800	.	.	.	ID=VAR_068060;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs398123456,PMID:22161967	
+O00754	UniProtKB	Natural variant	800	800	.	.	.	ID=VAR_068061;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs398123456,PMID:22161967	
+O00754	UniProtKB	Natural variant	801	801	.	.	.	ID=VAR_026414;Note=In MANSA%3B no residual enzyme activity. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15712269;Dbxref=dbSNP:rs864621994,PMID:15712269	
+O00754	UniProtKB	Natural variant	809	809	.	.	.	ID=VAR_003348;Note=In MANSA. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9915946;Dbxref=dbSNP:rs80338681,PMID:9915946	
+O00754	UniProtKB	Natural variant	815	815	.	.	.	ID=VAR_068062;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. R->RHR	
+O00754	UniProtKB	Natural variant	891	891	.	.	.	ID=VAR_068063;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621988,PMID:22161967	
+O00754	UniProtKB	Natural variant	892	892	.	.	.	ID=VAR_068064;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621989,PMID:22161967	
+O00754	UniProtKB	Natural variant	916	916	.	.	.	ID=VAR_068065;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621990,PMID:22161967	
+O00754	UniProtKB	Natural variant	916	916	.	.	.	ID=VAR_068066;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs758765126,PMID:22161967	
+O00754	UniProtKB	Natural variant	950	950	.	.	.	ID=VAR_068067;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs139041112,PMID:22161967	
+O00754	UniProtKB	Natural variant	956	956	.	.	.	ID=VAR_068068;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs768233248,PMID:22161967	
+O00754	UniProtKB	Natural variant	1000	1000	.	.	.	ID=VAR_068069;Note=In MANSA%3B results in less than 20%25 of wild-type enzyme activity. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22161967;Dbxref=dbSNP:rs864621991,PMID:22161967	
+O00754	UniProtKB	Sequence conflict	3	3	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00754	UniProtKB	Sequence conflict	186	186	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00754	UniProtKB	Sequence conflict	384	384	.	.	.	Note=P->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

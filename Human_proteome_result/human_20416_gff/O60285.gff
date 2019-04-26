@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region O60285 1 661
+O60285	UniProtKB	Chain	1	661	.	.	.	ID=PRO_0000086453;Note=NUAK family SNF1-like kinase 1	
+O60285	UniProtKB	Domain	55	306	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O60285	UniProtKB	Nucleotide binding	61	69	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O60285	UniProtKB	Motif	399	402	.	.	.	Note=GILK motif	
+O60285	UniProtKB	Active site	178	178	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+O60285	UniProtKB	Binding site	84	84	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60285	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+O60285	UniProtKB	Modified residue	22	22	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+O60285	UniProtKB	Modified residue	211	211	.	.	.	Note=Phosphothreonine%3B by LKB1;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19369195,ECO:0000269|PubMed:14976552,ECO:0000269|PubMed:20354225;Dbxref=PMID:19369195,PMID:14976552,PMID:20354225	
+O60285	UniProtKB	Modified residue	455	455	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+O60285	UniProtKB	Modified residue	600	600	.	.	.	Note=Phosphoserine%3B by PKB/AKT1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12409306;Dbxref=PMID:12409306	
+O60285	UniProtKB	Alternative sequence	182	208	.	.	.	ID=VSP_014236;Note=In isoform 2. ENILLDDNCNIKIADFGLSNLYQKDKF->KKTSRENQVTTLPQSAVSLRSCWTVMM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O60285	UniProtKB	Alternative sequence	209	661	.	.	.	ID=VSP_014237;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O60285	UniProtKB	Natural variant	419	419	.	.	.	ID=VAR_040963;Note=G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55774704,PMID:17344846	
+O60285	UniProtKB	Natural variant	543	543	.	.	.	ID=VAR_017246;Note=P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3741883,PMID:17344846	
+O60285	UniProtKB	Mutagenesis	84	84	.	.	.	Note=Abolishes kinase activity and ability to induce senescence. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19927127,ECO:0000269|PubMed:21317932;Dbxref=PMID:19927127,PMID:21317932	
+O60285	UniProtKB	Mutagenesis	211	211	.	.	.	Note=Prevents phosphorylation and activation by STK11/LKB1 complex. Abolishes ability to induce senescence. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14976552,ECO:0000269|PubMed:19927127,ECO:0000269|PubMed:21317932;Dbxref=PMID:14976552,PMID:19927127,PMID:21317932	
+O60285	UniProtKB	Mutagenesis	400	401	.	.	.	Note=Abolishes interaction with PPP1CB and ability to regulate myosin PP1 activity. IL->KK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20354225;Dbxref=PMID:20354225	
+O60285	UniProtKB	Mutagenesis	600	600	.	.	.	Note=Abrogates phosphorylation by PKB/AKT1. Does not affect ability to induce senescence. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12409306,ECO:0000269|PubMed:19927127;Dbxref=PMID:12409306,PMID:19927127	
+O60285	UniProtKB	Sequence conflict	86	86	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

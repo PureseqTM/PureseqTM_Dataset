@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q9HCE7 1 757
+Q9HCE7	UniProtKB	Chain	1	757	.	.	.	ID=PRO_0000120326;Note=E3 ubiquitin-protein ligase SMURF1	
+Q9HCE7	UniProtKB	Domain	1	99	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q9HCE7	UniProtKB	Domain	234	267	.	.	.	Note=WW 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00224	
+Q9HCE7	UniProtKB	Domain	306	339	.	.	.	Note=WW 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00224	
+Q9HCE7	UniProtKB	Domain	420	757	.	.	.	Note=HECT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00104	
+Q9HCE7	UniProtKB	Active site	725	725	.	.	.	Note=Glycyl thioester intermediate	
+Q9HCE7	UniProtKB	Modified residue	200	200	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HCE7	UniProtKB	Cross-link	381	381	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21572392;Dbxref=PMID:21572392	
+Q9HCE7	UniProtKB	Cross-link	383	383	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21572392;Dbxref=PMID:21572392	
+Q9HCE7	UniProtKB	Alternative sequence	269	294	.	.	.	ID=VSP_006812;Note=In isoform Short. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10458166,ECO:0000303|PubMed:15489334;Dbxref=PMID:10458166,PMID:15489334	
+Q9HCE7	UniProtKB	Natural variant	466	466	.	.	.	ID=VAR_052959;Note=S->Y;Dbxref=dbSNP:rs13246077	
+Q9HCE7	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Fails to ubiquitinate RHOA%3B when associated with A-85. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21402695;Dbxref=PMID:21402695	
+Q9HCE7	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Fails to ubiquitinate RHOA%3B when associated with A-28. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21402695;Dbxref=PMID:21402695	
+Q9HCE7	UniProtKB	Mutagenesis	350	350	.	.	.	Note=Abolishes FBXL15-mediated ubiquitination and degradation%3B when associated with R-381 and R-381. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21572392;Dbxref=PMID:21572392	
+Q9HCE7	UniProtKB	Mutagenesis	381	381	.	.	.	Note=Abolishes FBXL15-mediated ubiquitination and degradation%3B when associated with R-350 and R-383. Abolishes FBXL15-mediated ubiquitination and degradation%3B when associated with R-383. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21572392;Dbxref=PMID:21572392	
+Q9HCE7	UniProtKB	Mutagenesis	383	383	.	.	.	Note=Abolishes FBXL15-mediated ubiquitination and degradation%3B when associated with R-350 and R-381. Abolishes FBXL15-mediated ubiquitination and degradation%3B when associated with R-381. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21572392;Dbxref=PMID:21572392	
+Q9HCE7	UniProtKB	Mutagenesis	725	725	.	.	.	Note=Loss of enzyme activity%2C without abolishing FBXL15-mediated ubiquitination. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19937093,ECO:0000269|PubMed:21572392;Dbxref=PMID:19937093,PMID:21572392	
+Q9HCE7	UniProtKB	Sequence conflict	447	447	.	.	.	Note=W->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCE7	UniProtKB	Sequence conflict	697	699	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCE7	UniProtKB	Sequence conflict	697	699	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HCE7	UniProtKB	Beta strand	13	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	36	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Turn	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	61	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	76	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Helix	83	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Turn	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	94	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Helix	102	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	114	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	131	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PYC	
+Q9HCE7	UniProtKB	Beta strand	241	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LAZ	
+Q9HCE7	UniProtKB	Turn	246	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LAZ	
+Q9HCE7	UniProtKB	Beta strand	249	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LAZ	
+Q9HCE7	UniProtKB	Turn	255	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LAZ	
+Q9HCE7	UniProtKB	Beta strand	259	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LAZ	
+Q9HCE7	UniProtKB	Beta strand	312	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LB1	
+Q9HCE7	UniProtKB	Turn	318	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LB1	
+Q9HCE7	UniProtKB	Beta strand	321	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LB1	
+Q9HCE7	UniProtKB	Turn	327	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LB1	
+Q9HCE7	UniProtKB	Beta strand	331	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LB1	

@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region P05305 1 212
+P05305	UniProtKB	Signal peptide	1	17	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1864385;Dbxref=PMID:1864385	
+P05305	UniProtKB	Propeptide	18	50	.	.	.	ID=PRO_0000008058	
+P05305	UniProtKB	Peptide	53	90	.	.	.	ID=PRO_0000008059;Note=Big endothelin-1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10438732;Dbxref=PMID:10438732	
+P05305	UniProtKB	Peptide	53	73	.	.	.	ID=PRO_0000008060;Note=Endothelin-1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10438732;Dbxref=PMID:10438732	
+P05305	UniProtKB	Propeptide	74	212	.	.	.	ID=PRO_0000008061	
+P05305	UniProtKB	Region	109	123	.	.	.	Note=Endothelin-like	
+P05305	UniProtKB	Site	73	74	.	.	.	Note=Cleavage%3B by KEL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10438732;Dbxref=PMID:10438732	
+P05305	UniProtKB	Disulfide bond	53	67	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7664037;Dbxref=PMID:7664037	
+P05305	UniProtKB	Disulfide bond	55	63	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7664037;Dbxref=PMID:7664037	
+P05305	UniProtKB	Natural variant	64	64	.	.	.	ID=VAR_071152;Note=In QME. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24268655;Dbxref=dbSNP:rs587777233,PMID:24268655	
+P05305	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_071153;Note=In ARCND3. P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24268655;Dbxref=dbSNP:rs587777232,PMID:24268655	
+P05305	UniProtKB	Natural variant	91	91	.	.	.	ID=VAR_071154;Note=In ARCND3. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24268655;Dbxref=dbSNP:rs587777231,PMID:24268655	
+P05305	UniProtKB	Natural variant	186	186	.	.	.	ID=VAR_048933;Note=V->I;Dbxref=dbSNP:rs6413478	
+P05305	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_014188;Note=Polymorphism associated with HDL cholesterol levels is some populations and in a sex-specific manner. K->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10334806,ECO:0000269|PubMed:10391210,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17357073,ECO:0000269|PubMed:18288492,ECO:0000269|Ref.5;Dbxref=dbSNP:rs5370,PMID:10334806,PMID:10391210,PMID:15489334,PMID:17357073,PMID:18288492	
+P05305	UniProtKB	Beta strand	53	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1T7H	
+P05305	UniProtKB	Beta strand	57	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EDN	
+P05305	UniProtKB	Helix	61	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1T7H	
+P05305	UniProtKB	Turn	68	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EDN	

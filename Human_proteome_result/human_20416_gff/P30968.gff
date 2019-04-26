@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P30968 1 328
+P30968	UniProtKB	Chain	1	328	.	.	.	ID=PRO_0000069487;Note=Gonadotropin-releasing hormone receptor	
+P30968	UniProtKB	Topological domain	1	38	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	39	58	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	59	77	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	78	97	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	98	115	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	116	137	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	138	164	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	165	184	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	185	212	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	213	232	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	233	281	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	282	300	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	301	306	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Transmembrane	307	326	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Topological domain	327	328	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Glycosylation	18	18	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Glycosylation	102	102	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30968	UniProtKB	Disulfide bond	114	196	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P30968	UniProtKB	Alternative sequence	176	328	.	.	.	ID=VSP_001914;Note=In isoform 2. YIFRMIHLADSSGQTKVFSQCVTHCSFSQWWHQAFYNFFTFSCLFIIPLFIMLICNAKIIFTLTRVLHQDPHELQLNQSKNNIPRARLKTLKMTVAFATSFTVCWTPYYVLGIWYWFDPEMLNRLSDPVNHFFFLFAFLNPCFDPLIYGYFSL->PLHHPSFHHADLQCKNHLHPDTGPSSGPPRTTTESVQEQYTKSTAEDSKNDGCICHFIYCLLDSLLCPRNLVLV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9259321;Dbxref=PMID:9259321	
+P30968	UniProtKB	Natural variant	10	10	.	.	.	ID=VAR_019311;Note=In HH7%3B is able to bind GnRH but with a reduced affinity in vitro. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11397871;Dbxref=dbSNP:rs104893843,PMID:11397871	
+P30968	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_072970;Note=In HH7. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs774317793,PMID:25077900	
+P30968	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_072971;Note=In HH7. I->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs886907903,PMID:25077900	
+P30968	UniProtKB	Natural variant	83	83	.	.	.	ID=VAR_069960;Note=In HH7%3B the patient also carries a mutation in FGFR1. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23643382;Dbxref=dbSNP:rs1391808526,PMID:23643382	
+P30968	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_072972;Note=In HH7. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25077900;Dbxref=PMID:25077900	
+P30968	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_019312;Note=In HH7%3B virtual abolition of GnRH agonist binding and agonist-stimulated phosphoinositide turnover%3B impairs GnRHR-effector coupling. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11318785,ECO:0000269|PubMed:11994356;Dbxref=dbSNP:rs104893844,PMID:11318785,PMID:11994356	
+P30968	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_019313;Note=In HH7%3B some patients also carry mutations in FGFR1%3B decreases but does not eliminate GnRH binding. Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10022417,ECO:0000269|PubMed:11397842,ECO:0000269|PubMed:11397871,ECO:0000269|PubMed:23643382,ECO:0000269|PubMed:25077900,ECO:0000269|PubMed:9371856;Dbxref=dbSNP:rs104893836,PMID:10022417,PMID:11397842,PMID:11397871,PMID:23643382,PMID:25077900,PMID:9371856	
+P30968	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_019314;Note=In HH7%3B complete loss of function. A->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10084584,ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs104893838,PMID:10084584,PMID:25077900	
+P30968	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_019315;Note=In HH7%3B completely eliminates detectable GnRH-binding activity and prevents GnRH-induced stimulation of inositol phosphate accumulation in vitro. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11397871,ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs104893842,PMID:11397871,PMID:25077900	
+P30968	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_072973;Note=In HH7. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs144900788,PMID:25077900	
+P30968	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_019316;Note=In HH7%3B complete loss of the receptor-mediated signaling response. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10523035;Dbxref=dbSNP:rs104893840,PMID:10523035	
+P30968	UniProtKB	Natural variant	171	171	.	.	.	ID=VAR_019317;Note=In HH7%3B complete loss of ligand binding and receptor activation%3B specific receptor binding of radioisotope-labeled GnRH ligand is undetectable in transfected cells. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12679486;Dbxref=dbSNP:rs74452732,PMID:12679486	
+P30968	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_019318;Note=In HH7%3B altered hormone binding. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10022417;Dbxref=dbSNP:rs104893839,PMID:10022417	
+P30968	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_019319;Note=In HH7%3B unknown pathological significance%3B some patients also carry mutations in FGFR1%3B minimal effects upon receptor affinity but expression decreased%3B altered activation of phospholipase C. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10022417,ECO:0000269|PubMed:10084584,ECO:0000269|PubMed:23643382,ECO:0000269|PubMed:25077900,ECO:0000269|PubMed:9371856,ECO:0000269|PubMed:9425890;Dbxref=dbSNP:rs104893837,PMID:10022417,PMID:10084584,PMID:23643382,PMID:25077900,PMID:9371856,PMID:9425890	
+P30968	UniProtKB	Natural variant	266	266	.	.	.	ID=VAR_072974;Note=In HH7%3B unknown pathological significance. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25077900;Dbxref=dbSNP:rs148499544,PMID:25077900	
+P30968	UniProtKB	Natural variant	284	284	.	.	.	ID=VAR_019320;Note=In HH7%3B minimal effects upon receptor affinity but receptor expression decreased. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9425890;Dbxref=dbSNP:rs28933074,PMID:9425890	
+P30968	UniProtKB	Sequence conflict	247	247	.	.	.	Note=H->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

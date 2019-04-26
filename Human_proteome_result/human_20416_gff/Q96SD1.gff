@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q96SD1 1 692
+Q96SD1	UniProtKB	Chain	1	692	.	.	.	ID=PRO_0000209122;Note=Protein artemis	
+Q96SD1	UniProtKB	Modified residue	380	380	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8K4J0	
+Q96SD1	UniProtKB	Modified residue	385	385	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8K4J0	
+Q96SD1	UniProtKB	Modified residue	645	645	.	.	.	Note=Phosphoserine%3B by ATM;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15468306,ECO:0000269|PubMed:15723659;Dbxref=PMID:15468306,PMID:15723659	
+Q96SD1	UniProtKB	Alternative sequence	1	120	.	.	.	ID=VSP_014888;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12055248;Dbxref=PMID:12055248	
+Q96SD1	UniProtKB	Alternative sequence	1	115	.	.	.	ID=VSP_014889;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12055248,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:12055248,PMID:14702039,PMID:15489334	
+Q96SD1	UniProtKB	Alternative sequence	116	121	.	.	.	ID=VSP_014890;Note=In isoform 3. CPGSVM->MKHQER;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12055248,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:12055248,PMID:14702039,PMID:15489334	
+Q96SD1	UniProtKB	Alternative sequence	386	434	.	.	.	ID=VSP_014891;Note=In isoform 4. EEEDDYLFDDPLPIPLRHKVPYPETFHPEVFSMTAVSEKQPEKLRQTPG->GSHSVTQARMRWCHHDSLYPLTPGIKRSSCLSLLTSWITGAYRHAQLMI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96SD1	UniProtKB	Alternative sequence	435	692	.	.	.	ID=VSP_014892;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96SD1	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_023077;Note=In Omenn syndrome. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15731174;Dbxref=dbSNP:rs121908159,PMID:15731174	
+Q96SD1	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_023078;Note=In RSSCID. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12406895;Dbxref=PMID:12406895	
+Q96SD1	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_023079;Note=In RSSCID. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12406895;Dbxref=PMID:12406895	
+Q96SD1	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_060689;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41297016	
+Q96SD1	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_060690;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41297018	
+Q96SD1	UniProtKB	Natural variant	171	171	.	.	.	ID=VAR_048892;Note=P->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|Ref.4;Dbxref=dbSNP:rs35441642,PMID:14702039	
+Q96SD1	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_048893;Note=H->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4;Dbxref=dbSNP:rs12768894,PMID:15489334	
+Q96SD1	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_048894;Note=S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41298896	
+Q96SD1	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_060691;Note=L->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs41299658	
+Q96SD1	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. D->N%2CA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	37	37	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. D->N%2CA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507,ECO:0000269|PubMed:15574327;Dbxref=PMID:14744996,PMID:15071507,PMID:15574327	
+Q96SD1	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Reduces PRKDC-dependent endonuclease activity%2C although V(D)J recombination is largely normal. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	115	115	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. D->N%2CA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	165	165	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. D->N%2CA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11955432,ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:11955432,PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	319	319	.	.	.	Note=Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14744996,ECO:0000269|PubMed:15071507;Dbxref=PMID:14744996,PMID:15071507	
+Q96SD1	UniProtKB	Mutagenesis	516	516	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-534%3B A-538%3B A-548%3B A-553%3B A-561 and A-562. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Mutagenesis	534	534	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-516%3B A-538%3B A-548%3B A-553%3B A-561 and A-562. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Mutagenesis	538	538	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-516%3B A-534%3B A-548%3B A-553%3B A-561 and A-562. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Mutagenesis	548	548	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-516%3B A-534%3B A-538%3B A-553%3B A-561 and A-562. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Mutagenesis	553	553	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-516%3B A-534%3B A-538%3B A-548%3B A-561 and A-562. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Mutagenesis	561	561	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-516%3B A-534%3B A-538%3B A-548%3B A-553 and A-562. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Mutagenesis	562	562	.	.	.	Note=Reduced IR induced phosphorylation%3B when associated with A-516%3B A-534%3B A-538%3B A-548%3B A-553 and A-561. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15468306;Dbxref=PMID:15468306	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Sequence conflict	560	560	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96SD1	UniProtKB	Helix	489	491	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HTP	

@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q9H169 1 189
+Q9H169	UniProtKB	Chain	1	189	.	.	.	ID=PRO_0000182406;Note=Stathmin-4	
+Q9H169	UniProtKB	Domain	48	189	.	.	.	Note=SLD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00998	
+Q9H169	UniProtKB	Coiled coil	90	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H169	UniProtKB	Modified residue	90	90	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63043	
+Q9H169	UniProtKB	Lipidation	20	20	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q93045	
+Q9H169	UniProtKB	Lipidation	22	22	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q93045	
+Q9H169	UniProtKB	Alternative sequence	1	9	.	.	.	ID=VSP_055279;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H169	UniProtKB	Alternative sequence	36	36	.	.	.	ID=VSP_006279;Note=In isoform 2 and isoform 4. E->EGWCGRQCRRKDESQRKDSADWRERRAQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9H169	UniProtKB	Alternative sequence	171	188	.	.	.	ID=VSP_055280;Note=In isoform 3 and isoform 4. DKHAEEVRKNKELKEEAS->EPPAA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H169	UniProtKB	Sequence conflict	11	11	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H169	UniProtKB	Beta strand	51	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BR1	
+Q9H169	UniProtKB	Beta strand	59	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BR1	
+Q9H169	UniProtKB	Helix	91	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6BR1	

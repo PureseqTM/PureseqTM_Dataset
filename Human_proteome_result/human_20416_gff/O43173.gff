@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region O43173 1 380
+O43173	UniProtKB	Chain	1	380	.	.	.	ID=PRO_0000149289;Note=Sia-alpha-2%2C3-Gal-beta-1%2C4-GlcNAc-R:alpha 2%2C8-sialyltransferase	
+O43173	UniProtKB	Topological domain	1	9	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43173	UniProtKB	Transmembrane	10	33	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43173	UniProtKB	Topological domain	34	380	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43173	UniProtKB	Region	211	213	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Region	300	302	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Region	336	337	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Active site	354	354	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Binding site	190	190	.	.	.	Note=Substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Glycosylation	93	93	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255,ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Glycosylation	113	113	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Glycosylation	160	160	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B atypical;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Glycosylation	206	206	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255,ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Disulfide bond	162	313	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5BO6,ECO:0000244|PDB:5BO7,ECO:0000244|PDB:5BO8,ECO:0000244|PDB:5BO9,ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Disulfide bond	176	379	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5BO6,ECO:0000244|PDB:5BO7,ECO:0000244|PDB:5BO8,ECO:0000244|PDB:5BO9,ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Natural variant	91	91	.	.	.	ID=VAR_020249;Note=K->T;Dbxref=dbSNP:rs3745060	
+O43173	UniProtKB	Mutagenesis	354	354	.	.	.	Note=Abolishes enzyme activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26192331;Dbxref=PMID:26192331	
+O43173	UniProtKB	Sequence conflict	173	174	.	.	.	Note=GS->FI;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43173	UniProtKB	Sequence conflict	178	178	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43173	UniProtKB	Sequence conflict	194	194	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43173	UniProtKB	Helix	94	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	110	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	142	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Turn	153	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	159	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	169	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	177	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	183	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	195	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	198	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	206	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	214	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	225	236	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Turn	237	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	242	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	251	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	254	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Turn	267	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	274	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	282	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Helix	301	312	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	313	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	324	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Turn	328	330	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	351	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO6	
+O43173	UniProtKB	Helix	356	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	
+O43173	UniProtKB	Beta strand	371	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5BO7	

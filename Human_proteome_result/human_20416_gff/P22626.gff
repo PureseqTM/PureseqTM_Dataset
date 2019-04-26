@@ -1,0 +1,105 @@
+##gff-version 3
+##sequence-region P22626 1 353
+P22626	UniProtKB	Chain	1	353	.	.	.	ID=PRO_0000081836;Note=Heterogeneous nuclear ribonucleoproteins A2/B1	
+P22626	UniProtKB	Domain	21	104	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+P22626	UniProtKB	Domain	112	191	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+P22626	UniProtKB	Region	193	353	.	.	.	Note=Low complexity (LC) region;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Region	308	347	.	.	.	Note=Nuclear targeting sequence;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P22626	UniProtKB	Motif	9	15	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P22626	UniProtKB	Compositional bias	202	353	.	.	.	Note=Gly-rich	
+P22626	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:22814378,ECO:0000269|Ref.6;Dbxref=PMID:22814378	
+P22626	UniProtKB	Modified residue	4	4	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22626	UniProtKB	Modified residue	29	29	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P22626	UniProtKB	Modified residue	38	38	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88569	
+P22626	UniProtKB	Modified residue	85	85	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:24275569;Dbxref=PMID:19690332,PMID:20068231,PMID:24275569	
+P22626	UniProtKB	Modified residue	104	104	.	.	.	Note=N6%2CN6-dimethyllysine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6	
+P22626	UniProtKB	Modified residue	140	140	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22626	UniProtKB	Modified residue	149	149	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P22626	UniProtKB	Modified residue	159	159	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22626	UniProtKB	Modified residue	168	168	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P22626	UniProtKB	Modified residue	173	173	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P22626	UniProtKB	Modified residue	176	176	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22626	UniProtKB	Modified residue	189	189	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22626	UniProtKB	Modified residue	201	201	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P22626	UniProtKB	Modified residue	203	203	.	.	.	Note=Asymmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88569	
+P22626	UniProtKB	Modified residue	203	203	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6	
+P22626	UniProtKB	Modified residue	203	203	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:15782174,ECO:0000244|PubMed:24129315,ECO:0000269|Ref.6;Dbxref=PMID:15782174,PMID:24129315	
+P22626	UniProtKB	Modified residue	212	212	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+P22626	UniProtKB	Modified residue	213	213	.	.	.	Note=Asymmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88569	
+P22626	UniProtKB	Modified residue	213	213	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6	
+P22626	UniProtKB	Modified residue	213	213	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:24129315,ECO:0000269|Ref.6;Dbxref=PMID:24129315	
+P22626	UniProtKB	Modified residue	225	225	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+P22626	UniProtKB	Modified residue	228	228	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P22626	UniProtKB	Modified residue	231	231	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:21406692,PMID:24275569	
+P22626	UniProtKB	Modified residue	236	236	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+P22626	UniProtKB	Modified residue	238	238	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P22626	UniProtKB	Modified residue	259	259	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17924679,ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:17924679,PMID:18220336,PMID:18669648,PMID:18691976,PMID:19369195,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+P22626	UniProtKB	Modified residue	266	266	.	.	.	Note=Asymmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:A7VJC2	
+P22626	UniProtKB	Modified residue	266	266	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P22626	UniProtKB	Modified residue	324	324	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+P22626	UniProtKB	Modified residue	325	325	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P22626	UniProtKB	Modified residue	331	331	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+P22626	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17924679,ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17924679,PMID:18220336,PMID:18669648,PMID:20068231,PMID:23186163,PMID:24275569	
+P22626	UniProtKB	Modified residue	344	344	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+P22626	UniProtKB	Modified residue	347	347	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P22626	UniProtKB	Modified residue	350	350	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+P22626	UniProtKB	Cross-link	22	22	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	104	104	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	112	112	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	120	120	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:28112733	
+P22626	UniProtKB	Cross-link	137	137	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	152	152	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	168	168	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	173	173	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P22626	UniProtKB	Cross-link	186	186	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25218447;Dbxref=PMID:25218447	
+P22626	UniProtKB	Alternative sequence	3	14	.	.	.	ID=VSP_005830;Note=In isoform A2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2557628;Dbxref=PMID:2557628	
+P22626	UniProtKB	Natural variant	302	302	.	.	.	ID=VAR_070591;Note=In IBMPFD2. D->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23455423;Dbxref=dbSNP:rs397515326,PMID:23455423	
+P22626	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Does not affect hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	209	209	.	.	.	Note=Does not affect hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	219	219	.	.	.	Note=Does not affect hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Does not affect hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	234	234	.	.	.	Note=Does not affect hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	240	240	.	.	.	Note=Does not affect hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	244	244	.	.	.	Note=Does not affect hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	247	247	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	256	256	.	.	.	Note=Does not affect hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	269	269	.	.	.	Note=Does not affect hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	276	276	.	.	.	Note=Impairs hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	283	283	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Does not affect hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Impairs hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	295	295	.	.	.	Note=Impairs hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	300	300	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	303	303	.	.	.	Note=Impairs hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	306	306	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	321	321	.	.	.	Note=Impairs hydrogel-binding. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	331	331	.	.	.	Note=Impairs hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	336	336	.	.	.	Note=Slightly affects hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	347	347	.	.	.	Note=Does not affect hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Does not affect hydrogel-binding. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544936;Dbxref=PMID:26544936	
+P22626	UniProtKB	Sequence conflict	205	205	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P22626	UniProtKB	Helix	18	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	22	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Helix	34	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Helix	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	47	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Turn	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	61	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Helix	72	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	83	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X4B	
+P22626	UniProtKB	Beta strand	92	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Helix	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Turn	105	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	112	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Turn	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5WWG	
+P22626	UniProtKB	Helix	125	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Helix	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	138	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Turn	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	152	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Helix	164	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	174	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Beta strand	180	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	
+P22626	UniProtKB	Turn	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HO4	

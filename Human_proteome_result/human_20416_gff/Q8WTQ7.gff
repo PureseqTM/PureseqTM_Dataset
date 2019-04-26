@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q8WTQ7 1 553
+Q8WTQ7	UniProtKB	Chain	1	550	.	.	.	ID=PRO_0000024332;Note=Rhodopsin kinase	
+Q8WTQ7	UniProtKB	Propeptide	551	553	.	.	.	ID=PRO_0000024333;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8WTQ7	UniProtKB	Domain	56	176	.	.	.	Note=RGS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00171	
+Q8WTQ7	UniProtKB	Domain	191	454	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8WTQ7	UniProtKB	Domain	455	520	.	.	.	Note=AGC-kinase C-terminal	
+Q8WTQ7	UniProtKB	Nucleotide binding	197	205	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8WTQ7	UniProtKB	Active site	316	316	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q8WTQ7	UniProtKB	Binding site	220	220	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q8WTQ7	UniProtKB	Modified residue	36	36	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18803695;Dbxref=PMID:18803695	
+Q8WTQ7	UniProtKB	Modified residue	550	550	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WTQ7	UniProtKB	Lipidation	550	550	.	.	.	Note=S-geranylgeranyl cysteine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WTQ7	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_040527;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34429284,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_040528;Note=C->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56070798,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_040529;Note=S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34769632,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_040530;Note=S->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35318124,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_040531;Note=V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55707760,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_040532;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56019094,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	226	226	.	.	.	ID=VAR_040533;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35566288,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_040534;Note=In a metastatic melanoma sample%3B somatic mutation. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_040535;Note=E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55824414,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	313	313	.	.	.	ID=VAR_040536;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56076641,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	443	443	.	.	.	ID=VAR_040537;Note=E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs36009541,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	460	460	.	.	.	ID=VAR_040538;Note=P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs33928105,PMID:17344846	
+Q8WTQ7	UniProtKB	Natural variant	461	461	.	.	.	ID=VAR_051624;Note=R->C;Dbxref=dbSNP:rs36004830	
+Q8WTQ7	UniProtKB	Mutagenesis	23	23	.	.	.	Note=No effect on kinase activity. Increase kinase activity%3B when associated with A-36. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15946941;Dbxref=PMID:15946941	
+Q8WTQ7	UniProtKB	Mutagenesis	36	36	.	.	.	Note=No effect on kinase activity. Increase kinase activity%3B when associated with A-23. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15946941;Dbxref=PMID:15946941	

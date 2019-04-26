@@ -1,0 +1,89 @@
+##gff-version 3
+##sequence-region P07101 1 528
+P07101	UniProtKB	Chain	1	528	.	.	.	ID=PRO_0000205561;Note=Tyrosine 3-monooxygenase	
+P07101	UniProtKB	Compositional bias	85	90	.	.	.	Note=Poly-Ala	
+P07101	UniProtKB	Metal binding	361	361	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07101	UniProtKB	Metal binding	366	366	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07101	UniProtKB	Metal binding	406	406	.	.	.	Note=Iron;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07101	UniProtKB	Modified residue	19	19	.	.	.	Note=Phosphoserine%3B by CaMK2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1680128;Dbxref=PMID:1680128	
+P07101	UniProtKB	Modified residue	62	62	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P24529	
+P07101	UniProtKB	Modified residue	71	71	.	.	.	Note=Phosphoserine%3B by CaMK2 and PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1680128;Dbxref=PMID:1680128	
+P07101	UniProtKB	Modified residue	502	502	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P24529	
+P07101	UniProtKB	Alternative sequence	31	61	.	.	.	ID=VSP_000544;Note=In isoform 2 and isoform 6. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17391063,ECO:0000303|PubMed:2882428;Dbxref=PMID:15489334,PMID:17391063,PMID:2882428	
+P07101	UniProtKB	Alternative sequence	31	34	.	.	.	ID=VSP_000543;Note=In isoform 1. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2888085;Dbxref=PMID:2888085	
+P07101	UniProtKB	Alternative sequence	35	61	.	.	.	ID=VSP_000541;Note=In isoform 4 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17391063;Dbxref=PMID:15489334,PMID:17391063	
+P07101	UniProtKB	Alternative sequence	264	357	.	.	.	ID=VSP_054338;Note=In isoform 5 and isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17391063;Dbxref=PMID:17391063	
+P07101	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_072862;Note=Found in a patient with ARSEGS%3B unknown pathological significance. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23762320;Dbxref=dbSNP:rs766704202,PMID:23762320	
+P07101	UniProtKB	Natural variant	112	112	.	.	.	ID=VAR_014025;Note=Common polymorphism. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391209,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:21940685,ECO:0000269|PubMed:7789962,ECO:0000269|PubMed:9613851;Dbxref=dbSNP:rs6356,PMID:10391209,PMID:15489334,PMID:21940685,PMID:7789962,PMID:9613851	
+P07101	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_072863;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20430833,ECO:0000269|PubMed:24753243;Dbxref=PMID:20430833,PMID:24753243	
+P07101	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_072864;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. D->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20430833,ECO:0000269|PubMed:24753243;Dbxref=PMID:20430833,PMID:24753243	
+P07101	UniProtKB	Natural variant	233	233	.	.	.	ID=VAR_014026;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity%3B shifted substrate specificity from tyrosine to phenylalanine and Dopa. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18554280,ECO:0000269|PubMed:22264700,ECO:0000269|PubMed:24753243,ECO:0000269|PubMed:9703425;Dbxref=dbSNP:rs80338892,PMID:18554280,PMID:22264700,PMID:24753243,PMID:9703425	
+P07101	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_014027;Note=In ARSEGS%3B severe parkinsonian symptoms in early infancy%3B strongly reduced stability and catalytic activity%3B rare mutation. L->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24753243,ECO:0000269|PubMed:8817341,ECO:0000269|PubMed:9613851;Dbxref=dbSNP:rs121917763,PMID:24753243,PMID:8817341,PMID:9613851	
+P07101	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_072865;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20430833,ECO:0000269|PubMed:24753243;Dbxref=PMID:20430833,PMID:24753243	
+P07101	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_072866;Note=In ARSEGS%3B loss of about 40%25 of tyrosine hydroxylase activity. H->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15747353,ECO:0000269|PubMed:24753243;Dbxref=PMID:15747353,PMID:24753243	
+P07101	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_072867;Note=In ARSEGS%3B loss of about 50%25 of tyrosine hydroxylase activity%3B shifted substrate specificity from tyrosine to phenylalanine and Dopa. G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18554280,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs762304556,PMID:18554280,PMID:24753243	
+P07101	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_071715;Note=In ARSEGS. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21940685;Dbxref=PMID:21940685	
+P07101	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_072868;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. E->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20430833,ECO:0000269|PubMed:24753243;Dbxref=PMID:20430833,PMID:24753243	
+P07101	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_014028;Note=In ARSEGS%3B parkinsonian symptoms in infancy%3B no effect on tyrosine hydroxylase activity. T->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11246459,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs28934581,PMID:11246459,PMID:24753243	
+P07101	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_071716;Note=In ARSEGS. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21940685;Dbxref=dbSNP:rs1273610334,PMID:21940685	
+P07101	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_072869;Note=In ARSEGS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20056467;Dbxref=dbSNP:rs755536257,PMID:20056467	
+P07101	UniProtKB	Natural variant	296	296	.	.	.	ID=VAR_071717;Note=In ARSEGS. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21940685;Dbxref=dbSNP:rs199961079,PMID:21940685	
+P07101	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_072870;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. P->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19491146,ECO:0000269|PubMed:24753243;Dbxref=PMID:19491146,PMID:24753243	
+P07101	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_072871;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11196107,ECO:0000269|PubMed:24753243;Dbxref=PMID:11196107,PMID:24753243	
+P07101	UniProtKB	Natural variant	314	314	.	.	.	ID=VAR_014029;Note=In ARSEGS%3B parkinsonian symptoms in infancy%3B loss of about 80%25 of tyrosine hydroxylase activity. T->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11246459,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs121917764,PMID:11246459,PMID:24753243	
+P07101	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_071718;Note=In ARSEGS. G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20056467,ECO:0000269|PubMed:22264700;Dbxref=dbSNP:rs1288483479,PMID:20056467,PMID:22264700	
+P07101	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_072872;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19491146,ECO:0000269|PubMed:24753243;Dbxref=PMID:19491146,PMID:24753243	
+P07101	UniProtKB	Natural variant	328	328	.	.	.	ID=VAR_072873;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16049992,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs1428589694,PMID:16049992,PMID:24753243	
+P07101	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_014030;Note=In ARSEGS%3B parkinsonian symptoms in infancy%3B no effect on tyrosine hydroxylase activity. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11246459,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs28934580,PMID:11246459,PMID:24753243	
+P07101	UniProtKB	Natural variant	359	359	.	.	.	ID=VAR_072874;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. C->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10585338,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs121917765,PMID:10585338,PMID:24753243	
+P07101	UniProtKB	Natural variant	375	375	.	.	.	ID=VAR_072875;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity%3B shifted substrate specificity from tyrosine to phenylalanine and Dopa. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19491146,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs763198914,PMID:19491146,PMID:24753243	
+P07101	UniProtKB	Natural variant	376	376	.	.	.	ID=VAR_072876;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. A->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15505183,ECO:0000269|PubMed:24753243;Dbxref=PMID:15505183,PMID:24753243	
+P07101	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_071719;Note=In ARSEGS. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22264700;Dbxref=PMID:22264700	
+P07101	UniProtKB	Natural variant	385	385	.	.	.	ID=VAR_072877;Note=In ARSEGS. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20056467;Dbxref=dbSNP:rs763039181,PMID:20056467	
+P07101	UniProtKB	Natural variant	387	387	.	.	.	ID=VAR_072878;Note=In ARSEGS%3B no effect on tyrosine hydroxylase activity. L->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17696123,ECO:0000269|PubMed:24753243;Dbxref=PMID:17696123,PMID:24753243	
+P07101	UniProtKB	Natural variant	394	394	.	.	.	ID=VAR_072879;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. I->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20056467,ECO:0000269|PubMed:20430833,ECO:0000269|PubMed:24753243;Dbxref=PMID:20056467,PMID:20430833,PMID:24753243	
+P07101	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_072880;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. T->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16049992,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs1057520384,PMID:16049992,PMID:24753243	
+P07101	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_072881;Note=In ARSEGS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20056467;Dbxref=dbSNP:rs745551241,PMID:20056467	
+P07101	UniProtKB	Natural variant	412	412	.	.	.	ID=VAR_014031;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity%3B reduced affinity for L-tyrosine. Q->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24753243,ECO:0000269|PubMed:7814018,ECO:0000269|PubMed:8528210;Dbxref=dbSNP:rs121917762,PMID:24753243,PMID:7814018,PMID:8528210	
+P07101	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_072882;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18058633,ECO:0000269|PubMed:19491146,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs370962049,PMID:18058633,PMID:19491146,PMID:24753243	
+P07101	UniProtKB	Natural variant	428	428	.	.	.	ID=VAR_071720;Note=In ARSEGS%3B phenotype with prominent levodopa-responsive myoconus-dystonia (M-D). G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22815559,ECO:0000269|PubMed:23762320;Dbxref=dbSNP:rs1264884607,PMID:22815559,PMID:23762320	
+P07101	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_072883;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. R->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23939262,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs367874223,PMID:23939262,PMID:24753243	
+P07101	UniProtKB	Natural variant	467	467	.	.	.	ID=VAR_072884;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. S->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19491146,ECO:0000269|PubMed:24753243;Dbxref=PMID:19491146,PMID:24753243	
+P07101	UniProtKB	Natural variant	492	492	.	.	.	ID=VAR_072885;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17696123,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs767635052,PMID:17696123,PMID:24753243	
+P07101	UniProtKB	Natural variant	494	494	.	.	.	ID=VAR_014032;Note=In ARSEGS%3B parkinsonian symptoms in infancy%3B no effect on tyrosine hydroxylase activity. T->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11246459,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs45471299,PMID:11246459,PMID:24753243	
+P07101	UniProtKB	Natural variant	498	498	.	.	.	ID=VAR_072886;Note=In ARSEGS%3B loss of over 80%25 of tyrosine hydroxylase activity. D->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15505183,ECO:0000269|PubMed:15747353,ECO:0000269|PubMed:23939262,ECO:0000269|PubMed:24753243;Dbxref=dbSNP:rs771351747,PMID:15505183,PMID:15747353,PMID:23939262,PMID:24753243	
+P07101	UniProtKB	Natural variant	499	499	.	.	.	ID=VAR_014033;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9754624;Dbxref=dbSNP:rs1800033,PMID:9754624	
+P07101	UniProtKB	Natural variant	510	510	.	.	.	ID=VAR_072887;Note=In ARSEGS%3B complete loss of tyrosine hydroxylase activity. L->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18058633,ECO:0000269|PubMed:24753243;Dbxref=PMID:18058633,PMID:24753243	
+P07101	UniProtKB	Sequence conflict	373	373	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07101	UniProtKB	Sequence conflict	401	401	.	.	.	Note=Y->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07101	UniProtKB	Sequence conflict	401	401	.	.	.	Note=Y->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07101	UniProtKB	Sequence conflict	401	401	.	.	.	Note=Y->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P07101	UniProtKB	Helix	201	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Turn	216	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Turn	223	226	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	228	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	257	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	280	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	303	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	317	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	327	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Turn	335	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	338	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	359	365	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	367	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	373	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	391	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Turn	404	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	409	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	415	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	421	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	427	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	435	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	445	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	460	466	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	468	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	485	491	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Turn	492	495	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Beta strand	496	500	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	
+P07101	UniProtKB	Helix	503	526	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XSN	

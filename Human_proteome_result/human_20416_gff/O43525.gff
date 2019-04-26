@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region O43525 1 872
+O43525	UniProtKB	Chain	1	872	.	.	.	ID=PRO_0000054034;Note=Potassium voltage-gated channel subfamily KQT member 3	
+O43525	UniProtKB	Topological domain	1	121	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Transmembrane	122	142	.	.	.	Note=Helical%3B Name%3DSegment S1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	143	152	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Transmembrane	153	173	.	.	.	Note=Helical%3B Name%3DSegment S2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	174	196	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Transmembrane	197	217	.	.	.	Note=Helical%3B Name%3DSegment S3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	218	225	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Transmembrane	226	247	.	.	.	Note=Helical%3B Voltage-sensor%3B Name%3DSegment S4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	248	261	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Transmembrane	262	282	.	.	.	Note=Helical%3B Name%3DSegment S5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	283	303	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Intramembrane	304	324	.	.	.	Note=Pore-forming%3B Name%3DSegment H5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	325	330	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Transmembrane	331	351	.	.	.	Note=Helical%3B Name%3DSegment S6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Topological domain	352	872	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43525	UniProtKB	Region	356	537	.	.	.	Note=Mediates interaction with calmodulin;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27564677;Dbxref=PMID:27564677	
+O43525	UniProtKB	Motif	316	321	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43525	UniProtKB	Compositional bias	13	24	.	.	.	Note=Poly-Gly	
+O43525	UniProtKB	Modified residue	81	81	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88944	
+O43525	UniProtKB	Modified residue	246	246	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16319223;Dbxref=PMID:16319223	
+O43525	UniProtKB	Alternative sequence	1	9	.	.	.	ID=VSP_044906;Note=In isoform 2. MGLKARRAA->MKPAEHATM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43525	UniProtKB	Alternative sequence	10	129	.	.	.	ID=VSP_044907;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43525	UniProtKB	Natural variant	305	305	.	.	.	ID=VAR_026994;Note=In BFNS2%3B reduces the maximal heteromeric current by 40%25 with no alteration in voltage dependence of activation or deactivation kinetics. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14534157;Dbxref=dbSNP:rs118192248,PMID:14534157	
+O43525	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_010935;Note=In BFNS2. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10852552;Dbxref=dbSNP:rs118192249,PMID:10852552	
+O43525	UniProtKB	Natural variant	310	310	.	.	.	ID=VAR_001546;Note=In BFNS2%3B about 50%25 reduction of wild-type heteromeric current%3B ratio of 1:1%3B or 20%25%3B ratio of 1:1:2. G->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14534157,ECO:0000269|PubMed:9425900,ECO:0000269|PubMed:9872318;Dbxref=dbSNP:rs118192250,PMID:14534157,PMID:9425900,PMID:9872318	
+O43525	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_078681;Note=In BFNS2%3B unknown pathological significance. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25982755;Dbxref=PMID:25982755	
+O43525	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_053859;Note=E->G;Dbxref=dbSNP:rs2303995	
+O43525	UniProtKB	Natural variant	468	468	.	.	.	ID=VAR_026995;Note=Has no statistically significant effect on the current or biophysical properties of the heteromeric channel. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14534157;Dbxref=dbSNP:rs118192252,PMID:14534157	
+O43525	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_072741;Note=Rare variant%3B found in a patient with rolandic epilepsy and additional features such as mild developmental delay and abnormal behavior%3B unknown pathological significance. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22612257;Dbxref=dbSNP:rs74582884,PMID:22612257	
+O43525	UniProtKB	Natural variant	780	780	.	.	.	ID=VAR_078682;Note=Found in patients with benign familial infantile seizures%3B unknown pathological significance. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23360469;Dbxref=dbSNP:rs138852641,PMID:23360469	
+O43525	UniProtKB	Mutagenesis	246	246	.	.	.	Note=No effect on current or expression. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16319223;Dbxref=PMID:16319223	
+O43525	UniProtKB	Mutagenesis	246	246	.	.	.	Note=Abolishes currents without reducing channel protein expression. T->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16319223;Dbxref=PMID:16319223	
+O43525	UniProtKB	Mutagenesis	318	318	.	.	.	Note=>50%25 Reduction of wt heteromeric current%3B ratio of 1:1 and 1:1:2. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9872318;Dbxref=PMID:9872318	
+O43525	UniProtKB	Sequence conflict	62	62	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43525	UniProtKB	Sequence conflict	233	233	.	.	.	Note=Q->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43525	UniProtKB	Helix	373	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5J03	
+O43525	UniProtKB	Helix	397	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5J03	

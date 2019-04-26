@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region P98082 1 770
+P98082	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P98082	UniProtKB	Chain	2	770	.	.	.	ID=PRO_0000079770;Note=Disabled homolog 2	
+P98082	UniProtKB	Domain	45	196	.	.	.	Note=PID;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00148	
+P98082	UniProtKB	Region	230	447	.	.	.	Note=Required for localization to clathrin-coated pits;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98082	UniProtKB	Region	604	732	.	.	.	Note=Sufficient for interaction with GRB2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98082	UniProtKB	Region	619	627	.	.	.	Note=Required for interaction with CSK;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98082	UniProtKB	Region	649	770	.	.	.	Note=Required for interaction with MYO6;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98082	UniProtKB	Region	663	671	.	.	.	Note=Required for interaction with GRB2 and CSK;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98082	UniProtKB	Region	709	725	.	.	.	Note=Sufficient for interaction with SH3KBP1 SH3 domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98082	UniProtKB	Motif	293	295	.	.	.	Note=DPF 1	
+P98082	UniProtKB	Motif	298	300	.	.	.	Note=DPF 2	
+P98082	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P98082	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88797	
+P98082	UniProtKB	Modified residue	170	170	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P98078	
+P98082	UniProtKB	Modified residue	193	193	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P98078	
+P98082	UniProtKB	Modified residue	326	326	.	.	.	Note=Phosphoserine%3B in mitosis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88797	
+P98082	UniProtKB	Modified residue	328	328	.	.	.	Note=Phosphoserine%3B in mitosis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88797	
+P98082	UniProtKB	Modified residue	401	401	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:16964243,PMID:18669648,PMID:20068231,PMID:23186163,PMID:24275569	
+P98082	UniProtKB	Modified residue	675	675	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P98082	UniProtKB	Modified residue	723	723	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P98082	UniProtKB	Modified residue	729	729	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P98078	
+P98082	UniProtKB	Alternative sequence	209	229	.	.	.	ID=VSP_038401;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10340382,ECO:0000303|PubMed:11161789;Dbxref=PMID:10340382,PMID:11161789	
+P98082	UniProtKB	Alternative sequence	230	447	.	.	.	ID=VSP_004181;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Natural variant	586	586	.	.	.	ID=VAR_031705;Note=T->I;Dbxref=dbSNP:rs700241	
+P98082	UniProtKB	Natural variant	634	634	.	.	.	ID=VAR_050942;Note=S->N;Dbxref=dbSNP:rs3733801	
+P98082	UniProtKB	Mutagenesis	166	166	.	.	.	Note=Impairs TGF-beta receptor signaling%2C no effect on interaction with SMAD2. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11387212;Dbxref=PMID:11387212	
+P98082	UniProtKB	Mutagenesis	684	686	.	.	.	Note=Greatly reduced binding to MYO6. SYF->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11967127;Dbxref=PMID:11967127	
+P98082	UniProtKB	Mutagenesis	720	720	.	.	.	Note=Abolishes interaction with SH3KBP1. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14596919;Dbxref=PMID:14596919	
+P98082	UniProtKB	Sequence conflict	44	47	.	.	.	Note=KGDG->PRVC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	82	82	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	82	82	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	82	82	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	82	82	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	82	82	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	148	148	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	197	197	.	.	.	Note=M->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	230	232	.	.	.	Note=ESK->VCF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	230	232	.	.	.	Note=ESK->VCF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	275	275	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	302	304	.	.	.	Note=QPD->HTR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Sequence conflict	498	498	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P98082	UniProtKB	Beta strand	29	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LSW	
+P98082	UniProtKB	Helix	39	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LSW	
+P98082	UniProtKB	Turn	44	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LSW	
+P98082	UniProtKB	Helix	47	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LSW	

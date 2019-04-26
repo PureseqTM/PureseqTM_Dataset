@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region Q96L93 1 1317
+Q96L93	UniProtKB	Chain	1	1317	.	.	.	ID=PRO_0000125466;Note=Kinesin-like protein KIF16B	
+Q96L93	UniProtKB	Domain	3	358	.	.	.	Note=Kinesin motor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00283	
+Q96L93	UniProtKB	Domain	478	529	.	.	.	Note=FHA	
+Q96L93	UniProtKB	Domain	1182	1296	.	.	.	Note=PX;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00147	
+Q96L93	UniProtKB	Nucleotide binding	102	109	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00283	
+Q96L93	UniProtKB	Coiled coil	370	425	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L93	UniProtKB	Coiled coil	595	882	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L93	UniProtKB	Coiled coil	936	1087	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96L93	UniProtKB	Compositional bias	597	1070	.	.	.	Note=Glu-rich	
+Q96L93	UniProtKB	Modified residue	398	398	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96L93	UniProtKB	Modified residue	577	577	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96L93	UniProtKB	Modified residue	582	582	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96L93	UniProtKB	Modified residue	1052	1052	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96L93	UniProtKB	Alternative sequence	685	840	.	.	.	ID=VSP_015858;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q96L93	UniProtKB	Alternative sequence	1167	1317	.	.	.	ID=VSP_010851;Note=In isoform 2. RMVSRSLGANPDDLKDPIKISIPRYVLCGQGKDAHFEFEVKITVLDETWTVFRRYSRFREMHKTLKLKYAELAALEFPPKKLFGNKDERVIAERRSHLEKYLRDFFSVMLQSATSPLHINKVGLTLSKHTICEFSPFFKKGVFDYSSHGTG->LCRDLLCVLMPEPDAAACANHPLLQQDLVQLSLDWKTEIPDLVLPNGVQVSSKFQTTLVDMIYFLHGNMEVNVPSLAEVQLLLYTTVKVMGDSGHDQCQSLVLLNTHIALVKEDCVFYPRIRSRNIPPPGAQFDVIKCHALSEFRCVVVPEKKNVSTVELVFLQKLKPSVGSRNSPPEHLQEAPNVQLFTTPLYLQGSQNVAPEVWKLTFNSQDEALWLISHLTRL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10997877,ECO:0000303|PubMed:15489334;Dbxref=PMID:10997877,PMID:15489334	
+Q96L93	UniProtKB	Alternative sequence	1167	1207	.	.	.	ID=VSP_041318;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96L93	UniProtKB	Alternative sequence	1208	1237	.	.	.	ID=VSP_010852;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q96L93	UniProtKB	Natural variant	772	772	.	.	.	ID=VAR_036218;Note=In a breast cancer sample%3B somatic mutation. K->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q96L93	UniProtKB	Natural variant	810	810	.	.	.	ID=VAR_049700;Note=G->R;Dbxref=dbSNP:rs2236145	
+Q96L93	UniProtKB	Natural variant	824	824	.	.	.	ID=VAR_019396;Note=R->S;Dbxref=dbSNP:rs2236144	
+Q96L93	UniProtKB	Natural variant	999	999	.	.	.	ID=VAR_065248;Note=K->N;Dbxref=dbSNP:rs8116503	
+Q96L93	UniProtKB	Natural variant	1027	1027	.	.	.	ID=VAR_019397;Note=M->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10997877,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs6034464,PMID:10997877,PMID:15489334,PMID:17974005	
+Q96L93	UniProtKB	Natural variant	1119	1119	.	.	.	ID=VAR_019398;Note=N->S;Dbxref=dbSNP:rs8123195	
+Q96L93	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Impairs plus end-directed microtubule-dependent motor activity%2C leading to impair EGFR recycling. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15882625;Dbxref=PMID:15882625	
+Q96L93	UniProtKB	Mutagenesis	1220	1220	.	.	.	Note=Abolishes PtdIns(3)P-binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1225	1225	.	.	.	Note=Induces a 3-fold decrease in PtdIns(3)P-binding%3B when associated with A-1229 and A-1232. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1229	1229	.	.	.	Note=Induces a 3-fold decrease in PtdIns(3)P-binding%3B when associated with A-1225 and A-1232. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1232	1232	.	.	.	Note=Induces a 3-fold decrease in PtdIns(3)P-binding%3B when associated with A-1225 and A-1229. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1248	1248	.	.	.	Note=Induces a 7-fold decrease in PtdIns(3)P-binding and abolishes endosome localization. Induces a 25-fold decrease in PtdIns(3)P-binding%3B when associated with A-1249. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1248	1248	.	.	.	Note=Induces a 6-fold decrease in PtdIns(3)P-binding. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1249	1249	.	.	.	Note=Induces a 5-fold decrease in PtdIns(3)P-binding and abolishes endosome localization. Induces a 25-fold decrease in PtdIns(3)P-binding%3B when associated with A-1248. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Mutagenesis	1260	1260	.	.	.	Note=Induces a 30-fold decrease in PtdIns(3)P-binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17641687;Dbxref=PMID:17641687	
+Q96L93	UniProtKB	Sequence conflict	18	18	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	274	274	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	583	583	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	649	649	.	.	.	Note=L->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	1056	1057	.	.	.	Note=EQ->SE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	1100	1100	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	1108	1108	.	.	.	Note=S->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	1244	1244	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Sequence conflict	1244	1244	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96L93	UniProtKB	Beta strand	1184	1196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Beta strand	1201	1210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Beta strand	1213	1219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Helix	1221	1234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Helix	1236	1240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Helix	1254	1277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Helix	1285	1287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6EE0	
+Q96L93	UniProtKB	Helix	1294	1300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	
+Q96L93	UniProtKB	Helix	1302	1304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V14	

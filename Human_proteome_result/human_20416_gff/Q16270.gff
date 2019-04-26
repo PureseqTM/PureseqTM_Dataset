@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region Q16270 1 282
+Q16270	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15340161,ECO:0000269|PubMed:8117260,ECO:0000269|PubMed:8939990;Dbxref=PMID:15340161,PMID:8117260,PMID:8939990	
+Q16270	UniProtKB	Chain	27	282	.	.	.	ID=PRO_0000014392;Note=Insulin-like growth factor-binding protein 7	
+Q16270	UniProtKB	Domain	28	106	.	.	.	Note=IGFBP N-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00653	
+Q16270	UniProtKB	Domain	105	158	.	.	.	Note=Kazal-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00798	
+Q16270	UniProtKB	Domain	160	264	.	.	.	Note=Ig-like C2-type	
+Q16270	UniProtKB	Modified residue	239	239	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q16270	UniProtKB	Glycosylation	171	171	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:8939990;Dbxref=PMID:8939990	
+Q16270	UniProtKB	Disulfide bond	120	156	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00798	
+Q16270	UniProtKB	Disulfide bond	181	248	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q16270	UniProtKB	Alternative sequence	278	282	.	.	.	ID=VSP_045297;Note=In isoform 2. EGAEL->TQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q16270	UniProtKB	Natural variant	11	11	.	.	.	ID=VAR_018959;Note=L->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7694637,ECO:0000269|Ref.4;Dbxref=dbSNP:rs11573021,PMID:7694637	
+Q16270	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_063638;Note=In RNA edited version. R->G;Dbxref=dbSNP:rs11555284	
+Q16270	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_063639;Note=In RNA edited version. K->R;Dbxref=dbSNP:rs1133243	
+Q16270	UniProtKB	Sequence conflict	4	4	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16270	UniProtKB	Sequence conflict	13	13	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16270	UniProtKB	Sequence conflict	69	69	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16270	UniProtKB	Sequence conflict	273	282	.	.	.	Note=PVKKGEGAEL->ASEKR;Ontology_term=ECO:0000305;evidence=ECO:0000305	

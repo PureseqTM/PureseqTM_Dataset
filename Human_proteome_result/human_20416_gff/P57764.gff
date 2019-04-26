@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region P57764 1 484
+P57764	UniProtKB	Chain	1	484	.	.	.	ID=PRO_0000148175;Note=Gasdermin-D	
+P57764	UniProtKB	Chain	1	275	.	.	.	ID=PRO_0000437526;Note=Gasdermin-D%2C N-terminal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9D8T2	
+P57764	UniProtKB	Chain	276	484	.	.	.	ID=PRO_0000437527;Note=Gasdermin-D%2C C-terminal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9D8T2	
+P57764	UniProtKB	Site	87	88	.	.	.	Note=Cleavage%3B by CASP3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28045099;Dbxref=PMID:28045099	
+P57764	UniProtKB	Site	275	276	.	.	.	Note=Cleavage%3B by inflammatory caspases CASP1 and CASP4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26375003;Dbxref=PMID:26375003	
+P57764	UniProtKB	Modified residue	37	37	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15592455;Dbxref=PMID:15592455	
+P57764	UniProtKB	Modified residue	158	158	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15592455;Dbxref=PMID:15592455	
+P57764	UniProtKB	Modified residue	185	185	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P57764	UniProtKB	Mutagenesis	15	15	.	.	.	Note=No spontaneous pyroptosis-inducing activity%3B when associated with D-192. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27281216;Dbxref=PMID:27281216	
+P57764	UniProtKB	Mutagenesis	104	104	.	.	.	Note=Decreased effectiveness in pore formation and pyroptosis induction. No effect on cleavage by CASP1. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418190;Dbxref=PMID:27418190	
+P57764	UniProtKB	Mutagenesis	192	192	.	.	.	Note=Decreased induction of pyroptosis and defects in liposome-binding. No spontaneous pyroptosis-inducing activity%3B when associated with K-15. L->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27281216;Dbxref=PMID:27281216	
+P57764	UniProtKB	Mutagenesis	275	275	.	.	.	Note=Loss of cleavage by CASP1 and CASP4 and of LPS-induced pyroptosis. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26375003;Dbxref=PMID:26375003	
+P57764	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Spontaneous pyroptosis-inducing activity. L->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27281216;Dbxref=PMID:27281216	
+P57764	UniProtKB	Mutagenesis	373	373	.	.	.	Note=Spontaneous pyroptosis-inducing activity. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27281216;Dbxref=PMID:27281216	
+P57764	UniProtKB	Mutagenesis	377	377	.	.	.	Note=Spontaneous pyroptosis-inducing activity. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27281216;Dbxref=PMID:27281216	
+P57764	UniProtKB	Sequence conflict	360	483	.	.	.	Note=SGMLVPELAIPVVYLLGALTMLSETQHKLLAEALESQTLLGPLELVGSLLEQSAPWQERSTMSLPPGLLGNSWGEGAPAWVLLDECGLELGEDTPHVCWEPQAQGRMCALYASLALLSGLSQEP->PECWCRNSLSLLSTCWG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P57764	UniProtKB	Sequence conflict	386	386	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P57764	UniProtKB	Helix	287	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	299	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	306	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	323	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	347	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Beta strand	359	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AO4	
+P57764	UniProtKB	Helix	365	378	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	383	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	399	411	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Beta strand	412	417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6AO4	
+P57764	UniProtKB	Beta strand	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	425	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	437	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Turn	444	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Beta strand	451	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	460	462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	
+P57764	UniProtKB	Helix	463	479	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NH1	

@@ -1,0 +1,84 @@
+##gff-version 3
+##sequence-region Q9C000 1 1473
+Q9C000	UniProtKB	Chain	1	1473	.	.	.	ID=PRO_0000096710;Note=NACHT%2C LRR and PYD domains-containing protein 1	
+Q9C000	UniProtKB	Domain	1	92	.	.	.	Note=Pyrin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00061	
+Q9C000	UniProtKB	Domain	328	637	.	.	.	Note=NACHT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00136	
+Q9C000	UniProtKB	Repeat	809	830	.	.	.	Note=LRR 1	
+Q9C000	UniProtKB	Repeat	838	858	.	.	.	Note=LRR 2	
+Q9C000	UniProtKB	Repeat	866	887	.	.	.	Note=LRR 3	
+Q9C000	UniProtKB	Repeat	895	915	.	.	.	Note=LRR 4	
+Q9C000	UniProtKB	Repeat	923	944	.	.	.	Note=LRR 5	
+Q9C000	UniProtKB	Repeat	950	973	.	.	.	Note=LRR 6	
+Q9C000	UniProtKB	Domain	1079	1364	.	.	.	Note=FIIND;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01174	
+Q9C000	UniProtKB	Domain	1374	1463	.	.	.	Note=CARD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00046	
+Q9C000	UniProtKB	Nucleotide binding	334	341	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00136	
+Q9C000	UniProtKB	Site	1186	1186	.	.	.	Note=Trigger for autolytic processing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Site	1212	1213	.	.	.	Note=Cleavage%3B by autolysis;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU01174,ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Alternative sequence	1	966	.	.	.	ID=VSP_053801;Note=In isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9C000	UniProtKB	Alternative sequence	1	734	.	.	.	ID=VSP_053802;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9C000	UniProtKB	Alternative sequence	958	987	.	.	.	ID=VSP_004326;Note=In isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11113115;Dbxref=PMID:11113115	
+Q9C000	UniProtKB	Alternative sequence	1044	1044	.	.	.	ID=VSP_053803;Note=In isoform 5 and isoform 7. A->AGKSH;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9C000	UniProtKB	Alternative sequence	1262	1305	.	.	.	ID=VSP_004327;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10231032,ECO:0000303|PubMed:11076957,ECO:0000303|PubMed:11113115,ECO:0000303|PubMed:11250163,ECO:0000303|PubMed:11270363;Dbxref=PMID:10231032,PMID:11076957,PMID:11113115,PMID:11250163,PMID:11270363	
+Q9C000	UniProtKB	Alternative sequence	1354	1371	.	.	.	ID=VSP_053804;Note=In isoform 5 and isoform 7. DLMPATTLIPPARIAVPS->RNTSQPWNLRCNRDARRY;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9C000	UniProtKB	Alternative sequence	1372	1473	.	.	.	ID=VSP_053805;Note=In isoform 5 and isoform 7. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9C000	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_078798;Note=In MSPC%3B increased NLRP1-inflammasome complex assembly%3B altered protein folding. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27662089;Dbxref=dbSNP:rs1057519492,PMID:27662089	
+Q9C000	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_078799;Note=In MSPC%3B increased NLRP1-inflammasome complex assembly%3B altered protein folding. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27662089;Dbxref=dbSNP:rs1057519493,PMID:27662089	
+Q9C000	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_069901;Note=In MSPC. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23349227;Dbxref=dbSNP:rs397514692,PMID:23349227	
+Q9C000	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_033239;Note=In VAMAS1%3B associated with disease susceptibility. L->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11270363,ECO:0000269|PubMed:17377159;Dbxref=dbSNP:rs12150220,PMID:11270363,PMID:17377159	
+Q9C000	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_024238;Note=T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11270363;Dbxref=dbSNP:rs11651595,PMID:11270363	
+Q9C000	UniProtKB	Natural variant	404	404	.	.	.	ID=VAR_021886;Note=R->Q;Dbxref=dbSNP:rs3744718	
+Q9C000	UniProtKB	Natural variant	726	726	.	.	.	ID=VAR_078800;Note=In AIADK%3B unknown pathological significance. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27965258;Dbxref=dbSNP:rs776245016,PMID:27965258	
+Q9C000	UniProtKB	Natural variant	787	843	.	.	.	ID=VAR_078801;Note=In MSPC%3B increased NLRP1-inflammasome complex assembly. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27662089;Dbxref=PMID:27662089	
+Q9C000	UniProtKB	Natural variant	878	878	.	.	.	ID=VAR_033240;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11270363;Dbxref=dbSNP:rs11657747,PMID:11270363	
+Q9C000	UniProtKB	Natural variant	1059	1059	.	.	.	ID=VAR_024239;Note=V->M;Dbxref=dbSNP:rs2301582	
+Q9C000	UniProtKB	Natural variant	1069	1069	.	.	.	ID=VAR_033241;Note=H->Y;Dbxref=dbSNP:rs9907167	
+Q9C000	UniProtKB	Natural variant	1119	1119	.	.	.	ID=VAR_033242;Note=No effect on autocatalytic processing%2C nor on IL1B release. M->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11270363,ECO:0000269|PubMed:22665479;Dbxref=dbSNP:rs35596958,PMID:11270363,PMID:22665479	
+Q9C000	UniProtKB	Natural variant	1184	1184	.	.	.	ID=VAR_033243;Note=Increased autocatalytic processing and IL1B release. M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11270363,ECO:0000269|PubMed:17974005,ECO:0000269|PubMed:22665479;Dbxref=dbSNP:rs11651270,PMID:11270363,PMID:17974005,PMID:22665479	
+Q9C000	UniProtKB	Natural variant	1214	1214	.	.	.	ID=VAR_078802;Note=In AIADK%3B unknown pathological significance. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27965258;Dbxref=dbSNP:rs1057524876,PMID:27965258	
+Q9C000	UniProtKB	Natural variant	1241	1241	.	.	.	ID=VAR_033244;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11270363;Dbxref=dbSNP:rs11653832,PMID:11270363	
+Q9C000	UniProtKB	Natural variant	1366	1366	.	.	.	ID=VAR_020437;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11270363;Dbxref=dbSNP:rs2137722,PMID:11270363	
+Q9C000	UniProtKB	Mutagenesis	339	340	.	.	.	Note=Loss of ATP binding. GK->EA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15212762;Dbxref=PMID:15212762	
+Q9C000	UniProtKB	Mutagenesis	340	340	.	.	.	Note=No effect. K->L%2CS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11076957;Dbxref=PMID:11076957	
+Q9C000	UniProtKB	Mutagenesis	1168	1168	.	.	.	Note=Complete loss of autocatalytic processing and of IL1B release. Autocatalytic processing cannot be restored by treatment with hydroxylamine. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1186	1186	.	.	.	Note=Complete loss of autocatalytic processing and of IL1B release. Autocatalytic processing can be restored by treatment with hydroxylamine. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1211	1211	.	.	.	Note=Partial loss of autocatalytic processing and of IL1B release. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1212	1212	.	.	.	Note=Complete loss of autocatalytic processing and of IL1B release. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1213	1213	.	.	.	Note=Complete loss of autocatalytic processing and of IL1B release. Autocatalytic processing cannot be restored by treatment with hydroxylamine. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22087307,ECO:0000269|PubMed:22665479;Dbxref=PMID:22087307,PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1213	1213	.	.	.	Note=Complete loss of autocatalytic processing%2C which can be restored by treatment with hydroxylamine. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1214	1214	.	.	.	Note=Partial loss of autocatalytic processing (50%25) and of IL1B release (50%25). P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Mutagenesis	1249	1249	.	.	.	Note=Complete loss of autocatalytic processing and IL1B release. Autocatalytic processing cannot be restored by treatment with hydroxylamine. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665479;Dbxref=PMID:22665479	
+Q9C000	UniProtKB	Sequence conflict	287	287	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9C000	UniProtKB	Sequence conflict	782	782	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9C000	UniProtKB	Sequence conflict	995	995	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9C000	UniProtKB	Helix	9	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PN5	
+Q9C000	UniProtKB	Helix	18	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PN5	
+Q9C000	UniProtKB	Helix	50	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PN5	
+Q9C000	UniProtKB	Helix	63	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PN5	
+Q9C000	UniProtKB	Helix	80	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PN5	
+Q9C000	UniProtKB	Beta strand	88	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PN5	
+Q9C000	UniProtKB	Helix	794	804	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	807	809	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5Y3S	
+Q9C000	UniProtKB	Beta strand	812	814	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	822	833	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	840	843	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	851	862	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	869	871	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	878	889	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	898	900	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	908	910	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	911	920	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	926	928	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	931	933	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	935	946	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	955	957	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	965	977	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Beta strand	982	984	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IM6	
+Q9C000	UniProtKB	Helix	1381	1384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Helix	1386	1392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Helix	1396	1403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Turn	1405	1407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Helix	1410	1417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Beta strand	1419	1421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Helix	1422	1433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Helix	1438	1451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	
+Q9C000	UniProtKB	Helix	1453	1462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IFP	

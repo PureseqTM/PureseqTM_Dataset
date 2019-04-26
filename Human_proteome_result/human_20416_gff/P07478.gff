@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region P07478 1 247
+P07478	UniProtKB	Signal peptide	1	15	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2598466;Dbxref=PMID:2598466	
+P07478	UniProtKB	Propeptide	16	23	.	.	.	ID=PRO_0000028199;Note=Activation peptide	
+P07478	UniProtKB	Chain	24	247	.	.	.	ID=PRO_0000028200;Note=Trypsin-2	
+P07478	UniProtKB	Domain	24	244	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P07478	UniProtKB	Active site	63	63	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Active site	107	107	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Active site	200	200	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Metal binding	75	75	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Metal binding	77	77	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Metal binding	80	80	.	.	.	Note=Calcium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Metal binding	85	85	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Site	194	194	.	.	.	Note=Required for specificity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07478	UniProtKB	Modified residue	154	154	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:17087724,ECO:0000305|PubMed:25010489;Dbxref=PMID:17087724,PMID:25010489	
+P07478	UniProtKB	Disulfide bond	30	160	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P07478	UniProtKB	Disulfide bond	48	64	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P07478	UniProtKB	Disulfide bond	171	185	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P07478	UniProtKB	Disulfide bond	196	220	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P07478	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_051858;Note=A->V;Dbxref=dbSNP:rs11547028	
+P07478	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_071761;Note=Abolishes tyrosine sulfation. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18986305;Dbxref=dbSNP:rs1804564,PMID:18986305	

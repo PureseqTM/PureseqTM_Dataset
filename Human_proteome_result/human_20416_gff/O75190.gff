@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region O75190 1 326
+O75190	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.15	
+O75190	UniProtKB	Chain	2	326	.	.	.	ID=PRO_0000071025;Note=DnaJ homolog subfamily B member 6	
+O75190	UniProtKB	Domain	2	69	.	.	.	Note=J;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00286	
+O75190	UniProtKB	Region	2	146	.	.	.	Note=Interaction with HSP70;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954706;Dbxref=PMID:10954706	
+O75190	UniProtKB	Region	119	242	.	.	.	Note=Interaction with KRT18;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954706;Dbxref=PMID:10954706	
+O75190	UniProtKB	Compositional bias	83	172	.	.	.	Note=Gly/Phe-rich	
+O75190	UniProtKB	Compositional bias	155	194	.	.	.	Note=Ser-rich	
+O75190	UniProtKB	Modified residue	135	135	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54946	
+O75190	UniProtKB	Modified residue	277	277	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:21406692,PMID:23186163	
+O75190	UniProtKB	Alternative sequence	1	59	.	.	.	ID=VSP_053894;Note=In isoform D. MVDYYEVLGVQRHASPEDIKKAYRKLALKWHPDKNPENKEEAERKFKQVAEAYEVLSDA->MPHPRILKRP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75190	UniProtKB	Alternative sequence	232	241	.	.	.	ID=VSP_001289;Note=In isoform B. VADDDALAEE->KEQLLRLDNK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10319584,ECO:0000303|PubMed:11896048,ECO:0000303|PubMed:12974469,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|PubMed:9915854,ECO:0000303|Ref.4,ECO:0000303|Ref.6,ECO:0000303|Ref.7;Dbxref=PMID:10319584,PMID:11896048,PMID:12974469,PMID:14702039,PMID:15489334,PMID:17974005,PMID:9915854	
+O75190	UniProtKB	Alternative sequence	242	326	.	.	.	ID=VSP_001290;Note=In isoform B. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10319584,ECO:0000303|PubMed:11896048,ECO:0000303|PubMed:12974469,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|PubMed:9915854,ECO:0000303|Ref.4,ECO:0000303|Ref.6,ECO:0000303|Ref.7;Dbxref=PMID:10319584,PMID:11896048,PMID:12974469,PMID:14702039,PMID:15489334,PMID:17974005,PMID:9915854	
+O75190	UniProtKB	Alternative sequence	301	326	.	.	.	ID=VSP_026180;Note=In isoform C. LKEGGKRKKQKQREESKKKKSTKGNH->VQREAAVEQAQSETSLGARGQRGHK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12974469,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.9;Dbxref=PMID:12974469,PMID:14702039,PMID:15489334	
+O75190	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_067833;Note=In LGMDD1%3B the mutation results in inefficient inhibition of protein aggregation by isoform B. F->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22366786;Dbxref=dbSNP:rs387907150,PMID:22366786	
+O75190	UniProtKB	Natural variant	93	93	.	.	.	ID=VAR_067834;Note=In LGMDD1%3B the mutation results in inefficient inhibition of protein aggregation by isoform B. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22334415,ECO:0000269|PubMed:22366786;Dbxref=dbSNP:rs387907046,PMID:22334415,PMID:22366786	
+O75190	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_079428;Note=Found in a family with autosomal-dominantly inherited distal-onset myopathy%3B significant loss of its ability to suppress aggregation of polyglutamine-containing proteins. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28233300;Dbxref=PMID:28233300	
+O75190	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_067835;Note=In LGMDD1. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22334415;Dbxref=dbSNP:rs387907047,PMID:22334415	
+O75190	UniProtKB	Sequence conflict	128	128	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75190	UniProtKB	Sequence conflict	303	303	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

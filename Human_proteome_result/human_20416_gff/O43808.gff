@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region O43808 1 307
+O43808	UniProtKB	Chain	1	307	.	.	.	ID=PRO_0000090705;Note=Peroxisomal membrane protein PMP34	
+O43808	UniProtKB	Topological domain	1	9	.	.	.	Note=Cytoplasmic	
+O43808	UniProtKB	Transmembrane	10	30	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Topological domain	31	66	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Transmembrane	67	87	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Topological domain	88	104	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Transmembrane	105	125	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Topological domain	126	160	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Transmembrane	161	181	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Topological domain	182	202	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Transmembrane	203	223	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Topological domain	224	280	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Transmembrane	281	301	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43808	UniProtKB	Topological domain	302	307	.	.	.	Note=Cytoplasmic	
+O43808	UniProtKB	Repeat	7	92	.	.	.	Note=Solcar 1	
+O43808	UniProtKB	Repeat	99	192	.	.	.	Note=Solcar 2	
+O43808	UniProtKB	Repeat	200	294	.	.	.	Note=Solcar 3	
+O43808	UniProtKB	Region	1	147	.	.	.	Note=Necessary for targeting to peroxisomes and interaction with PEX19	
+O43808	UniProtKB	Region	244	307	.	.	.	Note=Necessary for targeting to peroxisomes and interaction with PEX19	
+O43808	UniProtKB	Motif	190	199	.	.	.	Note=Peroxisome localization signal	
+O43808	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_050139;Note=H->R;Dbxref=dbSNP:rs12159334	
+O43808	UniProtKB	Mutagenesis	190	199	.	.	.	Note=Localizes in the cytoplasm. KRQLLKKRMK->AAQLLAAAMA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11121399;Dbxref=PMID:11121399	
+O43808	UniProtKB	Mutagenesis	283	285	.	.	.	Note=Impairs interaction with PEX19. LMF->KKK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14709540;Dbxref=PMID:14709540	
+O43808	UniProtKB	Mutagenesis	289	290	.	.	.	Note=Impairs interaction with PEX19. EK->LL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14709540;Dbxref=PMID:14709540	
+O43808	UniProtKB	Mutagenesis	302	303	.	.	.	Note=No effect on interaction with PEX19. KR->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14709540;Dbxref=PMID:14709540	

@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region P51817 1 358
+P51817	UniProtKB	Chain	1	358	.	.	.	ID=PRO_0000086582;Note=cAMP-dependent protein kinase catalytic subunit PRKX	
+P51817	UniProtKB	Domain	49	303	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P51817	UniProtKB	Domain	304	358	.	.	.	Note=AGC-kinase C-terminal	
+P51817	UniProtKB	Nucleotide binding	55	63	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P51817	UniProtKB	Active site	172	172	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+P51817	UniProtKB	Binding site	78	78	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P51817	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+P51817	UniProtKB	Modified residue	203	203	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q922R0	
+P51817	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_061744;Note=V->A;Dbxref=dbSNP:rs3752362	
+P51817	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Loss of function. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12082174;Dbxref=PMID:12082174	
+P51817	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Constitutive kinase activity%3B when associated with R-202. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16236808;Dbxref=PMID:16236808	
+P51817	UniProtKB	Mutagenesis	202	202	.	.	.	Note=Constitutive kinase activity%3B when associated with Q-93. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16236808;Dbxref=PMID:16236808	
+P51817	UniProtKB	Mutagenesis	283	283	.	.	.	Note=Increases the affinity for PRKAR2A and PRKAR2B. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20819953;Dbxref=PMID:20819953	

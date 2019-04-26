@@ -1,0 +1,67 @@
+##gff-version 3
+##sequence-region Q6P2Q9 1 2335
+Q6P2Q9	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000269|Ref.4;Dbxref=PMID:19413330,PMID:22223895	
+Q6P2Q9	UniProtKB	Chain	2	2335	.	.	.	ID=PRO_0000097040;Note=Pre-mRNA-processing-splicing factor 8	
+Q6P2Q9	UniProtKB	Domain	2103	2234	.	.	.	Note=MPN;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01182	
+Q6P2Q9	UniProtKB	Region	812	1303	.	.	.	Note=Reverse transcriptase homology domain	
+Q6P2Q9	UniProtKB	Region	1304	1577	.	.	.	Note=Linker	
+Q6P2Q9	UniProtKB	Region	1513	1526	.	.	.	Note=Important for branch point selection;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6P2Q9	UniProtKB	Region	1581	1752	.	.	.	Note=Restriction endonuclease homology domain	
+Q6P2Q9	UniProtKB	Region	1669	2034	.	.	.	Note=Involved in interaction with pre-mRNA 5' splice site	
+Q6P2Q9	UniProtKB	Region	1767	2020	.	.	.	Note=RNase H homology domain	
+Q6P2Q9	UniProtKB	Region	2301	2335	.	.	.	Note=Required for interaction with EFTUD2 and SNRNP200;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17317632;Dbxref=PMID:17317632	
+Q6P2Q9	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000269|Ref.4;Dbxref=PMID:19413330,PMID:22223895	
+Q6P2Q9	UniProtKB	Modified residue	859	859	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q6P2Q9	UniProtKB	Modified residue	1358	1358	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q6P2Q9	UniProtKB	Modified residue	1425	1425	.	.	.	Note=N6%2CN6-dimethyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+Q6P2Q9	UniProtKB	Modified residue	1463	1463	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q6P2Q9	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_022622;Note=K->E;Dbxref=dbSNP:rs1043391	
+Q6P2Q9	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_022623;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11559304,PMID:15489334	
+Q6P2Q9	UniProtKB	Natural variant	874	874	.	.	.	ID=VAR_022624;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs1043396	
+Q6P2Q9	UniProtKB	Natural variant	1293	1293	.	.	.	ID=VAR_022625;Note=N->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs1043399	
+Q6P2Q9	UniProtKB	Natural variant	2301	2301	.	.	.	ID=VAR_022626;Note=In RP13%3B no effect on interaction with SNRNP200 and EFTUD2. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11468273;Dbxref=dbSNP:rs121434239,PMID:11468273	
+Q6P2Q9	UniProtKB	Natural variant	2304	2304	.	.	.	ID=VAR_022627;Note=In RP13. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468273,ECO:0000269|PubMed:17317632;Dbxref=dbSNP:rs121434240,PMID:11468273,PMID:17317632	
+Q6P2Q9	UniProtKB	Natural variant	2309	2309	.	.	.	ID=VAR_022628;Note=In RP13%3B no effect on interaction with SNRNP200 and EFTUD2. H->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468273,ECO:0000269|PubMed:17317632;Dbxref=dbSNP:rs121434236,PMID:11468273,PMID:17317632	
+Q6P2Q9	UniProtKB	Natural variant	2309	2309	.	.	.	ID=VAR_022629;Note=In RP13%3B no effect on interaction with SNRNP200 and EFTUD2. H->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468273,ECO:0000269|PubMed:17317632;Dbxref=dbSNP:rs121434236,PMID:11468273,PMID:17317632	
+Q6P2Q9	UniProtKB	Natural variant	2310	2310	.	.	.	ID=VAR_022630;Note=In RP13%3B reduces interaction with SNRNP200 and EFTUD2. R->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468273,ECO:0000269|PubMed:12714658,ECO:0000269|PubMed:17317632,ECO:0000269|Ref.37;Dbxref=PMID:11468273,PMID:12714658,PMID:17317632	
+Q6P2Q9	UniProtKB	Natural variant	2310	2310	.	.	.	ID=VAR_022631;Note=In RP13%3B reduces interaction with SNRNP200 and EFTUD2. R->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468273,ECO:0000269|PubMed:11910553,ECO:0000269|PubMed:17317632;Dbxref=dbSNP:rs121434238,PMID:11468273,PMID:11910553,PMID:17317632	
+Q6P2Q9	UniProtKB	Natural variant	2314	2314	.	.	.	ID=VAR_022632;Note=In RP13%3B reduces interaction with EFTUD2%2C but not with SNRNP200. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11468273,ECO:0000269|PubMed:17317632;Dbxref=PMID:11468273,PMID:17317632	
+Q6P2Q9	UniProtKB	Natural variant	2334	2334	.	.	.	ID=VAR_022633;Note=In RP13. Y->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.37	
+Q6P2Q9	UniProtKB	Mutagenesis	1788	1788	.	.	.	Note=Strongly reduced interaction with RNA. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18836455;Dbxref=PMID:18836455	
+Q6P2Q9	UniProtKB	Mutagenesis	1789	1789	.	.	.	Note=Strongly reduced interaction with RNA. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18836455;Dbxref=PMID:18836455	
+Q6P2Q9	UniProtKB	Sequence conflict	184	184	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Sequence conflict	492	493	.	.	.	Note=VG->GW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Sequence conflict	604	604	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Sequence conflict	806	806	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Sequence conflict	997	997	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Sequence conflict	1390	1390	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Sequence conflict	1867	1867	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6P2Q9	UniProtKB	Beta strand	1761	1763	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E9L	
+Q6P2Q9	UniProtKB	Turn	1765	1767	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E9L	
+Q6P2Q9	UniProtKB	Helix	1768	1772	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E9L	
+Q6P2Q9	UniProtKB	Beta strand	1773	1775	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1777	1781	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1785	1792	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1794	1796	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E9L	
+Q6P2Q9	UniProtKB	Beta strand	1798	1803	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1805	1810	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Turn	1812	1814	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1816	1822	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1824	1827	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1833	1851	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1854	1856	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1859	1865	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1866	1868	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1869	1875	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Turn	1876	1878	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1883	1886	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1893	1898	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1900	1908	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Beta strand	1913	1918	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Turn	1919	1922	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1923	1925	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1929	1945	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1947	1953	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1973	1989	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4JK8	
+Q6P2Q9	UniProtKB	Helix	1999	2001	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E9L	
+Q6P2Q9	UniProtKB	Helix	2004	2012	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E9L	

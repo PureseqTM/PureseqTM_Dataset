@@ -1,0 +1,57 @@
+##gff-version 3
+##sequence-region Q13686 1 389
+Q13686	UniProtKB	Chain	1	389	.	.	.	ID=PRO_0000066668;Note=Nucleic acid dioxygenase ALKBH1	
+Q13686	UniProtKB	Domain	208	347	.	.	.	Note=Fe2OG dioxygenase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q13686	UniProtKB	Region	86	389	.	.	.	Note=tRNA-binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:27745969;Dbxref=PMID:27745969	
+Q13686	UniProtKB	Region	175	177	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6NS38	
+Q13686	UniProtKB	Region	220	222	.	.	.	Note=Alpha-ketoglutarate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96Q83	
+Q13686	UniProtKB	Region	338	344	.	.	.	Note=Alpha-ketoglutarate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96Q83	
+Q13686	UniProtKB	Metal binding	231	231	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255,ECO:0000305,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00805,ECO:0000305|PubMed:19959401,ECO:0000305|PubMed:27745969;Dbxref=PMID:19959401,PMID:27745969	
+Q13686	UniProtKB	Metal binding	233	233	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255,ECO:0000305,ECO:0000305,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00805,ECO:0000305|PubMed:19959401,ECO:0000305|PubMed:27497299,ECO:0000305|PubMed:27745969;Dbxref=PMID:19959401,PMID:27497299,PMID:27745969	
+Q13686	UniProtKB	Metal binding	287	287	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00805	
+Q13686	UniProtKB	Binding site	144	144	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6NS38	
+Q13686	UniProtKB	Binding site	233	233	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6NS38	
+Q13686	UniProtKB	Site	133	133	.	.	.	Note=Primary catalytic residue forming the imine linkage with DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Site	133	133	.	.	.	Note=Secondary catalytic residue forming the imine linkage with DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_048221;Note=M->I;Dbxref=dbSNP:rs17825440	
+Q13686	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_048222;Note=M->L;Dbxref=dbSNP:rs6494	
+Q13686	UniProtKB	Mutagenesis	3	3	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	25	25	.	.	.	Note=Moderate decrease in DNA lyase activity. Reduced DNA lyase activity%3B when associated with A-133. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	94	94	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	113	113	.	.	.	Note=Does not affect DNA lyase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	116	116	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Does not affect DNA lyase activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	120	120	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	129	129	.	.	.	Note=Does not affect DNA lyase activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Reduced DNA lyase activity. Slightly more reduced DNA lyase activity%3B when associated with A-25. Strongly reduced activity%3B when associated with A-154. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Does not affect DNA lyase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	137	137	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	148	148	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Does not affect DNA lyase activity. Strongly reduced activity%3B when associated with A-133. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	158	158	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	167	167	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	182	182	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	183	183	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	218	218	.	.	.	Note=Reduces Fe2OG dioxygenase activity by 50%25. I->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18603530;Dbxref=PMID:18603530	
+Q13686	UniProtKB	Mutagenesis	231	233	.	.	.	Note=Loss of catalytic activity. Abolishes ability to regulate translation in respose to glucose deprivation. HVD->AVA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27745969;Dbxref=PMID:27745969	
+Q13686	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Near loss of Fe2OG dioxygenase activity. No effect on DNA lyase activity. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18603530,ECO:0000269|PubMed:19959401;Dbxref=PMID:18603530,PMID:19959401	
+Q13686	UniProtKB	Mutagenesis	233	233	.	.	.	Note=Loss of Fe2OG dioxygenase activity. No effect on DNA lyase activity. Abolishes ability to mediate oxidation of mt-tRNA(Met) methylated at cytosine(34) to form 5-formylcytosine (f(5)c). Abolished DNA N6-methyl adenine demethylase activity. D->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18603530,ECO:0000269|PubMed:19959401,ECO:0000269|PubMed:27497299,ECO:0000269|PubMed:30017583;Dbxref=PMID:18603530,PMID:19959401,PMID:27497299,PMID:30017583	
+Q13686	UniProtKB	Mutagenesis	241	241	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Loss of Fe2OG dioxygenase activity. No effect on DNA lyase activity. H->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18603530,ECO:0000269|PubMed:19959401;Dbxref=PMID:18603530,PMID:19959401	
+Q13686	UniProtKB	Mutagenesis	303	303	.	.	.	Note=Does not affect DNA lyase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	304	304	.	.	.	Note=Does not affect DNA lyase activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	335	335	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	338	338	.	.	.	Note=Reduced Fe2OG dioxygenase activity. Abolishes ability to mediate oxidation of mt-tRNA(Met) methylated at cytosine(34) to form 5-formylcytosine (f(5)c). R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18603530,ECO:0000269|PubMed:27497299;Dbxref=PMID:18603530,PMID:27497299	
+Q13686	UniProtKB	Mutagenesis	344	344	.	.	.	Note=Reduced Fe2OG dioxygenase activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18603530;Dbxref=PMID:18603530	
+Q13686	UniProtKB	Mutagenesis	362	362	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Mutagenesis	371	371	.	.	.	Note=Does not affect DNA lyase activity. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	372	372	.	.	.	Note=Does not affect DNA lyase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25459764;Dbxref=PMID:25459764	
+Q13686	UniProtKB	Mutagenesis	381	381	.	.	.	Note=Does not affect DNA lyase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23577621;Dbxref=PMID:23577621	
+Q13686	UniProtKB	Sequence conflict	133	133	.	.	.	Note=K->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13686	UniProtKB	Sequence conflict	266	267	.	.	.	Note=TA->PP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13686	UniProtKB	Sequence conflict	388	388	.	.	.	Note=D->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	

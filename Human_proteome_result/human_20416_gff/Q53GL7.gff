@@ -1,0 +1,66 @@
+##gff-version 3
+##sequence-region Q53GL7 1 1025
+Q53GL7	UniProtKB	Chain	1	1025	.	.	.	ID=PRO_0000252435;Note=Protein mono-ADP-ribosyltransferase PARP10	
+Q53GL7	UniProtKB	Domain	806	1025	.	.	.	Note=PARP catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00397	
+Q53GL7	UniProtKB	Region	700	907	.	.	.	Note=Myc binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15674325;Dbxref=PMID:15674325	
+Q53GL7	UniProtKB	Motif	650	667	.	.	.	Note=Ubiquitin-interacting;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24695737;Dbxref=PMID:24695737	
+Q53GL7	UniProtKB	Motif	673	690	.	.	.	Note=Ubiquitin-interacting;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:24695737;Dbxref=PMID:24695737	
+Q53GL7	UniProtKB	Motif	831	838	.	.	.	Note=PIP-box;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24695737;Dbxref=PMID:24695737	
+Q53GL7	UniProtKB	Compositional bias	588	697	.	.	.	Note=Glu-rich	
+Q53GL7	UniProtKB	Modified residue	101	101	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16455663;Dbxref=PMID:16455663	
+Q53GL7	UniProtKB	Modified residue	106	106	.	.	.	Note=ADP-ribosyl glutamic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q53GL7	UniProtKB	Modified residue	140	140	.	.	.	Note=N6-(ADP-ribosyl)lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q53GL7	UniProtKB	Modified residue	378	378	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q53GL7	UniProtKB	Modified residue	423	423	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q53GL7	UniProtKB	Modified residue	431	431	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q53GL7	UniProtKB	Modified residue	663	663	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q53GL7	UniProtKB	Modified residue	882	882	.	.	.	Note=ADP-ribosyl glutamic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18851833;Dbxref=PMID:18851833	
+Q53GL7	UniProtKB	Modified residue	916	916	.	.	.	Note=N6-(ADP-ribosyl)lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q53GL7	UniProtKB	Modified residue	916	916	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q53GL7	UniProtKB	Modified residue	1011	1011	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q53GL7	UniProtKB	Natural variant	249	249	.	.	.	ID=VAR_027859;Note=I->V;Dbxref=dbSNP:rs11136344	
+Q53GL7	UniProtKB	Natural variant	395	395	.	.	.	ID=VAR_027860;Note=L->P;Dbxref=dbSNP:rs11136343	
+Q53GL7	UniProtKB	Natural variant	630	630	.	.	.	ID=VAR_027861;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs11544989,PMID:14702039	
+Q53GL7	UniProtKB	Mutagenesis	650	690	.	.	.	Note=Decreased interaction with PCNA. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24695737;Dbxref=PMID:24695737	
+Q53GL7	UniProtKB	Mutagenesis	831	838	.	.	.	Note=Abolishes interaction with PCNA. QEVVRAFY->AEVARAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24695737;Dbxref=PMID:24695737	
+Q53GL7	UniProtKB	Mutagenesis	882	882	.	.	.	Note=Decreased auto-mono-ADP-ribosylation. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18851833;Dbxref=PMID:18851833	
+Q53GL7	UniProtKB	Mutagenesis	888	888	.	.	.	Note=Abolishes catalytic activity%3B abolishes interaction with PARP14. G->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18851833,ECO:0000269|PubMed:23473667,ECO:0000269|PubMed:24695737;Dbxref=PMID:18851833,PMID:23473667,PMID:24695737	
+Q53GL7	UniProtKB	Mutagenesis	980	982	.	.	.	Note=Strongly decreased catalytic activity. DCI->ACA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18851833;Dbxref=PMID:18851833	
+Q53GL7	UniProtKB	Mutagenesis	985	985	.	.	.	Note=Strongly decreased catalytic activity. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18851833;Dbxref=PMID:18851833	
+Q53GL7	UniProtKB	Mutagenesis	987	987	.	.	.	Note=Decreased catalytic activity. I->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18851833;Dbxref=PMID:18851833	
+Q53GL7	UniProtKB	Mutagenesis	999	999	.	.	.	Note=Does not affect catalytic activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18851833;Dbxref=PMID:18851833	
+Q53GL7	UniProtKB	Sequence conflict	313	313	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL7	UniProtKB	Sequence conflict	518	518	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL7	UniProtKB	Sequence conflict	813	813	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL7	UniProtKB	Sequence conflict	922	922	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL7	UniProtKB	Sequence conflict	1013	1013	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53GL7	UniProtKB	Beta strand	12	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Helix	24	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Turn	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Beta strand	43	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Beta strand	51	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Helix	59	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Beta strand	72	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Beta strand	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DHX	
+Q53GL7	UniProtKB	Beta strand	819	822	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	825	827	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HKV	
+Q53GL7	UniProtKB	Helix	828	839	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Helix	842	844	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Turn	845	847	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	848	856	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Helix	859	875	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	883	889	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Helix	891	893	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Helix	894	900	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Helix	904	906	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	916	923	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Helix	924	927	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Turn	930	932	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	941	948	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	952	955	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	961	963	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HKV	
+Q53GL7	UniProtKB	Beta strand	971	974	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	976	980	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	982	984	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	987	990	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	
+Q53GL7	UniProtKB	Beta strand	995	1006	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5LX6	

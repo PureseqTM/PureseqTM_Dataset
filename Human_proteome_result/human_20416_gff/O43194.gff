@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region O43194 1 453
+O43194	UniProtKB	Chain	1	453	.	.	.	ID=PRO_0000069565;Note=G-protein coupled receptor 39	
+O43194	UniProtKB	Topological domain	1	34	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	35	55	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	56	69	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	70	89	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	90	109	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	110	131	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	132	151	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	152	172	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	173	217	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	218	242	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	243	283	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	284	305	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	306	323	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Transmembrane	324	344	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Topological domain	345	453	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20789	
+O43194	UniProtKB	Metal binding	17	17	.	.	.	Note=Zinc;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18588883;Dbxref=PMID:18588883	
+O43194	UniProtKB	Metal binding	19	19	.	.	.	Note=Zinc;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18588883;Dbxref=PMID:18588883	
+O43194	UniProtKB	Modified residue	396	396	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O43194	UniProtKB	Glycosylation	192	192	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43194	UniProtKB	Glycosylation	206	206	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43194	UniProtKB	Glycosylation	212	212	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43194	UniProtKB	Disulfide bond	11	191	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00521,ECO:0000269|PubMed:18693759;Dbxref=PMID:18693759	
+O43194	UniProtKB	Disulfide bond	108	210	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00521,ECO:0000269|PubMed:18693759;Dbxref=PMID:18693759	
+O43194	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_022067;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs2241764,PMID:14702039	
+O43194	UniProtKB	Natural variant	390	390	.	.	.	ID=VAR_049393;Note=R->C;Dbxref=dbSNP:rs16838944	
+O43194	UniProtKB	Mutagenesis	17	17	.	.	.	Note=Decreases activation by Zn(2+). Abolishes activation by Zn(2+)%3B when associated with A-19. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18588883;Dbxref=PMID:18588883	
+O43194	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Decreases activation by Zn(2+). Abolishes activation by Zn(2+)%3B when associated with A-17. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18588883;Dbxref=PMID:18588883	
+O43194	UniProtKB	Mutagenesis	312	312	.	.	.	Note=Not affect constitutive or Zn(2+)-induced activation. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18588883;Dbxref=PMID:18588883	
+O43194	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Induces very high constitutive activity and eliminates Zn(2+)-induced activation. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18588883;Dbxref=PMID:18588883	

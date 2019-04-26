@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q96AC1 1 680
+Q96AC1	UniProtKB	Chain	1	680	.	.	.	ID=PRO_0000219456;Note=Fermitin family homolog 2	
+Q96AC1	UniProtKB	Domain	189	661	.	.	.	Note=FERM	
+Q96AC1	UniProtKB	Domain	380	476	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q96AC1	UniProtKB	Region	40	81	.	.	.	Note=Interaction with membranes containing phosphatidylinositol phosphate	
+Q96AC1	UniProtKB	Binding site	383	383	.	.	.	Note=Phosphatidylinositol phosphate	
+Q96AC1	UniProtKB	Modified residue	159	159	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:24275569	
+Q96AC1	UniProtKB	Modified residue	181	181	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q96AC1	UniProtKB	Modified residue	339	339	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q96AC1	UniProtKB	Modified residue	351	351	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:21406692,PMID:24275569	
+Q96AC1	UniProtKB	Modified residue	666	666	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:18691976,PMID:20068231,PMID:21406692,PMID:23186163	
+Q96AC1	UniProtKB	Alternative sequence	534	534	.	.	.	ID=VSP_008783;Note=In isoform 2 and isoform 3. Q->QPGYIRDL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.4,ECO:0000303|Ref.5	
+Q96AC1	UniProtKB	Alternative sequence	625	626	.	.	.	ID=VSP_008784;Note=In isoform 2. TV->NS;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q96AC1	UniProtKB	Alternative sequence	627	680	.	.	.	ID=VSP_008785;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q96AC1	UniProtKB	Mutagenesis	40	40	.	.	.	Note=Abolishes lipid-binding via the N-terminus%3B when associated with 74-A--A-81. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22078565;Dbxref=PMID:22078565	
+Q96AC1	UniProtKB	Mutagenesis	74	81	.	.	.	Note=Abolishes lipid-binding via the N-terminus%3B when associated with A-40. KTHWTLDK->ATAATLDA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22078565;Dbxref=PMID:22078565	
+Q96AC1	UniProtKB	Mutagenesis	383	383	.	.	.	Note=Reduces phosphatidylinositol phosphate binding. Reduces integrin activation%3B when associated with A-385. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22030399;Dbxref=PMID:22030399	
+Q96AC1	UniProtKB	Mutagenesis	385	385	.	.	.	Note=Reduces integrin activation%3B when associated with A-383. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22030399;Dbxref=PMID:22030399	
+Q96AC1	UniProtKB	Mutagenesis	390	390	.	.	.	Note=Abolishes phosphatidylinositol phosphate binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21325030;Dbxref=PMID:21325030	
+Q96AC1	UniProtKB	Mutagenesis	393	393	.	.	.	Note=Reduces phosphatidylinositol phosphate binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22030399;Dbxref=PMID:22030399	
+Q96AC1	UniProtKB	Mutagenesis	614	615	.	.	.	Note=Impairs ITGB3 binding. Abolishes enhancement of talin-mediated integrin activation. QW->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18458155;Dbxref=PMID:18458155	
+Q96AC1	UniProtKB	Sequence conflict	31	31	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96AC1	UniProtKB	Turn	9	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Beta strand	12	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Turn	25	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Helix	41	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Beta strand	58	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Turn	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Helix	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGX	
+Q96AC1	UniProtKB	Turn	347	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MSU	
+Q96AC1	UniProtKB	Helix	354	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MSU	
+Q96AC1	UniProtKB	Helix	369	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	375	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	393	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	403	408	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Helix	410	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	418	422	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	427	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Turn	434	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	438	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Beta strand	450	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Helix	461	475	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	
+Q96AC1	UniProtKB	Helix	484	495	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F7H	

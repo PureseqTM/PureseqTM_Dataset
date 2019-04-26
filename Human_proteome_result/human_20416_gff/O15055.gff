@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region O15055 1 1255
+O15055	UniProtKB	Chain	1	1255	.	.	.	ID=PRO_0000162630;Note=Period circadian protein homolog 2	
+O15055	UniProtKB	Domain	181	248	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O15055	UniProtKB	Domain	321	387	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O15055	UniProtKB	Domain	395	438	.	.	.	Note=PAC	
+O15055	UniProtKB	Region	480	484	.	.	.	Note=Important for protein stability;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15055	UniProtKB	Region	557	771	.	.	.	Note=CSNK1E binding domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15055	UniProtKB	Region	888	1071	.	.	.	Note=Interaction with PPARG;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Region	1155	1255	.	.	.	Note=CRY binding domain;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z301	
+O15055	UniProtKB	Motif	111	120	.	.	.	Note=Nuclear export signal 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Motif	308	312	.	.	.	Note=LXXLL	
+O15055	UniProtKB	Motif	462	471	.	.	.	Note=Nuclear export signal 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Motif	789	805	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Motif	989	996	.	.	.	Note=Nuclear export signal 3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Motif	1057	1061	.	.	.	Note=LXXLL	
+O15055	UniProtKB	Compositional bias	510	513	.	.	.	Note=Poly-Arg	
+O15055	UniProtKB	Compositional bias	842	979	.	.	.	Note=Pro-rich	
+O15055	UniProtKB	Modified residue	527	527	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	530	530	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	533	533	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	540	540	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	662	662	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11232563;Dbxref=PMID:11232563	
+O15055	UniProtKB	Modified residue	696	696	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	700	700	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	714	714	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	766	766	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	771	771	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	945	945	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	977	977	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Modified residue	1124	1124	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54943	
+O15055	UniProtKB	Alternative sequence	349	404	.	.	.	ID=VSP_021653;Note=In isoform 2. RAVPLLGYLPQDLIETPVLVQLHPSDRPLMLAIHKKILQSGGQPFDYSPIRFRARN->SPAVRRAAFRLFSHSVSRPERRVHHVGHQLVQLHQPMEQENLLHHWEAQSQGGPFE;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+O15055	UniProtKB	Alternative sequence	405	1255	.	.	.	ID=VSP_021654;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+O15055	UniProtKB	Natural variant	5	5	.	.	.	ID=VAR_051575;Note=A->S;Dbxref=dbSNP:rs35572922	
+O15055	UniProtKB	Natural variant	662	662	.	.	.	ID=VAR_029080;Note=In FASPS1%3B reduced in vitro phosphorylation by CSNK1E. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11232563;Dbxref=dbSNP:rs121908635,PMID:11232563	
+O15055	UniProtKB	Natural variant	729	729	.	.	.	ID=VAR_051576;Note=V->I;Dbxref=dbSNP:rs4429421	
+O15055	UniProtKB	Natural variant	823	823	.	.	.	ID=VAR_036041;Note=In a breast cancer sample%3B somatic mutation. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O15055	UniProtKB	Natural variant	903	903	.	.	.	ID=VAR_051577;Note=V->I;Dbxref=dbSNP:rs35333999	
+O15055	UniProtKB	Natural variant	949	949	.	.	.	ID=VAR_051578;Note=F->Y;Dbxref=dbSNP:rs35998480	
+O15055	UniProtKB	Natural variant	1244	1244	.	.	.	ID=VAR_024558;Note=G->E;Dbxref=dbSNP:rs934945	
+O15055	UniProtKB	Mutagenesis	662	662	.	.	.	Note=Restores CSNK1E-dependent phosphorylation of variant G-662. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11232563;Dbxref=PMID:11232563	

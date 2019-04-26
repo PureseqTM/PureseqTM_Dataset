@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region O75807 1 674
+O75807	UniProtKB	Chain	1	674	.	.	.	ID=PRO_0000320518;Note=Protein phosphatase 1 regulatory subunit 15A	
+O75807	UniProtKB	Topological domain	1	21	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21518769;Dbxref=PMID:21518769	
+O75807	UniProtKB	Intramembrane	22	39	.	.	.	Note=Helical;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21518769;Dbxref=PMID:21518769	
+O75807	UniProtKB	Topological domain	40	674	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:21518769;Dbxref=PMID:21518769	
+O75807	UniProtKB	Repeat	337	369	.	.	.	Note=1	
+O75807	UniProtKB	Repeat	384	417	.	.	.	Note=2	
+O75807	UniProtKB	Repeat	427	460	.	.	.	Note=3	
+O75807	UniProtKB	Repeat	477	510	.	.	.	Note=4	
+O75807	UniProtKB	Region	1	60	.	.	.	Note=Required for localization in the endoplasmic reticulum	
+O75807	UniProtKB	Region	337	510	.	.	.	Note=4 X 34 AA approximate repeats	
+O75807	UniProtKB	Region	337	510	.	.	.	Note=Interaction with SMAD7;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14718519;Dbxref=PMID:14718519	
+O75807	UniProtKB	Region	483	555	.	.	.	Note=Interaction with KMT2A/MLL1	
+O75807	UniProtKB	Region	536	583	.	.	.	Note=Interaction with SMARCB1	
+O75807	UniProtKB	Compositional bias	112	115	.	.	.	Note=Poly-Asp	
+O75807	UniProtKB	Compositional bias	160	503	.	.	.	Note=Glu-rich	
+O75807	UniProtKB	Compositional bias	518	521	.	.	.	Note=Poly-Pro	
+O75807	UniProtKB	Compositional bias	661	666	.	.	.	Note=Poly-Ala	
+O75807	UniProtKB	Modified residue	143	143	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O75807	UniProtKB	Modified residue	262	262	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24092754;Dbxref=PMID:24092754	
+O75807	UniProtKB	Modified residue	391	391	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24092754;Dbxref=PMID:24092754	
+O75807	UniProtKB	Modified residue	434	434	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24092754;Dbxref=PMID:24092754	
+O75807	UniProtKB	Modified residue	512	512	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24092754;Dbxref=PMID:24092754	
+O75807	UniProtKB	Alternative sequence	16	16	.	.	.	ID=VSP_057083;Note=In isoform 2. A->D;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75807	UniProtKB	Alternative sequence	17	175	.	.	.	ID=VSP_057084;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75807	UniProtKB	Natural variant	31	31	.	.	.	ID=VAR_039186;Note=R->H;Dbxref=dbSNP:rs564196	
+O75807	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_039187;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.2;Dbxref=dbSNP:rs3786734	
+O75807	UniProtKB	Natural variant	199	199	.	.	.	ID=VAR_039188;Note=V->A;Dbxref=dbSNP:rs611251	
+O75807	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_039189;Note=R->P;Dbxref=dbSNP:rs557806	
+O75807	UniProtKB	Natural variant	277	277	.	.	.	ID=VAR_039190;Note=K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs610308,PMID:14702039	
+O75807	UniProtKB	Natural variant	312	312	.	.	.	ID=VAR_062226;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs11541192,PMID:14702039	
+O75807	UniProtKB	Natural variant	316	316	.	.	.	ID=VAR_039191;Note=A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs556052,PMID:14702039	
+O75807	UniProtKB	Natural variant	381	381	.	.	.	ID=VAR_039192;Note=A->V;Dbxref=dbSNP:rs1050166	
+O75807	UniProtKB	Natural variant	476	476	.	.	.	ID=VAR_039193;Note=R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs35087747,PMID:14702039	
+O75807	UniProtKB	Natural variant	594	594	.	.	.	ID=VAR_039194;Note=R->C;Dbxref=dbSNP:rs2270946	
+O75807	UniProtKB	Natural variant	597	597	.	.	.	ID=VAR_039195;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs500079,PMID:14702039	
+O75807	UniProtKB	Mutagenesis	25	25	.	.	.	Note=Localizes to cytoplasm%2C degraded more slowly. V->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21518769;Dbxref=PMID:21518769	
+O75807	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Localizes to cytoplasm. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21518769;Dbxref=PMID:21518769	
+O75807	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Significantly reduced turnover. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24092754;Dbxref=PMID:24092754	
+O75807	UniProtKB	Mutagenesis	555	558	.	.	.	Note=Reduces interaction with SMARCB1. KVRF->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12016208;Dbxref=PMID:12016208	
+O75807	UniProtKB	Mutagenesis	556	558	.	.	.	Note=Impairs PP1 activation. VRF->ARA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12556489;Dbxref=PMID:12556489	
+O75807	UniProtKB	Mutagenesis	612	612	.	.	.	Note=Reduces PP1-binding%3B when associated with K-614. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12556489;Dbxref=PMID:12556489	
+O75807	UniProtKB	Mutagenesis	614	614	.	.	.	Note=Reduces PP1-binding%3B when associated with K-612. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12556489;Dbxref=PMID:12556489	
+O75807	UniProtKB	Mutagenesis	618	618	.	.	.	Note=Reduces PP1-binding. R->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12556489;Dbxref=PMID:12556489	
+O75807	UniProtKB	Sequence conflict	80	80	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75807	UniProtKB	Sequence conflict	297	297	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75807	UniProtKB	Sequence conflict	669	669	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75807	UniProtKB	Beta strand	563	565	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XPN	

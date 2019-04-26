@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q7L804 1 512
+Q7L804	UniProtKB	Chain	1	512	.	.	.	ID=PRO_0000097306;Note=Rab11 family-interacting protein 2	
+Q7L804	UniProtKB	Domain	1	102	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q7L804	UniProtKB	Domain	437	499	.	.	.	Note=FIP-RBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00844	
+Q7L804	UniProtKB	Region	15	102	.	.	.	Note=Necessary for its cellular translocation to the plasma membrane	
+Q7L804	UniProtKB	Region	465	512	.	.	.	Note=Necessary for interaction with AP2A1%2C RAB11A%2C subcellular location%2C endocytosis activity and homooligomerization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12364336;Dbxref=PMID:12364336	
+Q7L804	UniProtKB	Motif	323	325	.	.	.	Note=NPF 1	
+Q7L804	UniProtKB	Motif	406	408	.	.	.	Note=NPF 2	
+Q7L804	UniProtKB	Motif	440	442	.	.	.	Note=NPF 3	
+Q7L804	UniProtKB	Modified residue	227	227	.	.	.	Note=Phosphoserine%3B by MARK2;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:16775013;Dbxref=PMID:23186163,PMID:16775013	
+Q7L804	UniProtKB	Modified residue	277	277	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q7L804	UniProtKB	Alternative sequence	422	422	.	.	.	ID=VSP_056649;Note=In isoform 2. S->RNTLLTPAVAEWRGSLRWAEL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16251358;Dbxref=PMID:16251358	
+Q7L804	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_051316;Note=F->V;Dbxref=dbSNP:rs34028100	
+Q7L804	UniProtKB	Mutagenesis	223	223	.	.	.	Note=No effect. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16775013;Dbxref=PMID:16775013	
+Q7L804	UniProtKB	Mutagenesis	224	224	.	.	.	Note=No effect. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16775013;Dbxref=PMID:16775013	
+Q7L804	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Abolishes phosphorylation by MARK2 and induces defects in the reestablishment of junctional complexes. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16775013;Dbxref=PMID:16775013	
+Q7L804	UniProtKB	Mutagenesis	229	229	.	.	.	Note=No effect. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16775013;Dbxref=PMID:16775013	
+Q7L804	UniProtKB	Mutagenesis	406	408	.	.	.	Note=Severe reduction of the interaction with REPS1 and AP2A1. No effects on its subcellular location. Modifies the endocytosis activity. NPF->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12364336;Dbxref=PMID:12364336	
+Q7L804	UniProtKB	Mutagenesis	480	482	.	.	.	Note=Abolishes the interaction with REPS1 and AP2A1. Modifies its subcellular location and the endocytosis activity. Enhances homooligomerization. YID->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12364336;Dbxref=PMID:12364336	
+Q7L804	UniProtKB	Mutagenesis	480	480	.	.	.	Note=No effect on the interaction with RAB11A. Abolishes the vesicular localization. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16905101;Dbxref=PMID:16905101	
+Q7L804	UniProtKB	Mutagenesis	481	481	.	.	.	Note=Abolishes the interaction with RAB11A and the vesicular localization. I->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16905101;Dbxref=PMID:16905101	
+Q7L804	UniProtKB	Helix	453	491	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TSO	
+Q7L804	UniProtKB	Helix	493	496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TSO	
+Q7L804	UniProtKB	Beta strand	497	499	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TSO	

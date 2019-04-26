@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region Q6ZN01 1 415
+Q6ZN01	UniProtKB	Chain	1	415	.	.	.	ID=PRO_0000319981;Note=MEF2-activating motif and SAP domain-containing transcriptional regulator	
+Q6ZN01	UniProtKB	Domain	172	206	.	.	.	Note=SAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00186	
+Q6ZN01	UniProtKB	Region	215	415	.	.	.	Note=Transcription activation;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6ZN01	UniProtKB	Motif	12	28	.	.	.	Note=MEF2-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6ZN01	UniProtKB	Compositional bias	36	392	.	.	.	Note=Pro-rich	
+Q6ZN01	UniProtKB	Compositional bias	339	405	.	.	.	Note=Ser-rich	
+Q6ZN01	UniProtKB	Alternative sequence	1	103	.	.	.	ID=VSP_031554;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q6ZN01	UniProtKB	Alternative sequence	178	242	.	.	.	ID=VSP_031555;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6ZN01	UniProtKB	Sequence conflict	271	271	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

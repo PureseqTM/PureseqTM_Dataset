@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region O95971 1 181
+O95971	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95971	UniProtKB	Chain	25	159	.	.	.	ID=PRO_0000014543;Note=CD160 antigen	
+O95971	UniProtKB	Chain	25	159	.	.	.	ID=PRO_0000446049;Note=CD160 antigen%2C soluble form;Ontology_term=ECO:0000305,ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:17237375,ECO:0000305|PubMed:23761635,ECO:0000305|PubMed:9743336;Dbxref=PMID:17237375,PMID:23761635,PMID:9743336	
+O95971	UniProtKB	Propeptide	160	181	.	.	.	ID=PRO_0000014544;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95971	UniProtKB	Domain	25	133	.	.	.	Note=Ig-like V-type;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19109136;Dbxref=PMID:19109136	
+O95971	UniProtKB	Lipidation	159	159	.	.	.	Note=GPI-anchor amidated serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95971	UniProtKB	Glycosylation	28	28	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95971	UniProtKB	Glycosylation	137	137	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95971	UniProtKB	Disulfide bond	44	112	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95971	UniProtKB	Disulfide bond	61	68	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95971	UniProtKB	Alternative sequence	25	181	.	.	.	ID=VSP_060017;Note=In isoform 4. GCINITSSASQEGTRLNLICTVWHKKEEAEGFVVFLCKDRSGDCSPETSLKQLRLKRDPGIDGVGEISSQLMFTISQVTPLHSGTYQCCARSQKSGIRLQGHFFSILFTETGNYTVTGLKQRQHLEFSHNEGTLSSGFLQEKVWVMLVTSLVALQAL->ETGNYTVTGLKQRQHLEFSHNEGTLSSGFLQEKVWVMLVTSLVALQGMSKRAVSTPSNEGAIIFLPPWLFSRRRRLERMSRGREKCYSSPGYPQESSNQFH	
+O95971	UniProtKB	Alternative sequence	25	133	.	.	.	ID=VSP_060018;Note=In isoform 2. Missing	
+O95971	UniProtKB	Alternative sequence	180	181	.	.	.	ID=VSP_060019;Note=In isoform 3. AL->GMSKRAVSTPSNEGAIIFLPPWLFSRRRRLERMSRGREKCYSSPGYPQESSNQFH;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19109136;Dbxref=PMID:19109136	
+O95971	UniProtKB	Natural variant	91	91	.	.	.	ID=VAR_027747;Note=I->V;Dbxref=dbSNP:rs2231373	

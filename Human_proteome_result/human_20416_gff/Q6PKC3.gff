@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q6PKC3 1 985
+Q6PKC3	UniProtKB	Chain	1	985	.	.	.	ID=PRO_0000120173;Note=Thioredoxin domain-containing protein 11	
+Q6PKC3	UniProtKB	Transmembrane	65	85	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PKC3	UniProtKB	Domain	92	214	.	.	.	Note=Thioredoxin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q6PKC3	UniProtKB	Domain	649	799	.	.	.	Note=Thioredoxin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q6PKC3	UniProtKB	Coiled coil	821	919	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PKC3	UniProtKB	Modified residue	828	828	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17693683;Dbxref=PMID:17693683	
+Q6PKC3	UniProtKB	Disulfide bond	469	472	.	.	.	Note=Redox-active;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q6PKC3	UniProtKB	Disulfide bond	719	722	.	.	.	Note=Redox-active;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00691	
+Q6PKC3	UniProtKB	Alternative sequence	265	291	.	.	.	ID=VSP_014335;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6PKC3	UniProtKB	Alternative sequence	265	278	.	.	.	ID=VSP_014336;Note=In isoform 3. ALESTSSPRALVSF->DGVSPCRPGWSAVA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6PKC3	UniProtKB	Alternative sequence	279	985	.	.	.	ID=VSP_014337;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6PKC3	UniProtKB	Natural variant	783	783	.	.	.	ID=VAR_022767;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs3190321,PMID:15489334	

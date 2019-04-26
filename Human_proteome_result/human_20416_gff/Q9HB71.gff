@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q9HB71 1 228
+Q9HB71	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712,ECO:0000269|Ref.10,ECO:0000269|Ref.11;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:25944712	
+Q9HB71	UniProtKB	Chain	2	228	.	.	.	ID=PRO_0000185389;Note=Calcyclin-binding protein	
+Q9HB71	UniProtKB	Domain	73	167	.	.	.	Note=CS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00547	
+Q9HB71	UniProtKB	Domain	168	228	.	.	.	Note=SGS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00386	
+Q9HB71	UniProtKB	Region	2	80	.	.	.	Note=Interaction with SIAH1	
+Q9HB71	UniProtKB	Region	73	228	.	.	.	Note=Interaction with SKP1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11389839;Dbxref=PMID:11389839	
+Q9HB71	UniProtKB	Region	154	228	.	.	.	Note=Interaction with S100A6;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9HB71	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000244|PubMed:25944712,ECO:0000269|Ref.10,ECO:0000269|Ref.11;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378,PMID:25944712	
+Q9HB71	UniProtKB	Modified residue	3	3	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HB71	UniProtKB	Modified residue	8	8	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9HB71	UniProtKB	Modified residue	19	19	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9HB71	UniProtKB	Modified residue	34	34	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HB71	UniProtKB	Modified residue	85	85	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9HB71	UniProtKB	Modified residue	118	118	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9HB71	UniProtKB	Alternative sequence	1	43	.	.	.	ID=VSP_046862;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9HB71	UniProtKB	Alternative sequence	73	80	.	.	.	ID=VSP_010171;Note=In isoform 2. VKISNYGW->DGISQISL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HB71	UniProtKB	Alternative sequence	81	228	.	.	.	ID=VSP_010172;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HB71	UniProtKB	Mutagenesis	23	26	.	.	.	Note=Abolishes interaction with SIAH1. KRVR->AAVA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16085652;Dbxref=PMID:16085652	
+Q9HB71	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Abolishes interaction with SIAH1%3B when associated with N-66. V->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16085652;Dbxref=PMID:16085652	
+Q9HB71	UniProtKB	Mutagenesis	66	66	.	.	.	Note=Abolishes interaction with SIAH1%3B when associated with N-64. P->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16085652;Dbxref=PMID:16085652	
+Q9HB71	UniProtKB	Sequence conflict	44	44	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HB71	UniProtKB	Sequence conflict	177	177	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HB71	UniProtKB	Sequence conflict	183	183	.	.	.	Note=T->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HB71	UniProtKB	Sequence conflict	226	226	.	.	.	Note=T->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HB71	UniProtKB	Helix	3	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A26	
+Q9HB71	UniProtKB	Helix	23	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A26	
+Q9HB71	UniProtKB	Beta strand	61	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2A25	
+Q9HB71	UniProtKB	Beta strand	79	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	86	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Turn	94	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	103	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	110	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	125	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Turn	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	142	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	149	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Beta strand	164	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	
+Q9HB71	UniProtKB	Helix	168	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X5M	

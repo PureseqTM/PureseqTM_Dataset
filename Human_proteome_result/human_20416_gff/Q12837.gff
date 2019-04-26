@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region Q12837 1 409
+Q12837	UniProtKB	Chain	1	409	.	.	.	ID=PRO_0000100740;Note=POU domain%2C class 4%2C transcription factor 2	
+Q12837	UniProtKB	Domain	250	327	.	.	.	Note=POU-specific;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00530	
+Q12837	UniProtKB	DNA binding	345	404	.	.	.	Note=Homeobox;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00108	
+Q12837	UniProtKB	Region	91	237	.	.	.	Note=Required for transcriptional activation;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63934	
+Q12837	UniProtKB	Region	238	409	.	.	.	Note=Required for DNA-binding and transcriptional repression;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63934	
+Q12837	UniProtKB	Motif	110	119	.	.	.	Note=POU-IV box	
+Q12837	UniProtKB	Motif	171	185	.	.	.	Note=Nuclear speckle targeting signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19266028;Dbxref=PMID:19266028	
+Q12837	UniProtKB	Compositional bias	27	79	.	.	.	Note=Ser-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00016	
+Q12837	UniProtKB	Compositional bias	54	83	.	.	.	Note=Gly-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00008	
+Q12837	UniProtKB	Compositional bias	126	185	.	.	.	Note=His-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00009	
+Q12837	UniProtKB	Alternative sequence	1	144	.	.	.	ID=VSP_058837;Note=In isoform 2. Missing	
+Q12837	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_059321;Note=I->T;Dbxref=dbSNP:rs13152799	
+Q12837	UniProtKB	Mutagenesis	171	185	.	.	.	Note=Absent from nuclear speckle%3B no change in transcriptional activity. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19266028;Dbxref=PMID:19266028	
+Q12837	UniProtKB	Sequence conflict	54	54	.	.	.	Note=G->GG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12837	UniProtKB	Sequence conflict	54	54	.	.	.	Note=G->GG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12837	UniProtKB	Sequence conflict	54	54	.	.	.	Note=G->GG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12837	UniProtKB	Sequence conflict	54	54	.	.	.	Note=G->GG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12837	UniProtKB	Sequence conflict	165	165	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12837	UniProtKB	Sequence conflict	182	182	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region O00165 1 279
+O00165	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:25944712,ECO:0000269|Ref.8;Dbxref=PMID:25944712	
+O00165	UniProtKB	Chain	2	279	.	.	.	ID=PRO_0000083906;Note=HCLS1-associated protein X-1	
+O00165	UniProtKB	Region	2	41	.	.	.	Note=Required for localization in mitochondria;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00165	UniProtKB	Region	114	279	.	.	.	Note=Involved in HCLS1 binding	
+O00165	UniProtKB	Region	175	206	.	.	.	Note=Involved in CASP9 binding	
+O00165	UniProtKB	Region	176	247	.	.	.	Note=Involved in GNA13 binding	
+O00165	UniProtKB	Region	183	279	.	.	.	Note=Required for localization in sarcoplasmic reticulum;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O00165	UniProtKB	Region	184	279	.	.	.	Note=Involved in PKD2 binding	
+O00165	UniProtKB	Region	203	245	.	.	.	Note=Involved in ATP2A2 binding	
+O00165	UniProtKB	Region	203	225	.	.	.	Note=Involved in PLN binding	
+O00165	UniProtKB	Region	270	279	.	.	.	Note=Required for ITGB6 binding	
+O00165	UniProtKB	Compositional bias	30	40	.	.	.	Note=Asp/Glu-rich (highly acidic)	
+O00165	UniProtKB	Site	127	128	.	.	.	Note=Cleavage%3B by caspase-3	
+O00165	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:25944712,ECO:0000269|Ref.8;Dbxref=PMID:25944712	
+O00165	UniProtKB	Modified residue	189	189	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O00165	UniProtKB	Modified residue	192	192	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O00165	UniProtKB	Alternative sequence	1	26	.	.	.	ID=VSP_038536;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:18472110,ECO:0000303|Ref.3;Dbxref=PMID:18472110	
+O00165	UniProtKB	Alternative sequence	18	65	.	.	.	ID=VSP_038543;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18472110;Dbxref=PMID:18472110	
+O00165	UniProtKB	Alternative sequence	85	264	.	.	.	ID=VSP_038544;Note=In isoform 6. VRDFNSIFSDMGAWTLPSHPPELPGPESETPGERLREGQTLRDSMLKYPDSHQPRIFGGVLESDARSESPQPAPDWGSQRPFHRFDDVWPMDPHPRTREDNDLDSQVSQEGLGPVLQPQPKSYFKSISVTKITKPDGIVEERRTVVDSEGRTETTVTRHEADSSPRGDPESPRPPALDDA->NFQVLSQRHLVRDYGRDRHFGTQCLSIQIVTSPGSLGGSWRVMQEVNPPNQHQTGAPRGHFIGLMMYGLWTPILEPERTMILIPRFPRRVLARFYSPSPNPISRASL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18472110;Dbxref=PMID:18472110	
+O00165	UniProtKB	Alternative sequence	105	105	.	.	.	ID=VSP_038537;Note=In isoform 2. P->PANTCHLSA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:18472110;Dbxref=PMID:14702039,PMID:18472110	
+O00165	UniProtKB	Alternative sequence	106	124	.	.	.	ID=VSP_038538;Note=In isoform 4. ELPGPESETPGERLREGQT->GVWLSLRGNLWFLVGWWVK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:18472110,ECO:0000303|Ref.3;Dbxref=PMID:14702039,PMID:18472110	
+O00165	UniProtKB	Alternative sequence	125	279	.	.	.	ID=VSP_038539;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:18472110,ECO:0000303|Ref.3;Dbxref=PMID:14702039,PMID:18472110	
+O00165	UniProtKB	Alternative sequence	265	279	.	.	.	ID=VSP_038545;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18472110;Dbxref=PMID:18472110	
+O00165	UniProtKB	Natural variant	49	49	.	.	.	ID=VAR_062258;Note=P->S;Dbxref=dbSNP:rs11556344	
+O00165	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_064514;Note=In SCN3. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20220065;Dbxref=dbSNP:rs179363871,PMID:20220065	
+O00165	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_062259;Note=In SCN3%3B mild form. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19796188;Dbxref=dbSNP:rs179363870,PMID:19796188	
+O00165	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_062260;Note=S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17851425,PMID:15489334	
+O00165	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_064515;Note=In SCN3. V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20220065;Dbxref=dbSNP:rs141970914,PMID:20220065	
+O00165	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_062261;Note=S->P;Dbxref=dbSNP:rs1804715	
+O00165	UniProtKB	Sequence conflict	25	25	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00165	UniProtKB	Sequence conflict	45	45	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00165	UniProtKB	Sequence conflict	201	201	.	.	.	Note=Q->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

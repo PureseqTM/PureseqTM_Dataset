@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region P01241 1 217
+P01241	UniProtKB	Signal peptide	1	26	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:5144027,ECO:0000269|PubMed:5279046,ECO:0000269|PubMed:5810834;Dbxref=PMID:5144027,PMID:5279046,PMID:5810834	
+P01241	UniProtKB	Chain	27	217	.	.	.	ID=PRO_0000032988;Note=Somatotropin	
+P01241	UniProtKB	Metal binding	44	44	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P01241	UniProtKB	Metal binding	200	200	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P01241	UniProtKB	Modified residue	132	132	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14997482;Dbxref=PMID:14997482	
+P01241	UniProtKB	Modified residue	163	163	.	.	.	Note=Deamidated glutamine%3B by deterioration;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7028740;Dbxref=PMID:7028740	
+P01241	UniProtKB	Modified residue	176	176	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14997482;Dbxref=PMID:14997482	
+P01241	UniProtKB	Modified residue	178	178	.	.	.	Note=Deamidated asparagine%3B by deterioration;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7028740;Dbxref=PMID:7028740	
+P01241	UniProtKB	Disulfide bond	79	191	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:5144027;Dbxref=PMID:5144027	
+P01241	UniProtKB	Disulfide bond	208	215	.	.	.	.	
+P01241	UniProtKB	Alternative sequence	58	97	.	.	.	ID=VSP_045642;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P01241	UniProtKB	Alternative sequence	58	72	.	.	.	ID=VSP_006200;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P01241	UniProtKB	Alternative sequence	111	148	.	.	.	ID=VSP_006201;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+P01241	UniProtKB	Alternative sequence	117	162	.	.	.	ID=VSP_006202;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10931946;Dbxref=PMID:10931946	
+P01241	UniProtKB	Natural variant	3	3	.	.	.	ID=VAR_011917;Note=Found in patients with isolated growth hormone deficiency. T->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12655557,ECO:0000269|PubMed:15001589,ECO:0000269|PubMed:9152628;Dbxref=dbSNP:rs2001345,PMID:12655557,PMID:15001589,PMID:9152628	
+P01241	UniProtKB	Natural variant	16	16	.	.	.	ID=VAR_015801;Note=In IGHD1B%3B suppresses secretion. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_015802;Note=In IGHD1B. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_015803;Note=In IGHD1B%3B reduced secretion. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=dbSNP:rs71640273,PMID:12655557	
+P01241	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_015804;Note=In IGHD1B%3B reduced ability to activate the JAK/STAT pathway. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_015805;Note=In IGHD1B%3B reduced ability to activate the JAK/STAT pathway. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_015806;Note=In IGHD1B%3B reduced ability to activate the JAK/STAT pathway. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=dbSNP:rs71640276,PMID:12655557	
+P01241	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_032702;Note=In short stature%3B idiopathic autosomal%3B affects binding affinity of GH for GHR and the potency of GH to activate the JAK2/STAT5 signaling pathway. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15713716;Dbxref=dbSNP:rs137853222,PMID:15713716	
+P01241	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_015807;Note=In IGHD1B%3B reduced ability to activate the JAK/STAT pathway. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_015808;Note=In IGHD1B. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	103	103	.	.	.	ID=VAR_015809;Note=In KWKS%3B no effect on GHR signaling pathway%3B does not affect interaction with GHR%3B results in a stronger interaction with GHBP%3B does not affect subcellular location. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17519310,ECO:0000269|PubMed:8552145;Dbxref=dbSNP:rs137853220,PMID:17519310,PMID:8552145	
+P01241	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_011918;Note=S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391209;Dbxref=dbSNP:rs6174,PMID:10391209	
+P01241	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_015810;Note=In IGHD1B%3B reduced secretion. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_015811;Note=In IGHD1B. S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_015812;Note=In IGHD1B%3B reduced ability to activate the JAK/STAT pathway. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_011919;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12655557,ECO:0000269|PubMed:15001589;Dbxref=dbSNP:rs5388,PMID:12655557,PMID:15001589	
+P01241	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_015813;Note=In KWKS%3B loss of activity. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9276733;Dbxref=dbSNP:rs137853221,PMID:9276733	
+P01241	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_015814;Note=In IGHD1B%3B reduced ability to activate the JAK/STAT pathway. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12655557;Dbxref=PMID:12655557	
+P01241	UniProtKB	Natural variant	205	205	.	.	.	ID=VAR_032703;Note=In short stature%3B idiopathic autosomal. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15001589;Dbxref=dbSNP:rs148474991,PMID:15001589	
+P01241	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_015815;Note=In IGHD2. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11502836,ECO:0000269|PubMed:9152628;Dbxref=dbSNP:rs137853223,PMID:11502836,PMID:9152628	
+P01241	UniProtKB	Sequence conflict	35	35	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01241	UniProtKB	Sequence conflict	40	40	.	.	.	Note=M->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01241	UniProtKB	Helix	32	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	64	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HGU	
+P01241	UniProtKB	Turn	80	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	90	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	98	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Turn	111	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	115	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	120	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Turn	129	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	136	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Helix	163	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AXI	
+P01241	UniProtKB	Beta strand	178	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HGU	
+P01241	UniProtKB	Helix	182	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HUW	
+P01241	UniProtKB	Turn	212	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AXI	

@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region P51178 1 756
+P51178	UniProtKB	Chain	1	756	.	.	.	ID=PRO_0000088504;Note=1-phosphatidylinositol 4%2C5-bisphosphate phosphodiesterase delta-1	
+P51178	UniProtKB	Domain	21	130	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+P51178	UniProtKB	Domain	140	175	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P51178	UniProtKB	Domain	176	211	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P51178	UniProtKB	Domain	296	440	.	.	.	Note=PI-PLC X-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+P51178	UniProtKB	Domain	492	609	.	.	.	Note=PI-PLC Y-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00271	
+P51178	UniProtKB	Domain	616	720	.	.	.	Note=C2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+P51178	UniProtKB	Calcium binding	153	164	.	.	.	Note=1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P51178	UniProtKB	Calcium binding	189	200	.	.	.	Note=2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P51178	UniProtKB	Region	30	57	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Active site	311	311	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+P51178	UniProtKB	Active site	356	356	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00270	
+P51178	UniProtKB	Metal binding	312	312	.	.	.	Note=Calcium 1%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	341	341	.	.	.	Note=Calcium 1%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	343	343	.	.	.	Note=Calcium 1%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	390	390	.	.	.	Note=Calcium 1%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	651	651	.	.	.	Note=Calcium 2%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	653	653	.	.	.	Note=Calcium 2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	677	677	.	.	.	Note=Calcium 2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	706	706	.	.	.	Note=Calcium 3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	707	707	.	.	.	Note=Calcium 3%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Metal binding	708	708	.	.	.	Note=Calcium 3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Binding site	438	438	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Binding site	440	440	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Binding site	522	522	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Binding site	549	549	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Modified residue	457	457	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R3B1	
+P51178	UniProtKB	Modified residue	460	460	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+P51178	UniProtKB	Glycosylation	191	191	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Glycosylation	193	193	.	.	.	Note=O-linked (GlcNAc) threonine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51178	UniProtKB	Alternative sequence	1	11	.	.	.	ID=VSP_042919;Note=In isoform 2. MDSGRDFLTLH->MQCLGIRSRSRSRELYLQERSLKVAALNGRRL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P51178	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_066399;Note=In NDNC3. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21665001;Dbxref=PMID:21665001	
+P51178	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_046560;Note=R->H;Dbxref=dbSNP:rs933135	
+P51178	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_066400;Note=In NDNC3. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21665001;Dbxref=PMID:21665001	
+P51178	UniProtKB	Sequence conflict	224	224	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51178	UniProtKB	Sequence conflict	264	264	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51178	UniProtKB	Sequence conflict	591	591	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

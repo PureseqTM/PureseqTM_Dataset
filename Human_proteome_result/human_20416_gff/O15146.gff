@@ -1,0 +1,57 @@
+##gff-version 3
+##sequence-region O15146 1 869
+O15146	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15146	UniProtKB	Chain	24	869	.	.	.	ID=PRO_0000024446;Note=Muscle%2C skeletal receptor tyrosine-protein kinase	
+O15146	UniProtKB	Topological domain	24	495	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15146	UniProtKB	Transmembrane	496	516	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15146	UniProtKB	Topological domain	517	869	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15146	UniProtKB	Domain	28	116	.	.	.	Note=Ig-like 1	
+O15146	UniProtKB	Domain	121	205	.	.	.	Note=Ig-like 2	
+O15146	UniProtKB	Domain	212	302	.	.	.	Note=Ig-like 3	
+O15146	UniProtKB	Domain	312	450	.	.	.	Note=FZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O15146	UniProtKB	Domain	575	856	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15146	UniProtKB	Nucleotide binding	581	589	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15146	UniProtKB	Active site	725	725	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+O15146	UniProtKB	Binding site	609	609	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15146	UniProtKB	Modified residue	554	554	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61006	
+O15146	UniProtKB	Modified residue	681	681	.	.	.	Note=Phosphoserine%3B by CK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61006	
+O15146	UniProtKB	Modified residue	698	698	.	.	.	Note=Phosphoserine%3B by CK2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61006	
+O15146	UniProtKB	Modified residue	755	755	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62838	
+O15146	UniProtKB	Glycosylation	222	222	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15146	UniProtKB	Glycosylation	338	338	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	49	99	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	98	112	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	142	190	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	233	282	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	317	382	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	325	375	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	366	406	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	394	447	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Disulfide bond	398	434	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O15146	UniProtKB	Alternative sequence	209	209	.	.	.	ID=VSP_035958;Note=In isoform 2. E->EEESEPEQDTK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O15146	UniProtKB	Alternative sequence	307	394	.	.	.	ID=VSP_035959;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O15146	UniProtKB	Alternative sequence	454	462	.	.	.	ID=VSP_035960;Note=In isoform 2 and isoform 3. DYNKENLKT->A;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O15146	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_041748;Note=A->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56054734,PMID:17344846	
+O15146	UniProtKB	Natural variant	38	38	.	.	.	ID=VAR_072785;Note=In CMS9. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24183479;Dbxref=dbSNP:rs775587809,PMID:24183479	
+O15146	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_041749;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35142681,PMID:17344846	
+O15146	UniProtKB	Natural variant	107	107	.	.	.	ID=VAR_041750;Note=G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55786136,PMID:17344846	
+O15146	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_041751;Note=S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35176182,PMID:17344846	
+O15146	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_041752;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55826142,PMID:17344846	
+O15146	UniProtKB	Natural variant	344	344	.	.	.	ID=VAR_072786;Note=In CMS9. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19949040;Dbxref=dbSNP:rs387906803,PMID:19949040	
+O15146	UniProtKB	Natural variant	413	413	.	.	.	ID=VAR_021930;Note=M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs2274419,PMID:17344846	
+O15146	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_072787;Note=In FADS%3B reduces agrin-dependent AChR aggregation and tyrosine kinase activity in developing neuromuscular junction. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25537362;Dbxref=dbSNP:rs751889864,PMID:25537362	
+O15146	UniProtKB	Natural variant	605	605	.	.	.	ID=VAR_066604;Note=In CMS9%3B affects interaction with DOK7 and impairs MUSK phosphorylation%3B altered AChR clustering. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20371544;Dbxref=dbSNP:rs766640370,PMID:20371544	
+O15146	UniProtKB	Natural variant	629	629	.	.	.	ID=VAR_041753;Note=L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34267283,PMID:17344846	
+O15146	UniProtKB	Natural variant	644	644	.	.	.	ID=VAR_041754;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs41279055,PMID:17344846	
+O15146	UniProtKB	Natural variant	664	664	.	.	.	ID=VAR_041755;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55963442,PMID:17344846	
+O15146	UniProtKB	Natural variant	696	696	.	.	.	ID=VAR_041756;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56126328,PMID:17344846	
+O15146	UniProtKB	Natural variant	727	727	.	.	.	ID=VAR_066605;Note=In CMS9%3B affects interaction with DOK7 and impairs MUSK phosphorylation%3B altered AChR clustering. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20371544;Dbxref=dbSNP:rs397515450,PMID:20371544	
+O15146	UniProtKB	Natural variant	782	782	.	.	.	ID=VAR_041757;Note=E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34614566,PMID:17344846	
+O15146	UniProtKB	Natural variant	790	790	.	.	.	ID=VAR_023046;Note=In CMS9%3B does not affect catalytic kinase activity%3B reduces protein expression and stability. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15496425;Dbxref=dbSNP:rs199476083,PMID:15496425	
+O15146	UniProtKB	Natural variant	819	819	.	.	.	ID=VAR_041758;Note=In a lung neuroendocrine carcinoma sample%3B somatic mutation. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs757577755,PMID:17344846	
+O15146	UniProtKB	Natural variant	829	829	.	.	.	ID=VAR_033837;Note=V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs578430,PMID:17344846	
+O15146	UniProtKB	Natural variant	835	835	.	.	.	ID=VAR_072788;Note=In CMS9%3B reduces AChR aggregation in developing neuromuscular junction. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23326516;Dbxref=PMID:23326516	
+O15146	UniProtKB	Natural variant	858	858	.	.	.	ID=VAR_041759;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34115159,PMID:17344846	
+O15146	UniProtKB	Mutagenesis	584	584	.	.	.	Note=Mild decrease in kinase activity. G->C%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25029443;Dbxref=PMID:25029443	
+O15146	UniProtKB	Mutagenesis	609	609	.	.	.	Note=Severe loss of kinase activity. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25029443;Dbxref=PMID:25029443	
+O15146	UniProtKB	Mutagenesis	743	743	.	.	.	Note=Severe loss of kinase activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25029443;Dbxref=PMID:25029443	

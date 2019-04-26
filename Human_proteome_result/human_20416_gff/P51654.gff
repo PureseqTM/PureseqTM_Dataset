@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region P51654 1 580
+P51654	UniProtKB	Signal peptide	1	24	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29345911;Dbxref=PMID:29345911	
+P51654	UniProtKB	Chain	25	358	.	.	.	ID=PRO_0000445410;Note=Glypican-3 alpha subunit;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14610063;Dbxref=PMID:14610063	
+P51654	UniProtKB	Chain	359	554	.	.	.	ID=PRO_0000445411;Note=Glypican-3 beta subunit;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:14610063;Dbxref=PMID:14610063	
+P51654	UniProtKB	Propeptide	555	580	.	.	.	ID=PRO_0000012310;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51654	UniProtKB	Site	358	359	.	.	.	Note=Cleavage;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14610063,ECO:0000269|PubMed:15059894;Dbxref=PMID:14610063,PMID:15059894	
+P51654	UniProtKB	Modified residue	25	25	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29345911;Dbxref=PMID:29345911	
+P51654	UniProtKB	Modified residue	352	352	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+P51654	UniProtKB	Lipidation	554	554	.	.	.	Note=GPI-anchor amidated asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51654	UniProtKB	Glycosylation	124	124	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29345911;Dbxref=PMID:29345911	
+P51654	UniProtKB	Glycosylation	241	241	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29345911;Dbxref=PMID:29345911	
+P51654	UniProtKB	Glycosylation	418	418	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29345911;Dbxref=PMID:29345911	
+P51654	UniProtKB	Glycosylation	495	495	.	.	.	Note=O-linked (Xyl...) (heparan sulfate) serine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51654	UniProtKB	Glycosylation	509	509	.	.	.	Note=O-linked (Xyl...) (heparan sulfate) serine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51654	UniProtKB	Disulfide bond	35	72	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Disulfide bond	65	262	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Disulfide bond	73	265	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Disulfide bond	197	349	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Disulfide bond	252	285	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Disulfide bond	274	422	.	.	.	Note=Interchain (between alpha and beta chains);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Disulfide bond	278	410	.	.	.	Note=Interchain (between alpha and beta chains);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P35052	
+P51654	UniProtKB	Alternative sequence	59	112	.	.	.	ID=VSP_046117;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P51654	UniProtKB	Alternative sequence	344	344	.	.	.	ID=VSP_046703;Note=In isoform 3. T->TETEKKIWHFKYPIFFLCIGLDLQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+P51654	UniProtKB	Natural variant	296	296	.	.	.	ID=VAR_021385;Note=In SGBS1. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10814714;Dbxref=dbSNP:rs104894854,PMID:10814714	
+P51654	UniProtKB	Natural variant	429	429	.	.	.	ID=VAR_069139;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs11539789	
+P51654	UniProtKB	Mutagenesis	355	358	.	.	.	Note=Abolishes proteolytic processing. Abolishes interaction with WNT5A and ability to regulate Wnt signaling. Increases binding of hedgehog protein SHH to the PTC1 receptor and abolishes ability to inhibit hedgehog signaling. RQYR->AQYA;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14610063,ECO:0000269|PubMed:16227623,ECO:0000269|PubMed:25653284;Dbxref=PMID:14610063,PMID:16227623,PMID:25653284	
+P51654	UniProtKB	Mutagenesis	355	355	.	.	.	Note=No effect on proteolytic processing. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610063;Dbxref=PMID:14610063	
+P51654	UniProtKB	Mutagenesis	358	358	.	.	.	Note=No effect on proteolytic processing. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610063;Dbxref=PMID:14610063	
+P51654	UniProtKB	Mutagenesis	371	374	.	.	.	Note=No effect on proteolytic processing. KVLK->AVLA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610063;Dbxref=PMID:14610063	
+P51654	UniProtKB	Mutagenesis	387	389	.	.	.	Note=No effect on proteolytic processing. RRR->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610063;Dbxref=PMID:14610063	
+P51654	UniProtKB	Mutagenesis	394	396	.	.	.	Note=No effect on proteolytic processing. KLK->ALA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14610063;Dbxref=PMID:14610063	

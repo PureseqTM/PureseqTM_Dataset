@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region P18054 1 663
+P18054	UniProtKB	Chain	1	663	.	.	.	ID=PRO_0000220682;Note=Arachidonate 12-lipoxygenase%2C 12S-type	
+P18054	UniProtKB	Domain	2	114	.	.	.	Note=PLAT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00152	
+P18054	UniProtKB	Domain	115	663	.	.	.	Note=Lipoxygenase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00726	
+P18054	UniProtKB	Metal binding	360	360	.	.	.	Note=Iron%3B catalytic	
+P18054	UniProtKB	Metal binding	365	365	.	.	.	Note=Iron%3B catalytic	
+P18054	UniProtKB	Metal binding	540	540	.	.	.	Note=Iron%3B catalytic	
+P18054	UniProtKB	Metal binding	544	544	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00726	
+P18054	UniProtKB	Metal binding	663	663	.	.	.	Note=Iron%3B via carboxylate%3B catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00726	
+P18054	UniProtKB	Modified residue	246	246	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:F1LQ70	
+P18054	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_030471;Note=E->K;Dbxref=dbSNP:rs4987104	
+P18054	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_018743;Note=Q->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15308583,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17151091,ECO:0000269|PubMed:17460548,ECO:0000269|PubMed:2217179,ECO:0000269|Ref.4;Dbxref=dbSNP:rs1126667,PMID:15308583,PMID:15489334,PMID:17151091,PMID:17460548,PMID:2217179	
+P18054	UniProtKB	Natural variant	298	298	.	.	.	ID=VAR_004279;Note=A->T	
+P18054	UniProtKB	Natural variant	322	322	.	.	.	ID=VAR_018744;Note=N->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2244907,ECO:0000269|PubMed:2377602,ECO:0000269|Ref.4;Dbxref=dbSNP:rs434473,PMID:2244907,PMID:2377602	
+P18054	UniProtKB	Natural variant	430	430	.	.	.	ID=VAR_018745;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs11571342	
+P18054	UniProtKB	Mutagenesis	355	355	.	.	.	Note=No effect on catalytic activity. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	360	360	.	.	.	Note=Complete loss of catalytic activity. H->Q%2CY;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	365	365	.	.	.	Note=Complete loss of catalytic activity. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	383	383	.	.	.	Note=Altered catalytic activity and protein expression. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	392	392	.	.	.	Note=No effect on catalytic activity. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	416	416	.	.	.	Note=Reduced catalytic activity. No effect on the stereoselectivity of the oxygenation reaction. K->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	417	417	.	.	.	Note=Reduced catalytic activity. Alters the stereoselectivity of the oxygenation reaction. A->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	418	418	.	.	.	Note=No effect on catalytic activity. No effect on the stereoselectivity of the oxygenation reaction. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Mutagenesis	540	540	.	.	.	Note=Complete loss of catalytic activity. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8500694;Dbxref=PMID:8500694	
+P18054	UniProtKB	Sequence conflict	189	192	.	.	.	Note=RVYT->PCLH;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18054	UniProtKB	Sequence conflict	345	345	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18054	UniProtKB	Sequence conflict	389	389	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18054	UniProtKB	Helix	182	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	203	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	213	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	225	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	258	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	273	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	279	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	300	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	311	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	325	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	337	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	358	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	365	378	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	384	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	390	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	426	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Turn	438	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	443	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	459	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	486	491	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	493	503	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Turn	504	508	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	510	512	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	522	536	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	538	544	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	547	551	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	554	556	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	567	571	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	574	580	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	584	597	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	618	643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Helix	654	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	
+P18054	UniProtKB	Beta strand	657	660	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D3L	

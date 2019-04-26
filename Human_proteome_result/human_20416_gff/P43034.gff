@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P43034 1 410
+P43034	UniProtKB	Chain	1	410	.	.	.	ID=PRO_0000051061;Note=Platelet-activating factor acetylhydrolase IB subunit alpha	
+P43034	UniProtKB	Domain	7	39	.	.	.	Note=LisH;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03141	
+P43034	UniProtKB	Repeat	106	147	.	.	.	Note=WD 1	
+P43034	UniProtKB	Repeat	148	187	.	.	.	Note=WD 2	
+P43034	UniProtKB	Repeat	190	229	.	.	.	Note=WD 3	
+P43034	UniProtKB	Repeat	232	271	.	.	.	Note=WD 4	
+P43034	UniProtKB	Repeat	274	333	.	.	.	Note=WD 5	
+P43034	UniProtKB	Repeat	336	377	.	.	.	Note=WD 6	
+P43034	UniProtKB	Repeat	378	410	.	.	.	Note=WD 7	
+P43034	UniProtKB	Region	1	102	.	.	.	Note=Interaction with NDEL1;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03141	
+P43034	UniProtKB	Region	1	66	.	.	.	Note=Interaction with NDE1;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03141	
+P43034	UniProtKB	Region	1	38	.	.	.	Note=Required for self-association and interaction with PAFAH1B2 and PAFAH1B3;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03141	
+P43034	UniProtKB	Region	83	410	.	.	.	Note=Interaction with dynein and dynactin	
+P43034	UniProtKB	Region	367	409	.	.	.	Note=Interaction with DCX;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11001923;Dbxref=PMID:11001923	
+P43034	UniProtKB	Region	388	410	.	.	.	Note=Interaction with NDEL1;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03141	
+P43034	UniProtKB	Coiled coil	56	82	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03141	
+P43034	UniProtKB	Modified residue	53	53	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P43034	UniProtKB	Modified residue	109	109	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P43034	UniProtKB	Alternative sequence	12	64	.	.	.	ID=VSP_019376;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P43034	UniProtKB	Alternative sequence	134	170	.	.	.	ID=VSP_019377;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P43034	UniProtKB	Alternative sequence	237	237	.	.	.	ID=VSP_019378;Note=In isoform 2. V->I;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P43034	UniProtKB	Alternative sequence	238	410	.	.	.	ID=VSP_019379;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P43034	UniProtKB	Natural variant	31	31	.	.	.	ID=VAR_015398;Note=In LIS1. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11502906;Dbxref=dbSNP:rs121434486,PMID:11502906	
+P43034	UniProtKB	Natural variant	149	149	.	.	.	ID=VAR_007724;Note=In LIS1%3B abrogates interaction with NDE1 and reduces neuronal migration in vitro. H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11163258,ECO:0000269|PubMed:15173193,ECO:0000269|PubMed:9063735;Dbxref=dbSNP:rs121434482,PMID:11163258,PMID:15173193,PMID:9063735	
+P43034	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_015399;Note=In LIS1. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11502906;Dbxref=dbSNP:rs121434487,PMID:11502906	
+P43034	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_010203;Note=In SBH%3B abrogates interaction with NDE1 and reduces neuronal migration in vitro. S->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10441340,ECO:0000269|PubMed:11163258,ECO:0000269|PubMed:15173193;Dbxref=dbSNP:rs121434484,PMID:10441340,PMID:11163258,PMID:15173193	
+P43034	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_037300;Note=In SBH%3B somatic mosaicism in 18%25 of lymphocytes and 21%25 of hair root cells. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14581661;Dbxref=dbSNP:rs121434488,PMID:14581661	
+P43034	UniProtKB	Natural variant	277	277	.	.	.	ID=VAR_037301;Note=In LIS1. H->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15007136;Dbxref=dbSNP:rs121434490,PMID:15007136	
+P43034	UniProtKB	Natural variant	317	317	.	.	.	ID=VAR_015400;Note=In LIS1%3B reduces neuronal migration in vitro. D->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11502906,ECO:0000269|PubMed:15173193;Dbxref=dbSNP:rs121434485,PMID:11502906,PMID:15173193	
+P43034	UniProtKB	Sequence conflict	21	21	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43034	UniProtKB	Sequence conflict	21	21	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43034	UniProtKB	Sequence conflict	93	93	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43034	UniProtKB	Sequence conflict	177	177	.	.	.	Note=W->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

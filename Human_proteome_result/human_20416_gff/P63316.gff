@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region P63316 1 161
+P63316	UniProtKB	Chain	1	161	.	.	.	ID=PRO_0000073697;Note=Troponin C%2C slow skeletal and cardiac muscles	
+P63316	UniProtKB	Domain	16	51	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P63316	UniProtKB	Domain	52	87	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P63316	UniProtKB	Domain	92	127	.	.	.	Note=EF-hand 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P63316	UniProtKB	Domain	128	161	.	.	.	Note=EF-hand 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+P63316	UniProtKB	Calcium binding	65	76	.	.	.	Note=1	
+P63316	UniProtKB	Calcium binding	105	116	.	.	.	Note=2	
+P63316	UniProtKB	Calcium binding	141	152	.	.	.	Note=3	
+P63316	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3951483;Dbxref=PMID:3951483	
+P63316	UniProtKB	Modified residue	98	98	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P19123	
+P63316	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_063070;Note=In CMH13%3B increases calcium sensitivity of the myofilaments. A->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18572189,ECO:0000269|PubMed:19439414;Dbxref=dbSNP:rs267607125,PMID:18572189,PMID:19439414	
+P63316	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_019776;Note=In CMH13%3B impairs protein kinase A dependent signaling from cardiac troponin I to troponin C. L->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11385718,ECO:0000269|PubMed:16302972;Dbxref=dbSNP:rs267607123,PMID:11385718,PMID:16302972	
+P63316	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_063071;Note=In CMH13%3B increases calcium sensitivity of the myofilaments. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18572189,ECO:0000269|PubMed:19439414;Dbxref=dbSNP:rs267607126,PMID:18572189,PMID:19439414	
+P63316	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_063072;Note=In CMH13%3B no changes in calcium sensitivity of the myofilaments. E->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18572189,ECO:0000269|PubMed:19439414;Dbxref=dbSNP:rs397516847,PMID:18572189,PMID:19439414	
+P63316	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_063073;Note=In CMH13%3B increases calcium sensitivity of the myofilaments. D->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18572189,ECO:0000269|PubMed:19439414;Dbxref=dbSNP:rs267607124,PMID:18572189,PMID:19439414	
+P63316	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_043988;Note=In CMD1Z. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15542288;Dbxref=PMID:15542288	
+P63316	UniProtKB	Sequence conflict	96	96	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63316	UniProtKB	Sequence conflict	115	115	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P63316	UniProtKB	Helix	3	9	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Helix	14	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Turn	30	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Beta strand	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Helix	38	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Beta strand	51	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JT8	
+P63316	UniProtKB	Helix	54	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Beta strand	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Beta strand	71	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Helix	74	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SD6	
+P63316	UniProtKB	Helix	86	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N7L	
+P63316	UniProtKB	Beta strand	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JTZ	
+P63316	UniProtKB	Helix	94	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Beta strand	106	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MLE	
+P63316	UniProtKB	Beta strand	109	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Helix	114	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Beta strand	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1J1D	
+P63316	UniProtKB	Helix	130	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Beta strand	144	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Helix	150	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Y99	
+P63316	UniProtKB	Turn	158	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JT0	

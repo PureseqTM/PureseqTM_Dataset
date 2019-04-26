@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P61077 1 147
+P61077	UniProtKB	Chain	1	147	.	.	.	ID=PRO_0000082466;Note=Ubiquitin-conjugating enzyme E2 D3	
+P61077	UniProtKB	Active site	85	85	.	.	.	Note=Glycyl thioester intermediate;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00388,ECO:0000255|PROSITE-ProRule:PRU10133	
+P61077	UniProtKB	Disulfide bond	21	107	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.28	
+P61077	UniProtKB	Alternative sequence	1	8	.	.	.	ID=VSP_038096;Note=In isoform 3. MALKRINK->MLSNRKCLSK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P61077	UniProtKB	Alternative sequence	134	147	.	.	.	ID=VSP_038097;Note=In isoform 2. YNRISREWTQKYAM->YNRLAREWTEKYAML;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P61077	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Activity is restricted HECT-type and not RING-containing E3 ubiquitin-protein ligases. Exhibits ubiquitin transfer with ARIH1 and PRKN. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21532592;Dbxref=PMID:21532592	
+P61077	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Loss of function. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10329681;Dbxref=PMID:10329681	
+P61077	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Has intermediate lysine reactivity. D->E%2CP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21532592;Dbxref=PMID:21532592	
+P61077	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Abolishes affect lysine reactivity. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21532592;Dbxref=PMID:21532592	
+P61077	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Does not affect lysine reactivity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21532592;Dbxref=PMID:21532592	
+P61077	UniProtKB	Mutagenesis	117	117	.	.	.	Note=Strongly impairs lysine reactivity but retains some ability to transfer ubiquitin to BRCA1. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21532592;Dbxref=PMID:21532592	
+P61077	UniProtKB	Sequence conflict	50	50	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P61077	UniProtKB	Sequence conflict	123	123	.	.	.	Note=I->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P61077	UniProtKB	Sequence conflict	137	137	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P61077	UniProtKB	Sequence conflict	147	147	.	.	.	Note=M->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P61077	UniProtKB	Helix	1	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	19	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FUH	
+P61077	UniProtKB	Beta strand	22	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	32	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4S3O	
+P61077	UniProtKB	Turn	44	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	49	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Turn	58	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	66	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	76	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R8P	
+P61077	UniProtKB	Beta strand	80	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R8P	
+P61077	UniProtKB	Helix	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Turn	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Helix	99	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Beta strand	115	117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CP0	
+P61077	UniProtKB	Helix	121	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	
+P61077	UniProtKB	Helix	131	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5EGG	

@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region Q12772 1 1141
+Q12772	UniProtKB	Chain	1	1141	.	.	.	ID=PRO_0000127452;Note=Sterol regulatory element-binding protein 2	
+Q12772	UniProtKB	Chain	1	484	.	.	.	ID=PRO_0000314033;Note=Processed sterol regulatory element-binding protein 2	
+Q12772	UniProtKB	Topological domain	1	479	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12772	UniProtKB	Transmembrane	480	500	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12772	UniProtKB	Topological domain	501	533	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12772	UniProtKB	Transmembrane	534	554	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12772	UniProtKB	Topological domain	555	1139	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12772	UniProtKB	Domain	330	380	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+Q12772	UniProtKB	Region	1	50	.	.	.	Note=Transcriptional activation (acidic)	
+Q12772	UniProtKB	Region	237	491	.	.	.	Note=Interaction with LMNA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q12772	UniProtKB	Region	380	401	.	.	.	Note=Leucine-zipper	
+Q12772	UniProtKB	Compositional bias	52	124	.	.	.	Note=Gly/Pro/Ser-rich	
+Q12772	UniProtKB	Compositional bias	125	244	.	.	.	Note=Gln-rich	
+Q12772	UniProtKB	Site	468	469	.	.	.	Note=Cleavage%3B by caspase-3 and caspase-7;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8643593;Dbxref=PMID:8643593	
+Q12772	UniProtKB	Site	484	485	.	.	.	Note=Cleavage%3B by S2P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10805775,ECO:0000269|PubMed:9651382;Dbxref=PMID:10805775,PMID:9651382	
+Q12772	UniProtKB	Site	522	523	.	.	.	Note=Cleavage%3B by S1P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805775;Dbxref=PMID:10805775	
+Q12772	UniProtKB	Modified residue	855	855	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q12772	UniProtKB	Modified residue	1098	1098	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q12772	UniProtKB	Cross-link	464	464	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q12772	UniProtKB	Alternative sequence	273	275	.	.	.	ID=VSP_054283;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q12772	UniProtKB	Alternative sequence	589	684	.	.	.	ID=VSP_054284;Note=In isoform 2. DFAAAAGNLQTCLAVLGRALPTSRLDLACSLSWNVIRYSLQKLRLVRWLLKKVFQCRRATPATEAGFEDEAKTSARDAALAYHRLHQLHITGKLPA->VYGKKSGATHSIEEELNIHISRGTRTRTLLSSRRFCSCCRQPTNLPGSFGPGTAHLPPGPGLQPLLERDPLQPAEATPGALAAQESLPVPAGHASH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q12772	UniProtKB	Alternative sequence	685	1141	.	.	.	ID=VSP_054285;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q12772	UniProtKB	Natural variant	273	273	.	.	.	ID=VAR_036394;Note=In a breast cancer sample%3B somatic mutation. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q12772	UniProtKB	Natural variant	347	347	.	.	.	ID=VAR_036395;Note=In a breast cancer sample%3B somatic mutation. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q12772	UniProtKB	Natural variant	536	536	.	.	.	ID=VAR_049550;Note=M->L;Dbxref=dbSNP:rs17002714	
+Q12772	UniProtKB	Natural variant	595	595	.	.	.	ID=VAR_028440;Note=G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7903453;Dbxref=dbSNP:rs2228314,PMID:7903453	
+Q12772	UniProtKB	Natural variant	623	623	.	.	.	ID=VAR_028441;Note=V->M;Dbxref=dbSNP:rs2229440	
+Q12772	UniProtKB	Natural variant	860	860	.	.	.	ID=VAR_049551;Note=R->S;Dbxref=dbSNP:rs2228313	
+Q12772	UniProtKB	Mutagenesis	478	481	.	.	.	Note=Loss of cleavage by S2P. DRSR->AAAA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8626610,ECO:0000269|PubMed:9651382;Dbxref=PMID:8626610,PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	478	481	.	.	.	Note=Loss of cleavage by S2P. DRSR->AS;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8626610,ECO:0000269|PubMed:9651382;Dbxref=PMID:8626610,PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	478	478	.	.	.	Note=No effect on proteolytic processing in response to low sterol. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+Q12772	UniProtKB	Mutagenesis	479	481	.	.	.	Note=Loss of cleavage by S2P. RSR->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9651382;Dbxref=PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	479	479	.	.	.	Note=No effect on cleavage by S2P. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9651382;Dbxref=PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	481	481	.	.	.	Note=No effect on cleavage by S2P. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9651382;Dbxref=PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	484	485	.	.	.	Note=No effect on cleavage by S2P. LC->FF;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9651382;Dbxref=PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	484	484	.	.	.	Note=No effect on cleavage by S2P. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9651382;Dbxref=PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	485	485	.	.	.	Note=No effect on cleavage by S2P. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9651382;Dbxref=PMID:9651382	
+Q12772	UniProtKB	Mutagenesis	490	491	.	.	.	Note=Restores cleavage by S2P%3B when associated with F-495 and L-496. No effect on site of cleavage by S2P. LC->NP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805775;Dbxref=PMID:10805775	
+Q12772	UniProtKB	Mutagenesis	495	496	.	.	.	Note=Loss of cleavage by S2P. NP->FL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805775;Dbxref=PMID:10805775	
+Q12772	UniProtKB	Mutagenesis	495	495	.	.	.	Note=Reduced cleavage by S2P. N->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805775;Dbxref=PMID:10805775	
+Q12772	UniProtKB	Mutagenesis	496	496	.	.	.	Note=Reduced cleavage by S2P. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10805775;Dbxref=PMID:10805775	
+Q12772	UniProtKB	Mutagenesis	519	519	.	.	.	Note=Loss of proteolytic processing in response to low sterol. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+Q12772	UniProtKB	Mutagenesis	519	519	.	.	.	Note=No effect on proteolytic processing in response to low sterol. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+Q12772	UniProtKB	Sequence conflict	961	961	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12772	UniProtKB	Sequence conflict	1045	1045	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12772	UniProtKB	Helix	346	357	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1UKL	
+Q12772	UniProtKB	Turn	366	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1UKL	
+Q12772	UniProtKB	Helix	369	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1UKL	

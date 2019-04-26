@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region P53597 1 346
+P53597	UniProtKB	Transit peptide	1	40	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P53597	UniProtKB	Chain	41	346	.	.	.	ID=PRO_0000033340;Note=Succinate--CoA ligase [ADP/GDP-forming] subunit alpha%2C mitochondrial	
+P53597	UniProtKB	Region	64	67	.	.	.	Note=Coenzyme A binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03222	
+P53597	UniProtKB	Region	143	145	.	.	.	Note=Coenzyme A binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03222	
+P53597	UniProtKB	Active site	299	299	.	.	.	Note=Tele-phosphohistidine intermediate;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03222	
+P53597	UniProtKB	Binding site	90	90	.	.	.	Note=Coenzyme A;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03222	
+P53597	UniProtKB	Binding site	207	207	.	.	.	Note=Substrate%3B shared with subunit beta;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03222	
+P53597	UniProtKB	Modified residue	54	54	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P53597	UniProtKB	Modified residue	57	57	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Modified residue	57	57	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Modified residue	66	66	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Modified residue	66	66	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Modified residue	81	81	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Modified residue	105	105	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Modified residue	338	338	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUM5	
+P53597	UniProtKB	Natural variant	14	14	.	.	.	ID=VAR_065120;Note=In MTDPS9%3B with progressive liver disease and recurrent hepatic failure. M->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20453710;Dbxref=dbSNP:rs796052053,PMID:20453710	
+P53597	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_076432;Note=G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26566883;Dbxref=dbSNP:rs369610897,PMID:26566883	
+P53597	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_065157;Note=In MTDPS9. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19526370;Dbxref=dbSNP:rs267607097,PMID:19526370	
+P53597	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_065121;Note=In MTDPS9. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20693550;Dbxref=dbSNP:rs267607099,PMID:20693550	
+P53597	UniProtKB	Sequence conflict	19	19	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P53597	UniProtKB	Sequence conflict	34	34	.	.	.	Note=P->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P53597	UniProtKB	Sequence conflict	39	39	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P53597	UniProtKB	Sequence conflict	87	87	.	.	.	Note=T->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P53597	UniProtKB	Helix	43	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	57	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	66	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	81	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	98	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	104	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	115	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	122	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	138	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	149	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	174	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Turn	178	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	181	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	188	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	193	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	204	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	220	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	236	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	251	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	262	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Beta strand	282	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	311	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Helix	332	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	
+P53597	UniProtKB	Turn	342	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G4Q	

@@ -1,0 +1,73 @@
+##gff-version 3
+##sequence-region Q8IYB8 1 786
+Q8IYB8	UniProtKB	Transit peptide	1	22	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IYB8	UniProtKB	Chain	23	786	.	.	.	ID=PRO_0000310545;Note=ATP-dependent RNA helicase SUPV3L1%2C mitochondrial	
+Q8IYB8	UniProtKB	Domain	194	334	.	.	.	Note=Helicase ATP-binding	
+Q8IYB8	UniProtKB	Domain	353	518	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+Q8IYB8	UniProtKB	Nucleotide binding	207	214	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00499	
+Q8IYB8	UniProtKB	Region	650	786	.	.	.	Note=Interaction with LAMTOR5%2C important for protein stability;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16176273;Dbxref=PMID:16176273	
+Q8IYB8	UniProtKB	Modified residue	99	99	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q8IYB8	UniProtKB	Modified residue	220	220	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q8IYB8	UniProtKB	Modified residue	725	725	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q8IYB8	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_061214;Note=S->F;Dbxref=dbSNP:rs33998366	
+Q8IYB8	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_037076;Note=P->T;Dbxref=dbSNP:rs34596380	
+Q8IYB8	UniProtKB	Mutagenesis	207	207	.	.	.	Note=Abolishes ATPase and dsDNA and dsRNA helicase activities. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12466530;Dbxref=PMID:12466530	
+Q8IYB8	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Abolishes ATPase activity. Abolishes helicase activity and reduces double-stranded RNA degradation. Does not abolish formation of the mitochondrial RNA-degrading complex. K->A%2CR;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15096047,ECO:0000269|PubMed:19509288;Dbxref=PMID:15096047,PMID:19509288	
+Q8IYB8	UniProtKB	Mutagenesis	576	581	.	.	.	Note=Does not abolish ATPase activity. Shows a loss of double-stranded RNA-binding%2C helicase and degrading activities. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19509288;Dbxref=PMID:19509288	
+Q8IYB8	UniProtKB	Sequence conflict	234	235	.	.	.	Note=KL->TS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IYB8	UniProtKB	Sequence conflict	254	254	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IYB8	UniProtKB	Helix	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	90	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	104	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	117	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	139	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	155	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	159	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	171	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	176	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	188	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	193	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	201	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	208	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC8	
+Q8IYB8	UniProtKB	Helix	213	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	224	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	234	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	251	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	263	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC8	
+Q8IYB8	UniProtKB	Beta strand	270	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	276	278	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	281	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	285	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	293	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Turn	299	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	302	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	314	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	323	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	326	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	340	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	351	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	361	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	368	371	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	375	387	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	393	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	401	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	420	423	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	425	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	435	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	461	468	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Turn	475	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC8	
+Q8IYB8	UniProtKB	Beta strand	479	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	490	499	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	508	510	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	514	523	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	529	539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Beta strand	546	548	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	552	560	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Turn	561	563	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	568	576	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	584	598	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	605	611	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	622	642	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Turn	646	648	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	652	671	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	
+Q8IYB8	UniProtKB	Helix	673	682	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3RC3	

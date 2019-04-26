@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region Q9UIB8 1 345
+Q9UIB8	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10698700;Dbxref=PMID:10698700	
+Q9UIB8	UniProtKB	Chain	22	345	.	.	.	ID=PRO_0000252029;Note=SLAM family member 5	
+Q9UIB8	UniProtKB	Topological domain	22	225	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UIB8	UniProtKB	Transmembrane	226	246	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UIB8	UniProtKB	Topological domain	247	345	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UIB8	UniProtKB	Domain	26	129	.	.	.	Note=Ig-like V-type	
+Q9UIB8	UniProtKB	Domain	135	207	.	.	.	Note=Ig-like C2-type	
+Q9UIB8	UniProtKB	Motif	277	282	.	.	.	Note=ITSM 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q13291	
+Q9UIB8	UniProtKB	Motif	314	319	.	.	.	Note=ITSM 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q13291	
+Q9UIB8	UniProtKB	Modified residue	279	279	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12458214;Dbxref=PMID:12458214	
+Q9UIB8	UniProtKB	Modified residue	296	296	.	.	.	Note=Phosphotyrosine%3B by LYN;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16037392,ECO:0000269|PubMed:22068234;Dbxref=PMID:16037392,PMID:22068234	
+Q9UIB8	UniProtKB	Modified residue	316	316	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:16037392,ECO:0000305|PubMed:12458214;Dbxref=PMID:16037392,PMID:12458214	
+Q9UIB8	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphotyrosine%3B by FES;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22068234;Dbxref=PMID:22068234	
+Q9UIB8	UniProtKB	Glycosylation	150	150	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UIB8	UniProtKB	Disulfide bond	155	193	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q9UIB8	UniProtKB	Alternative sequence	16	130	.	.	.	ID=VSP_020848;Note=In isoform 7. WPEAAGKDSEIFTVNGILGESVTFPVNIQEPRQVKIIAWTSKTSVAYVTPGDSETAPVVTVTHRNYYERIHALGPNYNLVISDLRMEDAGDYKADINTQADPYTTTKRYNLQIYR->C;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005;Dbxref=PMID:14702039,PMID:17974005	
+Q9UIB8	UniProtKB	Alternative sequence	214	241	.	.	.	ID=VSP_020849;Note=In isoform 6. DIAMGFRTHHTGLLSVLAMFFLLVLILS->GNQLCPSLLVSLRDHSEELQGLNVGHIL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Alternative sequence	242	345	.	.	.	ID=VSP_020850;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Alternative sequence	254	271	.	.	.	ID=VSP_020851;Note=In isoform 3 and isoform 7. GRIFPEGSCLNTFTKNPY->D;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10698700,ECO:0000303|PubMed:10746783,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|PubMed:9310491,ECO:0000303|Ref.4;Dbxref=PMID:10698700,PMID:10746783,PMID:14702039,PMID:15489334,PMID:17974005,PMID:9310491	
+Q9UIB8	UniProtKB	Alternative sequence	254	259	.	.	.	ID=VSP_020852;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Alternative sequence	255	272	.	.	.	ID=VSP_020853;Note=In isoform 5. RIFPEGSCLNTFTKNPYA->ASLQGRASEHSLFRSAVC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Alternative sequence	261	280	.	.	.	ID=VSP_020854;Note=In isoform 4. SCLNTFTKNPYAASKKTIYT->KMWKLTFSPPGTEAIYPRFS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Alternative sequence	273	345	.	.	.	ID=VSP_020855;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Alternative sequence	281	345	.	.	.	ID=VSP_020856;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10746783;Dbxref=PMID:10746783	
+Q9UIB8	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Loss of dimerization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	62	62	.	.	.	Note=No effect. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	62	62	.	.	.	Note=Loss of dimerization. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Loss of dimerization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Loss of dimerization. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Loss of dimerization. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Loss of dimerization. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	119	119	.	.	.	Note=Loss of dimerization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17563375;Dbxref=PMID:17563375	
+Q9UIB8	UniProtKB	Mutagenesis	279	279	.	.	.	Note=Reduced tyrosine phosphorylation%2C reduced binding of SH2D1B and loss of binding of SH2D1A. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12928397;Dbxref=PMID:12928397	
+Q9UIB8	UniProtKB	Mutagenesis	316	316	.	.	.	Note=Reduced tyrosine phosphorylation and reduced binding of SH2D1B. Loss of phosphorylation and loss of binding of SH2D1A and SH2D1B%3B when associated with F-279. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12928397;Dbxref=PMID:12928397	
+Q9UIB8	UniProtKB	Sequence conflict	311	311	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UIB8	UniProtKB	Beta strand	27	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	49	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	68	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	73	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Helix	79	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Turn	89	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Helix	101	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	105	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	
+Q9UIB8	UniProtKB	Beta strand	118	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PKD	

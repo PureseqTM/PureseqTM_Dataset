@@ -1,0 +1,66 @@
+##gff-version 3
+##sequence-region P34998 1 444
+P34998	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11425856;Dbxref=PMID:11425856	
+P34998	UniProtKB	Chain	24	444	.	.	.	ID=PRO_0000012814;Note=Corticotropin-releasing factor receptor 1	
+P34998	UniProtKB	Topological domain	24	111	.	.	.	Note=Extracellular	
+P34998	UniProtKB	Transmembrane	112	142	.	.	.	Note=Helical%3B Name%3D1	
+P34998	UniProtKB	Topological domain	143	178	.	.	.	Note=Cytoplasmic	
+P34998	UniProtKB	Transmembrane	179	203	.	.	.	Note=Helical%3B Name%3D2	
+P34998	UniProtKB	Topological domain	204	218	.	.	.	Note=Extracellular	
+P34998	UniProtKB	Transmembrane	219	247	.	.	.	Note=Helical%3B Name%3D3	
+P34998	UniProtKB	Topological domain	248	254	.	.	.	Note=Cytoplasmic	
+P34998	UniProtKB	Transmembrane	255	282	.	.	.	Note=Helical%3B Name%3D4	
+P34998	UniProtKB	Topological domain	283	298	.	.	.	Note=Extracellular	
+P34998	UniProtKB	Transmembrane	299	324	.	.	.	Note=Helical%3B Name%3D5	
+P34998	UniProtKB	Topological domain	325	335	.	.	.	Note=Cytoplasmic	
+P34998	UniProtKB	Transmembrane	336	360	.	.	.	Note=Helical%3B Name%3D6	
+P34998	UniProtKB	Topological domain	361	367	.	.	.	Note=Extracellular	
+P34998	UniProtKB	Transmembrane	368	397	.	.	.	Note=Helical%3B Name%3D7	
+P34998	UniProtKB	Topological domain	398	444	.	.	.	Note=Cytoplasmic	
+P34998	UniProtKB	Region	99	108	.	.	.	Note=Important for peptide agonist binding	
+P34998	UniProtKB	Region	309	319	.	.	.	Note=Important for antagonist binding	
+P34998	UniProtKB	Modified residue	330	330	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14657255;Dbxref=PMID:14657255	
+P34998	UniProtKB	Glycosylation	38	38	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34998	UniProtKB	Glycosylation	45	45	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34998	UniProtKB	Glycosylation	78	78	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34998	UniProtKB	Glycosylation	90	90	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34998	UniProtKB	Glycosylation	98	98	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P34998	UniProtKB	Disulfide bond	30	54	.	.	.	.	
+P34998	UniProtKB	Disulfide bond	44	87	.	.	.	.	
+P34998	UniProtKB	Disulfide bond	68	102	.	.	.	.	
+P34998	UniProtKB	Disulfide bond	217	287	.	.	.	.	
+P34998	UniProtKB	Alternative sequence	1	204	.	.	.	ID=VSP_045434;Note=In isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.6;Dbxref=PMID:14702039	
+P34998	UniProtKB	Alternative sequence	41	81	.	.	.	ID=VSP_001996;Note=In isoform CRF-R3. GLQCNASVDLIGTCWPRSPAGQLVVRPCPAFFYGVRYNTTN->D;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7811272;Dbxref=PMID:7811272	
+P34998	UniProtKB	Alternative sequence	146	174	.	.	.	ID=VSP_001997;Note=In isoform CRF-R2%2C isoform CRF-R3 and isoform CRF-R4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10598591,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:19054851,ECO:0000303|PubMed:7692441,ECO:0000303|PubMed:7811272,ECO:0000303|PubMed:8243652,ECO:0000303|Ref.7;Dbxref=PMID:10598591,PMID:15489334,PMID:19054851,PMID:7692441,PMID:7811272,PMID:8243652	
+P34998	UniProtKB	Alternative sequence	385	398	.	.	.	ID=VSP_001998;Note=In isoform CRF-R4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10598591;Dbxref=PMID:10598591	
+P34998	UniProtKB	Mutagenesis	232	232	.	.	.	Note=Nearly abolishes antagonist binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	235	235	.	.	.	Note=Strongly reduces antagonist binding. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Nearly abolishes antagonist binding. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	312	312	.	.	.	Note=Nearly abolishes antagonist binding. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Slightly reduces antagonist binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	316	316	.	.	.	Note=Strongly reduces antagonist binding. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	319	319	.	.	.	Note=Strongly reduces antagonist binding. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	356	356	.	.	.	Note=Strongly reduces antagonist binding. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Mutagenesis	384	384	.	.	.	Note=Increases antagonist binding. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23863939;Dbxref=PMID:23863939	
+P34998	UniProtKB	Turn	25	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHT	
+P34998	UniProtKB	Helix	28	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHU	
+P34998	UniProtKB	Beta strand	49	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L27	
+P34998	UniProtKB	Beta strand	62	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHU	
+P34998	UniProtKB	Beta strand	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHU	
+P34998	UniProtKB	Beta strand	81	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHU	
+P34998	UniProtKB	Turn	89	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L27	
+P34998	UniProtKB	Beta strand	93	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHS	
+P34998	UniProtKB	Helix	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L27	
+P34998	UniProtKB	Helix	103	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EHS	
+P34998	UniProtKB	Helix	116	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	175	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	179	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	207	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	215	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	253	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Turn	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	268	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	286	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	299	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	333	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	
+P34998	UniProtKB	Helix	368	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4K5Y	

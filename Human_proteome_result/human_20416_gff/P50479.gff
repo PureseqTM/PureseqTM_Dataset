@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region P50479 1 330
+P50479	UniProtKB	Chain	1	330	.	.	.	ID=PRO_0000075873;Note=PDZ and LIM domain protein 4	
+P50479	UniProtKB	Domain	1	84	.	.	.	Note=PDZ;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:4Q2O,ECO:0000255|PROSITE-ProRule:PRU00143,ECO:0000269|PubMed:25158098;Dbxref=PMID:25158098	
+P50479	UniProtKB	Domain	253	312	.	.	.	Note=LIM zinc-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00125	
+P50479	UniProtKB	Modified residue	112	112	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:21406692,PMID:23186163,PMID:24275569	
+P50479	UniProtKB	Modified residue	116	116	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70271	
+P50479	UniProtKB	Modified residue	120	120	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70271	
+P50479	UniProtKB	Modified residue	135	135	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P36202	
+P50479	UniProtKB	Alternative sequence	225	330	.	.	.	ID=VSP_003124;Note=In isoform 2. DWPGPGGPRNLKPTASKLGAPLSGLQGLPECTRCGHGIVGTIVKARDKLYHPECFMCSDCGLNLKQRGYFFLDERLYCESHAKARVKPPEGYDVVAVYPNAKVELV->APSSRHGTSSTIPSASCAVTAA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.5;Dbxref=PMID:15489334	
+P50479	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_035205;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17851430,PMID:15489334	
+P50479	UniProtKB	Natural variant	142	142	.	.	.	ID=VAR_050167;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.1;Dbxref=dbSNP:rs1050805	
+P50479	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_035206;Note=V->I;Dbxref=dbSNP:rs175218	
+P50479	UniProtKB	Natural variant	259	259	.	.	.	ID=VAR_035207;Note=G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.1;Dbxref=dbSNP:rs4877	
+P50479	UniProtKB	Sequence conflict	20	20	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50479	UniProtKB	Sequence conflict	39	39	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50479	UniProtKB	Sequence conflict	139	139	.	.	.	Note=Q->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50479	UniProtKB	Sequence conflict	174	182	.	.	.	Note=RGLPRSRDC->EASRGAGS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50479	UniProtKB	Sequence conflict	269	269	.	.	.	Note=A->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P50479	UniProtKB	Beta strand	3	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Beta strand	15	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Helix	21	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Beta strand	25	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Beta strand	34	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2EEG	
+P50479	UniProtKB	Helix	37	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Beta strand	48	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Turn	57	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2EEG	
+P50479	UniProtKB	Helix	62	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	
+P50479	UniProtKB	Beta strand	74	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2V1W	

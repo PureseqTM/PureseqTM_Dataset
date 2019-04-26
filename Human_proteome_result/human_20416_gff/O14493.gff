@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region O14493 1 209
+O14493	UniProtKB	Chain	1	209	.	.	.	ID=PRO_0000144743;Note=Claudin-4	
+O14493	UniProtKB	Topological domain	1	7	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Transmembrane	8	28	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Topological domain	29	81	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Transmembrane	82	102	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Topological domain	103	117	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Transmembrane	118	138	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Topological domain	139	160	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Transmembrane	161	181	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Topological domain	182	209	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14493	UniProtKB	Region	1	103	.	.	.	Note=Interaction with EPHA2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16236711;Dbxref=PMID:16236711	
+O14493	UniProtKB	Region	208	209	.	.	.	Note=Interactions with TJP1%2C TJP2 and TJP3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35054	
+O14493	UniProtKB	Modified residue	208	208	.	.	.	Note=Phosphotyrosine%3B by EPHA2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16236711;Dbxref=PMID:16236711	
+O14493	UniProtKB	Disulfide bond	54	64	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5B2G,ECO:0000269|PubMed:27647526;Dbxref=PMID:27647526	
+O14493	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Decreases interaction with Clostridium perfringens CPE. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27647526;Dbxref=PMID:27647526	
+O14493	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Abolishes interaction with Clostridium perfringens CPE. F->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27647526;Dbxref=PMID:27647526	
+O14493	UniProtKB	Mutagenesis	40	40	.	.	.	Note=No effect on interaction with Clostridium perfringens CPE. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27647526;Dbxref=PMID:27647526	
+O14493	UniProtKB	Mutagenesis	40	40	.	.	.	Note=Strongly decreases interaction with Clostridium perfringens CPE. I->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27647526;Dbxref=PMID:27647526	
+O14493	UniProtKB	Mutagenesis	53	53	.	.	.	Note=Decreases interaction with Clostridium perfringens CPE. N->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27647526;Dbxref=PMID:27647526	
+O14493	UniProtKB	Mutagenesis	208	208	.	.	.	Note=Loss of phosphorylation by EPHA2. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16236711;Dbxref=PMID:16236711	
+O14493	UniProtKB	Beta strand	1	3	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Helix	7	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Beta strand	30	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Beta strand	44	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Beta strand	50	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Beta strand	63	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Helix	75	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Turn	102	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Helix	117	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Beta strand	154	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	
+O14493	UniProtKB	Helix	163	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B2G	

@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q8NFG4 1 579
+Q8NFG4	UniProtKB	Chain	1	579	.	.	.	ID=PRO_0000223940;Note=Folliculin	
+Q8NFG4	UniProtKB	Domain	86	242	.	.	.	Note=uDENN FLCN/SMCR8-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01178	
+Q8NFG4	UniProtKB	Domain	339	491	.	.	.	Note=cDENN FLCN/SMCR8-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01178	
+Q8NFG4	UniProtKB	Domain	493	558	.	.	.	Note=dDENN FLCN/SMCR8-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01178	
+Q8NFG4	UniProtKB	Coiled coil	287	310	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NFG4	UniProtKB	Modified residue	62	62	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:21406692,PMID:23186163	
+Q8NFG4	UniProtKB	Modified residue	73	73	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8NFG4	UniProtKB	Modified residue	302	302	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8NFG4	UniProtKB	Modified residue	571	571	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8NFG4	UniProtKB	Alternative sequence	134	197	.	.	.	ID=VSP_017312;Note=In isoform 3. CPGREGPIFFGDEQHGFVFSHTFFIKDSLARGFQRWYSIITIMMDRIYLINSWPFLLGKVRGII->SLVATEPVSVGAHMLPGALGGLGASIAQGGRHWSSLRADPQISTAQGTGRLPCPELREESCWTC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NFG4	UniProtKB	Alternative sequence	198	579	.	.	.	ID=VSP_017313;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NFG4	UniProtKB	Alternative sequence	291	342	.	.	.	ID=VSP_017314;Note=In isoform 2. DLEEESESWDNSEAEEEEKAPVLPESTEGRELTQGPAESSSLSGCGSWQPRK->GEAGVLLPGPWPGWPWGGTSCLLSWQESLREGNAALNQPRTSLREAHPPISV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8NFG4	UniProtKB	Alternative sequence	343	579	.	.	.	ID=VSP_017315;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8NFG4	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_025356;Note=In a sporadic colorectal carcinoma%3B somatic mutation. S->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12843323;Dbxref=dbSNP:rs137852930,PMID:12843323	
+Q8NFG4	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_066023;Note=In BHD. S->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19785621;Dbxref=PMID:19785621	
+Q8NFG4	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_066024;Note=In PSP. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18579543;Dbxref=PMID:18579543	
+Q8NFG4	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_066025;Note=In PSP%3B impaired protein stability. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18505456,ECO:0000269|PubMed:21538689;Dbxref=PMID:18505456,PMID:21538689	
+Q8NFG4	UniProtKB	Natural variant	238	238	.	.	.	ID=VAR_025357;Note=In a renal cell carcinoma cell line. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14627671;Dbxref=PMID:14627671	
+Q8NFG4	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_066026;Note=In RCC%3B impaired protein stability. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18794106,ECO:0000269|PubMed:21538689;Dbxref=dbSNP:rs78683075,PMID:18794106,PMID:21538689	
+Q8NFG4	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_025358;Note=In a primary colorectal cancer. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14627671;Dbxref=dbSNP:rs143483053,PMID:14627671	
+Q8NFG4	UniProtKB	Natural variant	362	362	.	.	.	ID=VAR_066027;Note=Found in a colorectal cell line%3B impaired protein stability. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21538689;Dbxref=dbSNP:rs557336321,PMID:21538689	
+Q8NFG4	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_025359;Note=In a primary colorectal cancer%3B somatic mutation. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14627671;Dbxref=dbSNP:rs1060502374,PMID:14627671	
+Q8NFG4	UniProtKB	Natural variant	429	429	.	.	.	ID=VAR_066028;Note=In PSP. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18505456;Dbxref=dbSNP:rs375082054,PMID:18505456	
+Q8NFG4	UniProtKB	Natural variant	444	444	.	.	.	ID=VAR_025360;Note=In a primary clear-cell renal cell carcinoma%3B somatic mutation. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14627671;Dbxref=PMID:14627671	
+Q8NFG4	UniProtKB	Natural variant	445	445	.	.	.	ID=VAR_025361;Note=In a sporadic colorectal carcinoma%3B somatic mutation. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12843323;Dbxref=dbSNP:rs41419545,PMID:12843323	
+Q8NFG4	UniProtKB	Natural variant	508	508	.	.	.	ID=VAR_066029;Note=In BHD%3B does not impair protein stability%2C growth suppression activity or intracellular localization of folliculin. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18234728,ECO:0000269|PubMed:21538689;Dbxref=dbSNP:rs199643834,PMID:18234728,PMID:21538689	
+Q8NFG4	UniProtKB	Helix	349	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	358	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Beta strand	373	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	381	391	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	392	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	397	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Beta strand	402	408	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Turn	412	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Beta strand	416	420	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	428	431	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Beta strand	436	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Beta strand	463	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Turn	473	476	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	481	491	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	497	521	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	530	538	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	544	553	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	
+Q8NFG4	UniProtKB	Helix	554	556	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3V42	

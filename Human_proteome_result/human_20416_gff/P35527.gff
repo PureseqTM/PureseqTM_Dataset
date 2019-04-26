@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region P35527 1 623
+P35527	UniProtKB	Chain	1	623	.	.	.	ID=PRO_0000063640;Note=Keratin%2C type I cytoskeletal 9	
+P35527	UniProtKB	Domain	153	465	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+P35527	UniProtKB	Region	1	152	.	.	.	Note=Head	
+P35527	UniProtKB	Region	153	188	.	.	.	Note=Coil 1A	
+P35527	UniProtKB	Region	189	207	.	.	.	Note=Linker 1	
+P35527	UniProtKB	Region	208	299	.	.	.	Note=Coil 1B	
+P35527	UniProtKB	Region	300	322	.	.	.	Note=Linker 12	
+P35527	UniProtKB	Region	323	461	.	.	.	Note=Coil 2	
+P35527	UniProtKB	Region	462	623	.	.	.	Note=Tail	
+P35527	UniProtKB	Compositional bias	15	26	.	.	.	Note=Poly-Gly	
+P35527	UniProtKB	Modified residue	14	14	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P13645	
+P35527	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P13645	
+P35527	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_071977;Note=In EPPK. M->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19874353;Dbxref=dbSNP:rs59510579,PMID:19874353	
+P35527	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_036805;Note=In EPPK. M->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16961539;Dbxref=dbSNP:rs59510579,PMID:16961539	
+P35527	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_010499;Note=In EPPK. M->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19874353,ECO:0000269|PubMed:9856842;Dbxref=dbSNP:rs59510579,PMID:19874353,PMID:9856842	
+P35527	UniProtKB	Natural variant	157	157	.	.	.	ID=VAR_010500;Note=In EPPK. M->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12072061,ECO:0000269|PubMed:7516304,ECO:0000269|PubMed:9856842;Dbxref=dbSNP:rs58597584,PMID:12072061,PMID:7516304,PMID:9856842	
+P35527	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_035438;Note=In EPPK%3B with knuckle pads. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12838553;Dbxref=dbSNP:rs28940896,PMID:12838553	
+P35527	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_010501;Note=In EPPK. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9204965;Dbxref=dbSNP:rs28940896,PMID:9204965	
+P35527	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_036806;Note=In EPPK. N->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14675368,ECO:0000269|PubMed:15115518;Dbxref=dbSNP:rs59296273,PMID:14675368,PMID:15115518	
+P35527	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_036807;Note=In EPPK. N->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12192490,ECO:0000269|PubMed:12926810;Dbxref=dbSNP:rs56707768,PMID:12192490,PMID:12926810	
+P35527	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_003822;Note=In EPPK. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7512862;Dbxref=dbSNP:rs57536312,PMID:7512862	
+P35527	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_010502;Note=In EPPK. N->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14675368,ECO:0000269|PubMed:7523529;Dbxref=dbSNP:rs56707768,PMID:14675368,PMID:7523529	
+P35527	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_010503;Note=In EPPK. N->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7511021;Dbxref=dbSNP:rs59296273,PMID:7511021	
+P35527	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_036808;Note=In EPPK. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15605275;Dbxref=dbSNP:rs57758262,PMID:15605275	
+P35527	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_003823;Note=In EPPK. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10632938,ECO:0000269|PubMed:12072061,ECO:0000269|PubMed:19874353,ECO:0000269|PubMed:7512862,ECO:0000269|PubMed:8647270,ECO:0000269|PubMed:9856842;Dbxref=dbSNP:rs57758262,PMID:10632938,PMID:12072061,PMID:19874353,PMID:7512862,PMID:8647270,PMID:9856842	
+P35527	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_003824;Note=In EPPK. R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10844507,ECO:0000269|PubMed:12072061,ECO:0000269|PubMed:14675368,ECO:0000269|PubMed:7512862,ECO:0000269|PubMed:7532199;Dbxref=dbSNP:rs59616921,PMID:10844507,PMID:12072061,PMID:14675368,PMID:7512862,PMID:7532199	
+P35527	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_036809;Note=In EPPK. Y->WL	
+P35527	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_003825;Note=In EPPK. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7532199;Dbxref=dbSNP:rs61157095,PMID:7532199	
+P35527	UniProtKB	Natural variant	171	171	.	.	.	ID=VAR_035439;Note=In EPPK. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12072061;Dbxref=dbSNP:rs57019720,PMID:12072061	
+P35527	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_010504;Note=In EPPK. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7516304;Dbxref=dbSNP:rs59878153,PMID:7516304	
+P35527	UniProtKB	Natural variant	406	406	.	.	.	ID=VAR_071978;Note=In EPPK. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20964665;Dbxref=dbSNP:rs77688767,PMID:20964665	
+P35527	UniProtKB	Natural variant	454	454	.	.	.	ID=VAR_071979;Note=In EPPK. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19874353;Dbxref=dbSNP:rs267607420,PMID:19874353	
+P35527	UniProtKB	Natural variant	458	458	.	.	.	ID=VAR_036810;Note=In EPPK. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16911293;Dbxref=dbSNP:rs58120120,PMID:16911293	
+P35527	UniProtKB	Natural variant	458	458	.	.	.	ID=VAR_071980;Note=In EPPK. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21715251;Dbxref=PMID:21715251	
+P35527	UniProtKB	Mutagenesis	163	163	.	.	.	Note=Leads to aggregate formation. R->QHA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10218578;Dbxref=PMID:10218578	
+P35527	UniProtKB	Sequence conflict	12	13	.	.	.	Note=SR->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	12	13	.	.	.	Note=SR->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	41	41	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	41	41	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	41	41	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	134	134	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	134	134	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	134	134	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35527	UniProtKB	Sequence conflict	157	170	.	.	.	Note=MQELNSRLASYLDK->HLGAGSTPITASQP;Ontology_term=ECO:0000305;evidence=ECO:0000305	

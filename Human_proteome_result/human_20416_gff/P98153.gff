@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region P98153 1 550
+P98153	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98153	UniProtKB	Chain	21	550	.	.	.	ID=PRO_0000021484;Note=Integral membrane protein DGCR2/IDD	
+P98153	UniProtKB	Topological domain	21	349	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98153	UniProtKB	Transmembrane	350	368	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98153	UniProtKB	Topological domain	369	550	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98153	UniProtKB	Domain	28	68	.	.	.	Note=LDL-receptor class A;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00124	
+P98153	UniProtKB	Domain	115	241	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P98153	UniProtKB	Domain	270	333	.	.	.	Note=VWFC	
+P98153	UniProtKB	Modified residue	381	381	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P98153	UniProtKB	Glycosylation	149	149	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98153	UniProtKB	Glycosylation	196	196	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P98153	UniProtKB	Disulfide bond	30	44	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98153	UniProtKB	Disulfide bond	37	57	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98153	UniProtKB	Disulfide bond	51	66	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98153	UniProtKB	Disulfide bond	145	265	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98153	UniProtKB	Disulfide bond	233	257	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P98153	UniProtKB	Alternative sequence	26	66	.	.	.	ID=VSP_042886;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P98153	UniProtKB	Alternative sequence	315	327	.	.	.	ID=VSP_057188;Note=In isoform 3. QGCQQYRKDPKEC->HGCSPLSCTARAT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19906316;Dbxref=PMID:19906316	
+P98153	UniProtKB	Alternative sequence	328	550	.	.	.	ID=VSP_057189;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19906316;Dbxref=PMID:19906316	
+P98153	UniProtKB	Natural variant	473	473	.	.	.	ID=VAR_020046;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7655455;Dbxref=dbSNP:rs2072123,PMID:7655455	

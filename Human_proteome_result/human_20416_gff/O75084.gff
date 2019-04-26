@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region O75084 1 574
+O75084	UniProtKB	Signal peptide	1	32	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Chain	33	574	.	.	.	ID=PRO_0000012996;Note=Frizzled-7	
+O75084	UniProtKB	Topological domain	33	256	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	257	277	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	278	288	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	289	309	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	310	336	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	337	357	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	358	379	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	380	400	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	401	423	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	424	444	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	445	470	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	471	491	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	492	528	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Transmembrane	529	549	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Topological domain	550	574	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Domain	44	163	.	.	.	Note=FZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O75084	UniProtKB	Motif	552	557	.	.	.	Note=Lys-Thr-X-X-X-Trp motif%2C mediates interaction with the PDZ domain of Dvl family members;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O75084	UniProtKB	Motif	572	574	.	.	.	Note=PDZ-binding	
+O75084	UniProtKB	Site	569	569	.	.	.	Note=Essential for SDCBP-mediated plasma membrane phosphatidylinositol-4%2C5-bisphosphate recognition;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O75084	UniProtKB	Glycosylation	63	63	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Glycosylation	164	164	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75084	UniProtKB	Disulfide bond	49	110	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O75084	UniProtKB	Disulfide bond	57	103	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O75084	UniProtKB	Disulfide bond	94	131	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O75084	UniProtKB	Disulfide bond	120	160	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O75084	UniProtKB	Disulfide bond	124	148	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00090	
+O75084	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_049292;Note=G->D;Dbxref=dbSNP:rs35111363	
+O75084	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_033024;Note=G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17224074;Dbxref=dbSNP:rs755615030,PMID:17224074	
+O75084	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_033941;Note=G->E;Dbxref=dbSNP:rs34908164	
+O75084	UniProtKB	Natural variant	487	487	.	.	.	ID=VAR_033942;Note=A->V;Dbxref=dbSNP:rs35600847	
+O75084	UniProtKB	Mutagenesis	569	569	.	.	.	Note=Impaired SDCBP-mediated interaction with phosphatidylinositol-4%2C5-bisphosphate. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27386966;Dbxref=PMID:27386966	
+O75084	UniProtKB	Sequence conflict	8	8	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	15	15	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	201	201	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	308	308	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	408	408	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	415	415	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	433	433	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	447	447	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Sequence conflict	534	534	.	.	.	Note=Y->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75084	UniProtKB	Beta strand	49	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Beta strand	58	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Beta strand	64	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	76	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	84	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	87	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	98	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Beta strand	112	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	121	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Turn	137	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Helix	148	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Beta strand	156	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T44	
+O75084	UniProtKB	Beta strand	572	574	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z33	

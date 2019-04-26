@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region Q13515 1 415
+Q13515	UniProtKB	Chain	1	415	.	.	.	ID=PRO_0000063851;Note=Phakinin	
+Q13515	UniProtKB	Domain	104	415	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+Q13515	UniProtKB	Region	1	114	.	.	.	Note=Head	
+Q13515	UniProtKB	Region	396	415	.	.	.	Note=Tail	
+Q13515	UniProtKB	Coiled coil	115	144	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13515	UniProtKB	Coiled coil	199	253	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13515	UniProtKB	Coiled coil	309	400	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13515	UniProtKB	Natural variant	233	233	.	.	.	ID=VAR_012163;Note=In CTRCT12. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10739768,ECO:0000269|PubMed:15570218;Dbxref=PMID:10739768,PMID:15570218	
+Q13515	UniProtKB	Natural variant	287	287	.	.	.	ID=VAR_012164;Note=In CTRCT12. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10729115;Dbxref=dbSNP:rs104893685,PMID:10729115	

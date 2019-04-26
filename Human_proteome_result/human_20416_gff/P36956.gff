@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region P36956 1 1147
+P36956	UniProtKB	Chain	1	1147	.	.	.	ID=PRO_0000127447;Note=Sterol regulatory element-binding protein 1	
+P36956	UniProtKB	Chain	1	490	.	.	.	ID=PRO_0000314029;Note=Processed sterol regulatory element-binding protein 1	
+P36956	UniProtKB	Topological domain	1	487	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36956	UniProtKB	Transmembrane	488	508	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36956	UniProtKB	Topological domain	509	547	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36956	UniProtKB	Transmembrane	548	568	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36956	UniProtKB	Topological domain	569	1147	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P36956	UniProtKB	Domain	323	373	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+P36956	UniProtKB	Region	1	60	.	.	.	Note=Transcriptional activation (acidic)	
+P36956	UniProtKB	Region	234	497	.	.	.	Note=Interaction with LMNA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P36956	UniProtKB	Region	373	394	.	.	.	Note=Leucine-zipper	
+P36956	UniProtKB	Compositional bias	61	178	.	.	.	Note=Pro/Ser-rich	
+P36956	UniProtKB	Compositional bias	427	462	.	.	.	Note=Gly/Pro/Ser-rich	
+P36956	UniProtKB	Site	460	461	.	.	.	Note=Cleavage%3B by caspase-3 and caspase-7;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P36956	UniProtKB	Site	490	491	.	.	.	Note=Cleavage%3B by S2P;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P36956	UniProtKB	Site	530	531	.	.	.	Note=Cleavage%3B by S1P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P36956	UniProtKB	Modified residue	98	98	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P56720	
+P36956	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P36956	UniProtKB	Modified residue	337	337	.	.	.	Note=Phosphoserine%3B by SIK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTN3	
+P36956	UniProtKB	Modified residue	338	338	.	.	.	Note=Phosphoserine%3B by SIK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTN3	
+P36956	UniProtKB	Modified residue	396	396	.	.	.	Note=Phosphoserine%3B by AMPK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTN3	
+P36956	UniProtKB	Modified residue	402	402	.	.	.	Note=Phosphoserine%3B by SIK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTN3	
+P36956	UniProtKB	Modified residue	457	457	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WTN3	
+P36956	UniProtKB	Modified residue	1060	1060	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P36956	UniProtKB	Alternative sequence	1	29	.	.	.	ID=VSP_002149;Note=In isoform SREBP-1C and isoform SREBP-1cDelta. MDEPPFSEAALEQALGEPCDLDAALLTDI->MDCTF;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:18267114,ECO:0000303|PubMed:8402897;Dbxref=PMID:18267114,PMID:8402897	
+P36956	UniProtKB	Alternative sequence	30	30	.	.	.	ID=VSP_030859;Note=In isoform 4. E->EGEVGAGRGRANGLDAPRAGADRGAMDCTFE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P36956	UniProtKB	Alternative sequence	469	470	.	.	.	ID=VSP_047598;Note=In isoform SREBP-1aDelta and isoform SREBP-1cDelta. AK->TE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18267114;Dbxref=PMID:18267114	
+P36956	UniProtKB	Alternative sequence	471	1147	.	.	.	ID=VSP_047599;Note=In isoform SREBP-1aDelta and isoform SREBP-1cDelta. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18267114;Dbxref=PMID:18267114	
+P36956	UniProtKB	Alternative sequence	1035	1147	.	.	.	ID=VSP_002150;Note=In isoform SREBP-1B and isoform SREBP-1C. VFLHEATARLMAGASPTRTHQLLDRSLRRRAGPGGKGGAVAELEPRPTRREHAEALLLASCYLPPGFLSAPGQRVGMLAEAARTLEKLGDRRLLHDCQQMLMRLGGGTTVTSS->LMDVLTSESAWALPQHLGKGFPSPSGHKVPGWHGRMD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8402897;Dbxref=PMID:8402897	
+P36956	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_038468;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855793,PMID:15489334	
+P36956	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_038469;Note=A->T;Dbxref=dbSNP:rs35188700	
+P36956	UniProtKB	Natural variant	417	417	.	.	.	ID=VAR_038470;Note=V->M;Dbxref=dbSNP:rs2229590	
+P36956	UniProtKB	Natural variant	580	580	.	.	.	ID=VAR_038471;Note=V->M;Dbxref=dbSNP:rs36215896	
+P36956	UniProtKB	Natural variant	746	746	.	.	.	ID=VAR_038472;Note=R->H;Dbxref=dbSNP:rs2228461	
+P36956	UniProtKB	Natural variant	834	834	.	.	.	ID=VAR_038473;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855792,PMID:15489334	
+P36956	UniProtKB	Natural variant	1000	1000	.	.	.	ID=VAR_038474;Note=T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7759101,ECO:0000269|PubMed:8402897;Dbxref=dbSNP:rs1042017,PMID:7759101,PMID:8402897	
+P36956	UniProtKB	Natural variant	1008	1008	.	.	.	ID=VAR_038475;Note=A->P;Dbxref=dbSNP:rs35014224	
+P36956	UniProtKB	Mutagenesis	455	455	.	.	.	Note=No effect on proteolytic processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	456	456	.	.	.	Note=No effect on proteolytic processing. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	457	457	.	.	.	Note=No effect on proteolytic processing. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	460	460	.	.	.	Note=No effect on proteolytic processing. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	466	466	.	.	.	Note=No effect on proteolytic processing. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	481	481	.	.	.	Note=No effect on proteolytic processing. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	482	482	.	.	.	Note=No effect on proteolytic processing. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	483	483	.	.	.	Note=No effect on proteolytic processing. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	484	487	.	.	.	Note=Strong reduction of proteolytic processing in response to low sterol. DRSR->AS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	484	484	.	.	.	Note=Loss of proteolytic processing in response to low sterol. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	485	485	.	.	.	Note=No effect on proteolytic processing. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Mutagenesis	527	527	.	.	.	Note=Loss of proteolytic processing in response to low sterol. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8626610;Dbxref=PMID:8626610	
+P36956	UniProtKB	Helix	321	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AM9	
+P36956	UniProtKB	Helix	359	396	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1AM9	

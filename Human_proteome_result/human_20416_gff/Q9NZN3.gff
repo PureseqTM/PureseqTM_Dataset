@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q9NZN3 1 535
+Q9NZN3	UniProtKB	Chain	1	535	.	.	.	ID=PRO_0000146112;Note=EH domain-containing protein 3	
+Q9NZN3	UniProtKB	Domain	55	286	.	.	.	Note=Dynamin-type G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+Q9NZN3	UniProtKB	Domain	444	532	.	.	.	Note=EH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00077	
+Q9NZN3	UniProtKB	Domain	476	511	.	.	.	Note=EF-hand;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9NZN3	UniProtKB	Nucleotide binding	65	72	.	.	.	Note=ATP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16251358;Dbxref=PMID:16251358	
+Q9NZN3	UniProtKB	Calcium binding	489	500	.	.	.	Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q8BH64,ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9NZN3	UniProtKB	Region	65	72	.	.	.	Note=G1 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+Q9NZN3	UniProtKB	Region	91	92	.	.	.	Note=G2 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+Q9NZN3	UniProtKB	Region	153	156	.	.	.	Note=G3 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+Q9NZN3	UniProtKB	Region	219	222	.	.	.	Note=G4 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+Q9NZN3	UniProtKB	Region	243	243	.	.	.	Note=G5 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01055	
+Q9NZN3	UniProtKB	Coiled coil	198	227	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NZN3	UniProtKB	Binding site	220	220	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BH64	
+Q9NZN3	UniProtKB	Binding site	258	258	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BH64	
+Q9NZN3	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12665801;Dbxref=PMID:12665801	
+Q9NZN3	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8R491	
+Q9NZN3	UniProtKB	Modified residue	456	456	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QXY6	
+Q9NZN3	UniProtKB	Cross-link	315	315	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26226295;Dbxref=PMID:26226295	
+Q9NZN3	UniProtKB	Cross-link	511	511	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26226295;Dbxref=PMID:26226295	
+Q9NZN3	UniProtKB	Alternative sequence	169	175	.	.	.	ID=VSP_056606;Note=In isoform 2. YDFAAVL->PAAGPGL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NZN3	UniProtKB	Alternative sequence	176	535	.	.	.	ID=VSP_056607;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NZN3	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Abolishes ATP-binding and localizes to cytoplasm. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16251358;Dbxref=PMID:16251358	
+Q9NZN3	UniProtKB	Mutagenesis	203	203	.	.	.	Note=Greatly reduces oligomerization and interaction with RAB11FIP2. V->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16251358;Dbxref=PMID:16251358	
+Q9NZN3	UniProtKB	Mutagenesis	315	315	.	.	.	Note=Abolishes sumoylation and localization to tubular structures of the ERC%2C impairs fast recycling activity from the ERC%2C no effect on homooligomerization%3B when associated with R-511. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26226295;Dbxref=PMID:26226295	
+Q9NZN3	UniProtKB	Mutagenesis	485	485	.	.	.	Note=Abolishes interaction with RAB11FIP2. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16251358;Dbxref=PMID:16251358	
+Q9NZN3	UniProtKB	Mutagenesis	511	511	.	.	.	Note=Abolishes sumoylation localization to tubular structures of the ERC%2C impairs fast recycling activity from the ERC%2C no effect on homooligomerization%3B%3B when associated with R-315. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26226295;Dbxref=PMID:26226295	

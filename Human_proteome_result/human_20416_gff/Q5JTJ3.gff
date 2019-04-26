@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region Q5JTJ3 1 125
+Q5JTJ3	UniProtKB	Chain	1	125	.	.	.	ID=PRO_0000280399;Note=Cytochrome c oxidase assembly factor 6 homolog	
+Q5JTJ3	UniProtKB	Domain	55	98	.	.	.	Note=CHCH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q5JTJ3	UniProtKB	Motif	58	68	.	.	.	Note=Cx9C motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q5JTJ3	UniProtKB	Motif	79	90	.	.	.	Note=Cx10C motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q5JTJ3	UniProtKB	Disulfide bond	58	90	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q5JTJ3	UniProtKB	Disulfide bond	68	79	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01150	
+Q5JTJ3	UniProtKB	Alternative sequence	1	46	.	.	.	ID=VSP_023655;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5JTJ3	UniProtKB	Alternative sequence	1	40	.	.	.	ID=VSP_023656;Note=In isoform 2. MGPGGPLLSPSRGFLLCKTGWHSNRLLGDCGPHTPVSTAL->MVARKGQKSPRFRRVSCFLRLGRSTLLELEPAGRPCSGRTRHRALHRRLVACVTVSSRRHRKEAGRGRAE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5JTJ3	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_075046;Note=In CEMCOX4%3B mistargeted to the mitochondrial matrix%3B loss of interaction with SCO2 and MT-CO2. W->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24549041,ECO:0000269|PubMed:25959673;Dbxref=PMID:24549041,PMID:25959673	
+Q5JTJ3	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_075047;Note=In CEMCOX4. W->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25339201;Dbxref=dbSNP:rs875989827,PMID:25339201	

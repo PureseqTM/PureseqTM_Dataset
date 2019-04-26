@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q11203 1 375
+Q11203	UniProtKB	Chain	1	375	.	.	.	ID=PRO_0000149266;Note=CMP-N-acetylneuraminate-beta-1%2C4-galactoside alpha-2%2C3-sialyltransferase	
+Q11203	UniProtKB	Topological domain	1	8	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q11203	UniProtKB	Transmembrane	9	28	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q11203	UniProtKB	Topological domain	29	375	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q11203	UniProtKB	Glycosylation	80	80	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q11203	UniProtKB	Glycosylation	171	171	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q11203	UniProtKB	Disulfide bond	160	314	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q11203	UniProtKB	Alternative sequence	40	73	.	.	.	ID=VSP_010595;Note=In isoform E3+32. NSVVLSFDSAGQTLGSEYDRLGFLLNLDSKLPAE->SSPSQHPCSWMTPFASGLESGSSCRLLGSKVKTI;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	40	56	.	.	.	ID=VSP_010594;Note=In isoform C1%2C isoform C4%2C isoform C5%2C isoform C7%2C isoform C8%2C isoform C9%2C isoform C11 and isoform C12. NSVVLSFDSAGQTLGSE->K;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.2,ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	40	55	.	.	.	ID=VSP_010593;Note=In isoform D5 and isoform D2+26. NSVVLSFDSAGQTLGS->SKYSHSSSPQEKPVA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.2,ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	40	43	.	.	.	ID=VSP_010592;Note=In isoform E1. NSVV->SLLN;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	40	40	.	.	.	ID=VSP_010591;Note=In isoform A1%2C isoform A7 and isoform A8. N->SKYSHSSSPQEKPVAD;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	44	375	.	.	.	ID=VSP_010596;Note=In isoform E1. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	70	70	.	.	.	ID=VSP_010597;Note=In isoform A8%2C isoform B8 and isoform C8. L->LSPRTLCTVVFGLDCILESPGEPKKLLMPASHPLEILKSLSEDTAFALGFLKLPR;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	71	101	.	.	.	ID=VSP_010598;Note=In isoform B3 and isoform C11. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.2,ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	74	375	.	.	.	ID=VSP_010599;Note=In isoform E3+32. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	102	121	.	.	.	ID=VSP_010602;Note=In isoform B5+173. FSKPAPMFLDDSFRKWARIR->AKRNGAWRQKHIQAYVLRQR;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	102	117	.	.	.	ID=VSP_010601;Note=In isoform C12. FSKPAPMFLDDSFRKW->PGRTISSERKSFCGSW;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	102	115	.	.	.	ID=VSP_010600;Note=In isoform B4+173. FSKPAPMFLDDSFR->EKVRTFMAWLAWYG;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	116	375	.	.	.	ID=VSP_010603;Note=In isoform B4+173. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	118	375	.	.	.	ID=VSP_010604;Note=In isoform C12. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	122	375	.	.	.	ID=VSP_010605;Note=In isoform B5+173. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	133	155	.	.	.	ID=VSP_010607;Note=In isoform A7%2C isoform B7 and isoform C7. DNLIKAILSVTKEYRLTPALDSL->VLDAQYPARERVSAEAGESSRHH;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	133	151	.	.	.	ID=VSP_010606;Note=In isoform B10. DNLIKAILSVTKEYRLTPA->ECIGWLLEICGHSSAQGAP;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	152	375	.	.	.	ID=VSP_010608;Note=In isoform B10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	156	375	.	.	.	ID=VSP_010609;Note=In isoform A7%2C isoform B7 and isoform C7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	186	202	.	.	.	ID=VSP_010610;Note=In isoform C5 and isoform D5. RLNSAPVKGFEKDVGSK->SPGRTISSERKSFCGSW;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	187	375	.	.	.	ID=VSP_010613;Note=In isoform B5+26 and isoform D2+26. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	187	244	.	.	.	ID=VSP_010612;Note=In isoform C9. LNSAPVKGFEKDVGSKTTLRITYPEGAMQRPEQYERDSLFVLAGFKWQDFKWLKYIVY->VHRMASGNLWPLECPRSPLRFESSTHISSRRPPSPSLACPSTMASWAGGTSLPLAVWQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	187	189	.	.	.	ID=VSP_010611;Note=In isoform B1+32. LNS->PRL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	190	375	.	.	.	ID=VSP_010614;Note=In isoform B1+32. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Alternative sequence	203	375	.	.	.	ID=VSP_010615;Note=In isoform C5 and isoform D5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	245	375	.	.	.	ID=VSP_010616;Note=In isoform C9. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	249	346	.	.	.	ID=VSP_010618;Note=In isoform B4%2C isoform C4 and isoform C11. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|Ref.2,ECO:0000303|Ref.3	
+Q11203	UniProtKB	Alternative sequence	249	278	.	.	.	ID=VSP_010617;Note=In isoform B1-90. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q11203	UniProtKB	Natural variant	13	13	.	.	.	ID=VAR_066594;Note=In MRT12%3B most of the mutant protein is improperly localized to the endoplasmic reticulum preventing the protein from interacting with its substrates in the Golgi and resulting in a loss-of-function. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21907012;Dbxref=dbSNP:rs387906943,PMID:21907012	
+Q11203	UniProtKB	Natural variant	320	320	.	.	.	ID=VAR_069319;Note=In EIEE15. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23252400;Dbxref=PMID:23252400	
+Q11203	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_066595;Note=In MRT12%3B the mutant protein is improperly localized to the endoplasmic reticulum preventing the protein from interacting with its substrates in the Golgi and resulting in a loss-of-function%3B shows a complete lack of enzyme activity%3B secretion of the mutant protein is dramatically reduced compared to wild-type. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21907012;Dbxref=PMID:21907012	
+Q11203	UniProtKB	Sequence conflict	38	38	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q11203	UniProtKB	Sequence conflict	94	94	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q11203	UniProtKB	Sequence conflict	123	123	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q11203	UniProtKB	Sequence conflict	351	351	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

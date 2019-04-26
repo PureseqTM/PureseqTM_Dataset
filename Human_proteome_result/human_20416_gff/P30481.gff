@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region P30481 1 362
+P30481	UniProtKB	Signal peptide	1	24	.	.	.	.	
+P30481	UniProtKB	Chain	25	362	.	.	.	ID=PRO_0000018847;Note=HLA class I histocompatibility antigen%2C B-44 alpha chain	
+P30481	UniProtKB	Topological domain	25	309	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30481	UniProtKB	Transmembrane	310	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30481	UniProtKB	Topological domain	334	362	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30481	UniProtKB	Domain	209	295	.	.	.	Note=Ig-like C1-type	
+P30481	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+P30481	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+P30481	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+P30481	UniProtKB	Region	299	309	.	.	.	Note=Connecting peptide	
+P30481	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P30481	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:12939341;Dbxref=PMID:12939341	
+P30481	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:12939341;Dbxref=PMID:12939341	
+P30481	UniProtKB	Natural variant	65	65	.	.	.	ID=VAR_016461;Note=In allele B*44:07 and allele B*44:08. T->A;Dbxref=dbSNP:rs1050529	
+P30481	UniProtKB	Natural variant	69	70	.	.	.	ID=VAR_016462;Note=In allele B*44:08. KE->MA	
+P30481	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_016463;Note=In allele B*44:13. D->E;Dbxref=dbSNP:rs151341165	
+P30481	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_016464;Note=In allele B*44:12%3B requires 2 nucleotide substitutions. E->N	
+P30481	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_016465;Note=In allele B*44:09. N->S;Dbxref=dbSNP:rs1050388	
+P30481	UniProtKB	Natural variant	104	107	.	.	.	ID=VAR_016466;Note=In allele B*44:09. TALR->NLRG	
+P30481	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_016467;Note=In allele B*44:05. D->Y;Dbxref=dbSNP:rs9266150	
+P30481	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_016468;Note=In allele B*44:03%2C allele B*44:07 and allele B*44:13%3B requires 2 nucleotide substitutions. D->L	
+P30481	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_016469;Note=In allele B*44:04%3B requires 2 nucleotide substitutions. D->R;Dbxref=dbSNP:rs376871308	
+P30481	UniProtKB	Natural variant	187	187	.	.	.	ID=VAR_016470;Note=In allele B*44:04%3B requires 2 nucleotide substitutions. L->T;Dbxref=dbSNP:rs796093434	
+P30481	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_056385;Note=V->I;Dbxref=dbSNP:rs1131500	
+P30481	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_056386;Note=A->T;Dbxref=dbSNP:rs1051488	
+P30481	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_061422;Note=C->S;Dbxref=dbSNP:rs2308655	
+P30481	UniProtKB	Sequence conflict	106	106	.	.	.	Note=L->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30481	UniProtKB	Sequence conflict	223	223	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30481	UniProtKB	Sequence conflict	229	229	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30481	UniProtKB	Beta strand	27	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	45	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	55	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	81	108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1N2R	
+P30481	UniProtKB	Beta strand	118	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	129	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXA	
+P30481	UniProtKB	Beta strand	133	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	145	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	157	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	162	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	176	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	187	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	200	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	210	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	222	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	238	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	249	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	252	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KPM	
+P30481	UniProtKB	Beta strand	261	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	265	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Helix	278	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	281	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	290	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	
+P30481	UniProtKB	Beta strand	294	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1M6O	

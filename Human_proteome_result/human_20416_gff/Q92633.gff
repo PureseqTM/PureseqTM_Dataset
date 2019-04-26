@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q92633 1 364
+Q92633	UniProtKB	Chain	1	364	.	.	.	ID=PRO_0000069417;Note=Lysophosphatidic acid receptor 1	
+Q92633	UniProtKB	Topological domain	1	50	.	.	.	Note=Extracellular	
+Q92633	UniProtKB	Transmembrane	51	75	.	.	.	Note=Helical%3B Name%3D1	
+Q92633	UniProtKB	Topological domain	76	83	.	.	.	Note=Cytoplasmic	
+Q92633	UniProtKB	Transmembrane	84	107	.	.	.	Note=Helical%3B Name%3D2	
+Q92633	UniProtKB	Topological domain	108	121	.	.	.	Note=Extracellular	
+Q92633	UniProtKB	Transmembrane	122	144	.	.	.	Note=Helical%3B Name%3D3	
+Q92633	UniProtKB	Topological domain	145	163	.	.	.	Note=Cytoplasmic	
+Q92633	UniProtKB	Transmembrane	164	184	.	.	.	Note=Helical%3B Name%3D4	
+Q92633	UniProtKB	Topological domain	185	204	.	.	.	Note=Extracellular	
+Q92633	UniProtKB	Transmembrane	205	225	.	.	.	Note=Helical%3B Name%3D5	
+Q92633	UniProtKB	Topological domain	226	255	.	.	.	Note=Cytoplasmic	
+Q92633	UniProtKB	Transmembrane	256	280	.	.	.	Note=Helical%3B Name%3D6	
+Q92633	UniProtKB	Topological domain	281	294	.	.	.	Note=Extracellular	
+Q92633	UniProtKB	Transmembrane	295	315	.	.	.	Note=Helical%3B Name%3D7	
+Q92633	UniProtKB	Topological domain	316	364	.	.	.	Note=Cytoplasmic	
+Q92633	UniProtKB	Region	124	129	.	.	.	Note=Lysophosphatidic acid binding;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26091040;Dbxref=PMID:26091040	
+Q92633	UniProtKB	Binding site	39	39	.	.	.	Note=Lysophosphatidic acid;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26091040;Dbxref=PMID:26091040	
+Q92633	UniProtKB	Binding site	210	210	.	.	.	Note=Lysophosphatidic acid;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:26091040;Dbxref=PMID:26091040	
+Q92633	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92633	UniProtKB	Modified residue	351	351	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P61793	
+Q92633	UniProtKB	Glycosylation	27	27	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92633	UniProtKB	Glycosylation	35	35	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92633	UniProtKB	Disulfide bond	24	190	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4Z34,ECO:0000244|PDB:4Z35,ECO:0000244|PDB:4Z36	
+Q92633	UniProtKB	Disulfide bond	188	195	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4Z34,ECO:0000244|PDB:4Z35,ECO:0000244|PDB:4Z36	
+Q92633	UniProtKB	Disulfide bond	284	287	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:4Z34,ECO:0000244|PDB:4Z35,ECO:0000244|PDB:4Z36	
+Q92633	UniProtKB	Alternative sequence	1	15	.	.	.	ID=VSP_057046;Note=In isoform 2. MAAISTSIPVISQPQ->MLLLLIPAHSSVLENE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92633	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_049414;Note=N->S;Dbxref=dbSNP:rs11542862	
+Q92633	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Impairs localization at the cell membrane. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25025571;Dbxref=PMID:25025571	
+Q92633	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Impairs localization at the cell membrane. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25025571;Dbxref=PMID:25025571	
+Q92633	UniProtKB	Mutagenesis	325	326	.	.	.	Note=Impairs localization at the cell membrane. IL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25025571;Dbxref=PMID:25025571	
+Q92633	UniProtKB	Sequence conflict	340	340	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92633	UniProtKB	Helix	30	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	47	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	78	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	83	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	110	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	118	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	158	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	204	232	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	248	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Turn	285	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	294	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	
+Q92633	UniProtKB	Helix	316	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z35	

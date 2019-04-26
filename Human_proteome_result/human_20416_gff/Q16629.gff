@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region Q16629 1 238
+Q16629	UniProtKB	Chain	1	238	.	.	.	ID=PRO_0000081932;Note=Serine/arginine-rich splicing factor 7	
+Q16629	UniProtKB	Domain	11	84	.	.	.	Note=RRM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q16629	UniProtKB	Repeat	153	160	.	.	.	Note=1	
+Q16629	UniProtKB	Repeat	161	168	.	.	.	Note=2	
+Q16629	UniProtKB	Repeat	169	176	.	.	.	Note=3	
+Q16629	UniProtKB	Repeat	177	184	.	.	.	Note=4	
+Q16629	UniProtKB	Repeat	211	218	.	.	.	Note=5%3B approximate	
+Q16629	UniProtKB	Repeat	219	226	.	.	.	Note=6%3B approximate	
+Q16629	UniProtKB	Zinc finger	104	120	.	.	.	Note=CCHC-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00047	
+Q16629	UniProtKB	Region	81	98	.	.	.	Note=Sufficient for interaction with NXF1	
+Q16629	UniProtKB	Region	153	226	.	.	.	Note=6 X 8 AA repeats of R-R-S-R-S-X-S-X	
+Q16629	UniProtKB	Compositional bias	121	238	.	.	.	Note=Arg/Ser-rich (RS domain)	
+Q16629	UniProtKB	Modified residue	24	24	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q16629	UniProtKB	Modified residue	32	32	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q16629	UniProtKB	Modified residue	163	163	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q16629	UniProtKB	Modified residue	165	165	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q16629	UniProtKB	Modified residue	167	167	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q16629	UniProtKB	Modified residue	181	181	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BL97	
+Q16629	UniProtKB	Modified residue	183	183	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BL97	
+Q16629	UniProtKB	Modified residue	192	192	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+Q16629	UniProtKB	Modified residue	194	194	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+Q16629	UniProtKB	Modified residue	196	196	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q16629	UniProtKB	Modified residue	231	231	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:21406692;Dbxref=PMID:17081983,PMID:21406692	
+Q16629	UniProtKB	Modified residue	233	233	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:21406692;Dbxref=PMID:17081983,PMID:21406692	
+Q16629	UniProtKB	Cross-link	24	24	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q16629	UniProtKB	Alternative sequence	130	135	.	.	.	ID=VSP_005872;Note=In isoform 2. SRSRSH->AENLRR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16629	UniProtKB	Alternative sequence	130	132	.	.	.	ID=VSP_005874;Note=In isoform 3. SRS->YLF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16629	UniProtKB	Alternative sequence	133	238	.	.	.	ID=VSP_005875;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16629	UniProtKB	Alternative sequence	136	238	.	.	.	ID=VSP_005873;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16629	UniProtKB	Alternative sequence	209	220	.	.	.	ID=VSP_045840;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q16629	UniProtKB	Mutagenesis	87	88	.	.	.	Note=Abolishes interaction with NXF1. RR->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17036044;Dbxref=PMID:17036044	
+Q16629	UniProtKB	Mutagenesis	97	98	.	.	.	Note=Abolishes interaction with NXF1. RR->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17036044;Dbxref=PMID:17036044	
+Q16629	UniProtKB	Sequence conflict	56	56	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16629	UniProtKB	Beta strand	12	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HVZ	
+Q16629	UniProtKB	Helix	24	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HVZ	
+Q16629	UniProtKB	Beta strand	38	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HVZ	
+Q16629	UniProtKB	Helix	57	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HVZ	
+Q16629	UniProtKB	Beta strand	72	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HVZ	
+Q16629	UniProtKB	Beta strand	78	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HVZ	

@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region Q8NCW0 1 462
+Q8NCW0	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Chain	26	462	.	.	.	ID=PRO_0000021568;Note=Kremen protein 2	
+Q8NCW0	UniProtKB	Topological domain	26	364	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Transmembrane	365	387	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Topological domain	388	462	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Domain	35	119	.	.	.	Note=Kringle;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00121	
+Q8NCW0	UniProtKB	Domain	121	215	.	.	.	Note=WSC;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00558,ECO:0000305	
+Q8NCW0	UniProtKB	Domain	219	326	.	.	.	Note=CUB;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU00059,ECO:0000305	
+Q8NCW0	UniProtKB	Glycosylation	49	49	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Glycosylation	222	222	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Glycosylation	244	244	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Glycosylation	351	351	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8NCW0	UniProtKB	Disulfide bond	36	119	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8NCW0	UniProtKB	Disulfide bond	60	100	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8NCW0	UniProtKB	Disulfide bond	89	114	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8NCW0	UniProtKB	Disulfide bond	219	245	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8NCW0	UniProtKB	Alternative sequence	162	200	.	.	.	ID=VSP_046399;Note=In isoform 5 and isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NCW0	UniProtKB	Alternative sequence	367	462	.	.	.	ID=VSP_047386;Note=In isoform 6. ARVFSTVTAVSVLLLLLLGLLRPLRRRSCLLAPGKGPPALGASRGPRRSWAVWYQQPRGVALPCSPGDPQAEGSAAGYRPLSASSQSSLRSLISAL->GAVCWLREKGPRRWGLPGAPGEAGLCGTNSPEGWPCPAPPGTPRLRVLPRATGL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NCW0	UniProtKB	Alternative sequence	367	420	.	.	.	ID=VSP_050511;Note=In isoform 3. ARVFSTVTAVSVLLLLLLGLLRPLRRRSCLLAPGKGPPALGASRGPRRSWAVWY->GAVCWLREKGPRRWGLPGAPGEAGLCGTNSPEGWPCPAPPGTPRLRVLPRATGL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8NCW0	UniProtKB	Alternative sequence	367	399	.	.	.	ID=VSP_050513;Note=In isoform 4. ARVFSTVTAVSVLLLLLLGLLRPLRRRSCLLAP->GEAGARDGSESGSRPLAPILTAAVCPQPGSSRR;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8NCW0	UniProtKB	Alternative sequence	394	424	.	.	.	ID=VSP_050509;Note=In isoform 2. SCLLAPGKGPPALGASRGPRRSWAVWYQQPR->CGALGQGLRADRWWGAGAPEGNRARKELLGS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NCW0	UniProtKB	Alternative sequence	400	462	.	.	.	ID=VSP_050514;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8NCW0	UniProtKB	Alternative sequence	421	462	.	.	.	ID=VSP_050512;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8NCW0	UniProtKB	Alternative sequence	425	462	.	.	.	ID=VSP_050510;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NCW0	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_059691;Note=A->P;Dbxref=dbSNP:rs11866302	
+Q8NCW0	UniProtKB	Sequence conflict	164	202	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NCW0	UniProtKB	Sequence conflict	285	285	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

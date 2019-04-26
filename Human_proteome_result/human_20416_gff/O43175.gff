@@ -1,0 +1,64 @@
+##gff-version 3
+##sequence-region O43175 1 533
+O43175	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+O43175	UniProtKB	Chain	2	533	.	.	.	ID=PRO_0000076012;Note=D-3-phosphoglycerate dehydrogenase	
+O43175	UniProtKB	Nucleotide binding	155	156	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Nucleotide binding	234	236	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Nucleotide binding	283	286	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Active site	236	236	.	.	.	.	
+O43175	UniProtKB	Active site	265	265	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43175	UniProtKB	Active site	283	283	.	.	.	Note=Proton donor	
+O43175	UniProtKB	Binding site	78	78	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Binding site	175	175	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Binding site	207	207	.	.	.	Note=NAD%3B via carbonyl oxygen;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Binding site	260	260	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.21	
+O43175	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+O43175	UniProtKB	Modified residue	14	14	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O43175	UniProtKB	Modified residue	21	21	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61753	
+O43175	UniProtKB	Modified residue	58	58	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61753	
+O43175	UniProtKB	Modified residue	78	78	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+O43175	UniProtKB	Cross-link	21	21	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+O43175	UniProtKB	Cross-link	21	21	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+O43175	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_059026;Note=In PHGDHD%3B results in a 2-fold decrease in enzyme activity with 3-phosphohydroxypyruvate%2C but no change in substrate affinity. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19235232;Dbxref=dbSNP:rs267606949,PMID:19235232	
+O43175	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_071819;Note=In NLS1. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24836451;Dbxref=dbSNP:rs587777770,PMID:24836451	
+O43175	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_071820;Note=In NLS1. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24836451;Dbxref=dbSNP:rs587777483,PMID:24836451	
+O43175	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_059027;Note=In PHGDHD%3B results in a four-fold decrease in substrate affinity and a slight increase in maximal enzyme activity with 3-phosphohydroxypyruvate. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19235232;Dbxref=dbSNP:rs267606947,PMID:19235232	
+O43175	UniProtKB	Natural variant	373	373	.	.	.	ID=VAR_059028;Note=In PHGDHD%3B results in almost undetectable enzyme activity with 3-phosphohydroxypyruvate. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19235232;Dbxref=dbSNP:rs201553627,PMID:19235232	
+O43175	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_059029;Note=In PHGDHD%3B results in a 2-fold decrease in enzyme activity with 3-phosphohydroxypyruvate%2C but no change in substrate affinity. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19235232;Dbxref=dbSNP:rs267606948,PMID:19235232	
+O43175	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_013461;Note=In PHGDHD%3B results in almost undetectable enzyme activity with 3-phosphohydroxypyruvate. V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11055895,ECO:0000269|PubMed:19235232;Dbxref=dbSNP:rs121907988,PMID:11055895,PMID:19235232	
+O43175	UniProtKB	Natural variant	490	490	.	.	.	ID=VAR_059030;Note=In PHGDHD%3B results in almost undetectable enzyme activity with 3-phosphohydroxypyruvate. V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11055895,ECO:0000269|PubMed:11751922,ECO:0000269|PubMed:19235232;Dbxref=dbSNP:rs121907987,PMID:11055895,PMID:11751922,PMID:19235232	
+O43175	UniProtKB	Sequence conflict	25	25	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43175	UniProtKB	Sequence conflict	25	25	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43175	UniProtKB	Beta strand	8	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Helix	18	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Beta strand	29	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Helix	38	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Helix	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Beta strand	49	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Beta strand	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Helix	61	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Beta strand	72	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Helix	85	91	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Beta strand	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2G76	
+O43175	UniProtKB	Helix	103	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	121	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Turn	135	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	147	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	155	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Turn	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	170	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	180	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	193	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	197	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	201	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	211	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	216	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	219	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	229	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	242	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	252	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	263	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	271	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Beta strand	278	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	
+O43175	UniProtKB	Helix	289	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NZO	

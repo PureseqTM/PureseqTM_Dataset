@@ -1,0 +1,59 @@
+##gff-version 3
+##sequence-region P12110 1 1019
+P12110	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Chain	21	1019	.	.	.	ID=PRO_0000005832;Note=Collagen alpha-2(VI) chain	
+P12110	UniProtKB	Domain	46	234	.	.	.	Note=VWFA 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00219	
+P12110	UniProtKB	Domain	615	805	.	.	.	Note=VWFA 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00219	
+P12110	UniProtKB	Domain	833	1014	.	.	.	Note=VWFA 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00219	
+P12110	UniProtKB	Region	21	256	.	.	.	Note=Nonhelical region	
+P12110	UniProtKB	Region	257	590	.	.	.	Note=Triple-helical region	
+P12110	UniProtKB	Region	591	1019	.	.	.	Note=Nonhelical region	
+P12110	UniProtKB	Motif	366	368	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Motif	426	428	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Motif	489	491	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Motif	498	500	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Motif	539	541	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Modified residue	701	701	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P12110	UniProtKB	Modified residue	705	705	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P12110	UniProtKB	Glycosylation	140	140	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P12110	UniProtKB	Glycosylation	327	327	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Glycosylation	630	630	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P12110	UniProtKB	Glycosylation	785	785	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P12110	UniProtKB	Glycosylation	897	897	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P12110	UniProtKB	Glycosylation	954	954	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P12110	UniProtKB	Alternative sequence	821	991	.	.	.	ID=VSP_001163;Note=In isoform 2C2A. ELSVAQCTQRPVDIVFLLDGSERLGEQNFHKARRFVEQVARRLTLARRDDDPLNARVALLQFGGPGEQQVAFPLSHNLTAIHEALETTQYLNSFSHVGAGVVHAINAIVRSPRGGARRHAELSFVFLTDGVTGNDSLHESAHSMRKQNVVPTVLALGSDVDMDVLTTLSLG->DAPWPGGEPPVTFLRTEEGPDATFPRTIPLIQQLLNATELTQDPAAYSQLVAVLVYTAERAKFATGVERQDWMELFIDTFKLVHRDIVGDPETALALC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2551668;Dbxref=PMID:2551668	
+P12110	UniProtKB	Alternative sequence	821	828	.	.	.	ID=VSP_001161;Note=In isoform 2C2A'. ELSVAQCT->GLDGAVLC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P12110	UniProtKB	Alternative sequence	829	1019	.	.	.	ID=VSP_001162;Note=In isoform 2C2A'. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P12110	UniProtKB	Alternative sequence	992	1019	.	.	.	ID=VSP_001164;Note=In isoform 2C2A. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:2551668;Dbxref=PMID:2551668	
+P12110	UniProtKB	Natural variant	106	106	.	.	.	ID=VAR_058225;Note=E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15689448,ECO:0000269|PubMed:23040494;Dbxref=dbSNP:rs141703710,PMID:15689448,PMID:23040494	
+P12110	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_048801;Note=D->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15563506,ECO:0000269|PubMed:15689448,ECO:0000269|PubMed:17886299,ECO:0000269|Ref.1;Dbxref=dbSNP:rs35881321,PMID:15563506,PMID:15689448,PMID:17886299	
+P12110	UniProtKB	Natural variant	271	271	.	.	.	ID=VAR_013589;Note=In BTHLM1. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8782832;Dbxref=dbSNP:rs121912940,PMID:8782832	
+P12110	UniProtKB	Natural variant	283	283	.	.	.	ID=VAR_058226;Note=In UCMD1. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs267606748,PMID:15689448	
+P12110	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_076959;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23040494;Dbxref=dbSNP:rs144801620,PMID:23040494	
+P12110	UniProtKB	Natural variant	399	399	.	.	.	ID=VAR_030315;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:15563506,ECO:0000269|PubMed:15689448,ECO:0000269|PubMed:1765372,ECO:0000269|PubMed:17886299,ECO:0000269|Ref.1;Dbxref=dbSNP:rs2839110,PMID:15489334,PMID:15563506,PMID:15689448,PMID:1765372,PMID:17886299	
+P12110	UniProtKB	Natural variant	446	446	.	.	.	ID=VAR_076960;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23040494;Dbxref=dbSNP:rs535007570,PMID:23040494	
+P12110	UniProtKB	Natural variant	489	489	.	.	.	ID=VAR_058227;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs61735828,PMID:15689448	
+P12110	UniProtKB	Natural variant	498	498	.	.	.	ID=VAR_058228;Note=In UCMD1. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs267606749,PMID:15689448	
+P12110	UniProtKB	Natural variant	518	518	.	.	.	ID=VAR_058229;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs141166141,PMID:15689448	
+P12110	UniProtKB	Natural variant	531	531	.	.	.	ID=VAR_058230;Note=In UCMD1. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=PMID:15689448	
+P12110	UniProtKB	Natural variant	621	621	.	.	.	ID=VAR_013590;Note=In BTHLM1. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11865138;Dbxref=dbSNP:rs267606750,PMID:11865138	
+P12110	UniProtKB	Natural variant	680	680	.	.	.	ID=VAR_030316;Note=R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15563506,ECO:0000269|PubMed:15689448,ECO:0000269|PubMed:1690728,ECO:0000269|PubMed:17886299,ECO:0000269|Ref.1;Dbxref=dbSNP:rs1042917,PMID:15563506,PMID:15689448,PMID:1690728,PMID:17886299	
+P12110	UniProtKB	Natural variant	700	700	.	.	.	ID=VAR_058231;Note=In BTHLM1. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs794727418,PMID:15689448	
+P12110	UniProtKB	Natural variant	724	724	.	.	.	ID=VAR_058232;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs150098077,PMID:15689448	
+P12110	UniProtKB	Natural variant	728	728	.	.	.	ID=VAR_076961;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23040494;Dbxref=dbSNP:rs200585528,PMID:23040494	
+P12110	UniProtKB	Natural variant	777	777	.	.	.	ID=VAR_058233;Note=In BTHLM1. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs267606747,PMID:15689448	
+P12110	UniProtKB	Natural variant	784	784	.	.	.	ID=VAR_058234;Note=In UCMD1. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs75120695,PMID:15689448	
+P12110	UniProtKB	Natural variant	804	804	.	.	.	ID=VAR_058235;Note=V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs779847082,PMID:15689448	
+P12110	UniProtKB	Natural variant	837	837	.	.	.	ID=VAR_058236;Note=In UCMD1%3B prevents collagen VI assembly. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15563506;Dbxref=dbSNP:rs1255514828,PMID:15563506	
+P12110	UniProtKB	Natural variant	843	843	.	.	.	ID=VAR_076962;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23040494;Dbxref=dbSNP:rs201736323,PMID:23040494	
+P12110	UniProtKB	Natural variant	853	853	.	.	.	ID=VAR_058237;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15689448,ECO:0000269|PubMed:23040494,ECO:0000269|PubMed:27535533;Dbxref=dbSNP:rs144830948,PMID:15689448,PMID:23040494,PMID:27535533	
+P12110	UniProtKB	Natural variant	876	876	.	.	.	ID=VAR_058238;Note=In UCMD1. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs387906608,PMID:15689448	
+P12110	UniProtKB	Natural variant	895	895	.	.	.	ID=VAR_058239;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17886299;Dbxref=dbSNP:rs141233891,PMID:17886299	
+P12110	UniProtKB	Natural variant	897	897	.	.	.	ID=VAR_058240;Note=In UCMD1%3B results in severe collagen VI matrix deficiencies. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15563506;Dbxref=PMID:15563506	
+P12110	UniProtKB	Natural variant	932	932	.	.	.	ID=VAR_058241;Note=In BTHLM1%3B results in reduced intracellular collagen VI assembly and secretion. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17886299;Dbxref=dbSNP:rs117725825,PMID:17886299	
+P12110	UniProtKB	Natural variant	935	935	.	.	.	ID=VAR_048802;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15689448;Dbxref=dbSNP:rs35548026,PMID:15689448	
+P12110	UniProtKB	Natural variant	1010	1010	.	.	.	ID=VAR_076963;Note=F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23040494;Dbxref=dbSNP:rs1051148162,PMID:23040494	
+P12110	UniProtKB	Natural variant	1015	1015	.	.	.	ID=VAR_048803;Note=I->L;Dbxref=dbSNP:rs11910483	
+P12110	UniProtKB	Sequence conflict	507	507	.	.	.	Note=K->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P12110	UniProtKB	Sequence conflict	966	967	.	.	.	Note=KQ->NE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P12110	UniProtKB	Sequence conflict	966	967	.	.	.	Note=KQ->NE;Ontology_term=ECO:0000305;evidence=ECO:0000305	

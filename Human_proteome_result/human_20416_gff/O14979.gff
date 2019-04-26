@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region O14979 1 420
+O14979	UniProtKB	Chain	1	420	.	.	.	ID=PRO_0000287239;Note=Heterogeneous nuclear ribonucleoprotein D-like	
+O14979	UniProtKB	Domain	148	230	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+O14979	UniProtKB	Domain	233	312	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+O14979	UniProtKB	Region	342	420	.	.	.	Note=Necessary for interaction with TNPO1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9524220;Dbxref=PMID:9524220	
+O14979	UniProtKB	Region	396	420	.	.	.	Note=Necessary for its nuclear import and export	
+O14979	UniProtKB	Compositional bias	79	82	.	.	.	Note=Poly-Arg	
+O14979	UniProtKB	Compositional bias	316	321	.	.	.	Note=Poly-Gln	
+O14979	UniProtKB	Compositional bias	323	411	.	.	.	Note=Gly-rich	
+O14979	UniProtKB	Compositional bias	353	396	.	.	.	Note=Tyr-rich	
+O14979	UniProtKB	Modified residue	25	25	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24129315;Dbxref=PMID:24129315	
+O14979	UniProtKB	Modified residue	161	161	.	.	.	Note=N6-methyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9	
+O14979	UniProtKB	Modified residue	216	216	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O14979	UniProtKB	Modified residue	241	241	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+O14979	UniProtKB	Modified residue	408	408	.	.	.	Note=Dimethylated arginine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.9	
+O14979	UniProtKB	Modified residue	408	408	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Z130	
+O14979	UniProtKB	Cross-link	209	209	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O14979	UniProtKB	Alternative sequence	1	119	.	.	.	ID=VSP_025410;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10072754,ECO:0000303|PubMed:11705999,ECO:0000303|PubMed:9538234;Dbxref=PMID:10072754,PMID:11705999,PMID:9538234	
+O14979	UniProtKB	Alternative sequence	341	397	.	.	.	ID=VSP_025411;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11705999;Dbxref=PMID:11705999	
+O14979	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_072567;Note=In LGMDD3. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24647604;Dbxref=dbSNP:rs587777669,PMID:24647604	
+O14979	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_072568;Note=In LGMDD3. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24647604;Dbxref=dbSNP:rs587777669,PMID:24647604	
+O14979	UniProtKB	Mutagenesis	404	404	.	.	.	Note=Reduces significantly its nuclear localization. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9524220;Dbxref=PMID:9524220	

@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region O94887 1 1054
+O94887	UniProtKB	Chain	1	1054	.	.	.	ID=PRO_0000232755;Note=FERM%2C ARHGEF and pleckstrin domain-containing protein 2	
+O94887	UniProtKB	Domain	44	324	.	.	.	Note=FERM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00084	
+O94887	UniProtKB	Domain	535	726	.	.	.	Note=DH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00062	
+O94887	UniProtKB	Domain	755	852	.	.	.	Note=PH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+O94887	UniProtKB	Domain	929	1026	.	.	.	Note=PH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+O94887	UniProtKB	Compositional bias	425	428	.	.	.	Note=Poly-Ser	
+O94887	UniProtKB	Compositional bias	453	511	.	.	.	Note=Pro-rich	
+O94887	UniProtKB	Modified residue	389	389	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94887	UniProtKB	Modified residue	439	439	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+O94887	UniProtKB	Alternative sequence	632	647	.	.	.	ID=VSP_017977;Note=In isoform 2. EFTSYFQRHDEVLTEL->VFQLHEGHVAGVTKME;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94887	UniProtKB	Alternative sequence	632	638	.	.	.	ID=VSP_054840;Note=In isoform 3. EFTSYFQ->AAHEFTT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94887	UniProtKB	Alternative sequence	639	1054	.	.	.	ID=VSP_054841;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O94887	UniProtKB	Alternative sequence	648	1054	.	.	.	ID=VSP_017978;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94887	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_048363;Note=K->N;Dbxref=dbSNP:rs16843643	
+O94887	UniProtKB	Natural variant	260	260	.	.	.	ID=VAR_048364;Note=T->I;Dbxref=dbSNP:rs757978	
+O94887	UniProtKB	Natural variant	643	643	.	.	.	ID=VAR_048365;Note=V->I;Dbxref=dbSNP:rs41342147	
+O94887	UniProtKB	Sequence conflict	366	366	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

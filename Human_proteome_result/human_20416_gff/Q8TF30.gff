@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region Q8TF30 1 809
+Q8TF30	UniProtKB	Chain	1	809	.	.	.	ID=PRO_0000295100;Note=WASP homolog-associated protein with actin%2C membranes and microtubules	
+Q8TF30	UniProtKB	Domain	709	727	.	.	.	Note=WH2 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00406	
+Q8TF30	UniProtKB	Domain	739	756	.	.	.	Note=WH2 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00406	
+Q8TF30	UniProtKB	Region	1	260	.	.	.	Note=Mediates association with membranes;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18614018;Dbxref=PMID:18614018	
+Q8TF30	UniProtKB	Region	261	630	.	.	.	Note=Mediates interaction with microtubules;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23027905;Dbxref=PMID:23027905	
+Q8TF30	UniProtKB	Region	631	809	.	.	.	Note=Mediates actin nucleation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18614018;Dbxref=PMID:18614018	
+Q8TF30	UniProtKB	Coiled coil	271	298	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TF30	UniProtKB	Coiled coil	384	479	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TF30	UniProtKB	Coiled coil	512	542	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TF30	UniProtKB	Coiled coil	770	797	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8TF30	UniProtKB	Compositional bias	639	658	.	.	.	Note=Pro-rich	
+Q8TF30	UniProtKB	Modified residue	606	606	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8TF30	UniProtKB	Modified residue	795	795	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q571B6	
+Q8TF30	UniProtKB	Natural variant	212	212	.	.	.	ID=VAR_061721;Note=N->S;Dbxref=dbSNP:rs35270670	
+Q8TF30	UniProtKB	Natural variant	340	340	.	.	.	ID=VAR_033209;Note=Q->K;Dbxref=dbSNP:rs1055666	
+Q8TF30	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_033210;Note=R->Q;Dbxref=dbSNP:rs1055667	
+Q8TF30	UniProtKB	Natural variant	686	686	.	.	.	ID=VAR_033211;Note=R->H;Dbxref=dbSNP:rs3814281	
+Q8TF30	UniProtKB	Natural variant	736	736	.	.	.	ID=VAR_051489;Note=H->P;Dbxref=dbSNP:rs11259953	
+Q8TF30	UniProtKB	Natural variant	736	736	.	.	.	ID=VAR_051490;Note=H->Q;Dbxref=dbSNP:rs11259954	
+Q8TF30	UniProtKB	Mutagenesis	807	807	.	.	.	Note=Decreases nucleation-promoting factor activity and Arp2/3 complex activation. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18614018;Dbxref=PMID:18614018	

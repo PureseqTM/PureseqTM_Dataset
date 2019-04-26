@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region O43687 1 104
+O43687	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed	
+O43687	UniProtKB	Chain	2	104	.	.	.	ID=PRO_0000064522;Note=A-kinase anchor protein 7 isoforms alpha and beta	
+O43687	UniProtKB	Region	2	11	.	.	.	Note=Required for membrane localization	
+O43687	UniProtKB	Region	18	40	.	.	.	Note=Required for apical membrane localization	
+O43687	UniProtKB	Region	52	65	.	.	.	Note=RII-binding	
+O43687	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9545239;Dbxref=PMID:9545239	
+O43687	UniProtKB	Lipidation	5	5	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9545239;Dbxref=PMID:9545239	
+O43687	UniProtKB	Lipidation	6	6	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9545239;Dbxref=PMID:9545239	
+O43687	UniProtKB	Alternative sequence	18	40	.	.	.	ID=VSP_004101;Note=In isoform Alpha. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9545239;Dbxref=PMID:15489334,PMID:9545239	
+O43687	UniProtKB	Mutagenesis	2	6	.	.	.	Note=Abolishes membrane localization and affects its ability to inhibit ENaC activity in a sodium-dependent manner. GQLCC->AQLAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17244820;Dbxref=PMID:17244820	

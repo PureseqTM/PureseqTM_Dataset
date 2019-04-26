@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region O14503 1 412
+O14503	UniProtKB	Chain	1	412	.	.	.	ID=PRO_0000127144;Note=Class E basic helix-loop-helix protein 40	
+O14503	UniProtKB	Domain	52	107	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+O14503	UniProtKB	Domain	142	175	.	.	.	Note=Orange;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00380	
+O14503	UniProtKB	Region	1	139	.	.	.	Note=Essential for interaction with ARNTL/BMAL1%2C E-box binding and repressor activity against the CLOCK-ARNTL/BMAL1 heterodimer	
+O14503	UniProtKB	Region	75	79	.	.	.	Note=Necessary for interaction with RXRA and repressor activity against RXRA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19786558;Dbxref=PMID:19786558	
+O14503	UniProtKB	Modified residue	235	235	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O14503	UniProtKB	Modified residue	383	383	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35185	
+O14503	UniProtKB	Cross-link	159	159	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1%2C SUMO2 and SUMO3);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21829689;Dbxref=PMID:21829689	
+O14503	UniProtKB	Cross-link	167	167	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O14503	UniProtKB	Cross-link	279	279	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+O14503	UniProtKB	Cross-link	279	279	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1%2C SUMO2 and SUMO3)%3B alternate	
+O14503	UniProtKB	Cross-link	279	279	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+O14503	UniProtKB	Cross-link	288	288	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O14503	UniProtKB	Mutagenesis	57	57	.	.	.	Note=No effect on its interaction with ARNTL/BMAL1 or its repressor activity against the CLOCK-ARNTL/BMAL1 heterodimer. Significant reduction in E-box binding. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15560782;Dbxref=PMID:15560782	
+O14503	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Loss of interaction with ARNTL/BMAL1 and E-box binding. Significant reduction in its repressor activity against the CLOCK-ARNTL/BMAL1 heterodimer. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15560782;Dbxref=PMID:15560782	
+O14503	UniProtKB	Mutagenesis	78	79	.	.	.	Note=Abolishes RXRA repression. LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19786558;Dbxref=PMID:19786558	
+O14503	UniProtKB	Mutagenesis	159	159	.	.	.	Note=Partial loss of sumoylation. Complete loss of sumoylation%3B when associated with R-279. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21829689;Dbxref=PMID:21829689	
+O14503	UniProtKB	Mutagenesis	279	279	.	.	.	Note=Partial loss of sumoylation. Complete loss of sumoylation%3B when associated with R-159. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21829689;Dbxref=PMID:21829689	

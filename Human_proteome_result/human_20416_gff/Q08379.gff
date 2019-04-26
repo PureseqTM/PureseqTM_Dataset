@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q08379 1 1002
+Q08379	UniProtKB	Chain	1	1002	.	.	.	ID=PRO_0000190054;Note=Golgin subfamily A member 2	
+Q08379	UniProtKB	Region	1	84	.	.	.	Note=Interaction with p115/USO1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62839	
+Q08379	UniProtKB	Region	992	1002	.	.	.	Note=Interaction with GORASP1/GRASP65;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q62839	
+Q08379	UniProtKB	Coiled coil	16	892	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q08379	UniProtKB	Motif	26	49	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26165940;Dbxref=PMID:26165940	
+Q08379	UniProtKB	Compositional bias	46	51	.	.	.	Note=Poly-Lys	
+Q08379	UniProtKB	Compositional bias	449	455	.	.	.	Note=Poly-Pro	
+Q08379	UniProtKB	Compositional bias	704	715	.	.	.	Note=Poly-Glu	
+Q08379	UniProtKB	Modified residue	18	18	.	.	.	Note=Omega-N-methylated arginine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:20421892;Dbxref=PMID:20421892	
+Q08379	UniProtKB	Modified residue	30	30	.	.	.	Note=Dimethylated arginine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20421892;Dbxref=PMID:20421892	
+Q08379	UniProtKB	Modified residue	35	35	.	.	.	Note=Dimethylated arginine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20421892;Dbxref=PMID:20421892	
+Q08379	UniProtKB	Modified residue	37	37	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000269|PubMed:20421892;Dbxref=PMID:16964243,PMID:18669648,PMID:18691976,PMID:20421892	
+Q08379	UniProtKB	Modified residue	66	66	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q08379	UniProtKB	Modified residue	273	273	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q08379	UniProtKB	Modified residue	438	438	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q08379	UniProtKB	Modified residue	690	690	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q08379	UniProtKB	Modified residue	937	937	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q08379	UniProtKB	Modified residue	953	953	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q08379	UniProtKB	Modified residue	981	981	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q08379	UniProtKB	Alternative sequence	1	382	.	.	.	ID=VSP_007727;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8315394;Dbxref=PMID:8315394	
+Q08379	UniProtKB	Natural variant	902	902	.	.	.	ID=VAR_033974;Note=R->G;Dbxref=dbSNP:rs2240961	
+Q08379	UniProtKB	Mutagenesis	18	18	.	.	.	Note=Impaired methylation%3B when associated with R-30 and R-35. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20421892;Dbxref=PMID:20421892	
+Q08379	UniProtKB	Mutagenesis	26	49	.	.	.	Note=Abolishes interaction with importin-alpha. KKKLREYQQRNSPGVPTGAKKKKK->AAALAEYQQANSPGVPTGAAAAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26165940;Dbxref=PMID:26165940	
+Q08379	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Impaired methylation%3B when associated with R-18 and R-35. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20421892;Dbxref=PMID:20421892	
+Q08379	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Impaired methylation%3B when associated with R-18 and R-35. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20421892;Dbxref=PMID:20421892	
+Q08379	UniProtKB	Mutagenesis	37	37	.	.	.	Note=Phosphomimetic mutant. Does not affect interaction with importin-alpha. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26165940;Dbxref=PMID:26165940	
+Q08379	UniProtKB	Mutagenesis	987	987	.	.	.	Note=Abolishes interaction with GORASP1. Abolishes membrane clustering. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26363069;Dbxref=PMID:26363069	
+Q08379	UniProtKB	Mutagenesis	1002	1002	.	.	.	Note=Abolishes interaction with GORASP1. Abolishes membrane clustering. I->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26363069;Dbxref=PMID:26363069	
+Q08379	UniProtKB	Sequence conflict	709	709	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08379	UniProtKB	Sequence conflict	762	762	.	.	.	Note=R->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

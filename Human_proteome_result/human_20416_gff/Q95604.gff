@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q95604 1 372
+Q95604	UniProtKB	Signal peptide	1	24	.	.	.	.	
+Q95604	UniProtKB	Chain	25	372	.	.	.	ID=PRO_0000018880;Note=HLA class I histocompatibility antigen%2C Cw-17 alpha chain	
+Q95604	UniProtKB	Topological domain	25	317	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95604	UniProtKB	Transmembrane	318	338	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95604	UniProtKB	Topological domain	339	372	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q95604	UniProtKB	Domain	209	297	.	.	.	Note=Ig-like C1-type	
+Q95604	UniProtKB	Region	25	114	.	.	.	Note=Alpha-1	
+Q95604	UniProtKB	Region	115	206	.	.	.	Note=Alpha-2	
+Q95604	UniProtKB	Region	207	298	.	.	.	Note=Alpha-3	
+Q95604	UniProtKB	Region	299	317	.	.	.	Note=Connecting peptide	
+Q95604	UniProtKB	Glycosylation	110	110	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+Q95604	UniProtKB	Disulfide bond	125	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q95604	UniProtKB	Disulfide bond	227	283	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q95604	UniProtKB	Natural variant	7	8	.	.	.	ID=VAR_016648;Note=In allele Cw*17:02. QA->RT	
+Q95604	UniProtKB	Natural variant	10	10	.	.	.	ID=VAR_016649;Note=In allele Cw*17:02. L->I	
+Q95604	UniProtKB	Natural variant	24	24	.	.	.	ID=VAR_016650;Note=In allele Cw*17:03. A->T	
+Q95604	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_056512;Note=A->E;Dbxref=dbSNP:rs1050409	
+Q95604	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_056513;Note=V->M;Dbxref=dbSNP:rs1065382	
+Q95604	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_056514;Note=K->N;Dbxref=dbSNP:rs28626310	
+Q95604	UniProtKB	Natural variant	97	97	.	.	.	ID=VAR_056515;Note=A->T;Dbxref=dbSNP:rs41543814	
+Q95604	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_056516;Note=V->M;Dbxref=dbSNP:rs1050276	

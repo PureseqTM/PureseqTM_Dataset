@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P31152 1 587
+P31152	UniProtKB	Chain	1	587	.	.	.	ID=PRO_0000186254;Note=Mitogen-activated protein kinase 4	
+P31152	UniProtKB	Domain	20	312	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P31152	UniProtKB	Nucleotide binding	26	34	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P31152	UniProtKB	Motif	186	188	.	.	.	Note=SEG motif	
+P31152	UniProtKB	Motif	328	333	.	.	.	Note=FRIEDE motif	
+P31152	UniProtKB	Active site	149	149	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+P31152	UniProtKB	Binding site	49	49	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P31152	UniProtKB	Modified residue	186	186	.	.	.	Note=Phosphoserine%3B by PAK1%2C PAK2 and PAK3;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000269|PubMed:21177870;Dbxref=PMID:18669648,PMID:21177870	
+P31152	UniProtKB	Modified residue	434	434	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P31152	UniProtKB	Natural variant	38	38	.	.	.	ID=VAR_042254;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3752087,PMID:15489334,PMID:17344846	
+P31152	UniProtKB	Natural variant	371	371	.	.	.	ID=VAR_042255;Note=R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3752089,PMID:17344846	
+P31152	UniProtKB	Sequence conflict	220	220	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

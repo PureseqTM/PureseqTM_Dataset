@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region P08861 1 270
+P08861	UniProtKB	Signal peptide	1	15	.	.	.	Note=Or 16;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08861	UniProtKB	Propeptide	16	28	.	.	.	ID=PRO_0000027699;Note=Activation peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08861	UniProtKB	Chain	29	270	.	.	.	ID=PRO_0000027700;Note=Chymotrypsin-like elastase family member 3B	
+P08861	UniProtKB	Domain	29	268	.	.	.	Note=Peptidase S1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P08861	UniProtKB	Active site	73	73	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08861	UniProtKB	Active site	123	123	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08861	UniProtKB	Active site	217	217	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P08861	UniProtKB	Glycosylation	114	114	.	.	.	ID=CAR_000212;Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2737288;Dbxref=PMID:2737288	
+P08861	UniProtKB	Disulfide bond	58	74	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P08861	UniProtKB	Disulfide bond	117	120	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08861	UniProtKB	Disulfide bond	157	223	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P08861	UniProtKB	Disulfide bond	188	204	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P08861	UniProtKB	Disulfide bond	213	244	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00274	
+P08861	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_025446;Note=R->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:16710414;Dbxref=dbSNP:rs7528405,PMID:14702039,PMID:15489334,PMID:16710414	
+P08861	UniProtKB	Sequence conflict	4	4	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08861	UniProtKB	Sequence conflict	64	64	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08861	UniProtKB	Sequence conflict	129	131	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08861	UniProtKB	Sequence conflict	164	164	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

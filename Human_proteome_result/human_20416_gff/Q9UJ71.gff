@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region Q9UJ71 1 328
+Q9UJ71	UniProtKB	Chain	1	328	.	.	.	ID=PRO_0000223693;Note=C-type lectin domain family 4 member K	
+Q9UJ71	UniProtKB	Topological domain	1	43	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Transmembrane	44	64	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Topological domain	65	328	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Domain	202	320	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+Q9UJ71	UniProtKB	Coiled coil	145	190	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Glycosylation	87	87	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Glycosylation	113	113	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Glycosylation	180	180	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UJ71	UniProtKB	Disulfide bond	223	319	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:19175323;Dbxref=PMID:19175323	
+Q9UJ71	UniProtKB	Disulfide bond	295	311	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00040,ECO:0000269|PubMed:19175323;Dbxref=PMID:19175323	
+Q9UJ71	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_054781;Note=A->V;Dbxref=dbSNP:rs10489990	
+Q9UJ71	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_056151;Note=Q->E;Dbxref=dbSNP:rs17718987	
+Q9UJ71	UniProtKB	Natural variant	213	213	.	.	.	ID=VAR_054782;Note=P->S;Dbxref=dbSNP:rs17006436	
+Q9UJ71	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_063828;Note=In BIRGD%3B abolishes mannose-binding ability. W->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15816828,ECO:0000269|PubMed:16567809;Dbxref=dbSNP:rs200837270,PMID:15816828,PMID:16567809	
+Q9UJ71	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_054783;Note=No effect on mannose-binding ability. V->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10661407,ECO:0000269|PubMed:16567809;Dbxref=dbSNP:rs741326,PMID:10661407,PMID:16567809	
+Q9UJ71	UniProtKB	Natural variant	288	288	.	.	.	ID=VAR_054784;Note=Significant reduction in mannose-binding ability. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16567809;Dbxref=dbSNP:rs13383830,PMID:16567809	
+Q9UJ71	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_059448;Note=Significant reduction in mannose-binding ability%3B significant decrease in thermal stability%3B increased sensitivity of sugar binding to pH change. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16567809;Dbxref=dbSNP:rs2080391,PMID:16567809	
+Q9UJ71	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Loss of binding to 6'-sulfo-LacNAc and invertase. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20026605;Dbxref=PMID:20026605	
+Q9UJ71	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Loss of binding to 6'-sulfo-LacNAc and invertase. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20026605;Dbxref=PMID:20026605	
+Q9UJ71	UniProtKB	Mutagenesis	299	299	.	.	.	Note=Loss of binding to 6'-sulfo-LacNAc. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20026605;Dbxref=PMID:20026605	
+Q9UJ71	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Loss of binding to 6'-sulfo-LacNAc and 6-sulfo-GlcNAc. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20026605;Dbxref=PMID:20026605	
+Q9UJ71	UniProtKB	Helix	160	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KQG	
+Q9UJ71	UniProtKB	Turn	196	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KQG	
+Q9UJ71	UniProtKB	Beta strand	200	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	205	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Helix	216	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Helix	236	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	251	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Turn	259	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	263	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Helix	274	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Helix	278	280	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Helix	289	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	295	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	300	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	306	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	
+Q9UJ71	UniProtKB	Beta strand	315	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AK8	

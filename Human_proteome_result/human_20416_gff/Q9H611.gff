@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q9H611 1 641
+Q9H611	UniProtKB	Chain	1	641	.	.	.	ID=PRO_0000089980;Note=ATP-dependent DNA helicase PIF1	
+Q9H611	UniProtKB	Nucleotide binding	228	235	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03176	
+Q9H611	UniProtKB	DNA binding	577	596	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03176	
+Q9H611	UniProtKB	Region	1	180	.	.	.	Note=PINT	
+Q9H611	UniProtKB	Region	167	641	.	.	.	Note=Hydrolyzes ATP in the presence of both magnesium and single-stranded DNA%3B weak activity in the presence of RNA or double-stranded DNA%3B No unwinding activity	
+Q9H611	UniProtKB	Modified residue	27	27	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q9H611	UniProtKB	Modified residue	151	151	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163	
+Q9H611	UniProtKB	Alternative sequence	1	53	.	.	.	ID=VSP_047457;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H611	UniProtKB	Alternative sequence	232	266	.	.	.	ID=VSP_026715;Note=In isoform 2. TGKSYLLKRILGSLPPTGTVATASTGVAACHIGGT->SGGREEVGGQWWGGIEEQGDLSNFAPVQEQGSHIC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H611	UniProtKB	Alternative sequence	267	641	.	.	.	ID=VSP_026716;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H611	UniProtKB	Alternative sequence	623	641	.	.	.	ID=VSP_026717;Note=In isoform 3. ESPDDDEAASDQENMDPIL->AAEGRGNEDRCSGSSIRALGGDWWGLRLGAASKQRTELRCVSTARPSLAQPRTNTLQSLTKEHKLQNVHPYFKLLFQGINSVWGH;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+Q9H611	UniProtKB	Natural variant	640	640	.	.	.	ID=VAR_033206;Note=I->N;Dbxref=dbSNP:rs17802279	
+Q9H611	UniProtKB	Mutagenesis	234	234	.	.	.	Note=Loss of ATPase activity. Lower activity for single-stranded DNA. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16522649;Dbxref=PMID:16522649	

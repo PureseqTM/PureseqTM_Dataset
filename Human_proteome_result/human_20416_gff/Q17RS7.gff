@@ -1,0 +1,67 @@
+##gff-version 3
+##sequence-region Q17RS7 1 908
+Q17RS7	UniProtKB	Chain	1	908	.	.	.	ID=PRO_0000314146;Note=Flap endonuclease GEN homolog 1	
+Q17RS7	UniProtKB	Region	2	96	.	.	.	Note=XPG-N domain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Region	122	208	.	.	.	Note=XPG-I domain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Region	208	384	.	.	.	Note=5'-3' exonuclease domain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Region	390	464	.	.	.	Note=Chromodomain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Metal binding	30	30	.	.	.	Note=Magnesium 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q17RS7	UniProtKB	Metal binding	75	75	.	.	.	Note=Magnesium 1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5T9J,ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Metal binding	134	134	.	.	.	Note=Magnesium 1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5T9J,ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Metal binding	136	136	.	.	.	Note=Magnesium 1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q17RS7	UniProtKB	Metal binding	155	155	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q17RS7	UniProtKB	Metal binding	157	157	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q17RS7	UniProtKB	Metal binding	208	208	.	.	.	Note=Magnesium 2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q17RS7	UniProtKB	Modified residue	801	801	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BMI4	
+Q17RS7	UniProtKB	Modified residue	802	802	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BMI4	
+Q17RS7	UniProtKB	Natural variant	92	92	.	.	.	ID=VAR_037844;Note=S->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1812152,PMID:14702039,PMID:15489334	
+Q17RS7	UniProtKB	Natural variant	143	143	.	.	.	ID=VAR_037845;Note=N->S;Dbxref=dbSNP:rs16981869	
+Q17RS7	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_037846;Note=I->V;Dbxref=dbSNP:rs10177628	
+Q17RS7	UniProtKB	Natural variant	275	275	.	.	.	ID=VAR_037847;Note=In a breast cancer sample%3B somatic mutation. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q17RS7	UniProtKB	Natural variant	310	310	.	.	.	ID=VAR_037848;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs300175,PMID:14702039,PMID:15489334	
+Q17RS7	UniProtKB	Natural variant	680	680	.	.	.	ID=VAR_037849;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs300169,PMID:14702039,PMID:15489334	
+Q17RS7	UniProtKB	Natural variant	766	766	.	.	.	ID=VAR_064715;Note=Found in a renal cell carcinoma case%3B somatic mutation. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21248752;Dbxref=PMID:21248752	
+Q17RS7	UniProtKB	Natural variant	898	898	.	.	.	ID=VAR_037850;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs17315702,PMID:14702039	
+Q17RS7	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Abolishes endonuclease activity on both Hollyday junctions and 5' flap substrates. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	36	36	.	.	.	Note=Abolishes endonuclease activity on both Hollyday junctions and 5' flap substrates. C->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Reduces by 50%25 endonuclease activity on both Hollyday junctions and 5' flap substrates. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	89	89	.	.	.	Note=No effect on endonuclease activity on Hollyday junctions. Slightly reduces endonuclease activity on 5' flap substrates. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	93	93	.	.	.	Note=No effect on endonuclease activity on Hollyday junctions. Slightly reduces endonuclease activity on 5' flap substrates. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Strongly reduces endonuclease activity on both Hollyday junctions and 5' flap substrates. H->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Reduces by 25%25 endonuclease activity on Hollyday junctions and by 65%25 on 5' flap substrates. F->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	134	136	.	.	.	Note=Abolishes endonuclease activity. EAE->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26578604;Dbxref=PMID:26578604	
+Q17RS7	UniProtKB	Mutagenesis	380	380	.	.	.	Note=No effect on endonuclease activity on both Hollyday junctions and 5' flap substrates. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	404	404	.	.	.	Note=No effect on endonuclease activity on both Hollyday junctions and 5' flap substrates. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	406	406	.	.	.	Note=No effect on endonuclease activity on both Hollyday junctions and 5' flap substrates. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Mutagenesis	438	438	.	.	.	Note=No effect on endonuclease activity on both Hollyday junctions and 5' flap substrates. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26682650;Dbxref=PMID:26682650	
+Q17RS7	UniProtKB	Helix	6	9	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Turn	10	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	15	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	19	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	26	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	31	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	51	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	69	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	101	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	128	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	135	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	149	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Turn	158	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	164	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	178	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	184	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	195	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	221	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	233	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	311	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	329	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	353	364	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	368	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	399	408	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	411	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Turn	429	431	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	432	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Beta strand	437	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	442	448	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	
+Q17RS7	UniProtKB	Helix	450	466	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5T9J	

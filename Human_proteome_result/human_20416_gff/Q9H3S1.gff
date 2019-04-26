@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q9H3S1 1 761
+Q9H3S1	UniProtKB	Signal peptide	1	32	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Chain	33	761	.	.	.	ID=PRO_0000032322;Note=Semaphorin-4A	
+Q9H3S1	UniProtKB	Topological domain	33	683	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Transmembrane	684	704	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Topological domain	705	761	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Domain	36	494	.	.	.	Note=Sema;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Domain	496	548	.	.	.	Note=PSI	
+Q9H3S1	UniProtKB	Domain	573	631	.	.	.	Note=Ig-like C2-type	
+Q9H3S1	UniProtKB	Glycosylation	120	120	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Glycosylation	135	135	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Glycosylation	496	496	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Glycosylation	607	607	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H3S1	UniProtKB	Disulfide bond	113	124	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Disulfide bond	142	151	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Disulfide bond	269	379	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Disulfide bond	293	339	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Disulfide bond	497	514	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Disulfide bond	506	523	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Disulfide bond	580	624	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9H3S1	UniProtKB	Alternative sequence	1	99	.	.	.	ID=VSP_046381;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H3S1	UniProtKB	Alternative sequence	122	154	.	.	.	ID=VSP_046382;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9H3S1	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_028322;Note=In RP35 and CORD10%3B heterozygous compound with C-350%3B loss of localization to cell membrane. D->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16199541,ECO:0000269|PubMed:22956603;Dbxref=dbSNP:rs267607033,PMID:16199541,PMID:22956603	
+Q9H3S1	UniProtKB	Natural variant	350	350	.	.	.	ID=VAR_028323;Note=In RP35 and CORD10%3B heterozygous compound with H-345%3B loss of localization to cell membrane. F->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16199541,ECO:0000269|PubMed:22956603;Dbxref=dbSNP:rs267607034,PMID:16199541,PMID:22956603	
+Q9H3S1	UniProtKB	Natural variant	510	510	.	.	.	ID=VAR_028324;Note=R->Q;Dbxref=dbSNP:rs2075164	
+Q9H3S1	UniProtKB	Natural variant	713	713	.	.	.	ID=VAR_028325;Note=Polymorphism%3B originally reported as mutation causing retinitis pigmentosa%3B no effect on localization to cell membrane. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16199541,ECO:0000269|PubMed:22956603,ECO:0000269|PubMed:28805479;Dbxref=dbSNP:rs41265017,PMID:16199541,PMID:22956603,PMID:28805479	
+Q9H3S1	UniProtKB	Sequence conflict	293	328	.	.	.	Note=CTQPGQLPFNVIRHAVLLPADSPTAPHIYAVFTSQW->SAPSRGSCPSTSSATRSCSPPILPQLPTSTQSSPPSG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H3S1	UniProtKB	Sequence conflict	354	354	.	.	.	Note=Y->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H3S1	UniProtKB	Sequence conflict	641	641	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

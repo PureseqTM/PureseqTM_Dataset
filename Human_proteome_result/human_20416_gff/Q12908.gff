@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region Q12908 1 348
+Q12908	UniProtKB	Chain	1	348	.	.	.	ID=PRO_0000052339;Note=Ileal sodium/bile acid cotransporter	
+Q12908	UniProtKB	Topological domain	1	28	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	29	49	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	50	82	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	83	103	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	104	126	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	127	147	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	148	157	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	158	178	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	179	195	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	196	216	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	217	224	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	225	245	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	246	284	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Transmembrane	285	305	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Topological domain	306	348	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q12908	UniProtKB	Site	328	328	.	.	.	Note=Not glycosylated	
+Q12908	UniProtKB	Modified residue	335	335	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70172	
+Q12908	UniProtKB	Glycosylation	10	10	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15350125;Dbxref=PMID:15350125	
+Q12908	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_024837;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11589382,ECO:0000269|PubMed:11742882;Dbxref=dbSNP:rs55971546,PMID:11589382,PMID:11742882	
+Q12908	UniProtKB	Natural variant	159	159	.	.	.	ID=VAR_024838;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11742882;Dbxref=dbSNP:rs60380298,PMID:11742882	
+Q12908	UniProtKB	Natural variant	171	171	.	.	.	ID=VAR_004613;Note=S->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11589382,ECO:0000269|PubMed:11742882,ECO:0000269|PubMed:12364586,ECO:0000269|PubMed:15057823,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7592981,ECO:0000269|PubMed:9109432;Dbxref=dbSNP:rs188096,PMID:11589382,PMID:11742882,PMID:12364586,PMID:15057823,PMID:15489334,PMID:7592981,PMID:9109432	
+Q12908	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_004614;Note=In PBAM%3B abolishes taurocholate transport. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9109432;Dbxref=dbSNP:rs121917848,PMID:9109432	
+Q12908	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_004615;Note=In PBAM%3B abolishes taurocholate transport. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9109432;Dbxref=dbSNP:rs72547505,PMID:9109432	
+Q12908	UniProtKB	Natural variant	290	290	.	.	.	ID=VAR_004616;Note=In a patient with Crohn disease%3B abolishes taurocholate transport. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7592981;Dbxref=dbSNP:rs56398830,PMID:7592981	
+Q12908	UniProtKB	Mutagenesis	10	10	.	.	.	Note=Abolishes glycosylation. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15350125;Dbxref=PMID:15350125	
+Q12908	UniProtKB	Mutagenesis	328	328	.	.	.	Note=No effect on glycosylation. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15350125;Dbxref=PMID:15350125	

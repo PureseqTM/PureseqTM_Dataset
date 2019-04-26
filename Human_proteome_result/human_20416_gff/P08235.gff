@@ -1,0 +1,87 @@
+##gff-version 3
+##sequence-region P08235 1 984
+P08235	UniProtKB	Chain	1	984	.	.	.	ID=PRO_0000053682;Note=Mineralocorticoid receptor	
+P08235	UniProtKB	Domain	726	964	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P08235	UniProtKB	DNA binding	603	668	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P08235	UniProtKB	Zinc finger	603	623	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P08235	UniProtKB	Zinc finger	639	663	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P08235	UniProtKB	Region	1	602	.	.	.	Note=Modulating	
+P08235	UniProtKB	Region	669	725	.	.	.	Note=Hinge	
+P08235	UniProtKB	Region	782	785	.	.	.	Note=Important for coactivator binding	
+P08235	UniProtKB	Binding site	770	770	.	.	.	Note=Steroid	
+P08235	UniProtKB	Binding site	776	776	.	.	.	Note=Steroid	
+P08235	UniProtKB	Binding site	817	817	.	.	.	Note=Steroid	
+P08235	UniProtKB	Binding site	945	945	.	.	.	Note=Steroid	
+P08235	UniProtKB	Modified residue	250	250	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VII8	
+P08235	UniProtKB	Modified residue	259	259	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VII8	
+P08235	UniProtKB	Modified residue	283	283	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VII8	
+P08235	UniProtKB	Modified residue	287	287	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VII8	
+P08235	UniProtKB	Modified residue	299	299	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VII8	
+P08235	UniProtKB	Alternative sequence	633	633	.	.	.	ID=VSP_007357;Note=In isoform 3. G->GKCSW;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08235	UniProtKB	Alternative sequence	672	788	.	.	.	ID=VSP_007360;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11518808,ECO:0000303|PubMed:15489334;Dbxref=PMID:11518808,PMID:15489334	
+P08235	UniProtKB	Alternative sequence	672	706	.	.	.	ID=VSP_007358;Note=In isoform 2. ARKSKKLGKLKGIHEEQPQQQQPPPPPPPPQSPEE->ERRCISLPCMNYARGCTKSAFSSFDCSSPLKNTPS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11518808;Dbxref=PMID:11518808	
+P08235	UniProtKB	Alternative sequence	707	984	.	.	.	ID=VSP_007359;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11518808;Dbxref=PMID:11518808	
+P08235	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_036063;Note=In a colorectal cancer sample%3B somatic mutation. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P08235	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_014623;Note=Common polymorphism%3B decreased mineralocorticoid receptor activity. V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10391210,ECO:0000269|PubMed:11518808,ECO:0000269|PubMed:12483305;Dbxref=dbSNP:rs5522,PMID:10391210,PMID:11518808,PMID:12483305	
+P08235	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_015625;Note=Polymorphism%3B changed mineralocorticoid receptor activity%3B changed response curve to aldosterone stimulation. V->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11518808,ECO:0000269|PubMed:12483305;Dbxref=PMID:11518808,PMID:12483305	
+P08235	UniProtKB	Natural variant	444	444	.	.	.	ID=VAR_014624;Note=N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391210;Dbxref=dbSNP:rs5523,PMID:10391210	
+P08235	UniProtKB	Natural variant	537	537	.	.	.	ID=VAR_014625;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391210;Dbxref=dbSNP:rs5526,PMID:10391210	
+P08235	UniProtKB	Natural variant	554	554	.	.	.	ID=VAR_014626;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10391210;Dbxref=dbSNP:rs5527,PMID:10391210	
+P08235	UniProtKB	Natural variant	633	633	.	.	.	ID=VAR_031268;Note=In PHA1A%3B reduces transcription transactivation upon aldosterone binding. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12788847;Dbxref=PMID:12788847	
+P08235	UniProtKB	Natural variant	645	645	.	.	.	ID=VAR_031269;Note=In PHA1A. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	659	659	.	.	.	ID=VAR_031270;Note=In PHA1A. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	759	759	.	.	.	ID=VAR_031271;Note=In PHA1A. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	769	769	.	.	.	ID=VAR_031272;Note=In PHA1A. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	770	770	.	.	.	ID=VAR_031273;Note=In PHA1A. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	776	776	.	.	.	ID=VAR_031274;Note=In PHA1A%3B reduces aldosterone binding. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12788847;Dbxref=dbSNP:rs121912565,PMID:12788847	
+P08235	UniProtKB	Natural variant	805	805	.	.	.	ID=VAR_031275;Note=In PHA1A. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	810	810	.	.	.	ID=VAR_015626;Note=In EOHSEP%3B alters receptor specificity and leads to constitutive activation. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10884226,ECO:0000269|PubMed:15908963,ECO:0000269|PubMed:15967794;Dbxref=dbSNP:rs41511344,PMID:10884226,PMID:15908963,PMID:15967794	
+P08235	UniProtKB	Natural variant	815	815	.	.	.	ID=VAR_031276;Note=In PHA1A. S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16972228;Dbxref=PMID:16972228	
+P08235	UniProtKB	Natural variant	818	818	.	.	.	ID=VAR_031277;Note=In PHA1A%3B abolishes translocation to the nucleus and transcription transactivation upon aldosterone binding. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16954160;Dbxref=dbSNP:rs121912573,PMID:16954160	
+P08235	UniProtKB	Natural variant	826	826	.	.	.	ID=VAR_029311;Note=F->Y;Dbxref=dbSNP:rs13306592	
+P08235	UniProtKB	Natural variant	924	924	.	.	.	ID=VAR_015627;Note=In PHA1A%3B abolishes transcription transactivation upon aldosterone binding. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11134129,ECO:0000269|PubMed:12788847;Dbxref=dbSNP:rs121912563,PMID:11134129,PMID:12788847	
+P08235	UniProtKB	Natural variant	972	972	.	.	.	ID=VAR_031278;Note=In PHA1A%3B reduces affinity for aldosterone and transcription transactivation. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16954160;Dbxref=dbSNP:rs121912574,PMID:16954160	
+P08235	UniProtKB	Natural variant	979	979	.	.	.	ID=VAR_031279;Note=In PHA1A%3B loss of aldosterone binding and transcription transactivation. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12788847;Dbxref=dbSNP:rs121912567,PMID:12788847	
+P08235	UniProtKB	Mutagenesis	767	767	.	.	.	Note=Loss of transcription transactivation. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15967794;Dbxref=PMID:15967794	
+P08235	UniProtKB	Mutagenesis	767	767	.	.	.	Note=Strong decrease of transcription transactivation. S->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15967794;Dbxref=PMID:15967794	
+P08235	UniProtKB	Mutagenesis	770	770	.	.	.	Note=Abolishes aldosterone binding and transcription transactivation. N->A%2CD%2CH%2CQ%2CS%2CT;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10760050,ECO:0000269|PubMed:15967794;Dbxref=PMID:10760050,PMID:15967794	
+P08235	UniProtKB	Mutagenesis	776	776	.	.	.	Note=Reduces aldosterone binding and transcription transactivation. Q->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10760050,ECO:0000269|PubMed:15908963;Dbxref=PMID:10760050,PMID:15908963	
+P08235	UniProtKB	Mutagenesis	782	782	.	.	.	Note=Decreased coactivator binding. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16061183;Dbxref=PMID:16061183	
+P08235	UniProtKB	Mutagenesis	785	785	.	.	.	Note=Loss of coactivator binding. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16061183;Dbxref=PMID:16061183	
+P08235	UniProtKB	Mutagenesis	796	796	.	.	.	Note=Decreased coactivator binding. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16061183;Dbxref=PMID:16061183	
+P08235	UniProtKB	Mutagenesis	808	808	.	.	.	Note=Increases aldosterone-binding. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9724527;Dbxref=PMID:9724527	
+P08235	UniProtKB	Mutagenesis	810	810	.	.	.	Note=Alters receptor specificity. S->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10884226;Dbxref=PMID:10884226	
+P08235	UniProtKB	Mutagenesis	817	817	.	.	.	Note=Reduces aldosterone binding and transcription transactivation. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10760050,ECO:0000269|PubMed:15908963;Dbxref=PMID:10760050,PMID:15908963	
+P08235	UniProtKB	Mutagenesis	849	849	.	.	.	Note=Strongly decreases affinity for aldosterone and transcription transactivation. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9724527;Dbxref=PMID:9724527	
+P08235	UniProtKB	Mutagenesis	942	942	.	.	.	Note=Abolishes steroid binding and transcription transactivation. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9724527;Dbxref=PMID:9724527	
+P08235	UniProtKB	Mutagenesis	945	945	.	.	.	Note=Decreases aldosterone-binding and cortisol-binding. T->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10760050,ECO:0000269|PubMed:15967794;Dbxref=PMID:10760050,PMID:15967794	
+P08235	UniProtKB	Mutagenesis	952	952	.	.	.	Note=Reduces transcription transactivation. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10935545;Dbxref=PMID:10935545	
+P08235	UniProtKB	Mutagenesis	953	953	.	.	.	Note=Slightly reduces aldosterone binding and abolishes transcription transactivation. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10935545;Dbxref=PMID:10935545	
+P08235	UniProtKB	Mutagenesis	954	954	.	.	.	Note=Reduces aldosterone binding and abolishes transcription transactivation. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10935545;Dbxref=PMID:10935545	
+P08235	UniProtKB	Mutagenesis	956	956	.	.	.	Note=Abolishes aldosterone binding and transcription transactivation. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10935545;Dbxref=PMID:10935545	
+P08235	UniProtKB	Mutagenesis	957	957	.	.	.	Note=Slightly reduces aldosterone binding and transcription transactivation. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10935545;Dbxref=PMID:10935545	
+P08235	UniProtKB	Sequence conflict	946	946	.	.	.	Note=F->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08235	UniProtKB	Turn	604	606	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TNT	
+P08235	UniProtKB	Beta strand	612	614	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TNT	
+P08235	UniProtKB	Helix	621	632	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TNT	
+P08235	UniProtKB	Beta strand	640	643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TNT	
+P08235	UniProtKB	Turn	649	654	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TNT	
+P08235	UniProtKB	Helix	656	665	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4TNT	
+P08235	UniProtKB	Helix	728	733	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VHV	
+P08235	UniProtKB	Helix	738	745	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	762	785	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	790	792	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	795	822	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Beta strand	825	830	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Beta strand	833	835	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	837	842	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	846	862	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	866	877	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Beta strand	879	881	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	889	909	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	911	913	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Turn	914	916	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UDB	
+P08235	UniProtKB	Helix	917	947	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	949	952	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Helix	958	972	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PF3	
+P08235	UniProtKB	Beta strand	976	978	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VHV	

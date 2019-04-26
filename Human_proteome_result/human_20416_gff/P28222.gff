@@ -1,0 +1,64 @@
+##gff-version 3
+##sequence-region P28222 1 390
+P28222	UniProtKB	Chain	1	390	.	.	.	ID=PRO_0000068916;Note=5-hydroxytryptamine receptor 1B	
+P28222	UniProtKB	Topological domain	1	49	.	.	.	Note=Extracellular	
+P28222	UniProtKB	Transmembrane	50	75	.	.	.	Note=Helical%3B Name%3D1	
+P28222	UniProtKB	Topological domain	76	84	.	.	.	Note=Cytoplasmic	
+P28222	UniProtKB	Transmembrane	85	110	.	.	.	Note=Helical%3B Name%3D2	
+P28222	UniProtKB	Topological domain	111	123	.	.	.	Note=Extracellular	
+P28222	UniProtKB	Transmembrane	124	145	.	.	.	Note=Helical%3B Name%3D3	
+P28222	UniProtKB	Topological domain	146	165	.	.	.	Note=Cytoplasmic	
+P28222	UniProtKB	Transmembrane	166	187	.	.	.	Note=Helical%3B Name%3D4	
+P28222	UniProtKB	Topological domain	188	205	.	.	.	Note=Extracellular	
+P28222	UniProtKB	Transmembrane	206	228	.	.	.	Note=Helical%3B Name%3D5	
+P28222	UniProtKB	Topological domain	229	315	.	.	.	Note=Cytoplasmic	
+P28222	UniProtKB	Transmembrane	316	336	.	.	.	Note=Helical%3B Name%3D6	
+P28222	UniProtKB	Topological domain	337	349	.	.	.	Note=Extracellular	
+P28222	UniProtKB	Transmembrane	350	371	.	.	.	Note=Helical%3B Name%3D7	
+P28222	UniProtKB	Topological domain	372	390	.	.	.	Note=Cytoplasmic	
+P28222	UniProtKB	Region	125	134	.	.	.	Note=Agonist binding	
+P28222	UniProtKB	Region	327	331	.	.	.	Note=Agonist binding	
+P28222	UniProtKB	Motif	146	148	.	.	.	Note=DRY motif%3B important for ligand-induced conformation changes and signaling	
+P28222	UniProtKB	Motif	365	369	.	.	.	Note=NPxxY motif%3B important for ligand-induced conformation changes and signaling	
+P28222	UniProtKB	Site	355	355	.	.	.	Note=Important for species-specific agonist sensitivity	
+P28222	UniProtKB	Lipidation	388	388	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P28222	UniProtKB	Glycosylation	24	24	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P28222	UniProtKB	Glycosylation	32	32	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P28222	UniProtKB	Disulfide bond	122	199	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00521,ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_011715;Note=F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7802650;Dbxref=dbSNP:rs130060,PMID:7802650	
+P28222	UniProtKB	Natural variant	219	219	.	.	.	ID=VAR_011831;Note=F->L;Dbxref=dbSNP:rs130061	
+P28222	UniProtKB	Natural variant	367	367	.	.	.	ID=VAR_011832;Note=I->V;Dbxref=dbSNP:rs130063	
+P28222	UniProtKB	Natural variant	374	374	.	.	.	ID=VAR_011833;Note=E->K;Dbxref=dbSNP:rs130064	
+P28222	UniProtKB	Mutagenesis	126	126	.	.	.	Note=No effect on agonist binding. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	129	129	.	.	.	Note=Abolishes agonist binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	130	130	.	.	.	Note=Abolishes agonist binding. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	133	133	.	.	.	Note=Abolishes agonist binding. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	134	134	.	.	.	Note=Slightly decreases agonist binding. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	200	200	.	.	.	Note=No effect on agonist binding. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	201	201	.	.	.	Note=No effect on agonist binding. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	203	203	.	.	.	Note=No effect on agonist binding. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	209	209	.	.	.	Note=No effect on agonist binding. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	212	212	.	.	.	Note=No effect on agonist binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	216	216	.	.	.	Note=No effect on agonist binding. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	327	327	.	.	.	Note=Abolishes agonist binding. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	330	330	.	.	.	Note=Abolishes agonist binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	331	331	.	.	.	Note=No effect on agonist binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	334	334	.	.	.	Note=No effect on agonist binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	337	337	.	.	.	Note=No effect on agonist binding. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	351	351	.	.	.	Note=No effect on agonist binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	352	352	.	.	.	Note=No effect on agonist binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	355	355	.	.	.	Note=No effect on agonist binding. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Mutagenesis	359	359	.	.	.	Note=No effect on agonist binding. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23519210;Dbxref=PMID:23519210	
+P28222	UniProtKB	Helix	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	46	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	78	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	83	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	104	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	118	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	154	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	163	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	206	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	218	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	311	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	349	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	
+P28222	UniProtKB	Helix	374	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4IAR	

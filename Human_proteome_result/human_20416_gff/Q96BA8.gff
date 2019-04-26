@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q96BA8 1 519
+Q96BA8	UniProtKB	Chain	1	519	.	.	.	ID=PRO_0000288064;Note=Cyclic AMP-responsive element-binding protein 3-like protein 1	
+Q96BA8	UniProtKB	Topological domain	1	374	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96BA8	UniProtKB	Transmembrane	375	395	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96BA8	UniProtKB	Topological domain	396	519	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96BA8	UniProtKB	Domain	290	353	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q96BA8	UniProtKB	Region	1	60	.	.	.	Note=Required for transcriptional activation	
+Q96BA8	UniProtKB	Region	292	321	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q96BA8	UniProtKB	Region	332	353	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+Q96BA8	UniProtKB	Motif	392	395	.	.	.	Note=S2P recognition;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21767813;Dbxref=PMID:21767813	
+Q96BA8	UniProtKB	Motif	423	426	.	.	.	Note=S1P recognition;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:21767813;Dbxref=PMID:21767813	
+Q96BA8	UniProtKB	Compositional bias	146	154	.	.	.	Note=Poly-Ala	
+Q96BA8	UniProtKB	Site	426	427	.	.	.	Note=Cleavage%3B by S1P;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96BA8	UniProtKB	Glycosylation	492	492	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96BA8	UniProtKB	Glycosylation	513	513	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96BA8	UniProtKB	Cross-link	184	184	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q96BA8	UniProtKB	Alternative sequence	111	198	.	.	.	ID=VSP_025632;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96BA8	UniProtKB	Natural variant	411	411	.	.	.	ID=VAR_032392;Note=A->T;Dbxref=dbSNP:rs35652107	
+Q96BA8	UniProtKB	Mutagenesis	392	392	.	.	.	Note=Abolishes proteolytic cleavage by S2P%3B when associated with A-395. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21767813;Dbxref=PMID:21767813	
+Q96BA8	UniProtKB	Mutagenesis	392	392	.	.	.	Note=Abolishes proteolytic cleavage by S2P. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417584;Dbxref=PMID:16417584	
+Q96BA8	UniProtKB	Mutagenesis	395	395	.	.	.	Note=Abolishes proteolytic cleavage by S2P%3B when associated with A-392. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21767813;Dbxref=PMID:21767813	
+Q96BA8	UniProtKB	Mutagenesis	423	423	.	.	.	Note=Abolishes proteolytic cleavage by S1P. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16417584,ECO:0000269|PubMed:21767813;Dbxref=PMID:16417584,PMID:21767813	
+Q96BA8	UniProtKB	Mutagenesis	426	426	.	.	.	Note=Abolishes proteolytic cleavage by S1P. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16417584;Dbxref=PMID:16417584	
+Q96BA8	UniProtKB	Sequence conflict	249	249	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region O14618 1 274
+O14618	UniProtKB	Chain	1	274	.	.	.	ID=PRO_0000213543;Note=Copper chaperone for superoxide dismutase	
+O14618	UniProtKB	Domain	12	75	.	.	.	Note=HMA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00280	
+O14618	UniProtKB	Region	88	234	.	.	.	Note=Superoxide dismutase-like	
+O14618	UniProtKB	Metal binding	22	22	.	.	.	Note=Copper 1;Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RSQ	
+O14618	UniProtKB	Metal binding	25	25	.	.	.	Note=Copper 1;Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RSQ	
+O14618	UniProtKB	Metal binding	147	147	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:1DO5,ECO:0000255|PROSITE-ProRule:PRU00280,ECO:0000269|PubMed:10677207;Dbxref=PMID:10677207	
+O14618	UniProtKB	Metal binding	155	155	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:1DO5,ECO:0000255|PROSITE-ProRule:PRU00280,ECO:0000269|PubMed:10677207;Dbxref=PMID:10677207	
+O14618	UniProtKB	Metal binding	164	164	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:1DO5,ECO:0000255|PROSITE-ProRule:PRU00280,ECO:0000269|PubMed:10677207;Dbxref=PMID:10677207	
+O14618	UniProtKB	Metal binding	167	167	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000255,ECO:0000269;evidence=ECO:0000244|PDB:1DO5,ECO:0000255|PROSITE-ProRule:PRU00280,ECO:0000269|PubMed:10677207;Dbxref=PMID:10677207	
+O14618	UniProtKB	Metal binding	244	244	.	.	.	Note=Copper 2	
+O14618	UniProtKB	Metal binding	246	246	.	.	.	Note=Copper 2	
+O14618	UniProtKB	Modified residue	267	267	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O14618	UniProtKB	Disulfide bond	141	227	.	.	.	Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:1DO5,ECO:0000269|PubMed:10677207;Dbxref=PMID:10677207	
+O14618	UniProtKB	Cross-link	76	76	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154138;Dbxref=PMID:20154138	
+O14618	UniProtKB	Cross-link	189	189	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154138;Dbxref=PMID:20154138	
+O14618	UniProtKB	Cross-link	216	216	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154138;Dbxref=PMID:20154138	
+O14618	UniProtKB	Cross-link	241	241	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20154138;Dbxref=PMID:20154138	
+O14618	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_068078;Note=Found in a patient with congenital cataracts%2C hearing loss%2C neurodegeneration%2C neonatal hypotonia and hypoglycemia%2C pericardial effusion and neurodevelopmental regression after infection%3B the patient also carries a mutation in SLC33A1%3B mutant protein does not interact with SOD1. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22508683;Dbxref=dbSNP:rs142340643,PMID:22508683	
+O14618	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Reduces copper binding by half%3B when associated with S-25. Negligible effect on zinc binding. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15736924;Dbxref=PMID:15736924	
+O14618	UniProtKB	Mutagenesis	25	25	.	.	.	Note=Reduces copper binding by half%3B when associated with S-22. Negligible effect on zinc binding. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15736924;Dbxref=PMID:15736924	
+O14618	UniProtKB	Mutagenesis	244	244	.	.	.	Note=Reduces copper binding by half%3B when associated with S-246. Negligible effect on zinc binding. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15736924;Dbxref=PMID:15736924	
+O14618	UniProtKB	Mutagenesis	246	246	.	.	.	Note=Reduces copper binding by half%3B when associated with S-244. Negligible effect on zinc binding. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15736924;Dbxref=PMID:15736924	
+O14618	UniProtKB	Sequence conflict	116	116	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14618	UniProtKB	Beta strand	12	18	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Helix	23	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Turn	32	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Beta strand	41	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Turn	46	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Beta strand	50	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Helix	59	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Turn	68	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Beta strand	73	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CRL	
+O14618	UniProtKB	Beta strand	87	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	96	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	100	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	112	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	124	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Helix	140	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	167	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	177	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Helix	190	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	196	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Turn	213	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	224	229	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	
+O14618	UniProtKB	Beta strand	231	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DO5	

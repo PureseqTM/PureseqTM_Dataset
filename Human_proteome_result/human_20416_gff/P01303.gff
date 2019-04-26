@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P01303 1 97
+P01303	UniProtKB	Signal peptide	1	28	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6589611;Dbxref=PMID:6589611	
+P01303	UniProtKB	Peptide	29	64	.	.	.	ID=PRO_0000025321;Note=Neuropeptide Y	
+P01303	UniProtKB	Peptide	68	97	.	.	.	ID=PRO_0000025322;Note=C-flanking peptide of NPY	
+P01303	UniProtKB	Site	30	31	.	.	.	Note=Cleavage%3B by FAP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21314817;Dbxref=PMID:21314817	
+P01303	UniProtKB	Modified residue	64	64	.	.	.	Note=Tyrosine amide;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:6589611;Dbxref=PMID:6589611	
+P01303	UniProtKB	Modified residue	83	83	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P01303	UniProtKB	Natural variant	7	7	.	.	.	ID=VAR_014598;Note=L->P;Dbxref=dbSNP:rs16139	
+P01303	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_014599;Note=L->M;Dbxref=dbSNP:rs5571	
+P01303	UniProtKB	Sequence conflict	53	53	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01303	UniProtKB	Beta strand	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RON	
+P01303	UniProtKB	Helix	41	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1RON	
+P01303	UniProtKB	Helix	53	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QFA	

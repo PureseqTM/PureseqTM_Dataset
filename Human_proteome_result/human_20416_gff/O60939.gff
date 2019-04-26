@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region O60939 1 215
+O60939	UniProtKB	Signal peptide	1	29	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60939	UniProtKB	Chain	30	215	.	.	.	ID=PRO_0000014931;Note=Sodium channel subunit beta-2	
+O60939	UniProtKB	Topological domain	30	159	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60939	UniProtKB	Transmembrane	160	180	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60939	UniProtKB	Topological domain	181	215	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60939	UniProtKB	Domain	32	154	.	.	.	Note=Ig-like C2-type	
+O60939	UniProtKB	Modified residue	192	192	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P54900	
+O60939	UniProtKB	Modified residue	204	204	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P54900	
+O60939	UniProtKB	Glycosylation	42	42	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60939	UniProtKB	Glycosylation	66	66	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60939	UniProtKB	Glycosylation	74	74	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60939	UniProtKB	Disulfide bond	50	127	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:22992729;Dbxref=PMID:22992729	
+O60939	UniProtKB	Disulfide bond	55	55	.	.	.	Note=Interchain%3B with alpha subunit;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:22992729;Dbxref=PMID:22992729	
+O60939	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_070229;Note=In ATFB14%3B the mutant results in reduced sodium currents and altered channel gating when coexpressed with SCN5A in a heterologous expression system. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19808477;Dbxref=dbSNP:rs72544145,PMID:19808477	
+O60939	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_029131;Note=In ATFB14%3B the mutant results in reduced sodium currents and altered channel gating when coexpressed with SCN5A in a heterologous expression system. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19808477;Dbxref=dbSNP:rs17121819,PMID:19808477	
+O60939	UniProtKB	Natural variant	47	47	.	.	.	ID=VAR_029132;Note=R->H;Dbxref=dbSNP:rs17121818	
+O60939	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_070230;Note=Found in a patient with Brugada syndrome%3B unknown pathological significance%3B induces a reduction in sodium current density most likely by decreasing SCN5A protein cell surface expression. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23559163;Dbxref=dbSNP:rs587777023,PMID:23559163	
+O60939	UniProtKB	Sequence conflict	2	2	.	.	.	Note=H->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Sequence conflict	8	8	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Sequence conflict	15	15	.	.	.	Note=T->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Sequence conflict	48	48	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Sequence conflict	68	68	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Sequence conflict	156	156	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Sequence conflict	178	179	.	.	.	Note=MV->TA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60939	UniProtKB	Beta strand	36	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	46	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Turn	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	64	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	77	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Helix	93	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Helix	105	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Helix	119	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	123	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	
+O60939	UniProtKB	Beta strand	138	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FEB	

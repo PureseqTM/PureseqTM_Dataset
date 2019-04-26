@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q6ZMC9 1 328
+Q6ZMC9	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6ZMC9	UniProtKB	Chain	20	328	.	.	.	ID=PRO_0000294369;Note=Sialic acid-binding Ig-like lectin 15	
+Q6ZMC9	UniProtKB	Topological domain	20	263	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6ZMC9	UniProtKB	Transmembrane	264	284	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6ZMC9	UniProtKB	Topological domain	285	328	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6ZMC9	UniProtKB	Domain	40	158	.	.	.	Note=Ig-like V-type	
+Q6ZMC9	UniProtKB	Domain	168	251	.	.	.	Note=Ig-like C2-type	
+Q6ZMC9	UniProtKB	Compositional bias	276	279	.	.	.	Note=Poly-Leu	
+Q6ZMC9	UniProtKB	Binding site	143	143	.	.	.	Note=Sialic acid;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6ZMC9	UniProtKB	Glycosylation	172	172	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6ZMC9	UniProtKB	Disulfide bond	64	142	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q6ZMC9	UniProtKB	Disulfide bond	95	104	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q6ZMC9	UniProtKB	Disulfide bond	187	237	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q6ZMC9	UniProtKB	Alternative sequence	1	12	.	.	.	ID=VSP_056817;Note=In isoform 2. MEKSIWLLACLA->MTATRAATASGS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6ZMC9	UniProtKB	Alternative sequence	13	166	.	.	.	ID=VSP_056818;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q6ZMC9	UniProtKB	Natural variant	273	273	.	.	.	ID=VAR_033174;Note=F->L;Dbxref=dbSNP:rs2919643	
+Q6ZMC9	UniProtKB	Mutagenesis	143	143	.	.	.	Note=Abrogates glycan-binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17483134;Dbxref=PMID:17483134	
+Q6ZMC9	UniProtKB	Mutagenesis	274	274	.	.	.	Note=Abrogates interaction with HCST and TYROBP. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17483134;Dbxref=PMID:17483134	

@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q9NPR2 1 832
+Q9NPR2	UniProtKB	Signal peptide	1	38	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+Q9NPR2	UniProtKB	Chain	39	832	.	.	.	ID=PRO_0000032324;Note=Semaphorin-4B	
+Q9NPR2	UniProtKB	Topological domain	39	712	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Transmembrane	713	733	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Topological domain	734	832	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Domain	42	518	.	.	.	Note=Sema;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Domain	520	574	.	.	.	Note=PSI	
+Q9NPR2	UniProtKB	Domain	599	658	.	.	.	Note=Ig-like C2-type	
+Q9NPR2	UniProtKB	Compositional bias	753	776	.	.	.	Note=Pro-rich	
+Q9NPR2	UniProtKB	Modified residue	788	788	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NPR2	UniProtKB	Modified residue	813	813	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17081983;Dbxref=PMID:17081983	
+Q9NPR2	UniProtKB	Modified residue	825	825	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:18669648,PMID:23186163	
+Q9NPR2	UniProtKB	Glycosylation	64	64	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+Q9NPR2	UniProtKB	Glycosylation	91	91	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Glycosylation	160	160	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Glycosylation	405	405	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+Q9NPR2	UniProtKB	Glycosylation	520	520	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Glycosylation	625	625	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NPR2	UniProtKB	Disulfide bond	115	126	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Disulfide bond	144	153	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Disulfide bond	281	394	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Disulfide bond	305	354	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Disulfide bond	521	538	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Disulfide bond	606	651	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00352	
+Q9NPR2	UniProtKB	Alternative sequence	709	832	.	.	.	ID=VSP_012460;Note=In isoform 2. YWKEFLVMCTLFVLAVLLPVLFLLYRHRNSMKVFLKQGECASVHPKTCPVVLPPETRPLNGLGPPSTPLDHRGYQSLSDSPPGSRVFTESEKRPLSIQDSFVEVSPVCPRPRVRLGSEIRDSVV->WARTQLLDLSSLYQAVATREDSASSGEIS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NPR2	UniProtKB	Natural variant	792	792	.	.	.	ID=VAR_010758;Note=S->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12975309,ECO:0000269|PubMed:15489334,ECO:0000269|Ref.1,ECO:0000269|Ref.6;Dbxref=PMID:12975309,PMID:15489334	
+Q9NPR2	UniProtKB	Sequence conflict	160	160	.	.	.	Note=N->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NPR2	UniProtKB	Sequence conflict	565	565	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	

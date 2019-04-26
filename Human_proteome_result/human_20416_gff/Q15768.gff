@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q15768 1 340
+Q15768	UniProtKB	Signal peptide	1	27	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15340161;Dbxref=PMID:15340161	
+Q15768	UniProtKB	Chain	28	340	.	.	.	ID=PRO_0000008395;Note=Ephrin-B3	
+Q15768	UniProtKB	Topological domain	28	226	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15768	UniProtKB	Transmembrane	227	247	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15768	UniProtKB	Topological domain	248	340	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15768	UniProtKB	Domain	28	167	.	.	.	Note=Ephrin RBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00884	
+Q15768	UniProtKB	Motif	338	340	.	.	.	Note=PDZ-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15768	UniProtKB	Modified residue	271	271	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35393	
+Q15768	UniProtKB	Modified residue	274	274	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q15768	UniProtKB	Glycosylation	210	210	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15768	UniProtKB	Disulfide bond	62	104	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00884	
+Q15768	UniProtKB	Disulfide bond	92	156	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00884	
+Q15768	UniProtKB	Natural variant	166	166	.	.	.	ID=VAR_002356;Note=R->Q	
+Q15768	UniProtKB	Mutagenesis	124	125	.	.	.	Note=Complete loss of Nipah protein G binding. LW->YM;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16477309;Dbxref=PMID:16477309	

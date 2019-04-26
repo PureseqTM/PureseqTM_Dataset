@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q13425 1 540
+Q13425	UniProtKB	Chain	1	540	.	.	.	ID=PRO_0000184011;Note=Beta-2-syntrophin	
+Q13425	UniProtKB	Domain	115	198	.	.	.	Note=PDZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q13425	UniProtKB	Domain	163	300	.	.	.	Note=PH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q13425	UniProtKB	Domain	325	437	.	.	.	Note=PH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q13425	UniProtKB	Domain	484	540	.	.	.	Note=SU	
+Q13425	UniProtKB	Region	518	540	.	.	.	Note=Calmodulin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13425	UniProtKB	Compositional bias	54	57	.	.	.	Note=Poly-Ala	
+Q13425	UniProtKB	Compositional bias	66	69	.	.	.	Note=Poly-Ala	
+Q13425	UniProtKB	Modified residue	95	95	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18691976,PMID:20068231,PMID:23186163,PMID:24275569	
+Q13425	UniProtKB	Modified residue	110	110	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:18220336,PMID:20068231,PMID:23186163,PMID:24275569	
+Q13425	UniProtKB	Modified residue	129	129	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13425	UniProtKB	Modified residue	211	211	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q13425	UniProtKB	Modified residue	222	222	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q13425	UniProtKB	Modified residue	233	233	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q13425	UniProtKB	Modified residue	393	393	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q13425	UniProtKB	Modified residue	395	395	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13425	UniProtKB	Alternative sequence	266	267	.	.	.	ID=VSP_006358;Note=In isoform 2. LI->QN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11043403;Dbxref=PMID:11043403	
+Q13425	UniProtKB	Alternative sequence	268	540	.	.	.	ID=VSP_006359;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11043403;Dbxref=PMID:11043403	
+Q13425	UniProtKB	Natural variant	376	376	.	.	.	ID=VAR_073697;Note=S->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24234652;Dbxref=PMID:24234652	
+Q13425	UniProtKB	Natural variant	424	424	.	.	.	ID=VAR_014076;Note=D->E;Dbxref=dbSNP:rs1058482	
+Q13425	UniProtKB	Beta strand	113	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Beta strand	127	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Helix	134	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Beta strand	138	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Helix	150	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Beta strand	161	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Helix	176	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	
+Q13425	UniProtKB	Beta strand	188	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2VRF	

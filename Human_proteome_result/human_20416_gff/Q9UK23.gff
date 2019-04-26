@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region Q9UK23 1 515
+Q9UK23	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12058031;Dbxref=PMID:12058031	
+Q9UK23	UniProtKB	Propeptide	26	49	.	.	.	ID=PRO_0000424659;Note=Removed in mature form	
+Q9UK23	UniProtKB	Chain	50	515	.	.	.	ID=PRO_0000021788;Note=N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase	
+Q9UK23	UniProtKB	Topological domain	50	448	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Transmembrane	449	469	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Topological domain	470	515	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Domain	358	390	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9UK23	UniProtKB	Region	486	493	.	.	.	Note=Mediates the interaction with AP4M1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544806;Dbxref=PMID:26544806	
+Q9UK23	UniProtKB	Motif	488	491	.	.	.	Note=Tyrosine-based internalization motif	
+Q9UK23	UniProtKB	Motif	511	515	.	.	.	Note=NPF internalization motif	
+Q9UK23	UniProtKB	Glycosylation	208	208	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Glycosylation	214	214	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Glycosylation	296	296	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Glycosylation	366	366	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Glycosylation	388	388	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Glycosylation	420	420	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UK23	UniProtKB	Disulfide bond	115	148	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Disulfide bond	132	323	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00076,ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Disulfide bond	307	314	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Disulfide bond	362	373	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9UK23	UniProtKB	Disulfide bond	380	389	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q9UK23	UniProtKB	Alternative sequence	307	309	.	.	.	ID=VSP_012267;Note=In isoform 3. CQD->WQA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UK23	UniProtKB	Alternative sequence	310	515	.	.	.	ID=VSP_012268;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9UK23	UniProtKB	Alternative sequence	392	425	.	.	.	ID=VSP_012269;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10551838;Dbxref=PMID:10551838	
+Q9UK23	UniProtKB	Natural variant	84	84	.	.	.	ID=VAR_073225;Note=Rare variant%3B found in individuals suffering from stuttering%3B unknown pathological significance. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20147709;Dbxref=dbSNP:rs755458782,PMID:20147709	
+Q9UK23	UniProtKB	Natural variant	328	328	.	.	.	ID=VAR_073226;Note=Rare variant%3B found in individuals suffering from stuttering%3B unknown pathological significance. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20147709;Dbxref=dbSNP:rs139526942,PMID:20147709	
+Q9UK23	UniProtKB	Natural variant	465	465	.	.	.	ID=VAR_020609;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10551838;Dbxref=dbSNP:rs7188856,PMID:10551838	
+Q9UK23	UniProtKB	Mutagenesis	51	51	.	.	.	Note=65%25 of wild-type of activity. C->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	115	115	.	.	.	Note=15%25 of wild-type of activity%2C and almost no traffic to Golgi. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	132	132	.	.	.	Note=No traffic to Golgi. C->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	137	137	.	.	.	Note=11%25 of wild-type of activity. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	221	221	.	.	.	Note=10%25 of wild-type of activity%3B when associated with M-51. C->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	225	225	.	.	.	Note=6%25 of wild-type of activity. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	227	227	.	.	.	Note=Complete loss of activity. T->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	247	247	.	.	.	Note=87%25 of wild-type of activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	284	284	.	.	.	Note=22%25 of wild-type of activity. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Complete loss of activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	287	287	.	.	.	Note=16%25 of wild-type of activity. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	288	288	.	.	.	Note=Complete loss of activity. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	289	289	.	.	.	Note=Complete loss of activity. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Complete loss of activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	320	320	.	.	.	Note=43%25 of wild-type of activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	322	322	.	.	.	Note=67%25 of wild-type of activity. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23572527;Dbxref=PMID:23572527	
+Q9UK23	UniProtKB	Mutagenesis	486	486	.	.	.	Note=Interaction with AP4M1 is abolished. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544806;Dbxref=PMID:26544806	
+Q9UK23	UniProtKB	Mutagenesis	488	488	.	.	.	Note=Interaction with AP4M1 is abolished. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544806;Dbxref=PMID:26544806	
+Q9UK23	UniProtKB	Mutagenesis	491	491	.	.	.	Note=Interaction with AP4M1 is abolished. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26544806;Dbxref=PMID:26544806	
+Q9UK23	UniProtKB	Sequence conflict	259	259	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UK23	UniProtKB	Sequence conflict	405	405	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

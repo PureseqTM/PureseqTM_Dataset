@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region Q99504 1 573
+Q99504	UniProtKB	Chain	1	573	.	.	.	ID=PRO_0000218648;Note=Eyes absent homolog 3	
+Q99504	UniProtKB	Active site	309	309	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Active site	311	311	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O00167	
+Q99504	UniProtKB	Metal binding	309	309	.	.	.	Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O00167	
+Q99504	UniProtKB	Metal binding	311	311	.	.	.	Note=Magnesium%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O00167	
+Q99504	UniProtKB	Metal binding	537	537	.	.	.	Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O00167	
+Q99504	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+Q99504	UniProtKB	Modified residue	262	262	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99504	UniProtKB	Modified residue	266	266	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19234442;Dbxref=PMID:19234442	
+Q99504	UniProtKB	Modified residue	438	438	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99504	UniProtKB	Modified residue	472	472	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+Q99504	UniProtKB	Alternative sequence	1	126	.	.	.	ID=VSP_001493;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9049631;Dbxref=PMID:9049631	
+Q99504	UniProtKB	Alternative sequence	1	53	.	.	.	ID=VSP_054530;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99504	UniProtKB	Alternative sequence	121	166	.	.	.	ID=VSP_054518;Note=In isoform 3 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q99504	UniProtKB	Alternative sequence	548	572	.	.	.	ID=VSP_054519;Note=In isoform 3. HNMPFWRITNHGDLVSLHQALELDF->QLYFLDMEALGCQLEPTALILFIQLSGNLSNYNK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q99504	UniProtKB	Mutagenesis	266	266	.	.	.	Note=Fails to form damage-dependent nuclear foci or interact with H2AX. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19234442;Dbxref=PMID:19234442	
+Q99504	UniProtKB	Mutagenesis	309	309	.	.	.	Note=Loss of tyrosine phosphatase activity toward H2AX. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19234442;Dbxref=PMID:19234442	
+Q99504	UniProtKB	Sequence conflict	105	105	.	.	.	Note=Y->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	142	142	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	151	151	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	253	253	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	268	268	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	283	283	.	.	.	Note=T->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	290	290	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	305	305	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	345	345	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	357	357	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	361	361	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	373	381	.	.	.	Note=SDDNGQDLS->PNDKGQNLN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	388	388	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	447	449	.	.	.	Note=RLR->KLK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	457	457	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	473	473	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	480	480	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	487	487	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	500	500	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	524	526	.	.	.	Note=SRF->TSL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99504	UniProtKB	Sequence conflict	530	530	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

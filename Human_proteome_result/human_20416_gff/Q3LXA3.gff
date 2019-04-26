@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region Q3LXA3 1 575
+Q3LXA3	UniProtKB	Chain	1	575	.	.	.	ID=PRO_0000121525;Note=Triokinase/FMN cyclase	
+Q3LXA3	UniProtKB	Domain	9	336	.	.	.	Note=DhaK;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00814	
+Q3LXA3	UniProtKB	Domain	372	571	.	.	.	Note=DhaL;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00813	
+Q3LXA3	UniProtKB	Nucleotide binding	401	404	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q3LXA3	UniProtKB	Nucleotide binding	446	447	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q3LXA3	UniProtKB	Nucleotide binding	494	495	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q3LXA3	UniProtKB	Nucleotide binding	556	558	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q3LXA3	UniProtKB	Region	56	59	.	.	.	Note=Dihydroxyacetone binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q3LXA3	UniProtKB	Active site	221	221	.	.	.	Note=Tele-hemiaminal-histidine intermediate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00814	
+Q3LXA3	UniProtKB	Binding site	109	109	.	.	.	Note=Dihydroxyacetone;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00814	
+Q3LXA3	UniProtKB	Binding site	114	114	.	.	.	Note=Dihydroxyacetone;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00814	
+Q3LXA3	UniProtKB	Binding site	486	486	.	.	.	Note=ATP%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q3LXA3	UniProtKB	Modified residue	350	350	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q3LXA3	UniProtKB	Modified residue	511	511	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q3LXA3	UniProtKB	Modified residue	545	545	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q4KLZ6	
+Q3LXA3	UniProtKB	Alternative sequence	526	575	.	.	.	ID=VSP_057181;Note=In isoform 2. SAEAAAEATKNMEAGAGRASYISSARLEQPDPGAVAAAAILRAILEVLQS->EGGGLVICP;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q3LXA3	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_028108;Note=A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:16289032,ECO:0000269|Ref.2,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2260655,PMID:14702039,PMID:16289032	
+Q3LXA3	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_054780;Note=A->G;Dbxref=dbSNP:rs35723406	
+Q3LXA3	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Highly decreases kinase activity. No effect on FMN cyclase activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Slightly decreases kinase activity. No effect on FMN cyclase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	221	221	.	.	.	Note=Abolishes kinase activity but not FMN cyclase activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	401	401	.	.	.	Note=Abolishes both kinase and FMN cyclase activities. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	403	403	.	.	.	Note=Abolishes both kinase and FMN cyclase activities. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	404	404	.	.	.	Note=Decreases both kinase and FMN cyclase activities. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	446	446	.	.	.	Note=Decreases both kinase and FMN cyclase activities. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Mutagenesis	556	556	.	.	.	Note=Abolishes both kinase and FMN cyclase activities. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24569995;Dbxref=PMID:24569995	
+Q3LXA3	UniProtKB	Sequence conflict	7	7	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q3LXA3	UniProtKB	Sequence conflict	19	19	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q3LXA3	UniProtKB	Sequence conflict	75	75	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q3LXA3	UniProtKB	Sequence conflict	376	376	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q3LXA3	UniProtKB	Sequence conflict	497	497	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

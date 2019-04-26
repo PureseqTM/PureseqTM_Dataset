@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region P19447 1 782
+P19447	UniProtKB	Chain	1	782	.	.	.	ID=PRO_0000101987;Note=General transcription and DNA repair factor IIH helicase subunit XPB	
+P19447	UniProtKB	Domain	327	488	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+P19447	UniProtKB	Domain	542	702	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+P19447	UniProtKB	Nucleotide binding	340	347	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+P19447	UniProtKB	Motif	6	18	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P19447	UniProtKB	Motif	441	444	.	.	.	Note=DEVH box	
+P19447	UniProtKB	Compositional bias	20	28	.	.	.	Note=Asp/Glu-rich (acidic)	
+P19447	UniProtKB	Compositional bias	256	265	.	.	.	Note=Asp/Glu-rich (acidic)	
+P19447	UniProtKB	Compositional bias	697	700	.	.	.	Note=Asp/Glu-rich (acidic)	
+P19447	UniProtKB	Compositional bias	721	728	.	.	.	Note=Asp/Glu-rich (acidic)	
+P19447	UniProtKB	Modified residue	686	686	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P19447	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_003632;Note=In XP-B%3B combined with features of Cockayne syndrome%3B mild. F->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16947863,ECO:0000269|PubMed:8304337;Dbxref=dbSNP:rs121913045,PMID:16947863,PMID:8304337	
+P19447	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_014766;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10862089;Dbxref=dbSNP:rs1805161,PMID:10862089	
+P19447	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_008186;Note=In TTD2%3B mild. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9012405;Dbxref=dbSNP:rs121913046,PMID:9012405	
+P19447	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_014767;Note=G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10862089;Dbxref=dbSNP:rs1805162,PMID:10862089	
+P19447	UniProtKB	Natural variant	418	418	.	.	.	ID=VAR_035942;Note=In a breast cancer sample%3B somatic mutation. K->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+P19447	UniProtKB	Natural variant	704	704	.	.	.	ID=VAR_017294;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs4150521	
+P19447	UniProtKB	Natural variant	735	735	.	.	.	ID=VAR_014344;Note=S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.4;Dbxref=dbSNP:rs4150522	
+P19447	UniProtKB	Mutagenesis	346	346	.	.	.	Note=No transcriptional activity of the reconstituted TFIIH complex. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10024882;Dbxref=PMID:10024882	
+P19447	UniProtKB	Mutagenesis	782	782	.	.	.	Note=Impairs protein folding. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23385459;Dbxref=PMID:23385459	
+P19447	UniProtKB	Beta strand	505	512	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	516	524	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	528	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	531	536	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	538	552	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Turn	553	555	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Beta strand	558	561	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	565	574	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	586	598	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Beta strand	604	607	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	609	611	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Turn	612	614	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Beta strand	620	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	633	643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Beta strand	651	654	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Beta strand	656	664	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	668	670	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	671	682	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Beta strand	686	692	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	696	698	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	706	718	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	
+P19447	UniProtKB	Helix	721	724	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ERN	

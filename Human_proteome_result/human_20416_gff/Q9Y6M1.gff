@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region Q9Y6M1 1 599
+Q9Y6M1	UniProtKB	Chain	1	599	.	.	.	ID=PRO_0000244496;Note=Insulin-like growth factor 2 mRNA-binding protein 2	
+Q9Y6M1	UniProtKB	Domain	3	76	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y6M1	UniProtKB	Domain	82	157	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9Y6M1	UniProtKB	Domain	193	258	.	.	.	Note=KH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9Y6M1	UniProtKB	Domain	274	341	.	.	.	Note=KH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9Y6M1	UniProtKB	Domain	427	492	.	.	.	Note=KH 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9Y6M1	UniProtKB	Domain	509	575	.	.	.	Note=KH 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9Y6M1	UniProtKB	Modified residue	11	11	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9Y6M1	UniProtKB	Modified residue	162	162	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:21406692	
+Q9Y6M1	UniProtKB	Modified residue	164	164	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:21406692,PMID:23186163	
+Q9Y6M1	UniProtKB	Modified residue	550	550	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5SF07	
+Q9Y6M1	UniProtKB	Alternative sequence	1	80	.	.	.	ID=VSP_036550;Note=In isoform 3%2C isoform 4 and isoform 5. MMNKLYIGNLSPAVTADDLRQLFGDRKLPLAGQVLLKSGYAFVDYPDQNWAIRAIETLSGKVELHGKIMEVDYSVSKKLR->MFSCPGHYHVDGFLNPG;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q9Y6M1	UniProtKB	Alternative sequence	1	68	.	.	.	ID=VSP_043699;Note=In isoform 6. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y6M1	UniProtKB	Alternative sequence	113	113	.	.	.	ID=VSP_036552;Note=In isoform 4. Q->QVFAFSL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q9Y6M1	UniProtKB	Alternative sequence	358	400	.	.	.	ID=VSP_036553;Note=In isoform 2 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10190901,ECO:0000303|Ref.2;Dbxref=PMID:10190901	
+Q9Y6M1	UniProtKB	Mutagenesis	211	211	.	.	.	Note=Significantly impaired binding to ACTB transcript%2C but little effect on MYC transcript binding%2C accumulation in the nucleus%3B when associated with E-292. Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C almost complete loss of ACTB and MYC transcript binding%2C almost complete loss of ELAVL1-%2C DHX9- and HNRNPU-binding and perturbed subcellular location%2C including accumulation in the nucleus and loss of localization to stress granules%3B when associated with E-292%3B 445-E-E-446 and 526-E-E-527. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23640942;Dbxref=PMID:23640942	
+Q9Y6M1	UniProtKB	Mutagenesis	292	292	.	.	.	Note=Significantly impaired binding to ACTB transcript%2C but little effect on MYC transcript binding%2C accumulation in the nucleus%3B when associated with E-211. Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C almost complete loss of ACTB and MYC transcript binding%2C almost complete loss of ELAVL1-%2C DHX9- and HNRNPU-binding and perturbed subcellular location%2C including accumulation in the nucleus and loss of localization to stress granules%3B when associated with E-211%3B 445-E-E-445 and 526-E-E-527. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23640942;Dbxref=PMID:23640942	
+Q9Y6M1	UniProtKB	Mutagenesis	445	446	.	.	.	Note=Significantly impaired binding to ACTB and MYC transcripts%3B when associated with 527-E-E-528. Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C almost complete loss of ACTB and MYC transcript binding%2C almost complete loss of ELAVL1-%2C DHX9- and HNRNPU-binding and perturbed subcellular location%2C including accumulation in the nucleus and loss of localization to stress granules%3B when associated with E-211%3B E-292 and 527-E-E-528. KK->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23640942;Dbxref=PMID:23640942	
+Q9Y6M1	UniProtKB	Mutagenesis	527	528	.	.	.	Note=Significantly impaired binding to ACTB and MYC transcripts%3B when associated with 445-E-E-446. Loss of homo- and heterooligomerization with IGF2BP1 and IGF2BP2%2C almost complete loss of ACTB and MYC transcript binding%2C almost complete loss of ELAVL1-%2C DHX9- and HNRNPU-binding and perturbed subcellular location%2C including accumulation in the nucleus and loss of localization to stress granules%3B when associated with E-211%3B E-292 and 445-E-E-446. KG->EE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23640942;Dbxref=PMID:23640942	
+Q9Y6M1	UniProtKB	Beta strand	5	8	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	
+Q9Y6M1	UniProtKB	Helix	16	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	
+Q9Y6M1	UniProtKB	Beta strand	34	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	
+Q9Y6M1	UniProtKB	Beta strand	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	
+Q9Y6M1	UniProtKB	Helix	48	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	
+Q9Y6M1	UniProtKB	Turn	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	
+Q9Y6M1	UniProtKB	Beta strand	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CQH	

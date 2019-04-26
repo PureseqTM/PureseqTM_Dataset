@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region O94868 1 740
+O94868	UniProtKB	Chain	1	740	.	.	.	ID=PRO_0000278214;Note=F-BAR and double SH3 domains protein 2	
+O94868	UniProtKB	Domain	8	282	.	.	.	Note=F-BAR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01077	
+O94868	UniProtKB	Domain	469	530	.	.	.	Note=SH3 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+O94868	UniProtKB	Domain	567	629	.	.	.	Note=SH3 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+O94868	UniProtKB	Region	567	629	.	.	.	Note=Required and sufficient for location at clathrin-coated pits;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Coiled coil	356	397	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O94868	UniProtKB	Compositional bias	718	721	.	.	.	Note=Poly-Pro	
+O94868	UniProtKB	Modified residue	675	675	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O94868	UniProtKB	Modified residue	681	681	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:30249660;Dbxref=PMID:23186163,PMID:30249660	
+O94868	UniProtKB	Alternative sequence	1	56	.	.	.	ID=VSP_023167;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14627983,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9872452;Dbxref=PMID:14627983,PMID:15489334,PMID:9872452	
+O94868	UniProtKB	Alternative sequence	569	571	.	.	.	ID=VSP_023168;Note=In isoform 3. VCF->GKD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94868	UniProtKB	Alternative sequence	572	740	.	.	.	ID=VSP_023169;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+O94868	UniProtKB	Mutagenesis	478	478	.	.	.	Note=Loss of ability to promote actin polymerization%3B when associated with A-480. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	480	480	.	.	.	Note=Loss of ability to promote actin polymerization%3B when associated with A-478. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	521	521	.	.	.	Note=Loss of ability to promote actin polymerization%3B when associated with A-524. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	524	524	.	.	.	Note=Loss of ability to promote actin polymerization%3B when associated with A-521. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	576	576	.	.	.	Note=Abolishes interaction with ITSN1 and location at clathrin-coated pits%3B when associated with S-607. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	607	607	.	.	.	Note=Abolishes interaction with ITSN1 and location at clathrin-coated pits%3B when associated with S-576. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	622	623	.	.	.	Note=Abolishes interaction with ITSN1. VL->KK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29887380;Dbxref=PMID:29887380	
+O94868	UniProtKB	Mutagenesis	681	681	.	.	.	Note=Impaired recruitment to the cell membrane. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30249660;Dbxref=PMID:30249660	
+O94868	UniProtKB	Mutagenesis	681	681	.	.	.	Note=Increased recruitment to the cell membrane. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30249660;Dbxref=PMID:30249660	
+O94868	UniProtKB	Beta strand	470	476	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DL5	
+O94868	UniProtKB	Beta strand	492	500	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DL5	
+O94868	UniProtKB	Beta strand	503	511	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DL5	
+O94868	UniProtKB	Beta strand	517	521	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DL5	
+O94868	UniProtKB	Turn	522	524	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DL5	
+O94868	UniProtKB	Beta strand	571	576	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Beta strand	581	585	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Beta strand	593	598	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Beta strand	602	604	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Beta strand	606	612	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Beta strand	615	620	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Helix	621	623	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	
+O94868	UniProtKB	Beta strand	624	626	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6GBU	

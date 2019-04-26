@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region Q5TCQ9 1 1481
+Q5TCQ9	UniProtKB	Chain	1	1481	.	.	.	ID=PRO_0000341407;Note=Membrane-associated guanylate kinase%2C WW and PDZ domain-containing protein 3	
+Q5TCQ9	UniProtKB	Domain	18	106	.	.	.	Note=PDZ 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q5TCQ9	UniProtKB	Domain	114	288	.	.	.	Note=Guanylate kinase-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00100	
+Q5TCQ9	UniProtKB	Domain	293	326	.	.	.	Note=WW 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00224	
+Q5TCQ9	UniProtKB	Domain	339	372	.	.	.	Note=WW 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00224	
+Q5TCQ9	UniProtKB	Domain	410	492	.	.	.	Note=PDZ 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q5TCQ9	UniProtKB	Domain	578	654	.	.	.	Note=PDZ 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q5TCQ9	UniProtKB	Domain	726	808	.	.	.	Note=PDZ 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q5TCQ9	UniProtKB	Domain	851	938	.	.	.	Note=PDZ 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q5TCQ9	UniProtKB	Domain	1021	1103	.	.	.	Note=PDZ 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q5TCQ9	UniProtKB	Nucleotide binding	121	128	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00100	
+Q5TCQ9	UniProtKB	Region	18	106	.	.	.	Note=Interaction with ADRB1 and TGFA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q5TCQ9	UniProtKB	Region	410	492	.	.	.	Note=Interaction with PTEN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10748157;Dbxref=PMID:10748157	
+Q5TCQ9	UniProtKB	Region	726	808	.	.	.	Note=Interaction with ADGRB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10748157;Dbxref=PMID:10748157	
+Q5TCQ9	UniProtKB	Region	851	938	.	.	.	Note=Interaction with LPAR2 and GRIN2B;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10748157,ECO:0000269|PubMed:16904289;Dbxref=PMID:10748157,PMID:16904289	
+Q5TCQ9	UniProtKB	Compositional bias	6	9	.	.	.	Note=Poly-Lys	
+Q5TCQ9	UniProtKB	Compositional bias	238	243	.	.	.	Note=Poly-Glu	
+Q5TCQ9	UniProtKB	Modified residue	234	234	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9EQJ9	
+Q5TCQ9	UniProtKB	Modified residue	595	595	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q5TCQ9	UniProtKB	Modified residue	699	699	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JK71	
+Q5TCQ9	UniProtKB	Modified residue	832	832	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q5TCQ9	UniProtKB	Modified residue	915	915	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9EQJ9	
+Q5TCQ9	UniProtKB	Alternative sequence	359	359	.	.	.	ID=VSP_059502;Note=In isoform 4 and isoform 2. D->DFTLVAQAGVQWHDLGSLQPPPPGFN;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10748157,ECO:0000303|PubMed:10997877,ECO:0000303|PubMed:15489334;Dbxref=PMID:10748157,PMID:10997877,PMID:15489334	
+Q5TCQ9	UniProtKB	Alternative sequence	1111	1125	.	.	.	ID=VSP_059503;Note=In isoform 3 and isoform 2. DWDINNPSSSNVIYD->LAPSGLCSYVKPEQH;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10748157,ECO:0000303|PubMed:10997877,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:15652357;Dbxref=PMID:10748157,PMID:10997877,PMID:15489334,PMID:15652357	
+Q5TCQ9	UniProtKB	Alternative sequence	1126	1481	.	.	.	ID=VSP_059504;Note=In isoform 3 and isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10748157,ECO:0000303|PubMed:10997877,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:15652357;Dbxref=PMID:10748157,PMID:10997877,PMID:15489334,PMID:15652357	
+Q5TCQ9	UniProtKB	Sequence conflict	9	9	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	59	59	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	66	68	.	.	.	Note=SPG->NPS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	246	246	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	257	257	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	466	466	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	548	548	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	616	616	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	660	660	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	776	776	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	798	798	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	917	917	.	.	.	Note=D->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Sequence conflict	993	993	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q5TCQ9	UniProtKB	Beta strand	576	582	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	
+Q5TCQ9	UniProtKB	Beta strand	587	595	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	
+Q5TCQ9	UniProtKB	Beta strand	598	605	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	
+Q5TCQ9	UniProtKB	Helix	607	609	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	
+Q5TCQ9	UniProtKB	Beta strand	618	622	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	
+Q5TCQ9	UniProtKB	Helix	632	641	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	
+Q5TCQ9	UniProtKB	Beta strand	647	656	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SOE	

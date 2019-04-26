@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region P04211 1 117
+P04211	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P04211	UniProtKB	Chain	20	117	.	.	.	ID=PRO_0000015198;Note=Immunoglobulin lambda variable 7-43;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P04211	UniProtKB	Domain	20	117	.	.	.	Note=Ig-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P04211	UniProtKB	Region	20	41	.	.	.	Note=Framework-1	
+P04211	UniProtKB	Region	42	54	.	.	.	Note=Complementarity-determining-1;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6091030;Dbxref=PMID:6091030	
+P04211	UniProtKB	Region	55	70	.	.	.	Note=Framework-2	
+P04211	UniProtKB	Region	71	77	.	.	.	Note=Complementarity-determining-2;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6091030;Dbxref=PMID:6091030	
+P04211	UniProtKB	Region	78	109	.	.	.	Note=Framework-3	
+P04211	UniProtKB	Region	110	117	.	.	.	Note=Complementarity-determining-3;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:6091030;Dbxref=PMID:6091030	
+P04211	UniProtKB	Disulfide bond	41	109	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P04211	UniProtKB	Sequence conflict	15	15	.	.	.	Note=P->PG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04211	UniProtKB	Sequence conflict	117	117	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P04211	UniProtKB	Non-terminal residue	117	117	.	.	.	.	

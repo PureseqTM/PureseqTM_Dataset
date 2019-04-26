@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q16623 1 288
+Q16623	UniProtKB	Chain	1	288	.	.	.	ID=PRO_0000210186;Note=Syntaxin-1A	
+Q16623	UniProtKB	Topological domain	1	265	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16623	UniProtKB	Transmembrane	266	286	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16623	UniProtKB	Topological domain	287	288	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16623	UniProtKB	Domain	192	254	.	.	.	Note=t-SNARE coiled-coil homology;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00202	
+Q16623	UniProtKB	Coiled coil	68	109	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16623	UniProtKB	Modified residue	14	14	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15822905;Dbxref=PMID:15822905	
+Q16623	UniProtKB	Modified residue	64	64	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35526	
+Q16623	UniProtKB	Modified residue	95	95	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P32851	
+Q16623	UniProtKB	Modified residue	188	188	.	.	.	Note=Phosphoserine%3B by DAPK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12730201;Dbxref=PMID:12730201	
+Q16623	UniProtKB	Alternative sequence	227	288	.	.	.	ID=VSP_006338;Note=In isoform 2. GEMIDRIEYNVEHAVDYVERAVSDTKKAVKYQSKARRKKIMIIICCVILGIVIASTVGGIFA->PQGAFLKSCPEPQPNREEGALWSSGAPGPAGRDD;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12586365,ECO:0000303|PubMed:9003414;Dbxref=PMID:12586365,PMID:9003414	
+Q16623	UniProtKB	Alternative sequence	227	288	.	.	.	ID=VSP_006339;Note=In isoform 3. GEMIDRIEYNVEHAVDYVERAVSDTKKAVKYQSKARRKKIMIIICCVILGIVIASTVGGIFA->TMWRGPCLTPRRPSSTRARRAGRKS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q16623	UniProtKB	Sequence conflict	73	73	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16623	UniProtKB	Sequence conflict	140	140	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

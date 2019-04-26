@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region P55769 1 128
+P55769	UniProtKB	Chain	1	128	.	.	.	ID=PRO_0000423260;Note=NHP2-like protein 1	
+P55769	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:25944712,ECO:0000269|Ref.7;Dbxref=PMID:19413330,PMID:25944712	
+P55769	UniProtKB	Chain	2	128	.	.	.	ID=PRO_0000136778;Note=NHP2-like protein 1%2C N-terminally processed	
+P55769	UniProtKB	Region	36	48	.	.	.	Note=Interaction with U4 snRNA and U4atac snRNA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17412961,ECO:0000269|PubMed:21784869;Dbxref=PMID:17412961,PMID:21784869	
+P55769	UniProtKB	Region	96	128	.	.	.	Note=Important for U4 snRNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10545122;Dbxref=PMID:10545122	
+P55769	UniProtKB	Site	61	61	.	.	.	Note=Interaction with U4 snRNA and U4atac snRNA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17412961,ECO:0000269|PubMed:21784869;Dbxref=PMID:17412961,PMID:21784869	
+P55769	UniProtKB	Site	86	86	.	.	.	Note=Interaction with U4 snRNA and U4atac snRNA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17412961,ECO:0000269|PubMed:21784869;Dbxref=PMID:17412961,PMID:21784869	
+P55769	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P55769	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylthreonine%3B in NHP2-like protein 1%2C N-terminally processed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:25944712,ECO:0000269|Ref.7;Dbxref=PMID:19413330,PMID:25944712	
+P55769	UniProtKB	Modified residue	21	21	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9D0T1	
+P55769	UniProtKB	Modified residue	122	122	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P55769	UniProtKB	Natural variant	19	19	.	.	.	ID=VAR_034155;Note=T->N;Dbxref=dbSNP:rs1802521	
+P55769	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Abolishes U4 snRNA-binding. G->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10545122;Dbxref=PMID:10545122	
+P55769	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Abolishes U4 snRNA-binding. A->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10545122;Dbxref=PMID:10545122	
+P55769	UniProtKB	Mutagenesis	80	80	.	.	.	Note=Reduces U4 snRNA-binding by about 50%25. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10545122;Dbxref=PMID:10545122	
+P55769	UniProtKB	Mutagenesis	96	128	.	.	.	Note=Abolishes U4 snRNA-binding. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10545122;Dbxref=PMID:10545122	
+P55769	UniProtKB	Beta strand	10	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2JNB	
+P55769	UniProtKB	Helix	16	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Beta strand	35	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Helix	39	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Beta strand	51	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Helix	63	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Helix	68	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Beta strand	80	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Helix	86	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Beta strand	100	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	
+P55769	UniProtKB	Helix	113	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OZB	

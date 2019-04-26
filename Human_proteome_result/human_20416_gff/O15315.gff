@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region O15315 1 384
+O15315	UniProtKB	Chain	1	384	.	.	.	ID=PRO_0000122939;Note=DNA repair protein RAD51 homolog 2	
+O15315	UniProtKB	Nucleotide binding	108	115	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O15315	UniProtKB	Region	1	75	.	.	.	Note=Interaction with RAD51C	
+O15315	UniProtKB	Site	252	253	.	.	.	Note=Breakpoint for translocation to form HMGA2-RAD51B	
+O15315	UniProtKB	Alternative sequence	1	119	.	.	.	ID=VSP_008817;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+O15315	UniProtKB	Alternative sequence	346	384	.	.	.	ID=VSP_008819;Note=In isoform 2. ETTFCSVTQAELNWAPEILPPQPPEQLGLQMCHHTQLIF->AYGNS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9207106,ECO:0000303|PubMed:9441753,ECO:0000303|Ref.6;Dbxref=PMID:9207106,PMID:9441753	
+O15315	UniProtKB	Alternative sequence	346	384	.	.	.	ID=VSP_008818;Note=In isoform 3 and isoform 5. ETTFCSVTQAELNWAPEILPPQPPEQLGLQMCHHTQLIF->GQEKP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9512535,ECO:0000303|Ref.4;Dbxref=PMID:9512535	
+O15315	UniProtKB	Alternative sequence	347	384	.	.	.	ID=VSP_008820;Note=In isoform 4. TTFCSVTQAELNWAPEILPPQPPEQLGLQMCHHTQLIF->FWHICISGFSIQNRLKENES;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.4	
+O15315	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_025243;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs34583846	
+O15315	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_025244;Note=F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs35282642	
+O15315	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_025245;Note=L->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs34094401	
+O15315	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_025246;Note=Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs28910275	
+O15315	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_035437;Note=V->L;Dbxref=dbSNP:rs28908168	
+O15315	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_025247;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs34594234	
+O15315	UniProtKB	Natural variant	250	250	.	.	.	ID=VAR_025248;Note=S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs33929366	
+O15315	UniProtKB	Natural variant	365	365	.	.	.	ID=VAR_051730;Note=P->R;Dbxref=dbSNP:rs28908468	
+O15315	UniProtKB	Mutagenesis	326	326	.	.	.	Note=Abolishes interaction with BCR-ABL SH3 domain. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19657362;Dbxref=PMID:19657362	
+O15315	UniProtKB	Sequence conflict	281	281	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15315	UniProtKB	Sequence conflict	281	281	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15315	UniProtKB	Sequence conflict	281	281	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q13443 1 819
+Q13443	UniProtKB	Signal peptide	1	28	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Chain	29	819	.	.	.	ID=PRO_0000029062;Note=Disintegrin and metalloproteinase domain-containing protein 9	
+Q13443	UniProtKB	Topological domain	29	697	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Transmembrane	698	718	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Topological domain	719	819	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Domain	212	406	.	.	.	Note=Peptidase M12B;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00276	
+Q13443	UniProtKB	Domain	414	501	.	.	.	Note=Disintegrin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00068	
+Q13443	UniProtKB	Domain	644	698	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q13443	UniProtKB	Compositional bias	505	634	.	.	.	Note=Cys-rich	
+Q13443	UniProtKB	Compositional bias	790	795	.	.	.	Note=Poly-Pro	
+Q13443	UniProtKB	Active site	348	348	.	.	.	Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00276,ECO:0000255|PROSITE-ProRule:PRU10095	
+Q13443	UniProtKB	Metal binding	347	347	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Metal binding	351	351	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Metal binding	357	357	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Site	56	57	.	.	.	Note=Cleavage;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61072	
+Q13443	UniProtKB	Site	205	206	.	.	.	Note=Cleavage%3B by furin-like protease;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61072	
+Q13443	UniProtKB	Modified residue	758	758	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13443	UniProtKB	Modified residue	761	761	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13443	UniProtKB	Glycosylation	125	125	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Glycosylation	144	144	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Glycosylation	154	154	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Glycosylation	231	231	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Glycosylation	381	381	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Glycosylation	487	487	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13443	UniProtKB	Disulfide bond	322	401	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Disulfide bond	363	385	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Disulfide bond	365	370	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Disulfide bond	473	493	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Disulfide bond	644	656	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Disulfide bond	650	662	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Disulfide bond	664	673	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13443	UniProtKB	Alternative sequence	655	655	.	.	.	ID=VSP_011057;Note=In isoform 2. V->K;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12054541,ECO:0000303|PubMed:15489334;Dbxref=PMID:12054541,PMID:15489334	
+Q13443	UniProtKB	Alternative sequence	656	819	.	.	.	ID=VSP_011058;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12054541,ECO:0000303|PubMed:15489334;Dbxref=PMID:12054541,PMID:15489334	
+Q13443	UniProtKB	Sequence conflict	1	118	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13443	UniProtKB	Sequence conflict	117	117	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13443	UniProtKB	Sequence conflict	119	135	.	.	.	Note=YVEGVHNSSIALSDCFG->MWREFIIHPLLLATVLD;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13443	UniProtKB	Sequence conflict	154	154	.	.	.	Note=N->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13443	UniProtKB	Sequence conflict	566	566	.	.	.	Note=G->GLSLKFHAPFLSTMLQEAVRQTGTYLGGSVCCMKSDCRIVTLVK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13443	UniProtKB	Sequence conflict	713	735	.	.	.	Note=AIFIFIKRDQLWRSYFRKKRSQT->DYFYLHQEGSTVEKLLQKEEITN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13443	UniProtKB	Sequence conflict	736	819	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	

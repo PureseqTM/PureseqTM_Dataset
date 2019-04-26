@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q9H9S0 1 305
+Q9H9S0	UniProtKB	Chain	1	305	.	.	.	ID=PRO_0000261418;Note=Homeobox protein NANOG	
+Q9H9S0	UniProtKB	Repeat	196	200	.	.	.	Note=1	
+Q9H9S0	UniProtKB	Repeat	201	205	.	.	.	Note=2	
+Q9H9S0	UniProtKB	Repeat	206	210	.	.	.	Note=3	
+Q9H9S0	UniProtKB	Repeat	216	220	.	.	.	Note=4	
+Q9H9S0	UniProtKB	Repeat	221	225	.	.	.	Note=5	
+Q9H9S0	UniProtKB	Repeat	226	230	.	.	.	Note=6	
+Q9H9S0	UniProtKB	Repeat	231	235	.	.	.	Note=7	
+Q9H9S0	UniProtKB	Repeat	236	240	.	.	.	Note=8	
+Q9H9S0	UniProtKB	DNA binding	95	154	.	.	.	Note=Homeobox;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00108	
+Q9H9S0	UniProtKB	Region	122	151	.	.	.	Note=Required for DNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Region	196	240	.	.	.	Note=8 X repeats starting with a Trp in each unit	
+Q9H9S0	UniProtKB	Region	196	240	.	.	.	Note=Sufficient for transactivation activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H9S0	UniProtKB	Region	241	305	.	.	.	Note=Sufficient for strong transactivation activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H9S0	UniProtKB	Alternative sequence	168	183	.	.	.	ID=VSP_021688;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16391521;Dbxref=PMID:16391521	
+Q9H9S0	UniProtKB	Natural variant	82	82	.	.	.	ID=VAR_029384;Note=K->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12787504,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15233988,ECO:0000269|Ref.5;Dbxref=dbSNP:rs2889551,PMID:12787504,PMID:14702039,PMID:15233988	
+Q9H9S0	UniProtKB	Mutagenesis	102	102	.	.	.	Note=No effect on POU5F1 promoter DNA-binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	122	122	.	.	.	Note=Increased POU5F1 promoter DNA-binding and protein stability. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Decreased POU5F1 promoter DNA-binding and protein stability. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Decreased POU5F1 promoter DNA-binding and protein stability. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Decreased POU5F1 promoter DNA-binding and protein stability. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	137	137	.	.	.	Note=Inhibits POU5F1 promoter DNA-binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	140	140	.	.	.	Note=Decreased POU5F1 promoter DNA-binding and protein stability. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	141	141	.	.	.	Note=Inhibits POU5F1 promoter DNA-binding. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	144	144	.	.	.	Note=No effect on POU5F1 promoter DNA-binding. Decreased protein stability. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	145	145	.	.	.	Note=Inhibits POU5F1 promoter DNA-binding. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	147	147	.	.	.	Note=Inhibits POU5F1 promoter DNA-binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	148	148	.	.	.	Note=No effect on POU5F1 promoter DNA-binding. Increased protein stability. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Mutagenesis	151	151	.	.	.	Note=Decreased POU5F1 promoter DNA-binding and protein stability. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25825768;Dbxref=PMID:25825768	
+Q9H9S0	UniProtKB	Helix	104	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RBO	
+Q9H9S0	UniProtKB	Beta strand	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2KT0	
+Q9H9S0	UniProtKB	Helix	122	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RBO	
+Q9H9S0	UniProtKB	Helix	136	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RBO	

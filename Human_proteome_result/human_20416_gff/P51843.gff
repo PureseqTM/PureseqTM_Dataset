@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region P51843 1 470
+P51843	UniProtKB	Chain	1	470	.	.	.	ID=PRO_0000053748;Note=Nuclear receptor subfamily 0 group B member 1	
+P51843	UniProtKB	Repeat	1	67	.	.	.	Note=1	
+P51843	UniProtKB	Repeat	68	133	.	.	.	Note=2	
+P51843	UniProtKB	Repeat	134	200	.	.	.	Note=3	
+P51843	UniProtKB	Repeat	201	253	.	.	.	Note=4%3B truncated	
+P51843	UniProtKB	Domain	205	469	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P51843	UniProtKB	Region	1	253	.	.	.	Note=4 X 67 AA tandem repeats	
+P51843	UniProtKB	Motif	13	17	.	.	.	Note=LXXLL motif 1	
+P51843	UniProtKB	Motif	80	84	.	.	.	Note=LXXLL motif 2	
+P51843	UniProtKB	Motif	146	150	.	.	.	Note=LXXLL motif 3	
+P51843	UniProtKB	Motif	461	466	.	.	.	Note=AF-2 motif	
+P51843	UniProtKB	Alternative sequence	390	400	.	.	.	ID=VSP_023557;Note=In isoform 2. DVPGLQCVKYI->GKGKENDCNHH;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51843	UniProtKB	Alternative sequence	401	470	.	.	.	ID=VSP_023558;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51843	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_004738;Note=In AHC%3B impairs transcriptional silencing of the StAR promoter. R->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10848616,ECO:0000269|PubMed:7990958,ECO:0000269|PubMed:9415399;Dbxref=dbSNP:rs104894888,PMID:10848616,PMID:7990958,PMID:9415399	
+P51843	UniProtKB	Natural variant	269	269	.	.	.	ID=VAR_004739;Note=In AHC%3B impairs transcriptional silencing of the StAR promoter. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10848616,ECO:0000269|PubMed:7990958,ECO:0000269|PubMed:9415399;Dbxref=PMID:10848616,PMID:7990958,PMID:9415399	
+P51843	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_031079;Note=In AHC. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10341858;Dbxref=PMID:10341858	
+P51843	UniProtKB	Natural variant	287	287	.	.	.	ID=VAR_004740;Note=In AHC%3B the patient presents an inappropriate tall stature and renal ectopy. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15800903;Dbxref=PMID:15800903	
+P51843	UniProtKB	Natural variant	291	291	.	.	.	ID=VAR_031080;Note=In AHC. W->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9360549;Dbxref=dbSNP:rs28935482,PMID:9360549	
+P51843	UniProtKB	Natural variant	295	295	.	.	.	ID=VAR_018303;Note=In AHC. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11748852;Dbxref=PMID:11748852	
+P51843	UniProtKB	Natural variant	297	297	.	.	.	ID=VAR_031081;Note=In AHC%3B results in a severe loss of repressor activity. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12629128;Dbxref=dbSNP:rs104894907,PMID:12629128	
+P51843	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_018304;Note=In AHC. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11443184;Dbxref=PMID:11443184	
+P51843	UniProtKB	Natural variant	300	300	.	.	.	ID=VAR_004741;Note=In AHC. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9063431;Dbxref=PMID:9063431	
+P51843	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_004742;Note=In AHC. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11443184,ECO:0000269|PubMed:9529340;Dbxref=PMID:11443184,PMID:9529340	
+P51843	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_018300;Note=In AHC. Y->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11788621;Dbxref=dbSNP:rs104894900,PMID:11788621	
+P51843	UniProtKB	Natural variant	381	381	.	.	.	ID=VAR_018301;Note=In AHC. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11113848;Dbxref=dbSNP:rs104894899,PMID:11113848	
+P51843	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_004743;Note=In AHC. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9360549;Dbxref=dbSNP:rs104894896,PMID:9360549	
+P51843	UniProtKB	Natural variant	385	385	.	.	.	ID=VAR_004744;Note=In AHC. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9529340;Dbxref=PMID:9529340	
+P51843	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_004745;Note=In AHC. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9529340;Dbxref=PMID:9529340	
+P51843	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_018305;Note=In AHC. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11748852;Dbxref=PMID:11748852	
+P51843	UniProtKB	Natural variant	439	439	.	.	.	ID=VAR_018302;Note=In AHC%3B mild phenotype. I->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10675358;Dbxref=dbSNP:rs104894897,PMID:10675358	
+P51843	UniProtKB	Natural variant	440	440	.	.	.	ID=VAR_004746;Note=In AHC%3B impairs RNA-binding activity. N->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10848616,ECO:0000269|PubMed:9003500;Dbxref=dbSNP:rs28935481,PMID:10848616,PMID:9003500	
+P51843	UniProtKB	Natural variant	466	466	.	.	.	ID=VAR_018306;Note=In AHC. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10323730;Dbxref=PMID:10323730	
+P51843	UniProtKB	Mutagenesis	16	17	.	.	.	Note=Strongly reduces homodimerization and interaction with NR0B2. ML->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709599;Dbxref=PMID:16709599	
+P51843	UniProtKB	Mutagenesis	83	84	.	.	.	Note=Strongly reduces homodimerization and interaction with NR0B2. ML->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709599;Dbxref=PMID:16709599	
+P51843	UniProtKB	Mutagenesis	149	150	.	.	.	Note=Strongly reduces homodimerization and interaction with NR0B2. LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709599;Dbxref=PMID:16709599	
+P51843	UniProtKB	Mutagenesis	461	462	.	.	.	Note=Strongly reduces homodimerization and interaction with NR0B2. MM->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16709599;Dbxref=PMID:16709599	
+P51843	UniProtKB	Sequence conflict	4	4	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51843	UniProtKB	Helix	145	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RWV	

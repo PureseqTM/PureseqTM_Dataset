@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region Q92692 1 538
+Q92692	UniProtKB	Signal peptide	1	31	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92692	UniProtKB	Chain	32	538	.	.	.	ID=PRO_0000015136;Note=Nectin-2	
+Q92692	UniProtKB	Topological domain	32	360	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92692	UniProtKB	Transmembrane	361	381	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92692	UniProtKB	Topological domain	382	538	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92692	UniProtKB	Domain	32	156	.	.	.	Note=Ig-like V-type	
+Q92692	UniProtKB	Domain	162	256	.	.	.	Note=Ig-like C2-type 1	
+Q92692	UniProtKB	Domain	261	345	.	.	.	Note=Ig-like C2-type 2	
+Q92692	UniProtKB	Modified residue	410	410	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92692	UniProtKB	Modified residue	433	433	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:20068231,PMID:23186163	
+Q92692	UniProtKB	Glycosylation	137	137	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92692	UniProtKB	Glycosylation	324	324	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q92692	UniProtKB	Disulfide bond	54	140	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:22927415;Dbxref=PMID:22927415	
+Q92692	UniProtKB	Disulfide bond	183	238	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q92692	UniProtKB	Disulfide bond	283	329	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q92692	UniProtKB	Alternative sequence	351	479	.	.	.	ID=VSP_002628;Note=In isoform Alpha. NTAGAGATGGIIGGIIAAIIATAVAATGILICRQQRKEQTLQGAEEDEDLEGPPSYKPPTPKAKLEAQEMPSQLFTLGASEHSPLKTPYFDAGASCTEQEMPRYHELPTLEERSGPLHPGATSLGSPIP->RASPRDVGPLVWGAVGGTLLVLLLLAGGSLAFILLRVRRRRKSPGGAGGGASGDGGFYDPKAQVLGNGDPVFWTPVVPGPMEPDGKDEEEEEEEEKAEKGLMLPPPPALEDDMESQLDGSLISRRAVYV;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9657005,ECO:0000303|Ref.4;Dbxref=PMID:14702039,PMID:15489334,PMID:9657005	
+Q92692	UniProtKB	Alternative sequence	480	538	.	.	.	ID=VSP_002629;Note=In isoform Alpha. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9657005,ECO:0000303|Ref.4;Dbxref=PMID:14702039,PMID:15489334,PMID:9657005	
+Q92692	UniProtKB	Mutagenesis	81	81	.	.	.	Note=Abolishes homodimerization. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22927415;Dbxref=PMID:22927415	
+Q92692	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Loss of entry of HHV-1/Rid1 and HSV-2. No effect on PRV entry. M->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11602758;Dbxref=PMID:11602758	
+Q92692	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Increased entry of HHV-1/Rid1 and HSV-2. M->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11602758;Dbxref=PMID:11602758	
+Q92692	UniProtKB	Beta strand	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	40	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	50	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	55	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	64	71	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5V52	
+Q92692	UniProtKB	Helix	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	81	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Turn	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	95	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Helix	100	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	103	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Turn	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4DFH	
+Q92692	UniProtKB	Beta strand	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Helix	132	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	136	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	
+Q92692	UniProtKB	Beta strand	148	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R0N	

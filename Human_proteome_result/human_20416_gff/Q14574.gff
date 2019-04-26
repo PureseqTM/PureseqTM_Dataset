@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region Q14574 1 896
+Q14574	UniProtKB	Signal peptide	1	27	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Propeptide	28	135	.	.	.	ID=PRO_0000003875;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Chain	136	896	.	.	.	ID=PRO_0000003876;Note=Desmocollin-3	
+Q14574	UniProtKB	Topological domain	136	690	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Transmembrane	691	711	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Topological domain	712	896	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Domain	136	243	.	.	.	Note=Cadherin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q14574	UniProtKB	Domain	244	355	.	.	.	Note=Cadherin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q14574	UniProtKB	Domain	356	471	.	.	.	Note=Cadherin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q14574	UniProtKB	Domain	472	579	.	.	.	Note=Cadherin 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q14574	UniProtKB	Domain	580	690	.	.	.	Note=Cadherin 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q14574	UniProtKB	Glycosylation	166	166	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Glycosylation	392	392	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Glycosylation	546	546	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Glycosylation	629	629	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14574	UniProtKB	Alternative sequence	832	839	.	.	.	ID=VSP_000663;Note=In isoform 3B. KLHRCNQN->ESIRGHTG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14574	UniProtKB	Alternative sequence	840	896	.	.	.	ID=VSP_000664;Note=In isoform 3B. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14574	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_048515;Note=A->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11027496,ECO:0000269|PubMed:7665906;Dbxref=dbSNP:rs2852003,PMID:11027496,PMID:7665906	
+Q14574	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_048516;Note=S->T;Dbxref=dbSNP:rs276937	
+Q14574	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_048517;Note=R->K;Dbxref=dbSNP:rs276938	
+Q14574	UniProtKB	Natural variant	180	180	.	.	.	ID=VAR_048518;Note=K->Q;Dbxref=dbSNP:rs35296997	
+Q14574	UniProtKB	Natural variant	199	199	.	.	.	ID=VAR_048519;Note=R->W;Dbxref=dbSNP:rs276921	
+Q14574	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_048520;Note=N->S;Dbxref=dbSNP:rs35630063	

@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region P11086 1 282
+P11086	UniProtKB	Chain	1	282	.	.	.	ID=PRO_0000159709;Note=Phenylethanolamine N-methyltransferase	
+P11086	UniProtKB	Region	79	80	.	.	.	Note=S-adenosyl-L-methionine binding	
+P11086	UniProtKB	Region	158	159	.	.	.	Note=S-adenosyl-L-methionine binding	
+P11086	UniProtKB	Binding site	35	35	.	.	.	Note=S-adenosyl-L-methionine	
+P11086	UniProtKB	Binding site	40	40	.	.	.	Note=S-adenosyl-L-methionine	
+P11086	UniProtKB	Binding site	85	85	.	.	.	Note=S-adenosyl-L-methionine	
+P11086	UniProtKB	Binding site	101	101	.	.	.	Note=S-adenosyl-L-methionine	
+P11086	UniProtKB	Binding site	106	106	.	.	.	Note=S-adenosyl-L-methionine	
+P11086	UniProtKB	Binding site	181	181	.	.	.	Note=S-adenosyl-L-methionine%3B via carbonyl oxygen	
+P11086	UniProtKB	Binding site	219	219	.	.	.	Note=Substrate	
+P11086	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P11086	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_029351;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16277617;Dbxref=dbSNP:rs11569781,PMID:16277617	
+P11086	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_036829;Note=Lower activity levels than wild-type. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16277617;Dbxref=dbSNP:rs36060376,PMID:16277617	
+P11086	UniProtKB	Natural variant	112	112	.	.	.	ID=VAR_036830;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16277617;Dbxref=dbSNP:rs34530498,PMID:16277617	
+P11086	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_036831;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16277617;Dbxref=dbSNP:rs34341496,PMID:16277617	
+P11086	UniProtKB	Natural variant	188	188	.	.	.	ID=VAR_037611;Note=S->C;Dbxref=dbSNP:rs5639	
+P11086	UniProtKB	Natural variant	211	211	.	.	.	ID=VAR_037612;Note=L->H;Dbxref=dbSNP:rs5640	
+P11086	UniProtKB	Natural variant	217	217	.	.	.	ID=VAR_037613;Note=L->Q;Dbxref=dbSNP:rs5641	
+P11086	UniProtKB	Natural variant	254	254	.	.	.	ID=VAR_037614;Note=R->H;Dbxref=dbSNP:rs5642	
+P11086	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_024547;Note=W->R;Dbxref=dbSNP:rs5643	
+P11086	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Strongly increases KM for substrate and S-adenosyl-L-methionine. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16363801;Dbxref=PMID:16363801	
+P11086	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Strongly reduced enzyme activity. Increases affinity for S-adenosyl-L-methionine. E->A%2CQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16363801;Dbxref=PMID:16363801	
+P11086	UniProtKB	Mutagenesis	185	185	.	.	.	Note=Strongly reduced enzyme activity. Decreases affinity for substrate and S-adenosyl-L-methionine 3-fold. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16363801;Dbxref=PMID:16363801	
+P11086	UniProtKB	Mutagenesis	219	219	.	.	.	Note=Reduced enzyme activity. Decreases affinity for substrate 6-fold. Decreases affinity for S-adenosyl-L-methionine 2-fold. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16363801;Dbxref=PMID:16363801	
+P11086	UniProtKB	Mutagenesis	267	267	.	.	.	Note=Strongly reduced enzyme activity. Decreases affinity for substrate 200-fold. Decreases affinity for S-adenosyl-L-methionine 3-fold. D->A%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16363801;Dbxref=PMID:16363801	
+P11086	UniProtKB	Sequence conflict	169	170	.	.	.	Note=SP->AQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P11086	UniProtKB	Helix	17	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	32	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Turn	42	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	53	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	73	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	95	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	104	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	124	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	140	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	151	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	161	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	173	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Turn	184	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	191	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	205	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	221	224	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	227	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	236	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	248	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Helix	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	265	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	
+P11086	UniProtKB	Beta strand	271	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MIK	

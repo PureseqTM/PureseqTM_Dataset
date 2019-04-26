@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region O43236 1 478
+O43236	UniProtKB	Chain	1	478	.	.	.	ID=PRO_0000173519;Note=Septin-4	
+O43236	UniProtKB	Domain	141	414	.	.	.	Note=Septin-type G;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01056	
+O43236	UniProtKB	Nucleotide binding	151	158	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43236	UniProtKB	Nucleotide binding	290	298	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43236	UniProtKB	Region	151	158	.	.	.	Note=G1 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01056	
+O43236	UniProtKB	Region	208	211	.	.	.	Note=G3 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01056	
+O43236	UniProtKB	Region	289	292	.	.	.	Note=G4 motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01056	
+O43236	UniProtKB	Coiled coil	447	478	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43236	UniProtKB	Binding site	185	185	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43236	UniProtKB	Binding site	211	211	.	.	.	Note=GTP%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43236	UniProtKB	Binding site	348	348	.	.	.	Note=GTP%3B via amide nitrogen and carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43236	UniProtKB	Binding site	363	363	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43236	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O43236	UniProtKB	Modified residue	118	118	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O43236	UniProtKB	Modified residue	325	325	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18318008,ECO:0000244|PubMed:24275569;Dbxref=PMID:18318008,PMID:24275569	
+O43236	UniProtKB	Modified residue	432	432	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28661	
+O43236	UniProtKB	Modified residue	434	434	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28661	
+O43236	UniProtKB	Alternative sequence	1	147	.	.	.	ID=VSP_038302;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43236	UniProtKB	Alternative sequence	1	20	.	.	.	ID=VSP_006050;Note=In isoform 2 and isoform ARTS. MDRSLGWQGNSVPEDRTEAG->M;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11146656,ECO:0000303|PubMed:11167005,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11146656,PMID:11167005,PMID:14702039,PMID:15489334	
+O43236	UniProtKB	Alternative sequence	1	20	.	.	.	ID=VSP_038303;Note=In isoform 3. MDRSLGWQGNSVPEDRTEAG->MPGFYSVMTDEE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43236	UniProtKB	Alternative sequence	1	20	.	.	.	ID=VSP_038304;Note=In isoform 4. MDRSLGWQGNSVPEDRTEAG->MRSSPALFSSRAAPQKPRKEGSQAAGLLVFSDSLE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43236	UniProtKB	Alternative sequence	267	293	.	.	.	ID=VSP_038305;Note=In isoform ARTS. LRPLDVEFMKALHQRVNIVPILAKADT->YGPSLRLLAPPGAVKGTGQEHQGQGCH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11146656;Dbxref=PMID:11146656	
+O43236	UniProtKB	Alternative sequence	294	478	.	.	.	ID=VSP_038306;Note=In isoform ARTS. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11146656;Dbxref=PMID:11146656	
+O43236	UniProtKB	Natural variant	311	311	.	.	.	ID=VAR_051935;Note=E->V;Dbxref=dbSNP:rs17741424	
+O43236	UniProtKB	Mutagenesis	156	158	.	.	.	Note=Loss of TGF-beta-induced apoptosis. No translocation to the nucleus following TGF-beta treatment. Loss of XIAP-binding. GKS->ENP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11146656;Dbxref=PMID:11146656	
+O43236	UniProtKB	Sequence conflict	156	156	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43236	UniProtKB	Sequence conflict	382	382	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	

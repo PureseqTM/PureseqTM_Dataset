@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region O00213 1 710
+O00213	UniProtKB	Chain	1	710	.	.	.	ID=PRO_0000076049;Note=Amyloid-beta A4 precursor protein-binding family B member 1	
+O00213	UniProtKB	Domain	253	285	.	.	.	Note=WW;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00224	
+O00213	UniProtKB	Domain	370	509	.	.	.	Note=PID 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00148	
+O00213	UniProtKB	Domain	542	699	.	.	.	Note=PID 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00148	
+O00213	UniProtKB	Compositional bias	158	171	.	.	.	Note=Glu-rich	
+O00213	UniProtKB	Modified residue	517	517	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QXJ1	
+O00213	UniProtKB	Modified residue	547	547	.	.	.	Note=Phosphotyrosine%3B by ABL1;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15031292,ECO:0000269|PubMed:18922798;Dbxref=PMID:15031292,PMID:18922798	
+O00213	UniProtKB	Modified residue	610	610	.	.	.	Note=Phosphoserine%3B by SGK1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P46933	
+O00213	UniProtKB	Alternative sequence	1	259	.	.	.	ID=VSP_047459;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:21824145;Dbxref=PMID:14702039,PMID:21824145	
+O00213	UniProtKB	Alternative sequence	1	240	.	.	.	ID=VSP_054709;Note=In isoform 6. MSVPSSLSQSAINANSHGGPALSLPLPLHAAHNQLLNAKLQATAVGPKDLRSAMGEGGGPEPGPANAKWLKEGQNQLRRAATAHRDQNRNVTLTLAEEASQEPEMAPLGPKGLIHLYSELELSAHNAANRGLRGPGLIISTQEQGPDEGEEKAAGEAEEEEEDDDDEEEEEDLSSPPGLPEPLESVEAPPRPQALTDGPREHSKSASLLFGMRNSAASDEDSSWATLSQGSPSYGSPEDT->MTQMR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O00213	UniProtKB	Alternative sequence	1	213	.	.	.	ID=VSP_045326;Note=In isoform 3 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005;Dbxref=PMID:14702039,PMID:17974005	
+O00213	UniProtKB	Alternative sequence	214	240	.	.	.	ID=VSP_045327;Note=In isoform 3 and isoform 5. NSAASDEDSSWATLSQGSPSYGSPEDT->MSAMFSQDFFLAIILQDSSA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005;Dbxref=PMID:14702039,PMID:17974005	
+O00213	UniProtKB	Alternative sequence	462	463	.	.	.	ID=VSP_011658;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O00213	UniProtKB	Natural variant	327	327	.	.	.	ID=VAR_014444;Note=M->V;Dbxref=dbSNP:rs1800423	
+O00213	UniProtKB	Natural variant	396	396	.	.	.	ID=VAR_014445;Note=N->S;Dbxref=dbSNP:rs1800425	
+O00213	UniProtKB	Mutagenesis	117	117	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	234	234	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	269	271	.	.	.	Note=Impairs transcriptional activation and inhibits binding to ABL1. YYW->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	269	269	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	270	270	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	403	403	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	467	467	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	546	546	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15031292;Dbxref=PMID:15031292	
+O00213	UniProtKB	Mutagenesis	547	547	.	.	.	Note=Abrogates phosphorylation and stimulation of transcription by ABL1%2C and increases the interaction with RASD1/DEXRAS1. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15031292,ECO:0000269|PubMed:18922798;Dbxref=PMID:15031292,PMID:18922798	
+O00213	UniProtKB	Mutagenesis	658	658	.	.	.	Note=No effect on phosphorylation by ABL1. Y->F	
+O00213	UniProtKB	Sequence conflict	367	367	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00213	UniProtKB	Sequence conflict	493	493	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00213	UniProtKB	Beta strand	259	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HO2	
+O00213	UniProtKB	Beta strand	268	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HO2	
+O00213	UniProtKB	Turn	273	275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HO2	
+O00213	UniProtKB	Beta strand	278	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2HO2	
+O00213	UniProtKB	Beta strand	368	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Helix	382	385	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Turn	387	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Helix	390	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	421	427	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	430	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Turn	436	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	441	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Helix	447	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	452	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	458	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8F	
+O00213	UniProtKB	Beta strand	464	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Turn	472	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	477	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Helix	488	504	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D8D	
+O00213	UniProtKB	Beta strand	544	554	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Helix	559	571	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Helix	575	577	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Beta strand	579	585	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Beta strand	587	594	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Turn	595	597	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Beta strand	600	605	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Helix	606	608	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Beta strand	609	614	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Beta strand	620	628	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Beta strand	631	641	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	
+O00213	UniProtKB	Helix	644	665	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3DXE	

@@ -1,0 +1,61 @@
+##gff-version 3
+##sequence-region Q86TU7 1 594
+Q86TU7	UniProtKB	Chain	1	594	.	.	.	ID=PRO_0000254175;Note=Actin-histidine N-methyltransferase	
+Q86TU7	UniProtKB	Domain	94	314	.	.	.	Note=SET;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00190	
+Q86TU7	UniProtKB	Region	104	106	.	.	.	Note=S-adenosyl-L-methionine binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3SMT,ECO:0000244|PDB:6MBJ,ECO:0000244|PDB:6MBK,ECO:0000244|PDB:6MBL,ECO:0000269|Ref.12,ECO:0000269|Ref.13	
+Q86TU7	UniProtKB	Region	275	279	.	.	.	Note=S-adenosyl-L-methionine binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3SMT,ECO:0000244|PDB:6MBJ,ECO:0000244|PDB:6MBK,ECO:0000244|PDB:6MBL,ECO:0000269|Ref.12,ECO:0000269|Ref.13	
+Q86TU7	UniProtKB	Region	325	327	.	.	.	Note=S-adenosyl-L-methionine binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3SMT,ECO:0000244|PDB:6MBJ,ECO:0000244|PDB:6MBK,ECO:0000244|PDB:6MBL,ECO:0000269|Ref.12,ECO:0000269|Ref.13	
+Q86TU7	UniProtKB	Binding site	75	75	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3SMT,ECO:0000244|PDB:6MBJ,ECO:0000244|PDB:6MBK,ECO:0000244|PDB:6MBL,ECO:0000269|Ref.12,ECO:0000269|Ref.13	
+Q86TU7	UniProtKB	Binding site	254	254	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:3SMT,ECO:0000244|PDB:6MBJ,ECO:0000244|PDB:6MBK,ECO:0000244|PDB:6MBL,ECO:0000269|Ref.12,ECO:0000269|Ref.13	
+Q86TU7	UniProtKB	Modified residue	513	513	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q86TU7	UniProtKB	Alternative sequence	284	296	.	.	.	ID=VSP_021190;Note=In isoform 2. ITTGYNLEDDRCE->TPEDSFALAVASA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:15489334	
+Q86TU7	UniProtKB	Alternative sequence	284	284	.	.	.	ID=VSP_021191;Note=In isoform 3. I->V;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86TU7	UniProtKB	Alternative sequence	285	594	.	.	.	ID=VSP_021192;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86TU7	UniProtKB	Alternative sequence	297	594	.	.	.	ID=VSP_021193;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:15489334	
+Q86TU7	UniProtKB	Natural variant	278	278	.	.	.	ID=VAR_028830;Note=N->D;Dbxref=dbSNP:rs1740231	
+Q86TU7	UniProtKB	Mutagenesis	37	42	.	.	.	Note=Does not affect ubiquitination and degradation by the SCF(FBXW7) complex. SSPAPG->ASPAPA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28442573;Dbxref=PMID:28442573	
+Q86TU7	UniProtKB	Mutagenesis	181	185	.	.	.	Note=Decreased ubiquitination and degradation by the SCF(FBXW7) complex. SEYDT->AEYDA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28442573;Dbxref=PMID:28442573	
+Q86TU7	UniProtKB	Mutagenesis	260	264	.	.	.	Note=Does not affect ubiquitination and degradation by the SCF(FBXW7) complex. TEDGS->AEDGA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28442573;Dbxref=PMID:28442573	
+Q86TU7	UniProtKB	Mutagenesis	313	313	.	.	.	Note=Abolished arotein-histidine N-methyltransferase activity. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+Q86TU7	UniProtKB	Mutagenesis	373	378	.	.	.	Note=Strongly decreased ubiquitination and degradation by the SCF(FBXW7) complex. TEPPIS->AEPPIA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28442573;Dbxref=PMID:28442573	
+Q86TU7	UniProtKB	Mutagenesis	512	517	.	.	.	Note=Does not affect ubiquitination and degradation by the SCF(FBXW7) complex. SSVGDS->ASVGDA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28442573;Dbxref=PMID:28442573	
+Q86TU7	UniProtKB	Mutagenesis	565	569	.	.	.	Note=Does not affect ubiquitination and degradation by the SCF(FBXW7) complex. SENES->AENEA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28442573;Dbxref=PMID:28442573	
+Q86TU7	UniProtKB	Sequence conflict	415	415	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86TU7	UniProtKB	Helix	22	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	46	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	75	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	79	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	96	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Turn	102	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	105	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	119	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	131	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	140	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	147	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	153	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	173	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	186	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	191	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	198	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	202	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Turn	234	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	241	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	256	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	263	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	274	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	283	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Turn	290	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	294	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	308	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	318	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	336	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	350	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	364	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	379	388	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	392	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Beta strand	403	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Turn	407	412	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	420	439	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	445	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	
+Q86TU7	UniProtKB	Helix	459	490	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SMT	

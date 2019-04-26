@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P09564 1 240
+P09564	UniProtKB	Signal peptide	1	25	.	.	.	.	
+P09564	UniProtKB	Chain	26	240	.	.	.	ID=PRO_0000014633;Note=T-cell antigen CD7	
+P09564	UniProtKB	Topological domain	26	180	.	.	.	Note=Extracellular;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:2479685;Dbxref=PMID:2479685	
+P09564	UniProtKB	Transmembrane	181	201	.	.	.	Note=Helical;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09564	UniProtKB	Topological domain	202	240	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:2479685;Dbxref=PMID:2479685	
+P09564	UniProtKB	Domain	26	130	.	.	.	Note=Ig-like	
+P09564	UniProtKB	Repeat	145	153	.	.	.	Note=1	
+P09564	UniProtKB	Repeat	154	162	.	.	.	Note=2	
+P09564	UniProtKB	Repeat	163	171	.	.	.	Note=3	
+P09564	UniProtKB	Repeat	172	180	.	.	.	Note=4	
+P09564	UniProtKB	Region	145	180	.	.	.	Note=4 X 9 AA tandem repeats%2C potential spacer function	
+P09564	UniProtKB	Lipidation	198	198	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:3501369;Dbxref=PMID:3501369	
+P09564	UniProtKB	Glycosylation	45	45	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P09564	UniProtKB	Glycosylation	96	96	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:19349973;Dbxref=PMID:19159218,PMID:19349973	
+P09564	UniProtKB	Disulfide bond	35	142	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P09564	UniProtKB	Disulfide bond	48	114	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P09564	UniProtKB	Natural variant	113	113	.	.	.	ID=VAR_049855;Note=T->A;Dbxref=dbSNP:rs34579511	

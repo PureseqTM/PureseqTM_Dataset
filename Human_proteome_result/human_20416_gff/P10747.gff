@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P10747 1 220
+P10747	UniProtKB	Signal peptide	1	18	.	.	.	.	
+P10747	UniProtKB	Chain	19	220	.	.	.	ID=PRO_0000014652;Note=T-cell-specific surface glycoprotein CD28	
+P10747	UniProtKB	Topological domain	19	152	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10747	UniProtKB	Transmembrane	153	179	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10747	UniProtKB	Topological domain	180	220	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10747	UniProtKB	Domain	28	137	.	.	.	Note=Ig-like V-type	
+P10747	UniProtKB	Modified residue	189	189	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P10747	UniProtKB	Modified residue	191	191	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+P10747	UniProtKB	Modified residue	209	209	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15144186;Dbxref=PMID:15144186	
+P10747	UniProtKB	Glycosylation	37	37	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15696168;Dbxref=PMID:15696168	
+P10747	UniProtKB	Glycosylation	71	71	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19349973;Dbxref=PMID:19349973	
+P10747	UniProtKB	Glycosylation	92	92	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P10747	UniProtKB	Glycosylation	105	105	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15696168;Dbxref=PMID:15696168	
+P10747	UniProtKB	Glycosylation	129	129	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19349973;Dbxref=PMID:19349973	
+P10747	UniProtKB	Disulfide bond	40	112	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15696168;Dbxref=PMID:15696168	
+P10747	UniProtKB	Disulfide bond	66	86	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15696168;Dbxref=PMID:15696168	
+P10747	UniProtKB	Alternative sequence	1	17	.	.	.	ID=VSP_047701;Note=In isoform 7. MLRLLLALNLFPSIQVT->MPCGLSALIMCPKGMVAVVVAVDDGDSQALA;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+P10747	UniProtKB	Alternative sequence	19	137	.	.	.	ID=VSP_002494;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11877290;Dbxref=PMID:11877290	
+P10747	UniProtKB	Alternative sequence	40	137	.	.	.	ID=VSP_002496;Note=In isoform 4. CKYSYNLFSREFRASLHKGLDSAVEVCVVYGNYSQQLQVYSKTGFNCDGKLGNESVTFYLQNLYVNQTDIYFCKIEVMYPPPYLDNEKSNGTIIHVKG->W;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11877290;Dbxref=PMID:11877290	
+P10747	UniProtKB	Alternative sequence	40	124	.	.	.	ID=VSP_002495;Note=In isoform 3%2C isoform 5 and isoform 6. CKYSYNLFSREFRASLHKGLDSAVEVCVVYGNYSQQLQVYSKTGFNCDGKLGNESVTFYLQNLYVNQTDIYFCKIEVMYPPPYLD->Y;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11877290,ECO:0000303|PubMed:11916166;Dbxref=PMID:11877290,PMID:11916166	
+P10747	UniProtKB	Alternative sequence	138	139	.	.	.	ID=VSP_002497;Note=In isoform 5. KH->EE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11916166;Dbxref=PMID:11916166	
+P10747	UniProtKB	Alternative sequence	140	220	.	.	.	ID=VSP_002498;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11916166;Dbxref=PMID:11916166	
+P10747	UniProtKB	Alternative sequence	152	207	.	.	.	ID=VSP_002499;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11877290;Dbxref=PMID:11877290	
+P10747	UniProtKB	Beta strand	27	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	35	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	49	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	64	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	81	83	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	85	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	92	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Helix	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	108	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	
+P10747	UniProtKB	Beta strand	131	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YJD	

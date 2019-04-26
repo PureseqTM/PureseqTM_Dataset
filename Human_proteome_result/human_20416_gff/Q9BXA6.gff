@@ -1,0 +1,9 @@
+##gff-version 3
+##sequence-region Q9BXA6 1 273
+Q9BXA6	UniProtKB	Chain	1	273	.	.	.	ID=PRO_0000227746;Note=Testis-specific serine/threonine-protein kinase 6	
+Q9BXA6	UniProtKB	Domain	12	267	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9BXA6	UniProtKB	Nucleotide binding	18	26	.	.	.	Note=ATP;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q9D2E1,ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9BXA6	UniProtKB	Active site	135	135	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027,ECO:0000269|PubMed:15870294;Dbxref=PMID:15870294	
+Q9BXA6	UniProtKB	Binding site	41	41	.	.	.	Note=ATP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000269|PubMed:15870294;Dbxref=PMID:15870294	
+Q9BXA6	UniProtKB	Mutagenesis	41	41	.	.	.	Note=Loss of kinase activity. Loss of binding to TSACC. K->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15870294,ECO:0000269|PubMed:20829357;Dbxref=PMID:15870294,PMID:20829357	
+Q9BXA6	UniProtKB	Mutagenesis	135	135	.	.	.	Note=Loss of kinase activity. No effect of binding to TSACC. D->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15870294,ECO:0000269|PubMed:20829357;Dbxref=PMID:15870294,PMID:20829357	

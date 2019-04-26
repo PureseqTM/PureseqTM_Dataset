@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region Q08830 1 312
+Q08830	UniProtKB	Signal peptide	1	22	.	.	.	.	
+Q08830	UniProtKB	Chain	23	312	.	.	.	ID=PRO_0000009105;Note=Fibrinogen-like protein 1	
+Q08830	UniProtKB	Domain	74	306	.	.	.	Note=Fibrinogen C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q08830	UniProtKB	Coiled coil	23	61	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q08830	UniProtKB	Disulfide bond	26	26	.	.	.	Note=Interchain;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q08830	UniProtKB	Disulfide bond	83	112	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q08830	UniProtKB	Disulfide bond	248	261	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q08830	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_024002;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11470158,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:8390249,ECO:0000269|Ref.3,ECO:0000269|Ref.6;Dbxref=dbSNP:rs484373,PMID:11470158,PMID:14702039,PMID:8390249	
+Q08830	UniProtKB	Natural variant	72	72	.	.	.	ID=VAR_024003;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:8390249,ECO:0000269|Ref.3,ECO:0000269|Ref.6;Dbxref=dbSNP:rs3739406,PMID:14702039,PMID:8390249	
+Q08830	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_024004;Note=P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11470158,ECO:0000269|Ref.6;Dbxref=dbSNP:rs2653406,PMID:11470158	
+Q08830	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_024005;Note=Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs34019703	
+Q08830	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_049067;Note=M->V;Dbxref=dbSNP:rs35311020	
+Q08830	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_024006;Note=T->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs34239530	
+Q08830	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_024007;Note=Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.6;Dbxref=dbSNP:rs35431851	
+Q08830	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_049068;Note=W->L;Dbxref=dbSNP:rs2653414	
+Q08830	UniProtKB	Sequence conflict	69	69	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

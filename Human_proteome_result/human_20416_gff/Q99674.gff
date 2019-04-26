@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q99674 1 301
+Q99674	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99674	UniProtKB	Chain	20	301	.	.	.	ID=PRO_0000073874;Note=Cell growth regulator with EF hand domain protein 1	
+Q99674	UniProtKB	Domain	69	104	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q99674	UniProtKB	Domain	114	149	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q99674	UniProtKB	Calcium binding	82	93	.	.	.	Note=1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q99674	UniProtKB	Calcium binding	127	138	.	.	.	Note=2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q99674	UniProtKB	Alternative sequence	1	96	.	.	.	ID=VSP_046505;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99674	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_046504;Note=In isoform 5. M->MNGLKEVRYACAVLLWAPWHLVGSKGMGRGVGMRPQLCFRHSRPAFMCFIYKSWSDIYFEHSSMGSLLSVCESSLSRSPVFGAAGRSRQKMRLCLTQPICDTVADASFPRPLILFLVPVPGRM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99674	UniProtKB	Alternative sequence	115	132	.	.	.	ID=VSP_045389;Note=In isoform 2. VILIVDKVLETQDLNGDG->GNLDARLDGGEKAMQPQW;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q99674	UniProtKB	Alternative sequence	133	301	.	.	.	ID=VSP_045390;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q99674	UniProtKB	Alternative sequence	149	301	.	.	.	ID=VSP_046506;Note=In isoform 3. HVEPGEPLAPSPQEPQAVGRQSLLAKSPLRQETQEAPGPREEAKGQVEARRESLDPVQEPGGQAEADGDVPGPRGEAEGQAEAKGDAPGPRGEAGGQAEAEGDAPGPRGEAGGQAEARENGEEAKELPGETLESKNTQNDFEVHIVQVENDEI->PYPPYIGVGPNSNMCSRSDLPEDSNTLYPGSHLWLRHALNSKGNLDARLDGGEKAMQPQW;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99674	UniProtKB	Alternative sequence	232	232	.	.	.	ID=VSP_046507;Note=In isoform 5. K->KGDAPGPRGEAGGQAEAE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99674	UniProtKB	Alternative sequence	261	261	.	.	.	ID=VSP_046508;Note=In isoform 4. G->GQAEAEGDAPGPRGEAGG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99674	UniProtKB	Natural variant	116	116	.	.	.	ID=VAR_061088;Note=I->M;Dbxref=dbSNP:rs2384572	
+Q99674	UniProtKB	Natural variant	212	212	.	.	.	ID=VAR_047648;Note=A->V;Dbxref=dbSNP:rs11893478	
+Q99674	UniProtKB	Natural variant	232	232	.	.	.	ID=VAR_047649;Note=K->N;Dbxref=dbSNP:rs11889831	
+Q99674	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_047650;Note=G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8968090;Dbxref=dbSNP:rs1057389,PMID:8968090	
+Q99674	UniProtKB	Sequence conflict	249	249	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	

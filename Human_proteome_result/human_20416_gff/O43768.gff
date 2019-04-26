@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region O43768 1 121
+O43768	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:20068231,PMID:21406692	
+O43768	UniProtKB	Chain	2	121	.	.	.	ID=PRO_0000146758;Note=Alpha-endosulfine	
+O43768	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:20068231,PMID:21406692	
+O43768	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:20068231,PMID:21406692,PMID:23186163	
+O43768	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O43768	UniProtKB	Modified residue	43	43	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O43768	UniProtKB	Modified residue	67	67	.	.	.	Note=Phosphoserine%3B by GWL;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O43768	UniProtKB	Modified residue	109	109	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:18973346;Dbxref=PMID:20068231,PMID:21406692,PMID:18973346	
+O43768	UniProtKB	Alternative sequence	1	4	.	.	.	ID=VSP_037063;Note=In isoform 5%2C isoform 6 and isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43768	UniProtKB	Alternative sequence	5	19	.	.	.	ID=VSP_037064;Note=In isoform 5%2C isoform 6 and isoform 7. QEEENPAEETGEEKQ->MAGGLGCDVCYWFVE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43768	UniProtKB	Alternative sequence	61	61	.	.	.	ID=VSP_037065;Note=In isoform 3%2C isoform 7 and isoform 9. G->GDYKSLHWSVLLCADEM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O43768	UniProtKB	Alternative sequence	61	61	.	.	.	ID=VSP_037066;Note=In isoform 4. G->GVWGIASYPLSLGLKEVLRMKSVE;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+O43768	UniProtKB	Alternative sequence	62	121	.	.	.	ID=VSP_037067;Note=In isoform 8. QKYFDSGDYNMAKAKMKNKQLPSAGPDKNLVTGDHIPTPQDLPQRKSSLVTSKLAGGQVE->VWGIVSYPLSLELKEVLRMKSVEVLLDPFLEVLLLNRSRGEFEI;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43768	UniProtKB	Alternative sequence	118	121	.	.	.	ID=VSP_001443;Note=In isoform 2%2C isoform 4%2C isoform 6 and isoform 9. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|Ref.5,ECO:0000303|Ref.8;Dbxref=PMID:14702039,PMID:15489334,PMID:17974005	
+O43768	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Mimicks a phosphorylated state and impairs interaction with SNCA. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18973346;Dbxref=PMID:18973346	
+O43768	UniProtKB	Sequence conflict	5	5	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43768	UniProtKB	Sequence conflict	21	21	.	.	.	Note=T->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43768	UniProtKB	Sequence conflict	22	22	.	.	.	Note=Q->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O43768	UniProtKB	Sequence conflict	114	114	.	.	.	Note=K->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

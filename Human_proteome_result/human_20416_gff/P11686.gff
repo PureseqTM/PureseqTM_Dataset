@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P11686 1 197
+P11686	UniProtKB	Propeptide	1	23	.	.	.	ID=PRO_0000033477;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3366248;Dbxref=PMID:3366248	
+P11686	UniProtKB	Chain	24	58	.	.	.	ID=PRO_0000033478;Note=Pulmonary surfactant-associated protein C	
+P11686	UniProtKB	Propeptide	59	197	.	.	.	ID=PRO_0000033479	
+P11686	UniProtKB	Domain	94	197	.	.	.	Note=BRICHOS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00255	
+P11686	UniProtKB	Lipidation	28	28	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2326260;Dbxref=PMID:2326260	
+P11686	UniProtKB	Lipidation	29	29	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2326260;Dbxref=PMID:2326260	
+P11686	UniProtKB	Disulfide bond	120	148	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22308375;Dbxref=PMID:22308375	
+P11686	UniProtKB	Disulfide bond	121	189	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22308375;Dbxref=PMID:22308375	
+P11686	UniProtKB	Alternative sequence	146	151	.	.	.	ID=VSP_006311;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.7	
+P11686	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_036855;Note=In SMDP2%3B targeted abnormally to early endosomes and likely to result in a toxic gain of function. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15557112;Dbxref=PMID:15557112	
+P11686	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_026753;Note=In SMDP2%3B abnormal trafficking and accumulation of aberrantly processed proSPC within alveoli. I->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15039969,ECO:0000269|PubMed:15293602,ECO:0000269|PubMed:15572558;Dbxref=PMID:15039969,PMID:15293602,PMID:15572558	
+P11686	UniProtKB	Natural variant	116	116	.	.	.	ID=VAR_026754;Note=In SMDP2. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15647591;Dbxref=PMID:15647591	
+P11686	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_007453;Note=Influences susceptibility to RDS in premature infants. N->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:14735158,ECO:0000269|PubMed:16421571,ECO:0000269|PubMed:2839484,ECO:0000269|PubMed:8181452,ECO:0000269|Ref.10,ECO:0000269|Ref.5,ECO:0000269|Ref.8;Dbxref=dbSNP:rs4715,PMID:14702039,PMID:14735158,PMID:16421571,PMID:2839484,PMID:8181452	
+P11686	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_026755;Note=In SMDP2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15039969;Dbxref=dbSNP:rs34957318,PMID:15039969	
+P11686	UniProtKB	Natural variant	186	186	.	.	.	ID=VAR_016175;Note=Influences susceptibility to RDS in premature infants. N->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:14735158,ECO:0000269|PubMed:16421571,ECO:0000269|PubMed:8181452,ECO:0000269|Ref.10,ECO:0000269|Ref.5,ECO:0000269|Ref.8;Dbxref=dbSNP:rs1124,PMID:14702039,PMID:14735158,PMID:16421571,PMID:8181452	
+P11686	UniProtKB	Natural variant	188	188	.	.	.	ID=VAR_026756;Note=In SMDP2. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11991887;Dbxref=PMID:11991887	
+P11686	UniProtKB	Sequence conflict	14	14	.	.	.	Note=P->PPCQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P11686	UniProtKB	Sequence conflict	45	45	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P11686	UniProtKB	Sequence conflict	65	67	.	.	.	Note=TEM->FPQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P11686	UniProtKB	Beta strand	91	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Turn	97	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Beta strand	100	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Turn	106	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Beta strand	110	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Beta strand	121	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Helix	134	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Helix	183	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	
+P11686	UniProtKB	Beta strand	194	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YAD	

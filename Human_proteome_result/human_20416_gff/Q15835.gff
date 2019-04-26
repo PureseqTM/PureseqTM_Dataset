@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q15835 1 563
+Q15835	UniProtKB	Chain	1	560	.	.	.	ID=PRO_0000024375;Note=Rhodopsin kinase	
+Q15835	UniProtKB	Propeptide	561	563	.	.	.	ID=PRO_0000024376;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q15835	UniProtKB	Domain	58	175	.	.	.	Note=RGS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00171	
+Q15835	UniProtKB	Domain	190	455	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q15835	UniProtKB	Domain	456	521	.	.	.	Note=AGC-kinase C-terminal	
+Q15835	UniProtKB	Nucleotide binding	196	204	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q15835	UniProtKB	Region	1	189	.	.	.	Note=N-terminal	
+Q15835	UniProtKB	Region	456	563	.	.	.	Note=C-terminal	
+Q15835	UniProtKB	Active site	317	317	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q15835	UniProtKB	Binding site	219	219	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q15835	UniProtKB	Modified residue	5	5	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28327	
+Q15835	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28327	
+Q15835	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphoserine%3B by PKA and autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15946941;Dbxref=PMID:15946941	
+Q15835	UniProtKB	Modified residue	491	491	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28327	
+Q15835	UniProtKB	Modified residue	492	492	.	.	.	Note=Phosphothreonine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28327	
+Q15835	UniProtKB	Modified residue	560	560	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28327	
+Q15835	UniProtKB	Lipidation	560	560	.	.	.	Note=S-farnesyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28327	
+Q15835	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_008283;Note=E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs542688076,PMID:9268593	
+Q15835	UniProtKB	Natural variant	298	298	.	.	.	ID=VAR_008284;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs572803634,PMID:9268593	
+Q15835	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_008285;Note=N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs375409897,PMID:9268593	
+Q15835	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_006215;Note=In CSNBO2. V->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9020843;Dbxref=dbSNP:rs777094000,PMID:9020843	
+Q15835	UniProtKB	Natural variant	391	391	.	.	.	ID=VAR_037904;Note=In CSNBO2. P->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17070587;Dbxref=dbSNP:rs570621429,PMID:17070587	
+Q15835	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_008286;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs750619057,PMID:9268593	
+Q15835	UniProtKB	Natural variant	514	514	.	.	.	ID=VAR_008287;Note=C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs771561763,PMID:9268593	
+Q15835	UniProtKB	Natural variant	522	522	.	.	.	ID=VAR_008288;Note=M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs779749742,PMID:9268593	
+Q15835	UniProtKB	Natural variant	536	536	.	.	.	ID=VAR_008289;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9268593;Dbxref=dbSNP:rs553969577,PMID:9268593	
+Q15835	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Not phosphorylated by PKA. S->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15946941;Dbxref=PMID:15946941	
+Q15835	UniProtKB	Mutagenesis	219	219	.	.	.	Note=Loss of autophosphorylation and RHO phosphorylation. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15946941;Dbxref=PMID:15946941	
+Q15835	UniProtKB	Helix	7	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AFP	

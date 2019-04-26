@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region Q9HC62 1 589
+Q9HC62	UniProtKB	Chain	1	589	.	.	.	ID=PRO_0000101718;Note=Sentrin-specific protease 2	
+Q9HC62	UniProtKB	Region	396	560	.	.	.	Note=Protease	
+Q9HC62	UniProtKB	Motif	28	31	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16738331;Dbxref=PMID:16738331	
+Q9HC62	UniProtKB	Motif	46	51	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16738331;Dbxref=PMID:16738331	
+Q9HC62	UniProtKB	Motif	317	332	.	.	.	Note=Nuclear export signal	
+Q9HC62	UniProtKB	Active site	478	478	.	.	.	.	
+Q9HC62	UniProtKB	Active site	495	495	.	.	.	.	
+Q9HC62	UniProtKB	Active site	548	548	.	.	.	Note=Nucleophile	
+Q9HC62	UniProtKB	Modified residue	32	32	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HC62	UniProtKB	Modified residue	333	333	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HC62	UniProtKB	Modified residue	344	344	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q9HC62	UniProtKB	Alternative sequence	1	33	.	.	.	ID=VSP_056697;Note=In isoform 2. MYRWLVRILGTIFRFCDRSVPPARALLKRRRSD->MDSHPCLYCGPQDSEGTNWQTSP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9HC62	UniProtKB	Natural variant	301	301	.	.	.	ID=VAR_029650;Note=T->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10718198,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.1;Dbxref=dbSNP:rs6762208,PMID:10718198,PMID:14702039,PMID:17974005	
+Q9HC62	UniProtKB	Mutagenesis	548	548	.	.	.	Note=Does not desumoylate CEBPB. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20194620;Dbxref=PMID:20194620	
+Q9HC62	UniProtKB	Mutagenesis	576	577	.	.	.	Note=Does not desumoylate CEBPB. RK->LM;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20194620;Dbxref=PMID:20194620	
+Q9HC62	UniProtKB	Sequence conflict	39	39	.	.	.	Note=T->TA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC62	UniProtKB	Sequence conflict	403	403	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HC62	UniProtKB	Turn	213	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	216	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	231	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	259	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	370	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	381	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	388	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	396	398	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	399	402	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	403	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	413	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	435	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	442	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	455	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	463	465	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	466	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Beta strand	479	485	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Turn	486	489	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TH0	
+Q9HC62	UniProtKB	Beta strand	490	494	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TH0	
+Q9HC62	UniProtKB	Beta strand	496	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IO3	
+Q9HC62	UniProtKB	Helix	502	519	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TH0	
+Q9HC62	UniProtKB	Helix	526	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TH0	
+Q9HC62	UniProtKB	Beta strand	530	533	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TH0	
+Q9HC62	UniProtKB	Turn	536	538	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1TH0	
+Q9HC62	UniProtKB	Turn	543	546	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	548	560	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	569	571	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	
+Q9HC62	UniProtKB	Helix	572	585	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ZO5	

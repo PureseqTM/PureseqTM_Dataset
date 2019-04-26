@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region P48595 1 397
+P48595	UniProtKB	Chain	1	397	.	.	.	ID=PRO_0000094114;Note=Serpin B10	
+P48595	UniProtKB	Motif	74	77	.	.	.	Note=Nuclear localization signal	
+P48595	UniProtKB	Site	362	363	.	.	.	Note=Reactive bond;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P48595	UniProtKB	Disulfide bond	68	395	.	.	.	Note=Redox-active;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20433722;Dbxref=PMID:20433722	
+P48595	UniProtKB	Natural variant	3	3	.	.	.	ID=VAR_051949;Note=S->A;Dbxref=dbSNP:rs17072097	
+P48595	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_024353;Note=I->M;Dbxref=dbSNP:rs8097425	
+P48595	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_024354;Note=I->T;Dbxref=dbSNP:rs724558	
+P48595	UniProtKB	Natural variant	135	135	.	.	.	ID=VAR_051950;Note=G->D;Dbxref=dbSNP:rs17072146	
+P48595	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_024355;Note=P->S;Dbxref=dbSNP:rs9967382	
+P48595	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_022116;Note=R->C;Dbxref=dbSNP:rs963075	
+P48595	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_051951;Note=D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs35453062,PMID:15489334	
+P48595	UniProtKB	Mutagenesis	74	77	.	.	.	Note=Abolishes nuclear localization. KKRK->AAAA	
+P48595	UniProtKB	Mutagenesis	395	395	.	.	.	Note=No effect on cell proliferation. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20433722;Dbxref=PMID:20433722	

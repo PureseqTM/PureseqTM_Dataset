@@ -1,0 +1,58 @@
+##gff-version 3
+##sequence-region P42575 1 452
+P42575	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P42575	UniProtKB	Propeptide	2	169	.	.	.	ID=PRO_0000004541	
+P42575	UniProtKB	Chain	170	325	.	.	.	ID=PRO_0000004542;Note=Caspase-2 subunit p18	
+P42575	UniProtKB	Propeptide	326	333	.	.	.	ID=PRO_0000004543	
+P42575	UniProtKB	Chain	334	452	.	.	.	ID=PRO_0000004544;Note=Caspase-2 subunit p13	
+P42575	UniProtKB	Chain	348	452	.	.	.	ID=PRO_0000004545;Note=Caspase-2 subunit p12	
+P42575	UniProtKB	Domain	32	121	.	.	.	Note=CARD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00046	
+P42575	UniProtKB	Active site	277	277	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42575	UniProtKB	Active site	320	320	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P42575	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P42575	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P42575	UniProtKB	Modified residue	340	340	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:21406692;Dbxref=PMID:21406692	
+P42575	UniProtKB	Alternative sequence	1	31	.	.	.	ID=VSP_000801;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8087842,ECO:0000303|Ref.3;Dbxref=PMID:8087842	
+P42575	UniProtKB	Alternative sequence	1	17	.	.	.	ID=VSP_046280;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11156409;Dbxref=PMID:11156409	
+P42575	UniProtKB	Alternative sequence	107	108	.	.	.	ID=VSP_046281;Note=In isoform 3. RE->HS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11156409;Dbxref=PMID:11156409	
+P42575	UniProtKB	Alternative sequence	109	452	.	.	.	ID=VSP_046282;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11156409;Dbxref=PMID:11156409	
+P42575	UniProtKB	Alternative sequence	323	452	.	.	.	ID=VSP_000802;Note=In isoform 2. DETDRGVDQQDGKNHAGSPGCEESDAGKEKLPKMRLPTRSDMICGYACLKGTAAMRNTKRGSWYIEALAQVFSERACDMHVADMLVKVNALIKDREGYAPGTEFHRCKEMSEYCSTLCRHLYLFPGHPPT->GGAIGSLGHLLLFTAATASLAL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8087842,ECO:0000303|Ref.3;Dbxref=PMID:8087842	
+P42575	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_055621;Note=A->G;Dbxref=dbSNP:rs4647298	
+P42575	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_016334;Note=V->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.5,ECO:0000269|Ref.9;Dbxref=dbSNP:rs4647297,PMID:15489334	
+P42575	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_016335;Note=P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs4647298	
+P42575	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_016336;Note=R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs4647338	
+P42575	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Loss of interaction with CRADD. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	95	95	.	.	.	Note=Loss of interaction with CRADD. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	99	99	.	.	.	Note=Loss of interaction with CRADD. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	100	100	.	.	.	Note=No effect on interaction with CRADD. Loss of interaction with CRADD%3B when associated A-104. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	102	102	.	.	.	Note=Loss of interaction with CRADD. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	104	104	.	.	.	Note=No effect on interaction with CRADD. Loss of interaction with CRADD%3B when associated A-100. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	106	106	.	.	.	Note=Loss of interaction with CRADD. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8985253;Dbxref=PMID:8985253	
+P42575	UniProtKB	Mutagenesis	320	320	.	.	.	Note=Loss of function. C->S	
+P42575	UniProtKB	Mutagenesis	369	369	.	.	.	Note=Loss of function. A->T	
+P42575	UniProtKB	Sequence conflict	309	322	.	.	.	Note=QNKPKMFFIQACRG->EEVTSLSILSAFVT;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P42575	UniProtKB	Helix	181	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	188	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	197	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	222	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	238	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	248	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	262	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	267	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	282	284	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	290	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	293	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Turn	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	313	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	321	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	363	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	377	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R5J	
+P42575	UniProtKB	Turn	380	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	385	397	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Turn	398	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Helix	403	415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Turn	425	428	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	434	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1PYO	
+P42575	UniProtKB	Beta strand	440	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3R7S	

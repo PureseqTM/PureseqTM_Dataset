@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region Q9BV40 1 100
+Q9BV40	UniProtKB	Chain	1	100	.	.	.	ID=PRO_0000206736;Note=Vesicle-associated membrane protein 8	
+Q9BV40	UniProtKB	Topological domain	1	75	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BV40	UniProtKB	Transmembrane	76	96	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BV40	UniProtKB	Topological domain	97	100	.	.	.	Note=Vesicular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BV40	UniProtKB	Domain	12	72	.	.	.	Note=v-SNARE coiled-coil homology;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00290	
+Q9BV40	UniProtKB	Site	33	33	.	.	.	Note=Interaction with STX8;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUF4	
+Q9BV40	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:25944712;Dbxref=PMID:19413330,PMID:25944712	
+Q9BV40	UniProtKB	Modified residue	5	5	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BV40	UniProtKB	Modified residue	18	18	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BV40	UniProtKB	Modified residue	28	28	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BV40	UniProtKB	Modified residue	48	48	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BV40	UniProtKB	Modified residue	54	54	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BV40	UniProtKB	Modified residue	55	55	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BV40	UniProtKB	Sequence conflict	12	12	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BV40	UniProtKB	Sequence conflict	81	81	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BV40	UniProtKB	Helix	12	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WY4	

@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P08697 1 491
+P08697	UniProtKB	Signal peptide	1	27	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1385210,ECO:0000269|PubMed:8484741;Dbxref=PMID:1385210,PMID:8484741	
+P08697	UniProtKB	Propeptide	28	39	.	.	.	ID=PRO_0000032511;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14751930,ECO:0000269|PubMed:16223769,ECO:0000269|PubMed:21075,ECO:0000269|PubMed:2440681;Dbxref=PMID:14751930,PMID:16223769,PMID:21075,PMID:2440681	
+P08697	UniProtKB	Chain	40	491	.	.	.	ID=PRO_0000032512;Note=Alpha-2-antiplasmin	
+P08697	UniProtKB	Site	39	40	.	.	.	Note=Cleavage%3B by prolyl endopeptidase FAP%2C antiplasmin-cleaving enzyme FAP soluble form;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14751930,ECO:0000269|PubMed:16223769;Dbxref=PMID:14751930,PMID:16223769	
+P08697	UniProtKB	Site	403	404	.	.	.	Note=Reactive bond for plasmin	
+P08697	UniProtKB	Site	404	405	.	.	.	Note=Reactive bond for chymotrypsin	
+P08697	UniProtKB	Modified residue	484	484	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2434496;Dbxref=PMID:2434496	
+P08697	UniProtKB	Glycosylation	126	126	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P08697	UniProtKB	Glycosylation	295	295	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P08697	UniProtKB	Glycosylation	309	309	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P08697	UniProtKB	Glycosylation	316	316	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P08697	UniProtKB	Disulfide bond	70	143	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9169621;Dbxref=PMID:9169621	
+P08697	UniProtKB	Cross-link	41	41	.	.	.	Note=Isoglutamyl lysine isopeptide (Gln-Lys) (interchain with K-322 in alpha-fibrinogen)	
+P08697	UniProtKB	Alternative sequence	56	119	.	.	.	ID=VSP_043833;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P08697	UniProtKB	Alternative sequence	120	122	.	.	.	ID=VSP_043834;Note=In isoform 2. LAL->VQP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P08697	UniProtKB	Natural variant	2	2	.	.	.	ID=VAR_047951;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs2070862,PMID:15489334	
+P08697	UniProtKB	Natural variant	27	27	.	.	.	ID=VAR_013252;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10583218;Dbxref=PMID:10583218	
+P08697	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_013253;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10583218;Dbxref=dbSNP:rs2070863,PMID:10583218	
+P08697	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_051956;Note=A->G;Dbxref=dbSNP:rs36021516	
+P08697	UniProtKB	Natural variant	176	176	.	.	.	ID=VAR_013254;Note=In APLID%3B variant Okinawa%3B probably blocks intracellular transport of alpha-2-plasmin inhibitor. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2572590;Dbxref=PMID:2572590	
+P08697	UniProtKB	Natural variant	411	411	.	.	.	ID=VAR_013255;Note=In APLID. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10583218;Dbxref=dbSNP:rs121965062,PMID:10583218	
+P08697	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_013256;Note=R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10583218;Dbxref=dbSNP:rs1057335,PMID:10583218	
+P08697	UniProtKB	Natural variant	451	451	.	.	.	ID=VAR_061792;Note=P->S;Dbxref=dbSNP:rs57360598	
+P08697	UniProtKB	Sequence conflict	49	49	.	.	.	Note=L->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08697	UniProtKB	Sequence conflict	105	105	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08697	UniProtKB	Sequence conflict	289	289	.	.	.	Note=H->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08697	UniProtKB	Sequence conflict	408	408	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08697	UniProtKB	Sequence conflict	455	455	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	

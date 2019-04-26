@@ -1,0 +1,47 @@
+##gff-version 3
+##sequence-region Q14003 1 757
+Q14003	UniProtKB	Chain	1	757	.	.	.	ID=PRO_0000054055;Note=Potassium voltage-gated channel subfamily C member 3	
+Q14003	UniProtKB	Topological domain	1	290	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14003	UniProtKB	Transmembrane	291	309	.	.	.	Note=Helical%3B Name%3DSegment S1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Transmembrane	351	370	.	.	.	Note=Helical%3B Name%3DSegment S2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Topological domain	371	379	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Transmembrane	380	398	.	.	.	Note=Helical%3B Name%3DSegment S3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Transmembrane	412	434	.	.	.	Note=Helical%3B Voltage-sensor%3B Name%3DSegment S4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Topological domain	435	447	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Transmembrane	448	469	.	.	.	Note=Helical%3B Name%3DSegment S5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Transmembrane	518	539	.	.	.	Note=Helical%3B Name%3DSegment S6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Topological domain	540	757	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14003	UniProtKB	Region	1	78	.	.	.	Note=Important for normal N-type inactivation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26997484;Dbxref=PMID:26997484	
+Q14003	UniProtKB	Motif	503	508	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q14003	UniProtKB	Compositional bias	31	38	.	.	.	Note=Poly-Pro	
+Q14003	UniProtKB	Compositional bias	39	42	.	.	.	Note=Poly-Gln	
+Q14003	UniProtKB	Compositional bias	81	85	.	.	.	Note=Poly-Gly	
+Q14003	UniProtKB	Compositional bias	229	234	.	.	.	Note=Poly-Gly	
+Q14003	UniProtKB	Compositional bias	577	587	.	.	.	Note=Poly-Pro	
+Q14003	UniProtKB	Compositional bias	596	599	.	.	.	Note=Poly-Pro	
+Q14003	UniProtKB	Compositional bias	668	673	.	.	.	Note=Poly-Ala	
+Q14003	UniProtKB	Modified residue	625	625	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63959	
+Q14003	UniProtKB	Modified residue	686	686	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63959	
+Q14003	UniProtKB	Modified residue	691	691	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q63959	
+Q14003	UniProtKB	Glycosylation	320	320	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Glycosylation	336	336	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Glycosylation	483	483	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14003	UniProtKB	Natural variant	41	41	.	.	.	ID=VAR_074192;Note=Rare polymorphism. Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs185017345,PMID:25756792	
+Q14003	UniProtKB	Natural variant	63	63	.	.	.	ID=VAR_074193;Note=Rare polymorphism. D->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10712820,ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs375912738,PMID:10712820,PMID:25756792	
+Q14003	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_074194;Note=In SCA13%3B unknown pathological significance%3B changes channel activity%3B shifts the voltage dependence of activation. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=PMID:25756792	
+Q14003	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_074195;Note=Rare polymorphism%3B changes channel activity%3B activates more quickly and deactivates more slowly. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21479265;Dbxref=PMID:21479265	
+Q14003	UniProtKB	Natural variant	366	366	.	.	.	ID=VAR_074196;Note=In SCA13%3B unknown pathological significance%3B dominant negative that decreases channel activity%3B decreases protein abundance%3B decreases protein stability%3B decreases localization to the plasma membrane%3B no effect on tetramerization. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19953606,ECO:0000269|PubMed:23734863;Dbxref=dbSNP:rs769502387,PMID:19953606,PMID:23734863	
+Q14003	UniProtKB	Natural variant	420	420	.	.	.	ID=VAR_029530;Note=In SCA13%3B dominant negative that induces loss of channel activity%3B decreases protein abundance%3B decreases protein stability%3B decreases localization to the plasma membrane and alters the localization of the wild-type protein%3B impairs N-glycosylation%3B no effect on tetramerization. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16501573,ECO:0000269|PubMed:19953606,ECO:0000269|PubMed:22289912,ECO:0000269|PubMed:23734863,ECO:0000269|PubMed:25152487,ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs104894699,PMID:16501573,PMID:19953606,PMID:22289912,PMID:23734863,PMID:25152487,PMID:25756792	
+Q14003	UniProtKB	Natural variant	423	423	.	.	.	ID=VAR_074197;Note=In SCA13%3B dominant negative that reduces channel activity%3B alters gating%3B decreases protein abundance%3B decreases localization to the plasma membrane%3B no effect on tetramerization. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19953606,ECO:0000269|PubMed:21479265,ECO:0000269|PubMed:22289912,ECO:0000269|PubMed:23734863,ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs797044872,PMID:19953606,PMID:21479265,PMID:22289912,PMID:23734863,PMID:25756792	
+Q14003	UniProtKB	Natural variant	448	448	.	.	.	ID=VAR_029531;Note=In SCA13%3B alters gating%3B slows channel closing%3B decreases protein abundance%3B no effect on localization to the plasma membrane%3B no effect on N-glycosylation%3B no effect on tetramerization. F->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16501573,ECO:0000269|PubMed:22289912,ECO:0000269|PubMed:23734863,ECO:0000269|PubMed:25152487;Dbxref=dbSNP:rs104894700,PMID:16501573,PMID:22289912,PMID:23734863,PMID:25152487	
+Q14003	UniProtKB	Natural variant	477	477	.	.	.	ID=VAR_074198;Note=In SCA13%3B unknown pathological significance%3B no effect on channel activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs148033381,PMID:25756792	
+Q14003	UniProtKB	Natural variant	535	535	.	.	.	ID=VAR_074199;Note=In SCA13%3B changes channel activity%3B shifts the voltage dependence of activation. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=PMID:25756792	
+Q14003	UniProtKB	Natural variant	591	591	.	.	.	ID=VAR_074200;Note=In SCA13%3B unknown pathological significance%3B reduces channel activity%3B shifts the voltage dependence of activation. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs549394447,PMID:25756792	
+Q14003	UniProtKB	Natural variant	643	643	.	.	.	ID=VAR_074201;Note=In SCA13%3B unknown pathological significance%3B no effect on channel activity. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs778523009,PMID:25756792	
+Q14003	UniProtKB	Natural variant	645	645	.	.	.	ID=VAR_074202;Note=In SCA13%3B unknown pathological significance%3B no effect on channel activity. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs1460306526,PMID:25756792	
+Q14003	UniProtKB	Natural variant	746	746	.	.	.	ID=VAR_074203;Note=In SCA13%3B unknown pathological significance%3B no effect on channel activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25756792;Dbxref=dbSNP:rs958323371,PMID:25756792	
+Q14003	UniProtKB	Mutagenesis	1	78	.	.	.	Note=Loss of N-type inactivation. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26997484;Dbxref=PMID:26997484	
+Q14003	UniProtKB	Mutagenesis	366	366	.	.	.	Note=Decreases protein abundance. R->K%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23734863;Dbxref=PMID:23734863	
+Q14003	UniProtKB	Mutagenesis	420	420	.	.	.	Note=Decreases protein abundance. R->K%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23734863;Dbxref=PMID:23734863	
+Q14003	UniProtKB	Mutagenesis	423	423	.	.	.	Note=Decreases protein abundance. R->K%2CA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23734863;Dbxref=PMID:23734863	
+Q14003	UniProtKB	Mutagenesis	592	592	.	.	.	Note=Loss of interaction with ACTR3. No effect on voltage-dependent channel opening or current amplitude%2C but decreased rate of inactivation during prolonged depolarization. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26997484;Dbxref=PMID:26997484	

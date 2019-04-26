@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region Q8N539 1 461
+Q8N539	UniProtKB	Chain	1	461	.	.	.	ID=PRO_0000294315;Note=Fibrinogen C domain-containing protein 1	
+Q8N539	UniProtKB	Topological domain	1	33	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N539	UniProtKB	Transmembrane	34	54	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N539	UniProtKB	Topological domain	55	461	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N539	UniProtKB	Domain	235	458	.	.	.	Note=Fibrinogen C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q8N539	UniProtKB	Metal binding	393	393	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8N539	UniProtKB	Metal binding	395	395	.	.	.	Note=Calcium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q8N539	UniProtKB	Site	405	405	.	.	.	Note=Implicated in ligand binding	
+Q8N539	UniProtKB	Site	415	415	.	.	.	Note=Implicated in ligand binding	
+Q8N539	UniProtKB	Site	431	431	.	.	.	Note=Implicated in ligand binding	
+Q8N539	UniProtKB	Site	432	432	.	.	.	Note=Implicated in ligand binding	
+Q8N539	UniProtKB	Glycosylation	340	340	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N539	UniProtKB	Disulfide bond	244	273	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q8N539	UniProtKB	Disulfide bond	401	414	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00739	
+Q8N539	UniProtKB	Alternative sequence	1	158	.	.	.	ID=VSP_026618;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N539	UniProtKB	Alternative sequence	317	357	.	.	.	ID=VSP_026619;Note=In isoform 2. LKRIHALTTQAAYELHVDLEDFENGTAYARYGSFGVGLFSV->PLDRCTLSLALLVPVAPSPTPPHSFVNVLHPPVPGGPTLQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N539	UniProtKB	Alternative sequence	358	461	.	.	.	ID=VSP_026620;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N539	UniProtKB	Mutagenesis	393	393	.	.	.	Note=Complete loss of binding to acetylated bovine serum albumin and reduced binding to chitin%3B when associated with A-395. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Mutagenesis	395	395	.	.	.	Note=Complete loss of binding to acetylated bovine serum albumin and reduced binding to chitin%3B when associated with N-395. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Mutagenesis	405	405	.	.	.	Note=Significantly reduced binding to acetylated bovine serum albumin and loss of binding to chitin%3B when associated with S-431. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Mutagenesis	415	415	.	.	.	Note=Complete loss of binding to acetylated bovine serum albumin and chitin. H->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Mutagenesis	431	431	.	.	.	Note=Significantly reduced binding to acetylated bovine serum albumin and loss of binding to chitin%3B when associated with S-405. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Mutagenesis	432	432	.	.	.	Note=Complete loss of binding to acetylated bovine serum albumin and chitin. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Mutagenesis	443	443	.	.	.	Note=Slight reduction in binding to acetylated bovine serum albumin and no effect on binding to chitin. W->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19892701;Dbxref=PMID:19892701	
+Q8N539	UniProtKB	Sequence conflict	79	79	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8N539	UniProtKB	Helix	244	249	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	256	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	269	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Helix	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	282	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Helix	299	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	311	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Helix	317	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	329	336	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	342	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Turn	359	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	366	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Helix	380	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	395	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Helix	401	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	412	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	416	418	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	429	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	434	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Helix	438	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	443	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	
+Q8N539	UniProtKB	Beta strand	448	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4M7H	

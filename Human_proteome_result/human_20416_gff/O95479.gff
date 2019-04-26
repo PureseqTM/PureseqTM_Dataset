@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region O95479 1 791
+O95479	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95479	UniProtKB	Chain	20	791	.	.	.	ID=PRO_0000010442;Note=GDH/6PGL endoplasmic bifunctional protein	
+O95479	UniProtKB	Region	20	526	.	.	.	Note=Glucose 1-dehydrogenase	
+O95479	UniProtKB	Region	527	540	.	.	.	Note=Linker	
+O95479	UniProtKB	Region	541	791	.	.	.	Note=6-phosphogluconolactonase	
+O95479	UniProtKB	Active site	267	267	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95479	UniProtKB	Binding site	34	34	.	.	.	Note=NADP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95479	UniProtKB	Binding site	66	66	.	.	.	Note=NADP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95479	UniProtKB	Binding site	204	204	.	.	.	Note=Substrate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10005	
+O95479	UniProtKB	Binding site	208	208	.	.	.	Note=Substrate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10005	
+O95479	UniProtKB	Modified residue	20	20	.	.	.	Note=Pyrrolidone carboxylic acid;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P56201	
+O95479	UniProtKB	Modified residue	208	208	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CFX1	
+O95479	UniProtKB	Glycosylation	157	157	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+O95479	UniProtKB	Glycosylation	282	282	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+O95479	UniProtKB	Glycosylation	683	683	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95479	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_069193;Note=In CORTRD1%3B results in reduced enzymatic activity. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23132696;Dbxref=PMID:23132696	
+O95479	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_049117;Note=D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs34603401,PMID:17974005	
+O95479	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_049118;Note=R->Q;Dbxref=dbSNP:rs35525021	
+O95479	UniProtKB	Natural variant	453	453	.	.	.	ID=VAR_026487;Note=In CORTRD1%3B less than 50%25 of activity than wild-type. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12858176,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs6688832,PMID:12858176,PMID:15489334,PMID:17974005	
+O95479	UniProtKB	Natural variant	484	484	.	.	.	ID=VAR_049119;Note=N->D;Dbxref=dbSNP:rs35404275	
+O95479	UniProtKB	Natural variant	554	554	.	.	.	ID=VAR_049120;Note=P->L;Dbxref=dbSNP:rs17368528	
+O95479	UniProtKB	Sequence conflict	339	339	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

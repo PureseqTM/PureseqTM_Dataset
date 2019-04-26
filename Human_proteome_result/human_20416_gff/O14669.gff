@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region O14669 1 202
+O14669	UniProtKB	Signal peptide	1	23	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14669	UniProtKB	Propeptide	24	49	.	.	.	ID=PRO_0000022543	
+O14669	UniProtKB	Chain	50	202	.	.	.	ID=PRO_0000022544;Note=Transmembrane gamma-carboxyglutamic acid protein 2	
+O14669	UniProtKB	Topological domain	50	109	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14669	UniProtKB	Transmembrane	110	132	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14669	UniProtKB	Topological domain	133	202	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14669	UniProtKB	Domain	50	96	.	.	.	Note=Gla;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00463	
+O14669	UniProtKB	Compositional bias	161	173	.	.	.	Note=Poly-Pro	
+O14669	UniProtKB	Compositional bias	191	194	.	.	.	Note=Poly-Pro	
+O14669	UniProtKB	Disulfide bond	67	72	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00463	
+O14669	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_051442;Note=P->S;Dbxref=dbSNP:rs35016366	
+O14669	UniProtKB	Natural variant	116	116	.	.	.	ID=VAR_020332;Note=G->C;Dbxref=dbSNP:rs2288920	

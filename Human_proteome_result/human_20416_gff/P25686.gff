@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region P25686 1 324
+P25686	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QYI5	
+P25686	UniProtKB	Chain	2	321	.	.	.	ID=PRO_0000071018;Note=DnaJ homolog subfamily B member 2	
+P25686	UniProtKB	Propeptide	322	324	.	.	.	ID=PRO_0000438687;Note=Removed in mature form;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12754272;Dbxref=PMID:12754272	
+P25686	UniProtKB	Domain	2	71	.	.	.	Note=J;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00286	
+P25686	UniProtKB	Domain	210	226	.	.	.	Note=UIM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00213	
+P25686	UniProtKB	Domain	250	269	.	.	.	Note=UIM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00213	
+P25686	UniProtKB	Motif	321	324	.	.	.	Note=CAAX motif;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12754272;Dbxref=PMID:12754272	
+P25686	UniProtKB	Compositional bias	141	170	.	.	.	Note=Ser-rich;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00016	
+P25686	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QYI5	
+P25686	UniProtKB	Modified residue	311	311	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QYI5	
+P25686	UniProtKB	Modified residue	321	321	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:12754272;Dbxref=PMID:12754272	
+P25686	UniProtKB	Lipidation	321	321	.	.	.	Note=S-geranylgeranyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12754272;Dbxref=PMID:12754272	
+P25686	UniProtKB	Alternative sequence	275	277	.	.	.	ID=VSP_001286;Note=In isoform 2. GGR->DVF;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P25686	UniProtKB	Alternative sequence	278	324	.	.	.	ID=VSP_001287;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P25686	UniProtKB	Natural variant	5	5	.	.	.	ID=VAR_073286;Note=In DSMA5. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:24627108,ECO:0000269|PubMed:25274842;Dbxref=dbSNP:rs730882140,PMID:24627108,PMID:25274842	
+P25686	UniProtKB	Natural variant	270	270	.	.	.	ID=VAR_048910;Note=G->R;Dbxref=dbSNP:rs34127289	
+P25686	UniProtKB	Mutagenesis	31	33	.	.	.	Note=Loss of interaction with HSP70 and loss of the ability to promote ATXN3 proteasomal degradation. HPD->QPN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21625540;Dbxref=PMID:21625540	
+P25686	UniProtKB	Mutagenesis	31	31	.	.	.	Note=Probable loss of interaction with HSP70 and loss of the ability to reduce PRKN aggregation. H->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12754272,ECO:0000269|PubMed:20889486;Dbxref=PMID:12754272,PMID:20889486	
+P25686	UniProtKB	Mutagenesis	219	219	.	.	.	Note=Loss of interaction with polyubiquitin chains%2C loss of interaction with PSMA3%2C and loss of the ability to protect ATXN3 from proteasomal degradation%3B when associated with A-222%3B A-262 and A-265. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15936278,ECO:0000269|PubMed:21625540;Dbxref=PMID:15936278,PMID:21625540	
+P25686	UniProtKB	Mutagenesis	222	222	.	.	.	Note=Loss of interaction with polyubiquitin chains%2C loss of interaction with PSMA3%2C and loss of the ability to protect ATXN3 from proteasomal degradation%3B when associated with A-219%3B A-262 and A-265. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15936278,ECO:0000269|PubMed:21625540;Dbxref=PMID:15936278,PMID:21625540	
+P25686	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Loss of interaction with polyubiquitin chains%2C loss of interaction with PSMA3%2C and loss of the ability to protect ATXN3 from proteasomal degradation%3B when associated with A-219%3B A-222 and A-265. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15936278,ECO:0000269|PubMed:21625540;Dbxref=PMID:15936278,PMID:21625540	
+P25686	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Loss of interaction with polyubiquitin chains%2C loss of interaction with PSMA3%2C and loss of the ability to protect ATXN3 from proteasomal degradation%3B when associated with A-219%3B A-222 and A-262. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15936278,ECO:0000269|PubMed:21625540;Dbxref=PMID:15936278,PMID:21625540	
+P25686	UniProtKB	Mutagenesis	321	321	.	.	.	Note=Loss of localization to the endoplasmic reticulum and relocalization to cytoplasm and nucleus. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12754272;Dbxref=PMID:12754272	
+P25686	UniProtKB	Mutagenesis	324	324	.	.	.	Note=No effect on localization to the endoplasmic reticulum membrane. L->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12754272;Dbxref=PMID:12754272	
+P25686	UniProtKB	Sequence conflict	214	214	.	.	.	Note=L->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25686	UniProtKB	Sequence conflict	214	214	.	.	.	Note=L->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P25686	UniProtKB	Helix	4	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGW	
+P25686	UniProtKB	Beta strand	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGW	
+P25686	UniProtKB	Helix	16	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGW	
+P25686	UniProtKB	Turn	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGW	
+P25686	UniProtKB	Helix	40	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGW	
+P25686	UniProtKB	Helix	59	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LGW	

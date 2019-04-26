@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q8N5Y8 1 322
+Q8N5Y8	UniProtKB	Chain	1	322	.	.	.	ID=PRO_0000252437;Note=Protein mono-ADP-ribosyltransferase PARP16	
+Q8N5Y8	UniProtKB	Topological domain	1	287	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N5Y8	UniProtKB	Transmembrane	288	308	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N5Y8	UniProtKB	Topological domain	309	322	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8N5Y8	UniProtKB	Domain	5	91	.	.	.	Note=PARP alpha-helical	
+Q8N5Y8	UniProtKB	Domain	94	279	.	.	.	Note=PARP catalytic;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00397	
+Q8N5Y8	UniProtKB	Compositional bias	297	303	.	.	.	Note=Poly-Leu	
+Q8N5Y8	UniProtKB	Binding site	152	152	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22661712;Dbxref=PMID:22661712	
+Q8N5Y8	UniProtKB	Binding site	182	182	.	.	.	Note=NAD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22661712;Dbxref=PMID:22661712	
+Q8N5Y8	UniProtKB	Binding site	254	254	.	.	.	Note=NAD%3B may stabilize a reaction intermediate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22661712;Dbxref=PMID:22661712	
+Q8N5Y8	UniProtKB	Site	193	193	.	.	.	Note=Nicotinamide-stacking aromate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22661712;Dbxref=PMID:22661712	
+Q8N5Y8	UniProtKB	Modified residue	37	37	.	.	.	Note=ADP-ribosyl aspartic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q8N5Y8	UniProtKB	Modified residue	70	70	.	.	.	Note=ADP-ribosyl glutamic acid;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q8N5Y8	UniProtKB	Modified residue	110	110	.	.	.	Note=N6-(ADP-ribosyl)lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q8N5Y8	UniProtKB	Modified residue	137	137	.	.	.	Note=N6-(ADP-ribosyl)lysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25043379;Dbxref=PMID:25043379	
+Q8N5Y8	UniProtKB	Alternative sequence	59	173	.	.	.	ID=VSP_020973;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8N5Y8	UniProtKB	Alternative sequence	277	277	.	.	.	ID=VSP_020974;Note=In isoform 3. K->KS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8N5Y8	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_027864;Note=S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17852901,PMID:15489334	
+Q8N5Y8	UniProtKB	Mutagenesis	152	152	.	.	.	Note=Loss of ADP-ribosyltransferase activity%3B when associated with A-254. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22701565;Dbxref=PMID:22701565	
+Q8N5Y8	UniProtKB	Mutagenesis	152	152	.	.	.	Note=ADP-ribosyltransferase activity is only 6%25 of wild-type%3B when associated with A-182. H->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23103912;Dbxref=PMID:23103912	
+Q8N5Y8	UniProtKB	Mutagenesis	182	182	.	.	.	Note=ADP-ribosyltransferase activity is only 6%25 of wild-type%3B when associated with Q-152. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23103912;Dbxref=PMID:23103912	
+Q8N5Y8	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Loss of ADP-ribosyltransferase activity%3B when associated with H-152. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22701565;Dbxref=PMID:22701565	
+Q8N5Y8	UniProtKB	Helix	6	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	17	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	36	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	48	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	55	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	68	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	80	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	93	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	103	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	123	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	134	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	147	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	156	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	159	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	181	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	187	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	207	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	255	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Helix	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	
+Q8N5Y8	UniProtKB	Beta strand	263	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0D	

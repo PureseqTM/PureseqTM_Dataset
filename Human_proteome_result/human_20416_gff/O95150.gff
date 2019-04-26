@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region O95150 1 251
+O95150	UniProtKB	Chain	1	251	.	.	.	ID=PRO_0000185505;Note=Tumor necrosis factor ligand superfamily member 15%2C membrane form	
+O95150	UniProtKB	Chain	72	251	.	.	.	ID=PRO_0000333234;Note=Tumor necrosis factor ligand superfamily member 15%2C secreted form	
+O95150	UniProtKB	Topological domain	1	35	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95150	UniProtKB	Transmembrane	36	56	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95150	UniProtKB	Topological domain	57	251	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95150	UniProtKB	Site	71	72	.	.	.	Note=Cleavage	
+O95150	UniProtKB	Site	187	187	.	.	.	Note=Important for binding TNFRSF6B	
+O95150	UniProtKB	Site	190	190	.	.	.	Note=Important for binding TNFRSF6B	
+O95150	UniProtKB	Glycosylation	133	133	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95150	UniProtKB	Glycosylation	229	229	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95150	UniProtKB	Disulfide bond	162	202	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17935696;Dbxref=PMID:17935696	
+O95150	UniProtKB	Alternative sequence	1	85	.	.	.	ID=VSP_033492;Note=In isoform 2. MAEDLGLSFGETASVEMLPEHGSCRPKARSSSARWALTCCLVLLPFLAGLTTYLLVSQLRAQGEACVQFQALKGQEFAPSHQQVY->MQLTKGRLHFSHPLSHTKHISPFVTD;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11923219;Dbxref=PMID:11923219	
+O95150	UniProtKB	Alternative sequence	1	77	.	.	.	ID=VSP_033493;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9872942;Dbxref=PMID:9872942	
+O95150	UniProtKB	Alternative sequence	78	100	.	.	.	ID=VSP_033494;Note=In isoform 3. APSHQQVYAPLRADGDKPRAHLT->MRRFLSKVYSFPMRKLILFLVFP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9872942;Dbxref=PMID:9872942	
+O95150	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_043130;Note=F->L;Dbxref=dbSNP:rs16931745	
+O95150	UniProtKB	Sequence conflict	34	34	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95150	UniProtKB	Beta strand	96	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	111	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RE9	
+O95150	UniProtKB	Beta strand	120	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2O0O	
+O95150	UniProtKB	Beta strand	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	145	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	161	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RE9	
+O95150	UniProtKB	Turn	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RE9	
+O95150	UniProtKB	Beta strand	175	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	186	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RE9	
+O95150	UniProtKB	Beta strand	192	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	204	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJK	
+O95150	UniProtKB	Beta strand	209	220	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	225	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Helix	233	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Turn	241	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	
+O95150	UniProtKB	Beta strand	244	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RJL	

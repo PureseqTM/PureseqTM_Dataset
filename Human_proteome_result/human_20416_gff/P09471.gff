@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P09471 1 354
+P09471	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25255805;Dbxref=PMID:25255805	
+P09471	UniProtKB	Chain	2	354	.	.	.	ID=PRO_0000203702;Note=Guanine nucleotide-binding protein G(o) subunit alpha	
+P09471	UniProtKB	Nucleotide binding	40	47	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Nucleotide binding	176	182	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Nucleotide binding	201	205	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Nucleotide binding	270	273	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Metal binding	47	47	.	.	.	Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Metal binding	182	182	.	.	.	Note=Magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Binding site	326	326	.	.	.	Note=GTP%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Modified residue	179	179	.	.	.	Note=ADP-ribosylarginine%3B by cholera toxin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Modified residue	351	351	.	.	.	Note=ADP-ribosylcysteine%3B by pertussis toxin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25255805;Dbxref=PMID:25255805	
+P09471	UniProtKB	Lipidation	3	3	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P09471	UniProtKB	Alternative sequence	249	354	.	.	.	ID=VSP_031250;Note=In isoform Alpha-2. MLFDSICNNKFFIDTSIILFLNKKDLFGEKIKKSPLTICFPEYTGPNTYEDAAAYIQAQFESKNRSPNKEIYCHMTCATDTNNIQVVFDAVTDIIIANNLRGCGLY->KLFDSICNNKWFTDTSIILFLNKKDIFEEKIKKSPLTICFPEYTGPSAFTEAVAYIQAQYESKNKSAHKEIYTHVTCATDTNNIQFVFDAVTDVIIAKNLRGCGLY;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10330115,ECO:0000303|Ref.3;Dbxref=PMID:10330115	
+P09471	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_075416;Note=In EIEE17 and NEDIM. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26485252,ECO:0000269|PubMed:28357411;Dbxref=dbSNP:rs886041715,PMID:26485252,PMID:28357411	
+P09471	UniProtKB	Natural variant	47	47	.	.	.	ID=VAR_079278;Note=In NEDIM. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28357411;Dbxref=PMID:28357411	
+P09471	UniProtKB	Natural variant	56	56	.	.	.	ID=VAR_079279;Note=In NEDIM. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28357411;Dbxref=PMID:28357411	
+P09471	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_070864;Note=In EIEE17%3B somatic mosaic mutation%3B the mutant protein has some abnormal cytoplasmic localization. D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23993195;Dbxref=dbSNP:rs587777055,PMID:23993195	
+P09471	UniProtKB	Natural variant	191	197	.	.	.	ID=VAR_070865;Note=In EIEE17%3B the mutant protein accumulates in the cytoplasmic compartment%3B increased basal calcium-current density compared to wild-type. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23993195;Dbxref=PMID:23993195	
+P09471	UniProtKB	Natural variant	203	203	.	.	.	ID=VAR_070866;Note=In EIEE17%3B the mutant protein localizes normally to the cell periphery. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23993195,ECO:0000269|PubMed:25966631;Dbxref=dbSNP:rs587777057,PMID:23993195,PMID:25966631	
+P09471	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_077337;Note=In EIEE17 and NEDIM. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25966631,ECO:0000269|PubMed:27864847,ECO:0000269|PubMed:28357411;Dbxref=dbSNP:rs886039494,PMID:25966631,PMID:27864847,PMID:28357411	
+P09471	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_079280;Note=In NEDIM. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27068059;Dbxref=dbSNP:rs886039494,PMID:27068059	
+P09471	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_079281;Note=In NEDIM. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:26060304,ECO:0000269|PubMed:27068059,ECO:0000269|PubMed:27625011;Dbxref=dbSNP:rs797044878,PMID:26060304,PMID:27068059,PMID:27625011	
+P09471	UniProtKB	Natural variant	209	209	.	.	.	ID=VAR_079282;Note=In NEDIM. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27625011;Dbxref=PMID:27625011	
+P09471	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_077338;Note=In NEDIM. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25966631;Dbxref=dbSNP:rs797045599,PMID:25966631	
+P09471	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_079283;Note=In NEDIM. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28357411;Dbxref=dbSNP:rs1114167431,PMID:28357411	
+P09471	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_077339;Note=In NEDIM. E->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25966631,ECO:0000269|PubMed:27068059;Dbxref=dbSNP:rs797044951,PMID:25966631,PMID:27068059	
+P09471	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_070867;Note=In EIEE17%3B the mutant protein has some abnormal cytoplasmic localization. I->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23993195,ECO:0000269|PubMed:27476654;Dbxref=dbSNP:rs587777054,PMID:23993195,PMID:27476654	
+P09471	UniProtKB	Sequence conflict	16	16	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09471	UniProtKB	Sequence conflict	171	171	.	.	.	Note=T->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09471	UniProtKB	Sequence conflict	218	218	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P09471	UniProtKB	Beta strand	34	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	46	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Beta strand	186	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Beta strand	195	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Turn	207	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	213	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Beta strand	221	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	244	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Beta strand	260	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Beta strand	265	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	272	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	284	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	297	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Beta strand	319	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	
+P09471	UniProtKB	Helix	332	351	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FUF	

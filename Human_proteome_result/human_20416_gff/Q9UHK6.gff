@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q9UHK6 1 382
+Q9UHK6	UniProtKB	Chain	1	382	.	.	.	ID=PRO_0000194705;Note=Alpha-methylacyl-CoA racemase	
+Q9UHK6	UniProtKB	Motif	380	382	.	.	.	Note=Microbody targeting signal	
+Q9UHK6	UniProtKB	Active site	152	152	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UHK6	UniProtKB	Modified residue	58	58	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O09174	
+Q9UHK6	UniProtKB	Modified residue	87	87	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O09174	
+Q9UHK6	UniProtKB	Modified residue	87	87	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O09174	
+Q9UHK6	UniProtKB	Modified residue	268	268	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O09174	
+Q9UHK6	UniProtKB	Alternative sequence	132	229	.	.	.	ID=VSP_037321;Note=In isoform 2. VLSKIGRSGENPYAPLNLLADFAGGGLMCALGIIMALFDRTRTGKGQVIDANMVEGTAYLSSFLWKTQKLSLWEAPRGQNMLDGGAPFYTTYRTADGE->GRNSIFKFFSVENSEIESVGSTSRTEHVGWWSTFLYDLQDSRWGIHGCWSNRTPVLRAADQRSLIPYFNLYLQFLNISMQNLFKVHTLLRPCYFLGQK;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q9UHK6	UniProtKB	Alternative sequence	132	198	.	.	.	ID=VSP_037323;Note=In isoform 3. VLSKIGRSGENPYAPLNLLADFAGGGLMCALGIIMALFDRTRTGKGQVIDANMVEGTAYLSSFLWKT->GRNSIFKFFSVENSEIESVGSTSRTEHVGWWSTFLYDLQDSRWGIHGCWSNRTPVLRAADQRTWTKV;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:15489334	
+Q9UHK6	UniProtKB	Alternative sequence	199	382	.	.	.	ID=VSP_037324;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:15489334	
+Q9UHK6	UniProtKB	Alternative sequence	230	382	.	.	.	ID=VSP_037326;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q9UHK6	UniProtKB	Alternative sequence	378	382	.	.	.	ID=VSP_044875;Note=In isoform 4. VKASL->AGSKFWILYPTHSNIQK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15880524;Dbxref=PMID:15880524	
+Q9UHK6	UniProtKB	Natural variant	9	9	.	.	.	ID=VAR_010660;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.4,ECO:0000269|Ref.5,ECO:0000269|Ref.6,ECO:0000269|Ref.9;Dbxref=dbSNP:rs3195676,PMID:15489334	
+Q9UHK6	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_010661;Note=In AMACRD and CBAS4%3B inactive enzyme. S->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10655068,ECO:0000269|PubMed:12512044;Dbxref=dbSNP:rs121917814,PMID:10655068,PMID:12512044	
+Q9UHK6	UniProtKB	Natural variant	107	107	.	.	.	ID=VAR_010665;Note=In CBAS4%3B inactive enzyme. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10655068;Dbxref=dbSNP:rs121917816,PMID:10655068	
+Q9UHK6	UniProtKB	Natural variant	118	118	.	.	.	ID=VAR_055616;Note=R->Q;Dbxref=dbSNP:rs16892150	
+Q9UHK6	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_010662;Note=G->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11060344,ECO:0000269|Ref.4;Dbxref=dbSNP:rs10941112,PMID:11060344	
+Q9UHK6	UniProtKB	Natural variant	201	201	.	.	.	ID=VAR_010663;Note=L->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10655068,ECO:0000269|PubMed:11060344,ECO:0000269|PubMed:15880524,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2287939,PMID:10655068,PMID:11060344,PMID:15880524	
+Q9UHK6	UniProtKB	Natural variant	238	238	.	.	.	ID=VAR_055617;Note=P->S;Dbxref=dbSNP:rs9282594	
+Q9UHK6	UniProtKB	Natural variant	239	239	.	.	.	ID=VAR_055618;Note=Q->H;Dbxref=dbSNP:rs34677	
+Q9UHK6	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_055619;Note=M->I;Dbxref=dbSNP:rs9282593	
+Q9UHK6	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_055620;Note=M->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11060344,ECO:0000269|Ref.4;Dbxref=dbSNP:rs3195678,PMID:11060344	
+Q9UHK6	UniProtKB	Natural variant	277	277	.	.	.	ID=VAR_010664;Note=E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10655068,ECO:0000269|PubMed:11060344,ECO:0000269|PubMed:15880524,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2278008,PMID:10655068,PMID:11060344,PMID:15880524	
+Q9UHK6	UniProtKB	Sequence conflict	18	18	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHK6	UniProtKB	Sequence conflict	128	128	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHK6	UniProtKB	Sequence conflict	150	150	.	.	.	Note=L->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHK6	UniProtKB	Sequence conflict	183	183	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHK6	UniProtKB	Sequence conflict	257	257	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHK6	UniProtKB	Sequence conflict	327	327	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UHK6	UniProtKB	Sequence conflict	340	342	.	.	.	Note=FKR->SKG;Ontology_term=ECO:0000305;evidence=ECO:0000305	

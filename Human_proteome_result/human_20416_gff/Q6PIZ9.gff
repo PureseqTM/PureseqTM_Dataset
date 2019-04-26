@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region Q6PIZ9 1 186
+Q6PIZ9	UniProtKB	Chain	1	186	.	.	.	ID=PRO_0000083344;Note=T-cell receptor-associated transmembrane adapter 1	
+Q6PIZ9	UniProtKB	Topological domain	1	7	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PIZ9	UniProtKB	Transmembrane	8	28	.	.	.	Note=Helical%3B Signal-anchor for type III membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PIZ9	UniProtKB	Topological domain	29	186	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PIZ9	UniProtKB	Region	79	82	.	.	.	Note=Interaction with PIK3R1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9687533;Dbxref=PMID:9687533	
+Q6PIZ9	UniProtKB	Modified residue	46	46	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3UU67	
+Q6PIZ9	UniProtKB	Modified residue	79	79	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:9687533;Dbxref=PMID:9687533	
+Q6PIZ9	UniProtKB	Disulfide bond	7	7	.	.	.	Note=Interchain;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6PIZ9	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_062195;Note=D->G;Dbxref=dbSNP:rs57744779	
+Q6PIZ9	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_062196;Note=S->P;Dbxref=dbSNP:rs61585973	
+Q6PIZ9	UniProtKB	Mutagenesis	79	79	.	.	.	Note=Abolishes interaction with PIK3R1. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9687533;Dbxref=PMID:9687533	

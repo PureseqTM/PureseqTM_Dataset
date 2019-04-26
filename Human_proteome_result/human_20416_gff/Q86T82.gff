@@ -1,0 +1,50 @@
+##gff-version 3
+##sequence-region Q86T82 1 979
+Q86T82	UniProtKB	Chain	1	979	.	.	.	ID=PRO_0000080667;Note=Ubiquitin carboxyl-terminal hydrolase 37	
+Q86T82	UniProtKB	Domain	341	951	.	.	.	Note=USP	
+Q86T82	UniProtKB	Domain	704	723	.	.	.	Note=UIM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00213	
+Q86T82	UniProtKB	Domain	806	825	.	.	.	Note=UIM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00213	
+Q86T82	UniProtKB	Domain	828	847	.	.	.	Note=UIM 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00213	
+Q86T82	UniProtKB	Motif	32	34	.	.	.	Note=KEN box 1	
+Q86T82	UniProtKB	Motif	71	79	.	.	.	Note=D-box 1	
+Q86T82	UniProtKB	Motif	96	105	.	.	.	Note=D-box 2	
+Q86T82	UniProtKB	Motif	160	168	.	.	.	Note=D-box 3	
+Q86T82	UniProtKB	Motif	221	223	.	.	.	Note=KEN box 2	
+Q86T82	UniProtKB	Motif	782	784	.	.	.	Note=KEN box 3	
+Q86T82	UniProtKB	Active site	350	350	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27296872;Dbxref=PMID:27296872	
+Q86T82	UniProtKB	Active site	906	906	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10092,ECO:0000255|PROSITE-ProRule:PRU10093	
+Q86T82	UniProtKB	Modified residue	170	170	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86T82	UniProtKB	Modified residue	210	210	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86T82	UniProtKB	Modified residue	628	628	.	.	.	Note=Phosphoserine%3B by CDK2;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21596315,ECO:0000269|PubMed:27296872;Dbxref=PMID:21596315,PMID:27296872	
+Q86T82	UniProtKB	Modified residue	650	650	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q86T82	UniProtKB	Modified residue	652	652	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q86T82	UniProtKB	Modified residue	770	770	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86T82	UniProtKB	Alternative sequence	1	72	.	.	.	ID=VSP_041740;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86T82	UniProtKB	Alternative sequence	612	634	.	.	.	ID=VSP_041741;Note=In isoform 2. ISRPLKASQMVNSCITSPSTPSK->M;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q86T82	UniProtKB	Natural variant	979	979	.	.	.	ID=VAR_059752;Note=L->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10997877,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.3;Dbxref=dbSNP:rs6436058,PMID:10997877,PMID:15489334,PMID:17974005	
+Q86T82	UniProtKB	Mutagenesis	32	34	.	.	.	Note=No effect. KEN->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	71	74	.	.	.	Note=No effect. RLML->ALMA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	96	99	.	.	.	Note=No effect. RLFL->ALFA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	160	163	.	.	.	Note=No effect. RKVL->AKVA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	221	223	.	.	.	Note=No effect. KEN->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	350	350	.	.	.	Note=Abolishes deubiquitinase activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	628	628	.	.	.	Note=Abolishes phosphorylation by CDK2%2C leading to lower deubiquitinase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Mutagenesis	782	784	.	.	.	Note=Impaired interaction with FZR1/CDH1 and subsequent ubiquitination. KEN->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21596315;Dbxref=PMID:21596315	
+Q86T82	UniProtKB	Sequence conflict	223	224	.	.	.	Note=ND->DG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	345	345	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	456	456	.	.	.	Note=V->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	552	552	.	.	.	Note=F->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	567	567	.	.	.	Note=S->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	576	576	.	.	.	Note=N->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	731	731	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Sequence conflict	905	905	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q86T82	UniProtKB	Beta strand	5	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Turn	15	17	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Beta strand	23	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Beta strand	35	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Beta strand	49	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Turn	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Beta strand	57	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Beta strand	69	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Beta strand	81	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	
+Q86T82	UniProtKB	Helix	89	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3U12	

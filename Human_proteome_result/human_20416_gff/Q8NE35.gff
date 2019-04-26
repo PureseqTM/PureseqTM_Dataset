@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region Q8NE35 1 698
+Q8NE35	UniProtKB	Chain	1	698	.	.	.	ID=PRO_0000269261;Note=Cytoplasmic polyadenylation element-binding protein 3	
+Q8NE35	UniProtKB	Domain	441	532	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q8NE35	UniProtKB	Domain	549	631	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q8NE35	UniProtKB	Compositional bias	13	27	.	.	.	Note=Gln-rich	
+Q8NE35	UniProtKB	Compositional bias	26	200	.	.	.	Note=Pro-rich	
+Q8NE35	UniProtKB	Compositional bias	170	238	.	.	.	Note=Ala-rich	
+Q8NE35	UniProtKB	Site	441	442	.	.	.	Note=Cleavage%3B by CAPN2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q7TN99	
+Q8NE35	UniProtKB	Site	444	444	.	.	.	Note=Required for RNA-binding activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Site	488	488	.	.	.	Note=Required for RNA-binding activity;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Modified residue	192	192	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q8NE35	UniProtKB	Modified residue	195	195	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q7TN99	
+Q8NE35	UniProtKB	Modified residue	290	290	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q7TN99	
+Q8NE35	UniProtKB	Modified residue	308	308	.	.	.	Note=Asymmetric dimethylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q7TN99	
+Q8NE35	UniProtKB	Alternative sequence	366	388	.	.	.	ID=VSP_022034;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10231032;Dbxref=PMID:10231032	
+Q8NE35	UniProtKB	Alternative sequence	408	408	.	.	.	ID=VSP_022035;Note=In isoform 2. N->SRSSLFPFED;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10231032;Dbxref=PMID:10231032	
+Q8NE35	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_029776;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17853616,PMID:15489334	
+Q8NE35	UniProtKB	Mutagenesis	349	349	.	.	.	Note=Abolishes nuclear export%3B when associated with A-353. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22730302;Dbxref=PMID:22730302	
+Q8NE35	UniProtKB	Mutagenesis	353	353	.	.	.	Note=Abolishes nuclear export%3B when associated with A-349. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22730302;Dbxref=PMID:22730302	
+Q8NE35	UniProtKB	Mutagenesis	441	441	.	.	.	Note=Does not impair RNA binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	444	444	.	.	.	Note=Abolishes RNA binding. F->A%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	444	444	.	.	.	Note=Does not impair RNA binding. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	446	446	.	.	.	Note=Does not impair RNA binding. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	463	463	.	.	.	Note=Does not impair RNA binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	470	470	.	.	.	Note=Does not impair RNA binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	474	474	.	.	.	Note=Does not impair RNA binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	479	479	.	.	.	Note=Does not impair RNA binding. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	488	488	.	.	.	Note=Reduced RNA binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	488	488	.	.	.	Note=Does not impair RNA binding. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Mutagenesis	528	528	.	.	.	Note=Does not impair RNA binding. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24343026;Dbxref=PMID:24343026	
+Q8NE35	UniProtKB	Sequence conflict	519	519	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NE35	UniProtKB	Beta strand	443	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Helix	454	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Turn	461	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Beta strand	467	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RUG	
+Q8NE35	UniProtKB	Beta strand	474	477	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Beta strand	478	481	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2RUG	
+Q8NE35	UniProtKB	Beta strand	485	489	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Helix	494	503	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Beta strand	504	507	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Beta strand	510	515	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Beta strand	518	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	
+Q8NE35	UniProtKB	Beta strand	522	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2DNL	

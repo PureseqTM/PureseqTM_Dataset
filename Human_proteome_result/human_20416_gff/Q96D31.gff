@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q96D31 1 301
+Q96D31	UniProtKB	Chain	1	301	.	.	.	ID=PRO_0000234381;Note=Calcium release-activated calcium channel protein 1	
+Q96D31	UniProtKB	Topological domain	1	87	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19249086;Dbxref=PMID:19249086	
+Q96D31	UniProtKB	Transmembrane	88	105	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Topological domain	106	119	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Transmembrane	120	140	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Topological domain	141	173	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Transmembrane	174	194	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Topological domain	195	234	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Transmembrane	235	255	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Topological domain	256	301	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19249086;Dbxref=PMID:19249086	
+Q96D31	UniProtKB	Region	70	90	.	.	.	Note=Interaction with STIM1	
+Q96D31	UniProtKB	Region	272	292	.	.	.	Note=Interaction with STIM1	
+Q96D31	UniProtKB	Compositional bias	3	47	.	.	.	Note=Pro-rich	
+Q96D31	UniProtKB	Modified residue	295	295	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q96D31	UniProtKB	Modified residue	298	298	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q96D31	UniProtKB	Glycosylation	223	223	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96D31	UniProtKB	Alternative sequence	1	70	.	.	.	ID=VSP_044421;Note=In isoform beta. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96D31	UniProtKB	Natural variant	91	91	.	.	.	ID=VAR_026226;Note=In IMD9. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16582901;Dbxref=dbSNP:rs118203993,PMID:16582901	
+Q96D31	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_078083;Note=In TAM2%3B constitutively active Ca(+2) channel%2C independently of STIM proteins%3B no effect on localization to the cell membrane. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28058752;Dbxref=dbSNP:rs786204796,PMID:28058752	
+Q96D31	UniProtKB	Natural variant	107	107	.	.	.	ID=VAR_078084;Note=In TAM2%3B constitutively active Ca(+2) channel%2C independently of STIM proteins%3B no effect on localization to the cell membrane. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28058752;Dbxref=PMID:28058752	
+Q96D31	UniProtKB	Natural variant	184	184	.	.	.	ID=VAR_078085;Note=In TAM2%3B mediates excessive Ca(2+) entry when gated by STIM1%3B no effect on localization to the cell membrane. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28058752;Dbxref=PMID:28058752	
+Q96D31	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_038608;Note=S->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs3741596,PMID:14702039,PMID:15489334	
+Q96D31	UniProtKB	Natural variant	245	245	.	.	.	ID=VAR_071473;Note=In TAM2%3B increases activation of the Ca2+ release-activated Ca2+ (CRAC) channel. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24591628;Dbxref=dbSNP:rs587777528,PMID:24591628	
+Q96D31	UniProtKB	Mutagenesis	85	87	.	.	.	Note=Impairs interaction with CRACR2A/EFCAB4B. KLK->ALA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20418871;Dbxref=PMID:20418871	
+Q96D31	UniProtKB	Mutagenesis	195	195	.	.	.	Note=Abolishes oxidation and channel inhibition. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28219928;Dbxref=PMID:28219928	
+Q96D31	UniProtKB	Mutagenesis	281	281	.	.	.	Note=Strongly reduces calcium current. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24351972;Dbxref=PMID:24351972	
+Q96D31	UniProtKB	Mutagenesis	284	284	.	.	.	Note=Reduces the maximum current%3B when associated with A-287 and A-291. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24351972;Dbxref=PMID:24351972	
+Q96D31	UniProtKB	Mutagenesis	286	286	.	.	.	Note=Strongly reduces calcium current. L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24351972;Dbxref=PMID:24351972	
+Q96D31	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Reduces the maximum current%3B when associated with A-284 and A-291. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24351972;Dbxref=PMID:24351972	
+Q96D31	UniProtKB	Mutagenesis	289	289	.	.	.	Note=Strongly reduces calcium current. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24351972;Dbxref=PMID:24351972	
+Q96D31	UniProtKB	Mutagenesis	291	291	.	.	.	Note=Reduces the maximum current%3B when associated with A-284 and A-287. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24351972;Dbxref=PMID:24351972	
+Q96D31	UniProtKB	Sequence conflict	255	255	.	.	.	Note=V->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96D31	UniProtKB	Helix	76	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4EHQ	
+Q96D31	UniProtKB	Helix	272	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MAK	

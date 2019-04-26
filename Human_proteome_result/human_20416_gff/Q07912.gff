@@ -1,0 +1,91 @@
+##gff-version 3
+##sequence-region Q07912 1 1038
+Q07912	UniProtKB	Chain	1	1038	.	.	.	ID=PRO_0000088058;Note=Activated CDC42 kinase 1	
+Q07912	UniProtKB	Domain	126	385	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q07912	UniProtKB	Domain	388	448	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+Q07912	UniProtKB	Domain	454	466	.	.	.	Note=CRIB	
+Q07912	UniProtKB	Domain	958	996	.	.	.	Note=UBA	
+Q07912	UniProtKB	Nucleotide binding	132	140	.	.	.	Note=ATP	
+Q07912	UniProtKB	Region	1	110	.	.	.	Note=SAM-like domain	
+Q07912	UniProtKB	Region	623	652	.	.	.	Note=Required for interaction with SRC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21309750;Dbxref=PMID:21309750	
+Q07912	UniProtKB	Region	632	635	.	.	.	Note=Required for interaction with NEDD4;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q07912	UniProtKB	Region	733	876	.	.	.	Note=EBD domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q07912	UniProtKB	Compositional bias	577	958	.	.	.	Note=Pro-rich	
+Q07912	UniProtKB	Active site	252	252	.	.	.	Note=Proton acceptor	
+Q07912	UniProtKB	Binding site	158	158	.	.	.	Note=ATP	
+Q07912	UniProtKB	Modified residue	284	284	.	.	.	Note=Phosphotyrosine%3B by SRC and autocatalysis;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19369195,ECO:0000269|PubMed:15308621,ECO:0000269|PubMed:16472662,ECO:0000269|PubMed:20333297,ECO:0000269|PubMed:20623637,ECO:0000269|PubMed:20979614,ECO:0000269|PubMed:21169560,ECO:0000269|PubMed:21309750;Dbxref=PMID:19369195,PMID:15308621,PMID:16472662,PMID:20333297,PMID:20623637,PMID:20979614,PMID:21169560,PMID:21309750	
+Q07912	UniProtKB	Modified residue	518	518	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21169560;Dbxref=PMID:21169560	
+Q07912	UniProtKB	Modified residue	724	724	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+Q07912	UniProtKB	Modified residue	827	827	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21169560;Dbxref=PMID:21169560	
+Q07912	UniProtKB	Modified residue	839	839	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54967	
+Q07912	UniProtKB	Modified residue	859	859	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21169560;Dbxref=PMID:21169560	
+Q07912	UniProtKB	Modified residue	872	872	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21169560;Dbxref=PMID:21169560	
+Q07912	UniProtKB	Modified residue	881	881	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18691976;Dbxref=PMID:18691976	
+Q07912	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_037284;Note=In isoform 3. M->MLEARPPRTQGSDAAGAAAGRGLRALLLSLTAAAGIWGSMGERSAYQRLAGGEEGPQRLGGGRM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q07912	UniProtKB	Alternative sequence	485	528	.	.	.	ID=VSP_008655;Note=In isoform 2. LYLGNPMDPPDLLSVELSTSRPPQHLGGVKKPTYDPVSEDQDPL->CPFSAFSPGHPPAETCGQVLWTGRREACASDPRLHPVSSRTKGL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q07912	UniProtKB	Alternative sequence	514	514	.	.	.	ID=VSP_037285;Note=In isoform 3. K->KREPPPRPPQPAFFTQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q07912	UniProtKB	Alternative sequence	529	1038	.	.	.	ID=VSP_008656;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q07912	UniProtKB	Alternative sequence	965	994	.	.	.	ID=VSP_037286;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q07912	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_032792;Note=In a lung adenocarcinoma sample%3B somatic mutation%3B increased autophosphorylation at Y-284%3B increased function in phosphorylation of peptide substrates%3B no effect on subcellular localization to perinuclear region. R->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:20110370;Dbxref=PMID:17344846,PMID:20110370	
+Q07912	UniProtKB	Natural variant	71	71	.	.	.	ID=VAR_032793;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56036945,PMID:17344846	
+Q07912	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_032794;Note=In an ovarian mucinous carcinoma sample%3B somatic mutation%3B increased autophosphorylation at Y-284%3B increased function in phosphorylation of peptide substrates and WASP%3B no effect on subcellular localization to perinuclear region. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:20110370;Dbxref=dbSNP:rs113498671,PMID:17344846,PMID:20110370	
+Q07912	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_032795;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3747673,PMID:17344846	
+Q07912	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_032796;Note=T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56161912,PMID:17344846	
+Q07912	UniProtKB	Natural variant	346	346	.	.	.	ID=VAR_032797;Note=In an ovarian endometrioid cancer sample%3B somatic mutation%3B undergoes autoactivation and causes phosphorylation on Y-284 leading to activation of AKT1%3B increased autophosphorylation at Y-284%3B increased function in phosphorylation of peptide substrates and WASP%3B no effect on catalytic activity itself as the purified kinase domain has activity in vitro comparable to wild-type protein%3B no effect on subcellular localization to perinuclear region. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:20110370,ECO:0000269|PubMed:20333297;Dbxref=dbSNP:rs970946035,PMID:17344846,PMID:20110370,PMID:20333297	
+Q07912	UniProtKB	Natural variant	409	409	.	.	.	ID=VAR_032798;Note=In a gastric adenocarcinoma sample%3B somatic mutation%3B increased autophosphorylation at Y-284%3B increased function in phosphorylation of peptide substrates and WASP%3B no effect on subcellular localization to perinuclear region. M->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:20110370;Dbxref=PMID:17344846,PMID:20110370	
+Q07912	UniProtKB	Natural variant	507	507	.	.	.	ID=VAR_032799;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35759128,PMID:17344846	
+Q07912	UniProtKB	Natural variant	638	638	.	.	.	ID=VAR_076966;Note=Found in patients with childhood-onset epilepsy%3B unknown pathological significance%3B loss of interaction with NEDD4 and NEDD4L%3B increased protein abundance. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23686771;Dbxref=dbSNP:rs201407161,PMID:23686771	
+Q07912	UniProtKB	Natural variant	725	725	.	.	.	ID=VAR_032800;Note=P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56260729,PMID:14702039,PMID:17344846	
+Q07912	UniProtKB	Natural variant	748	748	.	.	.	ID=VAR_032801;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs57872314,PMID:17344846	
+Q07912	UniProtKB	Natural variant	802	802	.	.	.	ID=VAR_057115;Note=P->L;Dbxref=dbSNP:rs3749333	
+Q07912	UniProtKB	Natural variant	1038	1038	.	.	.	ID=VAR_032802;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs13433937,PMID:17344846	
+Q07912	UniProtKB	Mutagenesis	120	120	.	.	.	Note=No effect on autophosphorylation at Y-284. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20110370;Dbxref=PMID:20110370	
+Q07912	UniProtKB	Mutagenesis	158	158	.	.	.	Note=Loss of autophosphorylation at Y-284. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16288044,ECO:0000269|PubMed:20110370;Dbxref=PMID:16288044,PMID:20110370	
+Q07912	UniProtKB	Mutagenesis	197	197	.	.	.	Note=No effect on autophosphorylation at Y-284. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20110370;Dbxref=PMID:20110370	
+Q07912	UniProtKB	Mutagenesis	365	365	.	.	.	Note=Increased autophosphorylation at Y-284. V->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20110370;Dbxref=PMID:20110370	
+Q07912	UniProtKB	Mutagenesis	487	487	.	.	.	Note=Constantly active kinase. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16288044;Dbxref=PMID:16288044	
+Q07912	UniProtKB	Sequence conflict	138	138	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07912	UniProtKB	Sequence conflict	304	352	.	.	.	Note=TRTFSHASDTWMFGVTLWEMFTYGQEPWIGLNGSQILHKIDKEGERLPR->PPWRDISASSSTQFPHAVPCFPTSLLAKLLLRHSVPASSREIKLVSILC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07912	UniProtKB	Sequence conflict	353	1038	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07912	UniProtKB	Sequence conflict	586	586	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07912	UniProtKB	Sequence conflict	722	722	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07912	UniProtKB	Sequence conflict	838	840	.	.	.	Note=PRA->AG;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q07912	UniProtKB	Beta strand	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Helix	123	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	126	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	140	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	148	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EQP	
+Q07912	UniProtKB	Beta strand	152	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Turn	164	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EQR	
+Q07912	UniProtKB	Helix	171	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	192	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	202	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	213	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	221	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	226	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	255	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	258	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	265	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	273	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	283	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U46	
+Q07912	UniProtKB	Helix	288	290	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EQP	
+Q07912	UniProtKB	Helix	294	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	299	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1U46	
+Q07912	UniProtKB	Helix	309	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Turn	325	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Turn	330	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	336	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	358	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	372	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Helix	378	387	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZR	
+Q07912	UniProtKB	Beta strand	392	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	402	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	412	417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	423	432	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	435	439	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Helix	440	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4HZS	
+Q07912	UniProtKB	Beta strand	449	451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CF4	
+Q07912	UniProtKB	Turn	484	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CF4	

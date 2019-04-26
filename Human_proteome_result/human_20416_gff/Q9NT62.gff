@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region Q9NT62 1 314
+Q9NT62	UniProtKB	Chain	1	314	.	.	.	ID=PRO_0000213569;Note=Ubiquitin-like-conjugating enzyme ATG3	
+Q9NT62	UniProtKB	Motif	166	169	.	.	.	Note=Caspase cleavage motif LETD	
+Q9NT62	UniProtKB	Active site	264	264	.	.	.	Note=Glycyl thioester intermediate;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11825910;Dbxref=PMID:11825910	
+Q9NT62	UniProtKB	Site	169	170	.	.	.	Note=Cleavage%3B by CASP8	
+Q9NT62	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895;Dbxref=PMID:19413330,PMID:22223895	
+Q9NT62	UniProtKB	Cross-link	243	243	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ATG12);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NT62	UniProtKB	Alternative sequence	290	314	.	.	.	ID=VSP_013037;Note=In isoform 2. LLIFLKFVQAVIPTIEYDYTRHFTM->PSLYVRLVAKWLLTIFFLRNLV;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9NT62	UniProtKB	Mutagenesis	264	264	.	.	.	Note=Instead of the formation of an intermediate complex with a thiol ester bond between ATG3 (E2-like enzyme) and GABARAPL1/APG8L (substrate)%2C a stable complex with an O-ester bond is formed. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11825910;Dbxref=PMID:11825910	
+Q9NT62	UniProtKB	Helix	157	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NAW	

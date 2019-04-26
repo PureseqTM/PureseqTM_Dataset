@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q99873 1 371
+Q99873	UniProtKB	Chain	1	371	.	.	.	ID=PRO_0000212321;Note=Protein arginine N-methyltransferase 1	
+Q99873	UniProtKB	Domain	50	361	.	.	.	Note=SAM-dependent MTase PRMT-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01015	
+Q99873	UniProtKB	Active site	162	162	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Active site	171	171	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Binding site	63	63	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Binding site	72	72	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Binding site	96	96	.	.	.	Note=S-adenosyl-L-methionine%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Binding site	118	118	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Binding site	147	147	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99873	UniProtKB	Modified residue	134	134	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JIF0	
+Q99873	UniProtKB	Modified residue	228	228	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JIF0	
+Q99873	UniProtKB	Modified residue	233	233	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JIF0	
+Q99873	UniProtKB	Modified residue	304	304	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99873	UniProtKB	Modified residue	307	307	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q99873	UniProtKB	Cross-link	145	145	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JIF0	
+Q99873	UniProtKB	Alternative sequence	1	29	.	.	.	ID=VSP_005208;Note=In isoform 2. MAAAEAANCIMENFVATLANGMSLQPPLE->MVGVA;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q99873	UniProtKB	Alternative sequence	11	30	.	.	.	ID=VSP_005209;Note=In isoform 3. MENFVATLANGMSLQPPLEE->ME;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q99873	UniProtKB	Alternative sequence	13	30	.	.	.	ID=VSP_059419;Note=In isoform 4. Missing	
+Q99873	UniProtKB	Alternative sequence	186	253	.	.	.	ID=VSP_059420;Note=In isoform 4. Missing	
+Q99873	UniProtKB	Natural variant	88	88	.	.	.	ID=VAR_037501;Note=K->M;Dbxref=dbSNP:rs1804486	
+Q99873	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_037502;Note=L->F;Dbxref=dbSNP:rs11673683	
+Q99873	UniProtKB	Mutagenesis	92	92	.	.	.	Note=Loss of FOXO1 methylation%2C its nuclear retention%2C and transcriptional activity. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18951090;Dbxref=PMID:18951090	
+Q99873	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Loss of FOXO1 methylation%2C its nuclear retention%2C and transcriptional activity. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18951090;Dbxref=PMID:18951090	
+Q99873	UniProtKB	Mutagenesis	94	94	.	.	.	Note=Loss of FOXO1 methylation%2C its nuclear retention%2C and transcriptional activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18951090;Dbxref=PMID:18951090	
+Q99873	UniProtKB	Mutagenesis	280	280	.	.	.	Note=No effect on S-adenosyl-L-methionine binding but reduced EWS protein methylation%3B when associated with A-322 and A-359. No effect on homodimerization but loss of homooligomerization%3B when associated with A-322 and A-359. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q99873	UniProtKB	Mutagenesis	322	322	.	.	.	Note=No effect on S-adenosyl-L-methionine binding but reduced EWS protein methylation%3B when associated with A-280 and A-359. No effect on homodimerization but loss of homooligomerization%3B when associated with A-280 and A-359. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q99873	UniProtKB	Mutagenesis	359	359	.	.	.	Note=No effect on S-adenosyl-L-methionine binding but reduced EWS protein methylation%3B when associated with A-280 and A-322. No effect on homodimerization but loss of homooligomerization%3B when associated with A-280 and A-322. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26876602;Dbxref=PMID:26876602	
+Q99873	UniProtKB	Sequence conflict	118	118	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99873	UniProtKB	Sequence conflict	118	118	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99873	UniProtKB	Sequence conflict	118	118	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99873	UniProtKB	Sequence conflict	118	118	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99873	UniProtKB	Sequence conflict	157	185	.	.	.	Note=DIIISEWMGYCLFYESMLNTVLYARDKWL->ASSSASGWATASSTSPCSTPCSMPGTSV;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99873	UniProtKB	Sequence conflict	212	212	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	

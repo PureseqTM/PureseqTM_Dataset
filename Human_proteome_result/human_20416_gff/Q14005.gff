@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region Q14005 1 1332
+Q14005	UniProtKB	Chain	1	1332	.	.	.	ID=PRO_0000377543;Note=Pro-interleukin-16	
+Q14005	UniProtKB	Chain	1212	1332	.	.	.	ID=PRO_0000015412;Note=Interleukin-16	
+Q14005	UniProtKB	Domain	216	302	.	.	.	Note=PDZ 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q14005	UniProtKB	Domain	355	440	.	.	.	Note=PDZ 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q14005	UniProtKB	Domain	1112	1197	.	.	.	Note=PDZ 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q14005	UniProtKB	Domain	1234	1319	.	.	.	Note=PDZ 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+Q14005	UniProtKB	Region	183	452	.	.	.	Note=Interaction with GRIN2A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12923170;Dbxref=PMID:12923170	
+Q14005	UniProtKB	Region	1034	1118	.	.	.	Note=Interaction with HTLV-1 tax	
+Q14005	UniProtKB	Region	1106	1202	.	.	.	Note=Interaction with PPP1R12A%2C PPP1R12B and PPP1R12C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12923170;Dbxref=PMID:12923170	
+Q14005	UniProtKB	Modified residue	922	922	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q14005	UniProtKB	Alternative sequence	1	701	.	.	.	ID=VSP_037458;Note=In isoform 3 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:19906316,ECO:0000303|Ref.3;Dbxref=PMID:19906316	
+Q14005	UniProtKB	Alternative sequence	1228	1228	.	.	.	ID=VSP_037459;Note=In isoform 2 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:19906316;Dbxref=PMID:14702039,PMID:15489334,PMID:19906316	
+Q14005	UniProtKB	Alternative sequence	1239	1332	.	.	.	ID=VSP_057192;Note=In isoform 4. KMSAGLGFSLEGGKGSLHGDKPLTINRIFKGAASEQSETVQPGDEILQLGGTAMQGLTRFEAWNIIKALPDGPVTIVIRRKSLQSKETTAAGDS->DVGRAGLQPGRREGLPTRRQASHH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19906316;Dbxref=PMID:19906316	
+Q14005	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_058310;Note=P->S;Dbxref=dbSNP:rs4072111	
+Q14005	UniProtKB	Natural variant	889	889	.	.	.	ID=VAR_019203;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs17875512	
+Q14005	UniProtKB	Natural variant	906	906	.	.	.	ID=VAR_019204;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs17875513	
+Q14005	UniProtKB	Natural variant	1027	1027	.	.	.	ID=VAR_034013;Note=S->T;Dbxref=dbSNP:rs34101586	
+Q14005	UniProtKB	Natural variant	1147	1147	.	.	.	ID=VAR_019205;Note=N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs11556218	
+Q14005	UniProtKB	Natural variant	1176	1176	.	.	.	ID=VAR_053372;Note=H->R;Dbxref=dbSNP:rs34159341	
+Q14005	UniProtKB	Mutagenesis	743	743	.	.	.	Note=Reduces phosphorylation and nuclear localization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12450396;Dbxref=PMID:12450396	
+Q14005	UniProtKB	Mutagenesis	757	757	.	.	.	Note=Reduces phosphorylation. Enhances nuclear localization. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12450396;Dbxref=PMID:12450396	
+Q14005	UniProtKB	Mutagenesis	780	781	.	.	.	Note=Reduces nuclear localization of pro-interleukin-16%3B when associated with 797-AGLANA-802. KK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032842;Dbxref=PMID:11032842	
+Q14005	UniProtKB	Mutagenesis	797	802	.	.	.	Note=Reduces nuclear localization of pro-interleukin-16%3B when associated with 780-AA-781. KGLRNR->AGLANA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11032842;Dbxref=PMID:11032842	
+Q14005	UniProtKB	Mutagenesis	1211	1211	.	.	.	Note=Abolishes proteolytic cleavage. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9422780;Dbxref=PMID:9422780	
+Q14005	UniProtKB	Sequence conflict	273	273	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14005	UniProtKB	Sequence conflict	427	427	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14005	UniProtKB	Sequence conflict	805	805	.	.	.	Note=D->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14005	UniProtKB	Sequence conflict	934	934	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14005	UniProtKB	Sequence conflict	942	944	.	.	.	Note=LRL->PRE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14005	UniProtKB	Sequence conflict	1020	1020	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14005	UniProtKB	Beta strand	1111	1117	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1125	1129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1132	1135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1140	1144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1146	1148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Helix	1149	1153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Helix	1175	1184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1187	1196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1200	1202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1X6D	
+Q14005	UniProtKB	Beta strand	1209	1212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1I16	
+Q14005	UniProtKB	Beta strand	1230	1239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FB8	
+Q14005	UniProtKB	Beta strand	1241	1243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1I16	
+Q14005	UniProtKB	Beta strand	1244	1254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FB8	
+Q14005	UniProtKB	Beta strand	1257	1266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FB8	
+Q14005	UniProtKB	Beta strand	1273	1275	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1I16	
+Q14005	UniProtKB	Beta strand	1283	1287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FB8	
+Q14005	UniProtKB	Helix	1292	1294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1I16	
+Q14005	UniProtKB	Helix	1297	1306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FB8	
+Q14005	UniProtKB	Beta strand	1309	1319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FB8	

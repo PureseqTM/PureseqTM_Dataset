@@ -1,0 +1,69 @@
+##gff-version 3
+##sequence-region Q13231 1 466
+Q13231	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7836450;Dbxref=PMID:7836450	
+Q13231	UniProtKB	Chain	22	466	.	.	.	ID=PRO_0000011941;Note=Chitotriosidase-1	
+Q13231	UniProtKB	Domain	417	466	.	.	.	Note=Chitin-binding type-2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00144	
+Q13231	UniProtKB	Region	70	71	.	.	.	Note=Chitooligosaccharide binding	
+Q13231	UniProtKB	Region	97	100	.	.	.	Note=Chitooligosaccharide binding	
+Q13231	UniProtKB	Region	210	213	.	.	.	Note=Chitooligosaccharide binding	
+Q13231	UniProtKB	Active site	140	140	.	.	.	Note=Proton donor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10053	
+Q13231	UniProtKB	Binding site	269	269	.	.	.	Note=Chitooligosaccharide	
+Q13231	UniProtKB	Binding site	358	358	.	.	.	Note=Chitooligosaccharide	
+Q13231	UniProtKB	Glycosylation	100	100	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B in variant S-102;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19725875;Dbxref=PMID:19725875	
+Q13231	UniProtKB	Disulfide bond	26	51	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00144,ECO:0000269|PubMed:11960986;Dbxref=PMID:11960986	
+Q13231	UniProtKB	Disulfide bond	307	370	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00144,ECO:0000269|PubMed:11960986;Dbxref=PMID:11960986	
+Q13231	UniProtKB	Disulfide bond	450	463	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00144	
+Q13231	UniProtKB	Alternative sequence	87	105	.	.	.	ID=VSP_044816;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13231	UniProtKB	Alternative sequence	344	372	.	.	.	ID=VSP_008633;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13231	UniProtKB	Alternative sequence	386	387	.	.	.	ID=VSP_008631;Note=In isoform 2. SL->NG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7592832;Dbxref=PMID:7592832	
+Q13231	UniProtKB	Alternative sequence	388	466	.	.	.	ID=VSP_008632;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7592832;Dbxref=PMID:7592832	
+Q13231	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_049190;Note=R->H;Dbxref=dbSNP:rs35920428	
+Q13231	UniProtKB	Natural variant	74	74	.	.	.	ID=VAR_065914;Note=Rare variant detected in patients with Gaucher disease type 1. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17464953;Dbxref=dbSNP:rs137852607,PMID:17464953	
+Q13231	UniProtKB	Natural variant	102	102	.	.	.	ID=VAR_022138;Note=Common variant detected in patients with Gaucher disease type 1 as well as healthy individuals%3B slightly reduced activity towards 4-methylumbelliferyl-chitotrioside but no effect on activity towards 4-methylumbelliferyl-deoxychitobioside. G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17464953,ECO:0000269|PubMed:19725875;Dbxref=dbSNP:rs2297950,PMID:15489334,PMID:17464953,PMID:19725875	
+Q13231	UniProtKB	Natural variant	171	171	.	.	.	ID=VAR_049191;Note=Q->H;Dbxref=dbSNP:rs12562058	
+Q13231	UniProtKB	Natural variant	442	442	.	.	.	ID=VAR_024458;Note=A->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1065761,PMID:14702039,PMID:15489334	
+Q13231	UniProtKB	Beta strand	23	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	37	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Turn	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKH	
+Q13231	UniProtKB	Beta strand	52	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	73	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	91	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Turn	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	104	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	113	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	133	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HKI	
+Q13231	UniProtKB	Helix	151	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	179	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	188	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	197	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	205	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	219	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	236	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	243	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	257	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	260	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	284	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Turn	293	295	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	300	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	303	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	313	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Turn	318	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	322	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	330	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	337	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	353	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	360	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Beta strand	367	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	376	384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WKA	
+Q13231	UniProtKB	Helix	388	397	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WAW	
+Q13231	UniProtKB	Turn	419	422	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	
+Q13231	UniProtKB	Beta strand	425	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	
+Q13231	UniProtKB	Beta strand	433	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	
+Q13231	UniProtKB	Beta strand	444	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	
+Q13231	UniProtKB	Beta strand	455	457	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	
+Q13231	UniProtKB	Turn	458	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	
+Q13231	UniProtKB	Beta strand	462	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBF	

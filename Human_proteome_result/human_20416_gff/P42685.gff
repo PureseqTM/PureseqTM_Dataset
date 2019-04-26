@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region P42685 1 505
+P42685	UniProtKB	Chain	1	505	.	.	.	ID=PRO_0000088097;Note=Tyrosine-protein kinase FRK	
+P42685	UniProtKB	Domain	42	110	.	.	.	Note=SH3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00192	
+P42685	UniProtKB	Domain	116	208	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+P42685	UniProtKB	Domain	234	491	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P42685	UniProtKB	Nucleotide binding	240	248	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P42685	UniProtKB	Active site	354	354	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+P42685	UniProtKB	Binding site	262	262	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P42685	UniProtKB	Modified residue	37	37	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18691976;Dbxref=PMID:18691976	
+P42685	UniProtKB	Modified residue	40	40	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P42685	UniProtKB	Modified residue	178	178	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P42685	UniProtKB	Modified residue	387	387	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q922K9	
+P42685	UniProtKB	Alternative sequence	1	13	.	.	.	ID=VSP_056496;Note=In isoform 2. MSNICQRLWEYLE->MDSTSLLPNPWIR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P42685	UniProtKB	Alternative sequence	14	155	.	.	.	ID=VSP_056497;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P42685	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_041702;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34704018,PMID:17344846	
+P42685	UniProtKB	Natural variant	122	122	.	.	.	ID=VAR_006283;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs3756772,PMID:17344846	
+P42685	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_041703;Note=S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34064900,PMID:17344846	
+P42685	UniProtKB	Mutagenesis	262	262	.	.	.	Note=Loss of ability to phosphorylate PTEN. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19345329;Dbxref=PMID:19345329	
+P42685	UniProtKB	Sequence conflict	115	115	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

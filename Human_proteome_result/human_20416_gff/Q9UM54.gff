@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q9UM54 1 1294
+Q9UM54	UniProtKB	Chain	1	1294	.	.	.	ID=PRO_0000123464;Note=Unconventional myosin-VI	
+Q9UM54	UniProtKB	Domain	2	53	.	.	.	Note=Myosin N-terminal SH3-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01190	
+Q9UM54	UniProtKB	Domain	57	771	.	.	.	Note=Myosin motor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00782	
+Q9UM54	UniProtKB	Domain	814	834	.	.	.	Note=IQ	
+Q9UM54	UniProtKB	Nucleotide binding	151	158	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM54	UniProtKB	Region	273	317	.	.	.	Note=Responsible for slow ATPase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UM54	UniProtKB	Region	665	672	.	.	.	Note=Actin-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM54	UniProtKB	Region	782	810	.	.	.	Note=Required for binding calmodulin;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UM54	UniProtKB	Region	835	916	.	.	.	Note=Three-helix bundle	
+Q9UM54	UniProtKB	Region	917	984	.	.	.	Note=SAH;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25122759;Dbxref=PMID:25122759	
+Q9UM54	UniProtKB	Region	1116	1118	.	.	.	Note=Interaction with OPTN	
+Q9UM54	UniProtKB	Compositional bias	920	1027	.	.	.	Note=Glu-rich	
+Q9UM54	UniProtKB	Modified residue	267	267	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9UM54	UniProtKB	Modified residue	405	405	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q9UM54	UniProtKB	Modified residue	604	604	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q64331	
+Q9UM54	UniProtKB	Modified residue	1025	1025	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q64331	
+Q9UM54	UniProtKB	Modified residue	1155	1155	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q64331	
+Q9UM54	UniProtKB	Alternative sequence	1037	1068	.	.	.	ID=VSP_007985;Note=In isoform 2 and isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9259267;Dbxref=PMID:9259267	
+Q9UM54	UniProtKB	Alternative sequence	1037	1045	.	.	.	ID=VSP_022332;Note=In isoform 1. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9205841;Dbxref=PMID:15489334,PMID:9205841	
+Q9UM54	UniProtKB	Alternative sequence	1147	1156	.	.	.	ID=VSP_042208;Note=In isoform 6. DFAPFLNNSP->A;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16344560;Dbxref=PMID:16344560	
+Q9UM54	UniProtKB	Alternative sequence	1147	1155	.	.	.	ID=VSP_022333;Note=In isoform 4 and isoform 5. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UM54	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_016209;Note=In DFNB37. E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12687499;Dbxref=dbSNP:rs121912559,PMID:12687499	
+Q9UM54	UniProtKB	Natural variant	246	246	.	.	.	ID=VAR_029988;Note=In DFNHCM. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15060111;Dbxref=dbSNP:rs121912560,PMID:15060111	
+Q9UM54	UniProtKB	Natural variant	442	442	.	.	.	ID=VAR_012110;Note=In DFNA22. C->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11468689;Dbxref=PMID:11468689	
+Q9UM54	UniProtKB	Sequence conflict	1156	1156	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UM54	UniProtKB	Helix	999	1022	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N11	
+Q9UM54	UniProtKB	Helix	1026	1036	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N11	
+Q9UM54	UniProtKB	Helix	1038	1040	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N11	
+Q9UM54	UniProtKB	Helix	1055	1066	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N11	
+Q9UM54	UniProtKB	Beta strand	1077	1079	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N12	
+Q9UM54	UniProtKB	Helix	1091	1100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N0Z	
+Q9UM54	UniProtKB	Helix	1106	1119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N0Z	

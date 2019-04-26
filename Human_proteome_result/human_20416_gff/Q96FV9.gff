@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region Q96FV9 1 657
+Q96FV9	UniProtKB	Chain	1	657	.	.	.	ID=PRO_0000072520;Note=THO complex subunit 1	
+Q96FV9	UniProtKB	Domain	570	653	.	.	.	Note=Death;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00064	
+Q96FV9	UniProtKB	Motif	414	430	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12096345;Dbxref=PMID:12096345	
+Q96FV9	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q96FV9	UniProtKB	Modified residue	2	2	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+Q96FV9	UniProtKB	Modified residue	4	4	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96FV9	UniProtKB	Modified residue	133	133	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q96FV9	UniProtKB	Modified residue	300	300	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q96FV9	UniProtKB	Modified residue	537	537	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96FV9	UniProtKB	Modified residue	542	542	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q96FV9	UniProtKB	Modified residue	560	560	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+Q96FV9	UniProtKB	Cross-link	31	31	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25772364,PMID:28112733	
+Q96FV9	UniProtKB	Cross-link	408	408	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25218447;Dbxref=PMID:25218447	
+Q96FV9	UniProtKB	Cross-link	580	580	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q96FV9	UniProtKB	Cross-link	595	595	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+Q96FV9	UniProtKB	Cross-link	595	595	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:25218447,PMID:25755297,PMID:28112733	
+Q96FV9	UniProtKB	Alternative sequence	363	377	.	.	.	ID=VSP_038073;Note=In isoform 2. LLSENPPDGERFSKM->VSSTRNKPMIEKMEI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15358532;Dbxref=PMID:15358532	
+Q96FV9	UniProtKB	Alternative sequence	378	657	.	.	.	ID=VSP_038074;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15358532;Dbxref=PMID:15358532	
+Q96FV9	UniProtKB	Mutagenesis	617	617	.	.	.	Note=Loss of ability to induce apoptosis. Interferes with normal response of SaOS-2 cells to radiation. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10512864;Dbxref=PMID:10512864	
+Q96FV9	UniProtKB	Mutagenesis	620	620	.	.	.	Note=Loss of ability to induce apoptosis. Interferes with normal response of SaOS-2 cells to radiation. W->P%2CR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10512864;Dbxref=PMID:10512864	
+Q96FV9	UniProtKB	Sequence conflict	71	71	.	.	.	Note=N->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	86	86	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	130	130	.	.	.	Note=S->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	134	134	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	433	433	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	480	480	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	487	487	.	.	.	Note=V->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	498	498	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Sequence conflict	519	519	.	.	.	Note=P->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96FV9	UniProtKB	Beta strand	565	567	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	571	581	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Turn	582	584	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	585	588	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Turn	589	593	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	596	605	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	609	624	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	625	627	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	630	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	
+Q96FV9	UniProtKB	Helix	643	650	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXP	

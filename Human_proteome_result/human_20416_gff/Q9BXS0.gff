@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q9BXS0 1 654
+Q9BXS0	UniProtKB	Chain	1	654	.	.	.	ID=PRO_0000259611;Note=Collagen alpha-1(XXV) chain	
+Q9BXS0	UniProtKB	Chain	113	654	.	.	.	ID=PRO_0000259612;Note=Collagen-like Alzheimer amyloid plaque component;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11927537,ECO:0000269|PubMed:15522881;Dbxref=PMID:11927537,PMID:15522881	
+Q9BXS0	UniProtKB	Topological domain	1	33	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Transmembrane	34	54	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Topological domain	55	654	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	121	164	.	.	.	Note=Collagen-like 1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	192	247	.	.	.	Note=Collagen-like 2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	249	308	.	.	.	Note=Collagen-like 3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	311	370	.	.	.	Note=Collagen-like 4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	372	425	.	.	.	Note=Collagen-like 5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	447	505	.	.	.	Note=Collagen-like 6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Domain	571	630	.	.	.	Note=Collagen-like 7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BXS0	UniProtKB	Region	181	188	.	.	.	Note=Interaction with amyloid-beta peptide;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15522881;Dbxref=PMID:15522881	
+Q9BXS0	UniProtKB	Site	112	113	.	.	.	Note=Cleavage%3B by furin	
+Q9BXS0	UniProtKB	Modified residue	113	113	.	.	.	Note=Pyrrolidone carboxylic acid (Glu);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11927537;Dbxref=PMID:11927537	
+Q9BXS0	UniProtKB	Alternative sequence	141	146	.	.	.	ID=VSP_052197;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14656069;Dbxref=PMID:14656069	
+Q9BXS0	UniProtKB	Alternative sequence	326	340	.	.	.	ID=VSP_052198;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14656069;Dbxref=PMID:14656069	
+Q9BXS0	UniProtKB	Alternative sequence	589	640	.	.	.	ID=VSP_052199;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14656069;Dbxref=PMID:14656069	
+Q9BXS0	UniProtKB	Alternative sequence	616	654	.	.	.	ID=VSP_052200;Note=In isoform 2. GFRGVKGEKGEPGQPGLDGLDAPCQLGPDGLPMPGCWQK->VTSPSQHVPCLILLLLSALLFSLCDSI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11927537;Dbxref=PMID:11927537	
+Q9BXS0	UniProtKB	Natural variant	382	382	.	.	.	ID=VAR_073325;Note=In CFEOM5%3B causes loss of stability%3B causes incorrect folding. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25500261;Dbxref=dbSNP:rs780209390,PMID:25500261	
+Q9BXS0	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Not secreted. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11927537;Dbxref=PMID:11927537	
+Q9BXS0	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Not secreted. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11927537;Dbxref=PMID:11927537	
+Q9BXS0	UniProtKB	Mutagenesis	181	188	.	.	.	Note=Reduces binding to amyloid-beta peptide. LIKRRLIK->VIKRRTFQ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15522881;Dbxref=PMID:15522881	
+Q9BXS0	UniProtKB	Mutagenesis	181	188	.	.	.	Note=Abolishes binding to amyloid-beta peptide. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15522881;Dbxref=PMID:15522881	
+Q9BXS0	UniProtKB	Sequence conflict	28	28	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BXS0	UniProtKB	Sequence conflict	28	28	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BXS0	UniProtKB	Sequence conflict	427	427	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BXS0	UniProtKB	Sequence conflict	427	427	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	

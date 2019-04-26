@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q8WZ55 1 320
+Q8WZ55	UniProtKB	Chain	1	320	.	.	.	ID=PRO_0000064999;Note=Barttin	
+Q8WZ55	UniProtKB	Topological domain	1	5	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WZ55	UniProtKB	Transmembrane	6	26	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WZ55	UniProtKB	Topological domain	27	32	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WZ55	UniProtKB	Transmembrane	33	53	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WZ55	UniProtKB	Topological domain	54	320	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8WZ55	UniProtKB	Modified residue	110	110	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VIM4	
+Q8WZ55	UniProtKB	Modified residue	168	168	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VIM4	
+Q8WZ55	UniProtKB	Lipidation	54	54	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26013830;Dbxref=PMID:26013830	
+Q8WZ55	UniProtKB	Lipidation	56	56	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26013830;Dbxref=PMID:26013830	
+Q8WZ55	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_019783;Note=In BARTS4A%3B completely abolishes CLCNKA activation%3B mutated protein fails to increase surface expression of CLCNKA%3B intracellular localization%3B probably retained in the ER. R->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11687798,ECO:0000269|PubMed:12111250,ECO:0000269|PubMed:12761627;Dbxref=dbSNP:rs74315288,PMID:11687798,PMID:12111250,PMID:12761627	
+Q8WZ55	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_019784;Note=In BARTS4A%3B completely abolishes CLCNKA activation. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11687798,ECO:0000269|PubMed:12111250;Dbxref=dbSNP:rs74315285,PMID:11687798,PMID:12111250	
+Q8WZ55	UniProtKB	Natural variant	10	10	.	.	.	ID=VAR_019785;Note=In BARTS4A%3B increases CLCNKA currents over those obtained with wild-type%3B still activates CLCNKA to an extent similar to that of wild-type%3B intracellular but some plasma membrane localization as well. G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11687798,ECO:0000269|PubMed:12111250,ECO:0000269|PubMed:12761627;Dbxref=dbSNP:rs74315287,PMID:11687798,PMID:12111250,PMID:12761627	
+Q8WZ55	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_061564;Note=V->I;Dbxref=dbSNP:rs34561376	
+Q8WZ55	UniProtKB	Natural variant	47	47	.	.	.	ID=VAR_019786;Note=In BARTS4A%3B atypical. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12574213;Dbxref=dbSNP:rs74315289,PMID:12574213	
+Q8WZ55	UniProtKB	Mutagenesis	54	54	.	.	.	Note=38%25 reduction in palmitoylation. Abolishes palmitoylation%3B when associated with S-56. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26013830;Dbxref=PMID:26013830	
+Q8WZ55	UniProtKB	Mutagenesis	56	56	.	.	.	Note=74%25 reduction in palmitoylation. Abolishes palmitoylation%3B when associated with S-54. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26013830;Dbxref=PMID:26013830	
+Q8WZ55	UniProtKB	Mutagenesis	98	98	.	.	.	Note=Stimulation of CLCNKA and CLCNKB currents enhanced%3B intense localization in the plasma membrane with no intracellular localization observed. Y->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11734858,ECO:0000269|PubMed:12761627;Dbxref=PMID:11734858,PMID:12761627	

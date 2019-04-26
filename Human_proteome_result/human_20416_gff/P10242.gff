@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region P10242 1 640
+P10242	UniProtKB	Chain	1	640	.	.	.	ID=PRO_0000197048;Note=Transcriptional activator Myb	
+P10242	UniProtKB	Domain	35	86	.	.	.	Note=HTH myb-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00625	
+P10242	UniProtKB	Domain	87	142	.	.	.	Note=HTH myb-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00625	
+P10242	UniProtKB	Domain	143	193	.	.	.	Note=HTH myb-type 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00625	
+P10242	UniProtKB	DNA binding	63	86	.	.	.	Note=H-T-H motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00625	
+P10242	UniProtKB	DNA binding	115	138	.	.	.	Note=H-T-H motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00625	
+P10242	UniProtKB	DNA binding	166	189	.	.	.	Note=H-T-H motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00625	
+P10242	UniProtKB	Region	90	193	.	.	.	Note=Interaction with HIPK2 and NLK;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P10242	UniProtKB	Region	275	327	.	.	.	Note=Transcription activation domain (PubMed:2189102);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2189102;Dbxref=PMID:2189102	
+P10242	UniProtKB	Region	328	465	.	.	.	Note=Negative regulatory domain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P10242	UniProtKB	Region	376	397	.	.	.	Note=Leucine-zipper	
+P10242	UniProtKB	Modified residue	471	471	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P10242	UniProtKB	Modified residue	480	480	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P10242	UniProtKB	Modified residue	532	532	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P10242	UniProtKB	Modified residue	534	534	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P10242	UniProtKB	Cross-link	480	480	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P10242	UniProtKB	Alternative sequence	282	316	.	.	.	ID=VSP_046658;Note=In isoform 9. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+P10242	UniProtKB	Alternative sequence	314	316	.	.	.	ID=VSP_003293;Note=In isoform 2 and isoform 7. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15169551,ECO:0000303|PubMed:2202948,ECO:0000303|Ref.6;Dbxref=PMID:15169551,PMID:2202948	
+P10242	UniProtKB	Alternative sequence	317	640	.	.	.	ID=VSP_053389;Note=In isoform 12. TQNHTCSYPGWHSTTIADHTRPHGDSAPVSCLGEHHSTPSLPADPGSLPEESASPARCMIVHQGTILDNVKNLLEFAETLQFIDSFLNTSSNHENSDLEMPSLTSTPLIGHKLTVTTPFHRDQTVKTQKENTVFRTPAIKRSILESSPRTPTPFKHALAAQEIKYGPLKMLPQTPSHLVEDLQDVIKQESDESGIVAEFQENGPPLLKKIKQEVESPTDKSGNFFCSHHWEGDSLNTQLFTQTSPVADAPNILTSSVLMAPASEDEDNVLKAFTVPKNRSLASPLQPCSSTWEPASCGKMEEQMTSSSQARKYVNAFSARTLVM->VRLSSCA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:3014652;Dbxref=PMID:3014652	
+P10242	UniProtKB	Alternative sequence	317	401	.	.	.	ID=VSP_046659;Note=In isoform 11. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+P10242	UniProtKB	Alternative sequence	317	350	.	.	.	ID=VSP_003294;Note=In isoform 3. TQNHTCSYPGWHSTTIADHTRPHGDSAPVSCLGE->LCGPLLNSDIFSDWAANWDGSLCFATYIVNQQRQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Alternative sequence	351	640	.	.	.	ID=VSP_003295;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Alternative sequence	386	401	.	.	.	ID=VSP_046660;Note=In isoform 8. VKNLLEFAETLQFIDS->DSSSWCDLSSFEFFEEADFSPSQHHTGKALQLQQREGNGTKPAGEPSPRVNKRMLSESSLDPPKVLPPARHSTIPLVILRKKRGQASPLATGDCSSFIFADVSSSTPKRSPVKSLPFSPSQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+P10242	UniProtKB	Alternative sequence	401	401	.	.	.	ID=VSP_003296;Note=In isoform 4 and isoform 7. S->SDSSSWCDLSSFEFFEEADFSPSQHHTGKALQLQQREGNGTKPAGEPSPRVNKRMLSESSLDPPKVLPPARHSTIPLVILRKKRGQASPLATGDCSSFIFADVSSSTPKRSPVKSLPFSPSQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15169551,ECO:0000303|Ref.6;Dbxref=PMID:15169551	
+P10242	UniProtKB	Alternative sequence	402	402	.	.	.	ID=VSP_003297;Note=In isoform 5. F->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Alternative sequence	403	640	.	.	.	ID=VSP_003298;Note=In isoform 5. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Alternative sequence	530	566	.	.	.	ID=VSP_046661;Note=In isoform 10. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.6	
+P10242	UniProtKB	Alternative sequence	567	640	.	.	.	ID=VSP_003299;Note=In isoform 6. NILTSSVLMAPASEDEDNVLKAFTVPKNRSLASPLQPCSSTWEPASCGKMEEQMTSSSQARKYVNAFSARTLVM->TGVQWHDFGSLQPLPPGFKRFSCLSLPRSWDYRHPPPRPANFEFLVETGFLHVGQAGLELLTSGDLPASASQSARITGVSHRARPEYSYKLRFNGTSIRR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Natural variant	336	336	.	.	.	ID=VAR_050188;Note=T->I;Dbxref=dbSNP:rs2229999	
+P10242	UniProtKB	Natural variant	422	422	.	.	.	ID=VAR_050189;Note=T->N;Dbxref=dbSNP:rs2230000	
+P10242	UniProtKB	Sequence conflict	511	511	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Sequence conflict	511	511	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Sequence conflict	511	511	.	.	.	Note=I->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Sequence conflict	563	563	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Sequence conflict	563	563	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10242	UniProtKB	Sequence conflict	563	563	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

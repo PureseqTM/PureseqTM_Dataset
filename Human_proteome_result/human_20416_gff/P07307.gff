@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region P07307 1 311
+P07307	UniProtKB	Chain	1	311	.	.	.	ID=PRO_0000046654;Note=Asialoglycoprotein receptor 2	
+P07307	UniProtKB	Topological domain	1	58	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P07307	UniProtKB	Transmembrane	59	79	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P07307	UniProtKB	Topological domain	80	311	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P07307	UniProtKB	Domain	176	302	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P07307	UniProtKB	Motif	5	8	.	.	.	Note=Endocytosis signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P07307	UniProtKB	Modified residue	13	13	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P08290	
+P07307	UniProtKB	Lipidation	54	54	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P07307	UniProtKB	Glycosylation	102	102	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19159218;Dbxref=PMID:16335952,PMID:19159218	
+P07307	UniProtKB	Glycosylation	170	170	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P07307	UniProtKB	Glycosylation	305	305	.	.	.	Note=N-linked (GlcNAc...) asparagine	
+P07307	UniProtKB	Disulfide bond	177	188	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P07307	UniProtKB	Disulfide bond	205	300	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P07307	UniProtKB	Disulfide bond	278	292	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P07307	UniProtKB	Alternative sequence	24	42	.	.	.	ID=VSP_003060;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P07307	UniProtKB	Alternative sequence	82	86	.	.	.	ID=VSP_003061;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P07307	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_068747;Note=G->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1371982,ECO:0000269|PubMed:3863106,ECO:0000269|Ref.4;Dbxref=dbSNP:rs2304978,PMID:1371982,PMID:3863106	

@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region P49407 1 418
+P49407	UniProtKB	Chain	1	418	.	.	.	ID=PRO_0000205194;Note=Beta-arrestin-1	
+P49407	UniProtKB	Region	1	163	.	.	.	Note=Interaction with SRC;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49407	UniProtKB	Region	45	86	.	.	.	Note=Interaction with CHRM2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49407	UniProtKB	Region	318	418	.	.	.	Note=Interaction with TRAF6;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378096;Dbxref=PMID:16378096	
+P49407	UniProtKB	Motif	385	395	.	.	.	Note=[DE]-X(1%2C2)-F-X-X-[FL]-X-X-X-R motif	
+P49407	UniProtKB	Binding site	250	250	.	.	.	Note=Inositol hexakisphosphate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49407	UniProtKB	Binding site	255	255	.	.	.	Note=Inositol hexakisphosphate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49407	UniProtKB	Binding site	324	324	.	.	.	Note=Inositol hexakisphosphate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49407	UniProtKB	Binding site	326	326	.	.	.	Note=Inositol hexakisphosphate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P49407	UniProtKB	Modified residue	47	47	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BWG8	
+P49407	UniProtKB	Modified residue	412	412	.	.	.	Note=Phosphoserine%3B by GRK5;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:19661922;Dbxref=PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569,PMID:19661922	
+P49407	UniProtKB	Alternative sequence	334	341	.	.	.	ID=VSP_000322;Note=In isoform 1B. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:8486659,ECO:0000303|Ref.2,ECO:0000303|Ref.4;Dbxref=PMID:8486659	
+P49407	UniProtKB	Mutagenesis	169	169	.	.	.	Note=Constitutive active%3B enables phosphorylation-independent binding to GPCRs. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10066734;Dbxref=PMID:10066734	
+P49407	UniProtKB	Mutagenesis	388	388	.	.	.	Note=Abolishes interaction with AP2B1. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16516836;Dbxref=PMID:16516836	
+P49407	UniProtKB	Mutagenesis	390	390	.	.	.	Note=Abolishes interaction with AP2B1. D->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16516836;Dbxref=PMID:16516836	
+P49407	UniProtKB	Mutagenesis	393	393	.	.	.	Note=Abolishes interaction with AP2B1. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16516836;Dbxref=PMID:16516836	
+P49407	UniProtKB	Sequence conflict	146	146	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	146	146	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	165	165	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	165	165	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	229	229	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	229	229	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	329	329	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	329	329	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	400	400	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	400	400	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	414	414	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	414	414	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	417	417	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Sequence conflict	417	417	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49407	UniProtKB	Helix	384	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2IV8	

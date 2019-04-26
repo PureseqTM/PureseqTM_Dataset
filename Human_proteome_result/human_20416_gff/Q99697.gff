@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q99697 1 317
+Q99697	UniProtKB	Chain	1	317	.	.	.	ID=PRO_0000049223;Note=Pituitary homeobox 2	
+Q99697	UniProtKB	DNA binding	85	144	.	.	.	Note=Homeobox;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00108	
+Q99697	UniProtKB	Motif	279	292	.	.	.	Note=OAR;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00138	
+Q99697	UniProtKB	Motif	285	289	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99697	UniProtKB	Modified residue	90	90	.	.	.	Note=Phosphothreonine%3B by PKB/AKT2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q99697	UniProtKB	Alternative sequence	1	61	.	.	.	ID=VSP_002260;Note=In isoform PTX2C. METNCRKLVSACVQLGVQPAAVECLFSKDSEIKKVEFTDSPESRKEAASSKFFPRQHPGAN->MNCMKGPLHLEHRAAGTKLSAVSSSSCHHPQPLAMASVLAPGQPRSLDSSKHRLEVHTISDTSSPEAA;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9539779;Dbxref=PMID:14702039,PMID:15489334,PMID:9539779	
+Q99697	UniProtKB	Alternative sequence	16	61	.	.	.	ID=VSP_002261;Note=In isoform PTX2A. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:9539779;Dbxref=PMID:14702039,PMID:15489334,PMID:9539779	
+Q99697	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_003763;Note=In RIEG1. L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8944018;Dbxref=dbSNP:rs104893857,PMID:8944018	
+Q99697	UniProtKB	Natural variant	108	108	.	.	.	ID=VAR_035027;Note=In RDC%3B results in 25%25 loss of transactivation activity. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15591271,ECO:0000269|PubMed:22224469;Dbxref=dbSNP:rs104893862,PMID:15591271,PMID:22224469	
+Q99697	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_058735;Note=In RIEG1. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12381896,ECO:0000269|PubMed:16936096;Dbxref=dbSNP:rs1057519484,PMID:12381896,PMID:16936096	
+Q99697	UniProtKB	Natural variant	110	110	.	.	.	ID=VAR_058736;Note=In RIEG1. P->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16936096;Dbxref=PMID:16936096	
+Q99697	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_003764;Note=In RIEG1. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8944018;Dbxref=dbSNP:rs104893858,PMID:8944018	
+Q99697	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_003765;Note=In ASGD4. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9618168;Dbxref=dbSNP:rs104893861,PMID:9618168	
+Q99697	UniProtKB	Natural variant	128	134	.	.	.	ID=VAR_035028;Note=In RIEG1%3B more than 100-fold reduction in DNA binding activity as well as no detectable transactivation activity. Missing	
+Q99697	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_035029;Note=In RIEG1%3B more than 200%25 increase in transactivation activity. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11487566;Dbxref=dbSNP:rs121909249,PMID:11487566	
+Q99697	UniProtKB	Natural variant	130	130	.	.	.	ID=VAR_003762;Note=In ASGD4. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9437321;Dbxref=dbSNP:rs121909248,PMID:9437321	
+Q99697	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_058737;Note=In RIEG1. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10937553;Dbxref=dbSNP:rs387906810,PMID:10937553	
+Q99697	UniProtKB	Natural variant	136	136	.	.	.	ID=VAR_058738;Note=In RIEG1. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10937553,ECO:0000269|PubMed:12381896;Dbxref=PMID:10937553,PMID:12381896	
+Q99697	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_003766;Note=In RIEG1. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8944018;Dbxref=dbSNP:rs104893859,PMID:8944018	
+Q99697	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_058739;Note=In RIEG1. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12381896;Dbxref=PMID:12381896	
+Q99697	UniProtKB	Natural variant	154	154	.	.	.	ID=VAR_058740;Note=In RIEG1. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12381896;Dbxref=PMID:12381896	
+Q99697	UniProtKB	Sequence conflict	13	13	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99697	UniProtKB	Sequence conflict	13	13	.	.	.	Note=V->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99697	UniProtKB	Sequence conflict	99	99	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99697	UniProtKB	Sequence conflict	127	127	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99697	UniProtKB	Sequence conflict	301	301	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99697	UniProtKB	Sequence conflict	301	301	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99697	UniProtKB	Beta strand	86	88	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7M	
+Q99697	UniProtKB	Beta strand	90	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7M	
+Q99697	UniProtKB	Helix	94	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7F	
+Q99697	UniProtKB	Helix	112	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7F	
+Q99697	UniProtKB	Helix	126	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2L7F	

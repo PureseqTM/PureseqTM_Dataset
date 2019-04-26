@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q9H7Z7 1 377
+Q9H7Z7	UniProtKB	Chain	1	377	.	.	.	ID=PRO_0000013127;Note=Prostaglandin E synthase 2	
+Q9H7Z7	UniProtKB	Chain	88	377	.	.	.	ID=PRO_0000013128;Note=Prostaglandin E synthase 2 truncated form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H7Z7	UniProtKB	Topological domain	1	57	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H7Z7	UniProtKB	Transmembrane	58	74	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H7Z7	UniProtKB	Topological domain	75	377	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9H7Z7	UniProtKB	Domain	90	193	.	.	.	Note=Glutaredoxin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00686	
+Q9H7Z7	UniProtKB	Domain	263	377	.	.	.	Note=GST C-terminal	
+Q9H7Z7	UniProtKB	Region	164	165	.	.	.	Note=Glutathione binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H7Z7	UniProtKB	Binding site	148	148	.	.	.	Note=Glutathione%3B via amide nitrogen and carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H7Z7	UniProtKB	Site	87	88	.	.	.	Note=Cleavage;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9H7Z7	UniProtKB	Modified residue	95	95	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H7Z7	UniProtKB	Natural variant	298	298	.	.	.	ID=VAR_049494;Note=R->H;Dbxref=dbSNP:rs13283456	
+Q9H7Z7	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Loss of function. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12804604;Dbxref=PMID:12804604	
+Q9H7Z7	UniProtKB	Mutagenesis	113	113	.	.	.	Note=Slightly decreased enzyme activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12804604;Dbxref=PMID:12804604	
+Q9H7Z7	UniProtKB	Sequence conflict	319	319	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

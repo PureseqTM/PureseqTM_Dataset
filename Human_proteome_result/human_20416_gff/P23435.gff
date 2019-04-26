@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region P23435 1 193
+P23435	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P23435	UniProtKB	Chain	22	193	.	.	.	ID=PRO_0000274209;Note=Cerebellin-1	
+P23435	UniProtKB	Peptide	57	72	.	.	.	ID=PRO_0000003546;Note=Cerebellin	
+P23435	UniProtKB	Peptide	58	72	.	.	.	ID=PRO_0000274210;Note=[des-Ser1]-cerebellin	
+P23435	UniProtKB	Domain	57	193	.	.	.	Note=C1q;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00368	
+P23435	UniProtKB	Region	34	38	.	.	.	Note=Essential for interaction with NRXN1 and linker of two C1q trimers into disulfide-linked hexamers;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Region	62	193	.	.	.	Note=Necessary for interaction with CBLN3%2C and homotrimerization;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23435	UniProtKB	Region	122	147	.	.	.	Note=Essential for interaction with GRID2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Glycosylation	23	23	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P23435	UniProtKB	Glycosylation	79	79	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5KC5,ECO:0000244|PDB:5KC6,ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Disulfide bond	34	34	.	.	.	Note=Interchain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23435	UniProtKB	Disulfide bond	38	38	.	.	.	Note=Interchain;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23435	UniProtKB	Mutagenesis	34	34	.	.	.	Note=Abolishes hexamer formation%3B when associated with S-38. Abolishes interaction with NRXN1%3B when associated with S-38. Abolishes GRID2 interaction%3B when associated with S-38. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Mutagenesis	38	38	.	.	.	Note=Abolishes hexamer formation%3B when associated with S-34. Abolishes interaction with NRXN1 isoform 3B%3B when associated with S-34. Abolishes GRID2 interaction.%3B when associated with S-34. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Mutagenesis	122	122	.	.	.	Note=Abolishes GRID2 interaction.%3B when associated with A-124 and A-147. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Mutagenesis	124	124	.	.	.	Note=Abolishes GRID2 interaction.%3B when associated with A-122 and A-147. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Mutagenesis	147	147	.	.	.	Note=Abolishes GRID2 interaction.%3B when associated with A-122 and A-124. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27418511;Dbxref=PMID:27418511	
+P23435	UniProtKB	Beta strand	63	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Helix	78	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	87	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Turn	99	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	107	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	127	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	136	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	151	161	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	166	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	
+P23435	UniProtKB	Beta strand	184	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KC5	

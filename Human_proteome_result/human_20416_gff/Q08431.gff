@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region Q08431 1 387
+Q08431	UniProtKB	Signal peptide	1	23	.	.	.	.	
+Q08431	UniProtKB	Chain	24	387	.	.	.	ID=PRO_0000007650;Note=Lactadherin	
+Q08431	UniProtKB	Chain	202	387	.	.	.	ID=PRO_0000007651;Note=Lactadherin short form	
+Q08431	UniProtKB	Chain	268	317	.	.	.	ID=PRO_0000007652;Note=Medin	
+Q08431	UniProtKB	Domain	24	67	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+Q08431	UniProtKB	Domain	70	225	.	.	.	Note=F5/8 type C 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00081	
+Q08431	UniProtKB	Domain	230	387	.	.	.	Note=F5/8 type C 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00081	
+Q08431	UniProtKB	Motif	46	48	.	.	.	Note=Cell attachment site	
+Q08431	UniProtKB	Modified residue	42	42	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q08431	UniProtKB	Glycosylation	228	228	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B atypical;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18780401;Dbxref=PMID:18780401	
+Q08431	UniProtKB	Glycosylation	238	238	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18780401;Dbxref=PMID:18780401	
+Q08431	UniProtKB	Glycosylation	325	325	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18780401;Dbxref=PMID:18780401	
+Q08431	UniProtKB	Glycosylation	329	329	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18780401;Dbxref=PMID:18780401	
+Q08431	UniProtKB	Glycosylation	350	350	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18780401;Dbxref=PMID:18780401	
+Q08431	UniProtKB	Disulfide bond	27	38	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08431	UniProtKB	Disulfide bond	32	55	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08431	UniProtKB	Disulfide bond	57	66	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08431	UniProtKB	Disulfide bond	70	225	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08431	UniProtKB	Disulfide bond	212	216	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08431	UniProtKB	Disulfide bond	230	387	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q08431	UniProtKB	Alternative sequence	1	112	.	.	.	ID=VSP_039108;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q08431	UniProtKB	Alternative sequence	25	69	.	.	.	ID=VSP_059818;Note=In isoform 4. DICSKNPCHNGGLCEEISQEVRGDVFPSYTCTCLKGYAGNHCETK->E	
+Q08431	UniProtKB	Alternative sequence	291	342	.	.	.	ID=VSP_039953;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.3;Dbxref=PMID:15489334	
+Q08431	UniProtKB	Natural variant	3	3	.	.	.	ID=VAR_029794;Note=R->S;Dbxref=dbSNP:rs4945	
+Q08431	UniProtKB	Natural variant	76	76	.	.	.	ID=VAR_024263;Note=L->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:8639264,ECO:0000269|Ref.2,ECO:0000269|Ref.3,ECO:0000269|Ref.8;Dbxref=dbSNP:rs1878326,PMID:15489334,PMID:8639264	
+Q08431	UniProtKB	Sequence conflict	268	268	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q08431	UniProtKB	Sequence conflict	352	352	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	

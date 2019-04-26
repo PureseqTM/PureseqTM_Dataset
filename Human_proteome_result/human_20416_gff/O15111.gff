@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region O15111 1 745
+O15111	UniProtKB	Chain	1	745	.	.	.	ID=PRO_0000086011;Note=Inhibitor of nuclear factor kappa-B kinase subunit alpha	
+O15111	UniProtKB	Domain	15	302	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15111	UniProtKB	Nucleotide binding	21	29	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15111	UniProtKB	Region	455	476	.	.	.	Note=Leucine-zipper	
+O15111	UniProtKB	Region	738	743	.	.	.	Note=NEMO-binding	
+O15111	UniProtKB	Active site	144	144	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+O15111	UniProtKB	Binding site	44	44	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+O15111	UniProtKB	Modified residue	23	23	.	.	.	Note=Phosphothreonine%3B by PKB/AKT1 and SGK1;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10485710,ECO:0000269|PubMed:19088076;Dbxref=PMID:10485710,PMID:19088076	
+O15111	UniProtKB	Modified residue	176	176	.	.	.	Note=Phosphoserine%3B by MAP3K14;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9520446;Dbxref=PMID:9520446	
+O15111	UniProtKB	Modified residue	179	179	.	.	.	Note=O-acetylthreonine%3B by Yersinia yopJ;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17116858;Dbxref=PMID:17116858	
+O15111	UniProtKB	Modified residue	180	180	.	.	.	Note=Phosphoserine%3B by SGK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19088076;Dbxref=PMID:19088076	
+O15111	UniProtKB	Natural variant	126	126	.	.	.	ID=VAR_040565;Note=S->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34427437,PMID:17344846	
+O15111	UniProtKB	Natural variant	155	155	.	.	.	ID=VAR_040566;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs2230803,PMID:17344846	
+O15111	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_021359;Note=V->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15164054,ECO:0000269|PubMed:17344846,ECO:0000269|PubMed:8777433,ECO:0000269|PubMed:9244310,ECO:0000269|PubMed:9252186,ECO:0000269|PubMed:9813230;Dbxref=dbSNP:rs2230804,PMID:15164054,PMID:17344846,PMID:8777433,PMID:9244310,PMID:9252186,PMID:9813230	
+O15111	UniProtKB	Mutagenesis	23	23	.	.	.	Note=Loss of phosphorylation and decrease of kinase activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10485710;Dbxref=PMID:10485710	
+O15111	UniProtKB	Mutagenesis	44	44	.	.	.	Note=Loss of kinase activity. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9244310,ECO:0000269|PubMed:9346484;Dbxref=PMID:9244310,PMID:9346484	
+O15111	UniProtKB	Mutagenesis	44	44	.	.	.	Note=Loss of autophosphorylation. K->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9244310,ECO:0000269|PubMed:9346484;Dbxref=PMID:9244310,PMID:9346484	
+O15111	UniProtKB	Mutagenesis	176	176	.	.	.	Note=Loss of phosphorylation and of activity. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9346484,ECO:0000269|PubMed:9520446;Dbxref=PMID:9346484,PMID:9520446	
+O15111	UniProtKB	Mutagenesis	176	176	.	.	.	Note=Full activation. S->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9346484,ECO:0000269|PubMed:9520446;Dbxref=PMID:9346484,PMID:9520446	
+O15111	UniProtKB	Mutagenesis	179	179	.	.	.	Note=No change in phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9520446;Dbxref=PMID:9520446	
+O15111	UniProtKB	Mutagenesis	180	180	.	.	.	Note=No change in phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9520446;Dbxref=PMID:9520446	
+O15111	UniProtKB	Sequence conflict	543	543	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15111	UniProtKB	Sequence conflict	604	604	.	.	.	Note=L->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15111	UniProtKB	Sequence conflict	679	680	.	.	.	Note=TS->AY;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15111	UniProtKB	Sequence conflict	684	684	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15111	UniProtKB	Sequence conflict	684	684	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15111	UniProtKB	Sequence conflict	686	687	.	.	.	Note=TS->DL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O15111	UniProtKB	Helix	735	737	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BRT	
+O15111	UniProtKB	Helix	741	743	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3BRT	

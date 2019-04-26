@@ -1,0 +1,78 @@
+##gff-version 3
+##sequence-region P43155 1 626
+P43155	UniProtKB	Chain	1	626	.	.	.	ID=PRO_0000210172;Note=Carnitine O-acetyltransferase	
+P43155	UniProtKB	Region	423	430	.	.	.	Note=Coenzyme A binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P43155	UniProtKB	Motif	624	626	.	.	.	Note=Microbody targeting signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P43155	UniProtKB	Active site	343	343	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43155	UniProtKB	Binding site	419	419	.	.	.	Note=Coenzyme A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P43155	UniProtKB	Binding site	452	452	.	.	.	Note=Carnitine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Binding site	454	454	.	.	.	Note=Carnitine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Binding site	456	456	.	.	.	Note=Coenzyme A%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P43155	UniProtKB	Binding site	465	465	.	.	.	Note=Carnitine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Binding site	504	504	.	.	.	Note=Coenzyme A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P43155	UniProtKB	Binding site	555	555	.	.	.	Note=Coenzyme A%3B via carbonyl oxygen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P43155	UniProtKB	Modified residue	93	93	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P47934	
+P43155	UniProtKB	Modified residue	261	261	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P43155	UniProtKB	Modified residue	261	261	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P47934	
+P43155	UniProtKB	Modified residue	268	268	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P43155	UniProtKB	Alternative sequence	1	21	.	.	.	ID=VSP_000792;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43155	UniProtKB	Alternative sequence	282	363	.	.	.	ID=VSP_012798;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:15489334	
+P43155	UniProtKB	Natural variant	321	321	.	.	.	ID=VAR_080636;Note=In NBIA8%3B unknown pathological significance%3B loss of expression at the protein level and drastic decrease in beta-oxidation of palmitate in homozygous patient's primary fibroblasts as compared to wild-type cells%3B primary fibroblasts from a homozygous patient show much higher intracellular iron content than fibroblasts from control individuals and abnormally elevated levels of transferrin receptor 1/TFRC at the cell surface. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29395073;Dbxref=dbSNP:rs138665095,PMID:29395073	
+P43155	UniProtKB	Natural variant	372	372	.	.	.	ID=VAR_047780;Note=L->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7829107,ECO:0000269|Ref.1;Dbxref=dbSNP:rs3118635,PMID:15489334,PMID:7829107	
+P43155	UniProtKB	Natural variant	624	624	.	.	.	ID=VAR_047781;Note=A->P;Dbxref=dbSNP:rs17459086	
+P43155	UniProtKB	Mutagenesis	452	452	.	.	.	Note=Increases the KM for carnitine 100-fold. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Mutagenesis	452	452	.	.	.	Note=Increases the KM for carnitine 320-fold and reduces enzyme activity 10000-fold. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Mutagenesis	465	465	.	.	.	Note=Increases the KM for carnitine almost 70-fold and reduces enzyme activity 450-fold. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Mutagenesis	518	518	.	.	.	Note=Increases the KM for carnitine 230-fold and reduces enzyme activity almost 100-fold. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Mutagenesis	566	566	.	.	.	Note=Increases the KM for carnitine 18-fold and reduces enzyme activity 100-fold. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Mutagenesis	566	566	.	.	.	Note=No effect. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15099582;Dbxref=PMID:15099582	
+P43155	UniProtKB	Sequence conflict	88	88	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43155	UniProtKB	Sequence conflict	349	349	.	.	.	Note=P->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43155	UniProtKB	Sequence conflict	517	517	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43155	UniProtKB	Sequence conflict	534	534	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P43155	UniProtKB	Helix	43	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Turn	55	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	60	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	79	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	94	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	99	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Turn	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Turn	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	121	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	132	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	171	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	179	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	185	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	189	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	196	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	202	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	210	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	226	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	248	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	256	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	270	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	285	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	297	299	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1S5O	
+P43155	UniProtKB	Helix	300	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Turn	314	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	325	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	337	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	348	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	379	381	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	387	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	407	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	420	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	429	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	451	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	465	469	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	473	482	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	489	511	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	517	529	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	536	539	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	541	546	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	550	555	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	559	561	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	563	565	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	574	580	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Beta strand	585	592	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	
+P43155	UniProtKB	Helix	600	619	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NM8	

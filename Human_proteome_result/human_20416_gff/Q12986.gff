@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q12986 1 1120
+Q12986	UniProtKB	Chain	1	1120	.	.	.	ID=PRO_0000055979;Note=Transcriptional repressor NF-X1	
+Q12986	UniProtKB	Domain	994	1062	.	.	.	Note=R3H;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00382	
+Q12986	UniProtKB	Zinc finger	358	409	.	.	.	Note=RING-type%3B atypical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q12986	UniProtKB	Zinc finger	453	471	.	.	.	Note=NF-X1-type 1	
+Q12986	UniProtKB	Zinc finger	506	525	.	.	.	Note=NF-X1-type 2	
+Q12986	UniProtKB	Zinc finger	567	586	.	.	.	Note=NF-X1-type 3	
+Q12986	UniProtKB	Zinc finger	632	655	.	.	.	Note=NF-X1-type 4	
+Q12986	UniProtKB	Zinc finger	694	713	.	.	.	Note=NF-X1-type 5	
+Q12986	UniProtKB	Zinc finger	721	740	.	.	.	Note=NF-X1-type 6	
+Q12986	UniProtKB	Zinc finger	832	854	.	.	.	Note=NF-X1-type 7	
+Q12986	UniProtKB	Zinc finger	863	884	.	.	.	Note=NF-X1-type 8	
+Q12986	UniProtKB	Region	9	26	.	.	.	Note=Interaction with PABPC1 and PABC4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17267499;Dbxref=PMID:17267499	
+Q12986	UniProtKB	Compositional bias	1084	1089	.	.	.	Note=Poly-Pro	
+Q12986	UniProtKB	Modified residue	50	50	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q12986	UniProtKB	Modified residue	82	82	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B1AY10	
+Q12986	UniProtKB	Modified residue	95	95	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q12986	UniProtKB	Modified residue	129	129	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B1AY10	
+Q12986	UniProtKB	Modified residue	150	150	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q12986	UniProtKB	Modified residue	326	326	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q12986	UniProtKB	Alternative sequence	809	833	.	.	.	ID=VSP_033682;Note=In isoform 3. FRSNIPCHLVDISCGLPCSATLPCG->QSHYWASTQKKRSHYMKKIPAHACL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Alternative sequence	834	1120	.	.	.	ID=VSP_033683;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Alternative sequence	1014	1024	.	.	.	ID=VSP_033684;Note=In isoform 2. GKNSKKSHSFP->VEVETSHWTFL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.1;Dbxref=PMID:14702039	
+Q12986	UniProtKB	Alternative sequence	1025	1120	.	.	.	ID=VSP_033685;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.1;Dbxref=PMID:14702039	
+Q12986	UniProtKB	Natural variant	731	731	.	.	.	ID=VAR_043380;Note=H->Y;Dbxref=dbSNP:rs5017299	
+Q12986	UniProtKB	Natural variant	760	760	.	.	.	ID=VAR_043381;Note=P->S;Dbxref=dbSNP:rs2860036	
+Q12986	UniProtKB	Natural variant	1086	1086	.	.	.	ID=VAR_043382;Note=P->Q;Dbxref=dbSNP:rs2274866	
+Q12986	UniProtKB	Mutagenesis	20	20	.	.	.	Note=Reduces PABPC1 and PABC4 binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17267499;Dbxref=PMID:17267499	
+Q12986	UniProtKB	Sequence conflict	179	179	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	186	186	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	312	312	.	.	.	Note=Q->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	419	420	.	.	.	Note=YT->FS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	560	560	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	653	653	.	.	.	Note=C->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	678	678	.	.	.	Note=E->EA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	714	714	.	.	.	Note=I->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q12986	UniProtKB	Sequence conflict	786	786	.	.	.	Note=C->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

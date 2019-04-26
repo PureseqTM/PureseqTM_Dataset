@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region P35270 1 261
+P35270	UniProtKB	Chain	1	261	.	.	.	ID=PRO_0000072149;Note=Sepiapterin reductase	
+P35270	UniProtKB	Nucleotide binding	14	20	.	.	.	Note=NADP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+P35270	UniProtKB	Nucleotide binding	42	43	.	.	.	Note=NADP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+P35270	UniProtKB	Nucleotide binding	69	70	.	.	.	Note=NADP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+P35270	UniProtKB	Nucleotide binding	201	206	.	.	.	Note=NADP;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+P35270	UniProtKB	Region	157	158	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35270	UniProtKB	Binding site	170	170	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35270	UniProtKB	Binding site	174	174	.	.	.	Note=NADP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35270	UniProtKB	Binding site	199	199	.	.	.	Note=Substrate%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35270	UniProtKB	Binding site	257	257	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P35270	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18297	
+P35270	UniProtKB	Modified residue	32	32	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P18297	
+P35270	UniProtKB	Modified residue	103	103	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P35270	UniProtKB	Modified residue	213	213	.	.	.	Note=Phosphoserine%3B by CaMK2%3B in vitro;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11825621;Dbxref=PMID:11825621	
+P35270	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_058007;Note=In DRDSPRD. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11443547,ECO:0000269|PubMed:17159114;Dbxref=dbSNP:rs104893665,PMID:11443547,PMID:17159114	
+P35270	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_058008;Note=In DRDSPRD. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16650784;Dbxref=dbSNP:rs104893666,PMID:16650784	
+P35270	UniProtKB	Mutagenesis	213	213	.	.	.	Note=Abolishes phosphorylation by CaMK2. No effect on kinetic parameters. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11825621;Dbxref=PMID:11825621	
+P35270	UniProtKB	Sequence conflict	10	10	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P35270	UniProtKB	Beta strand	6	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	18	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	36	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	44	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	56	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	62	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	73	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	94	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	111	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	117	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	129	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	149	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	158	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	168	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	191	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	200	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4Z3K	
+P35270	UniProtKB	Helix	204	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	216	227	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Helix	234	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	
+P35270	UniProtKB	Beta strand	254	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XWY	

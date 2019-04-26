@@ -1,0 +1,41 @@
+##gff-version 3
+##sequence-region Q03721 1 635
+Q03721	UniProtKB	Chain	1	635	.	.	.	ID=PRO_0000054058;Note=Potassium voltage-gated channel subfamily C member 4	
+Q03721	UniProtKB	Topological domain	1	226	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Transmembrane	227	247	.	.	.	Note=Helical%3B Name%3DSegment S1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Transmembrane	278	298	.	.	.	Note=Helical%3B Name%3DSegment S2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Topological domain	299	312	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Transmembrane	313	333	.	.	.	Note=Helical%3B Name%3DSegment S3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Transmembrane	345	364	.	.	.	Note=Helical%3B Voltage-sensor%3B Name%3DSegment S4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Topological domain	365	380	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Transmembrane	381	401	.	.	.	Note=Helical%3B Name%3DSegment S5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Transmembrane	452	472	.	.	.	Note=Helical%3B Name%3DSegment S6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Topological domain	473	635	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Region	1	28	.	.	.	Note=Inactivation gate	
+Q03721	UniProtKB	Motif	436	441	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q03721	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9649584;Dbxref=PMID:9649584	
+Q03721	UniProtKB	Modified residue	9	9	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9649584;Dbxref=PMID:9649584	
+Q03721	UniProtKB	Modified residue	15	15	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7993631;Dbxref=PMID:7993631	
+Q03721	UniProtKB	Modified residue	21	21	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7993631;Dbxref=PMID:7993631	
+Q03721	UniProtKB	Glycosylation	256	256	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Glycosylation	265	265	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q03721	UniProtKB	Alternative sequence	539	582	.	.	.	ID=VSP_020581;Note=In isoform 2. DSKQNGDANAVLSDEEGAGLTQPLASSPTPEERRALRRSTTRDR->GEIRGWEGKSLFPQWPREFPNGPQTLGFGMCFVWGFPKHKDVPL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1381835,ECO:0000303|PubMed:15489334;Dbxref=PMID:1381835,PMID:15489334	
+Q03721	UniProtKB	Alternative sequence	583	635	.	.	.	ID=VSP_020582;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1381835,ECO:0000303|PubMed:15489334;Dbxref=PMID:1381835,PMID:15489334	
+Q03721	UniProtKB	Alternative sequence	607	635	.	.	.	ID=VSP_040033;Note=In isoform 3. GTFVLRDLPLQHSPEAACPPTAGTLFLPH->ETCQDALSSNYAQAEVLTLS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q03721	UniProtKB	Natural variant	318	318	.	.	.	ID=VAR_034051;Note=D->Y;Dbxref=dbSNP:rs35167146	
+Q03721	UniProtKB	Natural variant	516	516	.	.	.	ID=VAR_062185;Note=R->Q;Dbxref=dbSNP:rs59123361	
+Q03721	UniProtKB	Natural variant	520	520	.	.	.	ID=VAR_027505;Note=C->Y;Dbxref=dbSNP:rs12411176	
+Q03721	UniProtKB	Mutagenesis	8	8	.	.	.	Note=Decreased inhibition of channel closure by PKC. Inhibition of channel closure is nearly abolished%3B when associated with A-9. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9649584;Dbxref=PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	8	8	.	.	.	Note=Decreased rate of channel inactivation. Loss of channel inactivation%3B when associated with D-9%3B D-15 and D-21. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9649584;Dbxref=PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	9	9	.	.	.	Note=Strong decrease of inhibition of channel closure by PKC. Inhibition of channel closure is nearly abolished%3B when associated with A-8. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9649584;Dbxref=PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	9	9	.	.	.	Note=Decreased rate of channel inactivation. Loss of channel inactivation%3B when associated with D-8%3B D-15 and D-21. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9649584;Dbxref=PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Decreased inhibition of channel closure by PKC. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7993631,ECO:0000269|PubMed:9649584;Dbxref=PMID:7993631,PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	15	15	.	.	.	Note=Slightly decreased rate of channel inactivation. Loss of channel inactivation%3B when associated with D-8%3B D-9 and D-21. S->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7993631,ECO:0000269|PubMed:9649584;Dbxref=PMID:7993631,PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Decreased inhibition of channel closure by PKC. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7993631,ECO:0000269|PubMed:9649584;Dbxref=PMID:7993631,PMID:9649584	
+Q03721	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Slightly decreased rate of channel inactivation. Loss of channel inactivation%3B when associated with D-8%3B D-9 and D-15. S->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7993631,ECO:0000269|PubMed:9649584;Dbxref=PMID:7993631,PMID:9649584	
+Q03721	UniProtKB	Sequence conflict	86	86	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q03721	UniProtKB	Sequence conflict	351	351	.	.	.	Note=F->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q03721	UniProtKB	Turn	3	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B4G	
+Q03721	UniProtKB	Beta strand	14	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B4G	
+Q03721	UniProtKB	Beta strand	19	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B4I	
+Q03721	UniProtKB	Turn	26	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ZTN	

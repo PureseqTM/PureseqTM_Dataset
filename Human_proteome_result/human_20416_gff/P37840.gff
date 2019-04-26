@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region P37840 1 140
+P37840	UniProtKB	Chain	1	140	.	.	.	ID=PRO_0000184022;Note=Alpha-synuclein	
+P37840	UniProtKB	Repeat	20	30	.	.	.	Note=1	
+P37840	UniProtKB	Repeat	31	41	.	.	.	Note=2	
+P37840	UniProtKB	Repeat	42	56	.	.	.	Note=3%3B approximate	
+P37840	UniProtKB	Repeat	57	67	.	.	.	Note=4	
+P37840	UniProtKB	Region	20	67	.	.	.	Note=4 X 11 AA tandem repeats of [EGS]-K-T-K-[EQ]-[GQ]-V-X(4)	
+P37840	UniProtKB	Metal binding	2	2	.	.	.	Note=Copper;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P37840	UniProtKB	Metal binding	50	50	.	.	.	Note=Copper;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P37840	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22407793;Dbxref=PMID:22407793	
+P37840	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10617630;Dbxref=PMID:10617630	
+P37840	UniProtKB	Modified residue	125	125	.	.	.	Note=Phosphotyrosine%3B by FYN;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11162638,ECO:0000269|PubMed:12893833;Dbxref=PMID:11162638,PMID:12893833	
+P37840	UniProtKB	Modified residue	129	129	.	.	.	Note=Phosphoserine%3B by BARK1%2C PLK2%2C CK2%2C CK1 and GRK5;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10617630,ECO:0000269|PubMed:11813001,ECO:0000269|PubMed:24936070;Dbxref=PMID:10617630,PMID:11813001,PMID:24936070	
+P37840	UniProtKB	Alternative sequence	41	54	.	.	.	ID=VSP_006363;Note=In isoform 2-5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7601450;Dbxref=PMID:7601450	
+P37840	UniProtKB	Alternative sequence	103	130	.	.	.	ID=VSP_006364;Note=In isoform 2-4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:7601450,ECO:0000303|PubMed:7802671;Dbxref=PMID:7601450,PMID:7802671	
+P37840	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_007957;Note=In PARK1%3B no effect on oligomerization. A->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:25561023,ECO:0000269|PubMed:9462735;Dbxref=dbSNP:rs104893878,PMID:25561023,PMID:9462735	
+P37840	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_022703;Note=In PARK1 and DLB%3B significant increase in binding to negatively charged phospholipid liposomes%3B increases oligomerization. E->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14755719,ECO:0000269|PubMed:15498564,ECO:0000269|PubMed:25561023;Dbxref=dbSNP:rs104893875,PMID:14755719,PMID:15498564,PMID:25561023	
+P37840	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_070171;Note=In PARK1%3B no effect on protein structure%3B no effect on phosphorylation of the protein%3B no effect on membrane- and lipid-binding%3B increases oligomerization%3B increases fibril formation%3B increases secretion of the protein%3B impairs copper-binding. H->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23427326,ECO:0000269|PubMed:23457019,ECO:0000269|PubMed:24936070,ECO:0000269|PubMed:25561023;Dbxref=dbSNP:rs201106962,PMID:23427326,PMID:23457019,PMID:24936070,PMID:25561023	
+P37840	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_007454;Note=In PARK1%3B no effect on osmotic stress-induced phosphorylation%3B increases oligomerization. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12893833,ECO:0000269|PubMed:25561023,ECO:0000269|PubMed:9197268;Dbxref=dbSNP:rs104893877,PMID:12893833,PMID:25561023,PMID:9197268	
+P37840	UniProtKB	Mutagenesis	2	2	.	.	.	Note=Impairs copper-binding. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21319811;Dbxref=PMID:21319811	
+P37840	UniProtKB	Mutagenesis	35	35	.	.	.	Note=No effect on oligomerization. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25561023;Dbxref=PMID:25561023	
+P37840	UniProtKB	Mutagenesis	39	39	.	.	.	Note=No effect on osmotic stress-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12893833;Dbxref=PMID:12893833	
+P37840	UniProtKB	Mutagenesis	50	50	.	.	.	Note=Impairs copper-binding. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21319811;Dbxref=PMID:21319811	
+P37840	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Increases oligomerization. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25561023;Dbxref=PMID:25561023	
+P37840	UniProtKB	Mutagenesis	67	71	.	.	.	Note=Reduces polymerization into amyloid fibrils. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19722699;Dbxref=PMID:19722699	
+P37840	UniProtKB	Mutagenesis	71	82	.	.	.	Note=Impairs polymerization into amyloid fibrils. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19722699;Dbxref=PMID:19722699	
+P37840	UniProtKB	Mutagenesis	76	77	.	.	.	Note=Impairs polymerization into amyloid fibrils. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19722699;Dbxref=PMID:19722699	
+P37840	UniProtKB	Mutagenesis	76	76	.	.	.	Note=Does not affect polymerization into amyloid fibrils. Missing	
+P37840	UniProtKB	Mutagenesis	77	77	.	.	.	Note=Does not affect polymerization into amyloid fibrils. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19722699;Dbxref=PMID:19722699	
+P37840	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Does not affect polymerization into amyloid fibrils. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19722699;Dbxref=PMID:19722699	
+P37840	UniProtKB	Mutagenesis	85	94	.	.	.	Note=Reduces polymerization into amyloid fibrils. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19722699;Dbxref=PMID:19722699	
+P37840	UniProtKB	Mutagenesis	125	125	.	.	.	Note=Abolishes osmotic stress-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12893833;Dbxref=PMID:12893833	
+P37840	UniProtKB	Mutagenesis	133	133	.	.	.	Note=No effect on osmotic stress-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12893833;Dbxref=PMID:12893833	
+P37840	UniProtKB	Mutagenesis	136	136	.	.	.	Note=No effect on osmotic stress-induced phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12893833;Dbxref=PMID:12893833	
+P37840	UniProtKB	Helix	3	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3Q25	
+P37840	UniProtKB	Helix	17	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N0A	
+P37840	UniProtKB	Helix	21	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3Q26	
+P37840	UniProtKB	Helix	41	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3Q27	
+P37840	UniProtKB	Beta strand	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4BXL	
+P37840	UniProtKB	Helix	52	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3Q27	
+P37840	UniProtKB	Beta strand	61	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6A6B	
+P37840	UniProtKB	Helix	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3Q28	
+P37840	UniProtKB	Beta strand	70	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CU7	
+P37840	UniProtKB	Beta strand	74	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6H6B	
+P37840	UniProtKB	Beta strand	80	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6A6B	
+P37840	UniProtKB	Beta strand	88	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6A6B	
+P37840	UniProtKB	Beta strand	110	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XQ8	
+P37840	UniProtKB	Turn	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XQ8	
+P37840	UniProtKB	Turn	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1XQ8	
+P37840	UniProtKB	Turn	133	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N0A	

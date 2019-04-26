@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region Q02742 1 428
+Q02742	UniProtKB	Chain	1	428	.	.	.	ID=PRO_0000191395;Note=Beta-1%2C3-galactosyl-O-glycosyl-glycoprotein beta-1%2C6-N-acetylglucosaminyltransferase	
+Q02742	UniProtKB	Topological domain	1	9	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q02742	UniProtKB	Transmembrane	10	32	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q02742	UniProtKB	Topological domain	33	428	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q02742	UniProtKB	Region	5	9	.	.	.	Note=Mediates interaction with GOLPH3 and is necessary and sufficient for localization to the Golgi;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23027862;Dbxref=PMID:23027862	
+Q02742	UniProtKB	Region	33	121	.	.	.	Note=Stem region;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Region	122	428	.	.	.	Note=Catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Active site	320	320	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Glycosylation	58	58	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q02742	UniProtKB	Glycosylation	95	95	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q02742	UniProtKB	Disulfide bond	59	413	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Disulfide bond	100	172	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Disulfide bond	151	199	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Disulfide bond	372	381	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q02742	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_048000;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1329093,ECO:0000269|PubMed:7579796;Dbxref=dbSNP:rs2282683,PMID:1329093,PMID:7579796	
+Q02742	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_048001;Note=S->C;Dbxref=dbSNP:rs11546569	
+Q02742	UniProtKB	Mutagenesis	5	6	.	.	.	Note=Loss of interaction with GOLPH3 and loss of localization to the Golgi. LL->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23027862;Dbxref=PMID:23027862	
+Q02742	UniProtKB	Mutagenesis	7	9	.	.	.	Note=Loss of interaction with GOLPH3 and loss of localization to the Golgi. RRR->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23027862;Dbxref=PMID:23027862	

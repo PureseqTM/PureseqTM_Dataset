@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region Q14703 1 1052
+Q14703	UniProtKB	Signal peptide	1	17	.	.	.	.	
+Q14703	UniProtKB	Propeptide	18	186	.	.	.	ID=PRO_0000027051	
+Q14703	UniProtKB	Chain	187	1052	.	.	.	ID=PRO_0000027052;Note=Membrane-bound transcription factor site-1 protease	
+Q14703	UniProtKB	Topological domain	187	998	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Transmembrane	999	1021	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Topological domain	1022	1052	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Domain	214	472	.	.	.	Note=Peptidase S8	
+Q14703	UniProtKB	Compositional bias	1023	1050	.	.	.	Note=Arg/Lys/Pro-rich (basic)	
+Q14703	UniProtKB	Active site	218	218	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q14703	UniProtKB	Active site	249	249	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q14703	UniProtKB	Active site	414	414	.	.	.	Note=Charge relay system;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q14703	UniProtKB	Site	186	187	.	.	.	Note=Cleavage%3B by autolysis	
+Q14703	UniProtKB	Modified residue	168	168	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q14703	UniProtKB	Glycosylation	236	236	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Glycosylation	305	305	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Glycosylation	515	515	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Glycosylation	728	728	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Glycosylation	939	939	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14703	UniProtKB	Natural variant	6	6	.	.	.	ID=VAR_051822;Note=I->T;Dbxref=dbSNP:rs34701895	
+Q14703	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_051823;Note=R->G;Dbxref=dbSNP:rs34076105	
+Q14703	UniProtKB	Sequence conflict	843	843	.	.	.	Note=L->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	

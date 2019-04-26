@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region P27144 1 223
+P27144	UniProtKB	Chain	1	223	.	.	.	ID=PRO_0000158926;Note=Adenylate kinase 4%2C mitochondrial	
+P27144	UniProtKB	Nucleotide binding	15	20	.	.	.	Note=NTP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Nucleotide binding	62	64	.	.	.	Note=AMP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Nucleotide binding	89	92	.	.	.	Note=AMP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Nucleotide binding	135	136	.	.	.	Note=NTP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03170	
+P27144	UniProtKB	Region	35	64	.	.	.	Note=NMPbind;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|PubMed:19073142;Dbxref=PMID:19073142	
+P27144	UniProtKB	Region	125	162	.	.	.	Note=LID;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|PubMed:19073142;Dbxref=PMID:19073142	
+P27144	UniProtKB	Binding site	36	36	.	.	.	Note=AMP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Binding site	41	41	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03170	
+P27144	UniProtKB	Binding site	96	96	.	.	.	Note=AMP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03170	
+P27144	UniProtKB	Binding site	126	126	.	.	.	Note=NTP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Binding site	170	170	.	.	.	Note=AMP;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Binding site	199	199	.	.	.	Note=NTP%3B via carbonyl oxygen;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|HAMAP-Rule:MF_03170,ECO:0000269|Ref.13	
+P27144	UniProtKB	Modified residue	60	60	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUR9	
+P27144	UniProtKB	Modified residue	175	175	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUR9	
+P27144	UniProtKB	Modified residue	179	179	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUR9	
+P27144	UniProtKB	Modified residue	179	179	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUR9	
+P27144	UniProtKB	Modified residue	186	186	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUR9	
+P27144	UniProtKB	Modified residue	186	186	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WUR9	
+P27144	UniProtKB	Mutagenesis	4	4	.	.	.	Note=Abolishes mitochondrial import%3B when associated with G-7. K->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19766732;Dbxref=PMID:19766732	
+P27144	UniProtKB	Mutagenesis	7	7	.	.	.	Note=Abolishes mitochondrial import%3B when associated with G-4. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19766732;Dbxref=PMID:19766732	
+P27144	UniProtKB	Sequence conflict	22	22	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P27144	UniProtKB	Sequence conflict	22	22	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P27144	UniProtKB	Sequence conflict	23	23	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P27144	UniProtKB	Beta strand	7	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	18	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Beta strand	32	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AR7	
+P27144	UniProtKB	Helix	36	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	49	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	66	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Turn	79	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2AR7	
+P27144	UniProtKB	Beta strand	85	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	94	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Beta strand	108	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	116	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Beta strand	126	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Turn	130	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Beta strand	134	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Turn	138	140	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Turn	150	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	160	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	164	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Beta strand	191	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	199	211	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	
+P27144	UniProtKB	Helix	217	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3NDP	
+P27144	UniProtKB	Helix	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2BBW	

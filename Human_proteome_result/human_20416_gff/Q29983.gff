@@ -1,0 +1,85 @@
+##gff-version 3
+##sequence-region Q29983 1 383
+Q29983	UniProtKB	Signal peptide	1	23	.	.	.	.	
+Q29983	UniProtKB	Chain	24	383	.	.	.	ID=PRO_0000337146;Note=MHC class I polypeptide-related sequence A;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Topological domain	24	307	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Transmembrane	308	328	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Topological domain	329	383	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Domain	207	296	.	.	.	Note=Ig-like C1-type;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Glycosylation	31	31	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Glycosylation	79	79	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Glycosylation	210	210	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Glycosylation	220	220	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Glycosylation	261	261	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q29983	UniProtKB	Disulfide bond	59	64	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10367903;Dbxref=PMID:10367903	
+Q29983	UniProtKB	Disulfide bond	119	187	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10367903;Dbxref=PMID:10367903	
+Q29983	UniProtKB	Disulfide bond	225	282	.	.	.	Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:10367903;Dbxref=PMID:10367903	
+Q29983	UniProtKB	Alternative sequence	109	204	.	.	.	ID=VSP_055366;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q29983	UniProtKB	Natural variant	29	29	.	.	.	ID=VAR_043625;Note=In allele MICA*010%2C allele MICA*025 and allele MICA*054%3B abolishes cell surface expression%2C probably by interfering with protein folding. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10752636;Dbxref=dbSNP:rs9380254,PMID:10752636	
+Q29983	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_043626;Note=In allele MICA*002%2C allele MICA*011%2C allele MICA*013%2C allele MICA*014%2C allele MICA*015%2C allele MICA*017%2C allele MICA*020%2C allele MICA*022%2C allele MICA*023%2C allele MICA*030%2C allele MICA*034%2C allele MICA*035%2C allele MICA*036%2C allele MICA*041%2C allele MICA*044%2C allele MICA*046%2C allele MICA*047%2C allele MICA*052%2C allele MICA*053 and allele MICA*055. W->G;Dbxref=dbSNP:rs1063630	
+Q29983	UniProtKB	Natural variant	47	47	.	.	.	ID=VAR_043627;Note=In allele MICA*002%2C allele MICA*004%2C allele MICA*005%2C allele MICA*006%2C allele MICA*007%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*011%2C allele MICA*013%2C allele MICA*014%2C allele MICA*015%2C allele MICA*016%2C allele MICA*017%2C allele MICA*019%2C allele MICA*020%2C allele MICA*022%2C allele MICA*023%2C allele MICA*024%2C allele MICA*025%2C allele MICA*026%2C allele MICA*027%2C allele MICA*028%2C allele MICA*029%2C allele MICA*030%2C allele MICA*031%2C allele MICA*032%2C allele MICA*033%2C allele MICA*034%2C allele MICA*035%2C allele MICA*036%2C allele MICA*037%2C allele MICA*038%2C allele MICA*039%2C allele MICA*040%2C allele MICA*041%2C allele MICA*042%2C allele MICA*043%2C allele MICA*044%2C allele MICA*045%2C allele MICA*046%2C allele MICA*047%2C allele MICA*048%2C allele MICA*049%2C allele MICA*051%2C allele MICA*052%2C allele MICA*053%2C allele MICA*054%2C allele MICA*055 and allele MICA*056. T->A;Dbxref=dbSNP:rs1051785	
+Q29983	UniProtKB	Natural variant	49	49	.	.	.	ID=VAR_043628;Note=In allele MICA*041. V->G;Dbxref=dbSNP:rs17200158	
+Q29983	UniProtKB	Natural variant	59	59	.	.	.	ID=VAR_043629;Note=In allele MICA*004%2C allele MICA*005%2C allele MICA*006%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*024%2C allele MICA*025%2C allele MICA*027%2C allele MICA*028%2C allele MICA*031%2C allele MICA*032%2C allele MICA*033%2C allele MICA*042%2C allele MICA*044%2C allele MICA*048%2C allele MICA*049%2C allele MICA*051%2C allele MICA*054 and allele MICA*056. C->Y;Dbxref=dbSNP:rs1051786	
+Q29983	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_043630;Note=In allele MICA*017. Q->R;Dbxref=dbSNP:rs41558312	
+Q29983	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_043631;Note=In allele MICA*036. R->K;Dbxref=dbSNP:rs41557113	
+Q29983	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_043632;Note=In allele MICA*014 and allele MICA*015. G->R;Dbxref=dbSNP:rs41556715	
+Q29983	UniProtKB	Natural variant	145	145	.	.	.	ID=VAR_043633;Note=In allele MICA*004%2C allele MICA*006%2C allele MICA*009%2C allele MICA*044 and allele MICA*049. L->V;Dbxref=dbSNP:rs1051790	
+Q29983	UniProtKB	Natural variant	147	147	.	.	.	ID=VAR_043634;Note=In allele MICA*033. T->S;Dbxref=dbSNP:rs41539919	
+Q29983	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_043635;Note=In allele MICA*002%2C allele MICA*004%2C allele MICA*005%2C allele MICA*006%2C allele MICA*007%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*011%2C allele MICA*012%2C allele MICA*013%2C allele MICA*014%2C allele MICA*015%2C allele MICA*016%2C allele MICA*017%2C allele MICA*018%2C allele MICA*019%2C allele MICA*020%2C allele MICA*022%2C allele MICA*023%2C allele MICA*024%2C allele MICA*025%2C allele MICA*026%2C allele MICA*027%2C allele MICA*028%2C allele MICA*029%2C allele MICA*030%2C allele MICA*032%2C allele MICA*033%2C allele MICA*034%2C allele MICA*035%2C allele MICA*036%2C allele MICA*037%2C allele MICA*038%2C allele MICA*039%2C allele MICA*041%2C allele MICA*042%2C allele MICA*043%2C allele MICA*044%2C allele MICA*045%2C allele MICA*046%2C allele MICA*047%2C allele MICA*048%2C allele MICA*049%2C allele MICA*051%2C allele MICA*052%2C allele MICA*053%2C allele MICA*054%2C allele MICA*055 and allele MICA*056. K->E;Dbxref=dbSNP:rs1051791	
+Q29983	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_043636;Note=In allele MICA*004%2C allele MICA*005%2C allele MICA*006%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*013%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*024%2C allele MICA*027%2C allele MICA*028%2C allele MICA*033%2C allele MICA*044%2C allele MICA*048%2C allele MICA*049%2C allele MICA*053%2C allele MICA*054 and allele MICA*056%3B reduces binding affinity for KLRK1. M->V;Dbxref=dbSNP:rs1051792	
+Q29983	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_043637;Note=In allele MICA*029. V->I;Dbxref=dbSNP:rs3819269	
+Q29983	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_043638;Note=In allele MICA*011 and allele MICA*034. M->V;Dbxref=dbSNP:rs41560824	
+Q29983	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_043639;Note=In allele MICA*012%2C allele MICA*032 and allele MICA*043. H->L;Dbxref=dbSNP:rs3819268	
+Q29983	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_043640;Note=In allele MICA*004%2C allele MICA*006%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*013%2C allele MICA*014%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*024%2C allele MICA*027%2C allele MICA*028%2C allele MICA*033%2C allele MICA*036%2C allele MICA*044%2C allele MICA*048%2C allele MICA*049%2C allele MICA*053%2C allele MICA*054 and allele MICA*056. K->E;Dbxref=dbSNP:rs1051794	
+Q29983	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_043641;Note=In allele MICA*004%2C allele MICA*006%2C allele MICA*009%2C allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*031%2C allele MICA*033%2C allele MICA*036%2C allele MICA*044%2C allele MICA*049%2C allele MICA*054 and allele MICA*056. G->S;Dbxref=dbSNP:rs1131896	
+Q29983	UniProtKB	Natural variant	199	199	.	.	.	ID=VAR_043642;Note=In allele MICA*006. V->I;Dbxref=dbSNP:rs41549718	
+Q29983	UniProtKB	Natural variant	204	204	.	.	.	ID=VAR_043643;Note=In allele MICA*004%2C allele MICA*014%2C allele MICA*032 and allele MICA*044. T->R;Dbxref=dbSNP:rs1131897	
+Q29983	UniProtKB	Natural variant	229	229	.	.	.	ID=VAR_043644;Note=In allele MICA*004%2C allele MICA*005%2C allele MICA*006%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*024%2C allele MICA*027%2C allele MICA*033%2C allele MICA*034%2C allele MICA*035%2C allele MICA*037%2C allele MICA*038%2C allele MICA*039%2C allele MICA*042%2C allele MICA*044%2C allele MICA*048%2C allele MICA*049%2C allele MICA*053%2C allele MICA*054 and allele MICA*056. G->S;Dbxref=dbSNP:rs1131898	
+Q29983	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_043645;Note=In allele MICA*046. Y->C;Dbxref=dbSNP:rs41546915	
+Q29983	UniProtKB	Natural variant	233	233	.	.	.	ID=VAR_043646;Note=In allele MICA*004%2C allele MICA*005%2C allele MICA*006%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*024%2C allele MICA*027%2C allele MICA*033%2C allele MICA*034%2C allele MICA*035%2C allele MICA*037%2C allele MICA*038%2C allele MICA*039%2C allele MICA*042%2C allele MICA*044%2C allele MICA*048%2C allele MICA*049%2C allele MICA*053%2C allele MICA*054 and allele MICA*056. W->R;Dbxref=dbSNP:rs1051798	
+Q29983	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_043647;Note=In allele MICA*008%2C allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*027%2C allele MICA*033%2C allele MICA*035%2C allele MICA*037%2C allele MICA*039%2C allele MICA*042%2C allele MICA*048%2C allele MICA*053%2C allele MICA*054 and allele MICA*056. T->I;Dbxref=dbSNP:rs1140700	
+Q29983	UniProtKB	Natural variant	238	238	.	.	.	ID=VAR_043648;Note=In allele MICA*004%2C allele MICA*006%2C allele MICA*008%2C allele MICA*009%2C allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*024%2C allele MICA*027%2C allele MICA*033%2C allele MICA*034%2C allele MICA*035%2C allele MICA*037%2C allele MICA*038%2C allele MICA*039%2C allele MICA*042%2C allele MICA*044%2C allele MICA*048%2C allele MICA*049%2C allele MICA*053%2C allele MICA*054 and allele MICA*056. S->T;Dbxref=dbSNP:rs1051799	
+Q29983	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_043649;Note=In allele MICA*016 and allele MICA*039. V->L;Dbxref=dbSNP:rs41540613	
+Q29983	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_043869;Note=In allele MICA*056. W->S;Dbxref=dbSNP:rs72558175	
+Q29983	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_043650;Note=In allele MICA*005%2C allele MICA*008%2C allele MICA*010%2C allele MICA*013%2C allele MICA*016%2C allele MICA*019%2C allele MICA*022%2C allele MICA*027%2C allele MICA*033%2C allele MICA*035%2C allele MICA*037%2C allele MICA*039%2C allele MICA*042%2C allele MICA*045%2C allele MICA*048%2C allele MICA*053%2C allele MICA*054 and allele MICA*056. Q->R;Dbxref=dbSNP:rs1063635	
+Q29983	UniProtKB	Natural variant	279	279	.	.	.	ID=VAR_043651;Note=In allele MICA*043. R->S;Dbxref=dbSNP:rs41557614	
+Q29983	UniProtKB	Natural variant	291	291	.	.	.	ID=VAR_043652;Note=In allele MICA*054. S->G;Dbxref=dbSNP:rs61759927	
+Q29983	UniProtKB	Natural variant	294	294	.	.	.	ID=VAR_043653;Note=In allele MICA*011%2C allele MICA*030 and allele MICA*047. P->A;Dbxref=dbSNP:rs41553616	
+Q29983	UniProtKB	Natural variant	300	383	.	.	.	ID=VAR_043654;Note=In allele MICA*015 and allele MICA*017. VLVLQSHWQTFHVSAVAAAAIFVIIIFYVRCCKKKTSAAEGPELVSLQVLDQHPVGTSDHRDATQLGFQPLMSDLGSTGSTEGA->CWCFRVIGRHSMFLLLLLLLLLLLLFLLLLFSTSVVVRRKHQLQRVQSS	
+Q29983	UniProtKB	Natural variant	318	383	.	.	.	ID=VAR_043655;Note=In allele MICA*008%2C allele MICA*023%2C allele MICA*028 and allele MICA*053. AAIFVIIIFYVRCCKKKTSAAEGPELVSLQVLDQHPVGTSDHRDATQLGFQPLMSDLGSTGSTEGA->GCCYFCYYYFLCPLL	
+Q29983	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_043656;Note=In allele MICA*010%2C allele MICA*016%2C allele MICA*019%2C allele MICA*027%2C allele MICA*033%2C allele MICA*048%2C allele MICA*054 and allele MICA*056. A->AA	
+Q29983	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_043657;Note=In allele MICA*004%2C allele MICA*006%2C allele MICA*009%2C allele MICA*011%2C allele MICA*026%2C allele MICA*047 and allele MICA*049. A->AAA	
+Q29983	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_043658;Note=In allele MICA*050. A->AAAA	
+Q29983	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_043659;Note=In allele MICA*055. A->AAAAA	
+Q29983	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_043660;Note=In allele MICA*002%2C allele MICA*041%2C allele MICA*046 and allele MICA*052. A->AAAAAA	
+Q29983	UniProtKB	Natural variant	319	319	.	.	.	ID=VAR_043661;Note=In allele MICA*020. A->AAAAAAA	
+Q29983	UniProtKB	Natural variant	328	328	.	.	.	ID=VAR_043662;Note=In allele MICA*052. V->I;Dbxref=dbSNP:rs72558178	
+Q29983	UniProtKB	Natural variant	329	329	.	.	.	ID=VAR_043663;Note=In allele MICA*002%2C allele MICA*011%2C allele MICA*020%2C allele MICA*041%2C allele MICA*043%2C allele MICA*046%2C allele MICA*047%2C allele MICA*050 and allele MICA*052. R->C;Dbxref=dbSNP:rs41554412	
+Q29983	UniProtKB	Natural variant	356	356	.	.	.	ID=VAR_043664;Note=In allele MICA*049. T->M;Dbxref=dbSNP:rs41546114	
+Q29983	UniProtKB	Natural variant	373	373	.	.	.	ID=VAR_043665;Note=In allele MICA*004%2C allele MICA*006%2C allele MICA*010%2C allele MICA*011%2C allele MICA*016%2C allele MICA*019%2C allele MICA*048 and allele MICA*049. D->A;Dbxref=dbSNP:rs9266825	
+Q29983	UniProtKB	Natural variant	377	377	.	.	.	ID=VAR_043666;Note=In allele MICA*011. T->A;Dbxref=dbSNP:rs41545814	
+Q29983	UniProtKB	Natural variant	383	383	.	.	.	ID=VAR_043667;Note=In allele MICA*018. A->T;Dbxref=dbSNP:rs1882	
+Q29983	UniProtKB	Beta strand	26	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	40	51	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	54	59	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	71	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Helix	79	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Helix	82	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	109	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	127	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	138	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Turn	145	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Helix	156	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Helix	177	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	208	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	217	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	236	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Turn	248	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1B3J	
+Q29983	UniProtKB	Beta strand	251	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	264	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Helix	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	280	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	
+Q29983	UniProtKB	Beta strand	289	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1HYR	

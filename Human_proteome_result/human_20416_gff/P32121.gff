@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P32121 1 409
+P32121	UniProtKB	Chain	1	409	.	.	.	ID=PRO_0000205199;Note=Beta-arrestin-2	
+P32121	UniProtKB	Region	240	409	.	.	.	Note=Interaction with TRAF6;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16378096;Dbxref=PMID:16378096	
+P32121	UniProtKB	Region	363	409	.	.	.	Note=Interaction with AP2B1	
+P32121	UniProtKB	Motif	385	395	.	.	.	Note=[DE]-X(1%2C2)-F-X-X-[FL]-X-X-X-R motif	
+P32121	UniProtKB	Modified residue	48	48	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91YI4	
+P32121	UniProtKB	Modified residue	176	176	.	.	.	Note=Hydroxyproline%3B by PHD2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21255264;Dbxref=PMID:21255264	
+P32121	UniProtKB	Modified residue	181	181	.	.	.	Note=Hydroxyproline%3B by PHD2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21255264;Dbxref=PMID:21255264	
+P32121	UniProtKB	Modified residue	360	360	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P29067	
+P32121	UniProtKB	Modified residue	382	382	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11877451;Dbxref=PMID:11877451	
+P32121	UniProtKB	Alternative sequence	39	53	.	.	.	ID=VSP_008194;Note=In isoform 3 and isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P32121	UniProtKB	Alternative sequence	119	119	.	.	.	ID=VSP_044697;Note=In isoform 4. T->TVRMPLPSEGQGAGAGTVSGVG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P32121	UniProtKB	Alternative sequence	360	360	.	.	.	ID=VSP_008195;Note=In isoform 2 and isoform 3. S->SAPTPTPPLPVPP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.3;Dbxref=PMID:14702039	
+P32121	UniProtKB	Mutagenesis	11	11	.	.	.	Note=Abolishes interaction with CHUK%3B when associated with A-12%3B A-230 and A-231. K->A	
+P32121	UniProtKB	Mutagenesis	12	12	.	.	.	Note=Abolishes interaction with CHUK%3B when associated with A-11%3B A-230 and A-231. K->A	
+P32121	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Inhibits internalization of CXCR4%3B no effect on interaction with CXCR4. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10644702;Dbxref=PMID:10644702	
+P32121	UniProtKB	Mutagenesis	230	230	.	.	.	Note=Abolishes interaction with CHUK%3B when associated with A-11%3B A-12 and A-231. K->A	
+P32121	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Abolishes interaction with CHUK%3B when associated with A-11%3B A-12 and A-230. K->A	
+P32121	UniProtKB	Mutagenesis	360	360	.	.	.	Note=Reduces interaction with CHUK%3B when associated with A-382. S->A%2CD	
+P32121	UniProtKB	Mutagenesis	382	382	.	.	.	Note=Reduces interaction with CHUK%3B when associated with A-360. T->A%2CD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11877451;Dbxref=PMID:11877451	
+P32121	UniProtKB	Mutagenesis	382	382	.	.	.	Note=Loss of phosphorylation. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11877451;Dbxref=PMID:11877451	
+P32121	UniProtKB	Sequence conflict	13	13	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32121	UniProtKB	Sequence conflict	189	189	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32121	UniProtKB	Sequence conflict	190	190	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32121	UniProtKB	Sequence conflict	192	192	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P32121	UniProtKB	Sequence conflict	366	366	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

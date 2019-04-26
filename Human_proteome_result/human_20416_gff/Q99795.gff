@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region Q99795 1 319
+Q99795	UniProtKB	Signal peptide	1	21	.	.	.	.	
+Q99795	UniProtKB	Chain	22	319	.	.	.	ID=PRO_0000014770;Note=Cell surface A33 antigen	
+Q99795	UniProtKB	Topological domain	22	235	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99795	UniProtKB	Transmembrane	236	256	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99795	UniProtKB	Topological domain	257	319	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99795	UniProtKB	Domain	22	134	.	.	.	Note=Ig-like V-type	
+Q99795	UniProtKB	Domain	140	227	.	.	.	Note=Ig-like C2-type	
+Q99795	UniProtKB	Compositional bias	258	261	.	.	.	Note=Poly-Cys	
+Q99795	UniProtKB	Glycosylation	112	112	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9245713;Dbxref=PMID:9245713	
+Q99795	UniProtKB	Glycosylation	200	200	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99795	UniProtKB	Glycosylation	223	223	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q99795	UniProtKB	Disulfide bond	43	117	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q99795	UniProtKB	Disulfide bond	146	222	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q99795	UniProtKB	Disulfide bond	162	211	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+Q99795	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_020079;Note=D->N;Dbxref=dbSNP:rs2274531	
+Q99795	UniProtKB	Natural variant	165	165	.	.	.	ID=VAR_049874;Note=K->N;Dbxref=dbSNP:rs2228399	

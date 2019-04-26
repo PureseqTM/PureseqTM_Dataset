@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region Q53HV7 1 270
+Q53HV7	UniProtKB	Chain	1	270	.	.	.	ID=PRO_0000071992;Note=Single-strand selective monofunctional uracil DNA glycosylase	
+Q53HV7	UniProtKB	Region	173	187	.	.	.	Note=DNA binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q53HV7	UniProtKB	Binding site	84	84	.	.	.	Note=Substrate%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q53HV7	UniProtKB	Binding site	98	98	.	.	.	Note=Substrate%3B via amide nitrogen	
+Q53HV7	UniProtKB	Binding site	163	163	.	.	.	Note=Substrate	
+Q53HV7	UniProtKB	Binding site	239	239	.	.	.	Note=Substrate	
+Q53HV7	UniProtKB	Alternative sequence	136	177	.	.	.	ID=VSP_015150;Note=In isoform 2. VSGARFWGFFRNLCGQPEVFFHHCFVHNLCPLLFLAPSGRNL->GPRQSMGHEIKSELLMGGCSWIRGKIQCDRVQVRRPGFSSQL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q53HV7	UniProtKB	Alternative sequence	178	270	.	.	.	ID=VSP_015151;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q53HV7	UniProtKB	Natural variant	15	15	.	.	.	ID=VAR_023243;Note=G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs2233920	
+Q53HV7	UniProtKB	Natural variant	105	105	.	.	.	ID=VAR_023244;Note=R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.5;Dbxref=dbSNP:rs3136389	
+Q53HV7	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Markedly impaired damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. No cytosine-excising activity for C/G%2C C/A%2C C/T and C/C. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Impaired the damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. G->A%2CS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Loss of damage-excising activity. G->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	89	89	.	.	.	Note=No effect on damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. F->A%2CG%2CS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Loss of damage-excising activity for U/G. Weak%2C but significant activity toward hoU/G%2C hmU/A and fU/A. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	91	91	.	.	.	Note=No effect on damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	98	98	.	.	.	Note=Impaired the damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	163	163	.	.	.	Note=Impaired the damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. No cytosine-excising activity for C/G%2C C/A%2C C/T and C/C. hoC-excising activity for hoC/A%2C hoC/T and hoC/C. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Mutagenesis	239	239	.	.	.	Note=Markedly impaired the damage-excising activity for U/G%2C hoU/G%2C hmU/A and fU/A. H->L%2CN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15466595;Dbxref=PMID:15466595	
+Q53HV7	UniProtKB	Sequence conflict	30	30	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	48	48	.	.	.	Note=S->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	50	50	.	.	.	Note=P->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	54	54	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	66	174	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	70	70	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	103	103	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	157	157	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	193	193	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	227	227	.	.	.	Note=G->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	259	260	.	.	.	Note=LN->NL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53HV7	UniProtKB	Sequence conflict	269	270	.	.	.	Note=LK->TS;Ontology_term=ECO:0000305;evidence=ECO:0000305	

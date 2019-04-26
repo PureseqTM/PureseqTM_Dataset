@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Q9UM21 1 535
+Q9UM21	UniProtKB	Chain	1	535	.	.	.	ID=PRO_0000288581;Note=Alpha-1%2C3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A	
+Q9UM21	UniProtKB	Chain	93	535	.	.	.	ID=PRO_0000288582;Note=Alpha-1%2C3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A soluble form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UM21	UniProtKB	Topological domain	1	4	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM21	UniProtKB	Transmembrane	5	27	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM21	UniProtKB	Topological domain	28	535	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM21	UniProtKB	Coiled coil	28	63	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM21	UniProtKB	Modified residue	474	474	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q9UM21	UniProtKB	Glycosylation	77	77	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM21	UniProtKB	Glycosylation	458	458	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UM21	UniProtKB	Alternative sequence	1	6	.	.	.	ID=VSP_046075;Note=In isoform 2. MRLRNG->MNYSIT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UM21	UniProtKB	Alternative sequence	7	134	.	.	.	ID=VSP_046076;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UM21	UniProtKB	Alternative sequence	528	535	.	.	.	ID=VSP_046077;Note=In isoform 2. IHIKKATN->QRVFSGWWQKSRDKAEGPQAPLLF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UM21	UniProtKB	Sequence conflict	280	280	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,44 @@
+##gff-version 3
+##sequence-region O75925 1 651
+O75925	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+O75925	UniProtKB	Chain	2	651	.	.	.	ID=PRO_0000218974;Note=E3 SUMO-protein ligase PIAS1	
+O75925	UniProtKB	Domain	11	45	.	.	.	Note=SAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00186	
+O75925	UniProtKB	Domain	124	288	.	.	.	Note=PINIT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00799	
+O75925	UniProtKB	Repeat	520	523	.	.	.	Note=1	
+O75925	UniProtKB	Repeat	557	560	.	.	.	Note=2	
+O75925	UniProtKB	Repeat	598	601	.	.	.	Note=3%3B approximate	
+O75925	UniProtKB	Repeat	612	615	.	.	.	Note=4%3B approximate	
+O75925	UniProtKB	Zinc finger	320	397	.	.	.	Note=SP-RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00452	
+O75925	UniProtKB	Region	462	473	.	.	.	Note=SUMO1-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O75925	UniProtKB	Region	520	615	.	.	.	Note=4 X 4 AA repeats of N-T-S-L	
+O75925	UniProtKB	Motif	19	23	.	.	.	Note=LXXLL motif	
+O75925	UniProtKB	Motif	56	64	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75925	UniProtKB	Motif	368	380	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O75925	UniProtKB	Compositional bias	577	634	.	.	.	Note=Ser-rich	
+O75925	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+O75925	UniProtKB	Modified residue	467	467	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O75925	UniProtKB	Modified residue	468	468	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+O75925	UniProtKB	Modified residue	483	483	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88907	
+O75925	UniProtKB	Modified residue	485	485	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O75925	UniProtKB	Modified residue	487	487	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O88907	
+O75925	UniProtKB	Modified residue	488	488	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+O75925	UniProtKB	Modified residue	503	503	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:23186163,PMID:24275569	
+O75925	UniProtKB	Modified residue	510	510	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+O75925	UniProtKB	Modified residue	522	522	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+O75925	UniProtKB	Cross-link	40	40	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O75925	UniProtKB	Cross-link	46	46	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+O75925	UniProtKB	Cross-link	137	137	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:25772364,PMID:28112733	
+O75925	UniProtKB	Cross-link	238	238	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25772364,PMID:28112733	
+O75925	UniProtKB	Cross-link	453	453	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O75925	UniProtKB	Cross-link	493	493	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+O75925	UniProtKB	Alternative sequence	1	7	.	.	.	ID=VSP_056219;Note=In isoform 2. MADSAEL->MFTLQDSYV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O75925	UniProtKB	Alternative sequence	312	325	.	.	.	ID=VSP_057195;Note=In isoform 3. IKEKLTADPDSEIA->STYDKLISLIQLFC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19906316;Dbxref=PMID:19906316	
+O75925	UniProtKB	Alternative sequence	326	651	.	.	.	ID=VSP_057196;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19906316;Dbxref=PMID:19906316	
+O75925	UniProtKB	Mutagenesis	351	351	.	.	.	Note=Loss of UBE2I-binding%3B almost complete loss of promotion of TP53 sumoylation%3B no loss of SUMO1- and TP53-binding. C->A%2CS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11583632;Dbxref=PMID:11583632	
+O75925	UniProtKB	Sequence conflict	119	119	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75925	UniProtKB	Sequence conflict	266	268	.	.	.	Note=IVV->MC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75925	UniProtKB	Sequence conflict	613	613	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75925	UniProtKB	Helix	6	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1V66	
+O75925	UniProtKB	Helix	16	24	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1V66	
+O75925	UniProtKB	Helix	34	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1V66	
+O75925	UniProtKB	Helix	51	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1V66	

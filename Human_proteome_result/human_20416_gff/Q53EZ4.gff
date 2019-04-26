@@ -1,0 +1,38 @@
+##gff-version 3
+##sequence-region Q53EZ4 1 464
+Q53EZ4	UniProtKB	Chain	1	464	.	.	.	ID=PRO_0000089777;Note=Centrosomal protein of 55 kDa	
+Q53EZ4	UniProtKB	Region	157	236	.	.	.	Note=Interaction with TSG101	
+Q53EZ4	UniProtKB	Region	160	214	.	.	.	Note=Interaction with PDCD6IP	
+Q53EZ4	UniProtKB	Region	355	464	.	.	.	Note=Required for localization to the interphase centrosome and to the midbody during cytokinesis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16198290;Dbxref=PMID:16198290	
+Q53EZ4	UniProtKB	Coiled coil	22	186	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q53EZ4	UniProtKB	Coiled coil	238	337	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q53EZ4	UniProtKB	Coiled coil	374	403	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q53EZ4	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BT07	
+Q53EZ4	UniProtKB	Modified residue	425	425	.	.	.	Note=Phosphoserine%3B by CDK1 and MAPK1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000269|PubMed:16198290;Dbxref=PMID:17081983,PMID:18669648,PMID:18691976,PMID:16198290	
+Q53EZ4	UniProtKB	Modified residue	428	428	.	.	.	Note=Phosphoserine%3B by CDK1 and MAPK1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:16198290;Dbxref=PMID:18669648,PMID:23186163,PMID:16198290	
+Q53EZ4	UniProtKB	Modified residue	430	430	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q53EZ4	UniProtKB	Modified residue	436	436	.	.	.	Note=Phosphoserine%3B by PLK1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:16198290;Dbxref=PMID:18669648,PMID:23186163,PMID:16198290	
+Q53EZ4	UniProtKB	Alternative sequence	389	400	.	.	.	ID=VSP_014750;Note=In isoform 2. NQITQLESLKQL->KNNTVGILETAS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q53EZ4	UniProtKB	Alternative sequence	401	464	.	.	.	ID=VSP_014751;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q53EZ4	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_026559;Note=Polymorphism%3B no effect on protein localization to midbody ring. H->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:16406728,ECO:0000269|PubMed:28264986;Dbxref=dbSNP:rs3740370,PMID:14702039,PMID:16406728,PMID:28264986	
+Q53EZ4	UniProtKB	Natural variant	86	464	.	.	.	ID=VAR_079363;Note=In MARCH. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28295209;Dbxref=PMID:28295209	
+Q53EZ4	UniProtKB	Natural variant	99	99	.	.	.	ID=VAR_022996;Note=T->A;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:21269460,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:16406728,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.2,ECO:0000269|Ref.4,ECO:0000269|Ref.7;Dbxref=dbSNP:rs7080916,PMID:19690332,PMID:21269460,PMID:14702039,PMID:15489334,PMID:16406728,PMID:17974005	
+Q53EZ4	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_056791;Note=C->R;Dbxref=dbSNP:rs7072484	
+Q53EZ4	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_022997;Note=Polymorphism%3B no effect on protein localization to midbody ring%3B rescues craniofacial development when expressed in a zebrafish heterologous system. H->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:28264986,ECO:0000269|Ref.4,ECO:0000269|Ref.7;Dbxref=dbSNP:rs2293277,PMID:14702039,PMID:15489334,PMID:28264986	
+Q53EZ4	UniProtKB	Natural variant	425	464	.	.	.	ID=VAR_079364;Note=In MARCH%3B loss of protein localization to midbody ring%3B loss of function%3B fails to rescue craniofacial development when expressed in a zebrafish heterologous system. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28264986;Dbxref=PMID:28264986	
+Q53EZ4	UniProtKB	Mutagenesis	184	184	.	.	.	Note=Abolishes interaction with PDCD6IP. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18948538;Dbxref=PMID:18948538	
+Q53EZ4	UniProtKB	Mutagenesis	187	187	.	.	.	Note=Abolishes interaction with PDCD6IP. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18948538;Dbxref=PMID:18948538	
+Q53EZ4	UniProtKB	Mutagenesis	188	188	.	.	.	Note=Diminishes interaction with PDCD6IP. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18948538;Dbxref=PMID:18948538	
+Q53EZ4	UniProtKB	Mutagenesis	191	191	.	.	.	Note=Abolishes interaction with PDCD6IP. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18948538;Dbxref=PMID:18948538	
+Q53EZ4	UniProtKB	Mutagenesis	192	192	.	.	.	Note=Abolishes interaction with PDCD6IP. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18948538;Dbxref=PMID:18948538	
+Q53EZ4	UniProtKB	Mutagenesis	396	396	.	.	.	Note=No effect on phosphorylation in mitotic cells. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16198290;Dbxref=PMID:16198290	
+Q53EZ4	UniProtKB	Mutagenesis	425	425	.	.	.	Note=Partial loss of phosphorylation in mitotic cells. Complete loss of phosphorylation in mitotic cells%3B when associated with A-428. Remains associated with the centrosome throughout mitosis%3B when associated with A-428. Arrests mitotic cells at the midbody stage%3B when associated with A-428 and A-436. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16198290;Dbxref=PMID:16198290	
+Q53EZ4	UniProtKB	Mutagenesis	428	428	.	.	.	Note=Partial loss of phosphorylation in mitotic cells. Complete loss of phosphorylation in mitotic cells%3B when associated with A-425. Remains associated with the centrosome throughout mitosis%3B when associated with A-425. Arrests mitotic cells at the midbody stage%3B when associated with A-425 and A-436. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16198290;Dbxref=PMID:16198290	
+Q53EZ4	UniProtKB	Mutagenesis	436	436	.	.	.	Note=No effect on phosphorylation in mitotic cells. Arrests mitotic cells at the midbody stage%3B when associated with A-425 and A-428. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16198290;Dbxref=PMID:16198290	
+Q53EZ4	UniProtKB	Sequence conflict	155	155	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53EZ4	UniProtKB	Sequence conflict	204	204	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53EZ4	UniProtKB	Sequence conflict	298	298	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53EZ4	UniProtKB	Sequence conflict	334	334	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53EZ4	UniProtKB	Sequence conflict	334	334	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53EZ4	UniProtKB	Sequence conflict	435	435	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q53EZ4	UniProtKB	Helix	166	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3E1R	

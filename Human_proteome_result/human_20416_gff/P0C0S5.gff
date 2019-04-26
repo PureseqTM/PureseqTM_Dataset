@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region P0C0S5 1 128
+P0C0S5	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P0C0S5	UniProtKB	Chain	2	128	.	.	.	ID=PRO_0000055297;Note=Histone H2A.Z	
+P0C0S5	UniProtKB	Region	1	17	.	.	.	Note=Required for interaction with INCENP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0C0S5	UniProtKB	Region	89	100	.	.	.	Note=M6 cassette	
+P0C0S5	UniProtKB	Region	93	103	.	.	.	Note=Required for interaction with INCENP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P0C0S5	UniProtKB	Region	120	128	.	.	.	Note=Required for interaction with PWWP2A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28645917;Dbxref=PMID:28645917	
+P0C0S5	UniProtKB	Modified residue	5	5	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:16319397,ECO:0000269|PubMed:16627869;Dbxref=PMID:16319397,PMID:16627869	
+P0C0S5	UniProtKB	Modified residue	5	5	.	.	.	Note=N6-methyllysine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23324626;Dbxref=PMID:23324626	
+P0C0S5	UniProtKB	Modified residue	8	8	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:16319397,ECO:0000244|PubMed:19608861,ECO:0000269|PubMed:16627869;Dbxref=PMID:16319397,PMID:19608861,PMID:16627869	
+P0C0S5	UniProtKB	Modified residue	8	8	.	.	.	Note=N6-methyllysine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23324626;Dbxref=PMID:23324626	
+P0C0S5	UniProtKB	Modified residue	12	12	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19608861,ECO:0000269|PubMed:16627869;Dbxref=PMID:19608861,PMID:16627869	
+P0C0S5	UniProtKB	Modified residue	14	14	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P0C0S5	UniProtKB	Cross-link	122	122	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11835281;Dbxref=PMID:11835281	
+P0C0S5	UniProtKB	Mutagenesis	83	83	.	.	.	Note=Decreases interaction with VPS72. Almost abolishes interaction with VPS72%3B when associated with N-93. Abolishes interaction with VPS72%3B when associated with N-93 and IG-101. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26974126;Dbxref=PMID:26974126	
+P0C0S5	UniProtKB	Mutagenesis	93	93	.	.	.	Note=Decreases interaction with VPS72. Almost abolishes interaction with VPS72%3B when associated with I-83. Abolishes interaction with VPS72%3B when associated with I-83 and IG-101. G->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26974126;Dbxref=PMID:26974126	
+P0C0S5	UniProtKB	Mutagenesis	98	98	.	.	.	Note=No effect on interaction with VPS72. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26974126;Dbxref=PMID:26974126	
+P0C0S5	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Abolishes interaction with VPS72%3B when associated with I-83 and N-93. I->IG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26974126;Dbxref=PMID:26974126	
+P0C0S5	UniProtKB	Helix	20	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAY	
+P0C0S5	UniProtKB	Helix	30	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAY	
+P0C0S5	UniProtKB	Beta strand	40	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5Z30	
+P0C0S5	UniProtKB	Beta strand	43	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CHL	
+P0C0S5	UniProtKB	Helix	49	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAY	
+P0C0S5	UniProtKB	Beta strand	80	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAY	
+P0C0S5	UniProtKB	Helix	84	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAY	
+P0C0S5	UniProtKB	Helix	95	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4CAY	
+P0C0S5	UniProtKB	Helix	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5B31	

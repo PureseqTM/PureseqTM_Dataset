@@ -1,0 +1,39 @@
+##gff-version 3
+##sequence-region O75112 1 727
+O75112	UniProtKB	Chain	1	727	.	.	.	ID=PRO_0000075767;Note=LIM domain-binding protein 3	
+O75112	UniProtKB	Domain	1	84	.	.	.	Note=PDZ;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00143	
+O75112	UniProtKB	Domain	549	607	.	.	.	Note=LIM zinc-binding 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00125	
+O75112	UniProtKB	Domain	608	667	.	.	.	Note=LIM zinc-binding 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00125	
+O75112	UniProtKB	Domain	668	727	.	.	.	Note=LIM zinc-binding 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00125	
+O75112	UniProtKB	Modified residue	44	44	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	121	121	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	123	123	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	217	217	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	219	219	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	223	223	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	516	516	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Modified residue	533	533	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JKS4	
+O75112	UniProtKB	Alternative sequence	108	364	.	.	.	ID=VSP_051897;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10427098;Dbxref=PMID:10427098	
+O75112	UniProtKB	Alternative sequence	108	229	.	.	.	ID=VSP_051898;Note=In isoform 2 and isoform 6. DPALDTNGSLVAPSPSPEARASPGTPGTPELRPTFSPAFSRPSAFSSLAEASDPGPPRASLRAKTSPEGARDLLGPKALPGSSQPRQYNNPIGLYSAETLREMAQMYQMSLRGKASGVGLPG->VVVNSPANADYQERFNPSALKDSALSTHKPIEVKGLGGKATIIHAQYNTPISMYSQDAIMDAIAGQAQAQGSDFS;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10427098,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.2;Dbxref=PMID:10427098,PMID:15489334	
+O75112	UniProtKB	Alternative sequence	230	230	.	.	.	ID=VSP_051899;Note=In isoform 4 and isoform 7. G->GADYQERFNPSALKDSALSTHKPIEVKGLGGKATIIHAQYNTPISMYSQDAIMDAIAGQAQAQGSDFSG;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2;Dbxref=PMID:14702039	
+O75112	UniProtKB	Alternative sequence	299	361	.	.	.	ID=VSP_051900;Note=In isoform 2 and isoform 7. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10427098,ECO:0000303|PubMed:14702039;Dbxref=PMID:10427098,PMID:14702039	
+O75112	UniProtKB	Alternative sequence	299	329	.	.	.	ID=VSP_051901;Note=In isoform 4%2C isoform 5 and isoform 6. STPIEHAPVCTSQATTPLLPASAQPPAAASP->RERFETERNSPRFAKLRNWHHGLSAQILNVK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10427098,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.2;Dbxref=PMID:10427098,PMID:15489334	
+O75112	UniProtKB	Alternative sequence	331	727	.	.	.	ID=VSP_051902;Note=In isoform 4%2C isoform 5 and isoform 6. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10427098,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.2;Dbxref=PMID:10427098,PMID:15489334	
+O75112	UniProtKB	Natural variant	55	55	.	.	.	ID=VAR_024008;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660611;Dbxref=dbSNP:rs3740343,PMID:14660611	
+O75112	UniProtKB	Natural variant	101	101	.	.	.	ID=VAR_050146;Note=P->L;Dbxref=dbSNP:rs45592139	
+O75112	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_024009;Note=In CMD1C. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14662268;Dbxref=dbSNP:rs45487699,PMID:14662268	
+O75112	UniProtKB	Natural variant	206	206	.	.	.	ID=VAR_024010;Note=In CMD1C. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14662268;Dbxref=dbSNP:rs121908337,PMID:14662268	
+O75112	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_024011;Note=In CMD1C. I->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14662268;Dbxref=dbSNP:rs121908336,PMID:14662268	
+O75112	UniProtKB	Natural variant	635	635	.	.	.	ID=VAR_024012;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660611;Dbxref=dbSNP:rs45618633,PMID:14660611	
+O75112	UniProtKB	Natural variant	673	673	.	.	.	ID=VAR_024013;Note=In CMD1C. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14660611;Dbxref=dbSNP:rs45514002,PMID:14660611	
+O75112	UniProtKB	Sequence conflict	365	368	.	.	.	Note=ASSY->VVVN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75112	UniProtKB	Sequence conflict	372	372	.	.	.	Note=V->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75112	UniProtKB	Beta strand	2	7	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Beta strand	9	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Beta strand	14	20	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Helix	21	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Beta strand	25	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Helix	37	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Beta strand	48	52	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Helix	62	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	
+O75112	UniProtKB	Beta strand	73	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YDP	

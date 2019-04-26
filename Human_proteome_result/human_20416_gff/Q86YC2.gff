@@ -1,0 +1,92 @@
+##gff-version 3
+##sequence-region Q86YC2 1 1186
+Q86YC2	UniProtKB	Chain	1	1186	.	.	.	ID=PRO_0000252391;Note=Partner and localizer of BRCA2	
+Q86YC2	UniProtKB	Repeat	854	915	.	.	.	Note=WD 1	
+Q86YC2	UniProtKB	Repeat	917	961	.	.	.	Note=WD 2	
+Q86YC2	UniProtKB	Repeat	962	1009	.	.	.	Note=WD 3	
+Q86YC2	UniProtKB	Repeat	1010	1052	.	.	.	Note=WD 4	
+Q86YC2	UniProtKB	Repeat	1058	1109	.	.	.	Note=WD 5	
+Q86YC2	UniProtKB	Repeat	1115	1153	.	.	.	Note=WD 6	
+Q86YC2	UniProtKB	Repeat	1155	1186	.	.	.	Note=WD 7	
+Q86YC2	UniProtKB	Region	1	579	.	.	.	Note=DNA-binding (with the preference D loop > dsDNA > ssDNA)	
+Q86YC2	UniProtKB	Region	1	319	.	.	.	Note=Interaction with BRCA1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19369211;Dbxref=PMID:19369211	
+Q86YC2	UniProtKB	Region	1	200	.	.	.	Note=Interaction with RAD51	
+Q86YC2	UniProtKB	Region	1	160	.	.	.	Note=Required for its oligomerization and is important for its focal concentration at DNA damage sites	
+Q86YC2	UniProtKB	Region	395	446	.	.	.	Note=ChAM (Chromatin-association motif)%3B required for chromatin association%2C mediates nucleosome association	
+Q86YC2	UniProtKB	Region	775	1186	.	.	.	Note=Required for interaction with POLH and POLH DNA synthesis stimulation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24485656;Dbxref=PMID:24485656	
+Q86YC2	UniProtKB	Region	853	1186	.	.	.	Note=Interaction with RAD51%2C BRCA2 and POLH;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24485656;Dbxref=PMID:24485656	
+Q86YC2	UniProtKB	Coiled coil	9	41	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q86YC2	UniProtKB	Modified residue	172	172	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	190	190	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	285	285	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	376	376	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:17525332,PMID:20068231,PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	387	387	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	454	454	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	660	660	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86YC2	UniProtKB	Modified residue	781	781	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q86YC2	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_079842;Note=Decreases double-stranded DNA break-initiated homologous recombination. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28319063;Dbxref=dbSNP:rs138789658,PMID:28319063	
+Q86YC2	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_079843;Note=Abrogates the interaction with BRCA1%3B decreases double-stranded DNA break-initiated homologous recombination%3B reduces PALB2 and RAD51 localization to ionizing radiation-induced foci%3B may weaken homooligomerization. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28319063;Dbxref=dbSNP:rs515726129,PMID:28319063	
+Q86YC2	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_079844;Note=In BC%3B abrogates the interaction with BRCA1%3B abrogates double-stranded DNA break-initiated homologous recombination%3B abrogates PALB2 and RAD51 localization to ionizing radiation-induced foci%3B may weaken homooligomerization. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28319063;Dbxref=dbSNP:rs141047069,PMID:28319063	
+Q86YC2	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_079845;Note=Decreases double-stranded DNA break-initiated homologous recombination. R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28319063;Dbxref=dbSNP:rs202194596,PMID:28319063	
+Q86YC2	UniProtKB	Natural variant	46	46	.	.	.	ID=VAR_066361;Note=H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	219	219	.	.	.	ID=VAR_066362;Note=D->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs45594034,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_032959;Note=I->V;Dbxref=dbSNP:rs3809683	
+Q86YC2	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_066363;Note=Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs200620434,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	337	337	.	.	.	ID=VAR_066364;Note=L->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs45494092,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_066365;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs749461008,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_066366;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs576081828,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	491	491	.	.	.	ID=VAR_066367;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs577969558,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	515	515	.	.	.	ID=VAR_066368;Note=K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs515726072,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	559	559	.	.	.	ID=VAR_066369;Note=Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs152451,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	672	672	.	.	.	ID=VAR_066370;Note=E->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs45532440,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	712	712	.	.	.	ID=VAR_066371;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs141458731,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	728	728	.	.	.	ID=VAR_066372;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	864	864	.	.	.	ID=VAR_054150;Note=P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18987736,ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs45568339,PMID:18987736,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	917	917	.	.	.	ID=VAR_066373;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs763645981,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	932	932	.	.	.	ID=VAR_066374;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs45624036,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	939	939	.	.	.	ID=VAR_066375;Note=May be associated with breast cancer susceptibility%3B reduces interaction with BRCA2%2C RAD51 and XRCC3%3B decreases double-stranded DNA break-initiated homologous recombination%3B increases sensitivity to IR. L->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21618343,ECO:0000269|PubMed:24141787;Dbxref=dbSNP:rs45478192,PMID:21618343,PMID:24141787	
+Q86YC2	UniProtKB	Natural variant	966	966	.	.	.	ID=VAR_066376;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs786204248,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	998	998	.	.	.	ID=VAR_066377;Note=May be associated with breast cancer susceptibility. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs45551636,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	1025	1025	.	.	.	ID=VAR_066378;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs746872839,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	1043	1043	.	.	.	ID=VAR_066379;Note=May be associated with breast cancer susceptibility%3B reduces interaction with BRCA2%2C RAD51C%2C RAD51 and XRCC3%3B decreases double-stranded DNA break-initiated homologous recombination%3B increases sensitivity to IR. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs377713277,PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	1075	1075	.	.	.	ID=VAR_066380;Note=S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	1105	1105	.	.	.	ID=VAR_066381;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	1114	1114	.	.	.	ID=VAR_066382;Note=Q->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=PMID:21618343	
+Q86YC2	UniProtKB	Natural variant	1143	1143	.	.	.	ID=VAR_066383;Note=May be associated with breast cancer susceptibility. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21618343,ECO:0000269|PubMed:24141787;Dbxref=dbSNP:rs62625284,PMID:21618343,PMID:24141787	
+Q86YC2	UniProtKB	Natural variant	1170	1170	.	.	.	ID=VAR_066384;Note=H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21618343;Dbxref=dbSNP:rs200283306,PMID:21618343	
+Q86YC2	UniProtKB	Mutagenesis	14	14	.	.	.	Note=Loss of interaction with BRCA1 but no effect on interaction with BRCA2. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19369211;Dbxref=PMID:19369211	
+Q86YC2	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Loss of interaction with BRCA1 but no effect on interaction with BRCA2. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19369211;Dbxref=PMID:19369211	
+Q86YC2	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Loss of interaction with BRCA1 but no effect on interaction with BRCA2. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19369211;Dbxref=PMID:19369211	
+Q86YC2	UniProtKB	Mutagenesis	35	35	.	.	.	Note=Loss of interaction with BRCA1 but no effect on interaction with BRCA2. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19369211;Dbxref=PMID:19369211	
+Q86YC2	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Loss of interaction with BRCA1 but no effect on interaction with BRCA2. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19369211;Dbxref=PMID:19369211	
+Q86YC2	UniProtKB	Mutagenesis	1030	1030	.	.	.	Note=Unstable and promotes protein degradation%3B reduces interaction with RAD51C and RAD51. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24141787;Dbxref=PMID:24141787	
+Q86YC2	UniProtKB	Beta strand	855	861	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	869	877	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	884	913	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	919	922	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	932	936	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	938	947	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	958	972	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Turn	973	975	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	976	984	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	988	994	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1000	1006	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1013	1020	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1025	1030	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1033	1039	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Turn	1040	1042	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1045	1050	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1053	1055	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EU7	
+Q86YC2	UniProtKB	Beta strand	1059	1066	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1069	1075	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1090	1096	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Turn	1097	1100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1101	1108	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1118	1124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1127	1132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1137	1141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Turn	1142	1144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1146	1151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1161	1164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1166	1174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	
+Q86YC2	UniProtKB	Beta strand	1180	1185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2W18	

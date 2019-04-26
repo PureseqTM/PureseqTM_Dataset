@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region P46783 1 165
+P46783	UniProtKB	Chain	1	165	.	.	.	ID=PRO_0000116360;Note=40S ribosomal protein S10	
+P46783	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63325	
+P46783	UniProtKB	Modified residue	146	146	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63325	
+P46783	UniProtKB	Modified residue	153	153	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P63325	
+P46783	UniProtKB	Modified residue	158	158	.	.	.	Note=Symmetric dimethylarginine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159986;Dbxref=PMID:20159986	
+P46783	UniProtKB	Modified residue	160	160	.	.	.	Note=Symmetric dimethylarginine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159986;Dbxref=PMID:20159986	
+P46783	UniProtKB	Cross-link	138	138	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:28065601,ECO:0000269|PubMed:28132843;Dbxref=PMID:28065601,PMID:28132843	
+P46783	UniProtKB	Cross-link	139	139	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:28065601,ECO:0000269|PubMed:28132843;Dbxref=PMID:28065601,PMID:28132843	
+P46783	UniProtKB	Mutagenesis	138	139	.	.	.	Note=Abolishes monoubiquitination by ZNF598%2C leading to enhanced readthrough on the poly(A)-stall sequences. KK->RR;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:28065601,ECO:0000269|PubMed:28132843;Dbxref=PMID:28065601,PMID:28132843	
+P46783	UniProtKB	Mutagenesis	158	158	.	.	.	Note=Weakly methylated. Complete loss of methylation%3B inefficient assembly into ribosomes%3B instability%3B increased degradation by the proteasomal pathway%3B decreased interaction with NPM1%3B absence of localization in the granular component (GC) region of the nucleolus%3B when associated with K-160. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159986;Dbxref=PMID:20159986	
+P46783	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Weakly methylated. Complete loss of methylation%3B inefficient assembly into ribosomes%3B instability%3B increased degradation by the proteasomal pathway%3B decreased interaction with NPM1%3B absence of localization in the granular component (GC) region of the nucleolus%3B when associated with K-158. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20159986;Dbxref=PMID:20159986	

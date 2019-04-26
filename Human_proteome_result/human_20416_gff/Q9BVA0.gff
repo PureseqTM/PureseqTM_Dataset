@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region Q9BVA0 1 655
+Q9BVA0	UniProtKB	Chain	1	655	.	.	.	ID=PRO_0000051049;Note=Katanin p80 WD40 repeat-containing subunit B1	
+Q9BVA0	UniProtKB	Repeat	18	58	.	.	.	Note=WD 1	
+Q9BVA0	UniProtKB	Repeat	61	100	.	.	.	Note=WD 2	
+Q9BVA0	UniProtKB	Repeat	103	142	.	.	.	Note=WD 3	
+Q9BVA0	UniProtKB	Repeat	145	184	.	.	.	Note=WD 4	
+Q9BVA0	UniProtKB	Repeat	187	226	.	.	.	Note=WD 5	
+Q9BVA0	UniProtKB	Repeat	229	269	.	.	.	Note=WD 6	
+Q9BVA0	UniProtKB	Region	1	300	.	.	.	Note=Interaction with centrosomes	
+Q9BVA0	UniProtKB	Region	1	284	.	.	.	Note=Interaction with dynein;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BVA0	UniProtKB	Region	285	434	.	.	.	Note=Interaction with PAFAH1B1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BVA0	UniProtKB	Region	433	655	.	.	.	Note=Interaction with KATNA1 and NDEL1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BVA0	UniProtKB	Modified residue	395	395	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9BVA0	UniProtKB	Natural variant	33	33	.	.	.	ID=VAR_073319;Note=In LIS6. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25521379;Dbxref=dbSNP:rs730880259,PMID:25521379	
+Q9BVA0	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_062099;Note=M->V;Dbxref=dbSNP:rs60158050	
+Q9BVA0	UniProtKB	Natural variant	535	535	.	.	.	ID=VAR_073320;Note=In LIS6%3B causes reduced interaction with KATNA1 and NDEL1. S->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25521378;Dbxref=dbSNP:rs730880257,PMID:25521378	
+Q9BVA0	UniProtKB	Natural variant	540	540	.	.	.	ID=VAR_073321;Note=In LIS6. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25521378;Dbxref=dbSNP:rs730880258,PMID:25521378	
+Q9BVA0	UniProtKB	Sequence conflict	104	104	.	.	.	Note=H->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BVA0	UniProtKB	Sequence conflict	211	211	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BVA0	UniProtKB	Sequence conflict	226	226	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q92499 1 740
+Q92499	UniProtKB	Chain	1	740	.	.	.	ID=PRO_0000054986;Note=ATP-dependent RNA helicase DDX1	
+Q92499	UniProtKB	Domain	2	428	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q92499	UniProtKB	Domain	70	247	.	.	.	Note=B30.2/SPRY;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00548	
+Q92499	UniProtKB	Domain	493	681	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+Q92499	UniProtKB	Nucleotide binding	46	53	.	.	.	Note=ATP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92499	UniProtKB	Region	1	525	.	.	.	Note=Necessary for interaction with RELA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19058135;Dbxref=PMID:19058135	
+Q92499	UniProtKB	Region	1	448	.	.	.	Note=Interaction with dsRNA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91VR5	
+Q92499	UniProtKB	Region	1	295	.	.	.	Note=Necessary for interaction with HNRNPK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12183465;Dbxref=PMID:12183465	
+Q92499	UniProtKB	Region	525	740	.	.	.	Note=Necessary for interaction with HNRNPK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12183465;Dbxref=PMID:12183465	
+Q92499	UniProtKB	Region	536	631	.	.	.	Note=Necessary for interaction with replicase polyprotein 1ab nsp14 of IBV	
+Q92499	UniProtKB	Motif	370	373	.	.	.	Note=DEAD box	
+Q92499	UniProtKB	Modified residue	239	239	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q92499	UniProtKB	Modified residue	268	268	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q92499	UniProtKB	Modified residue	281	281	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q92499	UniProtKB	Modified residue	481	481	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:21406692,PMID:23186163	
+Q92499	UniProtKB	Cross-link	281	281	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q92499	UniProtKB	Alternative sequence	1	128	.	.	.	ID=VSP_055453;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92499	UniProtKB	Alternative sequence	98	113	.	.	.	ID=VSP_055454;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92499	UniProtKB	Alternative sequence	630	740	.	.	.	ID=VSP_055455;Note=In isoform 2. VCSSRGKGCYNTRLKEDGGCTIWYNEMQLLSEIEEHLNCTISQVEPDIKVPVDEFDGKVTYGQKRAAGGGSYKGHVDILAPTVQELAALEKEAQTSFLHLGYLPNQLFRTF->MVQRDAVTI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q92499	UniProtKB	Mutagenesis	52	52	.	.	.	Note=Abolishes ability to promote guanylylation of RTCB. K->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24870230;Dbxref=PMID:24870230	
+Q92499	UniProtKB	Mutagenesis	371	371	.	.	.	Note=Inhibits the transcriptional activity of RELA and attenuates NF-kappa-B-mediated gene expression. E->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19058135,ECO:0000269|PubMed:24870230;Dbxref=PMID:19058135,PMID:24870230	
+Q92499	UniProtKB	Mutagenesis	371	371	.	.	.	Note=Abolishes ability to promote guanylylation of RTCB. E->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19058135,ECO:0000269|PubMed:24870230;Dbxref=PMID:19058135,PMID:24870230	
+Q92499	UniProtKB	Beta strand	90	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	102	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	110	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	120	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	141	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	164	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Turn	169	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	172	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	178	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	191	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Turn	198	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	202	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	210	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Helix	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	227	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Helix	258	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Helix	263	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	
+Q92499	UniProtKB	Beta strand	266	268	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XW3	

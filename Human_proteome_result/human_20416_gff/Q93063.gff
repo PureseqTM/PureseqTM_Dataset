@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q93063 1 718
+Q93063	UniProtKB	Chain	1	718	.	.	.	ID=PRO_0000149651;Note=Exostosin-2	
+Q93063	UniProtKB	Topological domain	1	25	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q93063	UniProtKB	Transmembrane	26	46	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q93063	UniProtKB	Topological domain	47	718	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q93063	UniProtKB	Region	517	522	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Region	538	540	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Region	624	628	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Region	662	673	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Active site	628	628	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Metal binding	540	540	.	.	.	Note=Manganese%3B catalytic;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Binding site	490	490	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Binding site	569	569	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Glycosylation	288	288	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q93063	UniProtKB	Glycosylation	637	637	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q93063	UniProtKB	Disulfide bond	626	676	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES89	
+Q93063	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_046053;Note=In isoform 3. M->MSCASGSGGGLRHPLRCQKPWDEECEEEAVCVIM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q93063	UniProtKB	Alternative sequence	392	411	.	.	.	ID=VSP_001798;Note=In isoform 2. ARWFWEAYFQSIKAIALATL->LFMEPARRENWSAANHQMNSLIWPREQWDS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q93063	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_033921;Note=M->V;Dbxref=dbSNP:rs4755779	
+Q93063	UniProtKB	Natural variant	85	85	.	.	.	ID=VAR_012823;Note=In EXT2. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10429361;Dbxref=PMID:10429361	
+Q93063	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_076469;Note=In SSMS%3B decreased protein abundance%3B levels of the EXT2-interacting protein NDST1 are abolished in patient cells. M->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26246518;Dbxref=dbSNP:rs140075817,PMID:26246518	
+Q93063	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_076470;Note=In SSMS%3B decreased protein abundance%3B levels of the EXT2-interacting protein NDST1 are abolished in patient cells. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26246518;Dbxref=dbSNP:rs376292686,PMID:26246518	
+Q93063	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_012824;Note=In EXT2. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10480354;Dbxref=PMID:10480354	
+Q93063	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_012825;Note=In EXT2. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11432960;Dbxref=PMID:11432960	
+Q93063	UniProtKB	Natural variant	202	202	.	.	.	ID=VAR_012826;Note=In EXT2. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11170095;Dbxref=dbSNP:rs771803942,PMID:11170095	
+Q93063	UniProtKB	Natural variant	223	223	.	.	.	ID=VAR_012827;Note=In EXT2. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10738008;Dbxref=dbSNP:rs764379119,PMID:10738008	
+Q93063	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_002378;Note=In EXT2%3B no effect on oligomeric complex formation with EXT1. D->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11169766,ECO:0000269|PubMed:11432960,ECO:0000269|PubMed:19344451,ECO:0000269|PubMed:9326317;Dbxref=dbSNP:rs121918280,PMID:11169766,PMID:11432960,PMID:19344451,PMID:9326317	
+Q93063	UniProtKB	Natural variant	380	380	.	.	.	ID=VAR_012828;Note=In EXT2. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11668521;Dbxref=PMID:11668521	
+Q93063	UniProtKB	Natural variant	576	576	.	.	.	ID=VAR_012829;Note=In osteochondroma. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11668521;Dbxref=dbSNP:rs373582542,PMID:11668521	
+Q93063	UniProtKB	Sequence conflict	322	322	.	.	.	Note=R->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q93063	UniProtKB	Sequence conflict	568	568	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	

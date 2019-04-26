@@ -1,0 +1,49 @@
+##gff-version 3
+##sequence-region Q14849 1 445
+Q14849	UniProtKB	Chain	1	445	.	.	.	ID=PRO_0000220653;Note=StAR-related lipid transfer protein 3	
+Q14849	UniProtKB	Topological domain	1	51	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Transmembrane	52	72	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00770	
+Q14849	UniProtKB	Topological domain	73	94	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14849	UniProtKB	Transmembrane	95	115	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00770	
+Q14849	UniProtKB	Topological domain	116	120	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14849	UniProtKB	Transmembrane	121	141	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00770	
+Q14849	UniProtKB	Topological domain	142	148	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14849	UniProtKB	Transmembrane	149	169	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00770	
+Q14849	UniProtKB	Topological domain	170	445	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Domain	46	217	.	.	.	Note=MENTAL;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00770	
+Q14849	UniProtKB	Domain	230	443	.	.	.	Note=START;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00197	
+Q14849	UniProtKB	Motif	207	212	.	.	.	Note=FFAT;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105263;Dbxref=PMID:24105263	
+Q14849	UniProtKB	Modified residue	209	209	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61542	
+Q14849	UniProtKB	Modified residue	217	217	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61542	
+Q14849	UniProtKB	Modified residue	221	221	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q61542	
+Q14849	UniProtKB	Alternative sequence	122	183	.	.	.	ID=VSP_045361;Note=In isoform 3. WVIAVTTLVSSAFLIVKVILSELLSKGAFGYLLPIVSFVLAWLETWFLDFKVLPQEAEEERW->SRRWCPVHSSLSRSSSLSCSAKGHLATCSPSSLLSSPGWRPGSLTSKSYPRKLKRSDSAPPG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14849	UniProtKB	Alternative sequence	126	143	.	.	.	ID=VSP_042710;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14849	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_027877;Note=R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7490069,ECO:0000269|PubMed:9270027,ECO:0000269|Ref.3;Dbxref=dbSNP:rs1877031,PMID:14702039,PMID:15489334,PMID:7490069,PMID:9270027	
+Q14849	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_027878;Note=G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs11556624,PMID:15489334	
+Q14849	UniProtKB	Mutagenesis	66	67	.	.	.	Note=Abolishes localization to late endosomes and leads to mislocalization to the endoplasmic reticulum. LL->AS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Abolishes localization to late endosomes and leads to mislocalization to the endoplasmic reticulum. Y->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Mutagenesis	113	113	.	.	.	Note=Does not affect localization to late endosomes. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Mutagenesis	206	212	.	.	.	Note=Abolishes interaction with VAPA and VAPB%2C thereby preventing contact with the endoplasmic reticulum membrane. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24105263;Dbxref=PMID:24105263	
+Q14849	UniProtKB	Mutagenesis	207	208	.	.	.	Note=Abolishes interaction with VAPA and VAPB%2C thereby preventing contact with the endoplasmic reticulum membrane. Abolishes cholesterol accumulation in endosomes. FY->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28377464;Dbxref=PMID:28377464	
+Q14849	UniProtKB	Mutagenesis	219	219	.	.	.	Note=Does not affect localization to late endosomes. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Mutagenesis	307	311	.	.	.	Note=Abolishes ability to transfer cholesterol between membranes. MVLWN->NVLWD;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28377464;Dbxref=PMID:28377464	
+Q14849	UniProtKB	Mutagenesis	311	311	.	.	.	Note=Does not affect localization to late endosomes. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11053434;Dbxref=PMID:11053434	
+Q14849	UniProtKB	Helix	233	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Helix	255	258	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	260	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	270	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Turn	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	280	291	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Helix	293	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Helix	304	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	314	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Turn	324	326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	327	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	340	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	345	355	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	357	366	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	378	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	385	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	400	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Beta strand	412	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	
+Q14849	UniProtKB	Helix	416	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5I9J	

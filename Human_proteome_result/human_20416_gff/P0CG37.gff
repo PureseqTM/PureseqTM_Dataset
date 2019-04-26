@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region P0CG37 1 223
+P0CG37	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P0CG37	UniProtKB	Chain	26	158	.	.	.	ID=PRO_0000044630;Note=Cryptic protein	
+P0CG37	UniProtKB	Propeptide	159	223	.	.	.	ID=PRO_0000395407;Note=Removed in mature form	
+P0CG37	UniProtKB	Domain	86	115	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P0CG37	UniProtKB	Lipidation	158	158	.	.	.	Note=GPI-anchor amidated aspartate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18930707;Dbxref=PMID:18930707	
+P0CG37	UniProtKB	Glycosylation	52	52	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P0CG37	UniProtKB	Disulfide bond	90	97	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P0CG37	UniProtKB	Disulfide bond	91	103	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P0CG37	UniProtKB	Disulfide bond	105	114	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P0CG37	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_024322;Note=R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11062482,ECO:0000269|PubMed:11799476;Dbxref=dbSNP:rs2579433,PMID:11062482,PMID:11799476	
+P0CG37	UniProtKB	Natural variant	112	112	.	.	.	ID=VAR_024323;Note=In HTX2%3B complete loss of activity%3B abnormal cell surface localization. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11062482;Dbxref=dbSNP:rs104893611,PMID:11062482	
+P0CG37	UniProtKB	Natural variant	189	189	.	.	.	ID=VAR_024324;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11062482;Dbxref=dbSNP:rs1350439781,PMID:11062482	
+P0CG37	UniProtKB	Mutagenesis	191	223	.	.	.	Note=Does not affect the cellular localization and the biological activity. LRPDAPAHPRSLVPSVLQRERRPCGRPGLGHRL->VVVVV	
+P0CG37	UniProtKB	Mutagenesis	191	223	.	.	.	Note=Increased NODAL dependent signaling. Missing	

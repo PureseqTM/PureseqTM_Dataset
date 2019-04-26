@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region P54753 1 998
+P54753	UniProtKB	Signal peptide	1	33	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Chain	34	998	.	.	.	ID=PRO_0000016831;Note=Ephrin type-B receptor 3	
+P54753	UniProtKB	Topological domain	34	559	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Transmembrane	560	580	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Topological domain	581	998	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Domain	39	217	.	.	.	Note=Eph LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00883	
+P54753	UniProtKB	Domain	339	451	.	.	.	Note=Fibronectin type-III 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P54753	UniProtKB	Domain	452	545	.	.	.	Note=Fibronectin type-III 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00316	
+P54753	UniProtKB	Domain	633	896	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P54753	UniProtKB	Domain	925	989	.	.	.	Note=SAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00184	
+P54753	UniProtKB	Nucleotide binding	639	647	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P54753	UniProtKB	Motif	996	998	.	.	.	Note=PDZ-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Compositional bias	199	336	.	.	.	Note=Cys-rich	
+P54753	UniProtKB	Active site	758	758	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10028	
+P54753	UniProtKB	Binding site	665	665	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+P54753	UniProtKB	Modified residue	614	614	.	.	.	Note=Phosphotyrosine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674711;Dbxref=PMID:9674711	
+P54753	UniProtKB	Glycosylation	351	351	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Glycosylation	445	445	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P54753	UniProtKB	Disulfide bond	81	199	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.7	
+P54753	UniProtKB	Natural variant	168	168	.	.	.	ID=VAR_042176;Note=In a lung small cell carcinoma sample%3B somatic mutation. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=PMID:17344846	
+P54753	UniProtKB	Natural variant	440	440	.	.	.	ID=VAR_042177;Note=R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56029711,PMID:17344846	
+P54753	UniProtKB	Natural variant	579	579	.	.	.	ID=VAR_042178;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56103851,PMID:17344846	
+P54753	UniProtKB	Natural variant	601	601	.	.	.	ID=VAR_042179;Note=I->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs56129875,PMID:17344846	
+P54753	UniProtKB	Natural variant	724	724	.	.	.	ID=VAR_042180;Note=In a lung neuroendocrine carcinoma sample%3B somatic mutation. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs371378866,PMID:17344846	
+P54753	UniProtKB	Mutagenesis	614	614	.	.	.	Note=Partial loss of phosphorylation and loss of interaction with SH2-containing proteins. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674711;Dbxref=PMID:9674711	
+P54753	UniProtKB	Mutagenesis	665	665	.	.	.	Note=Kinase-dead. Loss of autophosphorylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9674711;Dbxref=PMID:9674711	
+P54753	UniProtKB	Sequence conflict	367	367	.	.	.	Note=G->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P54753	UniProtKB	Sequence conflict	406	408	.	.	.	Note=TER->SEP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P54753	UniProtKB	Sequence conflict	412	412	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P54753	UniProtKB	Beta strand	39	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Helix	45	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	55	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	63	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	74	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	103	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Helix	116	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	130	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	155	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	175	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	186	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	200	210	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P1I	
+P54753	UniProtKB	Beta strand	633	640	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	646	652	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	655	657	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6P	
+P54753	UniProtKB	Beta strand	660	666	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	673	687	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	697	701	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	703	706	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	708	712	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	719	725	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Turn	726	728	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	732	751	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	761	763	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	764	766	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	772	774	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	791	793	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Beta strand	796	798	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6P	
+P54753	UniProtKB	Helix	802	804	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	807	812	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	817	832	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Turn	838	841	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	844	852	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	865	874	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Turn	879	881	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	885	897	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	
+P54753	UniProtKB	Helix	899	902	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5L6O	

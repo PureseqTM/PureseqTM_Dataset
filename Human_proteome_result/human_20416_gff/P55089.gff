@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region P55089 1 124
+P55089	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P55089	UniProtKB	Propeptide	26	82	.	.	.	ID=PRO_0000006233	
+P55089	UniProtKB	Peptide	83	122	.	.	.	ID=PRO_0000006234;Note=Urocortin	
+P55089	UniProtKB	Modified residue	122	122	.	.	.	Note=Valine amide;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P55089	UniProtKB	Mutagenesis	116	116	.	.	.	Note=Reduced affinity for CRHR1. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20966082;Dbxref=PMID:20966082	
+P55089	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Reduced affinity for CRHR2. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20966082;Dbxref=PMID:20966082	
+P55089	UniProtKB	Mutagenesis	119	119	.	.	.	Note=Strongly reduced affinity for CRHR2. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20966082;Dbxref=PMID:20966082	
+P55089	UniProtKB	Mutagenesis	122	122	.	.	.	Note=Reduced affinity for CRHR2. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20966082;Dbxref=PMID:20966082	
+P55089	UniProtKB	Helix	108	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3N96	

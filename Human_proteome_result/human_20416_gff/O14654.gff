@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region O14654 1 1257
+O14654	UniProtKB	Chain	1	1257	.	.	.	ID=PRO_0000314678;Note=Insulin receptor substrate 4	
+O14654	UniProtKB	Domain	78	199	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+O14654	UniProtKB	Domain	231	335	.	.	.	Note=IRS-type PTB;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00389	
+O14654	UniProtKB	Region	678	800	.	.	.	Note=CRK-binding	
+O14654	UniProtKB	Region	895	897	.	.	.	Note=GRB2-binding	
+O14654	UniProtKB	Motif	487	490	.	.	.	Note=YXXM motif 1	
+O14654	UniProtKB	Motif	700	703	.	.	.	Note=YXXM motif 2	
+O14654	UniProtKB	Motif	717	720	.	.	.	Note=YXXM motif 3	
+O14654	UniProtKB	Motif	743	746	.	.	.	Note=YXXM motif 4	
+O14654	UniProtKB	Motif	779	782	.	.	.	Note=YXXM motif 5	
+O14654	UniProtKB	Motif	828	831	.	.	.	Note=YXXM motif 6	
+O14654	UniProtKB	Motif	921	924	.	.	.	Note=YXXM motif 7	
+O14654	UniProtKB	Compositional bias	18	28	.	.	.	Note=Poly-Ala	
+O14654	UniProtKB	Compositional bias	124	137	.	.	.	Note=Ala-rich	
+O14654	UniProtKB	Compositional bias	218	226	.	.	.	Note=Poly-Ala	
+O14654	UniProtKB	Compositional bias	628	639	.	.	.	Note=Pro-rich	
+O14654	UniProtKB	Compositional bias	1094	1212	.	.	.	Note=Ala-rich	
+O14654	UniProtKB	Modified residue	921	921	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15316024;Dbxref=PMID:15316024	
+O14654	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_038042;Note=In a colorectal cancer sample%3B somatic mutation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O14654	UniProtKB	Natural variant	34	34	.	.	.	ID=VAR_051078;Note=L->F;Dbxref=dbSNP:rs1801162	
+O14654	UniProtKB	Natural variant	215	215	.	.	.	ID=VAR_038043;Note=In a colorectal cancer sample%3B somatic mutation. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O14654	UniProtKB	Natural variant	508	508	.	.	.	ID=VAR_051079;Note=N->K;Dbxref=dbSNP:rs34287560	
+O14654	UniProtKB	Natural variant	557	557	.	.	.	ID=VAR_038044;Note=In a colorectal cancer sample%3B somatic mutation. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+O14654	UniProtKB	Natural variant	879	879	.	.	.	ID=VAR_051080;Note=H->D;Dbxref=dbSNP:rs1801164	
+O14654	UniProtKB	Natural variant	1230	1230	.	.	.	ID=VAR_061669;Note=D->Y;Dbxref=dbSNP:rs28546943	
+O14654	UniProtKB	Mutagenesis	700	700	.	.	.	Note=No effect. Reduces interaction with CRK by 50%25%3B when associated with F-717. Abolishes interaction with CRK%3B when associated with F-717%3B F-743 and F-779. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11316748;Dbxref=PMID:11316748	
+O14654	UniProtKB	Mutagenesis	717	717	.	.	.	Note=No effect. Reduces interaction with CRK by 50%25%3B when associated with F-700. Abolishes interaction with CRK%3B when associated with F-700%3B F-743 and F-779. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11316748;Dbxref=PMID:11316748	
+O14654	UniProtKB	Mutagenesis	743	743	.	.	.	Note=No effect. Reduces interaction with CRK by 50%25%3B when associated with F-779. Abolishes interaction with CRK%3B when associated with F-700%3B F-717 and F-779. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11316748;Dbxref=PMID:11316748	
+O14654	UniProtKB	Mutagenesis	779	779	.	.	.	Note=No effect. Reduces interaction with CRK by 50%25%3B when associated with F-743. Abolishes interaction with CRK%3B when associated with F-700%3B F-717 and F-743. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11316748;Dbxref=PMID:11316748	

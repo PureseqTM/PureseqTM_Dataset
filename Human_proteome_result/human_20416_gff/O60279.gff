@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region O60279 1 629
+O60279	UniProtKB	Signal peptide	1	35	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60279	UniProtKB	Chain	36	629	.	.	.	ID=PRO_0000274247;Note=Sushi domain-containing protein 5	
+O60279	UniProtKB	Topological domain	36	574	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60279	UniProtKB	Transmembrane	575	595	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60279	UniProtKB	Topological domain	596	629	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60279	UniProtKB	Domain	39	134	.	.	.	Note=Link;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00323	
+O60279	UniProtKB	Domain	138	199	.	.	.	Note=Sushi;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00302	
+O60279	UniProtKB	Disulfide bond	61	132	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60279	UniProtKB	Disulfide bond	140	184	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60279	UniProtKB	Disulfide bond	167	197	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60279	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_051391;Note=F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9628581;Dbxref=dbSNP:rs9637517,PMID:9628581	
+O60279	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_030217;Note=L->F;Dbxref=dbSNP:rs9637517	
+O60279	UniProtKB	Natural variant	216	216	.	.	.	ID=VAR_051392;Note=R->K;Dbxref=dbSNP:rs9872477	
+O60279	UniProtKB	Natural variant	228	228	.	.	.	ID=VAR_030218;Note=R->K;Dbxref=dbSNP:rs9872477	
+O60279	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_051393;Note=E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9628581;Dbxref=dbSNP:rs6810039,PMID:9628581	
+O60279	UniProtKB	Sequence conflict	272	272	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

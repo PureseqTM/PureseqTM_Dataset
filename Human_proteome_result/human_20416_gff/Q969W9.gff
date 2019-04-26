@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q969W9 1 287
+Q969W9	UniProtKB	Chain	1	287	.	.	.	ID=PRO_0000185442;Note=Protein TMEPAI	
+Q969W9	UniProtKB	Topological domain	1	40	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969W9	UniProtKB	Transmembrane	41	63	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969W9	UniProtKB	Topological domain	64	287	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q969W9	UniProtKB	Motif	158	161	.	.	.	Note=PPxY motif 1	
+Q969W9	UniProtKB	Motif	186	189	.	.	.	Note=SMAD interaction motif (SIM)	
+Q969W9	UniProtKB	Motif	229	232	.	.	.	Note=PPxY motif 2	
+Q969W9	UniProtKB	Alternative sequence	1	50	.	.	.	ID=VSP_044588;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12670906;Dbxref=PMID:12670906	
+Q969W9	UniProtKB	Alternative sequence	1	37	.	.	.	ID=VSP_006438;Note=In isoform 2. MHRLMGVNSTAAAAAGQPNVSCTCNCKRSLFQSMEIT->MA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10873380;Dbxref=PMID:10873380	
+Q969W9	UniProtKB	Natural variant	128	128	.	.	.	ID=VAR_062154;Note=E->D;Dbxref=dbSNP:rs41314918	
+Q969W9	UniProtKB	Mutagenesis	161	161	.	.	.	Note=Impairs interaction with NEDD4. Impairs polyubiquitination of AR%3B when associated with A-232. Y->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12907594,ECO:0000269|PubMed:18703514;Dbxref=PMID:12907594,PMID:18703514	
+Q969W9	UniProtKB	Mutagenesis	232	232	.	.	.	Note=Impairs interaction with NEDD4. Impairs polyubiquitination of AR%3B when associated with A-232. Y->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12907594,ECO:0000269|PubMed:18703514;Dbxref=PMID:12907594,PMID:18703514	

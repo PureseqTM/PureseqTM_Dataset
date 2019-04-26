@@ -1,0 +1,104 @@
+##gff-version 3
+##sequence-region P78324 1 504
+P78324	UniProtKB	Signal peptide	1	30	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Chain	31	504	.	.	.	ID=PRO_0000014941;Note=Tyrosine-protein phosphatase non-receptor type substrate 1	
+P78324	UniProtKB	Topological domain	31	373	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Transmembrane	374	394	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Topological domain	395	504	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Domain	32	137	.	.	.	Note=Ig-like V-type	
+P78324	UniProtKB	Domain	148	247	.	.	.	Note=Ig-like C1-type 1	
+P78324	UniProtKB	Domain	254	348	.	.	.	Note=Ig-like C1-type 2	
+P78324	UniProtKB	Motif	429	432	.	.	.	Note=SH2-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Motif	439	444	.	.	.	Note=SH3-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Motif	453	456	.	.	.	Note=SH2-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Motif	470	473	.	.	.	Note=SH2-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Motif	496	499	.	.	.	Note=SH2-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Modified residue	429	429	.	.	.	Note=Phosphotyrosine%3B by Tyr-kinases;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Modified residue	453	453	.	.	.	Note=Phosphotyrosine%3B by Tyr-kinases;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Modified residue	470	470	.	.	.	Note=Phosphotyrosine%3B by Tyr-kinases;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P97710	
+P78324	UniProtKB	Modified residue	496	496	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P78324	UniProtKB	Glycosylation	245	245	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16335952;Dbxref=PMID:16335952	
+P78324	UniProtKB	Glycosylation	270	270	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P78324	UniProtKB	Glycosylation	292	292	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19159218;Dbxref=PMID:19159218	
+P78324	UniProtKB	Glycosylation	319	319	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P78324	UniProtKB	Disulfide bond	55	121	.	.	.	Ontology_term=ECO:0000255,ECO:0000269,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00114,ECO:0000269|PubMed:17369261,ECO:0000269|PubMed:18657508;Dbxref=PMID:17369261,PMID:18657508	
+P78324	UniProtKB	Disulfide bond	170	228	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P78324	UniProtKB	Disulfide bond	273	331	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P78324	UniProtKB	Alternative sequence	130	130	.	.	.	ID=VSP_040799;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78324	UniProtKB	Alternative sequence	422	422	.	.	.	ID=VSP_007030;Note=In isoform 2. Q->QVQSL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P78324	UniProtKB	Natural variant	6	7	.	.	.	ID=VAR_015462;Note=PA->RS	
+P78324	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_015463;Note=A->P	
+P78324	UniProtKB	Natural variant	40	40	.	.	.	ID=VAR_015464;Note=D->E;Dbxref=dbSNP:rs1349896458	
+P78324	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_015465;Note=L->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs143735290,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	50	50	.	.	.	ID=VAR_015466;Note=T->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs17855609,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_015468;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs17855610,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_015470;Note=R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs17855611,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	57	57	.	.	.	ID=VAR_015471;Note=A->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs17855612,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	61	61	.	.	.	ID=VAR_015472;Note=I->N;Dbxref=dbSNP:rs1371837011	
+P78324	UniProtKB	Natural variant	68	68	.	.	.	ID=VAR_015473;Note=W->R	
+P78324	UniProtKB	Natural variant	75	75	.	.	.	ID=VAR_015474;Note=G->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs1057114,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	77	77	.	.	.	ID=VAR_015475;Note=E->K;Dbxref=dbSNP:rs1182420620	
+P78324	UniProtKB	Natural variant	81	81	.	.	.	ID=VAR_015477;Note=N->H	
+P78324	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_015478;Note=D->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs138283486,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	96	96	.	.	.	ID=VAR_015479;Note=L->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	100	100	.	.	.	ID=VAR_015480;Note=Requires 2 nucleotide substitutions. N->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs386811662,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	107	107	.	.	.	ID=VAR_015483;Note=R->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs17855615,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	109	109	.	.	.	ID=VAR_015484;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs17855616,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_015485;Note=R->Q;Dbxref=dbSNP:rs767136065	
+P78324	UniProtKB	Natural variant	132	132	.	.	.	ID=VAR_015486;Note=Requires 2 nucleotide substitutions. V->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9062191,ECO:0000269|PubMed:9070220;Dbxref=dbSNP:rs386811663,PMID:14702039,PMID:15489334,PMID:9062191,PMID:9070220	
+P78324	UniProtKB	Natural variant	134	134	.	.	.	ID=VAR_015487;Note=F->L	
+P78324	UniProtKB	Natural variant	163	163	.	.	.	ID=VAR_015488;Note=Requires 2 nucleotide substitutions. Q->D	
+P78324	UniProtKB	Natural variant	181	181	.	.	.	ID=VAR_015489;Note=T->S	
+P78324	UniProtKB	Natural variant	190	190	.	.	.	ID=VAR_015490;Note=E->Q	
+P78324	UniProtKB	Natural variant	201	202	.	.	.	ID=VAR_015491;Note=VG->AR	
+P78324	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_015492;Note=K->N	
+P78324	UniProtKB	Natural variant	220	220	.	.	.	ID=VAR_015493;Note=E->G	
+P78324	UniProtKB	Natural variant	222	222	.	.	.	ID=VAR_015494;Note=V->I;Dbxref=dbSNP:rs143385810	
+P78324	UniProtKB	Natural variant	236	236	.	.	.	ID=VAR_015495;Note=Q->R	
+P78324	UniProtKB	Natural variant	239	240	.	.	.	ID=VAR_015496;Note=PL->SF	
+P78324	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_015497;Note=R->Q;Dbxref=dbSNP:rs377448893	
+P78324	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_015498;Note=Q->L	
+P78324	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_015499;Note=V->M;Dbxref=dbSNP:rs754806675	
+P78324	UniProtKB	Natural variant	271	271	.	.	.	ID=VAR_015500;Note=V->I	
+P78324	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_015501;Note=R->T	
+P78324	UniProtKB	Natural variant	302	302	.	.	.	ID=VAR_015502;Note=V->L;Dbxref=dbSNP:rs2422666	
+P78324	UniProtKB	Natural variant	339	339	.	.	.	ID=VAR_015503;Note=P->S	
+P78324	UniProtKB	Natural variant	353	353	.	.	.	ID=VAR_015504;Note=P->L;Dbxref=dbSNP:rs138876160	
+P78324	UniProtKB	Natural variant	357	357	.	.	.	ID=VAR_015505;Note=G->S;Dbxref=dbSNP:rs1200233096	
+P78324	UniProtKB	Natural variant	367	367	.	.	.	ID=VAR_015506;Note=S->P	
+P78324	UniProtKB	Natural variant	370	370	.	.	.	ID=VAR_015507;Note=R->Q;Dbxref=dbSNP:rs778218860	
+P78324	UniProtKB	Natural variant	389	389	.	.	.	ID=VAR_015508;Note=A->E	
+P78324	UniProtKB	Natural variant	443	443	.	.	.	ID=VAR_015509;Note=Q->R	
+P78324	UniProtKB	Natural variant	460	460	.	.	.	ID=VAR_015510;Note=P->L;Dbxref=dbSNP:rs1168490568	
+P78324	UniProtKB	Natural variant	486	486	.	.	.	ID=VAR_015511;Note=Requires 2 nucleotide substitutions. A->L	
+P78324	UniProtKB	Natural variant	491	491	.	.	.	ID=VAR_015512;Note=P->L;Dbxref=dbSNP:rs367629199	
+P78324	UniProtKB	Sequence conflict	259	259	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78324	UniProtKB	Sequence conflict	503	503	.	.	.	Note=R->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P78324	UniProtKB	Beta strand	41	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	51	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	66	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	77	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	90	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	106	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Helix	113	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	117	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	127	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	132	136	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	140	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2UV3	
+P78324	UniProtKB	Beta strand	152	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	165	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	181	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	194	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	207	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Helix	221	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	225	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	240	245	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Helix	246	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	255	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	269	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	283	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	292	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	310	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	328	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	
+P78324	UniProtKB	Beta strand	341	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WNG	

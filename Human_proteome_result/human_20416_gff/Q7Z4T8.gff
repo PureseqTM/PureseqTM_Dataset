@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region Q7Z4T8 1 443
+Q7Z4T8	UniProtKB	Chain	1	443	.	.	.	ID=PRO_0000059143;Note=Inactive polypeptide N-acetylgalactosaminyltransferase-like protein 5	
+Q7Z4T8	UniProtKB	Topological domain	1	4	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z4T8	UniProtKB	Transmembrane	5	27	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z4T8	UniProtKB	Topological domain	28	443	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z4T8	UniProtKB	Region	133	243	.	.	.	Note=Catalytic subdomain A	
+Q7Z4T8	UniProtKB	Region	301	363	.	.	.	Note=Catalytic subdomain B	
+Q7Z4T8	UniProtKB	Metal binding	227	227	.	.	.	Note=Manganese;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Metal binding	229	229	.	.	.	Note=Manganese;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Metal binding	360	360	.	.	.	Note=Manganese;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Binding site	174	174	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Binding site	204	204	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Binding site	228	228	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Binding site	332	332	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Glycosylation	87	87	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z4T8	UniProtKB	Disulfide bond	124	355	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Disulfide bond	346	422	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z4T8	UniProtKB	Alternative sequence	124	133	.	.	.	ID=VSP_011227;Note=In isoform 2. CLQKHYPARL->GCSGVPGQPL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+Q7Z4T8	UniProtKB	Alternative sequence	134	443	.	.	.	ID=VSP_011228;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+Q7Z4T8	UniProtKB	Natural variant	124	124	.	.	.	ID=VAR_019592;Note=C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs6960270,PMID:15489334	
+Q7Z4T8	UniProtKB	Natural variant	206	206	.	.	.	ID=VAR_080036;Note=G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28206990;Dbxref=dbSNP:rs61729482,PMID:28206990	

@@ -1,0 +1,52 @@
+##gff-version 3
+##sequence-region P81274 1 684
+P81274	UniProtKB	Chain	1	684	.	.	.	ID=PRO_0000106358;Note=G-protein-signaling modulator 2	
+P81274	UniProtKB	Repeat	24	57	.	.	.	Note=TPR 1	
+P81274	UniProtKB	Repeat	62	95	.	.	.	Note=TPR 2	
+P81274	UniProtKB	Repeat	102	135	.	.	.	Note=TPR 3	
+P81274	UniProtKB	Repeat	142	184	.	.	.	Note=TPR 4	
+P81274	UniProtKB	Repeat	202	235	.	.	.	Note=TPR 5	
+P81274	UniProtKB	Repeat	242	275	.	.	.	Note=TPR 6	
+P81274	UniProtKB	Repeat	282	315	.	.	.	Note=TPR 7	
+P81274	UniProtKB	Repeat	322	355	.	.	.	Note=TPR 8	
+P81274	UniProtKB	Domain	489	511	.	.	.	Note=GoLoco 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00097	
+P81274	UniProtKB	Domain	544	566	.	.	.	Note=GoLoco 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00097	
+P81274	UniProtKB	Domain	594	616	.	.	.	Note=GoLoco 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00097	
+P81274	UniProtKB	Domain	628	650	.	.	.	Note=GoLoco 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00097	
+P81274	UniProtKB	Region	22	357	.	.	.	Note=Important for interaction with NUMA1%3B INSC and FRMPD1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VDU0	
+P81274	UniProtKB	Binding site	608	608	.	.	.	Note=GDP%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VDU0	
+P81274	UniProtKB	Binding site	613	613	.	.	.	Note=GDP%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VDU0	
+P81274	UniProtKB	Binding site	642	642	.	.	.	Note=GDP%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VDU0	
+P81274	UniProtKB	Binding site	647	647	.	.	.	Note=GDP%3B shared with dimeric partner;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8VDU0	
+P81274	UniProtKB	Modified residue	132	132	.	.	.	Note=Phosphoserine%3B by PKG;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P81274	UniProtKB	Modified residue	352	352	.	.	.	Note=Phosphoserine%3B by PKG;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P81274	UniProtKB	Modified residue	408	408	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P81274	UniProtKB	Modified residue	483	483	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P81274	UniProtKB	Modified residue	486	486	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P81274	UniProtKB	Modified residue	501	501	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P81274	UniProtKB	Modified residue	541	541	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P81274	UniProtKB	Modified residue	565	565	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P81274	UniProtKB	Modified residue	607	607	.	.	.	Note=Phosphoserine%3B by PKG;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P81274	UniProtKB	Mutagenesis	228	228	.	.	.	Note=Abolishes location at mitotic spindle poles%3B when associated with A-243. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21816348;Dbxref=PMID:21816348	
+P81274	UniProtKB	Mutagenesis	228	228	.	.	.	Note=Strongly reduces interaction with INSC. Abolishes interaction with INSC%3B when associated with R-290. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22074847;Dbxref=PMID:22074847	
+P81274	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Abolishes location at mitotic spindle poles%3B when associated with A-228. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21816348;Dbxref=PMID:21816348	
+P81274	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Abolishes interaction with INSC%3B when associated with E-228. N->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22074847;Dbxref=PMID:22074847	
+P81274	UniProtKB	Sequence conflict	400	400	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P81274	UniProtKB	Helix	24	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	40	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	58	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	78	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	98	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	118	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	138	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	165	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WNF	
+P81274	UniProtKB	Helix	172	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	198	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	218	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	238	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	258	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	278	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	298	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	318	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	338	354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WND	
+P81274	UniProtKB	Helix	358	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3SF4	

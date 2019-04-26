@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region Q9UN19 1 280
+Q9UN19	UniProtKB	Chain	1	280	.	.	.	ID=PRO_0000079785;Note=Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide	
+Q9UN19	UniProtKB	Domain	35	129	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q9UN19	UniProtKB	Domain	164	259	.	.	.	Note=PH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00145	
+Q9UN19	UniProtKB	Modified residue	139	139	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QXT1	
+Q9UN19	UniProtKB	Modified residue	141	141	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QXT1	
+Q9UN19	UniProtKB	Alternative sequence	259	280	.	.	.	ID=VSP_010699;Note=In isoform 2. SQIRKQLNQGEGTIRSRSFIFK->VKDKSCILSALCISPEEKTDHK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10770799;Dbxref=PMID:10770799	
+Q9UN19	UniProtKB	Mutagenesis	61	61	.	.	.	Note=No change in BCR-induced NFAT activation. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10770799;Dbxref=PMID:10770799	
+Q9UN19	UniProtKB	Mutagenesis	173	173	.	.	.	Note=No interaction with 3-phosphoinositides. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10432293;Dbxref=PMID:10432293	
+Q9UN19	UniProtKB	Mutagenesis	184	184	.	.	.	Note=No membrane association. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10770799;Dbxref=PMID:10770799	
+Q9UN19	UniProtKB	Mutagenesis	197	197	.	.	.	Note=No membrane association. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10770799;Dbxref=PMID:10770799	
+Q9UN19	UniProtKB	Mutagenesis	250	250	.	.	.	Note=No interaction with 3-phosphoinositides. W->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10432293;Dbxref=PMID:10432293	
+Q9UN19	UniProtKB	Sequence conflict	216	229	.	.	.	Note=VQFDYSQERVNCFC->MICNILCSFFCPIS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UN19	UniProtKB	Beta strand	167	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	176	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	181	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	192	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	205	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Helix	210	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	215	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	221	232	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Beta strand	235	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	
+Q9UN19	UniProtKB	Helix	244	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1FAO	

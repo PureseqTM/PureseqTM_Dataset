@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region P21583 1 273
+P21583	UniProtKB	Signal peptide	1	25	.	.	.	.	
+P21583	UniProtKB	Chain	26	273	.	.	.	ID=PRO_0000031913;Note=Kit ligand	
+P21583	UniProtKB	Chain	26	190	.	.	.	ID=PRO_0000403391;Note=Soluble KIT ligand	
+P21583	UniProtKB	Topological domain	26	214	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21583	UniProtKB	Transmembrane	215	237	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21583	UniProtKB	Topological domain	238	273	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21583	UniProtKB	Site	97	97	.	.	.	Note=Not glycosylated	
+P21583	UniProtKB	Glycosylation	90	90	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B partial;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1381905;Dbxref=PMID:1381905	
+P21583	UniProtKB	Glycosylation	118	118	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B partial;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1381905;Dbxref=PMID:1381905	
+P21583	UniProtKB	Glycosylation	145	145	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1381905;Dbxref=PMID:1381905	
+P21583	UniProtKB	Glycosylation	167	167	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1381905;Dbxref=PMID:1381905	
+P21583	UniProtKB	Glycosylation	168	168	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1381905;Dbxref=PMID:1381905	
+P21583	UniProtKB	Glycosylation	180	180	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1381905;Dbxref=PMID:1381905	
+P21583	UniProtKB	Glycosylation	195	195	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21583	UniProtKB	Disulfide bond	29	114	.	.	.	.	
+P21583	UniProtKB	Disulfide bond	68	163	.	.	.	.	
+P21583	UniProtKB	Alternative sequence	1	35	.	.	.	ID=VSP_032762;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P21583	UniProtKB	Alternative sequence	36	43	.	.	.	ID=VSP_032763;Note=In isoform 3. NVKDVTKL->MPSCLAAQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+P21583	UniProtKB	Alternative sequence	174	202	.	.	.	ID=VSP_006022;Note=In isoform 2. DSRVSVTKPFMLPPVAASSLRNDSSSSNR->G;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10049787,ECO:0000303|PubMed:1379846,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:1724381,ECO:0000303|Ref.4;Dbxref=PMID:10049787,PMID:1379846,PMID:14702039,PMID:15489334,PMID:1724381	
+P21583	UniProtKB	Natural variant	36	36	.	.	.	ID=VAR_063237;Note=In FPHH%3B gain-of-function mutation%3B sKITLG reveales that the mutant Ser-36 sKITLG increases the content of the melanin by 109%25 compared with the wild-type sKITLG%3B tyrosinase activity is significantly increased by the mutant sKITLG compared to wild-type control. N->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19375057;Dbxref=dbSNP:rs121918653,PMID:19375057	
+P21583	UniProtKB	Natural variant	54	54	.	.	.	ID=VAR_042652;Note=T->A;Dbxref=dbSNP:rs3741457	
+P21583	UniProtKB	Natural variant	67	68	.	.	.	ID=VAR_076222;Note=In DCUA%3B loss of cell membrane association. HC->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26522471;Dbxref=PMID:26522471	
+P21583	UniProtKB	Natural variant	104	104	.	.	.	ID=VAR_076223;Note=Found in a patient with Waardenburg syndrome type 2 (WS2) and hearing loss%3B unknown pathological significance%3B reduces secretion. L->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26522471;Dbxref=dbSNP:rs864309655,PMID:26522471	
+P21583	UniProtKB	Natural variant	210	210	.	.	.	ID=VAR_063238;Note=D->Y;Dbxref=dbSNP:rs41283112	
+P21583	UniProtKB	Natural variant	232	232	.	.	.	ID=VAR_042653;Note=F->Y;Dbxref=dbSNP:rs12721563	
+P21583	UniProtKB	Sequence conflict	55	55	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21583	UniProtKB	Sequence conflict	55	55	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21583	UniProtKB	Sequence conflict	128	128	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21583	UniProtKB	Sequence conflict	128	128	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21583	UniProtKB	Sequence conflict	134	134	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21583	UniProtKB	Sequence conflict	134	134	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P21583	UniProtKB	Helix	30	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E9W	
+P21583	UniProtKB	Helix	37	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Beta strand	53	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Turn	59	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Helix	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Helix	70	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Beta strand	92	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E9W	
+P21583	UniProtKB	Helix	97	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Beta strand	120	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EXZ	
+P21583	UniProtKB	Beta strand	132	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Helix	137	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Turn	150	152	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	
+P21583	UniProtKB	Beta strand	157	160	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SCF	

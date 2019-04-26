@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region P41227 1 235
+P41227	UniProtKB	Chain	1	235	.	.	.	ID=PRO_0000074532;Note=N-alpha-acetyltransferase 10	
+P41227	UniProtKB	Domain	1	152	.	.	.	Note=N-acetyltransferase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00532	
+P41227	UniProtKB	Region	1	58	.	.	.	Note=Interaction with NAA15;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15496142;Dbxref=PMID:15496142	
+P41227	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19413330;Dbxref=PMID:19413330	
+P41227	UniProtKB	Modified residue	136	136	.	.	.	Note=N6-acetyllysine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27708256;Dbxref=PMID:27708256	
+P41227	UniProtKB	Modified residue	182	182	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:20068231,PMID:21406692,PMID:23186163	
+P41227	UniProtKB	Modified residue	186	186	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+P41227	UniProtKB	Modified residue	205	205	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163	
+P41227	UniProtKB	Modified residue	209	209	.	.	.	Note=Phosphoserine%3B by IKKB;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19716809;Dbxref=PMID:19716809	
+P41227	UniProtKB	Modified residue	213	213	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P41227	UniProtKB	Modified residue	216	216	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+P41227	UniProtKB	Alternative sequence	114	128	.	.	.	ID=VSP_046205;Note=In isoform 2. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P41227	UniProtKB	Alternative sequence	129	129	.	.	.	ID=VSP_046206;Note=In isoform 2. Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P41227	UniProtKB	Natural variant	37	37	.	.	.	ID=VAR_066652;Note=In NATD%3B reduced N-terminal acetyltransferase activity%3B impaired interaction with NAA15 and NAA50%3B does not affect cytoplasmic localization. S->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21700266,ECO:0000269|PubMed:25489052;Dbxref=dbSNP:rs387906701,PMID:21700266,PMID:25489052	
+P41227	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_075206;Note=In NATD%3B decreased protein stability%3B strong decrease in N-terminal acetylation activity in vitro. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26522270;Dbxref=dbSNP:rs863225427,PMID:26522270	
+P41227	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Loss of its ability to acetylate HSPA1A and HSPA1B. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27708256;Dbxref=PMID:27708256	
+P41227	UniProtKB	Mutagenesis	209	209	.	.	.	Note=Abolishes phosphorylation by IKKB and reduces cell growth. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19716809;Dbxref=PMID:19716809	
+P41227	UniProtKB	Beta strand	2	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	8	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	11	21	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	28	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	43	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	52	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	70	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	79	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	86	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	105	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	116	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	129	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Beta strand	144	150	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	
+P41227	UniProtKB	Helix	152	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6C9M	

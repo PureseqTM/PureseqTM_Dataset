@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q16630 1 551
+Q16630	UniProtKB	Chain	1	551	.	.	.	ID=PRO_0000081521;Note=Cleavage and polyadenylation specificity factor subunit 6	
+Q16630	UniProtKB	Domain	81	161	.	.	.	Note=RRM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q16630	UniProtKB	Region	1	213	.	.	.	Note=Necessary for interaction with NXF1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19864460;Dbxref=PMID:19864460	
+Q16630	UniProtKB	Region	81	161	.	.	.	Note=Necessary for interaction with NUDT21/CPSF5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15169763;Dbxref=PMID:15169763	
+Q16630	UniProtKB	Region	81	161	.	.	.	Note=Necessary for nuclear paraspeckles localization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17267687;Dbxref=PMID:17267687	
+Q16630	UniProtKB	Region	404	551	.	.	.	Note=Sufficient for nuclear speckle localization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17267687;Dbxref=PMID:17267687	
+Q16630	UniProtKB	Region	405	551	.	.	.	Note=Necessary for RNA-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15169763;Dbxref=PMID:15169763	
+Q16630	UniProtKB	Region	481	551	.	.	.	Note=Necessary for interaction with SRSF3%2C SRSF7 and TRA2B/SFRS10;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15169763;Dbxref=PMID:15169763	
+Q16630	UniProtKB	Region	490	551	.	.	.	Note=Arg/Ser-rich domain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29276085;Dbxref=PMID:29276085	
+Q16630	UniProtKB	Region	510	551	.	.	.	Note=Sufficient for nuclear targeting;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15169763;Dbxref=PMID:15169763	
+Q16630	UniProtKB	Motif	202	206	.	.	.	Note=GAR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20562214;Dbxref=PMID:20562214	
+Q16630	UniProtKB	Compositional bias	208	398	.	.	.	Note=Pro-rich	
+Q16630	UniProtKB	Compositional bias	490	551	.	.	.	Note=Arg-rich	
+Q16630	UniProtKB	Modified residue	404	404	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:23186163;Dbxref=PMID:18220336,PMID:23186163	
+Q16630	UniProtKB	Modified residue	407	407	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q16630	UniProtKB	Alternative sequence	188	260	.	.	.	ID=VSP_017191;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q16630	UniProtKB	Alternative sequence	231	231	.	.	.	ID=VSP_017192;Note=In isoform 2. P->PGNLIKHLVKGTRPLFLETRIPWHMGHSIEEIPIFGLK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q16630	UniProtKB	Mutagenesis	84	84	.	.	.	Note=Reduces affinity for UGUA RNA by 40%25%3B when associated with A-128. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21295486;Dbxref=PMID:21295486	
+Q16630	UniProtKB	Mutagenesis	86	86	.	.	.	Note=Abolishes interaction with NUDT21/CPSF5%3B when associated with V-87. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15169763;Dbxref=PMID:15169763	
+Q16630	UniProtKB	Mutagenesis	87	87	.	.	.	Note=Abolishes interaction with NUDT21/CPSF5%3B when associated with V-86. N->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15169763;Dbxref=PMID:15169763	
+Q16630	UniProtKB	Mutagenesis	90	91	.	.	.	Note=Reduces affinity for UGUA RNA by 70%25. Strongly reduced affinity for UGUA RNA%3B when associated with A-94. WW->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21295486;Dbxref=PMID:21295486	
+Q16630	UniProtKB	Mutagenesis	94	94	.	.	.	Note=Strongly reduced affinity for UGUA RNA%3B when associated with 90-A-A-91. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21295486;Dbxref=PMID:21295486	
+Q16630	UniProtKB	Mutagenesis	111	111	.	.	.	Note=Reduces affinity for UGUA RNA by 85%25. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21295486;Dbxref=PMID:21295486	
+Q16630	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Increases affinity for UGUA RNA by 40%25. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21295486;Dbxref=PMID:21295486	
+Q16630	UniProtKB	Mutagenesis	128	128	.	.	.	Note=Reduces affinity for UGUA RNA by 40%25%3B when associated with A-84. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21295486;Dbxref=PMID:21295486	
+Q16630	UniProtKB	Mutagenesis	202	202	.	.	.	Note=Decreased methylation in presence of PRMT5/WDR77. Loss of methylation in presence of PRMT5/WDR77 or PRMT1%3B when associated with A-204 and A-206. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20562214;Dbxref=PMID:20562214	
+Q16630	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Decreased methylation in presence of PRMT5/WDR77. Loss of methylation in presence of PRMT5/WDR77 or PRMT1%3B when associated with A-202 and A-206. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20562214;Dbxref=PMID:20562214	
+Q16630	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Loss of methylation in presence of PRMT5/WDR77 or PRMT1. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20562214;Dbxref=PMID:20562214	
+Q16630	UniProtKB	Sequence conflict	9	9	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16630	UniProtKB	Sequence conflict	9	9	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q16630	UniProtKB	Beta strand	84	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Helix	94	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Turn	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Beta strand	112	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Turn	118	120	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Beta strand	123	129	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Helix	134	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Helix	144	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Beta strand	149	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P5T	
+Q16630	UniProtKB	Beta strand	155	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3P6Y	
+Q16630	UniProtKB	Helix	161	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3Q2S	

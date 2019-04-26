@@ -1,0 +1,45 @@
+##gff-version 3
+##sequence-region Q99933 1 345
+Q99933	UniProtKB	Chain	1	345	.	.	.	ID=PRO_0000088865;Note=BAG family molecular chaperone regulator 1	
+Q99933	UniProtKB	Repeat	96	101	.	.	.	Note=1	
+Q99933	UniProtKB	Repeat	102	107	.	.	.	Note=2	
+Q99933	UniProtKB	Repeat	108	113	.	.	.	Note=3	
+Q99933	UniProtKB	Repeat	114	119	.	.	.	Note=4	
+Q99933	UniProtKB	Repeat	120	125	.	.	.	Note=5	
+Q99933	UniProtKB	Repeat	126	131	.	.	.	Note=6	
+Q99933	UniProtKB	Repeat	132	137	.	.	.	Note=7	
+Q99933	UniProtKB	Domain	144	224	.	.	.	Note=Ubiquitin-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00214	
+Q99933	UniProtKB	Domain	246	326	.	.	.	Note=BAG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00369	
+Q99933	UniProtKB	Region	96	137	.	.	.	Note=7 X 6 AA tandem repeat of E-E-X(4)	
+Q99933	UniProtKB	Region	172	219	.	.	.	Note=Interaction with HSPA8	
+Q99933	UniProtKB	Region	216	345	.	.	.	Note=Interaction with PPP1R15A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12724406;Dbxref=PMID:12724406	
+Q99933	UniProtKB	Compositional bias	4	82	.	.	.	Note=Arg-rich	
+Q99933	UniProtKB	Modified residue	223	223	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q99933	UniProtKB	Alternative sequence	1	115	.	.	.	ID=VSP_038394;Note=In isoform 4. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Alternative sequence	1	71	.	.	.	ID=VSP_038395;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Alternative sequence	302	345	.	.	.	ID=VSP_000453;Note=In isoform 2. KDSRLKRKGLVKKVQAFLAECDTVEQNICQETERLQSTNFALAE->PTLTLVLNEK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15986447;Dbxref=PMID:15986447	
+Q99933	UniProtKB	Mutagenesis	308	309	.	.	.	Note=Significant loss of interaction with HSPA8. RK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27474739;Dbxref=PMID:27474739	
+Q99933	UniProtKB	Sequence conflict	45	45	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	45	45	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	45	45	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	45	45	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	79	79	.	.	.	Note=R->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	84	84	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	90	90	.	.	.	Note=E->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	245	245	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Sequence conflict	293	293	.	.	.	Note=D->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99933	UniProtKB	Beta strand	144	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Beta strand	151	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Beta strand	163	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Helix	170	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Turn	185	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Beta strand	189	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Beta strand	195	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Beta strand	200	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Helix	204	207	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Beta strand	211	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1WXV	
+Q99933	UniProtKB	Helix	224	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AQM	
+Q99933	UniProtKB	Beta strand	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AQR	
+Q99933	UniProtKB	Helix	264	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AQM	
+Q99933	UniProtKB	Helix	275	292	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AQM	
+Q99933	UniProtKB	Helix	302	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AQM	

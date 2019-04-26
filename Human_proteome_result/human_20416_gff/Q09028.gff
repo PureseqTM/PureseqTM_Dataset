@@ -1,0 +1,71 @@
+##gff-version 3
+##sequence-region Q09028 1 425
+Q09028	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|Ref.9;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378	
+Q09028	UniProtKB	Chain	2	425	.	.	.	ID=PRO_0000051186;Note=Histone-binding protein RBBP4	
+Q09028	UniProtKB	Repeat	122	155	.	.	.	Note=WD 1	
+Q09028	UniProtKB	Repeat	175	206	.	.	.	Note=WD 2	
+Q09028	UniProtKB	Repeat	225	256	.	.	.	Note=WD 3	
+Q09028	UniProtKB	Repeat	271	302	.	.	.	Note=WD 4	
+Q09028	UniProtKB	Repeat	315	346	.	.	.	Note=WD 5	
+Q09028	UniProtKB	Repeat	372	403	.	.	.	Note=WD 6	
+Q09028	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylalanine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895,ECO:0000244|PubMed:22814378,ECO:0000269|Ref.9;Dbxref=PMID:19413330,PMID:22223895,PMID:22814378	
+Q09028	UniProtKB	Modified residue	4	4	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q09028	UniProtKB	Modified residue	110	110	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:23186163	
+Q09028	UniProtKB	Modified residue	160	160	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q60972	
+Q09028	UniProtKB	Modified residue	355	355	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q09028	UniProtKB	Cross-link	4	4	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q09028	UniProtKB	Cross-link	4	4	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)%3B alternate	
+Q09028	UniProtKB	Cross-link	160	160	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25755297,PMID:28112733	
+Q09028	UniProtKB	Alternative sequence	1	35	.	.	.	ID=VSP_040087;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q09028	UniProtKB	Alternative sequence	7	7	.	.	.	ID=VSP_040088;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q09028	UniProtKB	Alternative sequence	405	425	.	.	.	ID=VSP_040089;Note=In isoform 3. AENIYNDEDPEGSVDPEGQGS->ELVLDH;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q09028	UniProtKB	Sequence conflict	61	61	.	.	.	Note=F->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q09028	UniProtKB	Helix	8	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5Y1U	
+Q09028	UniProtKB	Turn	12	14	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2XU7	
+Q09028	UniProtKB	Helix	16	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	32	39	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	47	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	60	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	73	75	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	77	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	95	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PBY	
+Q09028	UniProtKB	Turn	100	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4PC0	
+Q09028	UniProtKB	Turn	112	114	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G16	
+Q09028	UniProtKB	Beta strand	115	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	128	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	136	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	145	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	149	153	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	170	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	183	185	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	187	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	192	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6G16	
+Q09028	UniProtKB	Beta strand	202	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	207	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GFC	
+Q09028	UniProtKB	Turn	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XXQ	
+Q09028	UniProtKB	Beta strand	216	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	220	223	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	230	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	242	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	250	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	262	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	266	270	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	276	281	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	288	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	296	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	303	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5Y1U	
+Q09028	UniProtKB	Beta strand	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5FXY	
+Q09028	UniProtKB	Beta strand	310	314	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	320	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	332	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	342	346	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	347	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	356	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5XXQ	
+Q09028	UniProtKB	Beta strand	366	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	377	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	384	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	389	394	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Beta strand	397	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	
+Q09028	UniProtKB	Helix	406	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4R7A	

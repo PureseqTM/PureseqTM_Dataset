@@ -1,0 +1,31 @@
+##gff-version 3
+##sequence-region Q8NG08 1 1087
+Q8NG08	UniProtKB	Chain	1	1087	.	.	.	ID=PRO_0000338992;Note=DNA helicase B	
+Q8NG08	UniProtKB	Motif	1055	1078	.	.	.	Note=Nuclear export signal;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Modified residue	967	967	.	.	.	Note=Phosphoserine%3B by CDK2;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:15146062;Dbxref=PMID:23186163,PMID:15146062	
+Q8NG08	UniProtKB	Modified residue	971	971	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6NVF4	
+Q8NG08	UniProtKB	Modified residue	1027	1027	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q8NG08	UniProtKB	Modified residue	1048	1048	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q6NVF4	
+Q8NG08	UniProtKB	Modified residue	1058	1058	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8NG08	UniProtKB	Alternative sequence	562	574	.	.	.	ID=VSP_034086;Note=In isoform 2. NYSFYSWTQTMMT->TLDSYPVLNLVTC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NG08	UniProtKB	Alternative sequence	575	1087	.	.	.	ID=VSP_034087;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8NG08	UniProtKB	Natural variant	172	172	.	.	.	ID=VAR_043855;Note=E->K;Dbxref=dbSNP:rs35605829	
+Q8NG08	UniProtKB	Natural variant	191	191	.	.	.	ID=VAR_043856;Note=L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs4430553,PMID:14702039	
+Q8NG08	UniProtKB	Natural variant	267	267	.	.	.	ID=VAR_043857;Note=L->F;Dbxref=dbSNP:rs35138454	
+Q8NG08	UniProtKB	Natural variant	575	575	.	.	.	ID=VAR_061665;Note=T->A;Dbxref=dbSNP:rs58589183	
+Q8NG08	UniProtKB	Natural variant	966	966	.	.	.	ID=VAR_043858;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs1185244,PMID:14702039	
+Q8NG08	UniProtKB	Natural variant	980	980	.	.	.	ID=VAR_043859;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs1168312,PMID:14702039	
+Q8NG08	UniProtKB	Mutagenesis	481	481	.	.	.	Note=No ATPase activity. K->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12181327,ECO:0000269|PubMed:25617833,ECO:0000269|PubMed:26774285;Dbxref=PMID:12181327,PMID:25617833,PMID:26774285	
+Q8NG08	UniProtKB	Mutagenesis	499	499	.	.	.	Note=Loss of RPA1-binding%2C leading to impaired recruitment to sites of double-strand breaks%3B when associated with A-506 and A-510. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22194613,ECO:0000269|PubMed:26774285;Dbxref=PMID:22194613,PMID:26774285	
+Q8NG08	UniProtKB	Mutagenesis	506	506	.	.	.	Note=Loss of RPA1-binding%2C leading to impaired recruitment to sites of double-strand breaks%3B when associated with A-499 and A-510. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22194613,ECO:0000269|PubMed:26774285;Dbxref=PMID:22194613,PMID:26774285	
+Q8NG08	UniProtKB	Mutagenesis	510	510	.	.	.	Note=Loss of RPA1-binding%2C leading to impaired recruitment to sites of double-strand breaks%3B when associated with A-499 and A-506. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22194613,ECO:0000269|PubMed:26774285;Dbxref=PMID:22194613,PMID:26774285	
+Q8NG08	UniProtKB	Mutagenesis	591	591	.	.	.	Note=No ATPase activity. E->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12181327,ECO:0000269|PubMed:25617833,ECO:0000269|PubMed:26774285;Dbxref=PMID:12181327,PMID:25617833,PMID:26774285	
+Q8NG08	UniProtKB	Mutagenesis	967	967	.	.	.	Note=Impaired phosphorylation%2C inducing accumulation in the nucleus. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Mutagenesis	967	967	.	.	.	Note=Phosphomimetic mutant%3B leads to higher localization to the cytoplasm. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Mutagenesis	984	984	.	.	.	Note=Does not affect subcellular location. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Mutagenesis	1005	1005	.	.	.	Note=Does not affect subcellular location. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Mutagenesis	1021	1021	.	.	.	Note=Does not affect subcellular location. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Mutagenesis	1061	1065	.	.	.	Note=Accumulation in the nucleus due to defects in nuclear export. VSSRL->ASSRA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Mutagenesis	1068	1070	.	.	.	Note=Accumulation in the nucleus due to defects in nuclear export. LRL->ARA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15146062;Dbxref=PMID:15146062	
+Q8NG08	UniProtKB	Sequence conflict	366	366	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8NG08	UniProtKB	Sequence conflict	849	849	.	.	.	Note=F->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region P21854 1 359
+P21854	UniProtKB	Chain	1	359	.	.	.	ID=PRO_0000046585;Note=B-cell differentiation antigen CD72	
+P21854	UniProtKB	Topological domain	1	95	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21854	UniProtKB	Transmembrane	96	116	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21854	UniProtKB	Topological domain	117	359	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21854	UniProtKB	Domain	232	352	.	.	.	Note=C-type lectin;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P21854	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphotyrosine%3B by LYN;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P21855	
+P21854	UniProtKB	Modified residue	39	39	.	.	.	Note=Phosphotyrosine%3B by LYN;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P21855	
+P21854	UniProtKB	Glycosylation	136	136	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P21854	UniProtKB	Disulfide bond	233	244	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P21854	UniProtKB	Disulfide bond	261	350	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P21854	UniProtKB	Disulfide bond	325	342	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00040	
+P21854	UniProtKB	Natural variant	234	234	.	.	.	ID=VAR_033729;Note=P->L;Dbxref=dbSNP:rs34791102	

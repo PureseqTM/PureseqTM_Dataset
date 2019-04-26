@@ -1,0 +1,58 @@
+##gff-version 3
+##sequence-region Q15326 1 602
+Q15326	UniProtKB	Chain	1	602	.	.	.	ID=PRO_0000211218;Note=Zinc finger MYND domain-containing protein 11	
+Q15326	UniProtKB	Domain	168	238	.	.	.	Note=Bromo;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00035	
+Q15326	UniProtKB	Domain	280	331	.	.	.	Note=PWWP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00162	
+Q15326	UniProtKB	Zinc finger	100	148	.	.	.	Note=PHD-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00146	
+Q15326	UniProtKB	Zinc finger	563	598	.	.	.	Note=MYND-type;Ontology_term=ECO:0000255,ECO:0000269;evidence=ECO:0000255|PROSITE-ProRule:PRU00134,ECO:0000269|PubMed:26845565;Dbxref=PMID:26845565	
+Q15326	UniProtKB	Region	452	572	.	.	.	Note=Interaction with human adenovirus E1A	
+Q15326	UniProtKB	Motif	394	400	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q15326	UniProtKB	Metal binding	258	258	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4NS5,ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Metal binding	261	261	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4NS5,ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Metal binding	277	277	.	.	.	Note=Zinc;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4NS5,ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Metal binding	281	281	.	.	.	Note=Zinc%3B via tele nitrogen;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4NS5,ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Modified residue	421	421	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q15326	UniProtKB	Cross-link	366	366	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15326	UniProtKB	Cross-link	407	407	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:25772364,PMID:28112733	
+Q15326	UniProtKB	Cross-link	408	408	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15326	UniProtKB	Alternative sequence	93	146	.	.	.	ID=VSP_044482;Note=In isoform 2%2C isoform 4 and isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:16565076;Dbxref=PMID:14702039,PMID:16565076	
+Q15326	UniProtKB	Alternative sequence	173	203	.	.	.	ID=VSP_046246;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15326	UniProtKB	Alternative sequence	233	233	.	.	.	ID=VSP_047209;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q15326	UniProtKB	Alternative sequence	563	602	.	.	.	ID=VSP_044483;Note=In isoform 3%2C isoform 4 and isoform 6. CYNCEEEAMYHCCWNTSYCSIKCQQEHWHAEHKRTCRRKR->VNTSLF;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:16565076;Dbxref=PMID:15489334,PMID:16565076	
+Q15326	UniProtKB	Mutagenesis	258	261	.	.	.	Note=No effect on nuclear location. CKNC->AKNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Abolishes binding to DNA. No effect on nuclear location. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	289	289	.	.	.	Note=Abolishes binding to DNA. No effect on nuclear location. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	291	291	.	.	.	Note=No effect on nuclear location. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	294	294	.	.	.	Note=Abolishes interaction with Histone 3. Diffused distribution in the nucleus. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	310	310	.	.	.	Note=Diffused distribution in the nucleus. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	334	334	.	.	.	Note=Decreases binding to DNA. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	338	339	.	.	.	Note=No effect on interaction with Histone 3. Abolishes binding to DNA. Changes location from nuclear to cytoplasmic. KR->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	344	345	.	.	.	Note=Abolishes binding to DNA. No effect on nuclear location. KK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24675531;Dbxref=PMID:24675531	
+Q15326	UniProtKB	Mutagenesis	562	562	.	.	.	Note=Reduced interaction with PXLXP ligand MGA without affecting interaction with viral human adenovirus early E1A protein. W->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23372760;Dbxref=PMID:23372760	
+Q15326	UniProtKB	Mutagenesis	563	563	.	.	.	Note=Abrogates binding to EZH2. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16565076;Dbxref=PMID:16565076	
+Q15326	UniProtKB	Mutagenesis	567	568	.	.	.	Note=Reduced interaction with PXLXP ligand proteins. EE->KK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23372760;Dbxref=PMID:23372760	
+Q15326	UniProtKB	Mutagenesis	572	572	.	.	.	Note=Decreases interaction with Epstein-Barr virus EBNA2 protein. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26845565;Dbxref=PMID:26845565	
+Q15326	UniProtKB	Mutagenesis	586	586	.	.	.	Note=Highly decreases interaction with Epstein-Barr virus EBNA2 protein. No effect on the inhibition of EBNA2-mediated transcriptional activation. Almost abolishes interaction with Epstein-Barr virus EBNA2 protein and inhibition of EBNA2-mediated transcriptional activation%3B when associated with A-590. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26845565;Dbxref=PMID:26845565	
+Q15326	UniProtKB	Mutagenesis	590	590	.	.	.	Note=Highly decreases interaction with Epstein-Barr virus EBNA2 protein. Almost abolishes interaction with Epstein-Barr virus EBNA2 protein and inhibition of EBNA2-mediated transcriptional activation%3B when associated with A-590. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26845565;Dbxref=PMID:26845565	
+Q15326	UniProtKB	Mutagenesis	599	602	.	.	.	Note=Abolished interaction with PXLXP ligand proteins. RRKR->GGGG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23372760;Dbxref=PMID:23372760	
+Q15326	UniProtKB	Mutagenesis	600	600	.	.	.	Note=Highly decreases interaction with Epstein-Barr virus EBNA2 protein. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26845565;Dbxref=PMID:26845565	
+Q15326	UniProtKB	Helix	157	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	198	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	213	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	236	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	259	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	272	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Beta strand	283	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Beta strand	293	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Beta strand	305	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Beta strand	317	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	322	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Beta strand	325	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	332	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	341	359	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NS5	
+Q15326	UniProtKB	Helix	482	558	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HDA	
+Q15326	UniProtKB	Beta strand	562	566	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HDA	
+Q15326	UniProtKB	Beta strand	572	575	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HDA	
+Q15326	UniProtKB	Beta strand	578	582	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HDA	
+Q15326	UniProtKB	Helix	583	592	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HDA	
+Q15326	UniProtKB	Helix	594	596	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HDA	

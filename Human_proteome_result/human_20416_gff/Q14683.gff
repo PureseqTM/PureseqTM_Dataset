@@ -1,0 +1,51 @@
+##gff-version 3
+##sequence-region Q14683 1 1233
+Q14683	UniProtKB	Chain	1	1233	.	.	.	ID=PRO_0000118989;Note=Structural maintenance of chromosomes protein 1A	
+Q14683	UniProtKB	Domain	515	629	.	.	.	Note=SMC hinge	
+Q14683	UniProtKB	Nucleotide binding	32	39	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14683	UniProtKB	Coiled coil	104	124	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14683	UniProtKB	Coiled coil	163	503	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14683	UniProtKB	Coiled coil	660	935	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14683	UniProtKB	Coiled coil	991	1068	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q14683	UniProtKB	Compositional bias	1128	1163	.	.	.	Note=Ala/Asp-rich (DA-box)	
+Q14683	UniProtKB	Modified residue	358	358	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:17525332;Dbxref=PMID:17525332	
+Q14683	UniProtKB	Modified residue	360	360	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:17525332,PMID:18669648,PMID:20068231,PMID:23186163	
+Q14683	UniProtKB	Modified residue	648	648	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q14683	UniProtKB	Modified residue	713	713	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q14683	UniProtKB	Modified residue	957	957	.	.	.	Note=Phosphoserine%3B by ATM;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:11877377;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:23186163,PMID:11877377	
+Q14683	UniProtKB	Modified residue	962	962	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q14683	UniProtKB	Modified residue	966	966	.	.	.	Note=Phosphoserine%3B by ATM and ATR;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:17525332,ECO:0000244|PubMed:20068231,ECO:0000269|PubMed:11877377,ECO:0000269|PubMed:14657349,ECO:0000269|PubMed:22977523;Dbxref=PMID:17525332,PMID:20068231,PMID:11877377,PMID:14657349,PMID:22977523	
+Q14683	UniProtKB	Modified residue	970	970	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q14683	UniProtKB	Modified residue	1037	1037	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CU62	
+Q14683	UniProtKB	Natural variant	28	28	.	.	.	ID=VAR_052438;Note=T->P;Dbxref=dbSNP:rs34530151	
+Q14683	UniProtKB	Natural variant	58	62	.	.	.	ID=VAR_062785;Note=In CDLS2. Missing;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:19701948,ECO:0000269|PubMed:24124034;Dbxref=PMID:17273969,PMID:19701948,PMID:24124034	
+Q14683	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_062786;Note=In CDLS2. F->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:19701948;Dbxref=PMID:17273969,PMID:19701948	
+Q14683	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_062787;Note=In CDLS2. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=dbSNP:rs587784420,PMID:19701948	
+Q14683	UniProtKB	Natural variant	196	196	.	.	.	ID=VAR_062788;Note=In CDLS2. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17221863,ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:19701948,ECO:0000269|PubMed:20358602;Dbxref=PMID:17221863,PMID:17273969,PMID:19701948,PMID:20358602	
+Q14683	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_062789;Note=In CDLS2. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19701948,ECO:0000269|PubMed:20358602;Dbxref=PMID:19701948,PMID:20358602	
+Q14683	UniProtKB	Natural variant	306	306	.	.	.	ID=VAR_062790;Note=In CDLS2. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=PMID:19701948	
+Q14683	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_078274;Note=In CDLS2. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24124034;Dbxref=PMID:24124034	
+Q14683	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_062791;Note=In CDLS2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=dbSNP:rs587784403,PMID:19701948	
+Q14683	UniProtKB	Natural variant	493	493	.	.	.	ID=VAR_026529;Note=In CDLS2%3B affects the affinity of SMC hinge dimers for DNA%3B mutated hinge dimers bind DNA with higher affinity than wild-type proteins. E->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16604071,ECO:0000269|PubMed:18996922;Dbxref=dbSNP:rs122454122,PMID:16604071,PMID:18996922	
+Q14683	UniProtKB	Natural variant	496	496	.	.	.	ID=VAR_062792;Note=In CDLS2%3B affects the affinity of SMC hinge dimers for DNA%3B mutated hinge dimers bind DNA with higher affinity than wild-type proteins. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:18996922,ECO:0000269|PubMed:19701948;Dbxref=PMID:17273969,PMID:18996922,PMID:19701948	
+Q14683	UniProtKB	Natural variant	496	496	.	.	.	ID=VAR_062793;Note=In CDLS2%3B affects the affinity of SMC hinge dimers for DNA%3B mutated hinge dimers bind DNA with higher affinity than wild-type proteins. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:18996922,ECO:0000269|PubMed:19701948;Dbxref=dbSNP:rs122454123,PMID:17273969,PMID:18996922,PMID:19701948	
+Q14683	UniProtKB	Natural variant	651	651	.	.	.	ID=VAR_078275;Note=In CDLS2%3B unknown pathological significance. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24124034;Dbxref=PMID:24124034	
+Q14683	UniProtKB	Natural variant	683	683	.	.	.	ID=VAR_062794;Note=In CDLS2. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=PMID:19701948	
+Q14683	UniProtKB	Natural variant	693	693	.	.	.	ID=VAR_062795;Note=In CDLS2. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=PMID:19701948	
+Q14683	UniProtKB	Natural variant	693	693	.	.	.	ID=VAR_078276;Note=In CDLS2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24124034;Dbxref=dbSNP:rs587784408,PMID:24124034	
+Q14683	UniProtKB	Natural variant	711	711	.	.	.	ID=VAR_064542;Note=In CDLS2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20358602;Dbxref=dbSNP:rs782176647,PMID:20358602	
+Q14683	UniProtKB	Natural variant	711	711	.	.	.	ID=VAR_062796;Note=In CDLS2. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:19701948;Dbxref=dbSNP:rs587784409,PMID:17273969,PMID:19701948	
+Q14683	UniProtKB	Natural variant	781	781	.	.	.	ID=VAR_062797;Note=In CDLS2. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=PMID:19701948	
+Q14683	UniProtKB	Natural variant	784	784	.	.	.	ID=VAR_064543;Note=In CDLS2. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20635401,ECO:0000269|PubMed:24124034;Dbxref=dbSNP:rs387906702,PMID:20635401,PMID:24124034	
+Q14683	UniProtKB	Natural variant	790	790	.	.	.	ID=VAR_062798;Note=In CDLS2. R->Q;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:19701948,ECO:0000269|PubMed:24124034;Dbxref=dbSNP:rs797045993,PMID:17273969,PMID:19701948,PMID:24124034	
+Q14683	UniProtKB	Natural variant	816	816	.	.	.	ID=VAR_062799;Note=In CDLS2. R->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=PMID:19701948	
+Q14683	UniProtKB	Natural variant	832	832	.	.	.	ID=VAR_026530;Note=In CDLS2. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16604071;Dbxref=PMID:16604071	
+Q14683	UniProtKB	Natural variant	1049	1049	.	.	.	ID=VAR_062800;Note=In CDLS2. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=dbSNP:rs587784416,PMID:19701948	
+Q14683	UniProtKB	Natural variant	1085	1085	.	.	.	ID=VAR_062801;Note=In CDLS2. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17221863;Dbxref=dbSNP:rs587784418,PMID:17221863	
+Q14683	UniProtKB	Natural variant	1122	1122	.	.	.	ID=VAR_062802;Note=In CDLS2. F->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17273969,ECO:0000269|PubMed:19701948;Dbxref=PMID:17273969,PMID:19701948	
+Q14683	UniProtKB	Natural variant	1123	1123	.	.	.	ID=VAR_062803;Note=In CDLS2. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19701948;Dbxref=PMID:19701948	
+Q14683	UniProtKB	Natural variant	1166	1166	.	.	.	ID=VAR_078277;Note=In CDLS2%3B unknown pathological significance. N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24124034;Dbxref=PMID:24124034	
+Q14683	UniProtKB	Natural variant	1189	1189	.	.	.	ID=VAR_078278;Note=In CDLS2%3B unknown pathological significance. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24124034;Dbxref=PMID:24124034	
+Q14683	UniProtKB	Mutagenesis	957	957	.	.	.	Note=Reduces phosphorylation and the S-phase checkpoint activation. Abolishes S-phase activation%3B when associated with A-966. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11877377;Dbxref=PMID:11877377	
+Q14683	UniProtKB	Mutagenesis	966	966	.	.	.	Note=Reduces phosphorylation and the S-phase checkpoint activation. Increases sensitivity to DNA methylation. Abolishes S-phase activation%3B when associated with A-957. S->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11877377,ECO:0000269|PubMed:14657349;Dbxref=PMID:11877377,PMID:14657349	
+Q14683	UniProtKB	Sequence conflict	163	164	.	.	.	Note=EL->DV;Ontology_term=ECO:0000305;evidence=ECO:0000305	

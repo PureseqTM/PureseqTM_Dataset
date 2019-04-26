@@ -1,0 +1,82 @@
+##gff-version 3
+##sequence-region P48061 1 93
+P48061	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P48061	UniProtKB	Chain	22	93	.	.	.	ID=PRO_0000005109;Note=Stromal cell-derived factor 1	
+P48061	UniProtKB	Chain	24	93	.	.	.	ID=PRO_0000005110;Note=SDF-1-beta(3-72)	
+P48061	UniProtKB	Chain	24	88	.	.	.	ID=PRO_0000005111;Note=SDF-1-alpha(3-67)	
+P48061	UniProtKB	Region	29	33	.	.	.	Note=Receptor and heparin binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P48061	UniProtKB	Region	39	41	.	.	.	Note=Receptor binding	
+P48061	UniProtKB	Region	41	51	.	.	.	Note=Heparin binding	
+P48061	UniProtKB	Region	48	50	.	.	.	Note=Receptor binding	
+P48061	UniProtKB	Region	60	70	.	.	.	Note=Receptor binding	
+P48061	UniProtKB	Motif	22	23	.	.	.	Note=Receptor activation motif	
+P48061	UniProtKB	Binding site	62	62	.	.	.	Note=Heparin	
+P48061	UniProtKB	Binding site	69	69	.	.	.	Note=Heparin	
+P48061	UniProtKB	Binding site	85	85	.	.	.	Note=Heparin	
+P48061	UniProtKB	Site	45	45	.	.	.	Note=Important for integrin interaction and activation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29301984;Dbxref=PMID:29301984	
+P48061	UniProtKB	Site	46	46	.	.	.	Note=Important for dimer formation	
+P48061	UniProtKB	Site	48	48	.	.	.	Note=Important for integrin interaction and activation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29301984;Dbxref=PMID:29301984	
+P48061	UniProtKB	Site	64	64	.	.	.	Note=Important for integrin interaction and activation;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29301984;Dbxref=PMID:29301984	
+P48061	UniProtKB	Disulfide bond	30	55	.	.	.	.	
+P48061	UniProtKB	Disulfide bond	32	71	.	.	.	.	
+P48061	UniProtKB	Alternative sequence	39	93	.	.	.	ID=VSP_054781;Note=In isoform 7. VARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNKRFKM->YCTCLIRVSFHGATPLTQGSWVLYSLSCAGGETGLREPGPMVSPRVESHQEGRLGVPGPVNLGKA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16344560;Dbxref=PMID:16344560	
+P48061	UniProtKB	Alternative sequence	89	93	.	.	.	ID=VSP_042118;Note=In isoform Delta. KRFKM->NLISAAPAGKRVIAGARALHPSPPRACPTARALCEIRLWPPPEWSWPSPGDV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16626895;Dbxref=PMID:16626895	
+P48061	UniProtKB	Alternative sequence	89	93	.	.	.	ID=VSP_042119;Note=In isoform Epsilon. KRFKM->NC;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16626895;Dbxref=PMID:16626895	
+P48061	UniProtKB	Alternative sequence	90	93	.	.	.	ID=VSP_001056;Note=In isoform Alpha. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:7490086,ECO:0000303|Ref.4,ECO:0000303|Ref.6,ECO:0000303|Ref.7;Dbxref=PMID:14702039,PMID:15489334,PMID:7490086	
+P48061	UniProtKB	Alternative sequence	90	93	.	.	.	ID=VSP_041209;Note=In isoform Gamma. RFKM->GRREEKVGKKEKIGKKKRQKKRKAAQKRKN;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:16626895,ECO:0000303|Ref.5;Dbxref=PMID:16626895	
+P48061	UniProtKB	Alternative sequence	90	93	.	.	.	ID=VSP_042120;Note=In isoform Theta. RFKM->IWLYGNAETSR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16626895;Dbxref=PMID:16626895	
+P48061	UniProtKB	Mutagenesis	22	23	.	.	.	Note=Abolished CXCR4 activation ability%2C but only slightly impaired binding to the receptor. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9384579;Dbxref=PMID:9384579	
+P48061	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Loss of chemotactic activity. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17357154,ECO:0000269|PubMed:9384579;Dbxref=PMID:17357154,PMID:9384579	
+P48061	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Abolished CXCR4 activation ability%2C but only slightly impaired binding to the receptor. K->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17357154,ECO:0000269|PubMed:9384579;Dbxref=PMID:17357154,PMID:9384579	
+P48061	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Abolished CXCR4 activation ability%2C but only slightly impaired binding to the receptor. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17357154,ECO:0000269|PubMed:9384579;Dbxref=PMID:17357154,PMID:9384579	
+P48061	UniProtKB	Mutagenesis	23	23	.	.	.	Note=Abolished CXCR4 activation ability%2C but only slightly impaired binding to the receptor. P->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9384579;Dbxref=PMID:9384579	
+P48061	UniProtKB	Mutagenesis	25	27	.	.	.	Note=Significantly impaired CXCR4 activation ability%2C but only slightly impaired binding to the receptor. SLS->AQA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9384579;Dbxref=PMID:9384579	
+P48061	UniProtKB	Mutagenesis	28	28	.	.	.	Note=Impaired CXCR4 activation ability%2C but only slightly impaired binding to the receptor. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9384579;Dbxref=PMID:9384579	
+P48061	UniProtKB	Mutagenesis	28	28	.	.	.	Note=No significant effect on CXCR4 binding or activation. Y->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9384579;Dbxref=PMID:9384579	
+P48061	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Slightly impaired binding and activation of CXCR4. R->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:9384579;Dbxref=PMID:17264079,PMID:9384579	
+P48061	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Greatly impaired chemotactic activity and enhanced inhibition by heparin. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:9384579;Dbxref=PMID:17264079,PMID:9384579	
+P48061	UniProtKB	Mutagenesis	33	38	.	.	.	Note=Significantly decreased chemotactic activity. RFFESH->AAAAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954912;Dbxref=PMID:10954912	
+P48061	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Significantly decreased anti-HIV-1 and chemotactic activities. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10954912,ECO:0000269|PubMed:17264079;Dbxref=PMID:10954912,PMID:17264079	
+P48061	UniProtKB	Mutagenesis	33	33	.	.	.	Note=Slightly impaired chemotactic activity and enhanced inhibition by heparin. Greatly impaired chemotactic activity%3B when associated with Q-29. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10954912,ECO:0000269|PubMed:17264079;Dbxref=PMID:10954912,PMID:17264079	
+P48061	UniProtKB	Mutagenesis	34	34	.	.	.	Note=No effect on anti-HIV-1 and chemotactic activities. Slightly impaired chemotactic activity and no effect on inhibition by heparin%3B when associated with A-35. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954912;Dbxref=PMID:10954912	
+P48061	UniProtKB	Mutagenesis	35	35	.	.	.	Note=No effect on anti-HIV-1 and chemotactic activities. Slightly impaired chemotactic activity and no effect on inhibition by heparin%3B when associated with A-34. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954912;Dbxref=PMID:10954912	
+P48061	UniProtKB	Mutagenesis	36	38	.	.	.	Note=Slightly impaired chemotactic activity%2C no effect on inhibition by heparin. ESH->QSN;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17264079;Dbxref=PMID:17264079	
+P48061	UniProtKB	Mutagenesis	36	36	.	.	.	Note=No effect on anti-HIV-1 and chemotactic activities. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954912;Dbxref=PMID:10954912	
+P48061	UniProtKB	Mutagenesis	37	37	.	.	.	Note=No effect on anti-HIV-1 and chemotactic activities. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954912;Dbxref=PMID:10954912	
+P48061	UniProtKB	Mutagenesis	38	38	.	.	.	Note=No effect on anti-HIV-1 and chemotactic activities. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10954912;Dbxref=PMID:10954912	
+P48061	UniProtKB	Mutagenesis	41	41	.	.	.	Note=No effect on CXCR4 activation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18799424;Dbxref=PMID:18799424	
+P48061	UniProtKB	Mutagenesis	45	48	.	.	.	Note=Loss of heparin-binding capacity. KHLK->SSLS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10446158;Dbxref=PMID:10446158	
+P48061	UniProtKB	Mutagenesis	45	45	.	.	.	Note=Loss of integrin activation%3B when associated with E-48 or E-64. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29301984;Dbxref=PMID:29301984	
+P48061	UniProtKB	Mutagenesis	46	46	.	.	.	Note=Reduced dimerization in neutral pH. Eliminates the pH dependence of dimerization. H->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15741341,ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:15741341,PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	46	46	.	.	.	Note=No significant effect on dimerization in neutral pH. Eliminates the pH dependence of dimerization. H->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15741341,ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:15741341,PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	46	46	.	.	.	Note=Slightly impaired CXCR4 activation and clear resistance to inhibition by heparin%3B when associated with Q-48%3B Q-62%3B Q-68 and N-69. H->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15741341,ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:15741341,PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	46	46	.	.	.	Note=No effect on CXCR4 activation. Impaired dimer formation%2C leading to increased chemotactic activity. Eliminates the pH dependence of dimerization. H->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15741341,ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:15741341,PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Impaired CXCR4 activation. K->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Impaired CXCR4 activation. Loss of integrin activation%3B when associated with E-45 or E-64. K->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424,ECO:0000269|PubMed:29301984;Dbxref=PMID:17264079,PMID:18799424,PMID:29301984	
+P48061	UniProtKB	Mutagenesis	48	48	.	.	.	Note=Slightly impaired CXCR4 activation and clear resistance to inhibition by heparin%3B when associated with N-46%3B Q-62%3B Q-68 and N-69. K->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	52	56	.	.	.	Note=Slightly impaired chemotactic activity%2C no effect on inhibition by heparin. TPNCA->GPGCG;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17264079;Dbxref=PMID:17264079	
+P48061	UniProtKB	Mutagenesis	57	57	.	.	.	Note=Formation of an intermolecular disulfide bond%2C leading to a locked dimer%3B when associated with C-86. No effect on CXCR4 activation%2C but loss of chemotactic activity%3B when associated with C-86. L->C	
+P48061	UniProtKB	Mutagenesis	60	60	.	.	.	Note=Impaired CXCR4 activation. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18799424;Dbxref=PMID:18799424	
+P48061	UniProtKB	Mutagenesis	62	62	.	.	.	Note=No effect on CXCR4 activation. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	62	62	.	.	.	Note=Slightly impaired CXCR4 activation and clear resistance to inhibition by heparin%3B when associated with N-46%3B Q-48%3B Q-68 and N-69. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Loss of integrin activation%3B when associated with E-45 or E-48. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29301984;Dbxref=PMID:29301984	
+P48061	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Impaired CXCR4 activation. R->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Greatly impaired CXCR4 activation. R->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	68	68	.	.	.	Note=Slightly impaired CXCR4 activation and clear resistance to inhibition by heparin%3B when associated with N-46%3B Q-48%3B Q-62 and N-69. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17264079,ECO:0000269|PubMed:18799424;Dbxref=PMID:17264079,PMID:18799424	
+P48061	UniProtKB	Mutagenesis	69	69	.	.	.	Note=Slightly impaired CXCR4 activation and clear resistance to inhibition by heparin%3B when associated with N-46%3B Q-48%3B Q-62 and Q-68. Q->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17264079;Dbxref=PMID:17264079	
+P48061	UniProtKB	Mutagenesis	70	70	.	.	.	Note=Impaired CXCR4 activation. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18799424;Dbxref=PMID:18799424	
+P48061	UniProtKB	Mutagenesis	81	81	.	.	.	Note=No effect on CXCR4 activation. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18799424;Dbxref=PMID:18799424	
+P48061	UniProtKB	Mutagenesis	84	84	.	.	.	Note=No effect on CXCR4 activation. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18799424;Dbxref=PMID:18799424	
+P48061	UniProtKB	Mutagenesis	85	85	.	.	.	Note=No effect on CXCR4 activation. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18799424;Dbxref=PMID:18799424	
+P48061	UniProtKB	Mutagenesis	86	86	.	.	.	Note=Formation of an intermolecular disulfide bond%2C leading to a locked dimer%3B when associated with C-57. No effect on CXCR4 activation%2C but loss of chemotactic activity%3B when associated with C-57. A->C	
+P48061	UniProtKB	Helix	24	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4UAI	
+P48061	UniProtKB	Beta strand	27	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2K01	
+P48061	UniProtKB	Beta strand	31	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3HP3	
+P48061	UniProtKB	Beta strand	36	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1VMC	
+P48061	UniProtKB	Helix	41	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GV3	
+P48061	UniProtKB	Beta strand	44	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GV3	
+P48061	UniProtKB	Turn	53	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1QG7	
+P48061	UniProtKB	Beta strand	59	63	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GV3	
+P48061	UniProtKB	Turn	64	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GV3	
+P48061	UniProtKB	Beta strand	69	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GV3	
+P48061	UniProtKB	Helix	79	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3GV3	

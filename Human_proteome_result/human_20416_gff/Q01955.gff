@@ -1,0 +1,89 @@
+##gff-version 3
+##sequence-region Q01955 1 1670
+Q01955	UniProtKB	Signal peptide	1	28	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Chain	29	1670	.	.	.	ID=PRO_0000005844;Note=Collagen alpha-3(IV) chain	
+Q01955	UniProtKB	Chain	1426	1670	.	.	.	ID=PRO_0000279684;Note=Tumstatin	
+Q01955	UniProtKB	Domain	1445	1669	.	.	.	Note=Collagen IV NC1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Region	29	42	.	.	.	Note=7S domain	
+Q01955	UniProtKB	Region	43	1438	.	.	.	Note=Triple-helical region	
+Q01955	UniProtKB	Region	1427	1444	.	.	.	Note=Epitope recognized by Goodpasture antibodies	
+Q01955	UniProtKB	Region	1479	1557	.	.	.	Note=Required for the anti-angiogenic activity of tumstatin	
+Q01955	UniProtKB	Region	1610	1628	.	.	.	Note=Required for the anti-tumor cell activity of tumstatin	
+Q01955	UniProtKB	Motif	791	793	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Motif	996	998	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Motif	1154	1156	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Motif	1306	1308	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Motif	1345	1347	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Motif	1432	1434	.	.	.	Note=Cell attachment site;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Site	1426	1427	.	.	.	Note=Cleavage%3B by collagenase;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01955	UniProtKB	Glycosylation	253	253	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q01955	UniProtKB	Disulfide bond	1460	1551	.	.	.	Note=Or C-1460 with C-1548;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Disulfide bond	1493	1548	.	.	.	Note=Or C-1493 with C-1551;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Disulfide bond	1505	1511	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Disulfide bond	1570	1665	.	.	.	Note=Or C-1570 with C-1662;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Disulfide bond	1604	1662	.	.	.	Note=Or C-1604 with C-1665;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Disulfide bond	1616	1622	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00736	
+Q01955	UniProtKB	Cross-link	1533	1533	.	.	.	Note=S-Lysyl-methionine sulfilimine (Met-Lys) (interchain with K-1651);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01955	UniProtKB	Cross-link	1651	1651	.	.	.	Note=S-Lysyl-methionine sulfilimine (Lys-Met) (interchain with M-1533);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q01955	UniProtKB	Alternative sequence	1418	1424	.	.	.	ID=VSP_023498;Note=In isoform 5. GPAGSDG->ESLFHQL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7758473;Dbxref=PMID:7758473	
+Q01955	UniProtKB	Alternative sequence	1425	1670	.	.	.	ID=VSP_023499;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7758473;Dbxref=PMID:7758473	
+Q01955	UniProtKB	Alternative sequence	1488	1670	.	.	.	ID=VSP_001171;Note=In isoform 3. GTLGSCLQRFTTMPFLFCNVNDVCNFASRNDYSYWLSTPALMPMNMAPITGRALEPYISRCTVCEGPAIAIAVHSQTTDIPPCPHGWISLWKGFSFIMFTSAGSEGTGQALASPGSCLEEFRASPFLECHGRGTCNYYSNSYSFWLASLNPERMFRKPIPSTVKAGELEKIISRCQVCMKKRH->DALFVKVLRSP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:7758473,ECO:0000303|PubMed:8294492;Dbxref=PMID:7758473,PMID:8294492	
+Q01955	UniProtKB	Alternative sequence	1488	1670	.	.	.	ID=VSP_023500;Note=In isoform 4. GTLGSCLQRFTTMPFLFCNVNDVCNFASRNDYSYWLSTPALMPMNMAPITGRALEPYISRCTVCEGPAIAIAVHSQTTDIPPCPHGWISLWKGFSFIMFTSAGSEGTGQALASPGSCLEEFRASPFLECHGRGTCNYYSNSYSFWLASLNPERMFRKPIPSTVKAGELEKIISRCQVCMKKRH->ESLFHQL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:7758473;Dbxref=PMID:7758473	
+Q01955	UniProtKB	Alternative sequence	1586	1670	.	.	.	ID=VSP_001170;Note=In isoform 2. FTSAGSEGTGQALASPGSCLEEFRASPFLECHGRGTCNYYSNSYSFWLASLNPERMFRKPIPSTVKAGELEKIISRCQVCMKKRH->KAYSINCESWGIRKNNKSLSGVHEEKTLKLKKTAELVFFILKNKVMTEHAVI;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:7758473,ECO:0000303|PubMed:8294492;Dbxref=PMID:7758473,PMID:8294492	
+Q01955	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_011202;Note=G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs13424243,PMID:11134255	
+Q01955	UniProtKB	Natural variant	141	141	.	.	.	ID=VAR_030944;Note=L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11134255,ECO:0000269|PubMed:8083201;Dbxref=dbSNP:rs10178458,PMID:11134255,PMID:8083201	
+Q01955	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_011203;Note=E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8083201;Dbxref=dbSNP:rs6436669,PMID:8083201	
+Q01955	UniProtKB	Natural variant	297	297	.	.	.	ID=VAR_011204;Note=In APSAR. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=PMID:11134255	
+Q01955	UniProtKB	Natural variant	326	326	.	.	.	ID=VAR_011205;Note=D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs55703767,PMID:11134255	
+Q01955	UniProtKB	Natural variant	407	407	.	.	.	ID=VAR_011206;Note=In APSAR. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=PMID:11134255	
+Q01955	UniProtKB	Natural variant	408	408	.	.	.	ID=VAR_011207;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs34505188,PMID:11134255	
+Q01955	UniProtKB	Natural variant	451	451	.	.	.	ID=VAR_011208;Note=H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs11677877,PMID:11134255	
+Q01955	UniProtKB	Natural variant	532	532	.	.	.	ID=VAR_030945;Note=In APSAR. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954103;Dbxref=dbSNP:rs371405814,PMID:15954103	
+Q01955	UniProtKB	Natural variant	574	574	.	.	.	ID=VAR_011209;Note=P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11134255,ECO:0000269|PubMed:8083201;Dbxref=dbSNP:rs28381984,PMID:11134255,PMID:8083201	
+Q01955	UniProtKB	Natural variant	631	631	.	.	.	ID=VAR_080826;Note=In APSAR%3B unknown pathological significance. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29946535;Dbxref=PMID:29946535	
+Q01955	UniProtKB	Natural variant	640	640	.	.	.	ID=VAR_011210;Note=In APSAR. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs200672668,PMID:11134255	
+Q01955	UniProtKB	Natural variant	739	739	.	.	.	ID=VAR_030946;Note=In APSAR. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954103;Dbxref=dbSNP:rs375040636,PMID:15954103	
+Q01955	UniProtKB	Natural variant	834	834	.	.	.	ID=VAR_061118;Note=K->R;Dbxref=dbSNP:rs56226424	
+Q01955	UniProtKB	Natural variant	853	853	.	.	.	ID=VAR_030947;Note=In APSAR. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954103;Dbxref=dbSNP:rs763726708,PMID:15954103	
+Q01955	UniProtKB	Natural variant	985	985	.	.	.	ID=VAR_030948;Note=In BFH. G->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11961012;Dbxref=dbSNP:rs121912827,PMID:11961012	
+Q01955	UniProtKB	Natural variant	1015	1015	.	.	.	ID=VAR_030949;Note=In BFH. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11961012;Dbxref=dbSNP:rs121912826,PMID:11961012	
+Q01955	UniProtKB	Natural variant	1167	1167	.	.	.	ID=VAR_011211;Note=In APSAD%3B in isolated microhematuria at heterozygosity. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs267606745,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1207	1207	.	.	.	ID=VAR_011212;Note=In APSAR%3B in isolated microhematuria at heterozygosity. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=PMID:11134255	
+Q01955	UniProtKB	Natural variant	1215	1215	.	.	.	ID=VAR_011213;Note=In APSAR%3B unknown pathological significance. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs200443942,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1216	1216	.	.	.	ID=VAR_030950;Note=In APSAR. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15954103;Dbxref=PMID:15954103	
+Q01955	UniProtKB	Natural variant	1269	1269	.	.	.	ID=VAR_011214;Note=D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs57611801,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1277	1277	.	.	.	ID=VAR_011215;Note=In APSAR. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs190598500,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1330	1330	.	.	.	ID=VAR_011216;Note=In APSAR%3B unknown pathological significance. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs767033956,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1334	1334	.	.	.	ID=VAR_011217;Note=In APSAR. G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs375290088,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1347	1347	.	.	.	ID=VAR_011218;Note=In APSAR%3B unknown pathological significance. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11134255;Dbxref=dbSNP:rs73996414,PMID:11134255	
+Q01955	UniProtKB	Natural variant	1474	1474	.	.	.	ID=VAR_001908;Note=L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11134255,ECO:0000269|PubMed:7987301;Dbxref=dbSNP:rs200302125,PMID:11134255,PMID:7987301	
+Q01955	UniProtKB	Natural variant	1495	1495	.	.	.	ID=VAR_001909;Note=Q->R;Dbxref=dbSNP:rs77964815	
+Q01955	UniProtKB	Natural variant	1661	1661	.	.	.	ID=VAR_011219;Note=In APSAR%3B unknown pathological significance. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11134255,ECO:0000269|PubMed:29946535;Dbxref=dbSNP:rs201697532,PMID:11134255,PMID:29946535	
+Q01955	UniProtKB	Sequence conflict	911	911	.	.	.	Note=T->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q01955	UniProtKB	Sequence conflict	1539	1539	.	.	.	Note=R->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q01955	UniProtKB	Sequence conflict	1594	1594	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q01955	UniProtKB	Sequence conflict	1663	1664	.	.	.	Note=QV->HL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q01955	UniProtKB	Beta strand	1446	1451	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1453	1456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1465	1478	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1481	1484	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Helix	1490	1492	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1493	1496	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1502	1505	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1511	1514	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1519	1524	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Helix	1538	1544	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1547	1555	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1557	1561	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1563	1566	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1574	1587	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Helix	1589	1591	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1593	1595	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Helix	1601	1603	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1604	1607	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1613	1617	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1629	1634	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1641	1643	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1648	1650	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Helix	1655	1657	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	
+Q01955	UniProtKB	Beta strand	1661	1667	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5NB0	

@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q9NWY4 1 346
+Q9NWY4	UniProtKB	Chain	1	346	.	.	.	ID=PRO_0000294446;Note=Histone PARylation factor 1	
+Q9NWY4	UniProtKB	Region	242	346	.	.	.	Note=Interaction with PARP1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27067600;Dbxref=PMID:27067600	
+Q9NWY4	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q9NWY4	UniProtKB	Modified residue	19	19	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CFE2	
+Q9NWY4	UniProtKB	Modified residue	97	97	.	.	.	Note=ADP-ribosylserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30257210;Dbxref=PMID:30257210	
+Q9NWY4	UniProtKB	Modified residue	186	186	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9NWY4	UniProtKB	Modified residue	233	233	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9NWY4	UniProtKB	Modified residue	238	238	.	.	.	Note=ADP-ribosyltyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30257210;Dbxref=PMID:30257210	
+Q9NWY4	UniProtKB	Natural variant	174	174	.	.	.	ID=VAR_033183;Note=R->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11230166,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs1047642,PMID:11230166,PMID:14702039,PMID:15489334	
+Q9NWY4	UniProtKB	Natural variant	331	331	.	.	.	ID=VAR_033184;Note=E->D;Dbxref=dbSNP:rs1047706	
+Q9NWY4	UniProtKB	Mutagenesis	238	239	.	.	.	Note=Loss of ability to bind PARP1 and histones. Abolishes PARP1 ability to mediate ADP-ribosylation. YR->AA;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:27067600,ECO:0000269|PubMed:28190768;Dbxref=PMID:27067600,PMID:28190768	
+Q9NWY4	UniProtKB	Mutagenesis	239	239	.	.	.	Note=Decreases PARP1 ability to mediate tyrosine ADP-ribosylation. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:30257210;Dbxref=PMID:30257210	

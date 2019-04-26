@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region P18848 1 351
+P18848	UniProtKB	Chain	1	351	.	.	.	ID=PRO_0000076584;Note=Cyclic AMP-dependent transcription factor ATF-4	
+P18848	UniProtKB	Domain	278	341	.	.	.	Note=bZIP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18848	UniProtKB	Region	280	300	.	.	.	Note=Basic motif;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18848	UniProtKB	Region	305	341	.	.	.	Note=Interaction with GABBR1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P18848	UniProtKB	Region	306	334	.	.	.	Note=Leucine-zipper;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00978	
+P18848	UniProtKB	Coiled coil	280	340	.	.	.	.	
+P18848	UniProtKB	Motif	215	224	.	.	.	Note=BetaTrCP degron motif	
+P18848	UniProtKB	Modified residue	213	213	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06507	
+P18848	UniProtKB	Modified residue	219	219	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06507	
+P18848	UniProtKB	Modified residue	224	224	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06507	
+P18848	UniProtKB	Modified residue	231	231	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06507	
+P18848	UniProtKB	Modified residue	235	235	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06507	
+P18848	UniProtKB	Modified residue	248	248	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q06507	
+P18848	UniProtKB	Cross-link	53	53	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P18848	UniProtKB	Cross-link	259	259	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P18848	UniProtKB	Cross-link	267	267	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:28112733;Dbxref=PMID:25218447,PMID:28112733	
+P18848	UniProtKB	Cross-link	272	272	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P18848	UniProtKB	Natural variant	22	22	.	.	.	ID=VAR_028253;Note=Q->P;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1534408,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:1847461;Dbxref=dbSNP:rs4894,PMID:1534408,PMID:15489334,PMID:1847461	
+P18848	UniProtKB	Natural variant	258	258	.	.	.	ID=VAR_029259;Note=P->A;Dbxref=dbSNP:rs1803323	
+P18848	UniProtKB	Natural variant	322	322	.	.	.	ID=VAR_014768;Note=E->D;Dbxref=dbSNP:rs1803324	
+P18848	UniProtKB	Sequence conflict	284	284	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18848	UniProtKB	Sequence conflict	290	290	.	.	.	Note=T->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18848	UniProtKB	Sequence conflict	329	331	.	.	.	Note=KEI->REK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18848	UniProtKB	Sequence conflict	338	338	.	.	.	Note=I->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P18848	UniProtKB	Helix	288	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1CI6	

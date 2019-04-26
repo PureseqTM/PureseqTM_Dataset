@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P10827 1 490
+P10827	UniProtKB	Chain	1	490	.	.	.	ID=PRO_0000053424;Note=Thyroid hormone receptor alpha	
+P10827	UniProtKB	Domain	163	407	.	.	.	Note=NR LBD;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01189	
+P10827	UniProtKB	DNA binding	53	127	.	.	.	Note=Nuclear receptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10827	UniProtKB	Zinc finger	53	73	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10827	UniProtKB	Zinc finger	91	115	.	.	.	Note=NR C4-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00407	
+P10827	UniProtKB	Region	1	52	.	.	.	Note=Modulating	
+P10827	UniProtKB	Binding site	228	228	.	.	.	Note=Thyroid hormone	
+P10827	UniProtKB	Binding site	277	277	.	.	.	Note=Thyroid hormone%3B via amide nitrogen	
+P10827	UniProtKB	Alternative sequence	371	490	.	.	.	ID=VSP_003621;Note=In isoform Alpha-1. EREVQSSILYKGAAAEGRPGGSLGVHPEGQQLLGMHVVQGPQVRQLEQQLGEAGSLQGPVLQHQSPKSPQQRLLELLHRSGILHARAVCGEDDSSEADSPSSSEEEPEVCEDLAGNAASP->VTDLRMIGACHASRFLHMKVECPTELFPPLFLEVFEDQEV;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:1850510,ECO:0000303|PubMed:2539258;Dbxref=PMID:1850510,PMID:2539258	
+P10827	UniProtKB	Alternative sequence	371	412	.	.	.	ID=VSP_003623;Note=In isoform Alpha-4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.10	
+P10827	UniProtKB	Alternative sequence	371	409	.	.	.	ID=VSP_003622;Note=In isoform Alpha-3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P10827	UniProtKB	Natural variant	263	263	.	.	.	ID=VAR_074559;Note=In CHNG6%3B no effect on T3 binding%3B no effect on thyroid hormone-dependent transcriptional activation. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24969835;Dbxref=PMID:24969835	
+P10827	UniProtKB	Natural variant	359	359	.	.	.	ID=VAR_074560;Note=In CHNG6%3B atypical phenotype%3B weak reduction in transcriptional activation. N->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26037512;Dbxref=PMID:26037512	
+P10827	UniProtKB	Mutagenesis	277	277	.	.	.	Note=No effect on thyroid hormone binding. S->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14673100,ECO:0000269|PubMed:19926848;Dbxref=PMID:14673100,PMID:19926848	
+P10827	UniProtKB	Sequence conflict	37	37	.	.	.	Note=T->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10827	UniProtKB	Sequence conflict	119	119	.	.	.	Note=G->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10827	UniProtKB	Sequence conflict	285	285	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10827	UniProtKB	Sequence conflict	285	285	.	.	.	Note=E->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P10827	UniProtKB	Helix	148	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Turn	152	154	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	162	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Turn	180	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H79	
+P10827	UniProtKB	Turn	186	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Beta strand	189	191	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Beta strand	196	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2H79	
+P10827	UniProtKB	Helix	212	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	237	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	244	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Turn	269	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Beta strand	273	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Turn	277	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Beta strand	280	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	284	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Turn	290	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	294	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	307	309	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	313	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Beta strand	329	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	335	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	
+P10827	UniProtKB	Helix	363	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3ILZ	

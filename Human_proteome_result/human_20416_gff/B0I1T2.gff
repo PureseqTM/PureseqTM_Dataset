@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region B0I1T2 1 1018
+B0I1T2	UniProtKB	Chain	1	1018	.	.	.	ID=PRO_0000340316;Note=Unconventional myosin-Ig	
+B0I1T2	UniProtKB	Peptide	41	49	.	.	.	ID=PRO_0000340317;Note=Minor histocompatibility antigen HA-2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7539551;Dbxref=PMID:7539551	
+B0I1T2	UniProtKB	Domain	9	707	.	.	.	Note=Myosin motor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00782	
+B0I1T2	UniProtKB	Domain	710	739	.	.	.	Note=IQ	
+B0I1T2	UniProtKB	Domain	824	1017	.	.	.	Note=TH1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01093	
+B0I1T2	UniProtKB	Nucleotide binding	102	109	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+B0I1T2	UniProtKB	Region	584	606	.	.	.	Note=Actin-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00782	
+B0I1T2	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25944712;Dbxref=PMID:25944712	
+B0I1T2	UniProtKB	Alternative sequence	207	230	.	.	.	ID=VSP_034208;Note=In isoform 2. LLRGSEDKQLHELHLERNPAVYNF->VSPEGKGRWKNGVGKGRAASWTSL;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+B0I1T2	UniProtKB	Alternative sequence	231	1018	.	.	.	ID=VSP_034209;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+B0I1T2	UniProtKB	Alternative sequence	526	1018	.	.	.	ID=VSP_034210;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+B0I1T2	UniProtKB	Alternative sequence	652	722	.	.	.	ID=VSP_034211;Note=In isoform 4. KMTCEYTWPNHLLGSDKAAVSALLEQHGLQGDVAFGHSKLFIRSPRTLVTLEQSRARLIPIIVLLLQKAWR->WHLTPITPWAIVPVWSPRGRSRGSPNSTSQTSIQAGTSTLLASRHQNIWEDMCVSTCMWGHTGGNMGMRAV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544309;Dbxref=PMID:11544309	
+B0I1T2	UniProtKB	Alternative sequence	723	1018	.	.	.	ID=VSP_034212;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11544309;Dbxref=PMID:11544309	
+B0I1T2	UniProtKB	Natural variant	49	49	.	.	.	ID=VAR_044013;Note=In allele HA-2M%3B the HA-2V allele constitute the HA-2 epitope while HA-2M is not recognized by HA-2 cytotoxic T lymphocytes. V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11544309;Dbxref=dbSNP:rs61739531,PMID:11544309	
+B0I1T2	UniProtKB	Natural variant	489	489	.	.	.	ID=VAR_044014;Note=M->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11544309,ECO:0000269|Ref.1,ECO:0000269|Ref.2;Dbxref=dbSNP:rs3735485,PMID:11544309	
+B0I1T2	UniProtKB	Natural variant	798	798	.	.	.	ID=VAR_050212;Note=R->Q;Dbxref=dbSNP:rs2107737	
+B0I1T2	UniProtKB	Natural variant	861	861	.	.	.	ID=VAR_044015;Note=Q->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|Ref.2;Dbxref=dbSNP:rs7792760,PMID:15489334	
+B0I1T2	UniProtKB	Mutagenesis	815	815	.	.	.	Note=Reduced membrane association. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	826	826	.	.	.	Note=Reduced membrane association. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	876	876	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	880	880	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	883	883	.	.	.	Note=No effect on membrane localization%3B when associated with R-885. K->A	
+B0I1T2	UniProtKB	Mutagenesis	885	885	.	.	.	Note=No effect on membrane localization%3B when associated with K-883. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	898	898	.	.	.	Note=Reduced membrane association. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	903	903	.	.	.	Note=No effect on membrane localization%3B when associated with R-906. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	906	906	.	.	.	Note=No effect on membrane localization%3B when associated with R-903. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	909	909	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	934	934	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	945	945	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	947	947	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Mutagenesis	953	953	.	.	.	Note=No effect on membrane localization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20071333;Dbxref=PMID:20071333	
+B0I1T2	UniProtKB	Sequence conflict	369	369	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+B0I1T2	UniProtKB	Sequence conflict	377	377	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+B0I1T2	UniProtKB	Sequence conflict	377	377	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	

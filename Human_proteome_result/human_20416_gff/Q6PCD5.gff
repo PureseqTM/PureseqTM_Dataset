@@ -1,0 +1,65 @@
+##gff-version 3
+##sequence-region Q6PCD5 1 774
+Q6PCD5	UniProtKB	Chain	1	774	.	.	.	ID=PRO_0000278234;Note=E3 ubiquitin-protein ligase RFWD3	
+Q6PCD5	UniProtKB	Repeat	495	537	.	.	.	Note=WD 1	
+Q6PCD5	UniProtKB	Repeat	539	577	.	.	.	Note=WD 2	
+Q6PCD5	UniProtKB	Repeat	583	628	.	.	.	Note=WD 3	
+Q6PCD5	UniProtKB	Zinc finger	287	331	.	.	.	Note=RING-type%3B degenerate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00175	
+Q6PCD5	UniProtKB	Coiled coil	361	413	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6PCD5	UniProtKB	Modified residue	46	46	.	.	.	Note=Phosphoserine%3B by ATM and ATR;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20173098,ECO:0000269|PubMed:28575657,ECO:0000269|PubMed:28575658;Dbxref=PMID:20173098,PMID:28575657,PMID:28575658	
+Q6PCD5	UniProtKB	Modified residue	63	63	.	.	.	Note=Phosphoserine%3B by ATM and ATR;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20173098,ECO:0000269|PubMed:28575657,ECO:0000269|PubMed:28575658;Dbxref=PMID:20173098,PMID:28575657,PMID:28575658	
+Q6PCD5	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_030700;Note=T->N;Dbxref=dbSNP:rs8058922	
+Q6PCD5	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_030701;Note=R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17854997,PMID:15489334	
+Q6PCD5	UniProtKB	Natural variant	564	564	.	.	.	ID=VAR_030702;Note=I->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.3;Dbxref=dbSNP:rs7193541	
+Q6PCD5	UniProtKB	Natural variant	639	639	.	.	.	ID=VAR_078953;Note=In FANCW%3B abolishes interaction with the RPA complex and subsequent recruitment of the protein at DNA damage sites%3B decreased function in double-strand break repair via homologous recombination. I->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:28575657,ECO:0000269|PubMed:28691929;Dbxref=PMID:28575657,PMID:28691929	
+Q6PCD5	UniProtKB	Natural variant	770	770	.	.	.	ID=VAR_030703;Note=I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17854996,PMID:15489334	
+Q6PCD5	UniProtKB	Mutagenesis	36	38	.	.	.	Note=Decreased interaction with RAD51%3B when associated with 53-A--A-55 and 70-A--A-72. LQP->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575658;Dbxref=PMID:28575658	
+Q6PCD5	UniProtKB	Mutagenesis	46	46	.	.	.	Note=Markedly decreases phosphorylation following ionizing radiation and abolishes ability to stimulate p53/TP53 ubiquitination%3B when associated with A-63. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20173098;Dbxref=PMID:20173098	
+Q6PCD5	UniProtKB	Mutagenesis	53	55	.	.	.	Note=Decreased interaction with RAD51%3B when associated with 36-A--A-38 and 70-A--A-72. LQP->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575658;Dbxref=PMID:28575658	
+Q6PCD5	UniProtKB	Mutagenesis	63	63	.	.	.	Note=Markedly decreases phosphorylation following ionizing radiation and abolishes ability to stimulate p53/TP53 ubiquitination%3B when associated with A-46. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20173098;Dbxref=PMID:20173098	
+Q6PCD5	UniProtKB	Mutagenesis	70	72	.	.	.	Note=Decreased interaction with RAD51%3B when associated with 36-A--A-38 and 53-A--A-55. LQP->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575658;Dbxref=PMID:28575658	
+Q6PCD5	UniProtKB	Mutagenesis	315	315	.	.	.	Note=Abolishes ability to stimulate p53/TP53 ubiquitination. No effect on nuclear localization in response to DNA damage. C->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:20173098,ECO:0000269|PubMed:21558276,ECO:0000269|PubMed:28575657,ECO:0000269|PubMed:28575658;Dbxref=PMID:20173098,PMID:21558276,PMID:28575657,PMID:28575658	
+Q6PCD5	UniProtKB	Mutagenesis	499	499	.	.	.	Note=Does not affect interaction with the RPA complex and subsequent recruitment at DNA damage sites. Q->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+Q6PCD5	UniProtKB	Mutagenesis	518	518	.	.	.	Note=Does not affect interaction with the RPA complex and subsequent recruitment at DNA damage sites. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+Q6PCD5	UniProtKB	Mutagenesis	543	543	.	.	.	Note=Abolishes interaction with the RPA complex and subsequent recruitment at DNA damage sites. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575657;Dbxref=PMID:28575657	
+Q6PCD5	UniProtKB	Sequence conflict	221	221	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6PCD5	UniProtKB	Sequence conflict	552	552	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6PCD5	UniProtKB	Sequence conflict	597	597	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6PCD5	UniProtKB	Sequence conflict	741	741	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6PCD5	UniProtKB	Beta strand	435	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	453	456	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Turn	457	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	461	467	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Turn	470	472	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	475	483	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Turn	484	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	491	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	500	505	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	507	509	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	512	517	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	520	526	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Turn	527	530	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	531	537	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	542	547	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	550	552	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	554	559	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	564	568	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	572	574	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	576	579	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	588	594	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	606	611	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	614	620	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	626	630	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	635	644	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Turn	645	648	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	649	660	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	664	674	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	680	691	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	703	706	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	714	718	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	725	730	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Turn	731	733	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	736	741	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	748	754	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	757	763	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	
+Q6PCD5	UniProtKB	Beta strand	765	774	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6CVZ	

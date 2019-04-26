@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region O60928 1 360
+O60928	UniProtKB	Chain	1	360	.	.	.	ID=PRO_0000154966;Note=Inward rectifier potassium channel 13	
+O60928	UniProtKB	Topological domain	1	53	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Transmembrane	54	78	.	.	.	Note=Helical%3B Name%3DM1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Topological domain	79	105	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Intramembrane	106	117	.	.	.	Note=Helical%3B Pore-forming%3B Name%3DH5;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Intramembrane	118	124	.	.	.	Note=Pore-forming;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Topological domain	125	133	.	.	.	Note=Extracellular;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Transmembrane	134	155	.	.	.	Note=Helical%3B Name%3DM2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Topological domain	156	360	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Motif	119	124	.	.	.	Note=Selectivity filter;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Site	149	149	.	.	.	Note=Role in the control of polyamine-mediated channel gating and in the blocking by intracellular magnesium;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60928	UniProtKB	Modified residue	201	201	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18976636;Dbxref=PMID:18976636	
+O60928	UniProtKB	Modified residue	287	287	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18976636;Dbxref=PMID:18976636	
+O60928	UniProtKB	Alternative sequence	76	94	.	.	.	ID=VSP_042627;Note=In isoform 2. YVLAEMNGDLELDHDAPPE->CFCGEDCPAKKSSFFNSLY;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:18035352;Dbxref=PMID:14702039,PMID:18035352	
+O60928	UniProtKB	Alternative sequence	95	360	.	.	.	ID=VSP_042628;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:18035352;Dbxref=PMID:14702039,PMID:18035352	
+O60928	UniProtKB	Natural variant	117	117	.	.	.	ID=VAR_066488;Note=In LCA16. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21763485;Dbxref=PMID:21763485	
+O60928	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_066489;Note=Found in a patient with autosomal recessive retinitis pigmentosa. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21763485;Dbxref=dbSNP:rs757304681,PMID:21763485	
+O60928	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_043509;Note=In SVD%3B overexpression produces a non-selective cation current that depolarizes transfected cells and increases their fragility. R->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18179896;Dbxref=dbSNP:rs121918542,PMID:18179896	
+O60928	UniProtKB	Natural variant	175	175	.	.	.	ID=VAR_016193;Note=T->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9738472;Dbxref=dbSNP:rs1801251,PMID:15489334,PMID:9738472	
+O60928	UniProtKB	Natural variant	241	241	.	.	.	ID=VAR_066490;Note=In LCA16. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21763485;Dbxref=dbSNP:rs143607153,PMID:21763485	
+O60928	UniProtKB	Natural variant	276	276	.	.	.	ID=VAR_066491;Note=Found in a patient with autosomal recessive retinitis pigmentosa. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21763485;Dbxref=dbSNP:rs374411396,PMID:21763485	
+O60928	UniProtKB	Natural variant	290	290	.	.	.	ID=VAR_043510;Note=P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17853727,PMID:15489334	
+O60928	UniProtKB	Natural variant	309	309	.	.	.	ID=VAR_043511;Note=G->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17857137,PMID:15489334	

@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region O60331 1 668
+O60331	UniProtKB	Chain	1	668	.	.	.	ID=PRO_0000185462;Note=Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma	
+O60331	UniProtKB	Domain	75	443	.	.	.	Note=PIPK;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00781	
+O60331	UniProtKB	Region	641	668	.	.	.	Note=Mediates interaction with TLN2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12422219;Dbxref=PMID:12422219	
+O60331	UniProtKB	Modified residue	265	265	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20668706;Dbxref=PMID:20668706	
+O60331	UniProtKB	Modified residue	268	268	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20668706;Dbxref=PMID:20668706	
+O60331	UniProtKB	Modified residue	459	459	.	.	.	Note=Asymmetric dimethylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O70161	
+O60331	UniProtKB	Modified residue	459	459	.	.	.	Note=Omega-N-methylarginine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O70161	
+O60331	UniProtKB	Modified residue	555	555	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5I6B8	
+O60331	UniProtKB	Modified residue	639	639	.	.	.	Note=Phosphotyrosine%3B by EGFR;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O70161	
+O60331	UniProtKB	Modified residue	649	649	.	.	.	Note=Phosphotyrosine%3B by CSK;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15738269;Dbxref=PMID:15738269	
+O60331	UniProtKB	Modified residue	650	650	.	.	.	Note=Phosphoserine%3B by CDK5%2C MAPK1 and CDK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15738269;Dbxref=PMID:15738269	
+O60331	UniProtKB	Modified residue	662	662	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O70161	
+O60331	UniProtKB	Modified residue	666	666	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5I6B8	
+O60331	UniProtKB	Modified residue	668	668	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q5I6B8	
+O60331	UniProtKB	Alternative sequence	640	668	.	.	.	ID=VSP_042078;Note=In isoform 2. FPTDERSWVYSPLHYSAQAPPASDGESDT->FWRLWGPHAPTWPWRREGRAACLCPYPPHVVTPFPGTGLCASWSPDGTGGLGAMSCCVSVS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19548880;Dbxref=PMID:19548880	
+O60331	UniProtKB	Alternative sequence	641	668	.	.	.	ID=VSP_042080;Note=In isoform 3. PTDERSWVYSPLHYSAQAPPASDGESDT->FTDGRYWIYSPRHRRLRAVTLSASGTVSDRSRPPWGEGAVPLGQQGAAGPRPEAQCLTSVVFQKGFG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:19548880;Dbxref=PMID:19548880	
+O60331	UniProtKB	Alternative sequence	641	668	.	.	.	ID=VSP_042079;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O60331	UniProtKB	Natural variant	253	253	.	.	.	ID=VAR_036996;Note=In LCCS3%3B loss of activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17701898;Dbxref=dbSNP:rs121908315,PMID:17701898	
+O60331	UniProtKB	Mutagenesis	650	650	.	.	.	Note=Abolishes binding to TLN2. Affects localization to focal adhesions. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15738269;Dbxref=PMID:15738269	
+O60331	UniProtKB	Mutagenesis	650	650	.	.	.	Note=Does not affect binding to TLN2 and localization to focal adhesions. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15738269;Dbxref=PMID:15738269	
+O60331	UniProtKB	Sequence conflict	236	236	.	.	.	Note=V->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60331	UniProtKB	Helix	644	646	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3H1Z	

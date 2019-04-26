@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region Q7Z3S7 1 1137
+Q7Z3S7	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Chain	20	1137	.	.	.	ID=PRO_0000304655;Note=Voltage-dependent calcium channel subunit alpha-2/delta-4	
+Q7Z3S7	UniProtKB	Chain	20	991	.	.	.	ID=PRO_0000304656;Note=Voltage-dependent calcium channel subunit alpha-2-4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Chain	992	1137	.	.	.	ID=PRO_0000304657;Note=Voltage-dependent calcium channel subunit delta-4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Topological domain	20	1115	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Transmembrane	1116	1136	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Topological domain	1137	1137	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Domain	291	473	.	.	.	Note=VWFA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00219	
+Q7Z3S7	UniProtKB	Domain	487	580	.	.	.	Note=Cache	
+Q7Z3S7	UniProtKB	Motif	297	301	.	.	.	Note=MIDAS-like motif	
+Q7Z3S7	UniProtKB	Metal binding	297	297	.	.	.	Note=Divalent metal cation;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z3S7	UniProtKB	Metal binding	299	299	.	.	.	Note=Divalent metal cation;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z3S7	UniProtKB	Metal binding	301	301	.	.	.	Note=Divalent metal cation;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z3S7	UniProtKB	Glycosylation	201	201	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Glycosylation	664	664	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7Z3S7	UniProtKB	Disulfide bond	447	1097	.	.	.	Note=Interchain (between alpha-2-4 and delta-4 chains);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7Z3S7	UniProtKB	Alternative sequence	1	855	.	.	.	ID=VSP_044107;Note=In isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q7Z3S7	UniProtKB	Alternative sequence	1	76	.	.	.	ID=VSP_028069;Note=In isoform 4 and isoform 6. MVCGCSALLPLPNPRPTMPATPNFLANPSSSSRWIPLQPMPVAWAFVQKTSALLWLLLLGTSLSPAWGQAKIPLET->MAVALGTRRRDR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12181424;Dbxref=PMID:12181424	
+Q7Z3S7	UniProtKB	Alternative sequence	872	886	.	.	.	ID=VSP_044108;Note=In isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q7Z3S7	UniProtKB	Alternative sequence	908	911	.	.	.	ID=VSP_044109;Note=In isoform 7. TGRF->SDYV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q7Z3S7	UniProtKB	Alternative sequence	912	1137	.	.	.	ID=VSP_044110;Note=In isoform 7. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q7Z3S7	UniProtKB	Alternative sequence	975	1137	.	.	.	ID=VSP_028070;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q7Z3S7	UniProtKB	Alternative sequence	1104	1137	.	.	.	ID=VSP_028071;Note=In isoform 5 and isoform 6. ENAQDCGGASDTSASPPLLLLPVCAWGLLPQLLR->VRVEADRGWAGFSSPNPLCLGLCPCRQEHIGMPMNTPVPVLLGGNIRVYAL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12181424;Dbxref=PMID:12181424	
+Q7Z3S7	UniProtKB	Natural variant	327	327	.	.	.	ID=VAR_035049;Note=I->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12181424,ECO:0000269|PubMed:17974005;Dbxref=dbSNP:rs10735005,PMID:12181424,PMID:17974005	
+Q7Z3S7	UniProtKB	Natural variant	863	863	.	.	.	ID=VAR_035050;Note=R->H;Dbxref=dbSNP:rs36077411	
+Q7Z3S7	UniProtKB	Natural variant	869	869	.	.	.	ID=VAR_035051;Note=T->M;Dbxref=dbSNP:rs35331095	
+Q7Z3S7	UniProtKB	Sequence conflict	368	368	.	.	.	Note=K->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7Z3S7	UniProtKB	Sequence conflict	650	650	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7Z3S7	UniProtKB	Sequence conflict	710	710	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7Z3S7	UniProtKB	Sequence conflict	879	879	.	.	.	Note=C->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q7Z3S7	UniProtKB	Sequence conflict	1034	1034	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	

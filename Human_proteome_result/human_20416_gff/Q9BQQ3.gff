@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q9BQQ3 1 440
+Q9BQQ3	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed	
+Q9BQQ3	UniProtKB	Chain	2	440	.	.	.	ID=PRO_0000087570;Note=Golgi reassembly-stacking protein 1	
+Q9BQQ3	UniProtKB	Domain	15	105	.	.	.	Note=PDZ GRASP-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01212	
+Q9BQQ3	UniProtKB	Domain	111	199	.	.	.	Note=PDZ GRASP-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01212	
+Q9BQQ3	UniProtKB	Region	15	215	.	.	.	Note=GRASP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01214	
+Q9BQQ3	UniProtKB	Region	190	202	.	.	.	Note=Essential for interaction with GOLGA2/GM130;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9BQQ3	UniProtKB	Compositional bias	203	298	.	.	.	Note=Pro-rich	
+Q9BQQ3	UniProtKB	Compositional bias	295	298	.	.	.	Note=Poly-Pro	
+Q9BQQ3	UniProtKB	Compositional bias	348	352	.	.	.	Note=Poly-Ser	
+Q9BQQ3	UniProtKB	Metal binding	18	18	.	.	.	Note=Zinc%3B via pros nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35254	
+Q9BQQ3	UniProtKB	Metal binding	20	20	.	.	.	Note=Zinc%3B via tele nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35254	
+Q9BQQ3	UniProtKB	Metal binding	103	103	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35254	
+Q9BQQ3	UniProtKB	Modified residue	216	216	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332;Dbxref=PMID:18669648,PMID:19369195,PMID:19690332	
+Q9BQQ3	UniProtKB	Modified residue	362	362	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91X51	
+Q9BQQ3	UniProtKB	Modified residue	364	364	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35254	
+Q9BQQ3	UniProtKB	Modified residue	373	373	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q91X51	
+Q9BQQ3	UniProtKB	Lipidation	2	2	.	.	.	Note=N-myristoyl glycine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O35254	
+Q9BQQ3	UniProtKB	Alternative sequence	1	73	.	.	.	ID=VSP_011306;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BQQ3	UniProtKB	Alternative sequence	176	440	.	.	.	ID=VSP_011307;Note=In isoform 2. VTVTPNAAWGGEGSLGCGIGYGYLHRIPTQPPSYHKKPPGTPPPSALPLGAPPPDALPPGPTPEDSPSLETGSRQSDYMEALLQAPGSSMEDPLPGPGSPSHSAPDPDGLPHFMETPLQPPPPVQRVMDPGFLDVSGISLLDNSNASVWPSLPSSTELTTTAVSTSGPEDICSSSSSHERGGEATWSGSEFEVSFLDSPGAQAQADHLPQLTLPDSLTSAASPEDGLSAELLEAQAEEEPASTEGLDTGTEAEGLDSQAQISTTE->SGMWHWLWVSTPDPNSAPQLPQEATWHPTTFCSTTWCPTT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9BQQ3	UniProtKB	Alternative sequence	306	319	.	.	.	ID=VSP_011308;Note=In isoform 3. GFLDVSGISLLDNS->AMPVCGPACPLPQN;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BQQ3	UniProtKB	Alternative sequence	320	440	.	.	.	ID=VSP_011309;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9BQQ3	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_051016;Note=T->M;Dbxref=dbSNP:rs1109643	
+Q9BQQ3	UniProtKB	Sequence conflict	271	271	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9BQQ3	UniProtKB	Beta strand	14	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Helix	27	30	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Turn	35	37	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	38	43	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	50	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Helix	54	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Turn	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	67	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Turn	74	77	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	78	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	90	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	98	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Helix	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	113	118	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Helix	123	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Turn	131	133	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	134	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Helix	149	155	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	161	167	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Turn	168	171	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	172	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	184	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	
+Q9BQQ3	UniProtKB	Beta strand	192	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4REY	

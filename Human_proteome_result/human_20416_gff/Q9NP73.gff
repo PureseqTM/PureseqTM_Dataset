@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q9NP73 1 1137
+Q9NP73	UniProtKB	Chain	1	1137	.	.	.	ID=PRO_0000254573;Note=Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13	
+Q9NP73	UniProtKB	Domain	231	352	.	.	.	Note=OTU;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00139	
+Q9NP73	UniProtKB	Domain	492	552	.	.	.	Note=Tudor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00211	
+Q9NP73	UniProtKB	Region	1	125	.	.	.	Note=Glycosyltransferase activity	
+Q9NP73	UniProtKB	Region	126	400	.	.	.	Note=Deubiquitinase activity	
+Q9NP73	UniProtKB	Compositional bias	887	970	.	.	.	Note=Pro-rich	
+Q9NP73	UniProtKB	Active site	239	239	.	.	.	Note=For deubiquitinase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NP73	UniProtKB	Active site	242	242	.	.	.	Note=Nucleophile%3B for deubiquitinase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NP73	UniProtKB	Active site	345	345	.	.	.	Note=For deubiquitinase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NP73	UniProtKB	Alternative sequence	1	104	.	.	.	ID=VSP_039298;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:14702039,PMID:15489334	
+Q9NP73	UniProtKB	Alternative sequence	1	78	.	.	.	ID=VSP_039299;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NP73	UniProtKB	Alternative sequence	79	81	.	.	.	ID=VSP_039300;Note=In isoform 3. SHA->MFT;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9NP73	UniProtKB	Alternative sequence	128	165	.	.	.	ID=VSP_039301;Note=In isoform 2. RVLTCPGQAKSIASAPGKCQDSAALTSTAFSGLDFGLL->STLPGLLQSMDLSTLKCYPPGQPEKFSAFLDKVVGLQK;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:14702039,PMID:15489334	
+Q9NP73	UniProtKB	Alternative sequence	166	1137	.	.	.	ID=VSP_039302;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.1;Dbxref=PMID:14702039,PMID:15489334	
+Q9NP73	UniProtKB	Alternative sequence	899	977	.	.	.	ID=VSP_039303;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.6;Dbxref=PMID:14702039,PMID:15489334	
+Q9NP73	UniProtKB	Natural variant	94	94	.	.	.	ID=VAR_069218;Note=In EIEE36%3B disease features include abnormal isoelectric focusing of serum transferrin consistent with a glycosylation defect%3B enzyme activity at about 17%25 of wild-type. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22492991;Dbxref=dbSNP:rs867599353,PMID:22492991	
+Q9NP73	UniProtKB	Natural variant	107	107	.	.	.	ID=VAR_069412;Note=In EIEE36%3B de novo mutation detected in unrelated patients. N->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23033978,ECO:0000269|PubMed:23934111,ECO:0000269|PubMed:26138355,ECO:0000269|PubMed:27476654;Dbxref=dbSNP:rs398122394,PMID:23033978,PMID:23934111,PMID:26138355,PMID:27476654	
+Q9NP73	UniProtKB	Sequence conflict	493	493	.	.	.	Note=Y->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	564	564	.	.	.	Note=G->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	588	588	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	624	624	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	658	658	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	746	748	.	.	.	Note=PTL->ATF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	752	752	.	.	.	Note=G->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	866	866	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	926	926	.	.	.	Note=P->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	954	954	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP73	UniProtKB	Sequence conflict	1018	1018	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region Q9Y2W7 1 256
+Q9Y2W7	UniProtKB	Chain	1	256	.	.	.	ID=PRO_0000073814;Note=Calsenilin	
+Q9Y2W7	UniProtKB	Domain	67	123	.	.	.	Note=EF-hand 1%3B degenerate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y2W7	UniProtKB	Domain	126	161	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y2W7	UniProtKB	Domain	162	197	.	.	.	Note=EF-hand 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y2W7	UniProtKB	Domain	210	245	.	.	.	Note=EF-hand 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y2W7	UniProtKB	Calcium binding	175	186	.	.	.	Note=1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y2W7	UniProtKB	Calcium binding	223	234	.	.	.	Note=2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q9Y2W7	UniProtKB	Region	243	256	.	.	.	Note=Interaction with KCND2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y2W7	UniProtKB	Modified residue	14	14	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JM47	
+Q9Y2W7	UniProtKB	Modified residue	60	60	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9QXT8	
+Q9Y2W7	UniProtKB	Modified residue	63	63	.	.	.	Note=Phosphoserine%3B by CK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12837631;Dbxref=PMID:12837631	
+Q9Y2W7	UniProtKB	Lipidation	45	45	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y2W7	UniProtKB	Lipidation	46	46	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9Y2W7	UniProtKB	Cross-link	26	26	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21070824;Dbxref=PMID:21070824	
+Q9Y2W7	UniProtKB	Cross-link	90	90	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21070824;Dbxref=PMID:21070824	
+Q9Y2W7	UniProtKB	Alternative sequence	1	26	.	.	.	ID=VSP_040982;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16112838;Dbxref=PMID:16112838	
+Q9Y2W7	UniProtKB	Alternative sequence	27	60	.	.	.	ID=VSP_040983;Note=In isoform 3. KEGIKWQRPRLSRQALMRCCLVKWILSSTAPQGS->MGIQGMELCAMAVVVLLFIAVLKQFGILEPISME;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16112838;Dbxref=PMID:16112838	
+Q9Y2W7	UniProtKB	Alternative sequence	103	124	.	.	.	ID=VSP_015040;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q9Y2W7	UniProtKB	Natural variant	119	119	.	.	.	ID=VAR_048663;Note=A->V;Dbxref=dbSNP:rs35658670	
+Q9Y2W7	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_035463;Note=In a breast cancer sample%3B somatic mutation. A->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9Y2W7	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_035464;Note=In a breast cancer sample%3B somatic mutation. D->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9Y2W7	UniProtKB	Mutagenesis	61	61	.	.	.	Note=Abolishes cleavage by caspase-3. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278424;Dbxref=PMID:11278424	
+Q9Y2W7	UniProtKB	Mutagenesis	64	64	.	.	.	Note=Abolishes cleavage by caspase-3. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11278424;Dbxref=PMID:11278424	
+Q9Y2W7	UniProtKB	Sequence conflict	182	182	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2W7	UniProtKB	Sequence conflict	182	182	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2W7	UniProtKB	Sequence conflict	207	207	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2W7	UniProtKB	Sequence conflict	207	207	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y2W7	UniProtKB	Helix	164	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Beta strand	179	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Helix	184	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Beta strand	211	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Helix	214	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Beta strand	227	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Helix	232	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	
+Q9Y2W7	UniProtKB	Helix	243	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2E6W	

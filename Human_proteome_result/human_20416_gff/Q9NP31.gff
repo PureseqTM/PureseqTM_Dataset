@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region Q9NP31 1 389
+Q9NP31	UniProtKB	Chain	1	389	.	.	.	ID=PRO_0000097726;Note=SH2 domain-containing protein 2A	
+Q9NP31	UniProtKB	Domain	95	186	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q9NP31	UniProtKB	Motif	244	250	.	.	.	Note=SH3-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP31	UniProtKB	Motif	272	278	.	.	.	Note=SH3-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NP31	UniProtKB	Compositional bias	187	389	.	.	.	Note=Pro-rich	
+Q9NP31	UniProtKB	Modified residue	217	217	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9NP31	UniProtKB	Modified residue	296	296	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9NP31	UniProtKB	Alternative sequence	1	28	.	.	.	ID=VSP_003965;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9468509,ECO:0000303|Ref.4;Dbxref=PMID:9468509	
+Q9NP31	UniProtKB	Alternative sequence	1	21	.	.	.	ID=VSP_046378;Note=In isoform 4. MEFPLAQICPQGSHEAPIPTF->MSP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10752626;Dbxref=PMID:10752626	
+Q9NP31	UniProtKB	Alternative sequence	102	102	.	.	.	ID=VSP_003966;Note=In isoform 1. R->RRVRPPLSVTH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9468509;Dbxref=PMID:9468509	
+Q9NP31	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_024349;Note=N->S;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:15592455,ECO:0000269|PubMed:10692392,ECO:0000269|PubMed:10752626,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:9468509,ECO:0000269|Ref.4;Dbxref=dbSNP:rs926103,PMID:15592455,PMID:10692392,PMID:10752626,PMID:15489334,PMID:9468509	
+Q9NP31	UniProtKB	Natural variant	272	272	.	.	.	ID=VAR_056986;Note=R->C;Dbxref=dbSNP:rs12072861	
+Q9NP31	UniProtKB	Sequence conflict	42	44	.	.	.	Note=ASP->GIS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP31	UniProtKB	Sequence conflict	111	111	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NP31	UniProtKB	Sequence conflict	385	385	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region Q16821 1 1122
+Q16821	UniProtKB	Chain	1	1122	.	.	.	ID=PRO_0000071500;Note=Protein phosphatase 1 regulatory subunit 3A	
+Q16821	UniProtKB	Transmembrane	1078	1098	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q16821	UniProtKB	Domain	122	230	.	.	.	Note=CBM21;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00491	
+Q16821	UniProtKB	Motif	62	65	.	.	.	Note=PP1-binding motif	
+Q16821	UniProtKB	Modified residue	38	38	.	.	.	Note=Phosphoserine%3B by GSK3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00756	
+Q16821	UniProtKB	Modified residue	42	42	.	.	.	Note=Phosphoserine%3B by GSK3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00756	
+Q16821	UniProtKB	Modified residue	46	46	.	.	.	Note=Phosphoserine%3B by PKA and ISPK;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00756	
+Q16821	UniProtKB	Modified residue	49	49	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99MR9	
+Q16821	UniProtKB	Modified residue	56	56	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99MR9	
+Q16821	UniProtKB	Modified residue	65	65	.	.	.	Note=Phosphoserine%3B by PKA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00756	
+Q16821	UniProtKB	Modified residue	844	844	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99MR9	
+Q16821	UniProtKB	Alternative sequence	60	74	.	.	.	ID=VSP_011585;Note=In isoform 2. GTRRVSFADSFGFNL->ERTRAGACKTMERSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9726244;Dbxref=PMID:9726244	
+Q16821	UniProtKB	Alternative sequence	75	1122	.	.	.	ID=VSP_011586;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9726244;Dbxref=PMID:9726244	
+Q16821	UniProtKB	Natural variant	45	45	.	.	.	ID=VAR_027929;Note=G->S;Dbxref=dbSNP:rs8192687	
+Q16821	UniProtKB	Natural variant	231	231	.	.	.	ID=VAR_027930;Note=C->Y;Dbxref=dbSNP:rs7801819	
+Q16821	UniProtKB	Natural variant	451	451	.	.	.	ID=VAR_027931;Note=V->M;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12690205,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7926294,ECO:0000269|PubMed:9726244;Dbxref=dbSNP:rs2974942,PMID:12690205,PMID:15489334,PMID:7926294,PMID:9726244	
+Q16821	UniProtKB	Natural variant	476	476	.	.	.	ID=VAR_027932;Note=N->K;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12690205,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7926294,ECO:0000269|PubMed:9726244;Dbxref=dbSNP:rs2974944,PMID:12690205,PMID:15489334,PMID:7926294,PMID:9726244	
+Q16821	UniProtKB	Natural variant	554	554	.	.	.	ID=VAR_036287;Note=In a breast cancer sample%3B somatic mutation. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q16821	UniProtKB	Natural variant	627	627	.	.	.	ID=VAR_057128;Note=R->K;Dbxref=dbSNP:rs35067467	
+Q16821	UniProtKB	Natural variant	748	748	.	.	.	ID=VAR_027933;Note=E->K;Dbxref=dbSNP:rs4304271	
+Q16821	UniProtKB	Natural variant	882	882	.	.	.	ID=VAR_027934;Note=L->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12690205,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7926294,ECO:0000269|PubMed:9726244;Dbxref=dbSNP:rs2974938,PMID:12690205,PMID:15489334,PMID:7926294,PMID:9726244	
+Q16821	UniProtKB	Natural variant	883	883	.	.	.	ID=VAR_019697;Note=R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9726244;Dbxref=dbSNP:rs1800000,PMID:9726244	
+Q16821	UniProtKB	Natural variant	905	905	.	.	.	ID=VAR_019698;Note=Common polymorphism%3B can be associated with insulin resistance. D->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7581368,ECO:0000269|PubMed:9726244;Dbxref=dbSNP:rs1799999,PMID:7581368,PMID:9726244	
+Q16821	UniProtKB	Natural variant	931	931	.	.	.	ID=VAR_019699;Note=In NIDDM. A->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7926294;Dbxref=dbSNP:rs35449651,PMID:7926294	

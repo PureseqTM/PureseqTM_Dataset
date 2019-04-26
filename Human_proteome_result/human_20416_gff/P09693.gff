@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region P09693 1 182
+P09693	UniProtKB	Signal peptide	1	22	.	.	.	.	
+P09693	UniProtKB	Chain	23	182	.	.	.	ID=PRO_0000014615;Note=T-cell surface glycoprotein CD3 gamma chain	
+P09693	UniProtKB	Topological domain	23	116	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P09693	UniProtKB	Transmembrane	117	137	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P09693	UniProtKB	Topological domain	138	182	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P09693	UniProtKB	Domain	37	94	.	.	.	Note=Ig-like	
+P09693	UniProtKB	Domain	149	177	.	.	.	Note=ITAM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00379	
+P09693	UniProtKB	Motif	153	154	.	.	.	Note=Di-leucine motif;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8187769;Dbxref=PMID:8187769	
+P09693	UniProtKB	Modified residue	145	145	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2540970,ECO:0000269|PubMed:3112151;Dbxref=PMID:2540970,PMID:3112151	
+P09693	UniProtKB	Modified residue	148	148	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2540970,ECO:0000269|PubMed:3112151,ECO:0000269|PubMed:8187769;Dbxref=PMID:2540970,PMID:3112151,PMID:8187769	
+P09693	UniProtKB	Glycosylation	52	52	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8636209;Dbxref=PMID:8636209	
+P09693	UniProtKB	Glycosylation	92	92	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8636209;Dbxref=PMID:8636209	
+P09693	UniProtKB	Disulfide bond	46	87	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15136729;Dbxref=PMID:15136729	
+P09693	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_049854;Note=V->F;Dbxref=dbSNP:rs3753058	
+P09693	UniProtKB	Mutagenesis	153	153	.	.	.	Note=Abolishes lysosomal targeting. L->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1535555,ECO:0000269|PubMed:8187769;Dbxref=PMID:1535555,PMID:8187769	
+P09693	UniProtKB	Mutagenesis	153	153	.	.	.	Note=Diminished but persistent lysosomal targeting. L->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1535555;Dbxref=PMID:1535555	
+P09693	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Abolishes lysosomal targeting. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8187769;Dbxref=PMID:8187769	
+P09693	UniProtKB	Mutagenesis	154	154	.	.	.	Note=Diminished but persistent lysosomal targeting. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1535555;Dbxref=PMID:1535555	
+P09693	UniProtKB	Mutagenesis	154	154	.	.	.	Note=No effect. L->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1535555;Dbxref=PMID:1535555	
+P09693	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Abolishes lysosomal targeting. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1535555;Dbxref=PMID:1535555	
+P09693	UniProtKB	Mutagenesis	163	163	.	.	.	Note=Abolishes lysosomal targeting. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1535555;Dbxref=PMID:1535555	
+P09693	UniProtKB	Turn	26	28	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	31	33	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	38	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	50	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	60	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	72	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Helix	77	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	82	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	
+P09693	UniProtKB	Beta strand	97	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1SY6	

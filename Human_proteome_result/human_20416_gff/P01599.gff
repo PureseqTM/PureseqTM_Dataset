@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region P01599 1 117
+P01599	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:4215718,ECO:0000269|PubMed:6410398;Dbxref=PMID:4215718,PMID:6410398	
+P01599	UniProtKB	Chain	23	117	.	.	.	ID=PRO_0000059743;Note=Immunoglobulin kappa variable 1-17;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:4215718,ECO:0000269|PubMed:6410398;Dbxref=PMID:4215718,PMID:6410398	
+P01599	UniProtKB	Domain	24	117	.	.	.	Note=Ig-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01599	UniProtKB	Region	23	45	.	.	.	Note=Framework-1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01602	
+P01599	UniProtKB	Region	46	56	.	.	.	Note=Complementarity-determining-1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01602	
+P01599	UniProtKB	Region	57	71	.	.	.	Note=Framework-2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01602	
+P01599	UniProtKB	Region	72	78	.	.	.	Note=Complementarity-determining-2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01602	
+P01599	UniProtKB	Region	79	110	.	.	.	Note=Framework-3;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01602	
+P01599	UniProtKB	Region	111	117	.	.	.	Note=Complementarity-determining-2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P01602	
+P01599	UniProtKB	Disulfide bond	45	110	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00114	
+P01599	UniProtKB	Sequence conflict	44	44	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	56	56	.	.	.	Note=G->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	56	56	.	.	.	Note=G->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	64	64	.	.	.	Note=K->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	68	68	.	.	.	Note=R->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	72	74	.	.	.	Note=AAS->GAT;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	75	75	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	89	89	.	.	.	Note=S->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	98	98	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	113	116	.	.	.	Note=HNSY->YSSF;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Sequence conflict	113	113	.	.	.	Note=H->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01599	UniProtKB	Non-terminal residue	117	117	.	.	.	.	

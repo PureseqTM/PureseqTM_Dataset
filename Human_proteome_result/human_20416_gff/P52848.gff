@@ -1,0 +1,56 @@
+##gff-version 3
+##sequence-region P52848 1 882
+P52848	UniProtKB	Chain	1	882	.	.	.	ID=PRO_0000085210;Note=Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1	
+P52848	UniProtKB	Topological domain	1	17	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Transmembrane	18	39	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Topological domain	40	882	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Nucleotide binding	614	618	.	.	.	Note=PAPS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10196134;Dbxref=PMID:10196134	
+P52848	UniProtKB	Nucleotide binding	833	837	.	.	.	Note=PAPS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10196134;Dbxref=PMID:10196134	
+P52848	UniProtKB	Region	40	598	.	.	.	Note=Heparan sulfate N-deacetylase 1	
+P52848	UniProtKB	Region	599	882	.	.	.	Note=Heparan sulfate N-sulfotransferase 1	
+P52848	UniProtKB	Active site	614	614	.	.	.	Note=For sulfotransferase activity	
+P52848	UniProtKB	Binding site	712	712	.	.	.	Note=PAPS;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10196134;Dbxref=PMID:10196134	
+P52848	UniProtKB	Glycosylation	231	231	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Glycosylation	351	351	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Glycosylation	401	401	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Glycosylation	667	667	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P52848	UniProtKB	Disulfide bond	818	828	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10196134;Dbxref=PMID:10196134	
+P52848	UniProtKB	Alternative sequence	523	556	.	.	.	ID=VSP_017397;Note=In isoform 2. ISIFMTHLSNYGNDRLGLYTFKHLVRFLHSWTNL->VSAPQPMAAGEKGLLHSLSAADTGFLEPGKGGEA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P52848	UniProtKB	Alternative sequence	557	882	.	.	.	ID=VSP_017398;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P52848	UniProtKB	Natural variant	611	611	.	.	.	ID=VAR_072646;Note=In MRT46. G->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25125150;Dbxref=dbSNP:rs606231459,PMID:25125150	
+P52848	UniProtKB	Natural variant	640	640	.	.	.	ID=VAR_072647;Note=In MRT46. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25125150;Dbxref=dbSNP:rs606231458,PMID:25125150	
+P52848	UniProtKB	Natural variant	642	642	.	.	.	ID=VAR_072648;Note=In MRT46. E->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25125150;Dbxref=dbSNP:rs606231457,PMID:25125150	
+P52848	UniProtKB	Natural variant	709	709	.	.	.	ID=VAR_072649;Note=In MRT46. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25125150;Dbxref=dbSNP:rs606231456,PMID:25125150	
+P52848	UniProtKB	Mutagenesis	614	614	.	.	.	Note=Loss of sulfotransferase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9744796;Dbxref=PMID:9744796	
+P52848	UniProtKB	Sequence conflict	24	28	.	.	.	Note=FIFCL->QVVCQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52848	UniProtKB	Sequence conflict	60	60	.	.	.	Note=P->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52848	UniProtKB	Sequence conflict	364	364	.	.	.	Note=H->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52848	UniProtKB	Sequence conflict	689	689	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52848	UniProtKB	Sequence conflict	743	743	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52848	UniProtKB	Beta strand	604	609	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	617	625	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	630	632	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Turn	637	639	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	646	648	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	649	653	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	655	659	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	672	676	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	679	682	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	686	693	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	698	703	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	706	719	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	723	727	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	730	734	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	742	752	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	753	755	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	757	765	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	770	772	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	773	777	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	778	783	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	785	796	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	805	807	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	808	811	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Turn	812	815	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Beta strand	816	820	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	842	866	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	
+P52848	UniProtKB	Helix	872	878	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1NST	

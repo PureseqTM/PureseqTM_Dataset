@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region P32456 1 591
+P32456	UniProtKB	Chain	1	588	.	.	.	ID=PRO_0000190964;Note=Guanylate-binding protein 2	
+P32456	UniProtKB	Propeptide	589	591	.	.	.	ID=PRO_0000370782;Note=Removed in mature form;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32456	UniProtKB	Domain	35	276	.	.	.	Note=GB1/RHD3-type G	
+P32456	UniProtKB	Nucleotide binding	45	52	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32456	UniProtKB	Nucleotide binding	67	69	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32456	UniProtKB	Nucleotide binding	97	101	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32456	UniProtKB	Region	1	309	.	.	.	Note=GTPase domain (Globular);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32456	UniProtKB	Modified residue	588	588	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P32456	UniProtKB	Lipidation	588	588	.	.	.	Note=S-geranylgeranyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21151871;Dbxref=PMID:21151871	
+P32456	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_054815;Note=S->P;Dbxref=dbSNP:rs2230336	
+P32456	UniProtKB	Natural variant	285	285	.	.	.	ID=VAR_054816;Note=P->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:1715024,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.5,ECO:0000269|Ref.7;Dbxref=dbSNP:rs1803632,PMID:14702039,PMID:1715024,PMID:17974005	
+P32456	UniProtKB	Natural variant	303	303	.	.	.	ID=VAR_054817;Note=S->G;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:17974005,ECO:0000269|Ref.5,ECO:0000269|Ref.7;Dbxref=dbSNP:rs2230338,PMID:14702039,PMID:17974005	
+P32456	UniProtKB	Mutagenesis	588	591	.	.	.	Note=No effect on subcellular location by confocal microscopy%2C but loss of membrane-association by subcellular fractionation. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21151871;Dbxref=PMID:21151871	
+P32456	UniProtKB	Sequence conflict	310	310	.	.	.	Note=M->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

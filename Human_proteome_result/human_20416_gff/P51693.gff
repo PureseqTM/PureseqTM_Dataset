@@ -1,0 +1,55 @@
+##gff-version 3
+##sequence-region P51693 1 650
+P51693	UniProtKB	Signal peptide	1	38	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Chain	39	650	.	.	.	ID=PRO_0000000203;Note=Amyloid-like protein 1	
+P51693	UniProtKB	Peptide	621	650	.	.	.	ID=PRO_0000000204;Note=C30;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Topological domain	39	580	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Transmembrane	581	603	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Topological domain	604	650	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Domain	50	212	.	.	.	Note=E1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Domain	293	484	.	.	.	Note=E2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01218	
+P51693	UniProtKB	Region	50	146	.	.	.	Note=GFLD subdomain;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Region	154	212	.	.	.	Note=CuBD subdomain;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Region	158	178	.	.	.	Note=Copper-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Region	204	211	.	.	.	Note=Zinc-binding	
+P51693	UniProtKB	Region	285	305	.	.	.	Note=O-glycosylated at three sites	
+P51693	UniProtKB	Region	310	342	.	.	.	Note=Heparin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Region	410	441	.	.	.	Note=Heparin-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Region	442	459	.	.	.	Note=Collagen-binding;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Region	632	649	.	.	.	Note=Interaction with DAB1;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Region	636	650	.	.	.	Note=Interaction with DAB2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Motif	604	615	.	.	.	Note=Basolateral sorting signal;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Motif	640	643	.	.	.	Note=Clathrin-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Motif	640	643	.	.	.	Note=NPXY motif%3B contains endocytosis signal	
+P51693	UniProtKB	Compositional bias	241	247	.	.	.	Note=Poly-Glu	
+P51693	UniProtKB	Compositional bias	264	268	.	.	.	Note=Poly-Glu	
+P51693	UniProtKB	Site	620	621	.	.	.	Note=Cleavage%3B by caspase-3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P51693	UniProtKB	Glycosylation	215	215	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19838169;Dbxref=PMID:19838169	
+P51693	UniProtKB	Glycosylation	227	227	.	.	.	Note=O-linked (GalNAc...) serine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19838169;Dbxref=PMID:19838169	
+P51693	UniProtKB	Glycosylation	228	228	.	.	.	Note=O-linked (GalNAc...) threonine;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:19838169;Dbxref=PMID:19838169	
+P51693	UniProtKB	Glycosylation	337	337	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Glycosylation	461	461	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Glycosylation	551	551	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P51693	UniProtKB	Disulfide bond	60	84	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Disulfide bond	95	140	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Disulfide bond	120	128	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Disulfide bond	156	210	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Disulfide bond	167	197	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Disulfide bond	181	209	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01217	
+P51693	UniProtKB	Alternative sequence	517	517	.	.	.	ID=VSP_039100;Note=In isoform 2. D->DA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+P51693	UniProtKB	Mutagenesis	426	426	.	.	.	Note=Reduced affinity for heparin. Reduces homodimerization. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21574595;Dbxref=PMID:21574595	
+P51693	UniProtKB	Mutagenesis	429	429	.	.	.	Note=Strongly reduced affinity for heparin. Strongly reduced homodimerization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21574595;Dbxref=PMID:21574595	
+P51693	UniProtKB	Mutagenesis	433	433	.	.	.	Note=Reduced affinity for heparin. Reduces homodimerization. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21574595;Dbxref=PMID:21574595	
+P51693	UniProtKB	Sequence conflict	48	48	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51693	UniProtKB	Sequence conflict	78	78	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P51693	UniProtKB	Helix	293	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Beta strand	302	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4RDA	
+P51693	UniProtKB	Helix	306	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Turn	338	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Helix	344	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Beta strand	401	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Helix	406	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Helix	439	442	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Turn	443	445	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Helix	446	467	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	
+P51693	UniProtKB	Helix	471	485	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3PMR	

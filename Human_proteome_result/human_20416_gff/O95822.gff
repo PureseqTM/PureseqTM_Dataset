@@ -1,0 +1,72 @@
+##gff-version 3
+##sequence-region O95822 1 493
+O95822	UniProtKB	Transit peptide	1	39	.	.	.	Note=Mitochondrion;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95822	UniProtKB	Chain	40	493	.	.	.	ID=PRO_0000021088;Note=Malonyl-CoA decarboxylase%2C mitochondrial	
+O95822	UniProtKB	Region	40	190	.	.	.	Note=Alpha-helical domain	
+O95822	UniProtKB	Region	191	493	.	.	.	Note=Catalytic domain	
+O95822	UniProtKB	Region	299	305	.	.	.	Note=Malonyl-CoA binding;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Motif	491	493	.	.	.	Note=Microbody targeting signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95822	UniProtKB	Active site	329	329	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23791943;Dbxref=PMID:23791943	
+O95822	UniProtKB	Active site	423	423	.	.	.	Note=Proton donor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23791943;Dbxref=PMID:23791943	
+O95822	UniProtKB	Binding site	329	329	.	.	.	Note=Malonyl-CoA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Binding site	423	423	.	.	.	Note=Malonyl-CoA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Site	211	211	.	.	.	Note=Essential for catalytic activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O95822	UniProtKB	Modified residue	59	59	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Modified residue	168	168	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Modified residue	168	168	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Modified residue	211	211	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Modified residue	222	222	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Modified residue	389	389	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Modified residue	472	472	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q99J39	
+O95822	UniProtKB	Disulfide bond	206	206	.	.	.	Note=Interchain;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O95822	UniProtKB	Alternative sequence	1	39	.	.	.	ID=VSP_047649;Note=In isoform Cytoplasmic+peroxisomal. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10417274,ECO:0000303|PubMed:10455107,ECO:0000303|PubMed:15489334;Dbxref=PMID:10417274,PMID:10455107,PMID:15489334	
+O95822	UniProtKB	Mutagenesis	206	206	.	.	.	Note=Abolishes formation of disulfide-linked homotetramers. Abolishes the cooperative enzyme kinetics that are seen under oxidative conditions. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23482565;Dbxref=PMID:23482565	
+O95822	UniProtKB	Mutagenesis	243	243	.	.	.	Note=Does not abolish formation of disulfide-linked homotetramers. No effect on development of cooperative enzyme kinetics in response to oxidative conditions. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23482565;Dbxref=PMID:23482565	
+O95822	UniProtKB	Mutagenesis	290	290	.	.	.	Note=2-fold reduction in catalytic activity. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23791943;Dbxref=PMID:23791943	
+O95822	UniProtKB	Mutagenesis	302	302	.	.	.	Note=Decreases catalytic activity. Increases affinity for malonyl-CoA. E->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23482565;Dbxref=PMID:23482565	
+O95822	UniProtKB	Mutagenesis	329	329	.	.	.	Note=110-fold reduction in catalytic activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23791943;Dbxref=PMID:23791943	
+O95822	UniProtKB	Mutagenesis	423	423	.	.	.	Note=7-fold reduction in catalytic activity. H->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23791943;Dbxref=PMID:23791943	
+O95822	UniProtKB	Mutagenesis	456	456	.	.	.	Note=3.5-fold reduction in catalytic activity. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23791943;Dbxref=PMID:23791943	
+O95822	UniProtKB	Sequence conflict	82	82	.	.	.	Note=A->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Sequence conflict	119	119	.	.	.	Note=A->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Sequence conflict	127	127	.	.	.	Note=D->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Sequence conflict	192	192	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O95822	UniProtKB	Helix	40	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	54	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	67	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	81	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	99	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Turn	114	116	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0X	
+O95822	UniProtKB	Helix	119	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	138	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	147	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0X	
+O95822	UniProtKB	Helix	150	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	173	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	192	194	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	195	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	206	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	224	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	235	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	250	260	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	266	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	285	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Turn	299	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0X	
+O95822	UniProtKB	Helix	303	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	324	327	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	334	341	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	348	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0X	
+O95822	UniProtKB	Helix	357	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4F0X	
+O95822	UniProtKB	Helix	374	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Turn	380	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	383	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	388	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	395	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	414	417	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	418	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	429	434	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	441	447	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Beta strand	451	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	458	460	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	461	471	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	
+O95822	UniProtKB	Helix	478	486	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YGW	

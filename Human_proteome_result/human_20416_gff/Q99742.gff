@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q99742 1 590
+Q99742	UniProtKB	Chain	1	590	.	.	.	ID=PRO_0000127404;Note=Neuronal PAS domain-containing protein 1	
+Q99742	UniProtKB	Domain	45	98	.	.	.	Note=bHLH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00981	
+Q99742	UniProtKB	Domain	135	207	.	.	.	Note=PAS 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q99742	UniProtKB	Domain	293	359	.	.	.	Note=PAS 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+Q99742	UniProtKB	Domain	365	408	.	.	.	Note=PAC	
+Q99742	UniProtKB	Compositional bias	211	222	.	.	.	Note=Poly-Ser	
+Q99742	UniProtKB	Alternative sequence	1	176	.	.	.	ID=VSP_054280;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99742	UniProtKB	Alternative sequence	357	410	.	.	.	ID=VSP_054281;Note=In isoform 2. LLDKGQVMTGYYRWLQRAGGFVWLQSVATVAGSGKSPGEHHVLWVSHVLSQAEG->SCRGLRVAAVCGHSGWEREEPRGAPCALGQPRAQPSRGWPNSFGCLPASSQRGL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99742	UniProtKB	Alternative sequence	411	590	.	.	.	ID=VSP_054282;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q99742	UniProtKB	Sequence conflict	80	80	.	.	.	Note=S->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99742	UniProtKB	Sequence conflict	110	134	.	.	.	Note=LRAAGPPAGLAPGRRGPAALVSEVF->NSRRPALRAAAAGARPAGGPGSQPP;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99742	UniProtKB	Sequence conflict	203	203	.	.	.	Note=P->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99742	UniProtKB	Sequence conflict	211	211	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q99742	UniProtKB	Sequence conflict	449	449	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

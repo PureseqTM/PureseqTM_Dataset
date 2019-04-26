@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q15185 1 160
+Q15185	UniProtKB	Chain	1	160	.	.	.	ID=PRO_0000218952;Note=Prostaglandin E synthase 3	
+Q15185	UniProtKB	Domain	1	90	.	.	.	Note=CS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00547	
+Q15185	UniProtKB	Motif	157	160	.	.	.	Note=PXLE motif;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:24711448;Dbxref=PMID:24711448	
+Q15185	UniProtKB	Compositional bias	108	160	.	.	.	Note=Asp/Glu-rich	
+Q15185	UniProtKB	Modified residue	33	33	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q15185	UniProtKB	Modified residue	44	44	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15185	UniProtKB	Modified residue	85	85	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q15185	UniProtKB	Modified residue	100	100	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9R0Q7	
+Q15185	UniProtKB	Modified residue	113	113	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:16807684,ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:17487921,ECO:0000244|PubMed:18088087,ECO:0000244|PubMed:18318008,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19367720,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569,ECO:0000269|Ref.6;Dbxref=PMID:16807684,PMID:17081983,PMID:17487921,PMID:18088087,PMID:18318008,PMID:18669648,PMID:18691976,PMID:19367720,PMID:19369195,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163,PMID:24275569	
+Q15185	UniProtKB	Modified residue	118	118	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231;Dbxref=PMID:17081983,PMID:20068231	
+Q15185	UniProtKB	Modified residue	148	148	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:18669648,PMID:18691976,PMID:24275569	
+Q15185	UniProtKB	Modified residue	151	151	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:18669648,PMID:18691976,PMID:24275569	
+Q15185	UniProtKB	Cross-link	35	35	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15185	UniProtKB	Cross-link	65	65	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15185	UniProtKB	Alternative sequence	63	95	.	.	.	ID=VSP_055363;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15185	UniProtKB	Alternative sequence	96	125	.	.	.	ID=VSP_055364;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15185	UniProtKB	Alternative sequence	126	146	.	.	.	ID=VSP_055365;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q15185	UniProtKB	Beta strand	6	10	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	12	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	24	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	35	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Turn	43	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	47	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	59	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	73	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	87	92	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Beta strand	99	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	
+Q15185	UniProtKB	Turn	103	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1EJF	

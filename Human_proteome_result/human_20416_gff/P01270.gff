@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region P01270 1 115
+P01270	UniProtKB	Signal peptide	1	25	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15340161,ECO:0000269|PubMed:4833516;Dbxref=PMID:15340161,PMID:4833516	
+P01270	UniProtKB	Propeptide	26	31	.	.	.	ID=PRO_0000023249;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:4521809;Dbxref=PMID:4521809	
+P01270	UniProtKB	Chain	32	115	.	.	.	ID=PRO_0000023250;Note=Parathyroid hormone	
+P01270	UniProtKB	Region	51	69	.	.	.	Note=Important for receptor binding	
+P01270	UniProtKB	Natural variant	18	18	.	.	.	ID=VAR_006047;Note=In FIH%3B dominant%3B leads to inefficient processing of the precursor%3B the expressed mutant hormone is trapped intracellularly in the endoplasmic reticulum resulting in apoptosis%3B mutant protein-expressing cells also show marked up-regulation of the endoplasmic reticulum stress-responsive hormones HSPA5 and EIF2AK3 and the proapoptotic transcription factor DDIT3. C->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18056632,ECO:0000269|PubMed:2212001,ECO:0000269|PubMed:7829495;Dbxref=dbSNP:rs104894271,PMID:18056632,PMID:2212001,PMID:7829495	
+P01270	UniProtKB	Natural variant	23	23	.	.	.	ID=VAR_018464;Note=In FIH%3B recessive%3B might lead to inefficient processing of the precursor. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10523031;Dbxref=dbSNP:rs104894272,PMID:10523031	
+P01270	UniProtKB	Mutagenesis	16	16	.	.	.	Note=Abolishes processing of the precursor%3B when associated with variant R-18. A->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7829495;Dbxref=PMID:7829495	
+P01270	UniProtKB	Mutagenesis	51	51	.	.	.	Note=Reduced affinity for PTH1R. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18375760;Dbxref=PMID:18375760	
+P01270	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Strongly reduced affinity for PTH1R. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18375760;Dbxref=PMID:18375760	
+P01270	UniProtKB	Mutagenesis	55	55	.	.	.	Note=Strongly reduced affinity for PTH1R. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18375760;Dbxref=PMID:18375760	
+P01270	UniProtKB	Mutagenesis	58	58	.	.	.	Note=Reduced affinity for PTH1R. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18375760;Dbxref=PMID:18375760	
+P01270	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Strongly reduced affinity for PTH1R. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18375760;Dbxref=PMID:18375760	
+P01270	UniProtKB	Sequence conflict	107	107	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01270	UniProtKB	Helix	34	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ET1	
+P01270	UniProtKB	Helix	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1ZWF	

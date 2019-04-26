@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region O60220 1 97
+O60220	UniProtKB	Chain	1	97	.	.	.	ID=PRO_0000193584;Note=Mitochondrial import inner membrane translocase subunit Tim8 A	
+O60220	UniProtKB	Motif	43	66	.	.	.	Note=Twin CX3C motif	
+O60220	UniProtKB	Modified residue	57	57	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WVA2	
+O60220	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WVA2	
+O60220	UniProtKB	Modified residue	94	94	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+O60220	UniProtKB	Modified residue	96	96	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:21406692,PMID:23186163	
+O60220	UniProtKB	Disulfide bond	43	66	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60220	UniProtKB	Disulfide bond	47	62	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+O60220	UniProtKB	Natural variant	66	66	.	.	.	ID=VAR_010237;Note=In MTS%3B disrupts the assembly of the heterohexamer with TIMM13. C->W;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10878669,ECO:0000269|PubMed:11875042,ECO:0000269|PubMed:11956200;Dbxref=dbSNP:rs80356560,PMID:10878669,PMID:11875042,PMID:11956200	
+O60220	UniProtKB	Sequence conflict	62	62	.	.	.	Note=C->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

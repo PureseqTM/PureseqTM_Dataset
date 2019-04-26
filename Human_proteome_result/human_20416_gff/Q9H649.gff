@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region Q9H649 1 340
+Q9H649	UniProtKB	Chain	1	340	.	.	.	ID=PRO_0000289230;Note=tRNA (cytosine(34)-C(5))-methyltransferase%2C mitochondrial	
+Q9H649	UniProtKB	Region	139	145	.	.	.	Note=S-adenosyl-L-methionine binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01023	
+Q9H649	UniProtKB	Active site	265	265	.	.	.	Note=Nucleophile;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU01023,ECO:0000305|PubMed:27497299;Dbxref=PMID:27497299	
+Q9H649	UniProtKB	Binding site	162	162	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01023	
+Q9H649	UniProtKB	Binding site	193	193	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01023	
+Q9H649	UniProtKB	Binding site	211	211	.	.	.	Note=S-adenosyl-L-methionine;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01023	
+Q9H649	UniProtKB	Natural variant	99	340	.	.	.	ID=VAR_077445;Note=Probable disease-associated mutation found in a patient with disorder of the mitochondrial respiratory chain. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27356879;Dbxref=PMID:27356879	
+Q9H649	UniProtKB	Natural variant	295	295	.	.	.	ID=VAR_032605;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17854922,PMID:15489334	
+Q9H649	UniProtKB	Mutagenesis	214	214	.	.	.	Note=In C2A%3B catalytic mutant. Abolishes ability to methylate mt-tRNA(Met). C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27356879;Dbxref=PMID:27356879	
+Q9H649	UniProtKB	Mutagenesis	265	265	.	.	.	Note=Catalytic mutant. Abolishes ability to methylate mt-tRNA(Met). C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27497299;Dbxref=PMID:27497299	

@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q9UBU8 1 362
+Q9UBU8	UniProtKB	Chain	1	362	.	.	.	ID=PRO_0000088764;Note=Mortality factor 4-like protein 1	
+Q9UBU8	UniProtKB	Domain	191	362	.	.	.	Note=MRG;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00972	
+Q9UBU8	UniProtKB	Region	26	62	.	.	.	Note=Interaction with KAT8;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12397079;Dbxref=PMID:12397079	
+Q9UBU8	UniProtKB	Region	133	266	.	.	.	Note=Sufficient for interaction with SIN3A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12391155;Dbxref=PMID:12391155	
+Q9UBU8	UniProtKB	Region	164	230	.	.	.	Note=Interaction with RB1-1	
+Q9UBU8	UniProtKB	Region	188	342	.	.	.	Note=Sufficient for interaction with PHF12;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12391155;Dbxref=PMID:12391155	
+Q9UBU8	UniProtKB	Region	323	344	.	.	.	Note=Interaction with RB1-2	
+Q9UBU8	UniProtKB	Motif	135	146	.	.	.	Note=Nuclear localization signal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UBU8	UniProtKB	Modified residue	143	143	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q9UBU8	UniProtKB	Alternative sequence	1	127	.	.	.	ID=VSP_046016;Note=In isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q9UBU8	UniProtKB	Alternative sequence	52	91	.	.	.	ID=VSP_012889;Note=In isoform 2. KSAVRPRRSEKSLKTHEDIVALFPVPEGAPSVHHPLLTSS->N;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11042152,ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:17974005,ECO:0000303|PubMed:9891081,ECO:0000303|Ref.2,ECO:0000303|Ref.6;Dbxref=PMID:11042152,PMID:15489334,PMID:17974005,PMID:9891081	
+Q9UBU8	UniProtKB	Mutagenesis	208	208	.	.	.	Note=Abolishes binding to MRFAP1. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16407074;Dbxref=PMID:16407074	
+Q9UBU8	UniProtKB	Mutagenesis	234	234	.	.	.	Note=No effect on MRFAP1 binding. E->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16407074;Dbxref=PMID:16407074	
+Q9UBU8	UniProtKB	Mutagenesis	251	251	.	.	.	Note=No effect on MRFAP1 binding. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16407074;Dbxref=PMID:16407074	
+Q9UBU8	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Reduces binding to MRFAP1. N->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16407074;Dbxref=PMID:16407074	
+Q9UBU8	UniProtKB	Sequence conflict	224	224	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBU8	UniProtKB	Sequence conflict	261	261	.	.	.	Note=K->KK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UBU8	UniProtKB	Beta strand	16	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5K	
+Q9UBU8	UniProtKB	Beta strand	39	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5K	
+Q9UBU8	UniProtKB	Beta strand	47	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2EFI	
+Q9UBU8	UniProtKB	Beta strand	94	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5K	
+Q9UBU8	UniProtKB	Helix	98	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5K	
+Q9UBU8	UniProtKB	Beta strand	101	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5K	
+Q9UBU8	UniProtKB	Helix	106	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5K	
+Q9UBU8	UniProtKB	Helix	201	203	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	204	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Beta strand	219	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Beta strand	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	229	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Beta strand	244	246	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LKM	
+Q9UBU8	UniProtKB	Helix	252	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	275	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	278	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	293	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	299	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	320	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	341	344	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	347	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Beta strand	350	352	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Helix	355	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2F5J	
+Q9UBU8	UniProtKB	Turn	359	361	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LKM	

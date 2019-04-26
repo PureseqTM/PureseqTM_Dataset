@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region O76064 1 485
+O76064	UniProtKB	Chain	1	485	.	.	.	ID=PRO_0000056048;Note=E3 ubiquitin-protein ligase RNF8	
+O76064	UniProtKB	Domain	38	92	.	.	.	Note=FHA;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03067	
+O76064	UniProtKB	Zinc finger	403	441	.	.	.	Note=RING-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03067	
+O76064	UniProtKB	Region	68	72	.	.	.	Note=Required for interaction with PIWIL1;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_03067	
+O76064	UniProtKB	Compositional bias	276	345	.	.	.	Note=Gln-rich	
+O76064	UniProtKB	Modified residue	157	157	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+O76064	UniProtKB	Alternative sequence	81	98	.	.	.	ID=VSP_036671;Note=In isoform 2. SLNGVWLNRARLEPLRVY->SFPSEKAEDFTAAGERFL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O76064	UniProtKB	Alternative sequence	99	485	.	.	.	ID=VSP_037831;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+O76064	UniProtKB	Alternative sequence	413	448	.	.	.	ID=VSP_054037;Note=In isoform 3. AVTLNCAHSFCSYCINEWMKRKIECPICRKDIKSKT->QRDCSEDRALRAFERLPGSASLRWSGGFSLAVTPLL;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O76064	UniProtKB	Alternative sequence	449	485	.	.	.	ID=VSP_054038;Note=In isoform 3. Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O76064	UniProtKB	Natural variant	162	162	.	.	.	ID=VAR_052096;Note=A->T;Dbxref=dbSNP:rs34338974	
+O76064	UniProtKB	Natural variant	473	473	.	.	.	ID=VAR_052097;Note=I->V;Dbxref=dbSNP:rs1139944	
+O76064	UniProtKB	Mutagenesis	42	42	.	.	.	Note=Abolishes interaction with ATM-phosphorylated MDC1. Abolishes interaction with human herpesvirus 1 ICP0. Abolishes recruitment to DNA damage sites after UV irradiation%2C ionizing radiation%2C or treatment with an alkylating agent. R->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18001824,ECO:0000269|PubMed:21857671,ECO:0000269|PubMed:22405594,ECO:0000269|PubMed:23233665;Dbxref=PMID:18001824,PMID:21857671,PMID:22405594,PMID:23233665	
+O76064	UniProtKB	Mutagenesis	403	403	.	.	.	Note=Marked reduction of E2-dependent ubiquitination of histone H2A. Loss of UBE2E2- and UBE2N-binding. Loss of nuclear localization. C->S;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:11322894,ECO:0000269|PubMed:14981089,ECO:0000269|PubMed:16215985,ECO:0000269|PubMed:18001824;Dbxref=PMID:11322894,PMID:14981089,PMID:16215985,PMID:18001824	
+O76064	UniProtKB	Mutagenesis	405	405	.	.	.	Note=Impairs interaction with UBE2L6/UBCH8 and ability to mediate 'Lys-48'-linked ubiquitination E3 ligase activity%2C while it still catalyzes 'Lys-63'-linked ubiquitination and still interacts with UBE2N/UBC13. I->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:21911360,ECO:0000269|PubMed:22373579,ECO:0000269|PubMed:22589545;Dbxref=PMID:21911360,PMID:22373579,PMID:22589545	
+O76064	UniProtKB	Mutagenesis	406	406	.	.	.	Note=Abolishes ubiquitin-ligase activity. C->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21857671;Dbxref=PMID:21857671	
+O76064	UniProtKB	Mutagenesis	443	443	.	.	.	Note=Does not affect the monomeric structure but abolishes ability to monoubiquitinate H2A in nucleosomes. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22980979;Dbxref=PMID:22980979	
+O76064	UniProtKB	Sequence conflict	230	230	.	.	.	Note=V->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O76064	UniProtKB	Sequence conflict	334	334	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O76064	UniProtKB	Beta strand	16	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Beta strand	29	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Beta strand	38	49	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Helix	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CSW	
+O76064	UniProtKB	Beta strand	64	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Beta strand	74	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Beta strand	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Beta strand	105	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Beta strand	119	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Helix	129	132	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Helix	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2PIE	
+O76064	UniProtKB	Helix	351	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Turn	404	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Beta strand	411	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Beta strand	421	423	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Helix	424	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Turn	431	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Turn	438	440	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Beta strand	447	449	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Helix	451	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	
+O76064	UniProtKB	Helix	466	480	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4AYC	

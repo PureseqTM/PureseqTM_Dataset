@@ -1,0 +1,37 @@
+##gff-version 3
+##sequence-region P23219 1 599
+P23219	UniProtKB	Signal peptide	1	23	.	.	.	.	
+P23219	UniProtKB	Chain	24	599	.	.	.	ID=PRO_0000023868;Note=Prostaglandin G/H synthase 1	
+P23219	UniProtKB	Domain	31	69	.	.	.	Note=EGF-like;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00076	
+P23219	UniProtKB	Active site	206	206	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P23219	UniProtKB	Active site	384	384	.	.	.	Note=For cyclooxygenase activity;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23219	UniProtKB	Metal binding	387	387	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00298	
+P23219	UniProtKB	Site	529	529	.	.	.	Note=Aspirin-acetylated serine	
+P23219	UniProtKB	Glycosylation	67	67	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P23219	UniProtKB	Glycosylation	103	103	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P23219	UniProtKB	Glycosylation	143	143	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P23219	UniProtKB	Disulfide bond	35	46	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23219	UniProtKB	Disulfide bond	36	158	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23219	UniProtKB	Disulfide bond	40	56	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23219	UniProtKB	Disulfide bond	58	68	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23219	UniProtKB	Disulfide bond	568	574	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P23219	UniProtKB	Alternative sequence	1	109	.	.	.	ID=VSP_046932;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P23219	UniProtKB	Alternative sequence	1	32	.	.	.	ID=VSP_053936;Note=In isoform 3. MSRSLLLWFLLFLLLLPPLPVLLADPGAPTPV->MRKPRLM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P23219	UniProtKB	Alternative sequence	1	3	.	.	.	ID=VSP_054862;Note=In isoform 5. MSR->MSRECDPGARWGIFLASGGALNARLSPSSLSSAG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16141368;Dbxref=PMID:16141368	
+P23219	UniProtKB	Alternative sequence	1	3	.	.	.	ID=VSP_054863;Note=In isoform 6. MSR->MSRECDPGARWGIFLASWWSLECQLSPSSLSSAG;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16141368;Dbxref=PMID:16141368	
+P23219	UniProtKB	Alternative sequence	396	432	.	.	.	ID=VSP_004673;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:1587858;Dbxref=PMID:14702039,PMID:1587858	
+P23219	UniProtKB	Natural variant	8	8	.	.	.	ID=VAR_013451;Note=W->R;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12192304,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:1587858,ECO:0000269|PubMed:1734857,ECO:0000269|PubMed:1907252,ECO:0000269|PubMed:2512924,ECO:0000269|Ref.10,ECO:0000269|Ref.8;Dbxref=dbSNP:rs1236913,PMID:12192304,PMID:14702039,PMID:15489334,PMID:1587858,PMID:1734857,PMID:1907252,PMID:2512924	
+P23219	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_013452;Note=P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12192304,ECO:0000269|Ref.8;Dbxref=dbSNP:rs3842787,PMID:12192304	
+P23219	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_019161;Note=R->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs3842789	
+P23219	UniProtKB	Natural variant	149	149	.	.	.	ID=VAR_019162;Note=R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8;Dbxref=dbSNP:rs10306140	
+P23219	UniProtKB	Natural variant	185	185	.	.	.	ID=VAR_056663;Note=K->T;Dbxref=dbSNP:rs3842792	
+P23219	UniProtKB	Natural variant	237	237	.	.	.	ID=VAR_019163;Note=L->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15308583,ECO:0000269|Ref.8;Dbxref=dbSNP:rs5789,PMID:15308583	
+P23219	UniProtKB	Natural variant	341	341	.	.	.	ID=VAR_056664;Note=K->R;Dbxref=dbSNP:rs3842799	
+P23219	UniProtKB	Natural variant	359	359	.	.	.	ID=VAR_013453;Note=K->R;Dbxref=dbSNP:rs5791	
+P23219	UniProtKB	Natural variant	443	443	.	.	.	ID=VAR_013454;Note=I->V;Dbxref=dbSNP:rs5792	
+P23219	UniProtKB	Natural variant	481	481	.	.	.	ID=VAR_028017;Note=V->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15308583;Dbxref=dbSNP:rs5794,PMID:15308583	
+P23219	UniProtKB	Mutagenesis	529	529	.	.	.	Note=Abolishes cyclooxygenase activity. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1907252;Dbxref=PMID:1907252	
+P23219	UniProtKB	Sequence conflict	12	12	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23219	UniProtKB	Sequence conflict	113	113	.	.	.	Note=R->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23219	UniProtKB	Sequence conflict	378	378	.	.	.	Note=M->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P23219	UniProtKB	Sequence conflict	423	423	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	

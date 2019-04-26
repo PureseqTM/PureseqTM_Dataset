@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q8IX12 1 1150
+Q8IX12	UniProtKB	Chain	1	1150	.	.	.	ID=PRO_0000233148;Note=Cell division cycle and apoptosis regulator protein 1	
+Q8IX12	UniProtKB	Domain	636	670	.	.	.	Note=SAP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00186	
+Q8IX12	UniProtKB	Region	1	249	.	.	.	Note=Interaction with AR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23887938;Dbxref=PMID:23887938	
+Q8IX12	UniProtKB	Region	203	660	.	.	.	Note=Interaction with GATA2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23887938;Dbxref=PMID:23887938	
+Q8IX12	UniProtKB	Region	643	1150	.	.	.	Note=Interaction with GATA1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24245781;Dbxref=PMID:24245781	
+Q8IX12	UniProtKB	Coiled coil	594	618	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IX12	UniProtKB	Coiled coil	1033	1114	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IX12	UniProtKB	Compositional bias	73	79	.	.	.	Note=Poly-Ala	
+Q8IX12	UniProtKB	Compositional bias	293	361	.	.	.	Note=Arg-rich	
+Q8IX12	UniProtKB	Compositional bias	673	889	.	.	.	Note=Glu-rich	
+Q8IX12	UniProtKB	Modified residue	456	456	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IX12	UniProtKB	Modified residue	627	627	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q8IX12	UniProtKB	Modified residue	667	667	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q8IX12	UniProtKB	Modified residue	685	685	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q8IX12	UniProtKB	Modified residue	697	697	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q8IX12	UniProtKB	Modified residue	861	861	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:20068231,PMID:21406692	
+Q8IX12	UniProtKB	Cross-link	637	637	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18655026;Dbxref=PMID:18655026	
+Q8IX12	UniProtKB	Cross-link	1012	1012	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+Q8IX12	UniProtKB	Cross-link	1012	1012	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:25772364,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:25218447,PMID:25755297,PMID:25772364,PMID:28112733	
+Q8IX12	UniProtKB	Cross-link	1067	1067	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:25755297,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:25755297,PMID:28112733	
+Q8IX12	UniProtKB	Cross-link	1135	1135	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25218447,ECO:0000244|PubMed:25755297;Dbxref=PMID:25218447,PMID:25755297	
+Q8IX12	UniProtKB	Alternative sequence	83	97	.	.	.	ID=VSP_037736;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q8IX12	UniProtKB	Natural variant	588	588	.	.	.	ID=VAR_058330;Note=T->I;Dbxref=dbSNP:rs1782338	
+Q8IX12	UniProtKB	Natural variant	607	607	.	.	.	ID=VAR_035497;Note=In a colorectal cancer sample%3B somatic mutation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q8IX12	UniProtKB	Natural variant	681	681	.	.	.	ID=VAR_058331;Note=E->G;Dbxref=dbSNP:rs1060145	
+Q8IX12	UniProtKB	Natural variant	747	747	.	.	.	ID=VAR_058332;Note=M->V;Dbxref=dbSNP:rs11542602	
+Q8IX12	UniProtKB	Sequence conflict	296	296	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	305	305	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	492	492	.	.	.	Note=K->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	618	618	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	650	650	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	650	650	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	723	723	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	801	803	.	.	.	Note=EKD->KKK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	816	818	.	.	.	Note=EER->KKK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	853	853	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	853	853	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	853	853	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	1104	1104	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	1104	1104	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IX12	UniProtKB	Sequence conflict	1104	1104	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	

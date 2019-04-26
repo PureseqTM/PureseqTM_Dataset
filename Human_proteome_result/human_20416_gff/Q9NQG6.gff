@@ -1,0 +1,64 @@
+##gff-version 3
+##sequence-region Q9NQG6 1 463
+Q9NQG6	UniProtKB	Chain	1	463	.	.	.	ID=PRO_0000310448;Note=Mitochondrial dynamics protein MID51	
+Q9NQG6	UniProtKB	Topological domain	1	23	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NQG6	UniProtKB	Transmembrane	24	46	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NQG6	UniProtKB	Topological domain	47	463	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9NQG6	UniProtKB	Region	49	195	.	.	.	Note=Dimerization	
+Q9NQG6	UniProtKB	Region	160	169	.	.	.	Note=Important for interaction with DNM1L	
+Q9NQG6	UniProtKB	Region	234	242	.	.	.	Note=Important for interaction with DNM1L	
+Q9NQG6	UniProtKB	Binding site	187	187	.	.	.	Note=ADP	
+Q9NQG6	UniProtKB	Binding site	189	189	.	.	.	Note=ADP	
+Q9NQG6	UniProtKB	Binding site	201	201	.	.	.	Note=ADP	
+Q9NQG6	UniProtKB	Binding site	340	340	.	.	.	Note=ADP	
+Q9NQG6	UniProtKB	Binding site	342	342	.	.	.	Note=ADP	
+Q9NQG6	UniProtKB	Binding site	368	368	.	.	.	Note=ADP	
+Q9NQG6	UniProtKB	Modified residue	55	55	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q9NQG6	UniProtKB	Modified residue	59	59	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9NQG6	UniProtKB	Modified residue	79	79	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8BGV8	
+Q9NQG6	UniProtKB	Modified residue	94	94	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18691976;Dbxref=PMID:18691976	
+Q9NQG6	UniProtKB	Alternative sequence	108	148	.	.	.	ID=VSP_056383;Note=In isoform 2. DTFCPPRPKPVARKGQVDLKKSRLRMSLQEKLLTYYRNRAA->GETSYLLPEPGSHPCWRAGSGQASCCGHMCRAPELPAGQVA;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005;Dbxref=PMID:14702039,PMID:17974005	
+Q9NQG6	UniProtKB	Alternative sequence	149	463	.	.	.	ID=VSP_056384;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:17974005;Dbxref=PMID:14702039,PMID:17974005	
+Q9NQG6	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_037040;Note=G->R;Dbxref=dbSNP:rs2272830	
+Q9NQG6	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_037041;Note=T->M;Dbxref=dbSNP:rs17001213	
+Q9NQG6	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_037042;Note=R->W;Dbxref=dbSNP:rs2232088	
+Q9NQG6	UniProtKB	Natural variant	264	264	.	.	.	ID=VAR_037043;Note=D->N;Dbxref=dbSNP:rs2232091	
+Q9NQG6	UniProtKB	Mutagenesis	201	201	.	.	.	Note=Abolishes nucleotide-binding%2C but not DNM1L recruitment%3B when associated with E-342%3B E-368 and E-372. H->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24515348;Dbxref=PMID:24515348	
+Q9NQG6	UniProtKB	Mutagenesis	235	235	.	.	.	Note=No effect on mitochondrial localization. Impairs DNM1L recruitment. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24515348;Dbxref=PMID:24515348	
+Q9NQG6	UniProtKB	Mutagenesis	238	242	.	.	.	Note=No effect on mitochondrial localization. Impairs DNM1L recruitment. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24515348;Dbxref=PMID:24515348	
+Q9NQG6	UniProtKB	Mutagenesis	342	342	.	.	.	Note=Abolishes nucleotide-binding%2C but not DNM1L recruitment%3B when associated with D-201%3B E-368 and E-372. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24515348;Dbxref=PMID:24515348	
+Q9NQG6	UniProtKB	Mutagenesis	368	368	.	.	.	Note=Abolishes nucleotide-binding%2C but not DNM1L recruitment%3B when associated with D-201%3B E-342 and E-372. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24515348;Dbxref=PMID:24515348	
+Q9NQG6	UniProtKB	Mutagenesis	372	372	.	.	.	Note=Abolishes nucleotide-binding%2C but not DNM1L recruitment%3B when associated with D-201%3B E-342 and E-368. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24515348;Dbxref=PMID:24515348	
+Q9NQG6	UniProtKB	Helix	135	145	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	151	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	179	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NXT	
+Q9NQG6	UniProtKB	Beta strand	185	188	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Turn	189	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Turn	194	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9B	
+Q9NQG6	UniProtKB	Beta strand	201	208	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Turn	212	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	215	219	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	223	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NXT	
+Q9NQG6	UniProtKB	Beta strand	230	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Turn	238	240	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	247	251	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	259	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	272	274	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4NXW	
+Q9NQG6	UniProtKB	Helix	276	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	286	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	297	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	306	318	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	321	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	331	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	336	339	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	342	356	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	360	373	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	376	379	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	382	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	401	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	404	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Beta strand	427	429	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Turn	434	437	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	440	453	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	
+Q9NQG6	UniProtKB	Helix	457	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5X9C	

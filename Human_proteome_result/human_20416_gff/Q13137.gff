@@ -1,0 +1,48 @@
+##gff-version 3
+##sequence-region Q13137 1 446
+Q13137	UniProtKB	Chain	1	446	.	.	.	ID=PRO_0000312337;Note=Calcium-binding and coiled-coil domain-containing protein 2	
+Q13137	UniProtKB	Region	371	381	.	.	.	Note=Interaction with LGALS8;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23386746,ECO:0000269|PubMed:23511477;Dbxref=PMID:23386746,PMID:23511477	
+Q13137	UniProtKB	Region	395	446	.	.	.	Note=Interaction with MYO6;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17635994;Dbxref=PMID:17635994	
+Q13137	UniProtKB	Coiled coil	137	349	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q13137	UniProtKB	Motif	133	136	.	.	.	Note=CLIR;Ontology_term=ECO:0000305,ECO:0000305;evidence=ECO:0000305|PubMed:23022382,ECO:0000305|PubMed:25771791;Dbxref=PMID:23022382,PMID:25771791	
+Q13137	UniProtKB	Motif	203	206	.	.	.	Note=LIR-like;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25771791;Dbxref=PMID:25771791	
+Q13137	UniProtKB	Modified residue	445	445	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13137	UniProtKB	Alternative sequence	1	72	.	.	.	ID=VSP_047414;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13137	UniProtKB	Alternative sequence	60	60	.	.	.	ID=VSP_046766;Note=In isoform 3. R->RCSLNQTIQLLITPDTGSIWHQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13137	UniProtKB	Alternative sequence	60	60	.	.	.	ID=VSP_046767;Note=In isoform 4. R->RAFKCFQDKLEQELLKWRSQGQKLQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13137	UniProtKB	Alternative sequence	139	180	.	.	.	ID=VSP_044728;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q13137	UniProtKB	Natural variant	140	140	.	.	.	ID=VAR_037489;Note=G->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs550510,PMID:14702039	
+Q13137	UniProtKB	Natural variant	227	227	.	.	.	ID=VAR_037490;Note=G->R;Dbxref=dbSNP:rs2303016	
+Q13137	UniProtKB	Natural variant	248	248	.	.	.	ID=VAR_037491;Note=V->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|Ref.3;Dbxref=dbSNP:rs2303015,PMID:14702039	
+Q13137	UniProtKB	Natural variant	273	273	.	.	.	ID=VAR_037492;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17849804,PMID:15489334	
+Q13137	UniProtKB	Natural variant	389	389	.	.	.	ID=VAR_037493;Note=P->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|Ref.4,ECO:0000269|Ref.6;Dbxref=dbSNP:rs10278,PMID:14702039	
+Q13137	UniProtKB	Mutagenesis	136	136	.	.	.	Note=Abrogates the interaction with MAP1LC3C. V->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23022382;Dbxref=PMID:23022382	
+Q13137	UniProtKB	Mutagenesis	203	206	.	.	.	Note=Abrogates interaction with MAPLC3A%2C MAPLC3B and GABARAPL2. DYWE->AAAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25771791;Dbxref=PMID:25771791	
+Q13137	UniProtKB	Mutagenesis	374	374	.	.	.	Note=Severely reduces affinity for LGALS8. L->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23386746,ECO:0000269|PubMed:23511477;Dbxref=PMID:23386746,PMID:23511477	
+Q13137	UniProtKB	Mutagenesis	376	376	.	.	.	Note=Severely reduces affinity for LGALS8. Y->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23386746;Dbxref=PMID:23386746	
+Q13137	UniProtKB	Mutagenesis	378	378	.	.	.	Note=Prevents interaction with LGALS8. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23386746;Dbxref=PMID:23386746	
+Q13137	UniProtKB	Mutagenesis	380	380	.	.	.	Note=Severely reduced affinity for LGALS8. Y->A%2CF;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23386746,ECO:0000269|PubMed:23511477;Dbxref=PMID:23386746,PMID:23511477	
+Q13137	UniProtKB	Mutagenesis	400	400	.	.	.	Note=Does not affect interaction with MYO6. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17635994;Dbxref=PMID:17635994	
+Q13137	UniProtKB	Mutagenesis	425	425	.	.	.	Note=Fails interact with MYO6 and to promote maturation of autophagosomes. C->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17635994,ECO:0000269|PubMed:25771791;Dbxref=PMID:17635994,PMID:25771791	
+Q13137	UniProtKB	Sequence conflict	102	102	.	.	.	Note=D->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13137	UniProtKB	Sequence conflict	313	313	.	.	.	Note=R->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q13137	UniProtKB	Beta strand	22	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	30	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	38	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	55	60	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Helix	66	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	89	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Helix	95	97	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	105	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	116	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	123	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVV	
+Q13137	UniProtKB	Beta strand	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3VVW	
+Q13137	UniProtKB	Turn	401	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AAQ	
+Q13137	UniProtKB	Beta strand	404	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AAQ	
+Q13137	UniProtKB	Helix	410	413	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5AAQ	
+Q13137	UniProtKB	Beta strand	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XKL	
+Q13137	UniProtKB	Turn	423	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XKL	
+Q13137	UniProtKB	Beta strand	428	430	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XKL	
+Q13137	UniProtKB	Helix	431	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2MXP	
+Q13137	UniProtKB	Helix	434	443	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4XKL	

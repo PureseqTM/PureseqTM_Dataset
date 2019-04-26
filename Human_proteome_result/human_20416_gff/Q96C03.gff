@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region Q96C03 1 454
+Q96C03	UniProtKB	Chain	1	454	.	.	.	ID=PRO_0000310445;Note=Mitochondrial dynamics protein MID49	
+Q96C03	UniProtKB	Topological domain	1	22	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96C03	UniProtKB	Transmembrane	23	43	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96C03	UniProtKB	Topological domain	44	454	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96C03	UniProtKB	Modified residue	13	13	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q96C03	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_047650;Note=In isoform 3. M->MGLSPNLDRQTM;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96C03	UniProtKB	Alternative sequence	104	205	.	.	.	ID=VSP_029358;Note=In isoform 2. EGPAETDPEVTPQLSSPAPLCLTLQERLLAFERDRVTIPAAQVALAKQLAGDIALELQAYFRSKFPELPFGAFVPGGPLYDGLQAGAADHVRLLVPLVLEPG->GEAAGLRAGPCDHPSSPGGFGQTAGWRHRPGAAGLLSEQVPGTALWGIRAWGAALRRAAGGGCGPCASPGATGAGAGPVEPGAGRGHCGEGPSLLGRAQDAA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96C03	UniProtKB	Alternative sequence	206	454	.	.	.	ID=VSP_029359;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q96C03	UniProtKB	Natural variant	324	324	.	.	.	ID=VAR_037038;Note=G->E;Dbxref=dbSNP:rs12603700	
+Q96C03	UniProtKB	Natural variant	354	354	.	.	.	ID=VAR_037039;Note=R->Q;Dbxref=dbSNP:rs3751981	
+Q96C03	UniProtKB	Mutagenesis	235	235	.	.	.	Note=Unable to associate with MIEF2 into filaments forming the tubular structures that wrap around the scission site. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29899447;Dbxref=PMID:29899447	
+Q96C03	UniProtKB	Sequence conflict	249	249	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region O43914 1 113
+O43914	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43914	UniProtKB	Chain	22	113	.	.	.	ID=PRO_0000022603;Note=TYRO protein tyrosine kinase-binding protein	
+O43914	UniProtKB	Topological domain	22	40	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43914	UniProtKB	Transmembrane	41	61	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43914	UniProtKB	Topological domain	62	113	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O43914	UniProtKB	Domain	80	108	.	.	.	Note=ITAM	
+O43914	UniProtKB	Site	54	54	.	.	.	Note=Important for interaction with transmembrane receptors	
+O43914	UniProtKB	Modified residue	91	91	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54885	
+O43914	UniProtKB	Modified residue	102	102	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O54885	
+O43914	UniProtKB	Disulfide bond	35	35	.	.	.	Note=Interchain;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20890284;Dbxref=PMID:20890284	
+O43914	UniProtKB	Alternative sequence	20	30	.	.	.	ID=VSP_046066;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:16344560;Dbxref=PMID:16344560	
+O43914	UniProtKB	Alternative sequence	77	77	.	.	.	ID=VSP_012909;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|Ref.2,ECO:0000303|Ref.3;Dbxref=PMID:14702039	
+O43914	UniProtKB	Natural variant	111	111	.	.	.	ID=VAR_011985;Note=Y->H;Dbxref=dbSNP:rs14714	
+O43914	UniProtKB	Mutagenesis	54	54	.	.	.	Note=Reduced interaction with KLRC2 and KIR2DS3. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20890284;Dbxref=PMID:20890284	
+O43914	UniProtKB	Helix	40	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4WOL	

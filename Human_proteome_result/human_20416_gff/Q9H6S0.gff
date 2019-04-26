@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q9H6S0 1 1430
+Q9H6S0	UniProtKB	Chain	1	1430	.	.	.	ID=PRO_0000249340;Note=3'-5' RNA helicase YTHDC2	
+Q9H6S0	UniProtKB	Domain	38	106	.	.	.	Note=R3H;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00382	
+Q9H6S0	UniProtKB	Domain	203	369	.	.	.	Note=Helicase ATP-binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q9H6S0	UniProtKB	Repeat	506	538	.	.	.	Note=ANK 1	
+Q9H6S0	UniProtKB	Repeat	539	571	.	.	.	Note=ANK 2	
+Q9H6S0	UniProtKB	Domain	612	784	.	.	.	Note=Helicase C-terminal;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00542	
+Q9H6S0	UniProtKB	Domain	1288	1418	.	.	.	Note=YTH;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00225	
+Q9H6S0	UniProtKB	Nucleotide binding	216	223	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00541	
+Q9H6S0	UniProtKB	Region	1294	1296	.	.	.	Note=N6-methyladenosine binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9Y5A9	
+Q9H6S0	UniProtKB	Motif	316	319	.	.	.	Note=DEAH box	
+Q9H6S0	UniProtKB	Compositional bias	15	31	.	.	.	Note=Gly-rich	
+Q9H6S0	UniProtKB	Compositional bias	1248	1281	.	.	.	Note=Ser-rich	
+Q9H6S0	UniProtKB	Binding site	1310	1310	.	.	.	Note=N6-methyladenosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96MU7	
+Q9H6S0	UniProtKB	Binding site	1360	1360	.	.	.	Note=N6-methyladenosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q96MU7	
+Q9H6S0	UniProtKB	Modified residue	1089	1089	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q9H6S0	UniProtKB	Modified residue	1090	1090	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RR83	
+Q9H6S0	UniProtKB	Modified residue	1092	1092	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9H6S0	UniProtKB	Modified residue	1202	1202	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9H6S0	UniProtKB	Modified residue	1263	1263	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RR83	
+Q9H6S0	UniProtKB	Modified residue	1267	1267	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:B2RR83	
+Q9H6S0	UniProtKB	Modified residue	1281	1281	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9H6S0	UniProtKB	Natural variant	652	652	.	.	.	ID=VAR_058002;Note=S->N;Dbxref=dbSNP:rs10071816	
+Q9H6S0	UniProtKB	Natural variant	1409	1409	.	.	.	ID=VAR_058003;Note=L->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14702039;Dbxref=dbSNP:rs1132528,PMID:14702039	
+Q9H6S0	UniProtKB	Mutagenesis	317	317	.	.	.	Note=Abolished 3'-5' RNA helicase activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29033321;Dbxref=PMID:29033321	
+Q9H6S0	UniProtKB	Mutagenesis	1360	1360	.	.	.	Note=Abolished ability to bind N6-methyladenosine (m6A)-containing RNAs. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29033321;Dbxref=PMID:29033321	
+Q9H6S0	UniProtKB	Sequence conflict	860	860	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H6S0	UniProtKB	Sequence conflict	993	993	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H6S0	UniProtKB	Sequence conflict	1230	1230	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H6S0	UniProtKB	Beta strand	1289	1298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Helix	1299	1306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Beta strand	1309	1311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Helix	1317	1326	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Beta strand	1330	1342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Beta strand	1344	1348	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Beta strand	1352	1354	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Beta strand	1368	1375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Helix	1381	1384	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Beta strand	1404	1406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Helix	1410	1415	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	
+Q9H6S0	UniProtKB	Helix	1416	1419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YU6	

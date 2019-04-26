@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q9Y5S8 1 564
+Q9Y5S8	UniProtKB	Chain	1	564	.	.	.	ID=PRO_0000210148;Note=NADPH oxidase 1	
+Q9Y5S8	UniProtKB	Topological domain	1	9	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Transmembrane	10	30	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Topological domain	31	44	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Transmembrane	45	72	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Topological domain	73	102	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Transmembrane	103	123	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Topological domain	124	168	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Transmembrane	169	189	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Topological domain	190	206	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Transmembrane	207	227	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Topological domain	228	396	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Transmembrane	397	417	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Topological domain	418	564	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Domain	54	283	.	.	.	Note=Ferric oxidoreductase	
+Q9Y5S8	UniProtKB	Domain	284	391	.	.	.	Note=FAD-binding FR-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00716	
+Q9Y5S8	UniProtKB	Nucleotide binding	338	344	.	.	.	Note=FAD;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9Y5S8	UniProtKB	Region	397	536	.	.	.	Note=Interaction with NOXO1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16329988;Dbxref=PMID:16329988	
+Q9Y5S8	UniProtKB	Metal binding	101	101	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y5S8	UniProtKB	Metal binding	115	115	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y5S8	UniProtKB	Metal binding	209	209	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y5S8	UniProtKB	Metal binding	221	221	.	.	.	Note=Iron (heme axial ligand);Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y5S8	UniProtKB	Glycosylation	162	162	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24365146;Dbxref=PMID:24365146	
+Q9Y5S8	UniProtKB	Glycosylation	236	236	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24365146;Dbxref=PMID:24365146	
+Q9Y5S8	UniProtKB	Alternative sequence	159	190	.	.	.	ID=VSP_001577;Note=In isoform NOH-1S. QSRNTTVEYVTFTSIAGLTGVIMTIALILMVT->HPHITPTVYMFTVTFDMVLSSVNSNLLFLLIK;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10615049;Dbxref=PMID:10615049	
+Q9Y5S8	UniProtKB	Alternative sequence	191	564	.	.	.	ID=VSP_001578;Note=In isoform NOH-1S. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10615049;Dbxref=PMID:10615049	
+Q9Y5S8	UniProtKB	Alternative sequence	433	481	.	.	.	ID=VSP_001579;Note=In isoform NOH-1LV. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:10615049;Dbxref=PMID:10615049	
+Q9Y5S8	UniProtKB	Natural variant	315	315	.	.	.	ID=VAR_049101;Note=R->H;Dbxref=dbSNP:rs2071756	
+Q9Y5S8	UniProtKB	Natural variant	330	330	.	.	.	ID=VAR_075548;Note=Found in a patient with very early onset inflammatory bowel disease%3B unknown pathological significance%3B no effect on subcellular location%3B significantly reduced basal and phorbol ester-stimulated ROS generation%2C which may decrease resistance to infection by enteric pathogens%2C such as Campylobacter jejuni. P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26301257;Dbxref=PMID:26301257	
+Q9Y5S8	UniProtKB	Natural variant	360	360	.	.	.	ID=VAR_061176;Note=Found in a patient with very early onset inflammatory bowel disease%3B unknown pathological significance%3B no effect on subcellular location%3B significantly reduced basal and phorbol ester-stimulated ROS generation%2C which may decrease resistance to infection by enteric pathogens%2C such as Campylobacter jejuni. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26301257;Dbxref=dbSNP:rs34688635,PMID:26301257	
+Q9Y5S8	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_049102;Note=R->K;Dbxref=dbSNP:rs35404864	
+Q9Y5S8	UniProtKB	Sequence conflict	173	173	.	.	.	Note=I->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

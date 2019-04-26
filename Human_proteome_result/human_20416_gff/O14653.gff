@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region O14653 1 212
+O14653	UniProtKB	Chain	1	212	.	.	.	ID=PRO_0000212549;Note=Golgi SNAP receptor complex member 2	
+O14653	UniProtKB	Topological domain	1	190	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14653	UniProtKB	Transmembrane	191	211	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14653	UniProtKB	Topological domain	212	212	.	.	.	Note=Vesicular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14653	UniProtKB	Coiled coil	61	107	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O14653	UniProtKB	Motif	118	120	.	.	.	Note=IxM motif%3B signal for cargo packaging into COPII-coated vesicles;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18843296;Dbxref=PMID:18843296	
+O14653	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.8	
+O14653	UniProtKB	Alternative sequence	160	212	.	.	.	ID=VSP_043200;Note=In isoform 3. GTQKKILDIANMLGLSNTVMRLIEKRAFQDKYFMIGGMLLTCVVMFLVVQYLT->VGSLLGDREKASCFSLIQQFSNCVYILITCPQIVIF;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+O14653	UniProtKB	Alternative sequence	196	212	.	.	.	ID=VSP_001829;Note=In isoform B. GMLLTCVVMFLVVQYLT->TQGSCQTAHFGGRSAGSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.3	
+O14653	UniProtKB	Natural variant	67	67	.	.	.	ID=VAR_024471;Note=R->K;Dbxref=dbSNP:rs197922	
+O14653	UniProtKB	Natural variant	144	144	.	.	.	ID=VAR_065833;Note=In EPM6%3B no effect on protein stability%3B loss of localization to the cis-Golgi network membrane%3B loss of function%3B unable to rescue the yeast strain lacking the ortholog Bos1. G->W;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21549339;Dbxref=dbSNP:rs387906881,PMID:21549339	
+O14653	UniProtKB	Mutagenesis	118	118	.	.	.	Note=Loss of interaction with SEC24C. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18843296;Dbxref=PMID:18843296	
+O14653	UniProtKB	Mutagenesis	120	120	.	.	.	Note=Loss of interaction with SEC24C. M->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18843296;Dbxref=PMID:18843296	
+O14653	UniProtKB	Sequence conflict	106	106	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14653	UniProtKB	Sequence conflict	113	113	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14653	UniProtKB	Sequence conflict	166	166	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O14653	UniProtKB	Beta strand	117	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3EG9	

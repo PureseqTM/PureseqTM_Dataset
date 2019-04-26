@@ -1,0 +1,25 @@
+##gff-version 3
+##sequence-region P52739 1 623
+P52739	UniProtKB	Chain	1	623	.	.	.	ID=PRO_0000047413;Note=Zinc finger protein 131	
+P52739	UniProtKB	Domain	34	98	.	.	.	Note=BTB;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00037	
+P52739	UniProtKB	Zinc finger	261	283	.	.	.	Note=C2H2-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+P52739	UniProtKB	Zinc finger	288	311	.	.	.	Note=C2H2-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+P52739	UniProtKB	Zinc finger	328	350	.	.	.	Note=C2H2-type 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+P52739	UniProtKB	Zinc finger	356	381	.	.	.	Note=C2H2-type 4%3B degenerate;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+P52739	UniProtKB	Zinc finger	392	414	.	.	.	Note=C2H2-type 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+P52739	UniProtKB	Zinc finger	420	443	.	.	.	Note=C2H2-type 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00042	
+P52739	UniProtKB	Motif	137	148	.	.	.	Note=Nuclear localization signal 1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17306895;Dbxref=PMID:17306895	
+P52739	UniProtKB	Motif	317	328	.	.	.	Note=Nuclear localization signal 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17306895;Dbxref=PMID:17306895	
+P52739	UniProtKB	Cross-link	289	289	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P52739	UniProtKB	Cross-link	295	295	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P52739	UniProtKB	Cross-link	601	601	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)	
+P52739	UniProtKB	Alternative sequence	244	277	.	.	.	ID=VSP_016923;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+P52739	UniProtKB	Mutagenesis	242	242	.	.	.	Note=No effect on sumoylation%3B when associated with R-281 and R-289. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22467880;Dbxref=PMID:22467880	
+P52739	UniProtKB	Mutagenesis	281	281	.	.	.	Note=No effect on sumoylation%3B when associated with R-242 and R-281. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22467880;Dbxref=PMID:22467880	
+P52739	UniProtKB	Mutagenesis	289	289	.	.	.	Note=No effect on sumoylation%3B when associated with R-242 and R-281. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22467880;Dbxref=PMID:22467880	
+P52739	UniProtKB	Mutagenesis	477	477	.	.	.	Note=Small loss of sumoylation. Complete loss of CBX4 sumoylation%3B when associated with R-601 and R-610. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22467880;Dbxref=PMID:22467880	
+P52739	UniProtKB	Mutagenesis	601	601	.	.	.	Note=Significant loss of sumoylation. Complete loss of CBX4 sumoylation%3B when associated with R-477 and R-610. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22467880;Dbxref=PMID:22467880	
+P52739	UniProtKB	Mutagenesis	610	610	.	.	.	Note=No effect on sumoylation. Complete loss of CBX4 sumoylation%3B when associated with R-477 and R-601. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22467880;Dbxref=PMID:22467880	
+P52739	UniProtKB	Sequence conflict	148	151	.	.	.	Note=AETS->CSKA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52739	UniProtKB	Sequence conflict	175	176	.	.	.	Note=GT->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P52739	UniProtKB	Sequence conflict	311	311	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

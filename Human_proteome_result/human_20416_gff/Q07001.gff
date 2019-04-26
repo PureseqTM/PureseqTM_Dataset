@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region Q07001 1 517
+Q07001	UniProtKB	Signal peptide	1	21	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q07001	UniProtKB	Chain	22	517	.	.	.	ID=PRO_0000000322;Note=Acetylcholine receptor subunit delta	
+Q07001	UniProtKB	Topological domain	22	245	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Transmembrane	246	270	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Transmembrane	278	299	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Transmembrane	312	333	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Topological domain	334	471	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Transmembrane	472	490	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Modified residue	390	390	.	.	.	Note=Phosphotyrosine%3B by Tyr-kinases;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q07001	UniProtKB	Glycosylation	97	97	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Glycosylation	164	164	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q07001	UniProtKB	Disulfide bond	151	165	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q07001	UniProtKB	Alternative sequence	67	81	.	.	.	ID=VSP_046423;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q07001	UniProtKB	Natural variant	42	42	.	.	.	ID=VAR_073691;Note=In CMS3B%3B results in reduced gating efficiency%3B slows opening of the channel%3B decreases probability that the channel will open in response to ACh. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18398509;Dbxref=PMID:18398509	
+Q07001	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_073692;Note=In CMS3B%3B prevents expression of the AChR on the cell surface%3B is a null mutation. I->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18398509;Dbxref=dbSNP:rs121909509,PMID:18398509	
+Q07001	UniProtKB	Natural variant	80	80	.	.	.	ID=VAR_021210;Note=In CMS3B%3B reduced adult and fetal AChR expression and a reduced probability of both adult and fetal AChR being in the open state. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11435464;Dbxref=dbSNP:rs121909504,PMID:11435464	
+Q07001	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_043905;Note=In LMPS. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18252226;Dbxref=dbSNP:rs121909506,PMID:18252226	
+Q07001	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_073693;Note=Polymorphism%3B has no appreciable kinetic effects%3B allows for robust AChR expression. V->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18398509;Dbxref=dbSNP:rs760395222,PMID:18398509	
+Q07001	UniProtKB	Natural variant	271	271	.	.	.	ID=VAR_021211;Note=In CMS3B%3B burst duration was decreased and disassociation of ACh was increased resulting in brief channel opening episodes%3B shows abnormal association with alpha CHRNA1 subunit resulting in a decreased number of fully assembled AChRs. P->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12499478;Dbxref=dbSNP:rs121909503,PMID:12499478	
+Q07001	UniProtKB	Natural variant	288	288	.	.	.	ID=VAR_021212;Note=In CMS3A%3B a benign mutation or a rare polymorphism. Q->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8872460;Dbxref=dbSNP:rs41265127,PMID:8872460	
+Q07001	UniProtKB	Natural variant	289	289	.	.	.	ID=VAR_019566;Note=In CMS3A%3B delayed closure of AchR ion channels%2C increasing the propensity for open-channel block%2C as well as a reduced rate of channel opening. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11782989;Dbxref=dbSNP:rs121909502,PMID:11782989	
+Q07001	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_036031;Note=In a breast cancer sample%3B somatic mutation. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q07001	UniProtKB	Natural variant	402	402	.	.	.	ID=VAR_073694;Note=In CMS3C%3B results in reduced expression of the AChR at the cell surface%3B impairs normal clustering of the AChR channel with RAPSN. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16916845;Dbxref=dbSNP:rs145955590,PMID:16916845	
+Q07001	UniProtKB	Mutagenesis	290	290	.	.	.	Note=Increased length of channel opening. V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27375219;Dbxref=PMID:27375219	

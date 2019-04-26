@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region O94955 1 611
+O94955	UniProtKB	Chain	1	611	.	.	.	ID=PRO_0000198964;Note=Rho-related BTB domain-containing protein 3	
+O94955	UniProtKB	Domain	254	356	.	.	.	Note=BTB 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00037	
+O94955	UniProtKB	Domain	420	487	.	.	.	Note=BTB 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00037	
+O94955	UniProtKB	Region	1	175	.	.	.	Note=Rho-like	
+O94955	UniProtKB	Region	420	611	.	.	.	Note=Interaction with Rab9	
+O94955	UniProtKB	Natural variant	20	20	.	.	.	ID=VAR_030490;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17855649,PMID:15489334	
+O94955	UniProtKB	Natural variant	21	21	.	.	.	ID=VAR_018481;Note=P->R;Dbxref=dbSNP:rs2302980	
+O94955	UniProtKB	Natural variant	262	262	.	.	.	ID=VAR_018482;Note=N->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10048485,ECO:0000269|PubMed:12426103;Dbxref=dbSNP:rs34899,PMID:10048485,PMID:12426103	
+O94955	UniProtKB	Mutagenesis	138	138	.	.	.	Note=Abolishes ATP-binding. N->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19490898;Dbxref=PMID:19490898	
+O94955	UniProtKB	Mutagenesis	498	498	.	.	.	Note=Abolishes interaction with RAB9A. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19490898;Dbxref=PMID:19490898	
+O94955	UniProtKB	Mutagenesis	532	532	.	.	.	Note=Abolishes interaction with RAB9A. D->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19490898;Dbxref=PMID:19490898	
+O94955	UniProtKB	Mutagenesis	533	533	.	.	.	Note=Abolishes interaction with RAB9A. I->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19490898;Dbxref=PMID:19490898	
+O94955	UniProtKB	Mutagenesis	608	611	.	.	.	Note=Does not affect subcellular location%2C suggesting this protein is not prenylated. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19490898;Dbxref=PMID:19490898	

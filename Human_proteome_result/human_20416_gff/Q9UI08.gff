@@ -1,0 +1,32 @@
+##gff-version 3
+##sequence-region Q9UI08 1 416
+Q9UI08	UniProtKB	Chain	1	416	.	.	.	ID=PRO_0000087104;Note=Ena/VASP-like protein	
+Q9UI08	UniProtKB	Domain	1	112	.	.	.	Note=WH1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00410	
+Q9UI08	UniProtKB	Region	222	413	.	.	.	Note=EVH2	
+Q9UI08	UniProtKB	Region	222	242	.	.	.	Note=EVH2 block A	
+Q9UI08	UniProtKB	Region	265	282	.	.	.	Note=EVH2 block B	
+Q9UI08	UniProtKB	Region	342	362	.	.	.	Note=Required for interaction with ZDHHC17;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28882895;Dbxref=PMID:28882895	
+Q9UI08	UniProtKB	Region	379	413	.	.	.	Note=EVH2 block C	
+Q9UI08	UniProtKB	Motif	231	234	.	.	.	Note=KLKR	
+Q9UI08	UniProtKB	Compositional bias	162	206	.	.	.	Note=Pro-rich	
+Q9UI08	UniProtKB	Modified residue	130	130	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08719	
+Q9UI08	UniProtKB	Modified residue	246	246	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9UI08	UniProtKB	Modified residue	259	259	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O08719	
+Q9UI08	UniProtKB	Modified residue	304	304	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+Q9UI08	UniProtKB	Modified residue	306	306	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9UI08	UniProtKB	Modified residue	329	329	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q9UI08	UniProtKB	Modified residue	331	331	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q9UI08	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q9UI08	UniProtKB	Modified residue	349	349	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19367720,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19367720,PMID:24275569	
+Q9UI08	UniProtKB	Modified residue	354	354	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19690332;Dbxref=PMID:19690332	
+Q9UI08	UniProtKB	Modified residue	369	369	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19367720,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:19367720,PMID:23186163,PMID:24275569	
+Q9UI08	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_004044;Note=In isoform 1 and isoform 5. M->MAT;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10931946,ECO:0000303|PubMed:15489334,ECO:0000303|Ref.19,ECO:0000303|Ref.2;Dbxref=PMID:10931946,PMID:15489334	
+Q9UI08	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_057322;Note=In isoform 3. M->MFAFEEF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UI08	UniProtKB	Alternative sequence	342	362	.	.	.	ID=VSP_058778;Note=In isoform 5. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.19	
+Q9UI08	UniProtKB	Alternative sequence	364	416	.	.	.	ID=VSP_057323;Note=In isoform 3. MKPAGSVNDMALDAFDLDRMKQEILEEVVRELHKVKEEIIDAIRQELSGISTT->YRTTLLLTCPPGFGAPLSPVP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9UI08	UniProtKB	Alternative sequence	368	397	.	.	.	ID=VSP_058779;Note=In isoform 4. Missing	
+Q9UI08	UniProtKB	Natural variant	188	188	.	.	.	ID=VAR_036464;Note=In a colorectal cancer sample%3B somatic mutation. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=dbSNP:rs367737727,PMID:16959974	
+Q9UI08	UniProtKB	Natural variant	247	247	.	.	.	ID=VAR_036465;Note=In a colorectal cancer sample%3B somatic mutation. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16959974;Dbxref=PMID:16959974	
+Q9UI08	UniProtKB	Sequence conflict	201	201	.	.	.	Note=P->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UI08	UniProtKB	Sequence conflict	329	329	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UI08	UniProtKB	Sequence conflict	364	364	.	.	.	Note=M->Y;Ontology_term=ECO:0000305;evidence=ECO:0000305	

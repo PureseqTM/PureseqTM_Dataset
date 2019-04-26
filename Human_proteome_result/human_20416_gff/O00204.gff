@@ -1,0 +1,66 @@
+##gff-version 3
+##sequence-region O00204 1 365
+O00204	UniProtKB	Chain	1	365	.	.	.	ID=PRO_0000085149;Note=Sulfotransferase family cytosolic 2B member 1	
+O00204	UniProtKB	Nucleotide binding	70	75	.	.	.	Note=PAPS	
+O00204	UniProtKB	Nucleotide binding	244	249	.	.	.	Note=PAPS	
+O00204	UniProtKB	Nucleotide binding	274	276	.	.	.	Note=PAPS	
+O00204	UniProtKB	Compositional bias	305	365	.	.	.	Note=Pro/Ser-rich	
+O00204	UniProtKB	Active site	125	125	.	.	.	Note=Proton acceptor	
+O00204	UniProtKB	Binding site	98	98	.	.	.	Note=Substrate	
+O00204	UniProtKB	Binding site	103	103	.	.	.	Note=Substrate	
+O00204	UniProtKB	Binding site	125	125	.	.	.	Note=Substrate	
+O00204	UniProtKB	Binding site	147	147	.	.	.	Note=PAPS	
+O00204	UniProtKB	Binding site	155	155	.	.	.	Note=PAPS	
+O00204	UniProtKB	Binding site	210	210	.	.	.	Note=PAPS	
+O00204	UniProtKB	Modified residue	348	348	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21855633;Dbxref=PMID:21855633	
+O00204	UniProtKB	Alternative sequence	1	23	.	.	.	ID=VSP_012510;Note=In isoform 2. MDGPAEPQIPGLWDTYEDDISEI->MASPPPFH;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9799594;Dbxref=PMID:9799594	
+O00204	UniProtKB	Natural variant	51	51	.	.	.	ID=VAR_020887;Note=L->S;Dbxref=dbSNP:rs16982149	
+O00204	UniProtKB	Natural variant	149	149	.	.	.	ID=VAR_079210;Note=In ARCI14%3B unknown pathological significance. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575648;Dbxref=dbSNP:rs1114167424,PMID:28575648	
+O00204	UniProtKB	Natural variant	240	240	.	.	.	ID=VAR_021988;Note=V->I;Dbxref=dbSNP:rs2302947	
+O00204	UniProtKB	Natural variant	274	274	.	.	.	ID=VAR_079211;Note=In ARCI14%3B unknown pathological significance. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28575648;Dbxref=dbSNP:rs762765702,PMID:28575648	
+O00204	UniProtKB	Natural variant	345	345	.	.	.	ID=VAR_020888;Note=P->L;Dbxref=dbSNP:rs17842463	
+O00204	UniProtKB	Mutagenesis	1	23	.	.	.	Note=Loss of the cholesterol sulfotransferase activity. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	1	18	.	.	.	Note=Increases the cholesterol sulfotransferase activity. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	19	19	.	.	.	Note=Increases the cholesterol sulfotransferase activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	20	20	.	.	.	Note=Loss of the cholesterol sulfotransferase activity. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Increases the cholesterol sulfotransferase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Increases the cholesterol sulfotransferase activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	23	23	.	.	.	Note=Loss of the cholesterol sulfotransferase activity. I->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12145317;Dbxref=PMID:12145317	
+O00204	UniProtKB	Mutagenesis	347	347	.	.	.	Note=No change in subcellular localization. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21855633;Dbxref=PMID:21855633	
+O00204	UniProtKB	Mutagenesis	348	348	.	.	.	Note=10-fold increase in specific activity for DHEA sulfation. 10-fold increase in substrate affinity for DHEA and pregnenolone. No effect on substrate affinity for PAPS. Increases enzyme stability. S->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21855633;Dbxref=PMID:21855633	
+O00204	UniProtKB	Mutagenesis	348	348	.	.	.	Note=Abolishes nuclear localization. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21855633;Dbxref=PMID:21855633	
+O00204	UniProtKB	Mutagenesis	352	352	.	.	.	Note=No change in subcellular localization. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21855633;Dbxref=PMID:21855633	
+O00204	UniProtKB	Mutagenesis	357	357	.	.	.	Note=No change in subcellular localization. S->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21855633;Dbxref=PMID:21855633	
+O00204	UniProtKB	Sequence conflict	350	350	.	.	.	Note=S->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O00204	UniProtKB	Helix	19	25	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	31	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	37	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	46	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	63	68	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	73	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Turn	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	90	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	97	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	103	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	110	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	121	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Turn	128	130	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	133	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	141	146	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	149	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	163	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q1Z	
+O00204	UniProtKB	Helix	172	180	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	189	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	197	199	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Beta strand	205	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	210	215	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	217	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	234	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	246	250	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Turn	253	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Turn	256	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q1Z	
+O00204	UniProtKB	Turn	262	264	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Turn	267	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	280	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Helix	287	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	
+O00204	UniProtKB	Turn	301	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1Q20	

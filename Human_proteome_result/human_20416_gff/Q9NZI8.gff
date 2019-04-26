@@ -1,0 +1,40 @@
+##gff-version 3
+##sequence-region Q9NZI8 1 577
+Q9NZI8	UniProtKB	Chain	1	577	.	.	.	ID=PRO_0000282533;Note=Insulin-like growth factor 2 mRNA-binding protein 1	
+Q9NZI8	UniProtKB	Domain	2	75	.	.	.	Note=RRM 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9NZI8	UniProtKB	Domain	81	156	.	.	.	Note=RRM 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9NZI8	UniProtKB	Domain	195	260	.	.	.	Note=KH 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9NZI8	UniProtKB	Domain	276	343	.	.	.	Note=KH 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9NZI8	UniProtKB	Domain	405	470	.	.	.	Note=KH 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9NZI8	UniProtKB	Domain	487	553	.	.	.	Note=KH 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00117	
+Q9NZI8	UniProtKB	Region	187	570	.	.	.	Note=Necessary for interaction with ELAVL4 and binding to TAU mRNA;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9NZI8	UniProtKB	Region	310	324	.	.	.	Note=Sufficient for nuclear export	
+Q9NZI8	UniProtKB	Region	485	495	.	.	.	Note=Sufficient for nuclear export	
+Q9NZI8	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NZI8	UniProtKB	Modified residue	73	73	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NZI8	UniProtKB	Modified residue	181	181	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:16964243,PMID:17081983,PMID:20068231,PMID:23186163	
+Q9NZI8	UniProtKB	Modified residue	528	528	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9NZI8	UniProtKB	Alternative sequence	135	273	.	.	.	ID=VSP_045366;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q9NZI8	UniProtKB	Mutagenesis	213	214	.	.	.	Note=50-fold decrease in RNA-binding affinity%2C decreased location in cytoplasmic RNP%2C increased nuclear location%3B when associated with 294-E-L-295 and 423-E-L-424. KE->EL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12921532;Dbxref=PMID:12921532	
+Q9NZI8	UniProtKB	Mutagenesis	294	295	.	.	.	Note=50-fold decrease in RNA-binding affinity%2C decreased location in cytoplasmic RNP%2C increased nuclear location%3B when associated with 213-E-L-214 and 423-E-L-424. KE->EL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12921532;Dbxref=PMID:12921532	
+Q9NZI8	UniProtKB	Mutagenesis	423	424	.	.	.	Note=50-fold decrease in RNA-binding affinity%2C decreased location in cytoplasmic RNP%2C increased nuclear location%3B when associated with 213-E-L-214 and 294-E-L-295. KK->EL;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12921532;Dbxref=PMID:12921532	
+Q9NZI8	UniProtKB	Sequence conflict	10	10	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZI8	UniProtKB	Sequence conflict	281	281	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZI8	UniProtKB	Sequence conflict	320	320	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZI8	UniProtKB	Sequence conflict	365	365	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NZI8	UniProtKB	Beta strand	406	413	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	414	416	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	417	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	423	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	426	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Beta strand	438	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Beta strand	450	458	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	460	476	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Beta strand	488	495	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Turn	496	498	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	499	503	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	505	507	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	508	517	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Beta strand	520	522	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Beta strand	533	541	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	
+Q9NZI8	UniProtKB	Helix	543	560	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KRM	

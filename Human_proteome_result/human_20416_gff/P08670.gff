@@ -1,0 +1,105 @@
+##gff-version 3
+##sequence-region P08670 1 466
+P08670	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+P08670	UniProtKB	Chain	2	466	.	.	.	ID=PRO_0000063754;Note=Vimentin	
+P08670	UniProtKB	Domain	103	411	.	.	.	Note=IF rod;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01188	
+P08670	UniProtKB	Region	2	95	.	.	.	Note=Head	
+P08670	UniProtKB	Region	96	131	.	.	.	Note=Coil 1A	
+P08670	UniProtKB	Region	132	153	.	.	.	Note=Linker 1	
+P08670	UniProtKB	Region	154	245	.	.	.	Note=Coil 1B	
+P08670	UniProtKB	Region	246	268	.	.	.	Note=Linker 12	
+P08670	UniProtKB	Region	269	407	.	.	.	Note=Coil 2	
+P08670	UniProtKB	Region	408	466	.	.	.	Note=Tail	
+P08670	UniProtKB	Coiled coil	96	131	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20176112;Dbxref=PMID:20176112	
+P08670	UniProtKB	Coiled coil	154	245	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20176112;Dbxref=PMID:20176112	
+P08670	UniProtKB	Coiled coil	303	407	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20176112;Dbxref=PMID:20176112	
+P08670	UniProtKB	Motif	326	329	.	.	.	Note=[IL]-x-C-x-x-[DE] motif;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:25417112;Dbxref=PMID:25417112	
+P08670	UniProtKB	Site	351	351	.	.	.	Note=Stutter	
+P08670	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.13	
+P08670	UniProtKB	Modified residue	5	5	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000269|PubMed:14762106;Dbxref=PMID:18669648,PMID:14762106	
+P08670	UniProtKB	Modified residue	7	7	.	.	.	Note=Phosphoserine%3B by PKA and PKC%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14762106;Dbxref=PMID:14762106	
+P08670	UniProtKB	Modified residue	8	8	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14762106;Dbxref=PMID:14762106	
+P08670	UniProtKB	Modified residue	9	9	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14762106;Dbxref=PMID:14762106	
+P08670	UniProtKB	Modified residue	10	10	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14762106;Dbxref=PMID:14762106	
+P08670	UniProtKB	Modified residue	20	20	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:24275569	
+P08670	UniProtKB	Modified residue	25	25	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569	
+P08670	UniProtKB	Modified residue	26	26	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P08670	UniProtKB	Modified residue	34	34	.	.	.	Note=Phosphoserine%3B by PKC%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P08670	UniProtKB	Modified residue	39	39	.	.	.	Note=Phosphoserine%3B by CaMK2%2C PKA%2C PKC and ROCK2;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:14762106;Dbxref=PMID:18669648,PMID:23186163,PMID:24275569,PMID:14762106	
+P08670	UniProtKB	Modified residue	42	42	.	.	.	Note=Phosphoserine%3B by PKC;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:14762106;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163,PMID:14762106	
+P08670	UniProtKB	Modified residue	47	47	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P08670	UniProtKB	Modified residue	49	49	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P08670	UniProtKB	Modified residue	51	51	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:20068231,PMID:21406692,PMID:23186163	
+P08670	UniProtKB	Modified residue	53	53	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	55	55	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P31000	
+P08670	UniProtKB	Modified residue	56	56	.	.	.	Note=Phosphoserine%3B by CDK5 and CDK1;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:16964243,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:21465480,ECO:0000269|Ref.14;Dbxref=PMID:16964243,PMID:18669648,PMID:19690332,PMID:20068231,PMID:23186163,PMID:21465480	
+P08670	UniProtKB	Modified residue	61	61	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163	
+P08670	UniProtKB	Modified residue	66	66	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P08670	UniProtKB	Modified residue	72	72	.	.	.	Note=Phosphoserine%3B by AURKB and ROCK2;Ontology_term=ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000269|PubMed:12458200,ECO:0000269|PubMed:14762106;Dbxref=PMID:18669648,PMID:12458200,PMID:14762106	
+P08670	UniProtKB	Modified residue	73	73	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:14762106;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163,PMID:14762106	
+P08670	UniProtKB	Modified residue	83	83	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:20068231,PMID:24275569	
+P08670	UniProtKB	Modified residue	87	87	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+P08670	UniProtKB	Modified residue	117	117	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15592455;Dbxref=PMID:15592455	
+P08670	UniProtKB	Modified residue	120	120	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P08670	UniProtKB	Modified residue	120	120	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	129	129	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	129	129	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	139	139	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P08670	UniProtKB	Modified residue	144	144	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692	
+P08670	UniProtKB	Modified residue	168	168	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	188	188	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	188	188	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	214	214	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:17081983,PMID:20068231,PMID:23186163,PMID:24275569	
+P08670	UniProtKB	Modified residue	223	223	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	226	226	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P08670	UniProtKB	Modified residue	235	235	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	294	294	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	294	294	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	299	299	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P08670	UniProtKB	Modified residue	325	325	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	373	373	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P08670	UniProtKB	Modified residue	409	409	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+P08670	UniProtKB	Modified residue	412	412	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:17924679,ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:20068231;Dbxref=PMID:17081983,PMID:17924679,PMID:18669648,PMID:18691976,PMID:20068231	
+P08670	UniProtKB	Modified residue	419	419	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:23186163,PMID:24275569	
+P08670	UniProtKB	Modified residue	420	420	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:14762106;Dbxref=PMID:20068231,PMID:23186163,PMID:14762106	
+P08670	UniProtKB	Modified residue	426	426	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:24275569;Dbxref=PMID:20068231,PMID:24275569	
+P08670	UniProtKB	Modified residue	430	430	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:14762106;Dbxref=PMID:20068231,PMID:23186163,PMID:24275569,PMID:14762106	
+P08670	UniProtKB	Modified residue	436	436	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:20068231,PMID:23186163	
+P08670	UniProtKB	Modified residue	438	438	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P08670	UniProtKB	Modified residue	445	445	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+P08670	UniProtKB	Modified residue	445	445	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P20152	
+P08670	UniProtKB	Modified residue	446	446	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P08670	UniProtKB	Modified residue	458	458	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14762106;Dbxref=PMID:14762106	
+P08670	UniProtKB	Modified residue	459	459	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:14762106;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163,PMID:14762106	
+P08670	UniProtKB	Glycosylation	7	7	.	.	.	Note=O-linked (GlcNAc) serine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20068230;Dbxref=PMID:20068230	
+P08670	UniProtKB	Glycosylation	33	33	.	.	.	Note=O-linked (GlcNAc) threonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20068230;Dbxref=PMID:20068230	
+P08670	UniProtKB	Glycosylation	34	34	.	.	.	Note=O-linked (GlcNAc) serine%3B alternate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20068230;Dbxref=PMID:20068230	
+P08670	UniProtKB	Cross-link	104	104	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	120	120	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	129	129	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	139	139	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	223	223	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	262	262	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	294	294	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	313	313	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	373	373	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	439	439	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+P08670	UniProtKB	Cross-link	445	445	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1)%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:25114211;Dbxref=PMID:25114211	
+P08670	UniProtKB	Cross-link	445	445	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)%3B alternate;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:25114211,ECO:0000244|PubMed:28112733;Dbxref=PMID:25114211,PMID:28112733	
+P08670	UniProtKB	Natural variant	151	151	.	.	.	ID=VAR_070100;Note=In CTRCT30%3B the mutation increases the proteasome activity in transfected cells%3B causes also a severe kinetic defect in vimentin assembly both in vitro and in vivo. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19126778;Dbxref=dbSNP:rs121917775,PMID:19126778	
+P08670	UniProtKB	Natural variant	208	208	.	.	.	ID=VAR_078860;Note=In CTRCT30%3B unknown pathological significance. Q->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28450710;Dbxref=dbSNP:rs1085307141,PMID:28450710	
+P08670	UniProtKB	Sequence conflict	42	42	.	.	.	Note=S->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	113	113	.	.	.	Note=R->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	197	197	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	201	201	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	265	265	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	278	278	.	.	.	Note=S->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	339	339	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	350	350	.	.	.	Note=N->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Sequence conflict	442	442	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08670	UniProtKB	Helix	101	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GK7	
+P08670	UniProtKB	Helix	167	235	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YPC	
+P08670	UniProtKB	Beta strand	238	241	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4YPC	
+P08670	UniProtKB	Turn	244	248	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3UF1	
+P08670	UniProtKB	Helix	266	334	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3TRT	
+P08670	UniProtKB	Helix	385	405	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1GK6	

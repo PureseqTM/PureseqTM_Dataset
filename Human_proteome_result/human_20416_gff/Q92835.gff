@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q92835 1 1189
+Q92835	UniProtKB	Chain	1	1189	.	.	.	ID=PRO_0000302866;Note=Phosphatidylinositol 3%2C4%2C5-trisphosphate 5-phosphatase 1	
+Q92835	UniProtKB	Domain	5	101	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q92835	UniProtKB	Region	1016	1030	.	.	.	Note=Interaction with DAB2;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q92835	UniProtKB	Motif	124	129	.	.	.	Note=SH3-binding 1	
+Q92835	UniProtKB	Motif	912	915	.	.	.	Note=NPXY motif 1	
+Q92835	UniProtKB	Motif	969	974	.	.	.	Note=SH3-binding 2	
+Q92835	UniProtKB	Motif	1019	1022	.	.	.	Note=NPXY motif 2	
+Q92835	UniProtKB	Motif	1040	1051	.	.	.	Note=SH3-binding 3	
+Q92835	UniProtKB	Compositional bias	920	1148	.	.	.	Note=Pro-rich	
+Q92835	UniProtKB	Modified residue	243	243	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES52	
+Q92835	UniProtKB	Modified residue	915	915	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:15592455;Dbxref=PMID:15592455	
+Q92835	UniProtKB	Modified residue	934	934	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES52	
+Q92835	UniProtKB	Modified residue	944	944	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES52	
+Q92835	UniProtKB	Modified residue	960	960	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92835	UniProtKB	Modified residue	963	963	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92835	UniProtKB	Modified residue	971	971	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:24275569;Dbxref=PMID:24275569	
+Q92835	UniProtKB	Modified residue	1022	1022	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9ES52	
+Q92835	UniProtKB	Alternative sequence	1	212	.	.	.	ID=VSP_027977;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8723348;Dbxref=PMID:8723348	
+Q92835	UniProtKB	Alternative sequence	117	117	.	.	.	ID=VSP_027978;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8769125,ECO:0000303|PubMed:8874179;Dbxref=PMID:15489334,PMID:8769125,PMID:8874179	
+Q92835	UniProtKB	Alternative sequence	213	222	.	.	.	ID=VSP_027979;Note=In isoform 3. TTLLCKELYG->MFTLSPAPR;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8723348;Dbxref=PMID:8723348	
+Q92835	UniProtKB	Natural variant	685	685	.	.	.	ID=VAR_034979;Note=In one patient with acute myeloid leukemya%3B somatic mutation. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12529653;Dbxref=PMID:12529653	
+Q92835	UniProtKB	Natural variant	1169	1169	.	.	.	ID=VAR_059358;Note=H->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:8769125;Dbxref=dbSNP:rs9247,PMID:15489334,PMID:8769125	
+Q92835	UniProtKB	Sequence conflict	25	26	.	.	.	Note=DG->GT;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92835	UniProtKB	Sequence conflict	1029	1029	.	.	.	Note=P->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92835	UniProtKB	Beta strand	4	9	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Helix	12	22	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	27	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	39	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	50	57	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	63	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	70	72	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	76	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Helix	79	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	
+Q92835	UniProtKB	Beta strand	88	95	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YSX	

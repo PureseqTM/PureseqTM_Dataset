@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region O60704 1 377
+O60704	UniProtKB	Chain	1	377	.	.	.	ID=PRO_0000189829;Note=Protein-tyrosine sulfotransferase 2	
+O60704	UniProtKB	Topological domain	1	8	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60704	UniProtKB	Transmembrane	9	25	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60704	UniProtKB	Topological domain	26	377	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60704	UniProtKB	Region	78	82	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3	
+O60704	UniProtKB	Region	101	105	.	.	.	Note=Interaction with peptide substrate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Region	285	294	.	.	.	Note=PAPS binding;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3	
+O60704	UniProtKB	Active site	99	99	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Binding site	183	183	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Binding site	191	191	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Binding site	195	195	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Binding site	238	238	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Binding site	300	300	.	.	.	Note=PAPS;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000305;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Site	158	158	.	.	.	Note=Transition state stabilizer;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Site	285	285	.	.	.	Note=Transition state stabilizer;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Glycosylation	343	343	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60704	UniProtKB	Glycosylation	368	368	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+O60704	UniProtKB	Disulfide bond	96	156	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Disulfide bond	225	233	.	.	.	Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:3AP1,ECO:0000244|PDB:3AP2,ECO:0000244|PDB:3AP3,ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	78	78	.	.	.	Note=Strongly reduced enzymatic activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	99	99	.	.	.	Note=Loss of sulfotransferase activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Prevents dimerization and strongly decreases enzyme activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	113	113	.	.	.	Note=Prevents dimerization and decreases enzyme activity. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	158	158	.	.	.	Note=Nearly complete loss of enzymatic activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	198	198	.	.	.	Note=Slightly decreased sulfotransferase activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Abolishes sulfotransferase activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23481380;Dbxref=PMID:23481380	
+O60704	UniProtKB	Sequence conflict	26	26	.	.	.	Note=Q->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60704	UniProtKB	Sequence conflict	26	26	.	.	.	Note=Q->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60704	UniProtKB	Sequence conflict	73	73	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60704	UniProtKB	Sequence conflict	73	73	.	.	.	Note=V->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60704	UniProtKB	Sequence conflict	115	115	.	.	.	Note=K->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O60704	UniProtKB	Beta strand	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP2	
+O60704	UniProtKB	Beta strand	62	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP2	
+O60704	UniProtKB	Beta strand	71	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Beta strand	76	80	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	81	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	102	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	117	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	130	147	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Beta strand	153	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	160	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	166	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Beta strand	177	182	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	185	195	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	207	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Turn	230	232	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Beta strand	233	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	238	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	245	256	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	262	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	267	269	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Beta strand	283	285	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP3	
+O60704	UniProtKB	Helix	286	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Turn	300	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	307	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	319	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Beta strand	329	331	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	
+O60704	UniProtKB	Helix	339	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3AP1	

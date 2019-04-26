@@ -1,0 +1,70 @@
+##gff-version 3
+##sequence-region O75390 1 466
+O75390	UniProtKB	Transit peptide	1	27	.	.	.	Note=Mitochondrion	
+O75390	UniProtKB	Chain	28	466	.	.	.	ID=PRO_0000005471;Note=Citrate synthase%2C mitochondrial	
+O75390	UniProtKB	Active site	301	301	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10117	
+O75390	UniProtKB	Active site	347	347	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10117	
+O75390	UniProtKB	Active site	402	402	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU10117	
+O75390	UniProtKB	Modified residue	57	57	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	76	76	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29RK1	
+O75390	UniProtKB	Modified residue	76	76	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q29RK1	
+O75390	UniProtKB	Modified residue	103	103	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	193	193	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	321	321	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	321	321	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	327	327	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O75390	UniProtKB	Modified residue	327	327	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	375	375	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O75390	UniProtKB	Modified residue	375	375	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	382	382	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O75390	UniProtKB	Modified residue	393	393	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+O75390	UniProtKB	Modified residue	393	393	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	395	395	.	.	.	Note=N6%2CN6%2CN6-trimethyllysine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:28391595,ECO:0000269|PubMed:28887308;Dbxref=PMID:28391595,PMID:28887308	
+O75390	UniProtKB	Modified residue	450	450	.	.	.	Note=N6-succinyllysine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	459	459	.	.	.	Note=N6-acetyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Modified residue	459	459	.	.	.	Note=N6-succinyllysine%3B alternate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9CZU6	
+O75390	UniProtKB	Mutagenesis	393	393	.	.	.	Note=Does not inhibit methylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28887308;Dbxref=PMID:28887308	
+O75390	UniProtKB	Mutagenesis	395	395	.	.	.	Note=Inhibits methylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28887308;Dbxref=PMID:28887308	
+O75390	UniProtKB	Sequence conflict	55	55	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	127	127	.	.	.	Note=H->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	183	183	.	.	.	Note=R->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	187	187	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	203	203	.	.	.	Note=M->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	222	222	.	.	.	Note=R->W;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	255	255	.	.	.	Note=T->M;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Sequence conflict	282	282	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+O75390	UniProtKB	Helix	33	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Beta strand	59	64	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZP	
+O75390	UniProtKB	Helix	65	69	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Turn	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Beta strand	76	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZP	
+O75390	UniProtKB	Beta strand	82	86	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Turn	87	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Beta strand	90	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	98	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	116	125	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	131	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	149	157	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	164	174	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	175	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	180	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	194	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	236	244	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	249	261	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	270	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Turn	280	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	285	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	299	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	304	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	325	337	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Beta strand	345	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	355	367	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	372	391	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Beta strand	394	399	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	401	403	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	405	411	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	417	419	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Helix	420	441	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	
+O75390	UniProtKB	Beta strand	450	452	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZP	
+O75390	UniProtKB	Helix	454	462	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5UZQ	

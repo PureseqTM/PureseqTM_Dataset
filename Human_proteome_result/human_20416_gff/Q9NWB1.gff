@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region Q9NWB1 1 397
+Q9NWB1	UniProtKB	Chain	1	397	.	.	.	ID=PRO_0000081480;Note=RNA binding protein fox-1 homolog 1	
+Q9NWB1	UniProtKB	Domain	117	193	.	.	.	Note=RRM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q9NWB1	UniProtKB	Site	118	118	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	126	126	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	127	127	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	151	151	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	156	156	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	160	160	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	184	184	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Site	194	194	.	.	.	Note=Interaction with RNA	
+Q9NWB1	UniProtKB	Modified residue	317	317	.	.	.	Note=Asymmetric dimethylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JJ43	
+Q9NWB1	UniProtKB	Modified residue	388	388	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9JJ43	
+Q9NWB1	UniProtKB	Alternative sequence	1	9	.	.	.	ID=VSP_030874;Note=In isoform 2%2C isoform 4 and isoform 5. MNCEREQLR->MLASQGVLLHPYGVPMIVPAAPYLPGLIQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.2;Dbxref=PMID:15489334	
+Q9NWB1	UniProtKB	Alternative sequence	226	253	.	.	.	ID=VSP_030875;Note=In isoform 3. GTVLLCQANQEGSSMYSAPSSLVYTSAM->V;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:10814712,ECO:0000303|PubMed:14702039,ECO:0000303|Ref.3;Dbxref=PMID:10814712,PMID:14702039	
+Q9NWB1	UniProtKB	Alternative sequence	302	310	.	.	.	ID=VSP_030876;Note=In isoform 2%2C isoform 4 and isoform 5. DGFYGADIY->EPVYGNKLLQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.2;Dbxref=PMID:15489334	
+Q9NWB1	UniProtKB	Alternative sequence	332	397	.	.	.	ID=VSP_030877;Note=In isoform 5. SYGRVYAADPYHHALAPAPTYGVGAMNAFAPLTDAKTRSHADDVGLVLSSLQASIYRGGYNRFAPY->RNQFVFVAADEISCNTSAVTDEFMLPTPTTTHLLQPPPTALVP;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.2;Dbxref=PMID:15489334	
+Q9NWB1	UniProtKB	Alternative sequence	358	383	.	.	.	ID=VSP_030878;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q9NWB1	UniProtKB	Mutagenesis	120	120	.	.	.	Note=Reduces RNA-binding affinity 160-fold. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362037;Dbxref=PMID:16362037	
+Q9NWB1	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Reduces RNA-binding affinity 1500-fold. F->A%2CI%2CR;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362037;Dbxref=PMID:16362037	
+Q9NWB1	UniProtKB	Mutagenesis	126	126	.	.	.	Note=Reduces RNA-binding affinity 15-fold. F->H%2CW;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362037;Dbxref=PMID:16362037	
+Q9NWB1	UniProtKB	Mutagenesis	126	126	.	.	.	Note=No effect on RNA-binding. F->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362037;Dbxref=PMID:16362037	
+Q9NWB1	UniProtKB	Mutagenesis	158	158	.	.	.	Note=Reduces RNA-binding affinity 700-fold. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362037;Dbxref=PMID:16362037	
+Q9NWB1	UniProtKB	Mutagenesis	160	160	.	.	.	Note=Reduces RNA-binding affinity 30'000-fold. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16362037;Dbxref=PMID:16362037	
+Q9NWB1	UniProtKB	Sequence conflict	92	92	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9NWB1	UniProtKB	Turn	110	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N82	
+Q9NWB1	UniProtKB	Beta strand	117	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZKA	
+Q9NWB1	UniProtKB	Helix	130	138	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZKA	
+Q9NWB1	UniProtKB	Beta strand	143	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZKA	
+Q9NWB1	UniProtKB	Beta strand	154	165	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZKA	
+Q9NWB1	UniProtKB	Helix	166	176	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZKA	
+Q9NWB1	UniProtKB	Beta strand	187	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ZKA	
+Q9NWB1	UniProtKB	Helix	204	206	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2N82	

@@ -1,0 +1,173 @@
+##gff-version 3
+##sequence-region P01008 1 464
+P01008	UniProtKB	Signal peptide	1	32	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.10	
+P01008	UniProtKB	Chain	33	464	.	.	.	ID=PRO_0000032489;Note=Antithrombin-III	
+P01008	UniProtKB	Binding site	81	81	.	.	.	Note=Heparin	
+P01008	UniProtKB	Binding site	161	161	.	.	.	Note=Heparin	
+P01008	UniProtKB	Binding site	177	177	.	.	.	Note=Heparin	
+P01008	UniProtKB	Site	425	426	.	.	.	Note=Reactive bond	
+P01008	UniProtKB	Modified residue	63	63	.	.	.	Note=Phosphothreonine%3B by FAM20C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+P01008	UniProtKB	Modified residue	68	68	.	.	.	Note=Phosphoserine%3B by FAM20C;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:26091039;Dbxref=PMID:24275569,PMID:26091039	
+P01008	UniProtKB	Glycosylation	128	128	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14760718,ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19159218,ECO:0000269|Ref.10;Dbxref=PMID:14760718,PMID:16335952,PMID:19159218	
+P01008	UniProtKB	Glycosylation	167	167	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.10	
+P01008	UniProtKB	Glycosylation	187	187	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14760718,ECO:0000269|PubMed:15084671,ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:19838169,ECO:0000269|Ref.10;Dbxref=PMID:14760718,PMID:15084671,PMID:16335952,PMID:19159218,PMID:19838169	
+P01008	UniProtKB	Glycosylation	224	224	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16263699,ECO:0000269|PubMed:16335952,ECO:0000269|Ref.10;Dbxref=PMID:16263699,PMID:16335952	
+P01008	UniProtKB	Disulfide bond	40	160	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.10	
+P01008	UniProtKB	Disulfide bond	53	127	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.10	
+P01008	UniProtKB	Disulfide bond	279	462	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.10	
+P01008	UniProtKB	Natural variant	17	17	.	.	.	ID=VAR_027450;Note=In AT3D%3B type-I. Y->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	23	23	.	.	.	ID=VAR_012748;Note=In AT3D%3B type-I%3B does not undergo post-translational glycosylation. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|PubMed:9845533;Dbxref=dbSNP:rs387906575,PMID:9031473,PMID:9845533	
+P01008	UniProtKB	Natural variant	30	30	.	.	.	ID=VAR_007032;Note=In Dublin. V->E;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1977621,ECO:0000269|PubMed:23910795,ECO:0000269|PubMed:9031473,ECO:0000269|Ref.7;Dbxref=dbSNP:rs2227624,PMID:1977621,PMID:23910795,PMID:9031473	
+P01008	UniProtKB	Natural variant	32	32	.	.	.	ID=VAR_027451;Note=In AT3D%3B type-I. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9759613;Dbxref=PMID:9759613	
+P01008	UniProtKB	Natural variant	39	39	.	.	.	ID=VAR_007033;Note=In AT3D%3B type-II%3B Rouen-3%3B lack of heparin-binding properties. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909558,PMID:9031473	
+P01008	UniProtKB	Natural variant	52	52	.	.	.	ID=VAR_007034;Note=Previously Whitechapel. M->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs892712171,PMID:9031473	
+P01008	UniProtKB	Natural variant	53	53	.	.	.	ID=VAR_071199;Note=In AT3D. C->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	56	56	.	.	.	ID=VAR_007035;Note=In AT3D%3B type-II%3B Rouen-4%3B lack of heparin-binding properties. R->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2365065,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs28929469,PMID:2365065,PMID:9031473	
+P01008	UniProtKB	Natural variant	73	73	.	.	.	ID=VAR_007036;Note=In AT3D%3B type-II%3B lacks heparin-binding ability. P->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23910795,ECO:0000269|PubMed:3080419,ECO:0000269|PubMed:9031473,ECO:0000269|PubMed:9759613;Dbxref=dbSNP:rs121909551,PMID:23910795,PMID:3080419,PMID:9031473,PMID:9759613	
+P01008	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_007037;Note=In AT3D%3B Tours/Alger/Amiens/Toyama/Paris-1/Paris-2/Padua-2/Barcelona-2/Kumamoto/Omura/Sasebo%3B lacks heparin-binding ability. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:6582486,ECO:0000269|PubMed:9031473,ECO:0000269|PubMed:9759613;Dbxref=dbSNP:rs121909547,PMID:6582486,PMID:9031473,PMID:9759613	
+P01008	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_007038;Note=In AT3D%3B type-II%3B Rouen-1/Padua-1/Bligny/Budapest-2%3B lack of heparin-binding properties. R->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7981186,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909552,PMID:7981186,PMID:9031473	
+P01008	UniProtKB	Natural variant	79	79	.	.	.	ID=VAR_007039;Note=In AT3D%3B type-II%3B Rouen-2%3B lack of heparin-binding properties. R->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909547,PMID:9031473	
+P01008	UniProtKB	Natural variant	87	87	.	.	.	ID=VAR_007040;Note=In AT3D%3B type-I. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_007041;Note=In AT3D%3B type-I. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs147266200,PMID:9031473	
+P01008	UniProtKB	Natural variant	90	90	.	.	.	ID=VAR_007042;Note=In AT3D%3B type-I%3B Budapest-6. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_027452;Note=In AT3D%3B type-I. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs907768931,PMID:9031473	
+P01008	UniProtKB	Natural variant	95	95	.	.	.	ID=VAR_012316;Note=In AT3D%3B type-I. Y->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7994035,ECO:0000269|PubMed:9031473;Dbxref=PMID:7994035,PMID:9031473	
+P01008	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_027453;Note=In AT3D%3B type-I. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	108	109	.	.	.	ID=VAR_007043;Note=In AT3D%3B type-I. Missing	
+P01008	UniProtKB	Natural variant	112	112	.	.	.	ID=VAR_007044;Note=In AT3D%3B type-I. P->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7959685,ECO:0000269|PubMed:9031473;Dbxref=PMID:7959685,PMID:9031473	
+P01008	UniProtKB	Natural variant	121	121	.	.	.	ID=VAR_027454;Note=In AT3D%3B type-I. M->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12894857;Dbxref=PMID:12894857	
+P01008	UniProtKB	Natural variant	125	125	.	.	.	ID=VAR_071200;Note=In AT3D. G->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	127	127	.	.	.	ID=VAR_027455;Note=In AT3D%3B type-I. C->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9157604;Dbxref=dbSNP:rs121909573,PMID:9157604	
+P01008	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_007045;Note=In AT3D%3B type-II%3B Budapest-3/Budapest-7. L->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1555650,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909567,PMID:1555650,PMID:9031473	
+P01008	UniProtKB	Natural variant	131	131	.	.	.	ID=VAR_007046;Note=In AT3D%3B type-II%3B Southport. L->V;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|Ref.55;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	133	133	.	.	.	ID=VAR_007047;Note=In AT3D%3B type I. Q->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs1411331203,PMID:9031473	
+P01008	UniProtKB	Natural variant	138	139	.	.	.	ID=VAR_007048;Note=In AT3D%3B type-I. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8486379;Dbxref=PMID:8486379	
+P01008	UniProtKB	Natural variant	146	146	.	.	.	ID=VAR_027456;Note=In AT3D%3B Dreux%3B complete loss af heparin binding. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12353073;Dbxref=dbSNP:rs1170430756,PMID:12353073	
+P01008	UniProtKB	Natural variant	147	147	.	.	.	ID=VAR_013085;Note=T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.7;Dbxref=dbSNP:rs2227606	
+P01008	UniProtKB	Natural variant	148	148	.	.	.	ID=VAR_007049;Note=In AT3D%3B type-II%3B Nagasaki%3B defective heparin binding associated with thrombosis. S->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8443391,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909569,PMID:8443391,PMID:9031473	
+P01008	UniProtKB	Natural variant	150	150	.	.	.	ID=VAR_007050;Note=In AT3D%3B type-II%3B Vienna. Q->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|Ref.55;Dbxref=dbSNP:rs765445413,PMID:9031473	
+P01008	UniProtKB	Natural variant	152	154	.	.	.	ID=VAR_012749;Note=In AT3D%3B type-I. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11794707;Dbxref=PMID:11794707	
+P01008	UniProtKB	Natural variant	152	152	.	.	.	ID=VAR_007051;Note=In AT3D%3B type-I. H->Y;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7959685;Dbxref=PMID:7959685	
+P01008	UniProtKB	Natural variant	153	153	.	.	.	ID=VAR_007052;Note=In AT3D%3B type-I. Missing	
+P01008	UniProtKB	Natural variant	158	158	.	.	.	ID=VAR_007053;Note=In AT3D%3B type-I. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	160	160	.	.	.	ID=VAR_027457;Note=In AT3D%3B type-I. C->Y;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7981186,ECO:0000269|PubMed:9031473;Dbxref=PMID:7981186,PMID:9031473	
+P01008	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_007054;Note=In AT3D%3B type-II%3B Geneva. R->Q;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2229057,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909563,PMID:2229057,PMID:9031473	
+P01008	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_012750;Note=N->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10361121;Dbxref=dbSNP:rs121909570,PMID:10361121	
+P01008	UniProtKB	Natural variant	170	170	.	.	.	ID=VAR_071201;Note=In AT3D. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	178	178	.	.	.	ID=VAR_027458;Note=In AT3D%3B type-I. L->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12894857;Dbxref=PMID:12894857	
+P01008	UniProtKB	Natural variant	179	179	.	.	.	ID=VAR_027459;Note=In AT3D%3B type-I. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15164384;Dbxref=PMID:15164384	
+P01008	UniProtKB	Natural variant	190	190	.	.	.	ID=VAR_007055;Note=Polymorphism in population of Scandinavian origin. Y->C;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7959685,ECO:0000269|PubMed:9031473;Dbxref=PMID:7959685,PMID:9031473	
+P01008	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_007056;Note=In AT3D%3B type-I and -II%3B Whitechapel. Y->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs1425532034,PMID:9031473	
+P01008	UniProtKB	Natural variant	198	198	.	.	.	ID=VAR_027460;Note=In AT3D%3B type-I. Y->H;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|PubMed:9759613;Dbxref=PMID:9031473,PMID:9759613	
+P01008	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_027461;Note=In AT3D%3B type-I. S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997988;Dbxref=PMID:10997988	
+P01008	UniProtKB	Natural variant	214	214	.	.	.	ID=VAR_007057;Note=In AT3D%3B type-I. S->Y;Dbxref=dbSNP:rs483352854	
+P01008	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_071202;Note=In AT3D. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	218	218	.	.	.	ID=VAR_027462;Note=In AT3D%3B type-I. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	219	219	.	.	.	ID=VAR_007059;Note=In AT3D%3B type-II%3B Rouen-6%3B increases affinity for heparin. N->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7989582,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909571,PMID:7989582,PMID:9031473	
+P01008	UniProtKB	Natural variant	219	219	.	.	.	ID=VAR_007058;Note=In AT3D%3B type-II%3B Glasgow-3. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	223	223	.	.	.	ID=VAR_027463;Note=In AT3D%3B type-I. S->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10997988,ECO:0000269|PubMed:11713457;Dbxref=dbSNP:rs121909572,PMID:10997988,PMID:11713457	
+P01008	UniProtKB	Natural variant	243	243	.	.	.	ID=VAR_027464;Note=In AT3D%3B type-I. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997988;Dbxref=PMID:10997988	
+P01008	UniProtKB	Natural variant	248	248	.	.	.	ID=VAR_071203;Note=In AT3D. V->G;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	251	251	.	.	.	ID=VAR_027465;Note=In AT3D%3B type-I. I->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997988;Dbxref=dbSNP:rs1423630663,PMID:10997988	
+P01008	UniProtKB	Natural variant	257	257	.	.	.	ID=VAR_027466;Note=In AT3D%3B type-I. W->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|PubMed:9759613;Dbxref=PMID:9031473,PMID:9759613	
+P01008	UniProtKB	Natural variant	261	261	.	.	.	ID=VAR_027467;Note=In AT3D. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12595305;Dbxref=PMID:12595305	
+P01008	UniProtKB	Natural variant	269	269	.	.	.	ID=VAR_007060;Note=In AT3D%3B type-II%3B Truro%3B increases affinity for heparin. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs758087836,PMID:9031473	
+P01008	UniProtKB	Natural variant	273	307	.	.	.	ID=VAR_007061;Note=In AT3D%3B type-I. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7878627;Dbxref=PMID:7878627	
+P01008	UniProtKB	Natural variant	283	283	.	.	.	ID=VAR_007062;Note=In AT3D%3B type-II. M->I;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7959685,ECO:0000269|PubMed:9031473;Dbxref=PMID:7959685,PMID:9031473	
+P01008	UniProtKB	Natural variant	283	283	.	.	.	ID=VAR_027468;Note=In AT3D%3B type-II. M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997988;Dbxref=PMID:10997988	
+P01008	UniProtKB	Natural variant	293	293	.	.	.	ID=VAR_071204;Note=In AT3D. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	302	302	.	.	.	ID=VAR_007063;Note=In AT3D%3B type-I. L->P	
+P01008	UniProtKB	Natural variant	316	316	.	.	.	ID=VAR_007064;Note=In AT3D%3B type-II%3B Haslar/Whitechapel. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	323	323	.	.	.	ID=VAR_027469;Note=In AT3D. S->P	
+P01008	UniProtKB	Natural variant	334	334	.	.	.	ID=VAR_007065;Note=In AT3D%3B type-II. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	344	344	.	.	.	ID=VAR_007066;Note=In AT3D%3B type-I. Missing	
+P01008	UniProtKB	Natural variant	381	381	.	.	.	ID=VAR_007067;Note=In AT3D%3B type-I. S->P;Dbxref=dbSNP:rs121909565	
+P01008	UniProtKB	Natural variant	391	391	.	.	.	ID=VAR_007068;Note=R->Q;Dbxref=dbSNP:rs201541724	
+P01008	UniProtKB	Natural variant	397	397	.	.	.	ID=VAR_027470;Note=In AT3D%3B type-I. S->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:10997988;Dbxref=PMID:10997988	
+P01008	UniProtKB	Natural variant	398	398	.	.	.	ID=VAR_027471;Note=In AT3D%3B type-I. D->H;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16908819;Dbxref=PMID:16908819	
+P01008	UniProtKB	Natural variant	401	401	.	.	.	ID=VAR_071205;Note=In AT3D. H->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	412	412	.	.	.	ID=VAR_027472;Note=In AT3D%3B type-I. S->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|PubMed:9759613;Dbxref=PMID:9031473,PMID:9759613	
+P01008	UniProtKB	Natural variant	414	414	.	.	.	ID=VAR_007069;Note=In AT3D%3B type-II%3B Hamilton/Glasgow-2%3B reduces interaction with thrombin by 90%25. A->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:2013320,ECO:0000269|PubMed:3179438,ECO:0000269|PubMed:7734359,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909557,PMID:2013320,PMID:3179438,PMID:7734359,PMID:9031473	
+P01008	UniProtKB	Natural variant	416	416	.	.	.	ID=VAR_007070;Note=In AT3D%3B type-II%3B Charleville/Sudbury/Vicenza/Cambridge-1. A->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909548,PMID:9031473	
+P01008	UniProtKB	Natural variant	416	416	.	.	.	ID=VAR_007071;Note=In AT3D%3B type-II%3B Cambridge-2. A->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1906811,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909548,PMID:1906811,PMID:9031473	
+P01008	UniProtKB	Natural variant	419	419	.	.	.	ID=VAR_007072;Note=In AT3D%3B type-I. A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909568,PMID:9031473	
+P01008	UniProtKB	Natural variant	424	424	.	.	.	ID=VAR_007073;Note=In AT3D%3B type-II%3B Stockholm. G->D;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1547341,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909566,PMID:1547341,PMID:9031473	
+P01008	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_007075;Note=In AT3D%3B type-II. R->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12894857,ECO:0000269|PubMed:15164384,ECO:0000269|PubMed:23910795,ECO:0000269|PubMed:3162733,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909554,PMID:12894857,PMID:15164384,PMID:23910795,PMID:3162733,PMID:9031473	
+P01008	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_007074;Note=In AT3D%3B type-II%3B Glasgow/Sheffield/Chicago/Avranches/Kumamoto-2%3B increases affinity for heparin%3B deprived of inhibitory activity. R->H;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12894857,ECO:0000269|PubMed:2781509,ECO:0000269|PubMed:3162733,ECO:0000269|PubMed:7832187,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909549,PMID:12894857,PMID:2781509,PMID:3162733,PMID:7832187,PMID:9031473	
+P01008	UniProtKB	Natural variant	425	425	.	.	.	ID=VAR_007076;Note=In AT3D%3B type-II%3B Pescara%3B deprived of inhibitory of activity. R->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909549,PMID:9031473	
+P01008	UniProtKB	Natural variant	426	426	.	.	.	ID=VAR_007077;Note=In AT3D%3B type-II%3B Denver/Milano-2%3B deprived of inhibitory activity. S->L;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15164384,ECO:0000269|PubMed:3805013,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909550,PMID:15164384,PMID:3805013,PMID:9031473	
+P01008	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_007078;Note=In AT3D%3B type-II%3B Rosny. F->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_007080;Note=In AT3D%3B type-II%3B Maisons-Laffite. F->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	434	434	.	.	.	ID=VAR_007079;Note=In AT3D%3B type-II%3B Torino. F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	436	436	.	.	.	ID=VAR_007081;Note=In AT3D%3B type-II%3B Oslo/Paris-3. A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909546,PMID:9031473	
+P01008	UniProtKB	Natural variant	437	437	.	.	.	ID=VAR_007082;Note=In AT3D%3B type-II%3B La Rochelle. N->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs1301351856,PMID:9031473	
+P01008	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_009258;Note=In AT3D%3B type I and type-II. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23910795,ECO:0000269|PubMed:9031473;Dbxref=PMID:23910795,PMID:9031473	
+P01008	UniProtKB	Natural variant	438	438	.	.	.	ID=VAR_007083;Note=In AT3D%3B type-II%3B Kyoto. R->M;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:9031473,ECO:0000269|Ref.3;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	439	439	.	.	.	ID=VAR_071206;Note=In AT3D. P->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23910795;Dbxref=PMID:23910795	
+P01008	UniProtKB	Natural variant	439	439	.	.	.	ID=VAR_007084;Note=In AT3D%3B type-II%3B Utah%3B deprived of inhibitory activity. P->L;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:3191114,ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909555,PMID:3191114,PMID:9031473	
+P01008	UniProtKB	Natural variant	439	439	.	.	.	ID=VAR_007085;Note=In AT3D%3B type-II%3B Budapest-5. P->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs1487411568,PMID:9031473	
+P01008	UniProtKB	Natural variant	441	441	.	.	.	ID=VAR_027473;Note=In AT3D%3B type-II. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12894857;Dbxref=dbSNP:rs1188571702,PMID:12894857	
+P01008	UniProtKB	Natural variant	453	453	.	.	.	ID=VAR_007086;Note=In AT3D%3B type-I. I->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7994035,ECO:0000269|PubMed:9031473;Dbxref=PMID:7994035,PMID:9031473	
+P01008	UniProtKB	Natural variant	456	456	.	.	.	ID=VAR_007087;Note=In AT3D%3B type-I. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:8274732,ECO:0000269|PubMed:9031473;Dbxref=PMID:8274732,PMID:9031473	
+P01008	UniProtKB	Natural variant	457	457	.	.	.	ID=VAR_007088;Note=In AT3D%3B type-II. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	459	461	.	.	.	ID=VAR_007089;Note=In AT3D%3B type-I. Missing	
+P01008	UniProtKB	Natural variant	459	459	.	.	.	ID=VAR_007090;Note=In AT3D%3B type-I. A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=PMID:9031473	
+P01008	UniProtKB	Natural variant	461	461	.	.	.	ID=VAR_007091;Note=In AT3D%3B type-II%3B Budapest. P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9031473;Dbxref=dbSNP:rs121909564,PMID:9031473	
+P01008	UniProtKB	Natural variant	462	462	.	.	.	ID=VAR_007092;Note=In AT3D%3B type-I. C->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:7994035,ECO:0000269|PubMed:9031473;Dbxref=PMID:7994035,PMID:9031473	
+P01008	UniProtKB	Mutagenesis	414	414	.	.	.	Note=Reduces interaction with thrombin by 99%25. A->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2013320;Dbxref=PMID:2013320	
+P01008	UniProtKB	Mutagenesis	414	414	.	.	.	Note=Reduces interaction with thrombin by 80%25. A->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:2013320;Dbxref=PMID:2013320	
+P01008	UniProtKB	Sequence conflict	69	70	.	.	.	Note=EQ->QE;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	77	77	.	.	.	Note=N->NN;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	97	97	.	.	.	Note=H->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	120	120	.	.	.	Note=A->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	226	226	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	247	249	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	388	388	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Sequence conflict	395	395	.	.	.	Note=Y->YA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01008	UniProtKB	Helix	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Turn	44	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	51	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1OYH	
+P01008	UniProtKB	Helix	78	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	104	106	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DZG	
+P01008	UniProtKB	Beta strand	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	112	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	128	137	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	140	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5T	
+P01008	UniProtKB	Helix	145	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	151	166	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Turn	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	170	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	184	186	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E04	
+P01008	UniProtKB	Helix	188	198	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	203	205	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	207	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Turn	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	236	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B4X	
+P01008	UniProtKB	Beta strand	240	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1DZG	
+P01008	UniProtKB	Beta strand	245	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	257	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	263	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	267	272	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	274	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5T	
+P01008	UniProtKB	Beta strand	278	294	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	296	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	300	306	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	309	317	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	320	322	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5T	
+P01008	UniProtKB	Helix	324	329	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	333	342	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	344	353	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	355	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	364	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Helix	374	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Turn	378	380	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Turn	384	386	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	389	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	398	407	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	409	413	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2B5T	
+P01008	UniProtKB	Beta strand	419	422	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1E04	
+P01008	UniProtKB	Beta strand	423	426	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	432	435	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	440	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Turn	447	450	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	
+P01008	UniProtKB	Beta strand	451	459	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3KCG	

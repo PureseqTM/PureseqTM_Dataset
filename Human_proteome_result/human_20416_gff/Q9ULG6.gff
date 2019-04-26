@@ -1,0 +1,35 @@
+##gff-version 3
+##sequence-region Q9ULG6 1 757
+Q9ULG6	UniProtKB	Chain	1	757	.	.	.	ID=PRO_0000310538;Note=Cell cycle progression protein 1	
+Q9ULG6	UniProtKB	Topological domain	1	217	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULG6	UniProtKB	Transmembrane	218	238	.	.	.	Note=Helical%3B Signal-anchor for type II membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULG6	UniProtKB	Topological domain	239	757	.	.	.	Note=Lumenal;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULG6	UniProtKB	Region	1	308	.	.	.	Note=Interaction with MCF2L and SRC;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9ULG6	UniProtKB	Coiled coil	248	272	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULG6	UniProtKB	Coiled coil	306	450	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULG6	UniProtKB	Coiled coil	504	530	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9ULG6	UniProtKB	Compositional bias	176	181	.	.	.	Note=Poly-Arg	
+Q9ULG6	UniProtKB	Modified residue	186	186	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:23186163,PMID:24275569	
+Q9ULG6	UniProtKB	Alternative sequence	1	144	.	.	.	ID=VSP_029311;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9ULG6	UniProtKB	Alternative sequence	145	151	.	.	.	ID=VSP_029312;Note=In isoform 2. TFCQPET->MSTFFLI;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q9ULG6	UniProtKB	Alternative sequence	312	694	.	.	.	ID=VSP_029313;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9ULG6	UniProtKB	Alternative sequence	582	598	.	.	.	ID=VSP_029314;Note=In isoform 4. HNRGPTMQNDGRKEKPV->SRPYYAKRWKERKASSL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9383053,ECO:0000303|Ref.3;Dbxref=PMID:9383053	
+Q9ULG6	UniProtKB	Alternative sequence	599	757	.	.	.	ID=VSP_029315;Note=In isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9383053,ECO:0000303|Ref.3;Dbxref=PMID:9383053	
+Q9ULG6	UniProtKB	Alternative sequence	745	757	.	.	.	ID=VSP_029316;Note=In isoform 3 and isoform 5. RSVYIKPCHYSSL->SRPDKKQRMVNIENSRHRKQEQKHLQPQPYKREGKWHKYGRTNGRQMANLEIELGQLPFDPQY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9ULG6	UniProtKB	Natural variant	44	44	.	.	.	ID=VAR_037063;Note=S->P;Dbxref=dbSNP:rs11555304	
+Q9ULG6	UniProtKB	Natural variant	161	161	.	.	.	ID=VAR_037064;Note=E->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17853336,PMID:15489334	
+Q9ULG6	UniProtKB	Natural variant	418	418	.	.	.	ID=VAR_037065;Note=Y->H;Dbxref=dbSNP:rs34958422	
+Q9ULG6	UniProtKB	Natural variant	436	436	.	.	.	ID=VAR_037066;Note=R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17857026,PMID:15489334	
+Q9ULG6	UniProtKB	Natural variant	477	477	.	.	.	ID=VAR_037067;Note=A->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9383053;Dbxref=dbSNP:rs1063562,PMID:9383053	
+Q9ULG6	UniProtKB	Natural variant	517	517	.	.	.	ID=VAR_037068;Note=A->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9383053;Dbxref=dbSNP:rs1063563,PMID:9383053	
+Q9ULG6	UniProtKB	Natural variant	553	553	.	.	.	ID=VAR_037069;Note=G->D;Dbxref=dbSNP:rs1063565	
+Q9ULG6	UniProtKB	Natural variant	553	553	.	.	.	ID=VAR_037070;Note=G->S;Dbxref=dbSNP:rs1063564	
+Q9ULG6	UniProtKB	Natural variant	590	590	.	.	.	ID=VAR_037071;Note=N->K;Dbxref=dbSNP:rs1063566	
+Q9ULG6	UniProtKB	Natural variant	627	627	.	.	.	ID=VAR_037072;Note=K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17853335,PMID:15489334	
+Q9ULG6	UniProtKB	Natural variant	646	646	.	.	.	ID=VAR_037073;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17857027,PMID:15489334	
+Q9ULG6	UniProtKB	Natural variant	673	673	.	.	.	ID=VAR_037074;Note=H->R;Dbxref=dbSNP:rs1063567	
+Q9ULG6	UniProtKB	Sequence conflict	196	196	.	.	.	Note=A->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9ULG6	UniProtKB	Sequence conflict	270	270	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9ULG6	UniProtKB	Sequence conflict	483	483	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9ULG6	UniProtKB	Sequence conflict	483	483	.	.	.	Note=E->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9ULG6	UniProtKB	Sequence conflict	553	553	.	.	.	Note=G->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	

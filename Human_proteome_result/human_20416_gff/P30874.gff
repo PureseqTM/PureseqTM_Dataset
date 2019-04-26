@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region P30874 1 369
+P30874	UniProtKB	Chain	1	369	.	.	.	ID=PRO_0000070120;Note=Somatostatin receptor type 2	
+P30874	UniProtKB	Topological domain	1	43	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	44	67	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	68	78	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	79	103	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	104	118	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	119	138	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	139	161	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	162	181	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	182	207	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	208	229	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	230	253	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	254	278	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	279	288	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Transmembrane	289	303	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Topological domain	304	369	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Site	89	89	.	.	.	Note=Important for ligand binding	
+P30874	UniProtKB	Modified residue	341	341	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30680	
+P30874	UniProtKB	Modified residue	343	343	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30680	
+P30874	UniProtKB	Modified residue	348	348	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30680	
+P30874	UniProtKB	Modified residue	353	353	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30680	
+P30874	UniProtKB	Modified residue	354	354	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P30680	
+P30874	UniProtKB	Lipidation	328	328	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Glycosylation	9	9	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Glycosylation	22	22	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Glycosylation	29	29	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Glycosylation	32	32	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P30874	UniProtKB	Disulfide bond	115	193	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P30874	UniProtKB	Alternative sequence	332	369	.	.	.	ID=VSP_001922;Note=In isoform B. VSGTDDGERSDSKQDKSRLNETTETQRTLLNGDLQTSI->VDNSKSGEEGSCLDMIFRNNKNRKK;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30874	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Expression levels reduced by 60%25. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Expression levels reduced by 80%25. D->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	89	89	.	.	.	Note=Slightly reduced expression levels. Remains localized in membrane. Abolishes ligand binding and G protein-mediated calcium release. D->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Expression levels reduced by 50%25. Significantly reduced ligand binding capacity but increased affinity. Reduced G protein-mediated cAMP release but no effect on G-protein mediated calcium release. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	139	139	.	.	.	Note=Expression levels reduced by 40%25. No significant change in ligand binding capacity or affinity. Reduced G protein-mediated cAMP signaling but no effect on G protein-mediated calcium release. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	140	140	.	.	.	Note=Slightly reduced expression levels. No significant change in ligand binding capacity or affinity. No significant change in G protein-mediated cAMP or calcium release. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	140	140	.	.	.	Note=Almost abolishes expression. Abolishes membrane localization. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Mutagenesis	140	140	.	.	.	Note=Slightly reduced expression levels. Significantly reduced ligand binding capacity but increased affinity. Reduced G protein-mediated cAMP release but no effect on G protein-mediated calcium release. R->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22495673;Dbxref=PMID:22495673	
+P30874	UniProtKB	Sequence conflict	77	77	.	.	.	Note=I->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30874	UniProtKB	Sequence conflict	122	122	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P30874	UniProtKB	Sequence conflict	356	356	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	

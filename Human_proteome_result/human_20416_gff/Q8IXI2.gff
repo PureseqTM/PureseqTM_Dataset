@@ -1,0 +1,77 @@
+##gff-version 3
+##sequence-region Q8IXI2 1 618
+Q8IXI2	UniProtKB	Chain	1	618	.	.	.	ID=PRO_0000239313;Note=Mitochondrial Rho GTPase 1	
+Q8IXI2	UniProtKB	Topological domain	1	592	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Transmembrane	593	615	.	.	.	Note=Helical%3B Anchor for type IV membrane protein;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Topological domain	616	618	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Domain	1	177	.	.	.	Note=Miro 1	
+Q8IXI2	UniProtKB	Domain	184	219	.	.	.	Note=EF-hand 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q8IXI2	UniProtKB	Domain	304	339	.	.	.	Note=EF-hand 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00448	
+Q8IXI2	UniProtKB	Domain	412	561	.	.	.	Note=Miro 2	
+Q8IXI2	UniProtKB	Nucleotide binding	11	18	.	.	.	Note=GTP 1	
+Q8IXI2	UniProtKB	Nucleotide binding	57	61	.	.	.	Note=GTP 1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Nucleotide binding	118	121	.	.	.	Note=GTP 1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Calcium binding	197	208	.	.	.	Note=1;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Calcium binding	317	328	.	.	.	Note=2;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Nucleotide binding	425	432	.	.	.	Note=GTP 2	
+Q8IXI2	UniProtKB	Nucleotide binding	463	467	.	.	.	Note=GTP 2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Nucleotide binding	527	530	.	.	.	Note=GTP 2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXI2	UniProtKB	Alternative sequence	224	247	.	.	.	ID=VSP_019153;Note=In isoform 6. QALEDVKNVVRKHISDGVADSGLT->RFGFEQVLVLLFLQFWALLCTKHY;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IXI2	UniProtKB	Alternative sequence	248	618	.	.	.	ID=VSP_019154;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IXI2	UniProtKB	Alternative sequence	580	580	.	.	.	ID=VSP_019155;Note=In isoform 2. P->PEDHYRDRLSRDMGHTDRIENLRKIWVFLKTAL;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:14702039,PMID:15489334	
+Q8IXI2	UniProtKB	Alternative sequence	580	580	.	.	.	ID=VSP_019156;Note=In isoform 3. P->PEDHYRDRLSRDMGHTDRIENLRKIWVFLKTAFHARLRCMCTCNRCTFCICQNFLNSDLLQSVKNKIFTAVLNR;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12696059,ECO:0000303|PubMed:14702039,ECO:0000303|Ref.3;Dbxref=PMID:12696059,PMID:14702039	
+Q8IXI2	UniProtKB	Alternative sequence	580	580	.	.	.	ID=VSP_047651;Note=In isoform 7. P->PHARLRCMCTCNRCTFCICQNFLNSDLLQSVKNKIFTAVLNR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Alternative sequence	581	618	.	.	.	ID=VSP_019157;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:11230166;Dbxref=PMID:11230166	
+Q8IXI2	UniProtKB	Alternative sequence	582	618	.	.	.	ID=VSP_019158;Note=In isoform 5. VTQADLKSSTFWLRASFGATVFAVLGFAMYKALLKQR->ARLRCMCTCNRCTFCICQNFLNSDLLQSVKNKIFTAVLNRIISA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q8IXI2	UniProtKB	Mutagenesis	13	13	.	.	.	Note=Causes constitutive activation inducing an aggregation of the mitochondrial network. P->V;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12482879,ECO:0000269|PubMed:14521508,ECO:0000269|PubMed:16630562;Dbxref=PMID:12482879,PMID:14521508,PMID:16630562	
+Q8IXI2	UniProtKB	Mutagenesis	18	18	.	.	.	Note=Causes constitutive inactivation. T->N;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12482879,ECO:0000269|PubMed:16630562;Dbxref=PMID:12482879,PMID:16630562	
+Q8IXI2	UniProtKB	Mutagenesis	208	208	.	.	.	Note=Abolishes the formation of thread-like mitochondria. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630562;Dbxref=PMID:16630562	
+Q8IXI2	UniProtKB	Mutagenesis	328	328	.	.	.	Note=Abolishes the formation of thread-like mitochondria. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630562;Dbxref=PMID:16630562	
+Q8IXI2	UniProtKB	Mutagenesis	427	427	.	.	.	Note=No effect. K->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630562;Dbxref=PMID:16630562	
+Q8IXI2	UniProtKB	Mutagenesis	432	432	.	.	.	Note=No effect. S->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16630562;Dbxref=PMID:16630562	
+Q8IXI2	UniProtKB	Sequence conflict	75	75	.	.	.	Note=A->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Sequence conflict	246	246	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Sequence conflict	246	246	.	.	.	Note=L->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Sequence conflict	331	331	.	.	.	Note=D->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Sequence conflict	587	587	.	.	.	Note=L->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXI2	UniProtKB	Helix	183	196	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	201	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	206	217	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	225	234	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	238	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	245	247	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	248	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KU1	
+Q8IXI2	UniProtKB	Helix	266	273	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	280	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	284	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	299	301	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	303	316	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	321	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	326	332	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	333	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	336	338	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	345	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	359	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	374	383	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	386	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	395	398	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	399	401	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Helix	405	410	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	418	424	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Helix	431	438	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Helix	443	446	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Helix	451	453	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	457	464	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Beta strand	467	476	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Helix	484	487	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Beta strand	490	497	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Turn	501	503	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KU1	
+Q8IXI2	UniProtKB	Helix	504	514	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Turn	515	517	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Beta strand	518	520	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSZ	
+Q8IXI2	UniProtKB	Beta strand	522	527	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Beta strand	537	540	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Helix	542	548	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Beta strand	562	564	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	
+Q8IXI2	UniProtKB	Helix	568	577	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5KSP	

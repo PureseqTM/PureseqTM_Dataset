@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region Q15464 1 509
+Q15464	UniProtKB	Chain	1	509	.	.	.	ID=PRO_0000246324;Note=SH2 domain-containing adapter protein B	
+Q15464	UniProtKB	Domain	410	504	.	.	.	Note=SH2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00191	
+Q15464	UniProtKB	Region	1	410	.	.	.	Note=Mediates interaction with LAT%2C PTK2/FAK1%2C JAK1 and JAK3;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10488157,ECO:0000269|PubMed:12200137;Dbxref=PMID:10488157,PMID:12200137	
+Q15464	UniProtKB	Modified residue	102	102	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15464	UniProtKB	Modified residue	307	307	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q15464	UniProtKB	Modified residue	317	317	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q15464	UniProtKB	Modified residue	388	388	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18220336,ECO:0000244|PubMed:23186163;Dbxref=PMID:18220336,PMID:23186163	
+Q15464	UniProtKB	Cross-link	187	187	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2);Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:28112733;Dbxref=PMID:28112733	
+Q15464	UniProtKB	Alternative sequence	280	297	.	.	.	ID=VSP_019846;Note=In isoform 2. EFQRQESVRSQHKGIQLY->GLQEAWRHSPSGCFPVGP;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q15464	UniProtKB	Alternative sequence	298	509	.	.	.	ID=VSP_019847;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q15464	UniProtKB	Mutagenesis	435	435	.	.	.	Note=Loss of interaction with CD3Z. Alters LAT%2C PLCG1%2C VAV1 and LCP2 phosphorylation%2C MAP kinase signaling%2C Rac1 and JNK activation%2C intracellular calcium increase%2C activation of the nuclear factor for activation of T-cells and subsequent interleukin-2 expression which normally occur upon T-cells stimulation. R->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:9484780;Dbxref=PMID:9484780	
+Q15464	UniProtKB	Sequence conflict	91	93	.	.	.	Note=DFE->HFQ;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15464	UniProtKB	Sequence conflict	347	347	.	.	.	Note=I->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q15464	UniProtKB	Sequence conflict	445	445	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

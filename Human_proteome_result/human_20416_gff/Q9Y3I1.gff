@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region Q9Y3I1 1 522
+Q9Y3I1	UniProtKB	Chain	1	522	.	.	.	ID=PRO_0000119885;Note=F-box only protein 7	
+Q9Y3I1	UniProtKB	Domain	329	375	.	.	.	Note=F-box;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00080	
+Q9Y3I1	UniProtKB	Region	1	88	.	.	.	Note=Ubiquitin-like	
+Q9Y3I1	UniProtKB	Region	92	129	.	.	.	Note=Important for interaction with PINK1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23933751;Dbxref=PMID:23933751	
+Q9Y3I1	UniProtKB	Region	129	169	.	.	.	Note=Important for interaction with CDK6	
+Q9Y3I1	UniProtKB	Region	180	324	.	.	.	Note=Important for dimerization and interaction with PSMF1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18495667;Dbxref=PMID:18495667	
+Q9Y3I1	UniProtKB	Region	381	522	.	.	.	Note=Important for interaction with CDK6	
+Q9Y3I1	UniProtKB	Motif	481	484	.	.	.	Note=RFDP motif	
+Q9Y3I1	UniProtKB	Compositional bias	423	514	.	.	.	Note=Pro-rich	
+Q9Y3I1	UniProtKB	Modified residue	432	432	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3U7U3	
+Q9Y3I1	UniProtKB	Modified residue	451	451	.	.	.	Note=Omega-N-methylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3U7U3	
+Q9Y3I1	UniProtKB	Modified residue	518	518	.	.	.	Note=Asymmetric dimethylarginine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q3U7U3	
+Q9Y3I1	UniProtKB	Alternative sequence	1	114	.	.	.	ID=VSP_044723;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y3I1	UniProtKB	Alternative sequence	1	79	.	.	.	ID=VSP_041073;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y3I1	UniProtKB	Alternative sequence	80	91	.	.	.	ID=VSP_041074;Note=In isoform 2. DDIPAPNIPSST->MARPPGGSGPLL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9Y3I1	UniProtKB	Natural variant	115	115	.	.	.	ID=VAR_021408;Note=M->I;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10531035,ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:18513678;Dbxref=dbSNP:rs11107,PMID:10531035,PMID:14702039,PMID:15489334,PMID:18513678	
+Q9Y3I1	UniProtKB	Natural variant	378	378	.	.	.	ID=VAR_047938;Note=In PARK15%3B no effect on interaction with PRKN. R->G;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18513678,ECO:0000269|PubMed:23933751;Dbxref=dbSNP:rs71799110,PMID:18513678,PMID:23933751	
+Q9Y3I1	UniProtKB	Natural variant	481	481	.	.	.	ID=VAR_066022;Note=Found in two patients with Kufor-Rakeb syndrome also carrying R-877 in ATP13A2. R->C;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20853184;Dbxref=dbSNP:rs148272407,PMID:20853184	
+Q9Y3I1	UniProtKB	Mutagenesis	22	22	.	.	.	Note=Impairs interaction with PRKN. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23933751;Dbxref=PMID:23933751	
+Q9Y3I1	UniProtKB	Mutagenesis	253	253	.	.	.	Note=Abolishes interaction with PSMF1. V->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18495667;Dbxref=PMID:18495667	
+Q9Y3I1	UniProtKB	Sequence conflict	79	79	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	84	84	.	.	.	Note=A->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	154	154	.	.	.	Note=N->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	169	169	.	.	.	Note=M->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	224	224	.	.	.	Note=M->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	241	241	.	.	.	Note=P->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	328	328	.	.	.	Note=D->N;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	413	413	.	.	.	Note=M->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Sequence conflict	475	475	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9Y3I1	UniProtKB	Helix	181	190	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	195	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Beta strand	213	216	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Turn	220	222	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Beta strand	228	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Beta strand	233	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	241	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9C	
+Q9Y3I1	UniProtKB	Beta strand	247	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Beta strand	258	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Beta strand	270	279	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	281	283	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	287	289	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	294	297	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	301	311	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	
+Q9Y3I1	UniProtKB	Helix	313	323	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4L9H	

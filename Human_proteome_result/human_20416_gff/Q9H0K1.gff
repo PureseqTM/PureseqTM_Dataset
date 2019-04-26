@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region Q9H0K1 1 926
+Q9H0K1	UniProtKB	Chain	1	926	.	.	.	ID=PRO_0000086662;Note=Serine/threonine-protein kinase SIK2	
+Q9H0K1	UniProtKB	Domain	20	271	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9H0K1	UniProtKB	Domain	295	335	.	.	.	Note=UBA;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00212	
+Q9H0K1	UniProtKB	Nucleotide binding	26	34	.	.	.	Note=ATP;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q13131,ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9H0K1	UniProtKB	Active site	142	142	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000250,ECO:0000255,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q13131,ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q9H0K1	UniProtKB	Binding site	49	49	.	.	.	Note=ATP;Ontology_term=ECO:0000250,ECO:0000255;evidence=ECO:0000250|UniProtKB:Q8CFH6,ECO:0000255|PROSITE-ProRule:PRU00159	
+Q9H0K1	UniProtKB	Modified residue	25	25	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+Q9H0K1	UniProtKB	Modified residue	53	53	.	.	.	Note=N6-acetyllysine%3B by EP300;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23322770;Dbxref=PMID:23322770	
+Q9H0K1	UniProtKB	Modified residue	175	175	.	.	.	Note=Phosphothreonine%3B by LKB1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14976552;Dbxref=PMID:14976552	
+Q9H0K1	UniProtKB	Modified residue	534	534	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q8CFH6	
+Q9H0K1	UniProtKB	Modified residue	587	587	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569;Dbxref=PMID:18669648,PMID:19690332,PMID:23186163,PMID:24275569	
+Q9H0K1	UniProtKB	Natural variant	458	458	.	.	.	ID=VAR_041093;Note=T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs35789057,PMID:17344846	
+Q9H0K1	UniProtKB	Natural variant	809	809	.	.	.	ID=VAR_041094;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs34223841,PMID:17344846	
+Q9H0K1	UniProtKB	Natural variant	825	825	.	.	.	ID=VAR_041095;Note=P->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17344846;Dbxref=dbSNP:rs55889697,PMID:17344846	
+Q9H0K1	UniProtKB	Natural variant	828	828	.	.	.	ID=VAR_051667;Note=P->L;Dbxref=dbSNP:rs45520245	
+Q9H0K1	UniProtKB	Natural variant	829	829	.	.	.	ID=VAR_051668;Note=P->S;Dbxref=dbSNP:rs45586732	
+Q9H0K1	UniProtKB	Mutagenesis	175	175	.	.	.	Note=Prevents phosphorylation and activation by STK11/LKB1 complex. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14976552;Dbxref=PMID:14976552	
+Q9H0K1	UniProtKB	Mutagenesis	175	175	.	.	.	Note=Constitutively active. T->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14976552;Dbxref=PMID:14976552	
+Q9H0K1	UniProtKB	Sequence conflict	192	192	.	.	.	Note=Q->H;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9H0K1	UniProtKB	Sequence conflict	463	463	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

@@ -1,0 +1,81 @@
+##gff-version 3
+##sequence-region Q8IXL6 1 584
+Q8IXL6	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q8IXL6	UniProtKB	Propeptide	23	92	.	.	.	ID=PRO_0000433883;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Chain	93	584	.	.	.	ID=PRO_0000008747;Note=Extracellular serine/threonine protein kinase FAM20C	
+Q8IXL6	UniProtKB	Nucleotide binding	389	392	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Region	354	565	.	.	.	Note=Kinase domain;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22582013;Dbxref=PMID:22582013	
+Q8IXL6	UniProtKB	Active site	458	458	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23754375;Dbxref=PMID:23754375	
+Q8IXL6	UniProtKB	Metal binding	306	306	.	.	.	Note=Manganese;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Metal binding	478	478	.	.	.	Note=Manganese;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:22582013;Dbxref=PMID:22582013	
+Q8IXL6	UniProtKB	Binding site	269	269	.	.	.	Note=ATP%3B via amide nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Binding site	285	285	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Binding site	306	306	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Binding site	463	463	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Binding site	478	478	.	.	.	Note=ATP;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Glycosylation	101	101	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Glycosylation	335	335	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Glycosylation	470	470	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:26091039;Dbxref=PMID:19159218,PMID:26091039	
+Q8IXL6	UniProtKB	Disulfide bond	362	378	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Disulfide bond	367	371	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Disulfide bond	426	500	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Disulfide bond	501	560	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9XTW2	
+Q8IXL6	UniProtKB	Alternative sequence	1	332	.	.	.	ID=VSP_040834;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q8IXL6	UniProtKB	Natural variant	258	258	.	.	.	ID=VAR_073660;Note=In RNS. I->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22582013;Dbxref=PMID:22582013	
+Q8IXL6	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_073661;Note=In RNS%3B mild non-lethal form%3B decreased protein kinase activity. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25789606;Dbxref=dbSNP:rs778899041,PMID:25789606	
+Q8IXL6	UniProtKB	Natural variant	280	280	.	.	.	ID=VAR_073662;Note=In RNS. G->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22582013;Dbxref=dbSNP:rs779708323,PMID:22582013	
+Q8IXL6	UniProtKB	Natural variant	328	328	.	.	.	ID=VAR_073663;Note=In RNS%3B mild non-lethal form%3B decreased protein kinase activity%3B FAM20A is still able to increase remaining protein kinase activity. P->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22582013,ECO:0000269|PubMed:25789606;Dbxref=dbSNP:rs797044462,PMID:22582013,PMID:25789606	
+Q8IXL6	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_037530;Note=In RNS. G->E;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17924334,ECO:0000269|PubMed:22582013;Dbxref=dbSNP:rs796051852,PMID:17924334,PMID:22582013	
+Q8IXL6	UniProtKB	Natural variant	379	379	.	.	.	ID=VAR_037531;Note=In RNS. G->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17924334,ECO:0000269|PubMed:22582013;Dbxref=PMID:17924334,PMID:22582013	
+Q8IXL6	UniProtKB	Natural variant	388	388	.	.	.	ID=VAR_037532;Note=In RNS. L->R;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17924334,ECO:0000269|PubMed:22582013;Dbxref=dbSNP:rs796051849,PMID:17924334,PMID:22582013	
+Q8IXL6	UniProtKB	Natural variant	451	451	.	.	.	ID=VAR_073664;Note=In RNS%3B mild non-lethal form%3B decreased protein kinase activity. D->N;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22582013;Dbxref=PMID:22582013	
+Q8IXL6	UniProtKB	Natural variant	549	549	.	.	.	ID=VAR_037533;Note=In RNS. R->W;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17924334,ECO:0000269|PubMed:22582013;Dbxref=dbSNP:rs796051850,PMID:17924334,PMID:22582013	
+Q8IXL6	UniProtKB	Mutagenesis	91	93	.	.	.	Note=Does not affect secretion or activity. LQD->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Mutagenesis	101	101	.	.	.	Note=Impaired secretion%3B when associated with A-335 and A-470. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Mutagenesis	271	271	.	.	.	Note=Reduced kinase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23754375;Dbxref=PMID:23754375	
+Q8IXL6	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Reduced kinase activity. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23754375;Dbxref=PMID:23754375	
+Q8IXL6	UniProtKB	Mutagenesis	306	306	.	.	.	Note=Strongly reduced kinase activity. E->A%2CQ;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:23754375,ECO:0000269|PubMed:25789606;Dbxref=PMID:23754375,PMID:25789606	
+Q8IXL6	UniProtKB	Mutagenesis	311	311	.	.	.	Note=Reduced kinase activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23754375;Dbxref=PMID:23754375	
+Q8IXL6	UniProtKB	Mutagenesis	335	335	.	.	.	Note=Impaired secretion%3B when associated with A-101 and A-470. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Mutagenesis	408	408	.	.	.	Note=Reduced kinase activity. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23754375;Dbxref=PMID:23754375	
+Q8IXL6	UniProtKB	Mutagenesis	458	458	.	.	.	Note=Abrogates kinase activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:23754375;Dbxref=PMID:23754375	
+Q8IXL6	UniProtKB	Mutagenesis	470	470	.	.	.	Note=Impaired secretion%3B when associated with A-101 and A-335. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26091039;Dbxref=PMID:26091039	
+Q8IXL6	UniProtKB	Mutagenesis	478	478	.	.	.	Note=Unable to bind manganese%3B abrogates kinase activity. D->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22582013,ECO:0000269|PubMed:23754375,ECO:0000269|PubMed:25789606,ECO:0000269|PubMed:26091039;Dbxref=PMID:22582013,PMID:23754375,PMID:25789606,PMID:26091039	
+Q8IXL6	UniProtKB	Sequence conflict	274	288	.	.	.	Note=MTFQNYGQALFKPMK->FLSDKPFLFLSCFLR;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXL6	UniProtKB	Sequence conflict	564	564	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXL6	UniProtKB	Sequence conflict	564	564	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q8IXL6	UniProtKB	Helix	160	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	168	170	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	179	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	182	184	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	225	231	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	237	239	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	244	255	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	258	263	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	272	276	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	281	286	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	301	303	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	308	320	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	329	335	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	336	340	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	341	343	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	347	350	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	361	363	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	368	370	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	373	375	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	380	390	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	419	421	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	423	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	426	429	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	433	436	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	438	454	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	461	463	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	467	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	491	494	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	495	500	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	505	513	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	517	519	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	521	528	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Beta strand	530	534	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Helix	540	564	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	
+Q8IXL6	UniProtKB	Turn	567	569	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5YH3	

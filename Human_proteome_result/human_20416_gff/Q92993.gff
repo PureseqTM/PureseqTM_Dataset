@@ -1,0 +1,62 @@
+##gff-version 3
+##sequence-region Q92993 1 513
+Q92993	UniProtKB	Chain	1	513	.	.	.	ID=PRO_0000051580;Note=Histone acetyltransferase KAT5	
+Q92993	UniProtKB	Domain	227	504	.	.	.	Note=MYST-type HAT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01063	
+Q92993	UniProtKB	Zinc finger	260	285	.	.	.	Note=C2HC MYST-type;Ontology_term=ECO:0000255,ECO:0000305;evidence=ECO:0000255|PROSITE-ProRule:PRU01063,ECO:0000305|Ref.40	
+Q92993	UniProtKB	Region	368	513	.	.	.	Note=Interaction with ATF2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18397884;Dbxref=PMID:18397884	
+Q92993	UniProtKB	Region	370	372	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.40	
+Q92993	UniProtKB	Region	377	383	.	.	.	Note=Acetyl-CoA binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.40	
+Q92993	UniProtKB	Active site	403	403	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9H7Z6	
+Q92993	UniProtKB	Binding site	407	407	.	.	.	Note=Acetyl-CoA;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.40	
+Q92993	UniProtKB	Binding site	416	416	.	.	.	Note=Acetyl-CoA;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9H7Z6	
+Q92993	UniProtKB	Modified residue	52	52	.	.	.	Note=N6-acetyllysine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19608861;Dbxref=PMID:19608861	
+Q92993	UniProtKB	Modified residue	86	86	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12468530;Dbxref=PMID:23186163,PMID:12468530	
+Q92993	UniProtKB	Modified residue	90	90	.	.	.	Note=Phosphoserine%3B by CDK1;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:12468530;Dbxref=PMID:23186163,PMID:12468530	
+Q92993	UniProtKB	Modified residue	199	199	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q92993	UniProtKB	Modified residue	327	327	.	.	.	Note=N6-acetyllysine%3B by autocatalysis;Ontology_term=ECO:0000269;evidence=ECO:0000269|Ref.40	
+Q92993	UniProtKB	Cross-link	430	430	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17704809;Dbxref=PMID:17704809	
+Q92993	UniProtKB	Cross-link	451	451	.	.	.	Note=Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17704809;Dbxref=PMID:17704809	
+Q92993	UniProtKB	Alternative sequence	4	4	.	.	.	ID=VSP_009104;Note=In isoform 3 and isoform 4. V->VVSPVPGAGRREPGEVGRARGPPVADPGVALSPQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12801643,ECO:0000303|PubMed:14702039;Dbxref=PMID:12801643,PMID:14702039	
+Q92993	UniProtKB	Alternative sequence	96	147	.	.	.	ID=VSP_007438;Note=In isoform 1 and isoform 4. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11416127,ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:15489334;Dbxref=PMID:11416127,PMID:14702039,PMID:15489334	
+Q92993	UniProtKB	Natural variant	78	78	.	.	.	ID=VAR_059456;Note=P->T;Dbxref=dbSNP:rs11541271	
+Q92993	UniProtKB	Mutagenesis	86	86	.	.	.	Note=Reduces phosphorylation. Abolishes phosphorylation%3B when associated with A-90. Reduced HAT activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12468530;Dbxref=PMID:12468530	
+Q92993	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Reduces phosphorylation. Abolishes phosphorylation%3B when associated with A-86. Reduced HAT activity. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12468530;Dbxref=PMID:12468530	
+Q92993	UniProtKB	Mutagenesis	254	254	.	.	.	Note=Does not affect phosphorylation%3B when associated with A-257. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12468530;Dbxref=PMID:12468530	
+Q92993	UniProtKB	Mutagenesis	257	257	.	.	.	Note=Does not affect phosphorylation%3B when associated with A-254. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12468530;Dbxref=PMID:12468530	
+Q92993	UniProtKB	Mutagenesis	380	380	.	.	.	Note=Loss of function. Does not affect phosphorylation. G->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:12468530;Dbxref=PMID:12468530	
+Q92993	UniProtKB	Mutagenesis	430	430	.	.	.	Note=Abrogates sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17704809;Dbxref=PMID:17704809	
+Q92993	UniProtKB	Mutagenesis	451	451	.	.	.	Note=Abrogates sumoylation. K->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17704809;Dbxref=PMID:17704809	
+Q92993	UniProtKB	Sequence conflict	382	382	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92993	UniProtKB	Sequence conflict	382	382	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q92993	UniProtKB	Helix	4	6	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Beta strand	12	15	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Beta strand	28	35	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Beta strand	37	40	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Beta strand	42	47	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Helix	52	54	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Beta strand	56	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Helix	60	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4QQG	
+Q92993	UniProtKB	Helix	65	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2EKO	
+Q92993	UniProtKB	Beta strand	235	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	240	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	252	254	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	260	262	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Turn	264	266	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	273	282	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	289	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	299	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Turn	306	308	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	310	321	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	336	345	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	348	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	365	368	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	370	372	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	374	376	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	381	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	400	402	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	408	425	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	441	448	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	452	461	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Beta strand	469	474	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	
+Q92993	UniProtKB	Helix	497	499	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2OU2	

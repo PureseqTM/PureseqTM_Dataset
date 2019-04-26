@@ -1,0 +1,19 @@
+##gff-version 3
+##sequence-region Q96PP8 1 586
+Q96PP8	UniProtKB	Chain	1	583	.	.	.	ID=PRO_0000190969;Note=Guanylate-binding protein 5	
+Q96PP8	UniProtKB	Propeptide	584	586	.	.	.	ID=PRO_0000370785;Note=Removed in mature form;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96PP8	UniProtKB	Domain	35	276	.	.	.	Note=GB1/RHD3-type G	
+Q96PP8	UniProtKB	Nucleotide binding	45	52	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96PP8	UniProtKB	Nucleotide binding	67	69	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96PP8	UniProtKB	Nucleotide binding	97	101	.	.	.	Note=GTP;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96PP8	UniProtKB	Region	1	309	.	.	.	Note=GTPase domain (Globular);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q96PP8	UniProtKB	Region	1	306	.	.	.	Note=NLRP3-binding;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461501;Dbxref=PMID:22461501	
+Q96PP8	UniProtKB	Region	529	586	.	.	.	Note=Required for tetramerization%2C but not for dimerization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461501;Dbxref=PMID:22461501	
+Q96PP8	UniProtKB	Modified residue	583	583	.	.	.	Note=Cysteine methyl ester;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96PP8	UniProtKB	Lipidation	583	583	.	.	.	Note=S-geranylgeranyl cysteine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21151871;Dbxref=PMID:21151871	
+Q96PP8	UniProtKB	Alternative sequence	489	489	.	.	.	ID=VSP_044362;Note=In isoform 2. E->K;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15175044;Dbxref=PMID:15175044	
+Q96PP8	UniProtKB	Alternative sequence	490	586	.	.	.	ID=VSP_044363;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15175044;Dbxref=PMID:15175044	
+Q96PP8	UniProtKB	Natural variant	4	4	.	.	.	ID=VAR_053104;Note=E->Q;Dbxref=dbSNP:rs17130763	
+Q96PP8	UniProtKB	Natural variant	35	35	.	.	.	ID=VAR_033956;Note=T->M;Dbxref=dbSNP:rs3806339	
+Q96PP8	UniProtKB	Mutagenesis	51	52	.	.	.	Note=Loss of GTPase activity. No effect on tetramerization. KS->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22461501;Dbxref=PMID:22461501	
+Q96PP8	UniProtKB	Mutagenesis	583	586	.	.	.	Note=Loss of isoprenylation and of localization at the Golgi apparatus. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:21151871;Dbxref=PMID:21151871	

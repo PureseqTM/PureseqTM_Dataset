@@ -1,0 +1,27 @@
+##gff-version 3
+##sequence-region Q14183 1 400
+Q14183	UniProtKB	Chain	1	400	.	.	.	ID=PRO_0000079965;Note=Double C2-like domain-containing protein alpha	
+Q14183	UniProtKB	Domain	91	195	.	.	.	Note=C2 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q14183	UniProtKB	Domain	253	356	.	.	.	Note=C2 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00041	
+Q14183	UniProtKB	Region	1	89	.	.	.	Note=Interaction with UNC13D and DYNLT1;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18354201,ECO:0000269|PubMed:9804756;Dbxref=PMID:18354201,PMID:9804756	
+Q14183	UniProtKB	Region	215	400	.	.	.	Note=Interaction with UNC13D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18354201;Dbxref=PMID:18354201	
+Q14183	UniProtKB	Alternative sequence	1	118	.	.	.	ID=VSP_056977;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14183	UniProtKB	Alternative sequence	271	281	.	.	.	ID=VSP_056978;Note=In isoform 2. GILRCAHLAAM->PEARCGQEIQA;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14183	UniProtKB	Alternative sequence	282	400	.	.	.	ID=VSP_056979;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q14183	UniProtKB	Natural variant	48	48	.	.	.	ID=VAR_019656;Note=G->S;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:7826360;Dbxref=dbSNP:rs1140239,PMID:15489334,PMID:7826360	
+Q14183	UniProtKB	Sequence conflict	92	92	.	.	.	Note=T->K;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14183	UniProtKB	Sequence conflict	108	109	.	.	.	Note=CS->VC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14183	UniProtKB	Sequence conflict	238	238	.	.	.	Note=E->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14183	UniProtKB	Sequence conflict	376	376	.	.	.	Note=P->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q14183	UniProtKB	Beta strand	92	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Turn	101	104	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	105	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	127	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Helix	139	141	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	142	144	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	155	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Helix	167	172	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	174	181	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	190	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Helix	198	200	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	
+Q14183	UniProtKB	Beta strand	207	212	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4MJJ	

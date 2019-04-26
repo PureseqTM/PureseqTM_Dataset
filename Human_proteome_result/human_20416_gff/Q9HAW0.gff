@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region Q9HAW0 1 419
+Q9HAW0	UniProtKB	Chain	1	419	.	.	.	ID=PRO_0000337187;Note=Transcription factor IIIB 50 kDa subunit	
+Q9HAW0	UniProtKB	Repeat	72	157	.	.	.	Note=1	
+Q9HAW0	UniProtKB	Repeat	173	249	.	.	.	Note=2	
+Q9HAW0	UniProtKB	Zinc finger	2	36	.	.	.	Note=TFIIB-type;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00469	
+Q9HAW0	UniProtKB	Region	108	114	.	.	.	Note=Interaction with target DNA;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:4ROC,ECO:0000244|PDB:4ROD,ECO:0000244|PDB:4ROE,ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Region	357	363	.	.	.	Note=Required for the formation of a ternary complex with DNA and TBP%3B not required for interaction with TBP in the absence of DNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Region	365	419	.	.	.	Note=Required for interaction with TBP and formation of a ternary complex with DNA and TBP;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Metal binding	7	7	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00403	
+Q9HAW0	UniProtKB	Metal binding	28	28	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00403	
+Q9HAW0	UniProtKB	Metal binding	31	31	.	.	.	Note=Zinc;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q00403	
+Q9HAW0	UniProtKB	Modified residue	353	353	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q9HAW0	UniProtKB	Modified residue	361	361	.	.	.	Note=Cysteine sulfenic acid (-SOH);Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Alternative sequence	10	32	.	.	.	ID=VSP_056834;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+Q9HAW0	UniProtKB	Mutagenesis	110	110	.	.	.	Note=Decreases affinity for DNA. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Mutagenesis	361	361	.	.	.	Note=Abolishes response to oxidative stress. Abolishes the decrease in the formation of a ternary complex with DNA and TBP in response to oxidative stress. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Mutagenesis	361	361	.	.	.	Note=Impairs formation of a ternary complex with DNA and TBP. C->D;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26638071;Dbxref=PMID:26638071	
+Q9HAW0	UniProtKB	Sequence conflict	153	153	.	.	.	Note=Y->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HAW0	UniProtKB	Sequence conflict	376	376	.	.	.	Note=S->F;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HAW0	UniProtKB	Sequence conflict	379	379	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9HAW0	UniProtKB	Helix	67	82	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	87	101	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	104	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	111	128	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	135	142	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	146	159	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	169	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	191	193	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	197	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	223	237	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	239	242	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	247	253	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	262	277	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	281	284	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Turn	285	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROE	
+Q9HAW0	UniProtKB	Turn	290	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	294	296	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	297	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	304	313	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Turn	360	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	386	390	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	
+Q9HAW0	UniProtKB	Helix	396	406	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4ROC	

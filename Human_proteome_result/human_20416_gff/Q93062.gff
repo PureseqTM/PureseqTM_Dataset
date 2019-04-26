@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region Q93062 1 196
+Q93062	UniProtKB	Chain	1	196	.	.	.	ID=PRO_0000081793;Note=RNA-binding protein with multiple splicing	
+Q93062	UniProtKB	Domain	24	101	.	.	.	Note=RRM;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00176	
+Q93062	UniProtKB	Region	98	105	.	.	.	Note=Interaction with RNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Site	27	27	.	.	.	Note=Interaction with RNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Site	61	61	.	.	.	Note=Interaction with RNA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Modified residue	1	1	.	.	.	Note=N-acetylmethionine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:22814378;Dbxref=PMID:22814378	
+Q93062	UniProtKB	Modified residue	12	12	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:Q9WVB0	
+Q93062	UniProtKB	Modified residue	113	113	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q93062	UniProtKB	Alternative sequence	133	196	.	.	.	ID=VSP_005815;Note=In isoform D. YELTVPALYPSSPEVWAPYPLYPAELAPALPPPAFTYPASLHAQMRWLPPSEATSQGWKSRQFC->LGGANEHGERQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8855282;Dbxref=PMID:8855282	
+Q93062	UniProtKB	Alternative sequence	133	176	.	.	.	ID=VSP_005816;Note=In isoform E. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8855282;Dbxref=PMID:8855282	
+Q93062	UniProtKB	Alternative sequence	177	196	.	.	.	ID=VSP_005813;Note=In isoform B. MRWLPPSEATSQGWKSRQFC->LCEGQTVRRSHPLSAPSPDSASLAWFPV;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:8855282;Dbxref=PMID:8855282	
+Q93062	UniProtKB	Alternative sequence	177	196	.	.	.	ID=VSP_005814;Note=In isoform C. MRWLPPSEATSQGWKSRQFC->CFSPEAKPNTPVFCPLLQQIRFVSGNVFVTYQPTADQQRELPC;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|PubMed:8855282;Dbxref=PMID:15489334,PMID:8855282	
+Q93062	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Abolishes RNA binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Mutagenesis	36	38	.	.	.	Note=Impairs dimerization and RNA binding. KPR->EPE;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Mutagenesis	65	65	.	.	.	Note=Abolishes RNA binding. F->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Mutagenesis	97	97	.	.	.	Note=Abolishes RNA binding%3B when associated with A-100. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Mutagenesis	100	100	.	.	.	Note=Abolishes RNA binding%3B when associated with A-97. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Mutagenesis	100	100	.	.	.	Note=Abolishes RNA binding. K->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Mutagenesis	103	104	.	.	.	Note=Abolishes RNA binding. TK->AA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26347403;Dbxref=PMID:26347403	
+Q93062	UniProtKB	Beta strand	25	29	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Helix	37	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Beta strand	50	56	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Beta strand	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Beta strand	63	70	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Helix	71	81	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Beta strand	85	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Beta strand	95	98	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	
+Q93062	UniProtKB	Helix	107	109	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5CYJ	

@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region P09455 1 135
+P09455	UniProtKB	Chain	1	135	.	.	.	ID=PRO_0000067392;Note=Retinol-binding protein 1	
+P09455	UniProtKB	Region	22	32	.	.	.	Note=Important for interaction with STRA6;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22665496;Dbxref=PMID:22665496	
+P09455	UniProtKB	Binding site	41	41	.	.	.	Note=Retinol;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5H8T,ECO:0000244|PDB:5HBS,ECO:0000244|PDB:5LJB,ECO:0000244|PDB:5LJC,ECO:0000269|PubMed:26900151;Dbxref=PMID:26900151	
+P09455	UniProtKB	Binding site	63	63	.	.	.	Note=Retinol;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PDB:5LJC,ECO:0000244|PDB:5LJE,ECO:0000269|PubMed:28057518;Dbxref=PMID:28057518	
+P09455	UniProtKB	Binding site	109	109	.	.	.	Note=Retinol;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PDB:5H8T,ECO:0000244|PDB:5HBS,ECO:0000244|PDB:5LJB,ECO:0000244|PDB:5LJC,ECO:0000244|PDB:5LJD,ECO:0000244|PDB:5LJE,ECO:0000269|PubMed:26900151,ECO:0000269|PubMed:28057518;Dbxref=PMID:26900151,PMID:28057518	
+P09455	UniProtKB	Alternative sequence	1	1	.	.	.	ID=VSP_046201;Note=In isoform 2 and isoform 3. M->MDPPAGFVRAGNPAVAAPQSPLSPEGAHFRAAHHPRSTGSRCPGSLQPSRPLVANWLQSLPEM;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P09455	UniProtKB	Alternative sequence	85	135	.	.	.	ID=VSP_046202;Note=In isoform 2. TTVSWDGDKLQCVQKGEKEGRGWTQWIEGDELHLEMRVEGVVCKQVFKKVQ->SETGFSS;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P09455	UniProtKB	Alternative sequence	85	135	.	.	.	ID=VSP_046203;Note=In isoform 3. TTVSWDGDKLQCVQKGEKEGRGWTQWIEGDELHLEMRVEGVVCKQVFKKVQ->AGVQSRDLSSL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14702039;Dbxref=PMID:14702039	
+P09455	UniProtKB	Mutagenesis	22	22	.	.	.	Note=No effect on retinol binding. Abolishes interaction with STA6 and the ability to enhance STA6-mediated vitamin A uptake. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28057518;Dbxref=PMID:28057518	
+P09455	UniProtKB	Mutagenesis	30	30	.	.	.	Note=Decreases cellular retinol uptake and impairs retinol storage. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15632377;Dbxref=PMID:15632377	
+P09455	UniProtKB	Mutagenesis	31	31	.	.	.	Note=No effect on retinol binding. Abolishes interaction with STA6 and the ability to enhance STA6-mediated vitamin A uptake. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28057518;Dbxref=PMID:28057518	
+P09455	UniProtKB	Mutagenesis	32	32	.	.	.	Note=No effect on retinol binding. Abolishes interaction with STA6 and the ability to enhance STA6-mediated vitamin A uptake. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28057518;Dbxref=PMID:28057518	
+P09455	UniProtKB	Mutagenesis	41	41	.	.	.	Note=Strongly decreased affinity for retinol. Further decrease in affinity for retinol%3B when associated with L-109. K->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28057518;Dbxref=PMID:28057518	
+P09455	UniProtKB	Mutagenesis	59	59	.	.	.	Note=Decreases cellular retinol uptake and impairs retinol storage. R->E;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15632377;Dbxref=PMID:15632377	
+P09455	UniProtKB	Mutagenesis	109	109	.	.	.	Note=Strongly decreased affinity for retinol. Further decrease in for retinol%3B when associated with L-41. Q->L;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:28057518;Dbxref=PMID:28057518	
+P09455	UniProtKB	Beta strand	7	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Helix	17	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Helix	28	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	40	46	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	49	55	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	61	66	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	71	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Turn	76	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	82	90	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	93	102	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	106	112	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	115	122	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	
+P09455	UniProtKB	Beta strand	125	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HBS	

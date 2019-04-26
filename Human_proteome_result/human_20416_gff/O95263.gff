@@ -1,0 +1,20 @@
+##gff-version 3
+##sequence-region O95263 1 885
+O95263	UniProtKB	Chain	1	885	.	.	.	ID=PRO_0000198840;Note=High affinity cAMP-specific and IBMX-insensitive 3'%2C5'-cyclic phosphodiesterase 8B	
+O95263	UniProtKB	Domain	267	338	.	.	.	Note=PAS;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00140	
+O95263	UniProtKB	Domain	539	875	.	.	.	Note=PDEase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01192	
+O95263	UniProtKB	Active site	615	615	.	.	.	Note=Proton donor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O76083	
+O95263	UniProtKB	Metal binding	619	619	.	.	.	Note=Divalent metal cation 1%3B via tele nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60658	
+O95263	UniProtKB	Metal binding	655	655	.	.	.	Note=Divalent metal cation 1%3B via tele nitrogen;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60658	
+O95263	UniProtKB	Metal binding	656	656	.	.	.	Note=Divalent metal cation 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60658	
+O95263	UniProtKB	Metal binding	656	656	.	.	.	Note=Divalent metal cation 2;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60658	
+O95263	UniProtKB	Metal binding	781	781	.	.	.	Note=Divalent metal cation 1;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:O60658	
+O95263	UniProtKB	Modified residue	517	517	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:20068231,PMID:23186163	
+O95263	UniProtKB	Modified residue	754	754	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:E9Q4S1	
+O95263	UniProtKB	Alternative sequence	1	535	.	.	.	ID=VSP_008081;Note=In isoform 5. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:15489334,ECO:0000303|Ref.3;Dbxref=PMID:15489334	
+O95263	UniProtKB	Alternative sequence	114	133	.	.	.	ID=VSP_008082;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12681444;Dbxref=PMID:12681444	
+O95263	UniProtKB	Alternative sequence	293	389	.	.	.	ID=VSP_008084;Note=In isoform 2. Missing;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12372422,ECO:0000303|PubMed:12681444;Dbxref=PMID:12372422,PMID:12681444	
+O95263	UniProtKB	Alternative sequence	293	339	.	.	.	ID=VSP_008083;Note=In isoform 6. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12372422;Dbxref=PMID:12372422	
+O95263	UniProtKB	Alternative sequence	456	510	.	.	.	ID=VSP_008085;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:12681444;Dbxref=PMID:12681444	
+O95263	UniProtKB	Natural variant	305	305	.	.	.	ID=VAR_066503;Note=In PPNAD3%3B shows significantly higher cyclic AMP levels after transfection with the mutant protein than after transfection with the wild-type%2C indicating an impaired ability of the mutant protein to degrade cAMP. H->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:18431404;Dbxref=dbSNP:rs121918360,PMID:18431404	
+O95263	UniProtKB	Sequence conflict	147	147	.	.	.	Note=G->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	

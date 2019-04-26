@@ -1,0 +1,72 @@
+##gff-version 3
+##sequence-region Q6NYC1 1 403
+Q6NYC1	UniProtKB	Chain	1	403	.	.	.	ID=PRO_0000129369;Note=Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6	
+Q6NYC1	UniProtKB	Domain	141	305	.	.	.	Note=JmjC;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00538	
+Q6NYC1	UniProtKB	Motif	6	10	.	.	.	Note=Nuclear localization signal 1;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729065;Dbxref=PMID:14729065	
+Q6NYC1	UniProtKB	Motif	91	95	.	.	.	Note=Nuclear localization signal 2;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729065;Dbxref=PMID:14729065	
+Q6NYC1	UniProtKB	Motif	141	145	.	.	.	Note=Nuclear localization signal 3;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729065;Dbxref=PMID:14729065	
+Q6NYC1	UniProtKB	Motif	167	170	.	.	.	Note=Nuclear localization signal 4;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729065;Dbxref=PMID:14729065	
+Q6NYC1	UniProtKB	Motif	373	378	.	.	.	Note=Nuclear localization signal 5;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14729065;Dbxref=PMID:14729065	
+Q6NYC1	UniProtKB	Compositional bias	340	365	.	.	.	Note=Ser-rich	
+Q6NYC1	UniProtKB	Metal binding	187	187	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20679243;Dbxref=PMID:20679243	
+Q6NYC1	UniProtKB	Metal binding	189	189	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20679243;Dbxref=PMID:20679243	
+Q6NYC1	UniProtKB	Metal binding	273	273	.	.	.	Note=Iron%3B catalytic;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20679243;Dbxref=PMID:20679243	
+Q6NYC1	UniProtKB	Binding site	184	184	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6NYC1	UniProtKB	Binding site	197	197	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20679243;Dbxref=PMID:20679243	
+Q6NYC1	UniProtKB	Binding site	204	204	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q6NYC1	UniProtKB	Binding site	285	285	.	.	.	Note=2-oxoglutarate;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20679243;Dbxref=PMID:20679243	
+Q6NYC1	UniProtKB	Modified residue	38	38	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q6NYC1	UniProtKB	Alternative sequence	361	402	.	.	.	ID=VSP_014022;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.1	
+Q6NYC1	UniProtKB	Alternative sequence	403	403	.	.	.	ID=VSP_014023;Note=In isoform 2 and isoform 3. R->RIRDTCGGRAHP;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:14702039,ECO:0000303|PubMed:9628581,ECO:0000303|Ref.1;Dbxref=PMID:14702039,PMID:9628581	
+Q6NYC1	UniProtKB	Mutagenesis	85	85	.	.	.	Note=Decreases intereraction with the NET domain of BRD4. W->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29176719;Dbxref=PMID:29176719	
+Q6NYC1	UniProtKB	Mutagenesis	90	90	.	.	.	Note=Nearly abolishes the intereraction with the NET domain of BRD4. L->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29176719;Dbxref=PMID:29176719	
+Q6NYC1	UniProtKB	Mutagenesis	91	91	.	.	.	Note=Nearly abolishes the intereraction with the NET domain of BRD4. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29176719;Dbxref=PMID:29176719	
+Q6NYC1	UniProtKB	Mutagenesis	95	95	.	.	.	Note=Nearly abolishes the intereraction with the NET domain of BRD4. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:29176719;Dbxref=PMID:29176719	
+Q6NYC1	UniProtKB	Mutagenesis	131	131	.	.	.	Note=Abolishes 2-oxoglutarate-binding and enzyme activity. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20684070;Dbxref=PMID:20684070	
+Q6NYC1	UniProtKB	Mutagenesis	187	187	.	.	.	Note=Loss of histone arginine demethylase and lysyl-hydroxylase activities. Abolishes homooligomerisation. Loss of arginine demethylase and a lysyl-hydroxylase activities%3B when associated with A-189 and A-273. H->A;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17947579,ECO:0000269|PubMed:19574390,ECO:0000269|PubMed:22189873,ECO:0000269|PubMed:24360279;Dbxref=PMID:17947579,PMID:19574390,PMID:22189873,PMID:24360279	
+Q6NYC1	UniProtKB	Mutagenesis	189	189	.	.	.	Note=Loss of arginine demethylase and a lysyl-hydroxylase activities%3B when associated with A-187 and A-273. D->A;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:17947579,ECO:0000269|PubMed:19574390;Dbxref=PMID:17947579,PMID:19574390	
+Q6NYC1	UniProtKB	Mutagenesis	204	204	.	.	.	Note=Impairs enzyme activity without affecting 2-oxoglutarate-binding. K->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20684070;Dbxref=PMID:20684070	
+Q6NYC1	UniProtKB	Mutagenesis	231	231	.	.	.	Note=Impairs both hydroxylation activity and 2-oxoglutarate turnover assays. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20684070;Dbxref=PMID:20684070	
+Q6NYC1	UniProtKB	Mutagenesis	273	273	.	.	.	Note=Loss of arginine demethylase and a lysyl-hydroxylase activities%3B when associated with A-187 and A-189. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17947579;Dbxref=PMID:17947579	
+Q6NYC1	UniProtKB	Mutagenesis	285	285	.	.	.	Note=Impairs enzyme activity and 2-oxoglutarate-binding. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20684070;Dbxref=PMID:20684070	
+Q6NYC1	UniProtKB	Mutagenesis	287	287	.	.	.	Note=Impairs enzyme activity. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20684070;Dbxref=PMID:20684070	
+Q6NYC1	UniProtKB	Sequence conflict	136	136	.	.	.	Note=S->G;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q6NYC1	UniProtKB	Helix	3	16	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Turn	23	26	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	31	34	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	39	41	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	51	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	56	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Turn	63	67	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	70	74	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Turn	75	78	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	81	84	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	87	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	98	103	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	109	113	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	114	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	132	135	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	137	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	143	149	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	154	156	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	160	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Turn	166	168	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	173	178	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	183	187	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3K2O	
+Q6NYC1	UniProtKB	Helix	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	194	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	204	209	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	215	218	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	222	225	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	226	228	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	232	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	240	243	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	250	252	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	255	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	264	267	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Beta strand	272	288	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Turn	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	294	304	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	306	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	
+Q6NYC1	UniProtKB	Helix	321	333	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:6FQC	

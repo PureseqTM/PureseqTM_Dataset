@@ -1,0 +1,46 @@
+##gff-version 3
+##sequence-region P49682 1 368
+P49682	UniProtKB	Chain	1	368	.	.	.	ID=PRO_0000069346;Note=C-X-C chemokine receptor type 3	
+P49682	UniProtKB	Topological domain	1	53	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	54	80	.	.	.	Note=Helical%3B Name%3D1;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	81	89	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	90	110	.	.	.	Note=Helical%3B Name%3D2;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	111	125	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	126	147	.	.	.	Note=Helical%3B Name%3D3;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	148	169	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	170	189	.	.	.	Note=Helical%3B Name%3D4;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	190	212	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	213	233	.	.	.	Note=Helical%3B Name%3D5;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	234	255	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	256	277	.	.	.	Note=Helical%3B Name%3D6;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	278	298	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Transmembrane	299	321	.	.	.	Note=Helical%3B Name%3D7;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Topological domain	322	368	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Modified residue	27	27	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16847335,ECO:0000269|PubMed:19151743;Dbxref=PMID:16847335,PMID:19151743	
+P49682	UniProtKB	Modified residue	29	29	.	.	.	Note=Sulfotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:19151743;Dbxref=PMID:19151743	
+P49682	UniProtKB	Glycosylation	22	22	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Glycosylation	32	32	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P49682	UniProtKB	Disulfide bond	124	203	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00521	
+P49682	UniProtKB	Alternative sequence	1	4	.	.	.	ID=VSP_015684;Note=In isoform 2. MVLE->MELRKYGPGRLAGTVIGGAAQSKSQTKSDSITKEFLPGLYTAPSSPFPPSQ;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:12782716,ECO:0000303|PubMed:18291705;Dbxref=PMID:12782716,PMID:18291705	
+P49682	UniProtKB	Alternative sequence	210	368	.	.	.	ID=VSP_015685;Note=In isoform 3. VGRTALRVLQLVAGFLLPLLVMAYCYAHILAVLLVSRGQRRLRAMRLVVVVVVAFALCWTPYHLVVLVDILMDLGALARNCGRESRVDVAKSVTSGLGYMHCCLNPLLYAFVGVKFRERMWMLLLRLGCPNQRGLQRQPSSSRRDSSWSETSEASYSGL->GSSSGSGCGCCSCAWAAPTREGSRGSHRLPAGIHPGLRPQRPPTRACEAGIRAPLSPI;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49682	UniProtKB	Natural variant	292	292	.	.	.	ID=VAR_016240;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11196695;Dbxref=dbSNP:rs139226823,PMID:11196695	
+P49682	UniProtKB	Natural variant	363	363	.	.	.	ID=VAR_016241;Note=A->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11196695;Dbxref=dbSNP:rs766348940,PMID:11196695	
+P49682	UniProtKB	Mutagenesis	1	16	.	.	.	Note=Reduces binding to CXCL10 and CXCL11%2C and reduces CXCL10- and CXCL11-induced chemotaxis and activation. Does not affect CXCL9-induced chemotaxis and activation. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	4	4	.	.	.	Note=Does not affect binding to CXCL9%2C CXCL10 and CXCL11 or activation. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	21	21	.	.	.	Note=Reduces slightly CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	27	29	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. YDY->ADA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	27	27	.	.	.	Note=Reduces sulfation and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. Abolishes binding to CXCL10. Abolishes sulfation%2C binding to CXCL11%2C ligand-induced receptor internalization and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis%3B when associated with F-29. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16847335,ECO:0000269|PubMed:19151743;Dbxref=PMID:16847335,PMID:19151743	
+P49682	UniProtKB	Mutagenesis	29	29	.	.	.	Note=Reduces sulfation%2C binding to CXCL10 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. Abolishes sulfation%2C binding to CXCL10 and CXCL11 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis%3B when associated with F-27. Y->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16847335,ECO:0000269|PubMed:19151743;Dbxref=PMID:16847335,PMID:19151743	
+P49682	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11. Reduces CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	112	112	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11 and CXCL10- and CXCL11-induced chemotaxis. Reduces CXCL9-induced chemotaxis. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	197	197	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. Reduces ligand-induced receptor internalization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	212	212	.	.	.	Note=Abolishes CXCL10-induced chemotaxis. Reduces CXCL9- and CXCL11-induced chemotaxis. Does not affect binding to CXCL10 and CXCL11. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	216	216	.	.	.	Note=Reduces CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. Does not affect binding to CXCL10 and CXCL11 or receptor internalization. R->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	278	278	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11 and CXCL11-induced chemotaxis. Reduces CXCL9 and CXCL10-induced chemotaxis. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	278	278	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	282	282	.	.	.	Note=Reduces binding to CXCL10 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. Abolishes binding to CXCL11. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	282	282	.	.	.	Note=Reduces binding to CXCL10 and CXCL11 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. D->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	293	293	.	.	.	Note=Reduces binding to CXCL10 and CXCL9- and CXCL11-induced chemotaxis. Abolishes binding to CXCL11 and CXCL10-induced chemotaxis. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Mutagenesis	293	293	.	.	.	Note=Abolishes binding to CXCL10 and CXCL11 and CXCL9-%2C CXCL10- and CXCL11-induced chemotaxis. E->K;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16847335;Dbxref=PMID:16847335	
+P49682	UniProtKB	Sequence conflict	75	75	.	.	.	Note=A->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P49682	UniProtKB	Sequence conflict	157	157	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	

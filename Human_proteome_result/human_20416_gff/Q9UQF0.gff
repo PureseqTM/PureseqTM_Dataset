@@ -1,0 +1,42 @@
+##gff-version 3
+##sequence-region Q9UQF0 1 538
+Q9UQF0	UniProtKB	Signal peptide	1	20	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Chain	21	538	.	.	.	ID=PRO_0000008485;Note=Syncytin-1	
+Q9UQF0	UniProtKB	Chain	21	317	.	.	.	ID=PRO_0000008486;Note=Surface protein	
+Q9UQF0	UniProtKB	Chain	318	538	.	.	.	ID=PRO_0000008487;Note=Transmembrane protein	
+Q9UQF0	UniProtKB	Topological domain	21	443	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Transmembrane	444	464	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Topological domain	465	538	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Region	320	340	.	.	.	Note=Fusion peptide;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Region	380	396	.	.	.	Note=Immunosuppression;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q9UQF0	UniProtKB	Region	465	484	.	.	.	Note=Essential for the fusiogenic function	
+Q9UQF0	UniProtKB	Motif	186	189	.	.	.	Note=CXXC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Motif	397	406	.	.	.	Note=CX6CC;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Site	317	318	.	.	.	Note=Cleavage;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15827173;Dbxref=PMID:15827173	
+Q9UQF0	UniProtKB	Glycosylation	169	169	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Glycosylation	208	208	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Glycosylation	214	214	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Glycosylation	234	234	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Glycosylation	242	242	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Glycosylation	281	281	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Glycosylation	409	409	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9UQF0	UniProtKB	Disulfide bond	186	405	.	.	.	Note=Interchain (between SU and TM chains%2C or C-189 with C-405)%3B in linked form;Ontology_term=ECO:0000305;evidence=ECO:0000305|PubMed:15827173;Dbxref=PMID:15827173	
+Q9UQF0	UniProtKB	Disulfide bond	186	189	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P23064	
+Q9UQF0	UniProtKB	Disulfide bond	397	404	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P60508	
+Q9UQF0	UniProtKB	Natural variant	129	129	.	.	.	ID=VAR_018638;Note=V->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14757826;Dbxref=dbSNP:rs142852059,PMID:14757826	
+Q9UQF0	UniProtKB	Natural variant	138	138	.	.	.	ID=VAR_018639;Note=R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14757826;Dbxref=dbSNP:rs55903518,PMID:14757826	
+Q9UQF0	UniProtKB	Natural variant	307	307	.	.	.	ID=VAR_018640;Note=S->N;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:10693809,ECO:0000269|PubMed:11990458,ECO:0000269|PubMed:14757826;Dbxref=dbSNP:rs10266695,PMID:10693809,PMID:11990458,PMID:14757826	
+Q9UQF0	UniProtKB	Natural variant	477	477	.	.	.	ID=VAR_018641;Note=S->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:14757826;Dbxref=dbSNP:rs141340741,PMID:14757826	
+Q9UQF0	UniProtKB	Mutagenesis	314	316	.	.	.	Note=Complete loss of cleavage between SU and TM. Loss of fusiogenic function. RNK->AAA;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15827173;Dbxref=PMID:15827173	
+Q9UQF0	UniProtKB	Mutagenesis	317	317	.	.	.	Note=Complete loss of cleavage between SU and TM. Loss of fusiogenic function. R->T;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15827173;Dbxref=PMID:15827173	
+Q9UQF0	UniProtKB	Mutagenesis	405	405	.	.	.	Note=Loss of fusiogenic function. No effect on cleavage between SU and TM. C->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15827173;Dbxref=PMID:15827173	
+Q9UQF0	UniProtKB	Sequence conflict	13	14	.	.	.	Note=LL->VS;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Sequence conflict	56	56	.	.	.	Note=S->C;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Sequence conflict	298	298	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Sequence conflict	298	298	.	.	.	Note=T->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Sequence conflict	381	381	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Sequence conflict	388	388	.	.	.	Note=L->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q9UQF0	UniProtKB	Helix	343	389	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HA6	
+Q9UQF0	UniProtKB	Helix	391	393	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HA6	
+Q9UQF0	UniProtKB	Helix	396	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HA6	
+Q9UQF0	UniProtKB	Helix	411	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5HA6	

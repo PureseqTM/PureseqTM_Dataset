@@ -1,0 +1,71 @@
+##gff-version 3
+##sequence-region Q05655 1 676
+Q05655	UniProtKB	Chain	1	676	.	.	.	ID=PRO_0000055694;Note=Protein kinase C delta type	
+Q05655	UniProtKB	Chain	1	329	.	.	.	ID=PRO_0000421667;Note=Protein kinase C delta type regulatory subunit;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q05655	UniProtKB	Chain	330	676	.	.	.	ID=PRO_0000421668;Note=Protein kinase C delta type catalytic subunit;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q05655	UniProtKB	Domain	1	90	.	.	.	Note=C2	
+Q05655	UniProtKB	Domain	349	603	.	.	.	Note=Protein kinase;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q05655	UniProtKB	Domain	604	675	.	.	.	Note=AGC-kinase C-terminal	
+Q05655	UniProtKB	Zinc finger	158	208	.	.	.	Note=Phorbol-ester/DAG-type 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00226	
+Q05655	UniProtKB	Zinc finger	230	280	.	.	.	Note=Phorbol-ester/DAG-type 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00226	
+Q05655	UniProtKB	Nucleotide binding	355	363	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q05655	UniProtKB	Active site	473	473	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255,ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159,ECO:0000255|PROSITE-ProRule:PRU10027	
+Q05655	UniProtKB	Binding site	378	378	.	.	.	Note=ATP;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00159	
+Q05655	UniProtKB	Site	48	48	.	.	.	Note=Interaction with phosphotyrosine-containing peptide	
+Q05655	UniProtKB	Site	62	62	.	.	.	Note=Interaction with phosphotyrosine-containing peptide	
+Q05655	UniProtKB	Site	67	67	.	.	.	Note=Interaction with phosphotyrosine-containing peptide	
+Q05655	UniProtKB	Site	123	123	.	.	.	Note=Interaction with phosphotyrosine-containing peptide	
+Q05655	UniProtKB	Site	329	330	.	.	.	Note=Cleavage%3B by caspase-3;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q05655	UniProtKB	Modified residue	43	43	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P28867	
+Q05655	UniProtKB	Modified residue	50	50	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17965192;Dbxref=PMID:17965192	
+Q05655	UniProtKB	Modified residue	64	64	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P09215	
+Q05655	UniProtKB	Modified residue	130	130	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18669648;Dbxref=PMID:18669648	
+Q05655	UniProtKB	Modified residue	141	141	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17965192;Dbxref=PMID:23186163,PMID:17965192	
+Q05655	UniProtKB	Modified residue	155	155	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15774464;Dbxref=PMID:15774464	
+Q05655	UniProtKB	Modified residue	218	218	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:19369195;Dbxref=PMID:19369195	
+Q05655	UniProtKB	Modified residue	299	299	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17603046;Dbxref=PMID:18691976,PMID:23186163,PMID:17603046	
+Q05655	UniProtKB	Modified residue	302	302	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17603046;Dbxref=PMID:18669648,PMID:23186163,PMID:17603046	
+Q05655	UniProtKB	Modified residue	304	304	.	.	.	Note=Phosphoserine%3B by autocatalysis;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000244|PubMed:23186163,ECO:0000269|PubMed:17603046,ECO:0000269|PubMed:17965192;Dbxref=PMID:18669648,PMID:20068231,PMID:21406692,PMID:23186163,PMID:17603046,PMID:17965192	
+Q05655	UniProtKB	Modified residue	307	307	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:23186163;Dbxref=PMID:18669648,PMID:23186163	
+Q05655	UniProtKB	Modified residue	313	313	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000269|PubMed:17570831;Dbxref=PMID:18691976,PMID:19369195,PMID:19690332,PMID:17570831	
+Q05655	UniProtKB	Modified residue	334	334	.	.	.	Note=Phosphotyrosine%3B by SRC;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P09215	
+Q05655	UniProtKB	Modified residue	374	374	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:20068231;Dbxref=PMID:20068231	
+Q05655	UniProtKB	Modified residue	451	451	.	.	.	Note=Phosphothreonine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17965192;Dbxref=PMID:17965192	
+Q05655	UniProtKB	Modified residue	503	503	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:23186163;Dbxref=PMID:18691976,PMID:23186163	
+Q05655	UniProtKB	Modified residue	506	506	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17965192;Dbxref=PMID:17965192	
+Q05655	UniProtKB	Modified residue	507	507	.	.	.	Note=Phosphothreonine%3B by autocatalysis;Ontology_term=ECO:0000269,ECO:0000305;evidence=ECO:0000269|PubMed:17965192,ECO:0000305|PubMed:19801500;Dbxref=PMID:17965192,PMID:19801500	
+Q05655	UniProtKB	Modified residue	567	567	.	.	.	Note=Phosphotyrosine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17570831;Dbxref=PMID:17570831	
+Q05655	UniProtKB	Modified residue	645	645	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:21406692,ECO:0000269|PubMed:19801500;Dbxref=PMID:20068231,PMID:21406692,PMID:19801500	
+Q05655	UniProtKB	Modified residue	654	654	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18691976;Dbxref=PMID:18691976	
+Q05655	UniProtKB	Modified residue	658	658	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:18691976;Dbxref=PMID:18691976	
+Q05655	UniProtKB	Modified residue	664	664	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000244,ECO:0000269;evidence=ECO:0000244|PubMed:18669648,ECO:0000244|PubMed:18691976,ECO:0000244|PubMed:19369195,ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163,ECO:0000244|PubMed:24275569,ECO:0000269|PubMed:17965192;Dbxref=PMID:18669648,PMID:18691976,PMID:19369195,PMID:19690332,PMID:20068231,PMID:23186163,PMID:24275569,PMID:17965192	
+Q05655	UniProtKB	Alternative sequence	328	328	.	.	.	ID=VSP_043899;Note=In isoform 2. Q->QGEAGSIAPLRFLFPLRPKKGDCPPFHCQVRQ;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:18092819;Dbxref=PMID:18092819	
+Q05655	UniProtKB	Natural variant	348	348	.	.	.	ID=VAR_035347;Note=N->S;Dbxref=dbSNP:rs33911937	
+Q05655	UniProtKB	Natural variant	375	375	.	.	.	ID=VAR_006175;Note=F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8357834;Dbxref=dbSNP:rs1056998,PMID:8357834	
+Q05655	UniProtKB	Natural variant	410	410	.	.	.	ID=VAR_035348;Note=L->F;Dbxref=dbSNP:rs34502209	
+Q05655	UniProtKB	Natural variant	483	483	.	.	.	ID=VAR_046009;Note=R->W;Dbxref=dbSNP:rs35891605	
+Q05655	UniProtKB	Natural variant	494	494	.	.	.	ID=VAR_020610;Note=M->V;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7988719;Dbxref=PMID:7988719	
+Q05655	UniProtKB	Natural variant	593	593	.	.	.	ID=VAR_006176;Note=V->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:8357834;Dbxref=PMID:8357834	
+Q05655	UniProtKB	Mutagenesis	299	299	.	.	.	Note=Loss of phosphorylation. S->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17603046;Dbxref=PMID:17603046	
+Q05655	UniProtKB	Mutagenesis	507	507	.	.	.	Note=No effect on kinase activity. T->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:11772397;Dbxref=PMID:11772397	
+Q05655	UniProtKB	Sequence conflict	524	524	.	.	.	Note=K->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q05655	UniProtKB	Sequence conflict	533	533	.	.	.	Note=S->A;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q05655	UniProtKB	Beta strand	1	13	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	20	23	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	27	38	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	41	45	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	58	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	68	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	79	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Helix	88	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Turn	97	100	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	101	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	109	111	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Beta strand	113	123	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:1YRK	
+Q05655	UniProtKB	Helix	156	158	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	
+Q05655	UniProtKB	Beta strand	161	164	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	
+Q05655	UniProtKB	Beta strand	173	175	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	
+Q05655	UniProtKB	Beta strand	181	183	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	
+Q05655	UniProtKB	Beta strand	186	189	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	
+Q05655	UniProtKB	Turn	190	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	
+Q05655	UniProtKB	Helix	200	202	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2YUU	

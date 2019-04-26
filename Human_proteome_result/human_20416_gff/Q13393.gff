@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region Q13393 1 1074
+Q13393	UniProtKB	Chain	1	1074	.	.	.	ID=PRO_0000218802;Note=Phospholipase D1	
+Q13393	UniProtKB	Domain	81	212	.	.	.	Note=PX;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00147	
+Q13393	UniProtKB	Domain	219	328	.	.	.	Note=PH	
+Q13393	UniProtKB	Domain	459	486	.	.	.	Note=PLD phosphodiesterase 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00153	
+Q13393	UniProtKB	Domain	891	918	.	.	.	Note=PLD phosphodiesterase 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00153	
+Q13393	UniProtKB	Region	463	928	.	.	.	Note=Catalytic	
+Q13393	UniProtKB	Modified residue	499	499	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P70496	
+Q13393	UniProtKB	Modified residue	561	561	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+Q13393	UniProtKB	Modified residue	629	629	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:17081983,ECO:0000244|PubMed:23186163;Dbxref=PMID:17081983,PMID:23186163	
+Q13393	UniProtKB	Lipidation	240	240	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13393	UniProtKB	Lipidation	241	241	.	.	.	Note=S-palmitoyl cysteine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q13393	UniProtKB	Alternative sequence	514	597	.	.	.	ID=VSP_005018;Note=In isoform PLD1C. PAAMESMESLRLKDKNEPVQNLPIQKSIDDVDSKLKGIGKPRKFSKFSLYKQLHRHHLHDADSISSIDSTSSYFNHYRSHHNLI->IPGPSVVYRQVWESCMGKPDSGMERTTAISSSKTGFNLINLLLISLTGTPRPGCPGMTLPLQSTGRRLVMWHVTSSSAGTSQKL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9761774;Dbxref=PMID:9761774	
+Q13393	UniProtKB	Alternative sequence	585	623	.	.	.	ID=VSP_005020;Note=In isoform PLD1B. SYFNHYRSHHNLIHGLKPHFKLFHPSSESEQGLTRPHAD->N;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:9013646,ECO:0000303|PubMed:9761774;Dbxref=PMID:9013646,PMID:9761774	
+Q13393	UniProtKB	Alternative sequence	598	1074	.	.	.	ID=VSP_005019;Note=In isoform PLD1C. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:9761774;Dbxref=PMID:9761774	
+Q13393	UniProtKB	Alternative sequence	962	971	.	.	.	ID=VSP_005021;Note=In isoform PLD1D. VVLGYLDDPS->SKMTPGVEDP;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q13393	UniProtKB	Alternative sequence	972	1074	.	.	.	ID=VSP_005022;Note=In isoform PLD1D. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.5	
+Q13393	UniProtKB	Natural variant	49	49	.	.	.	ID=VAR_034387;Note=P->A;Dbxref=dbSNP:rs9819927	
+Q13393	UniProtKB	Natural variant	442	442	.	.	.	ID=VAR_078985;Note=In CVDD. H->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27799408;Dbxref=dbSNP:rs769669104,PMID:27799408	
+Q13393	UniProtKB	Natural variant	622	622	.	.	.	ID=VAR_022056;Note=A->S;Dbxref=dbSNP:rs2290480	
+Q13393	UniProtKB	Natural variant	820	820	.	.	.	ID=VAR_022057;Note=V->M;Dbxref=dbSNP:rs2287579	
+Q13393	UniProtKB	Natural variant	1024	1024	.	.	.	ID=VAR_051703;Note=V->I;Dbxref=dbSNP:rs9827333	
+Q13393	UniProtKB	Sequence conflict	832	832	.	.	.	Note=S->P;Ontology_term=ECO:0000305;evidence=ECO:0000305	

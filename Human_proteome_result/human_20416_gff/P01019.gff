@@ -1,0 +1,75 @@
+##gff-version 3
+##sequence-region P01019 1 485
+P01019	UniProtKB	Signal peptide	1	33	.	.	.	Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:4300938,ECO:0000269|PubMed:7259779,ECO:0000269|PubMed:7539791;Dbxref=PMID:4300938,PMID:7259779,PMID:7539791	
+P01019	UniProtKB	Chain	34	485	.	.	.	ID=PRO_0000032456;Note=Angiotensinogen	
+P01019	UniProtKB	Peptide	34	43	.	.	.	ID=PRO_0000032457;Note=Angiotensin-1	
+P01019	UniProtKB	Peptide	34	42	.	.	.	ID=PRO_0000420659;Note=Angiotensin 1-9	
+P01019	UniProtKB	Peptide	34	41	.	.	.	ID=PRO_0000032458;Note=Angiotensin-2	
+P01019	UniProtKB	Peptide	34	40	.	.	.	ID=PRO_0000420660;Note=Angiotensin 1-7	
+P01019	UniProtKB	Peptide	34	38	.	.	.	ID=PRO_0000420661;Note=Angiotensin 1-5	
+P01019	UniProtKB	Peptide	34	37	.	.	.	ID=PRO_0000420662;Note=Angiotensin 1-4	
+P01019	UniProtKB	Peptide	35	41	.	.	.	ID=PRO_0000032459;Note=Angiotensin-3	
+P01019	UniProtKB	Peptide	36	41	.	.	.	ID=PRO_0000420663;Note=Angiotensin-4	
+P01019	UniProtKB	Modified residue	34	34	.	.	.	Note=Beta-decarboxylated aspartate%3B in form angiotensin-A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:17138938;Dbxref=PMID:17138938	
+P01019	UniProtKB	Glycosylation	47	47	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:3934016;Dbxref=PMID:16335952,PMID:19159218,PMID:3934016	
+P01019	UniProtKB	Glycosylation	170	170	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3934016;Dbxref=PMID:3934016	
+P01019	UniProtKB	Glycosylation	304	304	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3934016;Dbxref=PMID:3934016	
+P01019	UniProtKB	Glycosylation	328	328	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:3934016;Dbxref=PMID:3934016	
+P01019	UniProtKB	Disulfide bond	51	171	.	.	.	Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:20927107;Dbxref=PMID:20927107	
+P01019	UniProtKB	Natural variant	43	43	.	.	.	ID=VAR_022933;Note=Associated with susceptibility to pre-eclampsia%3B alters the reactions with renin and angiotensin-converting enzyme. L->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7744780;Dbxref=dbSNP:rs41271499,PMID:7744780	
+P01019	UniProtKB	Natural variant	98	98	.	.	.	ID=VAR_029166;Note=E->K;Dbxref=dbSNP:rs11568032	
+P01019	UniProtKB	Natural variant	114	114	.	.	.	ID=VAR_051939;Note=G->C;Dbxref=dbSNP:rs2229389	
+P01019	UniProtKB	Natural variant	137	137	.	.	.	ID=VAR_035431;Note=T->M;Dbxref=dbSNP:rs34829218	
+P01019	UniProtKB	Natural variant	207	207	.	.	.	ID=VAR_007093;Note=Associated with hypertension. T->M;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:1394429;Dbxref=dbSNP:rs4762,PMID:1394429	
+P01019	UniProtKB	Natural variant	242	242	.	.	.	ID=VAR_007094;Note=Associated with susceptibility to hypertension. T->I;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7607642;Dbxref=dbSNP:rs765678426,PMID:7607642	
+P01019	UniProtKB	Natural variant	244	244	.	.	.	ID=VAR_007095;Note=Associated with susceptibility to hypertension. L->R;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:7607642;Dbxref=dbSNP:rs5041,PMID:7607642	
+P01019	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_029167;Note=M->I;Dbxref=dbSNP:rs11568053	
+P01019	UniProtKB	Natural variant	268	268	.	.	.	ID=VAR_007096;Note=Associated with essential hypertension and pre-eclampsia. M->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1394429,ECO:0000269|PubMed:8513325;Dbxref=dbSNP:rs699,PMID:1394429,PMID:8513325	
+P01019	UniProtKB	Natural variant	281	281	.	.	.	ID=VAR_007097;Note=Associated with susceptibility to hypertension%3B alters the structure%2C glycosylation and secretion of angiotensinogen. Y->C;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:1394429,ECO:0000269|PubMed:7607642,ECO:0000269|PubMed:8621667;Dbxref=dbSNP:rs56073403,PMID:1394429,PMID:7607642,PMID:8621667	
+P01019	UniProtKB	Natural variant	335	335	.	.	.	ID=VAR_035432;Note=P->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:15489334;Dbxref=dbSNP:rs17856352,PMID:15489334	
+P01019	UniProtKB	Natural variant	375	375	.	.	.	ID=VAR_035433;Note=In RTD. R->Q;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16116425;Dbxref=dbSNP:rs74315283,PMID:16116425	
+P01019	UniProtKB	Natural variant	392	392	.	.	.	ID=VAR_014573;Note=L->M;Dbxref=dbSNP:rs1805090	
+P01019	UniProtKB	Sequence conflict	51	51	.	.	.	Note=C->S;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01019	UniProtKB	Sequence conflict	58	58	.	.	.	Note=N->D;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01019	UniProtKB	Sequence conflict	333	333	.	.	.	Note=Q->E;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P01019	UniProtKB	Turn	42	44	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WXW	
+P01019	UniProtKB	Turn	48	50	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	59	62	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WXW	
+P01019	UniProtKB	Helix	81	93	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	97	119	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	122	124	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Turn	125	127	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	128	131	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	136	148	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	152	162	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	167	169	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Turn	171	173	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WXW	
+P01019	UniProtKB	Helix	177	192	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Turn	195	197	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WXW	
+P01019	UniProtKB	Beta strand	203	213	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	221	230	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	234	238	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	244	259	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	276	287	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	291	293	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	298	300	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	302	305	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	308	310	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	312	324	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Turn	325	328	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	329	349	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	350	352	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	353	360	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	363	369	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	373	382	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	385	391	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	392	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Turn	396	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Helix	401	404	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	407	409	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2WXW	
+P01019	UniProtKB	Turn	412	414	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	421	433	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	452	455	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	460	466	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Turn	467	470	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	
+P01019	UniProtKB	Beta strand	471	479	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:5M3Y	

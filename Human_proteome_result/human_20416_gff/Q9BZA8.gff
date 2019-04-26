@@ -1,0 +1,29 @@
+##gff-version 3
+##sequence-region Q9BZA8 1 1340
+Q9BZA8	UniProtKB	Signal peptide	1	28	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Chain	29	1340	.	.	.	ID=PRO_0000232764;Note=Protocadherin-11 Y-linked	
+Q9BZA8	UniProtKB	Topological domain	29	844	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Transmembrane	845	865	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Topological domain	866	1340	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Domain	58	171	.	.	.	Note=Cadherin 1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Domain	172	281	.	.	.	Note=Cadherin 2;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Domain	282	387	.	.	.	Note=Cadherin 3;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Domain	394	498	.	.	.	Note=Cadherin 4;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Domain	499	602	.	.	.	Note=Cadherin 5;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Domain	603	705	.	.	.	Note=Cadherin 6;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Domain	709	827	.	.	.	Note=Cadherin 7;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00043	
+Q9BZA8	UniProtKB	Compositional bias	900	907	.	.	.	Note=Poly-Lys	
+Q9BZA8	UniProtKB	Glycosylation	59	59	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Glycosylation	80	80	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Glycosylation	86	86	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Glycosylation	376	376	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Glycosylation	585	585	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Glycosylation	805	805	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q9BZA8	UniProtKB	Alternative sequence	1	21	.	.	.	ID=VSP_017996;Note=In isoform 3. MFRVGFLIISSSSSLSPLLLV->MTVGFNSDIS;Ontology_term=ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11003707,ECO:0000303|PubMed:12420223;Dbxref=PMID:11003707,PMID:12420223	
+Q9BZA8	UniProtKB	Alternative sequence	1044	1053	.	.	.	ID=VSP_017997;Note=In isoform 4. SQRRVTFHLP->VGIQVSNTTF;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14727141;Dbxref=PMID:14727141	
+Q9BZA8	UniProtKB	Alternative sequence	1044	1048	.	.	.	ID=VSP_017998;Note=In isoform 2 and isoform 3. SQRRV->TDSRT;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11003707,ECO:0000303|PubMed:12420223,ECO:0000303|PubMed:12815422;Dbxref=PMID:11003707,PMID:12420223,PMID:12815422	
+Q9BZA8	UniProtKB	Alternative sequence	1049	1340	.	.	.	ID=VSP_017999;Note=In isoform 2 and isoform 3. Missing;Ontology_term=ECO:0000303,ECO:0000303,ECO:0000303;evidence=ECO:0000303|PubMed:11003707,ECO:0000303|PubMed:12420223,ECO:0000303|PubMed:12815422;Dbxref=PMID:11003707,PMID:12420223,PMID:12815422	
+Q9BZA8	UniProtKB	Alternative sequence	1054	1340	.	.	.	ID=VSP_018000;Note=In isoform 4. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:14727141;Dbxref=PMID:14727141	
+Q9BZA8	UniProtKB	Natural variant	917	917	.	.	.	ID=VAR_026020;Note=V->F;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12815422,ECO:0000269|PubMed:16331680;Dbxref=dbSNP:rs2524543,PMID:12815422,PMID:16331680	
+Q9BZA8	UniProtKB	Natural variant	1012	1012	.	.	.	ID=VAR_026021;Note=N->K;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:12815422,ECO:0000269|PubMed:16331680;Dbxref=dbSNP:rs2563389,PMID:12815422,PMID:16331680	
+Q9BZA8	UniProtKB	Natural variant	1320	1320	.	.	.	ID=VAR_048576;Note=A->T;Dbxref=dbSNP:rs2556900	

@@ -1,0 +1,28 @@
+##gff-version 3
+##sequence-region P37198 1 522
+P37198	UniProtKB	Initiator methionine	1	1	.	.	.	Note=Removed;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895;Dbxref=PMID:19413330,PMID:22223895	
+P37198	UniProtKB	Chain	2	522	.	.	.	ID=PRO_0000204880;Note=Nuclear pore glycoprotein p62	
+P37198	UniProtKB	Repeat	6	7	.	.	.	Note=1	
+P37198	UniProtKB	Repeat	44	45	.	.	.	Note=2	
+P37198	UniProtKB	Repeat	76	77	.	.	.	Note=3	
+P37198	UniProtKB	Repeat	114	115	.	.	.	Note=4	
+P37198	UniProtKB	Repeat	142	143	.	.	.	Note=5	
+P37198	UniProtKB	Region	6	143	.	.	.	Note=5 X 2 AA repeats of F-G	
+P37198	UniProtKB	Region	328	458	.	.	.	Note=Required for centrosome localization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:24107630;Dbxref=PMID:24107630	
+P37198	UniProtKB	Coiled coil	328	458	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+P37198	UniProtKB	Compositional bias	9	288	.	.	.	Note=Thr-rich	
+P37198	UniProtKB	Compositional bias	176	331	.	.	.	Note=Ala-rich	
+P37198	UniProtKB	Modified residue	2	2	.	.	.	Note=N-acetylserine;Ontology_term=ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19413330,ECO:0000244|PubMed:22223895;Dbxref=PMID:19413330,PMID:22223895	
+P37198	UniProtKB	Modified residue	408	408	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244,ECO:0000244,ECO:0000244;evidence=ECO:0000244|PubMed:19690332,ECO:0000244|PubMed:20068231,ECO:0000244|PubMed:23186163;Dbxref=PMID:19690332,PMID:20068231,PMID:23186163	
+P37198	UniProtKB	Modified residue	418	418	.	.	.	Note=Phosphoserine;Ontology_term=ECO:0000244;evidence=ECO:0000244|PubMed:23186163;Dbxref=PMID:23186163	
+P37198	UniProtKB	Glycosylation	373	373	.	.	.	Note=O-linked (GlcNAc) threonine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P37198	UniProtKB	Glycosylation	468	468	.	.	.	Note=O-linked (GlcNAc) serine;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P37198	UniProtKB	Disulfide bond	475	475	.	.	.	Note=Interchain (with NUP155);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P37198	UniProtKB	Disulfide bond	506	506	.	.	.	Note=Interchain (with NUP155);Ontology_term=ECO:0000250;evidence=ECO:0000250	
+P37198	UniProtKB	Natural variant	139	139	.	.	.	ID=VAR_028064;Note=G->S;Dbxref=dbSNP:rs3745489	
+P37198	UniProtKB	Natural variant	233	233	.	.	.	ID=VAR_013467;Note=A->S;Dbxref=dbSNP:rs2290772	
+P37198	UniProtKB	Natural variant	283	283	.	.	.	ID=VAR_028065;Note=S->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:17974005,ECO:0000269|PubMed:1915414;Dbxref=dbSNP:rs1062798,PMID:15489334,PMID:17974005,PMID:1915414	
+P37198	UniProtKB	Natural variant	391	391	.	.	.	ID=VAR_034904;Note=In SNDI. Q->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16786527;Dbxref=dbSNP:rs121917865,PMID:16786527	
+P37198	UniProtKB	Sequence conflict	418	419	.	.	.	Note=SG->RA;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P37198	UniProtKB	Sequence conflict	431	431	.	.	.	Note=E->Q;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P37198	UniProtKB	Sequence conflict	507	507	.	.	.	Note=E->V;Ontology_term=ECO:0000305;evidence=ECO:0000305	

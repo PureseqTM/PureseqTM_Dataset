@@ -1,0 +1,36 @@
+##gff-version 3
+##sequence-region Q6XR72 1 485
+Q6XR72	UniProtKB	Chain	1	485	.	.	.	ID=PRO_0000312580;Note=Zinc transporter 10	
+Q6XR72	UniProtKB	Topological domain	1	10	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Transmembrane	11	31	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Topological domain	32	40	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Transmembrane	41	61	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Topological domain	62	81	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Transmembrane	82	102	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Topological domain	103	113	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Transmembrane	114	134	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Topological domain	135	244	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Transmembrane	245	265	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Topological domain	266	278	.	.	.	Note=Extracellular;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Transmembrane	279	299	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Topological domain	300	485	.	.	.	Note=Cytoplasmic;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q6XR72	UniProtKB	Region	308	485	.	.	.	Note=Required for plasma membrane localization;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25319704;Dbxref=PMID:25319704	
+Q6XR72	UniProtKB	Compositional bias	253	256	.	.	.	Note=Poly-Val	
+Q6XR72	UniProtKB	Compositional bias	396	399	.	.	.	Note=Poly-Leu	
+Q6XR72	UniProtKB	Alternative sequence	1	245	.	.	.	ID=VSP_029863;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:17974005;Dbxref=PMID:17974005	
+Q6XR72	UniProtKB	Alternative sequence	214	223	.	.	.	ID=VSP_029864;Note=In isoform 3. GDSFNTQNEP->ELIHNTRFLL;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6XR72	UniProtKB	Alternative sequence	224	485	.	.	.	ID=VSP_029865;Note=In isoform 3. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|PubMed:15489334;Dbxref=PMID:15489334	
+Q6XR72	UniProtKB	Natural variant	89	89	.	.	.	ID=VAR_072573;Note=In HMNDYT1%3B abolishes cell surface localization. L->P;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22341972,ECO:0000269|PubMed:25319704;Dbxref=dbSNP:rs281860284,PMID:22341972,PMID:25319704	
+Q6XR72	UniProtKB	Natural variant	105	107	.	.	.	ID=VAR_072574;Note=In HMNDYT1%3B abolishes cell surface localization%3B decreases manganese efflux%3B decreases protection against manganese-induced neurotoxity. Missing;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:22341972,ECO:0000269|PubMed:25319704;Dbxref=PMID:22341972,PMID:25319704	
+Q6XR72	UniProtKB	Natural variant	167	167	.	.	.	ID=VAR_072575;Note=F->S;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22341971;Dbxref=dbSNP:rs281860286,PMID:22341971	
+Q6XR72	UniProtKB	Natural variant	256	256	.	.	.	ID=VAR_072576;Note=In HMNDYT1. Missing;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22341972;Dbxref=PMID:22341972	
+Q6XR72	UniProtKB	Natural variant	349	349	.	.	.	ID=VAR_072577;Note=In HMNDYT1. L->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:22341972;Dbxref=dbSNP:rs281860291,PMID:22341972	
+Q6XR72	UniProtKB	Mutagenesis	4	4	.	.	.	Note=Decreases interaction with SLC30A3%3B no effect on self-association%3B decreases zinc transport%3B decreases EGF-induced ERK1/2 phosphorylation. Y->F;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:26728129;Dbxref=PMID:26728129	
+Q6XR72	UniProtKB	Mutagenesis	25	25	.	.	.	Note=Abolishes manganese efflux activity. E->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
+Q6XR72	UniProtKB	Mutagenesis	40	40	.	.	.	Note=Abolishes manganese efflux activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
+Q6XR72	UniProtKB	Mutagenesis	127	127	.	.	.	Note=Abolishes manganese efflux activity%3B when associated with A-244. N->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
+Q6XR72	UniProtKB	Mutagenesis	196	196	.	.	.	Note=Abolishes cell surface localization. T->P;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:25319704;Dbxref=PMID:25319704	
+Q6XR72	UniProtKB	Mutagenesis	244	244	.	.	.	Note=Abolishes manganese efflux activity%3B when associated with A-127. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
+Q6XR72	UniProtKB	Mutagenesis	248	248	.	.	.	Note=Abolishes manganese efflux activity. D->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
+Q6XR72	UniProtKB	Mutagenesis	333	333	.	.	.	Note=Decreases manganese efflux activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
+Q6XR72	UniProtKB	Mutagenesis	350	350	.	.	.	Note=Decreases manganese efflux activity. H->A;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:27307044;Dbxref=PMID:27307044	
