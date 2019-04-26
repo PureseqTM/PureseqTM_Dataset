@@ -1,14 +1,14 @@
 # Discrinimation dataset
-Here we provide two datasets for the purpose of discrmination of transmembrane (TM) and non-transmembrane (non-TM):
+Here we provide two datasets for the purpose of discrmination of transmembrane proteins (TPs) and non-transmembrane proteins (non-TPs):
 ```
-   (i)  440 dataset for TM , and
-   (ii) 6418 dataset for non-TM.
+   (i)  440 dataset for TPs, and
+   (ii) 6418 dataset for non-TPs.
 ```
-Note that the TM dataset only contains alpha-helix TM proteins.
+Note that the TP dataset only contains alpha-helix TP proteins.
 
 
 # Data description
-Below we describe the details in each dataset (use XX to indicate '440_TM' and '6418_nonTM' in TM_dataset and nonTM_dataset, respectively)
+Below we describe the details in each dataset (use XX to indicate '440_TP' and '6418_nonTP' in TP_dataset and nonTP_dataset, respectively)
 
 ```
 1) data list:
@@ -28,13 +28,18 @@ Below we describe the details in each dataset (use XX to indicate '440_TM' and '
 ```
 
 
-Note that for TM_dataset, we additionally provide the ground-truth label from PDBTM:
+Note that for TP_dataset, we additionally provide the ground-truth label from PDBTM:
 ```
-   440_TM_pdbtm       -> the 9-state TM topology label
+   440_TP_pdbtm       -> the 9-state PDBTM topology label
 ```
 
-To transfer 9-state from PDBTM to 2-state TM topology label, run the below command:
+To transfer from 9-state PDBTM label to 2-state TM topology label, run the below command:
 ```
    ../util/pdbtm2binary.py 'input_pdbtm' > 'output_topology'
+```
+
+Type the below command to evaluate the performance of the 4 methods:
+```
+   ./evaluate_total
 ```
 
