@@ -1,5 +1,5 @@
-# Discrinimation dataset
-Here we provide two datasets for the purpose of discrmination of transmembrane proteins (TPs) and non-transmembrane proteins (non-TPs):
+# Discrimination dataset
+Here we provide two datasets for the purpose of discriminating transmembrane proteins (TPs) and non-transmembrane proteins (non-TPs):
 ```
    (i)  440 dataset for TPs, and
    (ii) 6418 dataset for non-TPs.
