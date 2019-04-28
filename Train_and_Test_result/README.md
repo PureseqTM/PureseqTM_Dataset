@@ -18,7 +18,7 @@ Below we describe the details in each dataset (use XX to indicate '328' and '39'
    XX_fasta    -> the L*1 amino acide sequence
 
 3) transmembrane topology label (9-state) from PDBTM annotation:
-   XX_pdbtm    -> the L*1 ground-truth
+   XX_pdbtm    -> the L*1 ground-truth from PDBTM
 
 4) transmembrane topology label (2-state) only considering alpha helix:
    XX_truth    -> the L*1 ground-truth
@@ -37,7 +37,7 @@ Note that for Train_dataset, we additional provide the training list and validat
    164_validate_list  -> the data for validating our method during training
 ```
 
-To transfer 9-state from PDBTM to 2-state TM topology label, run the below command:
+To transfer from 9-state PDBTM label to 2-state TM topology label, run the below command:
 ```
    ../util/pdbtm2binary.py 'input_pdbtm' > 'output_topology'
 ```
