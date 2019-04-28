@@ -11,3 +11,8 @@ The datasets for training and testing PureseqTM can be found here. In addition, 
 | source_code,util      | source code for evaluation and label generation.  |
 
 
+# UniProt Human membrane proteome
+Given a UniProt ID (e.g., Q9UMS5), users may find the prediction result of PureseqTM by the following link:
+http://pureseqtm.predmp.com/view.html?id=Q9UMS5_PureTM&name=Q9UMS5
+![alt text](http://18.209.146.171:8081/site_media/data/Q9UMS5_PureTM/Q9UMS5.png "Q9UMS5 result")
+
