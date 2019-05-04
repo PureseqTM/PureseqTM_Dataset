@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #---- to evaluate the prediction results, please type the following command -----#
-xx=6418_nonTP
+xx=440_TMP
 for method in purestm phobius philius topcons
 do
 	rm -f ${xx}_${method}_reso

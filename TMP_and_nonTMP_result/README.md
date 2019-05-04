@@ -1,14 +1,14 @@
 # Discrimination dataset
-Here we provide two datasets for the purpose of discriminating transmembrane proteins (TPs) and non-transmembrane proteins (non-TPs):
+Here we provide two datasets for the purpose of discriminating transmembrane proteins (TMPs) and non-transmembrane proteins (non-TMPs):
 ```
-   (i)  440 dataset for TPs, and
-   (ii) 6418 dataset for non-TPs.
+   (i)  440 dataset for TMPs, and
+   (ii) 6418 dataset for non-TMPs.
 ```
-Note that the TP dataset only contains alpha-helix TP proteins.
+Note that the TMP dataset only contains alpha-helix TMP proteins.
 
 
 # Data description
-Below we describe the details in each dataset (use XX to indicate '440_TP' and '6418_nonTP' in TP_dataset and nonTP_dataset, respectively)
+Below we describe the details in each dataset (use XX to indicate '440_TMP' and '6418_nonTMP' in TMP_dataset and nonTMP_dataset, respectively)
 
 ```
 1) data list:
@@ -28,9 +28,9 @@ Below we describe the details in each dataset (use XX to indicate '440_TP' and '
 ```
 
 
-Note that for TP_dataset, we additionally provide the ground-truth label from PDBTM:
+Note that for TMP_dataset, we additionally provide the ground-truth label from PDBTM:
 ```
-   440_TP_pdbtm       -> the 9-state PDBTM topology label
+   440_TMP_pdbtm       -> the 9-state PDBTM topology label
 ```
 
 To transfer from 9-state PDBTM label to 2-state TM topology label, run the below command:
