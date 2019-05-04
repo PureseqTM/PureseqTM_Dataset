@@ -6,7 +6,7 @@ The datasets for training and testing PureseqTM can be found here. In addition, 
 | ------------- | ------------- |
 | pdbtm_database        | ground-truth labeling from [PDBTM](http://pdbtm.enzim.hu/) database. |
 | Train_and_Test_result | training and testing set, also include the prediction results from the four methods. |
-| TP_and_nonTP_result   | dataset for discrinating Transmembrane Proteins (TPs) and non-TPs. |
+| TMP_and_nonTMP_result | dataset for discrinating Transmembrane Proteins (TMPs) and non-TMPs. |
 | Human_proteome_result | human proteome dataset from [UniProt](https://www.uniprot.org/). |
 | source_code,util      | source code for evaluation and label generation.  |
 
